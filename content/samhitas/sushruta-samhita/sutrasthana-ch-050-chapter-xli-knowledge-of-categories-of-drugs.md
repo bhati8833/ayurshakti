@@ -20,15 +20,9 @@ This chapter from **Sushruta Samhita (Sutrasthana)** represents the classical su
 
 ---
 
-
 Sushruta Samhita, volume 1: Sutrasthana
 
-by Kaviraj Kunja Lal Bhishagratna | 1907 | 148,756 words
-
 This current book, the Sutra-sthana (english translation), is the first part of this voluminous medical work. It contains a large summary of the knowledge envelopig the medical aspects of Ayurveda. Descriptions of diseases, various diets and drugs, the duties of a surgeon, surgical procedures, medical training; these are only some of the numerous s...
-
-Go directly to: 
-Footnotes.
 
 Chapter XLI - Knowledge of categories of drugs
 
@@ -79,10 +73,6 @@ Authoritative verse on the subject:—
 Properties, which characterise drugs and substances, may be as well found in a human organism, and the normal continuance, aggravation or diminution of the deranged humours is due to the action of the drugs (substances).
 
 Thus ends the forty-first Chapter of the Sutrasthana in the Sushruta Samhita which treats of specific properties of drugs.
-
-Footnotes and references:
-
-[back to top]
 
 [1]:
 

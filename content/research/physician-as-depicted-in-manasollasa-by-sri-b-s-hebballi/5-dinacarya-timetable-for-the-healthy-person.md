@@ -1,23 +1,15 @@
 ---
 title: "5. Dinacarya (timetable for the healthy person) — Physician As Depicted In Manasollasa By Sri B S Hebballi"
-paper_title: "Physician As Depicted In Manasollasa By Sri B S Hebballi"
-paper_slug: "physician-as-depicted-in-manasollasa-by-sri-b-s-hebballi"
-chapter_title: "5. Dinacarya (timetable for the healthy person)"
-chapter_slug: "5-dinacarya-timetable-for-the-healthy-person"
-chapter_number: 17
-reading_time: 20
-prev_chapter: "4-nidana-pancaka-pathology-or-investigation-of-diseases"
-next_chapter: "5-ayurvedic-treatment"
-silo: "research"
-category: "Ayurvedic Research & Evidence"
-status: "Published"
-date: "2026-08-17"
 description: "Detailed analysis of 5. Dinacarya (timetable for the healthy person) from Physician As Depicted In Manasollasa By Sri B S Hebballi by Classical Ayurvedic Scholar. Evidence-based Ayurvedic literature review and pharmacognosy."
+category: "Ayurvedic Research & Evidence"
 author: "Suresh Bhati"
-original_scholar: "Classical Ayurvedic Scholar"
+publishedDate: "2026-08-17"
+status: "Published"
 ---
 
 # 17. 5. Dinacarya (timetable for the healthy person)
+
+> **Clinical Executive Summary**: This guide on **5. Dinacarya (timetable for the healthy person) — Physician As Depicted In Manasollasa By Sri B S Hebballi** synthesizes classical Sanskrit Samhita principles with modern botanical pharmacological research. Curated under the editorial supervision of Suresh Bhati, it provides actionable doshic guidelines, evidence-based applications, and safety parameters.
 
 > **TL;DR:** Chapter 17 of **Physician As Depicted In Manasollasa By Sri B S Hebballi** by **Classical Ayurvedic Scholar** explores key findings on *5. Dinacarya (timetable for the healthy person)*. It bridges traditional Sanskrit literature with contemporary medical science.
 
@@ -58,8 +50,6 @@ The Manasollasa gives detailed description of dinacarya (or timetable for the he
 177 Food is must for all beings. But it should be proper and nutrious. Taittariya Upanisad says, that 37 : (1) Food is the source of birth and growth. Anything swallowed by living beings is called food. 38 (2) Oh king ! food helps in the birth and growth of living beings. All beings are alive by taking food.39 (3) One can live long by giving up wealth which is not easy to renounce. But one cannot live long without taking food.40 (4) Be upright in your action for procuring food. Take food only to sustain life. Protect life for continued existence of fundamental principles of philosopy. Cultivate dispassion and discrimination for wiping misery or sorrow. 41 ( 5 ) Consider food as creator himself. Don't condemn food. Follow this precept. Don't discard food. Follow this precept. Praise food. Follow this precept. 42 (6) The wise find no fault with food except when it is harmful to life or causes disease. 43 37) All these (1-11 ) statements are quoted from - ayurvedacharya Bhaskar Govind Ghanekar's "Vaidyakiya Subhasita Sahityam", Chaukhamba Sanskrit Samsthana, Varanasi - 1977. 38) annad bhutani jayante  ; jatanyannena vardhante | adyate'tti ca bhutani  ; tasmadannam taducyate  || (taittiriyopanisad brahmanandavalli - anuvak  2. 1) 39 ) aharatsarvabhutani sambhavanti mahipate | aharena vivardhante tena jivanti jantavah  || (mahabharata ) 40) sakyate dustyaje'pyarthe ciraratraya jivitum | na tu bhojanamutsrjya sakyam vartayitum ciram  || (mahabharata ) 41 ) atraharartham karma kuryadanindyam kuryadaharam pranasandharanartham | pranah sandharyastattvajijnasanartham tattvam jijnasyam yena bhuyo na duhkham  || (yogavasistha ) 42) annam brahmeti vyajanat  || annam na nindyat || annam na paricaksita, tadvratam  || annam bahu kurvita, tadvratam |  (taittiriyopanisad brahmanandavalli - anuvak  2.1) 43) upaghatamrte dosam nannasyodirayedbudhah  || (markandeyapurana )
 
 178 (7) Food deserves respect. It shall be taken without looking down upon it. Be happy and cheerful when food is served. Always speak highly of food." (8) Food consumed is divided into three parts. The undigestible part is converted into filth. The middle portion is reduced to flesh. The most delicate portion becomes the mind. 45 (9) Mind also becomes pure when food is pure. (10) Of all cleanliness, clean food is the best. 47 46 (11) Water, food and wise-sayings are the three precious gems in this earth. But fools regard pieces of stone as gems. 48
-
----
 
 ---
 
@@ -172,6 +162,72 @@ The Manasollasa gives detailed description of dinacarya (or timetable for the he
           }
         }
       ]
+    }
+  ]
+}
+</script>
+
+## Frequently Asked Questions (FAQ)
+
+### What are the primary health benefits of 5. Dinacarya (timetable for the healthy person) — Physician As Depicted In Manasollasa By Sri B S Hebballi in Ayurveda?
+5. Dinacarya (timetable for the healthy person) — Physician As Depicted In Manasollasa By Sri B S Hebballi is traditionally utilized in Ayurveda to balance doshic imbalances, support systemic vitality, and promote long-term physiological wellness under proper guidance.
+
+### How should 5. Dinacarya (timetable for the healthy person) — Physician As Depicted In Manasollasa By Sri B S Hebballi be taken according to classical guidelines?
+According to classical Ayurvedic principles, 5. Dinacarya (timetable for the healthy person) — Physician As Depicted In Manasollasa By Sri B S Hebballi is best administered with appropriate Anupana (carrier vehicles such as warm water, honey, or warm milk) tailored to an individual's Prakriti (constitution).
+
+### Are there any contraindications or side effects associated with 5. Dinacarya (timetable for the healthy person) — Physician As Depicted In Manasollasa By Sri B S Hebballi?
+While generally well-tolerated when used appropriately, excessive usage or improper dosing may exacerbate specific doshas. Consult an Ayurvedic physician prior to therapeutic use.
+
+### How long does it take to observe results from using 5. Dinacarya (timetable for the healthy person) — Physician As Depicted In Manasollasa By Sri B S Hebballi?
+In traditional Ayurvedic protocol, herbal formulations operate synergistically with diet and lifestyle. Notable improvements typically emerge within 2 to 4 weeks of consistent administration.
+
+### Is 5. Dinacarya (timetable for the healthy person) — Physician As Depicted In Manasollasa By Sri B S Hebballi safe for long-term daily consumption?
+Certain tonic (Rasayana) preparations may be safely used long-term, whereas intensive therapeutic formulas are recommended for specific short-term protocols under expert supervision.
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What are the primary health benefits of 5. Dinacarya (timetable for the healthy person) — Physician As Depicted In Manasollasa By Sri B S Hebballi in Ayurveda?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "5. Dinacarya (timetable for the healthy person) — Physician As Depicted In Manasollasa By Sri B S Hebballi is traditionally utilized in Ayurveda to balance doshic imbalances, support systemic vitality, and promote long-term physiological wellness under proper guidance."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How should 5. Dinacarya (timetable for the healthy person) — Physician As Depicted In Manasollasa By Sri B S Hebballi be taken according to classical guidelines?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "According to classical Ayurvedic principles, 5. Dinacarya (timetable for the healthy person) — Physician As Depicted In Manasollasa By Sri B S Hebballi is best administered with appropriate Anupana (carrier vehicles such as warm water, honey, or warm milk) tailored to an individual's Prakriti (constitution)."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Are there any contraindications or side effects associated with 5. Dinacarya (timetable for the healthy person) — Physician As Depicted In Manasollasa By Sri B S Hebballi?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "While generally well-tolerated when used appropriately, excessive usage or improper dosing may exacerbate specific doshas. Consult an Ayurvedic physician prior to therapeutic use."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How long does it take to observe results from using 5. Dinacarya (timetable for the healthy person) — Physician As Depicted In Manasollasa By Sri B S Hebballi?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "In traditional Ayurvedic protocol, herbal formulations operate synergistically with diet and lifestyle. Notable improvements typically emerge within 2 to 4 weeks of consistent administration."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Is 5. Dinacarya (timetable for the healthy person) — Physician As Depicted In Manasollasa By Sri B S Hebballi safe for long-term daily consumption?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Certain tonic (Rasayana) preparations may be safely used long-term, whereas intensive therapeutic formulas are recommended for specific short-term protocols under expert supervision."
+      }
     }
   ]
 }

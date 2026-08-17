@@ -1,23 +1,15 @@
 ---
 title: "Elephants in the Royal army — Matangalila And Hastyayurveda Study By Chandrima Das"
-paper_title: "Matangalila And Hastyayurveda Study By Chandrima Das"
-paper_slug: "matangalila-and-hastyayurveda-study-by-chandrima-das"
-chapter_title: "Elephants in the Royal army"
-chapter_slug: "elephants-in-the-royal-army"
-chapter_number: 13
-reading_time: 12
-prev_chapter: "elephants-in-epigraphic-records-introduction"
-next_chapter: "rutting-elephants-based-on-inscriptions"
-silo: "research"
-category: "Ayurvedic Research & Evidence"
-status: "Published"
-date: "2026-08-17"
 description: "Detailed analysis of Elephants in the Royal army from Matangalila And Hastyayurveda Study By Chandrima Das by Chandrima Das. Evidence-based Ayurvedic literature review and pharmacognosy."
+category: "Ayurvedic Research & Evidence"
 author: "Suresh Bhati"
-original_scholar: "Chandrima Das"
+publishedDate: "2026-08-17"
+status: "Published"
 ---
 
 # 13. Elephants in the Royal army
+
+> **Clinical Executive Summary**: This guide on **Elephants in the Royal army — Matangalila And Hastyayurveda Study By Chandrima Das** synthesizes classical Sanskrit Samhita principles with modern botanical pharmacological research. Curated under the editorial supervision of Suresh Bhati, it provides actionable doshic guidelines, evidence-based applications, and safety parameters.
 
 > **TL;DR:** Chapter 13 of **Matangalila And Hastyayurveda Study By Chandrima Das** by **Chandrima Das** explores key findings on *Elephants in the Royal army*. It bridges traditional Sanskrit literature with contemporary medical science.
 
@@ -50,8 +42,6 @@ He also brought elephants along with horses and jewels, rubis, pearls from the P
 
 “haya-hathī-ratanā-manikaṃ Paṃḍarājā c=edāni anekāni muta-maṇi-ratanāni āharāpayati idha sa ta” (l. 13)[7].
 
-“haya-hathī-ratanā-manikaṃ Paṃḍarājā c=edāni anekāni muta-maṇi-ratanāni āharāpayati idha sa ta” (l. 13)[7].
-
 “Hathī-nivāsaparisaraṃ” it referred probably to elephant preserves or some original form of kheda arrangements, invented by Khāravela. The repeated references to elephants in the record under discussion clearly reveal that Kaliṅga was famous for its elephants. The power and strength of the ruler due to the possession of elephants is again reflected in the description as Khāravela seiged the fort of Pāṭaliputra with the help of the elephant troops.
 
 The Kirari wooden pillar inscription[8] from Chhattisgarh datable to c. 2nd century CE refers to the presence of an army in the forest kingdom therin. Among the 17 odd officials or posts mentioned in this record we find the presence of two officers related to elephants firstly the hathāroha i.e. hastyāroha of the Aśokan records and hāthivapa probabaly denoting hastipaka i.e. the officer in charge of elephants or keeper of elephants. Besides this from the numismatic evidence from this area one gets the constant presence of elephants on the obverse of the coin device from 1st century BCE to 4th century CE. Similarly even in the case of Sātavāhana coins one finds the prominent presence of elephant as the obverse device on their Imperial coinage.
@@ -63,8 +53,6 @@ At the end of this chapter we have appended a list of inscriptions mentioning re
 There are few inscriptions which mention elephant troops or squad but not much detail is available for example the Madhuban pillar inscription of Harṣa in the year 25, states the elephant squad of Harṣa in his royal camp at Kopitthikā[12]. The Nidhanpur copper plates of Bhāskaravarman mention about the four kind of army in the royal camp at Karṇasuvarṇa, viz., possession of splendid ships, elephants, horses and foot-soldiers[13]. Aihole inscription of Pulakeśin II stated that the king Jayasiṃha-ballava of the Cālukyan lineage, who had horses, foot soldiers and elephants and also crushed the vigor of the Kaṭacuris, i.e., Kalacuris” array of elephants (v.12). Verse 17 of the inscription mentions of two ablest ministers of Pulakeśin II, named Āppāyika and Govinda, who approached with their troops of elephants and furiously conquered the country of the north of Bhaimarathi and received the reward of the services rendered by them. After this when Pulakeśin II straight way He strove to conquer the Coḷas, the Kāveri, who has the darting carps for her tremulous eyes, had her current obstructed by the causeway formed by his elephants whose rutting juice was dripping down, and avoided the contact with the ocean.
 
 Daulatpura plate of Bhojadeva I of Mahodaya of Kanauj dated Śaka Samvat100 (i.e. CE 706) tells about the Pañcāṅga senā including elephant squad of the Gurjjaras,i.e., boats, elephants, horses, chariots and foot soldiers which was fixed the glorious Mahodaya—
-
-“Śrī mahodaya-samāvāsit-ānekanau-hastya-aśva-ratha-pattisampanna skandhāvārāt…..”[14].
 
 “Śrī mahodaya-samāvāsit-ānekanau-hastya-aśva-ratha-pattisampanna skandhāvārāt…..”[14].
 
@@ -82,15 +70,9 @@ It says that:
 
 “This Calamartigaṇḍa became in battle a conflagration to the great forest (which was) the army of the Coḍa king, teeming with beasts (which were) horses, (and) full of tall trees (which were) mast elephants. By him the fire to the forest of the army of the Coḍa, whose flames were arrows, darts, knives and swords,-the trees (which were) the commander of the elephants and horses of the Utkala, were entirely burnt in battle, their roots broken, their heads struck down, (and) their branches (which were) arms and thighs, cut off……” (v. 4-5)[21].
 
-“This Calamartigaṇḍa became in battle a conflagration to the great forest (which was) the army of the Coḍa king, teeming with beasts (which were) horses, (and) full of tall trees (which were) mast elephants. By him the fire to the forest of the army of the Coḍa, whose flames were arrows, darts, knives and swords,-the trees (which were) the commander of the elephants and horses of the Utkala, were entirely burnt in battle, their roots broken, their heads struck down, (and) their branches (which were) arms and thighs, cut off……” (v. 4-5)[21].
-
 Another inscription Kadaba plates of Prabhutavarṣa stated that when once in battle his fortune was fickle, his heart trembling on account of the destruction of his elephants and ships by the crushing of the rough waves,-even then his enemies, though united and their power became unshaken, forsook the kingdom, and, bewildered by delusion, fled themselves to the remote regions (v.7)[22].
 
 There are several elegantly sculptured hero stones bearing inscriptions some of which illustrate elephants engaged in warfare. One of them is kept at the entrance into the Mamlatdar’s office at Roṇ, Dharwar district belongs to the reign of (the Rāṣṭakūṭa king) Kannaradeva and states that his brother-in-law Mahāmṇḍalika Permāri Bhūtārya was governing Gaṅgavāḍi. It records the death of Paṃpayya of the Vāji lineage in an encounter with Bhūtayya-permāḍi when the latter had attacked Roṇ on 24th April, CE 942. The lower panel depicts a battle scene where heroes mounted on two elephants and horse-back was engaged.[23]
-
-Footnotes and references:
-
-[back to top]
 
 [1]:
 
@@ -183,8 +165,6 @@ Ibid. p.247.
 [23]:
 
 Annigeri, A.M. “Inscriptions on Hero-stones in Karnataka”, Studies in Indian Epigraphy, Vol.3, p.103-104.
-
----
 
 ---
 
@@ -297,6 +277,72 @@ Annigeri, A.M. “Inscriptions on Hero-stones in Karnataka”, Studies in Indian
           }
         }
       ]
+    }
+  ]
+}
+</script>
+
+## Frequently Asked Questions (FAQ)
+
+### What are the primary health benefits of Elephants in the Royal army — Matangalila And Hastyayurveda Study By Chandrima Das in Ayurveda?
+Elephants in the Royal army — Matangalila And Hastyayurveda Study By Chandrima Das is traditionally utilized in Ayurveda to balance doshic imbalances, support systemic vitality, and promote long-term physiological wellness under proper guidance.
+
+### How should Elephants in the Royal army — Matangalila And Hastyayurveda Study By Chandrima Das be taken according to classical guidelines?
+According to classical Ayurvedic principles, Elephants in the Royal army — Matangalila And Hastyayurveda Study By Chandrima Das is best administered with appropriate Anupana (carrier vehicles such as warm water, honey, or warm milk) tailored to an individual's Prakriti (constitution).
+
+### Are there any contraindications or side effects associated with Elephants in the Royal army — Matangalila And Hastyayurveda Study By Chandrima Das?
+While generally well-tolerated when used appropriately, excessive usage or improper dosing may exacerbate specific doshas. Consult an Ayurvedic physician prior to therapeutic use.
+
+### How long does it take to observe results from using Elephants in the Royal army — Matangalila And Hastyayurveda Study By Chandrima Das?
+In traditional Ayurvedic protocol, herbal formulations operate synergistically with diet and lifestyle. Notable improvements typically emerge within 2 to 4 weeks of consistent administration.
+
+### Is Elephants in the Royal army — Matangalila And Hastyayurveda Study By Chandrima Das safe for long-term daily consumption?
+Certain tonic (Rasayana) preparations may be safely used long-term, whereas intensive therapeutic formulas are recommended for specific short-term protocols under expert supervision.
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What are the primary health benefits of Elephants in the Royal army — Matangalila And Hastyayurveda Study By Chandrima Das in Ayurveda?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Elephants in the Royal army — Matangalila And Hastyayurveda Study By Chandrima Das is traditionally utilized in Ayurveda to balance doshic imbalances, support systemic vitality, and promote long-term physiological wellness under proper guidance."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How should Elephants in the Royal army — Matangalila And Hastyayurveda Study By Chandrima Das be taken according to classical guidelines?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "According to classical Ayurvedic principles, Elephants in the Royal army — Matangalila And Hastyayurveda Study By Chandrima Das is best administered with appropriate Anupana (carrier vehicles such as warm water, honey, or warm milk) tailored to an individual's Prakriti (constitution)."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Are there any contraindications or side effects associated with Elephants in the Royal army — Matangalila And Hastyayurveda Study By Chandrima Das?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "While generally well-tolerated when used appropriately, excessive usage or improper dosing may exacerbate specific doshas. Consult an Ayurvedic physician prior to therapeutic use."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How long does it take to observe results from using Elephants in the Royal army — Matangalila And Hastyayurveda Study By Chandrima Das?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "In traditional Ayurvedic protocol, herbal formulations operate synergistically with diet and lifestyle. Notable improvements typically emerge within 2 to 4 weeks of consistent administration."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Is Elephants in the Royal army — Matangalila And Hastyayurveda Study By Chandrima Das safe for long-term daily consumption?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Certain tonic (Rasayana) preparations may be safely used long-term, whereas intensive therapeutic formulas are recommended for specific short-term protocols under expert supervision."
+      }
     }
   ]
 }

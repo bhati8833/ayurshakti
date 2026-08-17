@@ -20,17 +20,11 @@ This chapter from **Sushruta Samhita (Sharirasthana)** represents the classical 
 
 ---
 
-
 Sushruta Samhita, volume 3: Sharirasthana
-
-by Kaviraj Kunja Lal Bhishagratna | 1911 | 36,821 words
 
 This current book, the Sharira-sthana (english translation), deals with anatomy, the human body, cosmology, embryology and various other subjects.
 
 The Sushruta Samhita is the most representative work of the Hindu system of medicine. It embraces all that can possibly appertain to the science of medicine. Susruta-samhita is recognized as the first a...
-
-Go directly to: 
-Footnotes.
 
 Chapter IX - The description of the arteries, nerves and ducts
 
@@ -73,10 +67,6 @@ Metrical Text:—
 The ducts emanating from the cavity of the heart, other than the Siras (veins), Dhamanis (arteries), and found to course through the whole body, are called Srotas (lit. channels or currents). 13.
 
 Thus ends the ninth Chapter of the Sharira Sthana in the Sushruta Samhita which treats of the descriptions of the arteries, ducts and nerves.
-
-Footnotes and references:
-
-[back to top]
 
 [1]:
 

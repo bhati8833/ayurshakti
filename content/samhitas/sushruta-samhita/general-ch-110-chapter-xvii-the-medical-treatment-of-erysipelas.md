@@ -20,17 +20,11 @@ This chapter from **Sushruta Samhita (Chikitsasthana)** represents the classical
 
 ---
 
-
 Sushruta Samhita, volume 4: Cikitsasthana
-
-by Kaviraj Kunja Lal Bhishagratna | 1911 | 123,229 words
 
 This current book, the Chikitsa-sthana (english translation), deals with therapeutics, surgical emergencies, geriatrics, aphrodisiacs and various other subjects.
 
 The Sushruta Samhita is the most representative work of the Hindu system of medicine. It embraces all that can possibly appertain to the science of medicine. Susruta-samhita is recognized...
-
-Go directly to: 
-Footnotes.
 
 Chapter XVII - The medical treatment of erysipelas
 
@@ -91,10 +85,6 @@ In cases of a derangement of the milk (of the breast) a draught of clarified but
 The above are the general remedial measures which are to be adopted in the affections of breast-milk. Any other defect in the breast-milk should be corrected specially with an eye to the nature of the Dosha involved in the case. In cases of inflammatory swellings of the breasts, the physician should remedy them by means of any one of the various measures laid down under the head of Vidradhi with a due consideration to the requirements of each particular case. Medicinal remedies should only be internally employed and no poultices should be applied for the speedy suppuration of the swelling of the breast, even if found to have already commenced to suppurate; since the breasts are of an extremely soft and fleshy growth, any tight bandaging about those parts may be followed by local sloughing or even bursting. In a case where suppuration had already taken place, an operation should be made in the affected part, avoiding the milk-carrying veins as well as the nipple with its black surroundings. In all the cases of Stana-Vidradhi—whether non-suppurated, suppurating, or suppurated—the milk should be pressed out from the breast of the Dhatri[16] 27-29.
 
 Thus ends the Seventeenth Chapter of the Chikitsita Sthana in the Sushruta Samhita which deals with the treatment of erysipelas, sinus and the diseases of the mammary glands.
-
-Footnotes and references:
-
-[back to top]
 
 [1]:
 

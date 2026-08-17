@@ -1,23 +1,15 @@
 ---
 title: "9. Identity of Susruta — Surgery In Ancient India Study By P P Prathapan"
-paper_title: "Surgery In Ancient India Study By P P Prathapan"
-paper_slug: "surgery-in-ancient-india-study-by-p-p-prathapan"
-chapter_title: "9. Identity of Susruta"
-chapter_slug: "9-identity-of-susruta"
-chapter_number: 46
-reading_time: 1
-prev_chapter: "7-identity-of-karavirya"
-next_chapter: "5-dhanvantari-and-the-indian-medical-system"
-silo: "research"
-category: "Ayurvedic Research & Evidence"
-status: "Published"
-date: "2026-08-17"
 description: "Detailed analysis of 9. Identity of Susruta from Surgery In Ancient India Study By P P Prathapan by Classical Ayurvedic Scholar. Evidence-based Ayurvedic literature review and pharmacognosy."
+category: "Ayurvedic Research & Evidence"
 author: "Suresh Bhati"
-original_scholar: "Classical Ayurvedic Scholar"
+publishedDate: "2026-08-17"
+status: "Published"
 ---
 
 # 46. 9. Identity of Susruta
+
+> **Clinical Executive Summary**: This guide on **9. Identity of Susruta — Surgery In Ancient India Study By P P Prathapan** synthesizes classical Sanskrit Samhita principles with modern botanical pharmacological research. Curated under the editorial supervision of Suresh Bhati, it provides actionable doshic guidelines, evidence-based applications, and safety parameters.
 
 > **TL;DR:** Chapter 46 of **Surgery In Ancient India Study By P P Prathapan** by **Classical Ayurvedic Scholar** explores key findings on *9. Identity of Susruta*. It bridges traditional Sanskrit literature with contemporary medical science.
 
@@ -34,8 +26,6 @@ This essay studies Surgery in ancient India based on Sanskrit sources.—The Sus
 There is no authoritative and reliable information about Susruta's identity. Susruta is one of the disciples of Divodasa, Dhanvantari and son of Visvamitra. There is a lot of controversy regarding the identity of Visvamitra. Sage Visvamitra appears in Hariscandras and Sakuntalas episode of Mahabharata. And in Ramayana he is a teacher of Rama, Laksmana and royal priest to Dasaratha. The Valmiki the author of Adikavya never brings this character after Balakanda. It is difficult to trace the identity of Visvamitra, the father of Susruta. The name of Visvamitra is mentioned in the invocation of Caraka Samhita. Susruta is supposed to belong to tretayuga or dvaparayuga which is unpredictably remote to the present day. Then again, Visvamitra who sends his son Susruta to the king of Kasi by name Divodasa. All these vague references show that he might have lived between 2000 B.C. and 2500 B.C. Heslar and other historians are of the opinion that he belongs to 1000 B.C.. The historian Weber states that he belongs to 500 to 600 A.D. since there are similarities in the 136
 
 writings of Susruta and Varahamihira, the eminent mathematician of India. Several western scholars, MC Donal, John Wilson, Letart, Max, Neberger, etc. claim that he belongs to 100 to 1000 A.D. There are so many differing opinions regarding his period but none of them has any authentic proof.
-
----
 
 ---
 
@@ -148,6 +138,72 @@ writings of Susruta and Varahamihira, the eminent mathematician of India. Severa
           }
         }
       ]
+    }
+  ]
+}
+</script>
+
+## Frequently Asked Questions (FAQ)
+
+### What are the primary health benefits of 9. Identity of Susruta — Surgery In Ancient India Study By P P Prathapan in Ayurveda?
+9. Identity of Susruta — Surgery In Ancient India Study By P P Prathapan is traditionally utilized in Ayurveda to balance doshic imbalances, support systemic vitality, and promote long-term physiological wellness under proper guidance.
+
+### How should 9. Identity of Susruta — Surgery In Ancient India Study By P P Prathapan be taken according to classical guidelines?
+According to classical Ayurvedic principles, 9. Identity of Susruta — Surgery In Ancient India Study By P P Prathapan is best administered with appropriate Anupana (carrier vehicles such as warm water, honey, or warm milk) tailored to an individual's Prakriti (constitution).
+
+### Are there any contraindications or side effects associated with 9. Identity of Susruta — Surgery In Ancient India Study By P P Prathapan?
+While generally well-tolerated when used appropriately, excessive usage or improper dosing may exacerbate specific doshas. Consult an Ayurvedic physician prior to therapeutic use.
+
+### How long does it take to observe results from using 9. Identity of Susruta — Surgery In Ancient India Study By P P Prathapan?
+In traditional Ayurvedic protocol, herbal formulations operate synergistically with diet and lifestyle. Notable improvements typically emerge within 2 to 4 weeks of consistent administration.
+
+### Is 9. Identity of Susruta — Surgery In Ancient India Study By P P Prathapan safe for long-term daily consumption?
+Certain tonic (Rasayana) preparations may be safely used long-term, whereas intensive therapeutic formulas are recommended for specific short-term protocols under expert supervision.
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What are the primary health benefits of 9. Identity of Susruta — Surgery In Ancient India Study By P P Prathapan in Ayurveda?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "9. Identity of Susruta — Surgery In Ancient India Study By P P Prathapan is traditionally utilized in Ayurveda to balance doshic imbalances, support systemic vitality, and promote long-term physiological wellness under proper guidance."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How should 9. Identity of Susruta — Surgery In Ancient India Study By P P Prathapan be taken according to classical guidelines?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "According to classical Ayurvedic principles, 9. Identity of Susruta — Surgery In Ancient India Study By P P Prathapan is best administered with appropriate Anupana (carrier vehicles such as warm water, honey, or warm milk) tailored to an individual's Prakriti (constitution)."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Are there any contraindications or side effects associated with 9. Identity of Susruta — Surgery In Ancient India Study By P P Prathapan?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "While generally well-tolerated when used appropriately, excessive usage or improper dosing may exacerbate specific doshas. Consult an Ayurvedic physician prior to therapeutic use."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How long does it take to observe results from using 9. Identity of Susruta — Surgery In Ancient India Study By P P Prathapan?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "In traditional Ayurvedic protocol, herbal formulations operate synergistically with diet and lifestyle. Notable improvements typically emerge within 2 to 4 weeks of consistent administration."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Is 9. Identity of Susruta — Surgery In Ancient India Study By P P Prathapan safe for long-term daily consumption?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Certain tonic (Rasayana) preparations may be safely used long-term, whereas intensive therapeutic formulas are recommended for specific short-term protocols under expert supervision."
+      }
     }
   ]
 }

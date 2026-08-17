@@ -20,17 +20,11 @@ This chapter from **Sushruta Samhita (Uttaratantra)** represents the classical s
 
 ---
 
-
 Sushruta Samhita, Volume 6: Uttara-tantra
-
-by Kaviraj Kunja Lal Bhishagratna | 1916 | 113,078 words
 
 This current book, the Uttara-tantra (english translation) is the supplementary part of the Sushrutasamhita and deals various subjects such as diseases of the eye, treatment of fever, diarrhea, diseases resulting from superhuman influences, insanity, rules of health etc.
 
 The Sushruta Samhita is the most representative work of the Hindu system of m...
-
-Go directly to: 
-Footnotes.
 
 Chapter LIV - Symptoms and Treatment of Worms (Krimi-roga)
 
@@ -85,10 +79,6 @@ Diet:—
 Meals composed of the articles of bitter and pungent tastes as well as draughts of milk mixed with the soup of Kulattha -pulse are recommended. A person suffering from any complaint due to the presence of worms (Krimi of whatever kind) and seeking their destruction, should refrain from using milk, cooked meat, clarified butter, curd, pot-herb (edible leaves), things of acid or sweet tastes as well as cold things in general. 18.
 
 Thus ends the fifty-fourth chapter in the Uttara-Tantra of the Sushruta Samhita which deals with the (symptoms and) treatment of Krimi-Roga.
-
-Footnotes and references:
-
-[back to top]
 
 [1]:
 

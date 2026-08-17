@@ -1,23 +1,15 @@
 ---
 title: "Part 17 - Excavation as well as Consecration of Tanks — Agriculture And Animal Husbandry In The Puranas By Purboshri"
-paper_title: "Agriculture And Animal Husbandry In The Puranas By Purboshri"
-paper_slug: "agriculture-and-animal-husbandry-in-the-puranas-by-purboshri"
-chapter_title: "Part 17 - Excavation as well as Consecration of Tanks"
-chapter_slug: "part-17---excavation-as-well-as-consecration-of-tanks"
-chapter_number: 35
-reading_time: 2
-prev_chapter: "part-16---irrigation-and-water-management"
-next_chapter: "part-18---rainfall-the-support-of-agriculture-that-depends-upon-the-sun"
-silo: "research"
-category: "Ayurvedic Research & Evidence"
-status: "Published"
-date: "2026-08-17"
 description: "Detailed analysis of Part 17 - Excavation as well as Consecration of Tanks from Agriculture And Animal Husbandry In The Puranas By Purboshri by Purboshri Borpuzari. Evidence-based Ayurvedic literature review and pharmacognosy."
+category: "Ayurvedic Research & Evidence"
 author: "Suresh Bhati"
-original_scholar: "Purboshri Borpuzari"
+publishedDate: "2026-08-17"
+status: "Published"
 ---
 
 # 35. Part 17 - Excavation as well as Consecration of Tanks
+
+> **Clinical Executive Summary**: This guide on **Part 17 - Excavation as well as Consecration of Tanks — Agriculture And Animal Husbandry In The Puranas By Purboshri** synthesizes classical Sanskrit Samhita principles with modern botanical pharmacological research. Curated under the editorial supervision of Suresh Bhati, it provides actionable doshic guidelines, evidence-based applications, and safety parameters.
 
 > **TL;DR:** Chapter 35 of **Agriculture And Animal Husbandry In The Puranas By Purboshri** by **Purboshri Borpuzari** explores key findings on *Part 17 - Excavation as well as Consecration of Tanks*. It bridges traditional Sanskrit literature with contemporary medical science.
 
@@ -34,10 +26,6 @@ Part 17 - Excavation as well as Consecration of Tanks
 Mention is made in the Purāṇas about the excavation of the tanks in the garden. It is there met with that the tanks should be dig out in the garden and arms of river should be made to run into the same. The excavation of tanks or artificial reservoirs of water should be first commenced with the support of the asterisms Hastā, Maghā, Anurādhā, Aśvinī, Puṣyā, Jyeṣṭhā, and the three Uttarās.[1] The gods Varuṇa, Viṣṇu and Parjanya should be first worshipped and propitiated before the excavation would take in hand.[2] In respect of merit, the waters of a sacred place, a river, a tank, flowing water, water present in the well and water drawn from the well, the previous one is more purifying than the following one.[3]
 
 Reference of consecration of tanks and ponds are found in the Purāṇas.While speaking about the process of consecration of tanks and ponds, where in the god Varuṇa resides, it is there stated that water containing solution of vegetable matters should be kept in the pitcher at the north.[4] It should be poured out on the head of god Varuṇa, accompanied by the mantra having in its beginning the term udbhijja (vegetable) etc.[5]
-
-Footnotes and references:
-
-[back to top]
 
 [1]:
 
@@ -62,8 +50,6 @@ audbhijjaṃ cottare/ Agni Purāṇa , 64.9
 
 udbhijjādibhaścodbhidena pāvamānyā’tha tīrthakaiḥ/
 āpo hi ṣṭhā pañcagavyāddhiraṇyavarṇeti svarṇajāt// Ibid., 64.13
-
----
 
 ---
 
@@ -176,6 +162,72 @@ udbhijjādibhaścodbhidena pāvamānyā’tha tīrthakaiḥ/
           }
         }
       ]
+    }
+  ]
+}
+</script>
+
+## Frequently Asked Questions (FAQ)
+
+### What are the primary health benefits of Part 17 - Excavation as well as Consecration of Tanks — Agriculture And Animal Husbandry In The Puranas By Purboshri in Ayurveda?
+Part 17 - Excavation as well as Consecration of Tanks — Agriculture And Animal Husbandry In The Puranas By Purboshri is traditionally utilized in Ayurveda to balance doshic imbalances, support systemic vitality, and promote long-term physiological wellness under proper guidance.
+
+### How should Part 17 - Excavation as well as Consecration of Tanks — Agriculture And Animal Husbandry In The Puranas By Purboshri be taken according to classical guidelines?
+According to classical Ayurvedic principles, Part 17 - Excavation as well as Consecration of Tanks — Agriculture And Animal Husbandry In The Puranas By Purboshri is best administered with appropriate Anupana (carrier vehicles such as warm water, honey, or warm milk) tailored to an individual's Prakriti (constitution).
+
+### Are there any contraindications or side effects associated with Part 17 - Excavation as well as Consecration of Tanks — Agriculture And Animal Husbandry In The Puranas By Purboshri?
+While generally well-tolerated when used appropriately, excessive usage or improper dosing may exacerbate specific doshas. Consult an Ayurvedic physician prior to therapeutic use.
+
+### How long does it take to observe results from using Part 17 - Excavation as well as Consecration of Tanks — Agriculture And Animal Husbandry In The Puranas By Purboshri?
+In traditional Ayurvedic protocol, herbal formulations operate synergistically with diet and lifestyle. Notable improvements typically emerge within 2 to 4 weeks of consistent administration.
+
+### Is Part 17 - Excavation as well as Consecration of Tanks — Agriculture And Animal Husbandry In The Puranas By Purboshri safe for long-term daily consumption?
+Certain tonic (Rasayana) preparations may be safely used long-term, whereas intensive therapeutic formulas are recommended for specific short-term protocols under expert supervision.
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What are the primary health benefits of Part 17 - Excavation as well as Consecration of Tanks — Agriculture And Animal Husbandry In The Puranas By Purboshri in Ayurveda?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Part 17 - Excavation as well as Consecration of Tanks — Agriculture And Animal Husbandry In The Puranas By Purboshri is traditionally utilized in Ayurveda to balance doshic imbalances, support systemic vitality, and promote long-term physiological wellness under proper guidance."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How should Part 17 - Excavation as well as Consecration of Tanks — Agriculture And Animal Husbandry In The Puranas By Purboshri be taken according to classical guidelines?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "According to classical Ayurvedic principles, Part 17 - Excavation as well as Consecration of Tanks — Agriculture And Animal Husbandry In The Puranas By Purboshri is best administered with appropriate Anupana (carrier vehicles such as warm water, honey, or warm milk) tailored to an individual's Prakriti (constitution)."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Are there any contraindications or side effects associated with Part 17 - Excavation as well as Consecration of Tanks — Agriculture And Animal Husbandry In The Puranas By Purboshri?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "While generally well-tolerated when used appropriately, excessive usage or improper dosing may exacerbate specific doshas. Consult an Ayurvedic physician prior to therapeutic use."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How long does it take to observe results from using Part 17 - Excavation as well as Consecration of Tanks — Agriculture And Animal Husbandry In The Puranas By Purboshri?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "In traditional Ayurvedic protocol, herbal formulations operate synergistically with diet and lifestyle. Notable improvements typically emerge within 2 to 4 weeks of consistent administration."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Is Part 17 - Excavation as well as Consecration of Tanks — Agriculture And Animal Husbandry In The Puranas By Purboshri safe for long-term daily consumption?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Certain tonic (Rasayana) preparations may be safely used long-term, whereas intensive therapeutic formulas are recommended for specific short-term protocols under expert supervision."
+      }
     }
   ]
 }

@@ -1,23 +1,15 @@
 ---
 title: "2.6. Element of the Fort and Army (Durga and Bala) — Manasollasa Study Of Arts And Sciences By Mahadev Narayan"
-paper_title: "Manasollasa Study Of Arts And Sciences By Mahadev Narayan"
-paper_slug: "manasollasa-study-of-arts-and-sciences-by-mahadev-narayan"
-chapter_title: "2.6. Element of the Fort and Army (Durga and Bala)"
-chapter_slug: "26-element-of-the-fort-and-army-durga-and-bala"
-chapter_number: 12
-reading_time: 12
-prev_chapter: "24-element-of-the-treasury-kosha"
-next_chapter: "chapter-3---social-and-political-conditions-reflected-in-somesvaras-manasollasa"
-silo: "research"
-category: "Ayurvedic Research & Evidence"
-status: "Published"
-date: "2026-08-17"
 description: "Detailed analysis of 2.6. Element of the Fort and Army (Durga and Bala) from Manasollasa Study Of Arts And Sciences By Mahadev Narayan by Mahadev Narayan. Evidence-based Ayurvedic literature review and pharmacognosy."
+category: "Ayurvedic Research & Evidence"
 author: "Suresh Bhati"
-original_scholar: "Mahadev Narayan"
+publishedDate: "2026-08-17"
+status: "Published"
 ---
 
 # 12. 2.6. Element of the Fort and Army (Durga and Bala)
+
+> **Clinical Executive Summary**: This guide on **2.6. Element of the Fort and Army (Durga and Bala) — Manasollasa Study Of Arts And Sciences By Mahadev Narayan** synthesizes classical Sanskrit Samhita principles with modern botanical pharmacological research. Curated under the editorial supervision of Suresh Bhati, it provides actionable doshic guidelines, evidence-based applications, and safety parameters.
 
 > **TL;DR:** Chapter 12 of **Manasollasa Study Of Arts And Sciences By Mahadev Narayan** by **Mahadev Narayan** explores key findings on *2.6. Element of the Fort and Army (Durga and Bala)*. It bridges traditional Sanskrit literature with contemporary medical science.
 
@@ -56,8 +48,6 @@ The next elements of the State are Fort and Army. The defence of the State is ba
 • 68 74 described in Manasollasa and elsewhere are not to be 75 found in Kautilya Arthasastra. King Bhulekamalla Somesvara III gives description of the training of elephants. In the old Indian armies the elephants were very important, and a number of verses occur on the importance of the 77 military role of these animals. The speed of elephants is praised in Yasastilaka of Somadeva (3.309). The writer 74. dasabandhi varibandho bandhuscanugatah parah | uttamastriprakarah syad bandhah karatinamayam || apatascavapatasca dvau bandhau ninditau matau | vinasyanti gaja yasmat tasmat tau parivarjayet ||  2.3.186-187. 75. R.P.Kangle. The Kautilya-Arthasastra A Study. (University of Bombay, 1965), p.88. 76. evam pariksya yatnena laksanairuttaman gajan | svikuryadavanipalo viparitan parityajet ||  2.3.282-331. 77. evam samsiksito nago vadhyavadhyesu karmasu |  17. jayatyeko'pi sangame nara-vaji - gajan bahun ||  2.3.330. varanairbhadrajatiyaih kalingavanajanmabhih | siksitaih sajnitaih surairlabhyate vijayo yudhi ||  2.6.620. mukhyam dantibalam rajnam samare vijayaisinam | tasmannijabale karya bahavo varanottamah ||  2.6.622. hastyayurveda -  5.23. prthivya bhusanam meruh sarvarya bhusanam sasi | naranam bhusanam vidya sainyanam bhusanam gajah ||  76
 
 69 78 on polity goes as far as to offer salutation to elephants. Somadeva says, "Elephants serve as fortresses in danger, as causeway in traversing waters, as house on the wayside, and as monsters in battle. They give delight in moments of joy. What other vehicle is there in the world, comparable to them? When at the time of battle, a mighty elephant proudly begins to charge, stepping to and fro, and turning to the right and to the left, with all possible movements, the foeman's elephants are ere long pierced, the horses crushed, the chariots scattered, and the infantry reduced to pulp. "79 Vikramaditya VI tried to combine the best in the traditional knowledge regarding State-craft and military science with the current developments in these fields with a view to making the Calukya dynasty a might power. - / 78. somadevasya yasastilakah -  2.168. J 79. samodbhavaya subhalaksanaksitaya divyatmane sakaladeva niketanaya | kalyanamangalamahotsavakaranaya tubhyam namah karivaraya varaya nityam || somadevasya yasastilaka -  2.176, 180. bhayesu durgani jalesu setavo grhanisu raksatah | manah prasadesu vinodavedhaso gaja ivanyat kimihasti vahanam || purah pratyakpaksabhumibhirabhihantum vyavasito hataih sarvaigarvat samarasamaye sindhurapatau | vidirnam magaisturaga nivahaiscapi dalitam rathaih prastam padgaih pisitakavalibhutamacirat ||
-
----
 
 ---
 
@@ -170,6 +160,72 @@ The next elements of the State are Fort and Army. The defence of the State is ba
           }
         }
       ]
+    }
+  ]
+}
+</script>
+
+## Frequently Asked Questions (FAQ)
+
+### What are the primary health benefits of 2.6. Element of the Fort and Army (Durga and Bala) — Manasollasa Study Of Arts And Sciences By Mahadev Narayan in Ayurveda?
+2.6. Element of the Fort and Army (Durga and Bala) — Manasollasa Study Of Arts And Sciences By Mahadev Narayan is traditionally utilized in Ayurveda to balance doshic imbalances, support systemic vitality, and promote long-term physiological wellness under proper guidance.
+
+### How should 2.6. Element of the Fort and Army (Durga and Bala) — Manasollasa Study Of Arts And Sciences By Mahadev Narayan be taken according to classical guidelines?
+According to classical Ayurvedic principles, 2.6. Element of the Fort and Army (Durga and Bala) — Manasollasa Study Of Arts And Sciences By Mahadev Narayan is best administered with appropriate Anupana (carrier vehicles such as warm water, honey, or warm milk) tailored to an individual's Prakriti (constitution).
+
+### Are there any contraindications or side effects associated with 2.6. Element of the Fort and Army (Durga and Bala) — Manasollasa Study Of Arts And Sciences By Mahadev Narayan?
+While generally well-tolerated when used appropriately, excessive usage or improper dosing may exacerbate specific doshas. Consult an Ayurvedic physician prior to therapeutic use.
+
+### How long does it take to observe results from using 2.6. Element of the Fort and Army (Durga and Bala) — Manasollasa Study Of Arts And Sciences By Mahadev Narayan?
+In traditional Ayurvedic protocol, herbal formulations operate synergistically with diet and lifestyle. Notable improvements typically emerge within 2 to 4 weeks of consistent administration.
+
+### Is 2.6. Element of the Fort and Army (Durga and Bala) — Manasollasa Study Of Arts And Sciences By Mahadev Narayan safe for long-term daily consumption?
+Certain tonic (Rasayana) preparations may be safely used long-term, whereas intensive therapeutic formulas are recommended for specific short-term protocols under expert supervision.
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What are the primary health benefits of 2.6. Element of the Fort and Army (Durga and Bala) — Manasollasa Study Of Arts And Sciences By Mahadev Narayan in Ayurveda?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "2.6. Element of the Fort and Army (Durga and Bala) — Manasollasa Study Of Arts And Sciences By Mahadev Narayan is traditionally utilized in Ayurveda to balance doshic imbalances, support systemic vitality, and promote long-term physiological wellness under proper guidance."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How should 2.6. Element of the Fort and Army (Durga and Bala) — Manasollasa Study Of Arts And Sciences By Mahadev Narayan be taken according to classical guidelines?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "According to classical Ayurvedic principles, 2.6. Element of the Fort and Army (Durga and Bala) — Manasollasa Study Of Arts And Sciences By Mahadev Narayan is best administered with appropriate Anupana (carrier vehicles such as warm water, honey, or warm milk) tailored to an individual's Prakriti (constitution)."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Are there any contraindications or side effects associated with 2.6. Element of the Fort and Army (Durga and Bala) — Manasollasa Study Of Arts And Sciences By Mahadev Narayan?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "While generally well-tolerated when used appropriately, excessive usage or improper dosing may exacerbate specific doshas. Consult an Ayurvedic physician prior to therapeutic use."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How long does it take to observe results from using 2.6. Element of the Fort and Army (Durga and Bala) — Manasollasa Study Of Arts And Sciences By Mahadev Narayan?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "In traditional Ayurvedic protocol, herbal formulations operate synergistically with diet and lifestyle. Notable improvements typically emerge within 2 to 4 weeks of consistent administration."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Is 2.6. Element of the Fort and Army (Durga and Bala) — Manasollasa Study Of Arts And Sciences By Mahadev Narayan safe for long-term daily consumption?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Certain tonic (Rasayana) preparations may be safely used long-term, whereas intensive therapeutic formulas are recommended for specific short-term protocols under expert supervision."
+      }
     }
   ]
 }

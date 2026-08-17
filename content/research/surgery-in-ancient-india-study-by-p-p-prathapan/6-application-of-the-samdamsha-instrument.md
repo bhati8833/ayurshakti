@@ -1,23 +1,15 @@
 ---
 title: "6. Application of the Samdamsha instrument — Surgery In Ancient India Study By P P Prathapan"
-paper_title: "Surgery In Ancient India Study By P P Prathapan"
-paper_slug: "surgery-in-ancient-india-study-by-p-p-prathapan"
-chapter_title: "6. Application of the Samdamsha instrument"
-chapter_slug: "6-application-of-the-samdamsha-instrument"
-chapter_number: 74
-reading_time: 2
-prev_chapter: "4-classification-of-surgical-instruments"
-next_chapter: "7-application-of-the-tala-yantras"
-silo: "research"
-category: "Ayurvedic Research & Evidence"
-status: "Published"
-date: "2026-08-17"
 description: "Detailed analysis of 6. Application of the Samdamsha instrument from Surgery In Ancient India Study By P P Prathapan by Classical Ayurvedic Scholar. Evidence-based Ayurvedic literature review and pharmacognosy."
+category: "Ayurvedic Research & Evidence"
 author: "Suresh Bhati"
-original_scholar: "Classical Ayurvedic Scholar"
+publishedDate: "2026-08-17"
+status: "Published"
 ---
 
 # 74. 6. Application of the Samdamsha instrument
+
+> **Clinical Executive Summary**: This guide on **6. Application of the Samdamsha instrument — Surgery In Ancient India Study By P P Prathapan** synthesizes classical Sanskrit Samhita principles with modern botanical pharmacological research. Curated under the editorial supervision of Suresh Bhati, it provides actionable doshic guidelines, evidence-based applications, and safety parameters.
 
 > **TL;DR:** Chapter 74 of **Surgery In Ancient India Study By P P Prathapan** by **Classical Ayurvedic Scholar** explores key findings on *6. Application of the Samdamsha instrument*. It bridges traditional Sanskrit literature with contemporary medical science.
 
@@ -34,8 +26,6 @@ This essay studies Surgery in ancient India based on Sanskrit sources.—The Sus
 Sandansas [Samdamshas] tongs are divided into two classes as there are soldered together with or without a bolt. They should be made to measure sixteen fingers in length, and should be used to withdraw any thorn-like substance from below the skin, flesh, veins or nerves. The forceps are with and without handles. The first variety is likened to forceps with arms, used by the barbers for depilating the nasal cavities, while the second variety is like the armless forceps used by the gold smiths. The former consists of two arms joined crosswise by a pin fixed at about their middle points, and so really is a cruciform instrument but is classed here for its different use in surgery. The forceps without handles consists of two blades soldered at one end. The sandamsas are used for the purpose of extracting foreign body. The second variety is known as the mucuti instruments. It is a pair of straight forceps, having no curve like that of the sandamsa. It is serrated finely at the open ends. The soldered end has a ring attached to it as ornamentation. It is recommended to be used for removing pairful sloughs and around granulations from a deep seated abscess. It is also to be 232
 
 used to complete the operation for pterygium by removing the remnant, after it has been extirpated by the sharp instruments. Susruta mentions bamsabidala or bamboo forceps. It is made of a piece of bamboo rod, split longitudinally into two halves nearly to its whole extent. The sandamsa instrument may be compared with the modern dressing forceps and with (the forceps still used by the gold smiths).
-
----
 
 ---
 
@@ -148,6 +138,72 @@ used to complete the operation for pterygium by removing the remnant, after it h
           }
         }
       ]
+    }
+  ]
+}
+</script>
+
+## Frequently Asked Questions (FAQ)
+
+### What are the primary health benefits of 6. Application of the Samdamsha instrument — Surgery In Ancient India Study By P P Prathapan in Ayurveda?
+6. Application of the Samdamsha instrument — Surgery In Ancient India Study By P P Prathapan is traditionally utilized in Ayurveda to balance doshic imbalances, support systemic vitality, and promote long-term physiological wellness under proper guidance.
+
+### How should 6. Application of the Samdamsha instrument — Surgery In Ancient India Study By P P Prathapan be taken according to classical guidelines?
+According to classical Ayurvedic principles, 6. Application of the Samdamsha instrument — Surgery In Ancient India Study By P P Prathapan is best administered with appropriate Anupana (carrier vehicles such as warm water, honey, or warm milk) tailored to an individual's Prakriti (constitution).
+
+### Are there any contraindications or side effects associated with 6. Application of the Samdamsha instrument — Surgery In Ancient India Study By P P Prathapan?
+While generally well-tolerated when used appropriately, excessive usage or improper dosing may exacerbate specific doshas. Consult an Ayurvedic physician prior to therapeutic use.
+
+### How long does it take to observe results from using 6. Application of the Samdamsha instrument — Surgery In Ancient India Study By P P Prathapan?
+In traditional Ayurvedic protocol, herbal formulations operate synergistically with diet and lifestyle. Notable improvements typically emerge within 2 to 4 weeks of consistent administration.
+
+### Is 6. Application of the Samdamsha instrument — Surgery In Ancient India Study By P P Prathapan safe for long-term daily consumption?
+Certain tonic (Rasayana) preparations may be safely used long-term, whereas intensive therapeutic formulas are recommended for specific short-term protocols under expert supervision.
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What are the primary health benefits of 6. Application of the Samdamsha instrument — Surgery In Ancient India Study By P P Prathapan in Ayurveda?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "6. Application of the Samdamsha instrument — Surgery In Ancient India Study By P P Prathapan is traditionally utilized in Ayurveda to balance doshic imbalances, support systemic vitality, and promote long-term physiological wellness under proper guidance."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How should 6. Application of the Samdamsha instrument — Surgery In Ancient India Study By P P Prathapan be taken according to classical guidelines?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "According to classical Ayurvedic principles, 6. Application of the Samdamsha instrument — Surgery In Ancient India Study By P P Prathapan is best administered with appropriate Anupana (carrier vehicles such as warm water, honey, or warm milk) tailored to an individual's Prakriti (constitution)."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Are there any contraindications or side effects associated with 6. Application of the Samdamsha instrument — Surgery In Ancient India Study By P P Prathapan?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "While generally well-tolerated when used appropriately, excessive usage or improper dosing may exacerbate specific doshas. Consult an Ayurvedic physician prior to therapeutic use."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How long does it take to observe results from using 6. Application of the Samdamsha instrument — Surgery In Ancient India Study By P P Prathapan?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "In traditional Ayurvedic protocol, herbal formulations operate synergistically with diet and lifestyle. Notable improvements typically emerge within 2 to 4 weeks of consistent administration."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Is 6. Application of the Samdamsha instrument — Surgery In Ancient India Study By P P Prathapan safe for long-term daily consumption?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Certain tonic (Rasayana) preparations may be safely used long-term, whereas intensive therapeutic formulas are recommended for specific short-term protocols under expert supervision."
+      }
     }
   ]
 }

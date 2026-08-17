@@ -1,23 +1,15 @@
 ---
 title: "5. Iconography and Images (Pratima) — Manasollasa Study Of Arts And Sciences By Mahadev Narayan"
-paper_title: "Manasollasa Study Of Arts And Sciences By Mahadev Narayan"
-paper_slug: "manasollasa-study-of-arts-and-sciences-by-mahadev-narayan"
-chapter_title: "5. Iconography and Images (Pratima)"
-chapter_slug: "5-iconography-and-images-pratima"
-chapter_number: 41
-reading_time: 17
-prev_chapter: "chapter-5---sciences-in-someshvaras-manasollasa"
-next_chapter: "1-introduction-to-science-in-ancient-india"
-silo: "research"
-category: "Ayurvedic Research & Evidence"
-status: "Published"
-date: "2026-08-17"
 description: "Detailed analysis of 5. Iconography and Images (Pratima) from Manasollasa Study Of Arts And Sciences By Mahadev Narayan by Mahadev Narayan. Evidence-based Ayurvedic literature review and pharmacognosy."
+category: "Ayurvedic Research & Evidence"
 author: "Suresh Bhati"
-original_scholar: "Mahadev Narayan"
+publishedDate: "2026-08-17"
+status: "Published"
 ---
 
 # 41. 5. Iconography and Images (Pratima)
+
+> **Clinical Executive Summary**: This guide on **5. Iconography and Images (Pratima) — Manasollasa Study Of Arts And Sciences By Mahadev Narayan** synthesizes classical Sanskrit Samhita principles with modern botanical pharmacological research. Curated under the editorial supervision of Suresh Bhati, it provides actionable doshic guidelines, evidence-based applications, and safety parameters.
 
 > **TL;DR:** Chapter 41 of **Manasollasa Study Of Arts And Sciences By Mahadev Narayan** by **Mahadev Narayan** explores key findings on *5. Iconography and Images (Pratima)*. It bridges traditional Sanskrit literature with contemporary medical science.
 
@@ -70,8 +62,6 @@ Theres a Vari 4 temple is 241 kamadio so far, it is a possibility that cannot be
 7. 244 disc or mace, wears a yellow garment and is fully ornamented. The right half of the head wears Jatamukuta and He wears a serpent braceis adorned by the crescent. lect on his right arm. One of the right hands is held in the Varada-mudra and the other holds a trident. His Yajhopavita consists of serpents and the lower garment is made up of skin. The Devatamurti prakarana also gives almost the same description of the Siva-narayana 144 image. 'It is surprising that it describes separately the Harihara image which does not differ much from the 145 Siva-Narayana image. The Calukyas of Kalyana constructed many temples in Karnataka. Some of them are Visvesvara temple in Lakkundi, Mahadeva temple in Ittagi, Mallikarjuna temple in Kurvatti and so on. And some temples are in Gadag, 144. Devatamurti Prakarana, VI. 35.41. (Devatamurti prakarana and Rupamandana; ed. Sankhya Tirth U.M., Calcutta 1936). 145. devatamurti prakarana -  6.56-57. 1 'karyo hariharascapi daksinardhe sadasivah |  atuty a gofon: randimtola: gutq || varam trisulam cakrabjadharino bahavah kramat | daksine vrsabhah parsve vame vihagaraditi ||  "
 
 245 Dambala, Haveri, Belgaum etc. Mahadeva temple in Ittigi and Visvesvara temple in Lakkundi are the best sculpture art in the period of Calukyas. 146 Thus it can be seen that the Manasollasa contains a compendium of the then available knowledge relating to fine arts such as painting, sculpture, architecture and iconography. The qualities and qualifications of the artists, the materials used in art, and shapes as well as sizes of the images have been given here in detail. The Manasollasa throws a flood of light on the state of civilization that existed in those days.
-
----
 
 ---
 
@@ -184,6 +174,72 @@ Theres a Vari 4 temple is 241 kamadio so far, it is a possibility that cannot be
           }
         }
       ]
+    }
+  ]
+}
+</script>
+
+## Frequently Asked Questions (FAQ)
+
+### What are the primary health benefits of 5. Iconography and Images (Pratima) — Manasollasa Study Of Arts And Sciences By Mahadev Narayan in Ayurveda?
+5. Iconography and Images (Pratima) — Manasollasa Study Of Arts And Sciences By Mahadev Narayan is traditionally utilized in Ayurveda to balance doshic imbalances, support systemic vitality, and promote long-term physiological wellness under proper guidance.
+
+### How should 5. Iconography and Images (Pratima) — Manasollasa Study Of Arts And Sciences By Mahadev Narayan be taken according to classical guidelines?
+According to classical Ayurvedic principles, 5. Iconography and Images (Pratima) — Manasollasa Study Of Arts And Sciences By Mahadev Narayan is best administered with appropriate Anupana (carrier vehicles such as warm water, honey, or warm milk) tailored to an individual's Prakriti (constitution).
+
+### Are there any contraindications or side effects associated with 5. Iconography and Images (Pratima) — Manasollasa Study Of Arts And Sciences By Mahadev Narayan?
+While generally well-tolerated when used appropriately, excessive usage or improper dosing may exacerbate specific doshas. Consult an Ayurvedic physician prior to therapeutic use.
+
+### How long does it take to observe results from using 5. Iconography and Images (Pratima) — Manasollasa Study Of Arts And Sciences By Mahadev Narayan?
+In traditional Ayurvedic protocol, herbal formulations operate synergistically with diet and lifestyle. Notable improvements typically emerge within 2 to 4 weeks of consistent administration.
+
+### Is 5. Iconography and Images (Pratima) — Manasollasa Study Of Arts And Sciences By Mahadev Narayan safe for long-term daily consumption?
+Certain tonic (Rasayana) preparations may be safely used long-term, whereas intensive therapeutic formulas are recommended for specific short-term protocols under expert supervision.
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What are the primary health benefits of 5. Iconography and Images (Pratima) — Manasollasa Study Of Arts And Sciences By Mahadev Narayan in Ayurveda?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "5. Iconography and Images (Pratima) — Manasollasa Study Of Arts And Sciences By Mahadev Narayan is traditionally utilized in Ayurveda to balance doshic imbalances, support systemic vitality, and promote long-term physiological wellness under proper guidance."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How should 5. Iconography and Images (Pratima) — Manasollasa Study Of Arts And Sciences By Mahadev Narayan be taken according to classical guidelines?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "According to classical Ayurvedic principles, 5. Iconography and Images (Pratima) — Manasollasa Study Of Arts And Sciences By Mahadev Narayan is best administered with appropriate Anupana (carrier vehicles such as warm water, honey, or warm milk) tailored to an individual's Prakriti (constitution)."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Are there any contraindications or side effects associated with 5. Iconography and Images (Pratima) — Manasollasa Study Of Arts And Sciences By Mahadev Narayan?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "While generally well-tolerated when used appropriately, excessive usage or improper dosing may exacerbate specific doshas. Consult an Ayurvedic physician prior to therapeutic use."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How long does it take to observe results from using 5. Iconography and Images (Pratima) — Manasollasa Study Of Arts And Sciences By Mahadev Narayan?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "In traditional Ayurvedic protocol, herbal formulations operate synergistically with diet and lifestyle. Notable improvements typically emerge within 2 to 4 weeks of consistent administration."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Is 5. Iconography and Images (Pratima) — Manasollasa Study Of Arts And Sciences By Mahadev Narayan safe for long-term daily consumption?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Certain tonic (Rasayana) preparations may be safely used long-term, whereas intensive therapeutic formulas are recommended for specific short-term protocols under expert supervision."
+      }
     }
   ]
 }

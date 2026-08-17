@@ -20,17 +20,11 @@ This chapter from **Sushruta Samhita (Chikitsasthana)** represents the classical
 
 ---
 
-
 Sushruta Samhita, volume 4: Cikitsasthana
-
-by Kaviraj Kunja Lal Bhishagratna | 1911 | 123,229 words
 
 This current book, the Chikitsa-sthana (english translation), deals with therapeutics, surgical emergencies, geriatrics, aphrodisiacs and various other subjects.
 
 The Sushruta Samhita is the most representative work of the Hindu system of medicine. It embraces all that can possibly appertain to the science of medicine. Susruta-samhita is recognized...
-
-Go directly to: 
-Footnotes.
 
 Chapter XXII - The affections of the mouth
 
@@ -117,10 +111,6 @@ Incurable Types:—
 Now we shall enumerate the different incurable types of mouth-diseases. Of the types of Oshtha-paka, those due to the vitiated condition of the flesh, or of blood, and those due to the concerted action of the aggravated Doshas (Sannipata) should be deemed as incurable. Of the diseases peculiar to the roots of the teeth, the affections known as the Sannipatika Danta-nadi (Sinus in the gums) and the Sannipatika Shaushira (Maha-Saushira) should be also deemed as incurable. Of the affections of the teeth, those known as the Shyava-dantaka, Dalana and Bhanjana, and of the diseases which restrict themselves to the tongue, the one known as the Alasa should be looked upon as incurable. Similarly, of the affections of the palate, the Arvuda should be deemed as incurable. Of those of the throat, the Svaraghna, Valaya, Brinda, Balasa, Bidarika, Galaugha, Mamsa-tana, Shataghni and Rohini should be regarded as beyond the pale of medicine. The nineteen kinds of the disease mentioned above are incurable, and the medical treatment of these diseases should be taken in hand without holding out any definite hope of recovery. 46–49.
 
 Thus ends the Twenty-second Chapter of the Chikitsita-Sthana in the Sushruta Samhita which deals with the medical treatment of the diseases of the mouth.
-
-Footnotes and references:
-
-[back to top]
 
 [1]:
 

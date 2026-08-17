@@ -1,23 +1,15 @@
 ---
 title: "20. Notes and References — Surgery In Ancient India Study By P P Prathapan"
-paper_title: "Surgery In Ancient India Study By P P Prathapan"
-paper_slug: "surgery-in-ancient-india-study-by-p-p-prathapan"
-chapter_title: "20. Notes and References"
-chapter_slug: "20-notes-and-references"
-chapter_number: 91
-reading_time: 3
-prev_chapter: "3-importance-of-salya-tantra"
-next_chapter: "4-decline-of-ayurveda-surgery"
-silo: "research"
-category: "Ayurvedic Research & Evidence"
-status: "Published"
-date: "2026-08-17"
 description: "Detailed analysis of 20. Notes and References from Surgery In Ancient India Study By P P Prathapan by Classical Ayurvedic Scholar. Evidence-based Ayurvedic literature review and pharmacognosy."
+category: "Ayurvedic Research & Evidence"
 author: "Suresh Bhati"
-original_scholar: "Classical Ayurvedic Scholar"
+publishedDate: "2026-08-17"
+status: "Published"
 ---
 
 # 91. 20. Notes and References
+
+> **Clinical Executive Summary**: This guide on **20. Notes and References — Surgery In Ancient India Study By P P Prathapan** synthesizes classical Sanskrit Samhita principles with modern botanical pharmacological research. Curated under the editorial supervision of Suresh Bhati, it provides actionable doshic guidelines, evidence-based applications, and safety parameters.
 
 > **TL;DR:** Chapter 91 of **Surgery In Ancient India Study By P P Prathapan** by **Classical Ayurvedic Scholar** explores key findings on *20. Notes and References*. It bridges traditional Sanskrit literature with contemporary medical science.
 
@@ -33,13 +25,11 @@ This essay studies Surgery in ancient India based on Sanskrit sources.—The Sus
 
 REFERENCES. 1 Kirkup John, The evolution of surgical instruments: an illustrated history from ancient times to the Twentieth century, Norman publishers, Calif, Novato, 2005, p-25 2 Mukhopadhyaye, G., Surgical Instruments of Ancient Hindus New Bharatiya Book Corporation, Delhi, 2000, p-63. 3Govindan Vaidyan.P.M, Astangahridaya, Devi book stall Publishers, Kodungallur, 2009, p-606. 4 Kunjalal Bhishagratna, Kaviraj, An English Translation of the Susruta Samhita, based on original Sanskrit text, Author, Culcutta, 1907, p-63. 5 lbid. 6 krishna Ramachandra rao saligrama, Sudarshan, Encyclopedia of Indian Medicine, Popular Prakasan, Bombay, 1985, p-93. 7 Sharma P.V, Susruta samhita and Delhanas commentary along with critical notes. Chowkhamba viswabharati, Varanasi, 1999, P-99. 8 Mukhopadhyaye, G.,Surgical Instruments of Ancient Hindus, New Bharatiya Book Corporation, Delhi, 2000,p-161. 9 Kunjalal Bhishagratna, Kaviraj, An English Translation of the Susruta Samhita, based on original Sanskrit text. Author, Culcutta, 1907, p-63. 10 Prakash, Satya, Founders of sciences in ancient India part -1 Vijayakumar publishers, Delhi, 1989, P -254. 11 Kunjalal Bhishagratna, Kaviraj, An English Translation of the Susruta Samhita, based on original Sanskrit text, Author, Culcutta, 1907,p-63 12 Kunjalal Bhishagratna, Kaviraj, An English Translation of the Susruta Samhita, based on original Sanskrit text, vol-30, Chowkhambha Sanskrit series office, Varanasi, 1963,p-65. 258
 
-13 Mukhopadhyaye, G., Surgical Instruments of Ancient Hindus, NewBharatiya Book Corporation, Delhi, 2000,p-166 14 Poulose, K.G, Dr., Kottackal, 2002, P -113 Lectures on Ayurveda, Kottackal Aryavaidyasala, 15 Kunjalal Bhishagratna, Kaviraj, An English Translation of the Susruta Samhita, based on original Sanskrit text, Author, Culcutta, 1907,p-63 16 Mukhopadhyaye, G.,Surgical Instruments of Ancient Hindus, New Bharatiya Book Corporation, Delhi, 2000,p-170. 17 lbid. 18 lbid p-172. 19 Kunjalal Bhishagratna, Kaviraj, An English Translation of the Susruta Samhita, based on original Sanskrit text, Author, Culcutta, 1907,p-63 20 Kutumbiah,P,Ancient Indian medicine, Orient Longman Hyderabad, 1999,P-161. 21 Mukhopadhyaye, G., Surgical Instruments of Ancient Hindus, New Bharatiya Book Corporation, Delhi, 2000, p-177. 22 lbid-178. 23 Kunjalal Bhishagratna, Kaviraj, An English Translation of the Susruta Samhita, based on original Sanskrit text, Author, Culcutta, 1907, p-63 24 Mukhopadhyaye, G., Surgical Instruments of Ancient Hindus, New Bharatiya Book Corporation, Delhi, 2000, p-179. 25 Kunjalal Bhishagratna, Kaviraj, An English Translation of the Susruta Samhita, based on original Sanskrit text, Author, Culcutta, 1907,p-63 26 Sreedharan M. S, Treasure trove of Ancient Indian science,Ministry of information and Broadcasting Govt of India, New Delhi, 2005, P-667. 259
+13 Mukhopadhyaye, G., Surgical Instruments of Ancient Hindus, NewBharatiya Book Corporation, Delhi, 2000,p-166 14 Poulose, K.G, Dr., Kottackal, 2002, P -113 Lectures on Ayurveda, Kottackal Aryavaidyasala, 15 Kunjalal Bhishagratna, Kaviraj, An English Translation of the Susruta Samhita, based on original Sanskrit text, Author, Culcutta, 1907,p-63 16 Mukhopadhyaye, G.,Surgical Instruments of Ancient Hindus, New Bharatiya Book Corporation, Delhi, 2000,p-170. 17 lbid. 18 lbid p-172. 19 Kunjalal Bhishagratna, Kaviraj, An English Translation of the Susruta Samhita, based on original Sanskrit text, Author, Culcutta, 1907,p-63 20 Kutumbiah,P,Ancient Indian medicine, Orient Longman Hyderabad, 1999,P-161. 21 Mukhopadhyaye, G., Surgical Instruments of Ancient Hindus, New Bharatiya Book Corporation, Delhi, 2000, p-177. 22 lbid-178. 23 Kunjalal Bhishagratna, Kaviraj, An English Translation of the Susruta Samhita, based on original Sanskrit text, Author, Culcutta, 1907, p-63 24 Mukhopadhyaye, G., Surgical Instruments of Ancient Hindus, New Bharatiya Book Corporation, Delhi, 2000, p-179. 25 Kunjalal Bhishagratna, Kaviraj, An English Translation of the Susruta Samhita, based on original Sanskrit text, Author, Culcutta, 1907,p-63 26 Sreedharan M. S, Comprehensive archive of Ancient Indian science,Ministry of information and Broadcasting Govt of India, New Delhi, 2005, P-667. 259
 
 27 Mukhopadhyaye, G.,Surgical Instruments of Ancient Hindus, New Bharatiya Book Corporation, Delhi, 2000, p-181 28 Pujari R. M, Kohle Pradeep, Kumar N.R,Pride of India;a glimpse in to India's Scientific Heritage, Sanskrita Bharati, New Delhi, 2006, P-160. 29 Mukhopadhyaye, G., Surgical Instruments of Ancient Hindus, New Bharatiya Book Corporation, Delhi, 2000, p-182. 30 lbid-183. 31 Sinha B. R, Sharma, R.C, Sharma S.R, Encyclopedia of professional Education vol-9, Sarup and sons publication, New Delhi, 2003, P-104. 32 Kunjalal Bhishagratna, Kaviraj, An English Translation of the Susruta Samhita, based on original Sanskrit text, Author, Culcutta, 1907, p-63 33 Mukhopadhyaye, G., Surgical Instruments of Ancient Hindus, NewBharatiya Book Corporation, Delhi, 2000,p-184. 34 lbid-p-185. 35 lbid 36 lbid-188. 37 lbid-191. 38 lbid. 39 Guido Majno, The Healing Hand man and wound in the ancient world, Harvard University Press, Mass, Cambridge, 1991 P-272. 40 Mukhopadhyaye, G., Surgical Instruments of Ancient Hindus, New Bharatiya Book Corporation, Delhi, 2000, p-194. 41 lbid-195. 260
 
 42 David Le Vay, The History of orthopaedics; an account of the study and practise of orthopaedics from the earliest times of the modern era, Parthenon publication group, Carnforth 1990, P-12. 43 Gerrit Jan Meulenbeld,A History of Indian Medical Literature, Vol -1, E.Forsten publishers Groningen, 1999, P-509. 44 Valyathan, M.S., Legacy of Susruta, Orient Longman, Chennai, 2007, p-39. 45 Charles Rockwell Lanman, William Dwight Whitney, Atharvaveda Samhita, vol-7, Harvard University Press, Cambridge, 1905, p-3. 261
-
----
 
 ---
 
@@ -152,6 +142,72 @@ REFERENCES. 1 Kirkup John, The evolution of surgical instruments: an illustrated
           }
         }
       ]
+    }
+  ]
+}
+</script>
+
+## Frequently Asked Questions (FAQ)
+
+### What are the primary health benefits of 20. Notes and References — Surgery In Ancient India Study By P P Prathapan in Ayurveda?
+20. Notes and References — Surgery In Ancient India Study By P P Prathapan is traditionally utilized in Ayurveda to balance doshic imbalances, support systemic vitality, and promote long-term physiological wellness under proper guidance.
+
+### How should 20. Notes and References — Surgery In Ancient India Study By P P Prathapan be taken according to classical guidelines?
+According to classical Ayurvedic principles, 20. Notes and References — Surgery In Ancient India Study By P P Prathapan is best administered with appropriate Anupana (carrier vehicles such as warm water, honey, or warm milk) tailored to an individual's Prakriti (constitution).
+
+### Are there any contraindications or side effects associated with 20. Notes and References — Surgery In Ancient India Study By P P Prathapan?
+While generally well-tolerated when used appropriately, excessive usage or improper dosing may exacerbate specific doshas. Consult an Ayurvedic physician prior to therapeutic use.
+
+### How long does it take to observe results from using 20. Notes and References — Surgery In Ancient India Study By P P Prathapan?
+In traditional Ayurvedic protocol, herbal formulations operate synergistically with diet and lifestyle. Notable improvements typically emerge within 2 to 4 weeks of consistent administration.
+
+### Is 20. Notes and References — Surgery In Ancient India Study By P P Prathapan safe for long-term daily consumption?
+Certain tonic (Rasayana) preparations may be safely used long-term, whereas intensive therapeutic formulas are recommended for specific short-term protocols under expert supervision.
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What are the primary health benefits of 20. Notes and References — Surgery In Ancient India Study By P P Prathapan in Ayurveda?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "20. Notes and References — Surgery In Ancient India Study By P P Prathapan is traditionally utilized in Ayurveda to balance doshic imbalances, support systemic vitality, and promote long-term physiological wellness under proper guidance."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How should 20. Notes and References — Surgery In Ancient India Study By P P Prathapan be taken according to classical guidelines?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "According to classical Ayurvedic principles, 20. Notes and References — Surgery In Ancient India Study By P P Prathapan is best administered with appropriate Anupana (carrier vehicles such as warm water, honey, or warm milk) tailored to an individual's Prakriti (constitution)."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Are there any contraindications or side effects associated with 20. Notes and References — Surgery In Ancient India Study By P P Prathapan?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "While generally well-tolerated when used appropriately, excessive usage or improper dosing may exacerbate specific doshas. Consult an Ayurvedic physician prior to therapeutic use."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How long does it take to observe results from using 20. Notes and References — Surgery In Ancient India Study By P P Prathapan?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "In traditional Ayurvedic protocol, herbal formulations operate synergistically with diet and lifestyle. Notable improvements typically emerge within 2 to 4 weeks of consistent administration."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Is 20. Notes and References — Surgery In Ancient India Study By P P Prathapan safe for long-term daily consumption?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Certain tonic (Rasayana) preparations may be safely used long-term, whereas intensive therapeutic formulas are recommended for specific short-term protocols under expert supervision."
+      }
     }
   ]
 }

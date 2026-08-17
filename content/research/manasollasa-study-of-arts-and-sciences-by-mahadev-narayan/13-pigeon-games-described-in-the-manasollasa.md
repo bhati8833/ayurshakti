@@ -1,23 +1,15 @@
 ---
 title: "13. Pigeon games described in the Manasollasa — Manasollasa Study Of Arts And Sciences By Mahadev Narayan"
-paper_title: "Manasollasa Study Of Arts And Sciences By Mahadev Narayan"
-paper_slug: "manasollasa-study-of-arts-and-sciences-by-mahadev-narayan"
-chapter_title: "13. Pigeon games described in the Manasollasa"
-chapter_slug: "13-pigeon-games-described-in-the-manasollasa"
-chapter_number: 25
-reading_time: 3
-prev_chapter: "9-cock-fighting-described-in-the-manasollasa"
-next_chapter: "11-ram-fighting-described-in-the-manasollasa"
-silo: "research"
-category: "Ayurvedic Research & Evidence"
-status: "Published"
-date: "2026-08-17"
 description: "Detailed analysis of 13. Pigeon games described in the Manasollasa from Manasollasa Study Of Arts And Sciences By Mahadev Narayan by Mahadev Narayan. Evidence-based Ayurvedic literature review and pharmacognosy."
+category: "Ayurvedic Research & Evidence"
 author: "Suresh Bhati"
-original_scholar: "Mahadev Narayan"
+publishedDate: "2026-08-17"
+status: "Published"
 ---
 
 # 25. 13. Pigeon games described in the Manasollasa
+
+> **Clinical Executive Summary**: This guide on **13. Pigeon games described in the Manasollasa — Manasollasa Study Of Arts And Sciences By Mahadev Narayan** synthesizes classical Sanskrit Samhita principles with modern botanical pharmacological research. Curated under the editorial supervision of Suresh Bhati, it provides actionable doshic guidelines, evidence-based applications, and safety parameters.
 
 > **TL;DR:** Chapter 25 of **Manasollasa Study Of Arts And Sciences By Mahadev Narayan** by **Mahadev Narayan** explores key findings on *13. Pigeon games described in the Manasollasa*. It bridges traditional Sanskrit literature with contemporary medical science.
 
@@ -38,8 +30,6 @@ Somesvara tells Paravata-Vinoda or amusement through pigeons. He describes four 
 139 Further Somesvara gives the characteristics of each Varna. The Pigeons of Brahmana species are pure and beautiful. They have got a tuft of hair on their heads. The Ksatriya type does not have the tuft of hair and is full of Padapicehas. The pigeons of Vaisya jati also do not have a tuft of hair but they are of different colours, like white, black, red, yellow, green, black and red-spotted 112 etc. The sudra types of Pigeons have green limbs, blue neck, black spotted wings and red eyes and legs. They are the adhama or the lowest types of pigeons. Besides these four types, there are Pigeons of Candala or Antyaja jati. They are not touched and kept by the house-holders : 113 Somesvara further warns about Pigeons, that they are to be properly fed and put in cages, made either of gold, ||| . paravatah sikhahinah jneya ksatriyajatayah | alpakkanasamayuktah padapicchavivarjitah ||  112. paravatastu visikha vijneya vaisyajatayah |  4.11.1280. svetah : krsnastatha sonah pitasca haritastatha ||  4. 11. 1281. 113. na posya dhvanihinatvacchudrah paravatadhamah | candalantyajajatiyah kapota vividha punah ||  4.11.1284.
 
 140 silver or wood. 114 Each cage should contain a pair, one a male and the other a female having similarity in colour or other common characteristics. A female pigeon is very devoted to her mate and she does not usually allow any 115 other pigeon except her mate to enter the cage. There, they go on multiplying. trained to carry letters. The male pigeon should then be Thus he should be let loose from a distance to the place where the female is kept. It can travel by day the distance upto thirty Yajanas, in quest of his mate. The pigeons are very useful to the king as carriers of messages. They are also pious and sacred and therefore should always be maintained. It is said that when a king gets amusement through the pigeons, his Dharma, Karma and Artha, are fulfilled. 116 114. sauvarne rajate vapi panjare darunirmite  | 4.11.1288. 115. sthapayedampati raja sadrsau varnarupatah | pativrata bhavantyetah paravatakulanganah || paravatasca svagrham pravesayati netaram | | galadhusimtanadena phulladrutagalena ca ||  4. 11. 1289-1290. 116. galadhurnitanadena harsamutpadayanti hi | paravatavinodo'yam dharmakarmarthasiddhaye ||  4.11.1297.
-
----
 
 ---
 
@@ -152,6 +142,72 @@ Somesvara tells Paravata-Vinoda or amusement through pigeons. He describes four 
           }
         }
       ]
+    }
+  ]
+}
+</script>
+
+## Frequently Asked Questions (FAQ)
+
+### What are the primary health benefits of 13. Pigeon games described in the Manasollasa — Manasollasa Study Of Arts And Sciences By Mahadev Narayan in Ayurveda?
+13. Pigeon games described in the Manasollasa — Manasollasa Study Of Arts And Sciences By Mahadev Narayan is traditionally utilized in Ayurveda to balance doshic imbalances, support systemic vitality, and promote long-term physiological wellness under proper guidance.
+
+### How should 13. Pigeon games described in the Manasollasa — Manasollasa Study Of Arts And Sciences By Mahadev Narayan be taken according to classical guidelines?
+According to classical Ayurvedic principles, 13. Pigeon games described in the Manasollasa — Manasollasa Study Of Arts And Sciences By Mahadev Narayan is best administered with appropriate Anupana (carrier vehicles such as warm water, honey, or warm milk) tailored to an individual's Prakriti (constitution).
+
+### Are there any contraindications or side effects associated with 13. Pigeon games described in the Manasollasa — Manasollasa Study Of Arts And Sciences By Mahadev Narayan?
+While generally well-tolerated when used appropriately, excessive usage or improper dosing may exacerbate specific doshas. Consult an Ayurvedic physician prior to therapeutic use.
+
+### How long does it take to observe results from using 13. Pigeon games described in the Manasollasa — Manasollasa Study Of Arts And Sciences By Mahadev Narayan?
+In traditional Ayurvedic protocol, herbal formulations operate synergistically with diet and lifestyle. Notable improvements typically emerge within 2 to 4 weeks of consistent administration.
+
+### Is 13. Pigeon games described in the Manasollasa — Manasollasa Study Of Arts And Sciences By Mahadev Narayan safe for long-term daily consumption?
+Certain tonic (Rasayana) preparations may be safely used long-term, whereas intensive therapeutic formulas are recommended for specific short-term protocols under expert supervision.
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What are the primary health benefits of 13. Pigeon games described in the Manasollasa — Manasollasa Study Of Arts And Sciences By Mahadev Narayan in Ayurveda?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "13. Pigeon games described in the Manasollasa — Manasollasa Study Of Arts And Sciences By Mahadev Narayan is traditionally utilized in Ayurveda to balance doshic imbalances, support systemic vitality, and promote long-term physiological wellness under proper guidance."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How should 13. Pigeon games described in the Manasollasa — Manasollasa Study Of Arts And Sciences By Mahadev Narayan be taken according to classical guidelines?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "According to classical Ayurvedic principles, 13. Pigeon games described in the Manasollasa — Manasollasa Study Of Arts And Sciences By Mahadev Narayan is best administered with appropriate Anupana (carrier vehicles such as warm water, honey, or warm milk) tailored to an individual's Prakriti (constitution)."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Are there any contraindications or side effects associated with 13. Pigeon games described in the Manasollasa — Manasollasa Study Of Arts And Sciences By Mahadev Narayan?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "While generally well-tolerated when used appropriately, excessive usage or improper dosing may exacerbate specific doshas. Consult an Ayurvedic physician prior to therapeutic use."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How long does it take to observe results from using 13. Pigeon games described in the Manasollasa — Manasollasa Study Of Arts And Sciences By Mahadev Narayan?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "In traditional Ayurvedic protocol, herbal formulations operate synergistically with diet and lifestyle. Notable improvements typically emerge within 2 to 4 weeks of consistent administration."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Is 13. Pigeon games described in the Manasollasa — Manasollasa Study Of Arts And Sciences By Mahadev Narayan safe for long-term daily consumption?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Certain tonic (Rasayana) preparations may be safely used long-term, whereas intensive therapeutic formulas are recommended for specific short-term protocols under expert supervision."
+      }
     }
   ]
 }

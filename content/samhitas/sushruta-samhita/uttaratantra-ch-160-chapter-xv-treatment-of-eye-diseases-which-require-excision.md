@@ -20,17 +20,11 @@ This chapter from **Sushruta Samhita (Uttaratantra)** represents the classical s
 
 ---
 
-
 Sushruta Samhita, Volume 6: Uttara-tantra
-
-by Kaviraj Kunja Lal Bhishagratna | 1916 | 113,078 words
 
 This current book, the Uttara-tantra (english translation) is the supplementary part of the Sushrutasamhita and deals various subjects such as diseases of the eye, treatment of fever, diarrhea, diseases resulting from superhuman influences, insanity, rules of health etc.
 
 The Sushruta Samhita is the most representative work of the Hindu system of m...
-
-Go directly to: 
-Footnotes.
 
 Chapter XV - Treatment of eye-diseases which require Excision
 
@@ -63,10 +57,6 @@ Treatment of inner part of the eyelids:—
 The mode of treatment in a case of any affection in the inner lining of the Vartma (eye-lid) is given below. The affected part should be first fomented and then the eye-lid should be over-turned (held at an angle), and the diseased growth or swelling should be carefully lifted up with a needle, when an experienced physician should cut it at its root or base with the help of a sharp Mandalagra instrument. After that the affected part should be rubbed with a pulverised compound consisting of Saindhava, Kasisa (Sulphate of iron) and Pippali. The affected eyedid should then be carefully cauterised with a (red-hot) rod after a (complete) cessation of the bleeding. The residue of its root or base, if any, should be scarified with a scarifying alkaline (caustic) preparation. Decoctions of strong emetic and purgative drugs[6] should be (internally) administered for the elimination of the Doshas (from the Vrana—ulcer). The measures and remedies mentioned in connection with Abhi-shyanda (Ophthalmia) should also be prescribed with regard to the nature of the bodily Doshas involved in the case. The patient shall observe strict regimen ot diet and conduct for a month after the surgical operation. 12.
 
 Thus ends the fifteenth chapter in the Uttara-Tantra of the Sushruta Samhita which treats of the remedies of eye-diseases requiring excisions or surgical operation.
-
-Footnotes and references:
-
-[back to top]
 
 [1]:
 

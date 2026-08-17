@@ -20,15 +20,9 @@ This chapter from **Sushruta Samhita (Sutrasthana)** represents the classical su
 
 ---
 
-
 Sushruta Samhita, volume 1: Sutrasthana
 
-by Kaviraj Kunja Lal Bhishagratna | 1907 | 148,756 words
-
 This current book, the Sutra-sthana (english translation), is the first part of this voluminous medical work. It contains a large summary of the knowledge envelopig the medical aspects of Ayurveda. Descriptions of diseases, various diets and drugs, the duties of a surgeon, surgical procedures, medical training; these are only some of the numerous s...
-
-Go directly to: 
-Footnotes.
 
 Chapter I - Origin of Ayurveda
 
@@ -38,11 +32,7 @@ Once upon a time, when the holy Dhanvantari, the greatest of the mighty celestia
 
 “O Sire, it grieves us much to find men, though otherwise well befriended by their kin and relations, falling a prey to diseases, mental, physical, traumatic, or natural, and piteously wailing in agony like utterly friendless creatures on earth; and we supplicate thee, O Lord, to illumine our minds with the truths of the Eternal Ayurveda (Medical Science) so that we may faithfully discharge the duties allotted to us in life, and alleviate the sufferings of humanity at large. Bliss in this life and hereafter, is in the gift of this eternal Ayurveda, and for this, O Lord, we have made bold to approach thee as thy humble disciples.”
 
-“O Sire, it grieves us much to find men, though otherwise well befriended by their kin and relations, falling a prey to diseases, mental, physical, traumatic, or natural, and piteously wailing in agony like utterly friendless creatures on earth; and we supplicate thee, O Lord, to illumine our minds with the truths of the Eternal Ayurveda (Medical Science) so that we may faithfully discharge the duties allotted to us in life, and alleviate the sufferings of humanity at large. Bliss in this life and hereafter, is in the gift of this eternal Ayurveda, and for this, O Lord, we have made bold to approach thee as thy humble disciples.”
-
 To them, thus replied the holy Dhanvantari:—
-
-“Welcome to all of you to this blissful hermitage. All of you are worthy of the honour of true pupilship or tutelage.”
 
 “Welcome to all of you to this blissful hermitage. All of you are worthy of the honour of true pupilship or tutelage.”
 
@@ -94,11 +84,7 @@ Whereupon the gods approached the celestial Ashvins, and addressed them as follo
 
 “You twins, O lords, who are to be the greatest of us all, connect the head of Yajna with his decapitated trunk.”
 
-“You twins, O lords, who are to be the greatest of us all, connect the head of Yajna with his decapitated trunk.”
-
 To them, replied the divine Ashvins:—
-
-“We shall do, O lords, as you command us to do.”
 
 “We shall do, O lords, as you command us to do.”
 
@@ -157,10 +143,6 @@ Authoritative verse on the subject:—
 The man who reads this Eternal Science of Medicine (Ayurveda-Shastram) discoursed by the self-origined Brahma and propagated by the King of Kasi, becomes noted for his piety, is honoured by the kings on earth, and attains to the region of Indra (the lord of the celestials) after death.
 
 Thus ends the first chapter of the Sutra-Sthana in the Sushruta Samhita which deals with the origin of the Ayurveda.
-
-Footnotes and references:
-
-[back to top]
 
 [1]:
 

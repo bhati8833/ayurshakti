@@ -20,15 +20,9 @@ This chapter from **Sushruta Samhita (Sutrasthana)** represents the classical su
 
 ---
 
-
 Sushruta Samhita, volume 1: Sutrasthana
 
-by Kaviraj Kunja Lal Bhishagratna | 1907 | 148,756 words
-
 This current book, the Sutra-sthana (english translation), is the first part of this voluminous medical work. It contains a large summary of the knowledge envelopig the medical aspects of Ayurveda. Descriptions of diseases, various diets and drugs, the duties of a surgeon, surgical procedures, medical training; these are only some of the numerous s...
-
-Go directly to: 
-Footnotes.
 
 Chapter XL - Knowledge of taste etc of drugs
 
@@ -65,10 +59,6 @@ Of substances under the process of digestion, those, which are characterised by 
 Unscrutable and unthinkable are the virtues of drugs (medicines), which are above all rules of syllogism; and hence drugs (medicines), which have been observed to be efficacious from time immemorial, as well as those laid down in the scriptures on medicines, should alone be used in the course of a medical treatment, A learned physician should think it a sacrilege to logically dispute the efficacy of a medicine of tested virtue, and which has been adopted after generations of careful observation and is instinctively pronounced by men as a beneficial remedy. No amount of logic will alter the nature of things, nor persuade the drugs of the Amboshtha group to exercise a purgative virtue. Hence an intelligent physician should adhere to the officinal recipes given in the books on medicine, and not introduce innovations, however logical or probable, into the realms of applied or practical Therapeutics.
 
 Thus ends the fortieth Chapter of the Sutrasthana in the Sushruta Samhita, which deals with drugs and their flavours, virtues, and digestive (chemical) transformation.
-
-Footnotes and references:
-
-[back to top]
 
 [1]:
 

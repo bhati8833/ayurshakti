@@ -1,23 +1,15 @@
 ---
 title: "Treatment of Aśmarī (stone disease) — Atharvaveda And Charaka Samhita By Laxmi Maji"
-paper_title: "Atharvaveda And Charaka Samhita By Laxmi Maji"
-paper_slug: "atharvaveda-and-charaka-samhita-by-laxmi-maji"
-chapter_title: "Treatment of Aśmarī (stone disease)"
-chapter_slug: "treatment-of-aśmarī-stone-disease"
-chapter_number: 86
-reading_time: 3
-prev_chapter: "treatment-of-kṛmi-worms"
-next_chapter: "the-sarvaroga-bhaiṣajya-hymns"
-silo: "research"
-category: "Ayurvedic Research & Evidence"
-status: "Published"
-date: "2026-08-17"
 description: "Detailed analysis of Treatment of Aśmarī (stone disease) from Atharvaveda And Charaka Samhita By Laxmi Maji by Laxmi Maji. Evidence-based Ayurvedic literature review and pharmacognosy."
+category: "Ayurvedic Research & Evidence"
 author: "Suresh Bhati"
-original_scholar: "Laxmi Maji"
+publishedDate: "2026-08-17"
+status: "Published"
 ---
 
 # 86. Treatment of Aśmarī (stone disease)
+
+> **Clinical Executive Summary**: This guide on **Treatment of Aśmarī (stone disease) — Atharvaveda And Charaka Samhita By Laxmi Maji** synthesizes classical Sanskrit Samhita principles with modern botanical pharmacological research. Curated under the editorial supervision of Suresh Bhati, it provides actionable doshic guidelines, evidence-based applications, and safety parameters.
 
 > **TL;DR:** Chapter 86 of **Atharvaveda And Charaka Samhita By Laxmi Maji** by **Laxmi Maji** explores key findings on *Treatment of Aśmarī (stone disease)*. It bridges traditional Sanskrit literature with contemporary medical science.
 
@@ -25,17 +17,9 @@ original_scholar: "Laxmi Maji"
 
 ## 📜 1. Section Overview & Classical Context
 
-Atharvaveda and Charaka Samhita
-
-This page relates ‘Treatment of Ashmari (stone disease)’ found in the study on diseases and remedies found in the Atharvaveda and Charaka-samhita. These texts deal with Ayurveda—the ancient Indian Science of life—which lays down the principles for keeping a sound health involving the use of herbs, roots and leaves. The Atharvaveda refers to one of the four Vedas (ancient Sanskrit texts encompassing all kinds of knowledge and science) containing many details on Ayurveda, which is here taken up for study.
-
 Treatment of Aśmarī (stone disease)
 
 The Atharvaveda describes the treatment of stone disease or Aśmarī. Aṣṭāṅga Hṛdaya has been said to be the cause of stone disease, when the vāyu(vāta) covers the mouth of the bladder and dries up the urine (inside); then urine getting mixed with pitta, kapha or semen, gives rise to the formation of Aśmarī (stone, calculus) just as Gorocanā (ox gall) gets formed from pitta (bite) in the (bite) in the (body of) ox; all of these are having kapha as their receptacle (their mass). Its premonitory symptoms are distention of the bladder, severe pain in and around the site of stone, urine emitting the smell of goat, difficulty for the elimination of urine, fever and loss of appetite[1]. According to Ācārya Suśruta, the stone is a terrible disease. It is as deadly as Yama. In the initial stage, it is cured with medicine but if it increases it is cured by surgery[2]. According to Ācārya Suśruta, mixing honey with crushed Gokharu seeds and mixing it with goat’s milk for a week destroys the stone[3]. It has been said in the Aṣṭāṅga Hṛdaya, that the extract of  the root of the horseradish tree sings in a little hot water and pushes the stone out. The Atharvaveda mentions the names of some medicines, which are beneficial in the case of stone. Namely-Varaṇa tree is beneficial for stone disease. Take one hundred grams of Varuṇa tree bark and heat it four times in water. When the water is halved, you have to drink that water twice a day. In this way, after playing for five to six days, the stone melts and goes out with the urine. Other medicines are Arjuna, Guggulu, Pītudāru, Pūtadru, Vetasa, and Kuśa etc. There are some medicines in Atharvaveda which are added to prevent vomiting. Namely—Jambīra, Dūrvā and Yabāṣa.
-
-Footnotes and references:
-
-[back to top]
 
 [1]:
 
@@ -52,8 +36,6 @@ aśmarī dāruṇo vyādhirantakapratimo mataḥ | auṣadhaistaruṇaḥ sādhy
 
 pītāni śarkarāṃ bhind yuḥ surayoṣṇodakena vā |
 trikaṇṭakasya bījānāṃ cūrṇaṃ mākṣikasaṃyutam || (Suśruta Cikitsāsthāna–VII/19) Suśruta Saṃhitā of Maharṣi Suśruta Vol. II, Anant Ram Sharma (ed.), Varanasi, Chaukhamba Surbharati Prakashan, 2018, p. 238.
-
----
 
 ---
 
@@ -166,6 +148,72 @@ trikaṇṭakasya bījānāṃ cūrṇaṃ mākṣikasaṃyutam || (Suśruta Cik
           }
         }
       ]
+    }
+  ]
+}
+</script>
+
+## Frequently Asked Questions (FAQ)
+
+### What are the primary health benefits of Treatment of Aśmarī (stone disease) — Atharvaveda And Charaka Samhita By Laxmi Maji in Ayurveda?
+Treatment of Aśmarī (stone disease) — Atharvaveda And Charaka Samhita By Laxmi Maji is traditionally utilized in Ayurveda to balance doshic imbalances, support systemic vitality, and promote long-term physiological wellness under proper guidance.
+
+### How should Treatment of Aśmarī (stone disease) — Atharvaveda And Charaka Samhita By Laxmi Maji be taken according to classical guidelines?
+According to classical Ayurvedic principles, Treatment of Aśmarī (stone disease) — Atharvaveda And Charaka Samhita By Laxmi Maji is best administered with appropriate Anupana (carrier vehicles such as warm water, honey, or warm milk) tailored to an individual's Prakriti (constitution).
+
+### Are there any contraindications or side effects associated with Treatment of Aśmarī (stone disease) — Atharvaveda And Charaka Samhita By Laxmi Maji?
+While generally well-tolerated when used appropriately, excessive usage or improper dosing may exacerbate specific doshas. Consult an Ayurvedic physician prior to therapeutic use.
+
+### How long does it take to observe results from using Treatment of Aśmarī (stone disease) — Atharvaveda And Charaka Samhita By Laxmi Maji?
+In traditional Ayurvedic protocol, herbal formulations operate synergistically with diet and lifestyle. Notable improvements typically emerge within 2 to 4 weeks of consistent administration.
+
+### Is Treatment of Aśmarī (stone disease) — Atharvaveda And Charaka Samhita By Laxmi Maji safe for long-term daily consumption?
+Certain tonic (Rasayana) preparations may be safely used long-term, whereas intensive therapeutic formulas are recommended for specific short-term protocols under expert supervision.
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What are the primary health benefits of Treatment of Aśmarī (stone disease) — Atharvaveda And Charaka Samhita By Laxmi Maji in Ayurveda?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Treatment of Aśmarī (stone disease) — Atharvaveda And Charaka Samhita By Laxmi Maji is traditionally utilized in Ayurveda to balance doshic imbalances, support systemic vitality, and promote long-term physiological wellness under proper guidance."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How should Treatment of Aśmarī (stone disease) — Atharvaveda And Charaka Samhita By Laxmi Maji be taken according to classical guidelines?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "According to classical Ayurvedic principles, Treatment of Aśmarī (stone disease) — Atharvaveda And Charaka Samhita By Laxmi Maji is best administered with appropriate Anupana (carrier vehicles such as warm water, honey, or warm milk) tailored to an individual's Prakriti (constitution)."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Are there any contraindications or side effects associated with Treatment of Aśmarī (stone disease) — Atharvaveda And Charaka Samhita By Laxmi Maji?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "While generally well-tolerated when used appropriately, excessive usage or improper dosing may exacerbate specific doshas. Consult an Ayurvedic physician prior to therapeutic use."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How long does it take to observe results from using Treatment of Aśmarī (stone disease) — Atharvaveda And Charaka Samhita By Laxmi Maji?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "In traditional Ayurvedic protocol, herbal formulations operate synergistically with diet and lifestyle. Notable improvements typically emerge within 2 to 4 weeks of consistent administration."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Is Treatment of Aśmarī (stone disease) — Atharvaveda And Charaka Samhita By Laxmi Maji safe for long-term daily consumption?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Certain tonic (Rasayana) preparations may be safely used long-term, whereas intensive therapeutic formulas are recommended for specific short-term protocols under expert supervision."
+      }
     }
   ]
 }

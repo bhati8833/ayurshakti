@@ -20,17 +20,11 @@ This chapter from **Sushruta Samhita (Chikitsasthana)** represents the classical
 
 ---
 
-
 Sushruta Samhita, volume 4: Cikitsasthana
-
-by Kaviraj Kunja Lal Bhishagratna | 1911 | 123,229 words
 
 This current book, the Chikitsa-sthana (english translation), deals with therapeutics, surgical emergencies, geriatrics, aphrodisiacs and various other subjects.
 
 The Sushruta Samhita is the most representative work of the Hindu system of medicine. It embraces all that can possibly appertain to the science of medicine. Susruta-samhita is recognized...
-
-Go directly to: 
-Footnotes.
 
 Chapter VI - The medical treatment of Hemorrhoids
 
@@ -97,10 +91,6 @@ Vrikshaka (Kutaja) and Bhallataka[11] prove as much curative in cases of all kin
 Medicated Ghritas, appetising drugs, electuaries, medicinal wines, Ayaskriti and asava should be prescribed in cases of hemorrhoids, according to the nature and intensity of the Doshas involved therein. Voluntary suppression of any natural urgings of the body, sexual intercourse, riding on horse-back, etc., sitting on the legs and such diets as would aggravate the Doshas, should be avoided in cases of hemorrhoids. 20-21.
 
 Thus ends the sixth Chapter in the Chikitsita Sthana of the Sushruta Samhita which deals with the medical treatment of Arshas.
-
-Footnotes and references:
-
-[back to top]
 
 [1]:
 

@@ -18,7 +18,6 @@ Language and terminology form the backbone of traditional Indian medicine. Every
 
 ---
 
-
 ### Key Sanskrit Terms starting with 'F' (Sample Preview)
 The following is an excerpt of classical Sanskrit terms starting with letter **F**:
 
@@ -56,7 +55,6 @@ The following is an excerpt of classical Sanskrit terms starting with letter **F
 </ul>
 
 *Browse all 29 authenticated terms under Letter F in the searchable directory above.*
-
 
 ---
 

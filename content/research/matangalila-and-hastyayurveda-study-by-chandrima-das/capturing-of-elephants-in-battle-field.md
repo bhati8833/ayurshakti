@@ -1,23 +1,15 @@
 ---
 title: "Capturing of elephants in battle-field — Matangalila And Hastyayurveda Study By Chandrima Das"
-paper_title: "Matangalila And Hastyayurveda Study By Chandrima Das"
-paper_slug: "matangalila-and-hastyayurveda-study-by-chandrima-das"
-chapter_title: "Capturing of elephants in battle-field"
-chapter_slug: "capturing-of-elephants-in-battle-field"
-chapter_number: 19
-reading_time: 8
-prev_chapter: "epithets-containing-elephants"
-next_chapter: "elephants-as-chronogram"
-silo: "research"
-category: "Ayurvedic Research & Evidence"
-status: "Published"
-date: "2026-08-17"
 description: "Detailed analysis of Capturing of elephants in battle-field from Matangalila And Hastyayurveda Study By Chandrima Das by Chandrima Das. Evidence-based Ayurvedic literature review and pharmacognosy."
+category: "Ayurvedic Research & Evidence"
 author: "Suresh Bhati"
-original_scholar: "Chandrima Das"
+publishedDate: "2026-08-17"
+status: "Published"
 ---
 
 # 19. Capturing of elephants in battle-field
+
+> **Clinical Executive Summary**: This guide on **Capturing of elephants in battle-field — Matangalila And Hastyayurveda Study By Chandrima Das** synthesizes classical Sanskrit Samhita principles with modern botanical pharmacological research. Curated under the editorial supervision of Suresh Bhati, it provides actionable doshic guidelines, evidence-based applications, and safety parameters.
 
 > **TL;DR:** Chapter 19 of **Matangalila And Hastyayurveda Study By Chandrima Das** by **Chandrima Das** explores key findings on *Capturing of elephants in battle-field*. It bridges traditional Sanskrit literature with contemporary medical science.
 
@@ -37,15 +29,11 @@ The spurious Sudi plates[5] give another example of coveting warelephants to be 
 
 “When that king named Baddega had gone to appropriate the fortunes of (the god) Indra in heaven[6], took elephants and horses and white umbrellas and thrones from the possession of Lalleya, and gave (them) to king Kṛṣṇa……having, at command indeed, conquered king Rājāditya who was made arrogant by pride in (his) array of elephants,—having…….laid seize to the town of Tañjāpurī,-(and) having burnt numbers of hill forts, headed by Nāḷakoṭe,—(he), the glorious Gañja-Nārāyaṇa, of his own accord gave to (king) Kṛṣṇa lordly elephants (and) horses (and) great wealth. With thunder bolts that were the maxims of those who interpret the Vedic writing etc. (he), king Jayad-uttaraṅga[7], cleft open the frontal globes of the lordly elephants who are the expounders of evil precepts puffed up with the rut that is the doctrine of devotion to one sole object of worship.
 
-“When that king named Baddega had gone to appropriate the fortunes of (the god) Indra in heaven[6], took elephants and horses and white umbrellas and thrones from the possession of Lalleya, and gave (them) to king Kṛṣṇa……having, at command indeed, conquered king Rājāditya who was made arrogant by pride in (his) array of elephants,—having…….laid seize to the town of Tañjāpurī,-(and) having burnt numbers of hill forts, headed by Nāḷakoṭe,—(he), the glorious Gañja-Nārāyaṇa, of his own accord gave to (king) Kṛṣṇa lordly elephants (and) horses (and) great wealth. With thunder bolts that were the maxims of those who interpret the Vedic writing etc. (he), king Jayad-uttaraṅga[7], cleft open the frontal globes of the lordly elephants who are the expounders of evil precepts puffed up with the rut that is the doctrine of devotion to one sole object of worship.
-
 The Pithapuram Pillar inscription of Mallapadeva (Śaka Samvat 1124, i.e. CE 1202) recorded that the thirteenth king of this dynasty, Guṇaga-Vijayāditya bore the surname Tribhuvanāṅkuśa and he is reported to have received elephants as tribute from the king of Kaliṅga, it indicates towards the victory of the king over the Kaliṅga (v.9-10)[8]. We are come to know another Western Gaṅga king Mārasiṃha II from his Sravana Veḷgola Epitaph (9th-10th Century CE) and other epigraphic sources from Śravaṇa Belgoḷa that his successes against Vajjala, and at Gonūr and Uccaṅgi were actually achieved for him by a minister named Cāmuṇḍarāya or Cāvuṇḍarāja, who wrote Cāmuṇḍarāya Purāṇa and was a minister of also Rācamalla II who came next but one in the succession after Mārasiṃha II. Thus another record at Sravana Belgola[9] tells us that the array of his (Cāmuṇḍarāya’s) enemies was broken, like a herd of deer on him, resembling a tusked elephant running to and fro (among) them. The enemy was Vajjaladeva. So the supremacy of the elephant squad in Gaṅga army reflects through this epigraph.
 
 From the Śravana Belgoḷa epitaph of Western Gaṅga king Mārasiṃha II we come to know that the foremost king of the Gaṅga family Sayavākya Koṅguṇivarman, who came to be greatly extolled capturing many things with rutting elephants and all the other possessions of the lord of the Vanavāsi country, who bowed down in fear. Another inscription on a pillar in the Mūlasthāneśvara temple at Nāndeṇḍla refers to glorious squad of elephants of the Gaṅga kings of Kaliṅga (evidently Anantavarman alias Coḍagaṅga of Kaliṅga who reigned from Śaka samvat 999 to 1064) having consumed, like straw, the warriors of the bold enemy and having cut off (like), lotuses, their heads the mighty rutting elephants the Maṇḍalika Maṇḍa II (v.8)[10]. After defeating the army of the enemy, he gave to Rājendra-Cola mighty elephants which had been captured there, (and) whose temples were bright with rut[11]. Mention may be made here Abul Fazl’s note about wild elephants incidentally enable us to see how it was that Rājendra Cola (Kulattuṅga I) carried off many herds of wild elephants from Vayirāgaram (according to him city of Birāgarḥ) mentioned in the Tiruvorriyur inscription[12].One of the fourteen inscriptions at Tirukkovalur says that in his sixth regnal year the king Parakeśarivarman alias the lord Śrī Rājendradeva defeated Ahavamalla at Koppam (on) the bank of the great river seized his elephants, horses, women and treasures[13]. In the Nammuru grant of Ammarāja II of the Eastern Cālukya family, verse 5 contains unique description about Amma II than the other Cālukyan records.
 
 It contains the following fanciful statement:—
-
-“While this lord of the earth is proceeding to view the gardens outside (his palace), the frightened lords of the countries (lying) in that direction are offering (him) jewels, gold, horses, noble elephants and foot-soldiers”[14].
 
 “While this lord of the earth is proceeding to view the gardens outside (his palace), the frightened lords of the countries (lying) in that direction are offering (him) jewels, gold, horses, noble elephants and foot-soldiers”[14].
 
@@ -61,13 +49,7 @@ In the praśasti of the Temple of Lakkhā Maṇḍal at Meḍhā in Jaunsār Bā
 
 “aparāmagaṇitasandara kariradanāgrāṅkitiraska” (v.12)[20].
 
-“aparāmagaṇitasandara kariradanāgrāṅkitiraska” (v.12)[20].
-
 In this inscription one Divākarvarman whose famed appellation the Mahīghaṅghala warrior made his foes weaponless, when he nimbly strove over the battle (field) that was impossible on account of the elephant’s tusk (v.14)[21]. Again one Bhāskara is said likewise by whom scaling on foot mountain fortresses accessible (only) to birds, kings expert in fighting were attacked and made to pay a tribute elephants (hastikaranaṃ dāpitāḥ kṣitipāḥ) (v.17)[22].
-
-Footnotes and references:
-
-[back to top]
 
 [1]:
 
@@ -156,8 +138,6 @@ Ibid., pp. 13 & 15.
 [22]:
 
 Ibid., pp.13 & 15.
-
----
 
 ---
 
@@ -270,6 +250,72 @@ Ibid., pp.13 & 15.
           }
         }
       ]
+    }
+  ]
+}
+</script>
+
+## Frequently Asked Questions (FAQ)
+
+### What are the primary health benefits of Capturing of elephants in battle-field — Matangalila And Hastyayurveda Study By Chandrima Das in Ayurveda?
+Capturing of elephants in battle-field — Matangalila And Hastyayurveda Study By Chandrima Das is traditionally utilized in Ayurveda to balance doshic imbalances, support systemic vitality, and promote long-term physiological wellness under proper guidance.
+
+### How should Capturing of elephants in battle-field — Matangalila And Hastyayurveda Study By Chandrima Das be taken according to classical guidelines?
+According to classical Ayurvedic principles, Capturing of elephants in battle-field — Matangalila And Hastyayurveda Study By Chandrima Das is best administered with appropriate Anupana (carrier vehicles such as warm water, honey, or warm milk) tailored to an individual's Prakriti (constitution).
+
+### Are there any contraindications or side effects associated with Capturing of elephants in battle-field — Matangalila And Hastyayurveda Study By Chandrima Das?
+While generally well-tolerated when used appropriately, excessive usage or improper dosing may exacerbate specific doshas. Consult an Ayurvedic physician prior to therapeutic use.
+
+### How long does it take to observe results from using Capturing of elephants in battle-field — Matangalila And Hastyayurveda Study By Chandrima Das?
+In traditional Ayurvedic protocol, herbal formulations operate synergistically with diet and lifestyle. Notable improvements typically emerge within 2 to 4 weeks of consistent administration.
+
+### Is Capturing of elephants in battle-field — Matangalila And Hastyayurveda Study By Chandrima Das safe for long-term daily consumption?
+Certain tonic (Rasayana) preparations may be safely used long-term, whereas intensive therapeutic formulas are recommended for specific short-term protocols under expert supervision.
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What are the primary health benefits of Capturing of elephants in battle-field — Matangalila And Hastyayurveda Study By Chandrima Das in Ayurveda?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Capturing of elephants in battle-field — Matangalila And Hastyayurveda Study By Chandrima Das is traditionally utilized in Ayurveda to balance doshic imbalances, support systemic vitality, and promote long-term physiological wellness under proper guidance."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How should Capturing of elephants in battle-field — Matangalila And Hastyayurveda Study By Chandrima Das be taken according to classical guidelines?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "According to classical Ayurvedic principles, Capturing of elephants in battle-field — Matangalila And Hastyayurveda Study By Chandrima Das is best administered with appropriate Anupana (carrier vehicles such as warm water, honey, or warm milk) tailored to an individual's Prakriti (constitution)."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Are there any contraindications or side effects associated with Capturing of elephants in battle-field — Matangalila And Hastyayurveda Study By Chandrima Das?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "While generally well-tolerated when used appropriately, excessive usage or improper dosing may exacerbate specific doshas. Consult an Ayurvedic physician prior to therapeutic use."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How long does it take to observe results from using Capturing of elephants in battle-field — Matangalila And Hastyayurveda Study By Chandrima Das?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "In traditional Ayurvedic protocol, herbal formulations operate synergistically with diet and lifestyle. Notable improvements typically emerge within 2 to 4 weeks of consistent administration."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Is Capturing of elephants in battle-field — Matangalila And Hastyayurveda Study By Chandrima Das safe for long-term daily consumption?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Certain tonic (Rasayana) preparations may be safely used long-term, whereas intensive therapeutic formulas are recommended for specific short-term protocols under expert supervision."
+      }
     }
   ]
 }

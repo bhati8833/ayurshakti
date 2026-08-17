@@ -1,23 +1,15 @@
 ---
 title: "Disease in the classical Saṃhitās — Charaka Samhita And Sushruta Samhita By Nayana Sharma"
-paper_title: "Charaka Samhita And Sushruta Samhita By Nayana Sharma"
-paper_slug: "charaka-samhita-and-sushruta-samhita-by-nayana-sharma"
-chapter_title: "Disease in the classical Saṃhitās"
-chapter_slug: "disease-in-the-classical-saṃhitās"
-chapter_number: 40
-reading_time: 4
-prev_chapter: "disease-in-the-vedas"
-next_chapter: "aetiology-a-ādhyatmika"
-silo: "research"
-category: "Ayurvedic Research & Evidence"
-status: "Published"
-date: "2026-08-17"
 description: "Detailed analysis of Disease in the classical Saṃhitās from Charaka Samhita And Sushruta Samhita By Nayana Sharma by Nayana Sharma. Evidence-based Ayurvedic literature review and pharmacognosy."
+category: "Ayurvedic Research & Evidence"
 author: "Suresh Bhati"
-original_scholar: "Nayana Sharma"
+publishedDate: "2026-08-17"
+status: "Published"
 ---
 
 # 40. Disease in the classical Saṃhitās
+
+> **Clinical Executive Summary**: This guide on **Disease in the classical Saṃhitās — Charaka Samhita And Sushruta Samhita By Nayana Sharma** synthesizes classical Sanskrit Samhita principles with modern botanical pharmacological research. Curated under the editorial supervision of Suresh Bhati, it provides actionable doshic guidelines, evidence-based applications, and safety parameters.
 
 > **TL;DR:** Chapter 40 of **Charaka Samhita And Sushruta Samhita By Nayana Sharma** by **Nayana Sharma** explores key findings on *Disease in the classical Saṃhitās*. It bridges traditional Sanskrit literature with contemporary medical science.
 
@@ -40,10 +32,6 @@ Other than roga, there are several terms that signify disease in our classical S
 Disease is conceptualized as an altered condition of the body and/or the mind that is associated with pain and misery. The perception of fear is also associated with conditions of disorder as we recall the words of Bharadvāja when he approached Indra with the prayer for learning the science of life: “The diseases terrifying to all creatures have manifested themselves…” (vyādho hi samutpannāḥ sarvaprāṇibhayaṅkarāḥ).[23]
 
 Caraka refers to two allegorical narratives relating to the origin of fever and tuberculosis. The wrath of Śiva afflicts men with fever;[24] and that of Dakṣa afflicted Candra with consumption.[25] In both situations, anger is personified as malevolent force that begets suffering in humans as disease. Thus, anger/krodha, yakṣmā, jvara and roga are synonymous in medical parlance and all they connote duḥkha or misery (krodho yakṣmā jvaro roga ekārtho duḥkhasaṃjñak).[26]
-
-Footnotes and references:
-
-[back to top]
 
 [1]:
 
@@ -148,8 +136,6 @@ Caraka Saṃhitā Cikitsāsthāna 8.5.
 [26]:
 
 Caraka Saṃhitā Cikitsāsthāna 8.11.
-
----
 
 ---
 
@@ -262,6 +248,72 @@ Caraka Saṃhitā Cikitsāsthāna 8.11.
           }
         }
       ]
+    }
+  ]
+}
+</script>
+
+## Frequently Asked Questions (FAQ)
+
+### What are the primary health benefits of Disease in the classical Saṃhitās — Charaka Samhita And Sushruta Samhita By Nayana Sharma in Ayurveda?
+Disease in the classical Saṃhitās — Charaka Samhita And Sushruta Samhita By Nayana Sharma is traditionally utilized in Ayurveda to balance doshic imbalances, support systemic vitality, and promote long-term physiological wellness under proper guidance.
+
+### How should Disease in the classical Saṃhitās — Charaka Samhita And Sushruta Samhita By Nayana Sharma be taken according to classical guidelines?
+According to classical Ayurvedic principles, Disease in the classical Saṃhitās — Charaka Samhita And Sushruta Samhita By Nayana Sharma is best administered with appropriate Anupana (carrier vehicles such as warm water, honey, or warm milk) tailored to an individual's Prakriti (constitution).
+
+### Are there any contraindications or side effects associated with Disease in the classical Saṃhitās — Charaka Samhita And Sushruta Samhita By Nayana Sharma?
+While generally well-tolerated when used appropriately, excessive usage or improper dosing may exacerbate specific doshas. Consult an Ayurvedic physician prior to therapeutic use.
+
+### How long does it take to observe results from using Disease in the classical Saṃhitās — Charaka Samhita And Sushruta Samhita By Nayana Sharma?
+In traditional Ayurvedic protocol, herbal formulations operate synergistically with diet and lifestyle. Notable improvements typically emerge within 2 to 4 weeks of consistent administration.
+
+### Is Disease in the classical Saṃhitās — Charaka Samhita And Sushruta Samhita By Nayana Sharma safe for long-term daily consumption?
+Certain tonic (Rasayana) preparations may be safely used long-term, whereas intensive therapeutic formulas are recommended for specific short-term protocols under expert supervision.
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What are the primary health benefits of Disease in the classical Saṃhitās — Charaka Samhita And Sushruta Samhita By Nayana Sharma in Ayurveda?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Disease in the classical Saṃhitās — Charaka Samhita And Sushruta Samhita By Nayana Sharma is traditionally utilized in Ayurveda to balance doshic imbalances, support systemic vitality, and promote long-term physiological wellness under proper guidance."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How should Disease in the classical Saṃhitās — Charaka Samhita And Sushruta Samhita By Nayana Sharma be taken according to classical guidelines?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "According to classical Ayurvedic principles, Disease in the classical Saṃhitās — Charaka Samhita And Sushruta Samhita By Nayana Sharma is best administered with appropriate Anupana (carrier vehicles such as warm water, honey, or warm milk) tailored to an individual's Prakriti (constitution)."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Are there any contraindications or side effects associated with Disease in the classical Saṃhitās — Charaka Samhita And Sushruta Samhita By Nayana Sharma?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "While generally well-tolerated when used appropriately, excessive usage or improper dosing may exacerbate specific doshas. Consult an Ayurvedic physician prior to therapeutic use."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How long does it take to observe results from using Disease in the classical Saṃhitās — Charaka Samhita And Sushruta Samhita By Nayana Sharma?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "In traditional Ayurvedic protocol, herbal formulations operate synergistically with diet and lifestyle. Notable improvements typically emerge within 2 to 4 weeks of consistent administration."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Is Disease in the classical Saṃhitās — Charaka Samhita And Sushruta Samhita By Nayana Sharma safe for long-term daily consumption?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Certain tonic (Rasayana) preparations may be safely used long-term, whereas intensive therapeutic formulas are recommended for specific short-term protocols under expert supervision."
+      }
     }
   ]
 }

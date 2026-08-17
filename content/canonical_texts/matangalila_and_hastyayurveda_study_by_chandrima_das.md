@@ -9,24 +9,13 @@ date: "2026-08-17"
 description: "Texts: Matangalila and Hastyayurveda’ of the study on the Matangalina and Hastyayurveda in the light of available epigraphic data on elephants in ancient India."
 ---
 
-**Author / Source:** by Chandrima Das
-
-
-**Total Chapters/Sections:** 75
-
 ---
 
 ## 1. Introducing the two Major Texts: Mātaṅgalīlā and Hastyāyurveda
 
-
 Matangalila and Hastyayurveda (study)
 
-by Chandrima Das | 2021 | 98,676 words
-
 This page relates ‘Introducing the two Major Texts: Matangalila and Hastyayurveda’ of the study on the Matangalina and Hastyayurveda in the light of available epigraphic data on elephants in ancient India. Both the Matanga-Lila (by Nilakantha) and and the Hasti-Ayurveda (by Palakapya) represent technical Sanskrit works deal with the treatment of elephants. This thesis deals with their natural abode, capturing techniques, myths and metaphors, and other text related to elephants reflected from a historical and chronological cultural framework.
-
-Go directly to: 
-Footnotes.
 
 Introducing the two Major Texts: Mātaṅgalīlā and Hastyāyurveda
 
@@ -46,10 +35,6 @@ Technical treatises on “elephant-science” i.e. gaja-śāstra have been a ver
 
 On the basis of Mātaṅgalīlā and Hastyāyurveda, the two imperative texts on elephants we shall discuss the life cycle, behaviour, types, availability, food habits, reproduction, diseases and cure etc. of elephants. Edgerton mentions this as elephantology[2]. In keeping with the ancient textual tradition these texts also have an origin myth or one can trace the mythical origin of the texts. The origin of this science has been attributed to a mythical sage named Pālakāpya. Like other texts the flow of the knowledge is hierarchical in fashion. It is mentioned that he revealed the elephant lore first to an apparently mythical king Romapāda who is mentioned as the ruler of Aṅga. Like other texts this is in the form of dialogues between two personages.
 
-Footnotes and references:
-
-[back to top]
-
 [1]:
 
 H.C. Raychaudhuri. Political History of Ancient India, Calcutta: University of Calcutta, 1972, p.231.
@@ -62,10 +47,7 @@ Franklin Edgerton. The Elephant-Lore of the Hindus, Delhi: Motilal Banarsidass, 
 
 ## 2. Acknowledgement
 
-
 Matangalila and Hastyayurveda (study)
-
-by Chandrima Das | 2021 | 98,676 words
 
 This study analyzes the Matangalina and Hastyayurveda in the light of available epigraphic data on elephants in ancient India. The Matanga-Lila is composed by Nilakantha and represents a technical Sanskrit work on elephants in 263 verses divided over twelve chapters. The Hasti-Ayurveda is composed by Palakapya (muni) and deals primarily with the me...
 
@@ -105,10 +87,7 @@ Place: Kolkata
 
 ## 3. Chapter 1
 
-
 Matangalila and Hastyayurveda (study)
-
-by Chandrima Das | 2021 | 98,676 words
 
 This page relates ‘Chapter 1’ of the study on the Matangalina and Hastyayurveda in the light of available epigraphic data on elephants in ancient India. Both the Matanga-Lila (by Nilakantha) and and the Hasti-Ayurveda (by Palakapya) represent technical Sanskrit works deal with the treatment of elephants. This thesis deals with their natural abode, capturing techniques, myths and metaphors, and other text related to elephants reflected from a historical and chronological cultural framework.
 
@@ -120,10 +99,7 @@ Chapter 1
 
 ## 4. Abstract
 
-
 Matangalila and Hastyayurveda (study)
-
-by Chandrima Das | 2021 | 98,676 words
 
 This page relates ‘Abstract’ of the study on the Matangalina and Hastyayurveda in the light of available epigraphic data on elephants in ancient India. Both the Matanga-Lila (by Nilakantha) and and the Hasti-Ayurveda (by Palakapya) represent technical Sanskrit works deal with the treatment of elephants. This thesis deals with their natural abode, capturing techniques, myths and metaphors, and other text related to elephants reflected from a historical and chronological cultural framework.
 
@@ -137,15 +113,9 @@ There is special position of elephant lore in early Indian literature and gajaś
 
 ## 5. Summary of the Mātaṅgalīlā
 
-
 Matangalila and Hastyayurveda (study)
 
-by Chandrima Das | 2021 | 98,676 words
-
 This page relates ‘Summary of the Matangalila’ of the study on the Matangalina and Hastyayurveda in the light of available epigraphic data on elephants in ancient India. Both the Matanga-Lila (by Nilakantha) and and the Hasti-Ayurveda (by Palakapya) represent technical Sanskrit works deal with the treatment of elephants. This thesis deals with their natural abode, capturing techniques, myths and metaphors, and other text related to elephants reflected from a historical and chronological cultural framework.
-
-Go directly to: 
-Footnotes.
 
 Summary of the Mātaṅgalīlā
 
@@ -172,13 +142,7 @@ Since they attack with trunk, tail, tusks and four feet also, therefore elephant
 śuṇḍāvāladhidantaiśra caturmiśra padairapi /
 praharanti yatastasmādaṣṭaprahaṇā dvipāḥ: v.31.
 
-śuṇḍāvāladhidantaiśra caturmiśra padairapi /
-praharanti yatastasmādaṣṭaprahaṇā dvipāḥ: v.31.
-
 They (i-me) are afraid (bhi) of all, and their form is superior (a-bhya-dhika) to all on the ground of beauty; so the great sages call them i-bha:
-
-ime bibhyatiti sarvebhyaḥ sarbhevyo abhyadhikaṃ vapuḥ /
-kāntatvāñca tathā prāhuribhānetān maharṣayaḥ: v.33.
 
 ime bibhyatiti sarvebhyaḥ sarbhevyo abhyadhikaṃ vapuḥ /
 kāntatvāñca tathā prāhuribhānetān maharṣayaḥ: v.33.
@@ -187,11 +151,7 @@ They are called karin because they are provided with an excellent “hand” (tr
 
 praśastakarasaṃyogāt karino
 
-praśastakarasaṃyogāt karino
-
 Dantin or is derived from tusks or tusked animal (dantinastathā) similarly sindhura, because of their delight (ram) in bathing in the river (sindhu)
-
-sindhurāḥ sindhuramaṇādevaṃnirvacanakramaḥ[10].
 
 sindhurāḥ sindhuramaṇādevaṃnirvacanakramaḥ[10].
 
@@ -266,10 +226,6 @@ The twelfth chapter:
 
 The twelfth and the last chapter (Dvādaśaḥ paṭalaḥ: ādhoraṇaguṇāddhādhikāro) is miscellaneous, but is a very important chapter dealing primarily with the character and activities of elephant managers, trainers and drivers.
 
-Footnotes and references:
-
-[back to top]
-
 [1]:
 
 Gaṇapati Sāstrī. ed.The Mātaṅgalīlā of Nīlakaṇṭha, Trivandum: Trivandum Sanskrit Series, No.X, 1910.
@@ -334,15 +290,9 @@ Franklin Edgerton., pp.62-66 and Ga , pp. 12-15.
 
 ## 6. Summary of the Hastyāyurveda
 
-
 Matangalila and Hastyayurveda (study)
 
-by Chandrima Das | 2021 | 98,676 words
-
 This page relates ‘Summary of the Hastyayurveda’ of the study on the Matangalina and Hastyayurveda in the light of available epigraphic data on elephants in ancient India. Both the Matanga-Lila (by Nilakantha) and and the Hasti-Ayurveda (by Palakapya) represent technical Sanskrit works deal with the treatment of elephants. This thesis deals with their natural abode, capturing techniques, myths and metaphors, and other text related to elephants reflected from a historical and chronological cultural framework.
-
-Go directly to: 
-Footnotes.
 
 Summary of the Hastyāyurveda
 
@@ -673,14 +623,7 @@ Hence having elephants domesticated has been considered as imperative for the ro
 Vāraṇeṣu tu sāmarthyaṃ viśeṣeṇeha dṛśyate /
 Trayāṇāmapi sainyānāṃ vidyante naiva te guṇāḥ // (v.35)[9]
 
-Vāraṇeṣu tu sāmarthyaṃ viśeṣeṇeha dṛśyate /
-Trayāṇāmapi sainyānāṃ vidyante naiva te guṇāḥ // (v.35)[9]
-
 The treatise also mentions that without elephants army is just like night without moon, and earth without crops.[10]
-
-Footnotes and references:
-
-[back to top]
 
 [1]:
 
@@ -726,15 +669,9 @@ Ibid. v. 35, p.41.
 
 ## 7. Classification and Treatment of Elephant diseases
 
-
 Matangalila and Hastyayurveda (study)
 
-by Chandrima Das | 2021 | 98,676 words
-
 This page relates ‘Classification and Treatment of Elephant diseases’ of the study on the Matangalina and Hastyayurveda in the light of available epigraphic data on elephants in ancient India. Both the Matanga-Lila (by Nilakantha) and and the Hasti-Ayurveda (by Palakapya) represent technical Sanskrit works deal with the treatment of elephants. This thesis deals with their natural abode, capturing techniques, myths and metaphors, and other text related to elephants reflected from a historical and chronological cultural framework.
-
-Go directly to: 
-Footnotes.
 
 Classification and Treatment of Elephant diseases
 
@@ -743,8 +680,6 @@ Pālakāpya has classified various diseases of elephant in the same manner as ha
 Apart from this classification Pālakāpya has mentioned many other categories of elephant diseases. A detail Rogvīkṛti vigyān related topics are available in his Saṃhitā but it is surprising that all of them are based on Tridoṣa and Pañcabhūta Siddhānta.
 
 Most important is–
-
-vijñāya doṣopacayaṃ yathāvadṛgavṛttau kālavibhaktrūpaṃ rogopaśāntiḥ prayateta karttṛṃ doṣaḥ pravṛtdohi nihanti nāgān.
 
 vijñāya doṣopacayaṃ yathāvadṛgavṛttau kālavibhaktrūpaṃ rogopaśāntiḥ prayateta karttṛṃ doṣaḥ pravṛtdohi nihanti nāgān.
 
@@ -759,16 +694,7 @@ hemante cāpi mātaṅgā nibadhe bhakṣayanti ca
 plakṣaṃ nyāgrodhavṛkṣaṃ ca yakṣañcādakaṃ tathā
      (Vanānucāritādhyāya 190)
 
-hemante cāpi mātaṅgā nibadhe bhakṣayanti ca
-śallakī karṇikāraṃ ca kovidāramudambaram
-plakṣaṃ nyāgrodhavṛkṣaṃ ca yakṣañcādakaṃ tathā
-     (Vanānucāritādhyāya 190)
-
 Drinking habits (water):
-
-hemante sthalajaṃ cāpi bhakṣayanti mātaṅgajāḥ
-te sviraṃ tṛṇapuṣṭāstu svacchandātapasevinaḥ
-     (Vanānucāritādhyāya 195)
 
 hemante sthalajaṃ cāpi bhakṣayanti mātaṅgajāḥ
 te sviraṃ tṛṇapuṣṭāstu svacchandātapasevinaḥ
@@ -788,16 +714,9 @@ gajānāmudakaṃ rājanprāṇānāhurmanīṣiṇḥ /
 viśeṣeṇa tu nāgānāṃ prāyeṇa jalamauṣadham
      (sātmyaniścayādhyāya).
 
-gajānāmudakaṃ rājanprāṇānāhurmanīṣiṇḥ /
-viśeṣeṇa tu nāgānāṃ prāyeṇa jalamauṣadham
-     (sātmyaniścayādhyāya).
-
 Pālakāpya has made it clear that without water vāta may be elevated and may be the cause of various serious disorders to the elephant.
 
 Elephant has the habit of spending too much time in river or pond etc., but domesticated elephant do not have such scope therefore regular bath is essential for an elephant.
-
-kāle jalāvagāhaṃ ca yatharttuṃ samupācaret /
-yadā sthiragnisampannaḥ suviśuddhamukho gajaḥ.
 
 kāle jalāvagāhaṃ ca yatharttuṃ samupācaret /
 yadā sthiragnisampannaḥ suviśuddhamukho gajaḥ.
@@ -835,10 +754,6 @@ The texts on elephants not only provide us with details of treatment they also m
 Use of metal and minerals:
 
 Use of metal and minerals for treating elephants is not mentioned in Hastyāyurveda. In this medical work for elephants the parts of the body are listed precisely in greater detail than in Mātaṅgalīlā and it tells about the daily and seasonal care, feeding etc. Hastyāyurveda is obviously a secondary adaptation. Even the subject of must is treated only perfunctorily (chiefly as depending on the various bodily “humours” in Hastyāyurveda (ii, 61).
-
-Footnotes and references:
-
-[back to top]
 
 [1]:
 
@@ -906,25 +821,15 @@ Ibid.
 
 ## 8. Concluding Remarks:
 
-
 Matangalila and Hastyayurveda (study)
 
-by Chandrima Das | 2021 | 98,676 words
-
 This page relates ‘Concluding Remarks:’ of the study on the Matangalina and Hastyayurveda in the light of available epigraphic data on elephants in ancient India. Both the Matanga-Lila (by Nilakantha) and and the Hasti-Ayurveda (by Palakapya) represent technical Sanskrit works deal with the treatment of elephants. This thesis deals with their natural abode, capturing techniques, myths and metaphors, and other text related to elephants reflected from a historical and chronological cultural framework.
-
-Go directly to: 
-Footnotes.
 
 Concluding Remarks:
 
 In this introductory chapter we have discussed the two selected texts Mātaṅgalīlā and Hastyāyurveda. Hastyāyurveda has not yet been translated satisfactorily hence we have provided a brief content of the text here for the first time. We have argued that eastern India was the core area where the texts originated and all the texts have a tendency to associate with Pālakāpya. Aṅga i.e. portions of Bengal and Bihar is the place of origin of the texts as it was authored by Pālakāpya and disseminated to the king of Aṅga named Romapāda.
 
 Pālakāpya is mentioned as the author of Gajaśāstra and Hastyāyurveda. There are other texts which also claim Pālakāpya as the author. Among them are Gaja cikitsā, Gaja parikṣā and Gaja darpaṇa. This not only reflects that abundance of elephant literature composed in early India but also show the tendency to claim legitimacy for such texts by naming the authority as the composer. Pālakāpya became a mark of legitimacy and authenticity for the texts and hence all the authors preferred to attribute their work to this single author. Mātaṅgalīlā on the other hand seems to be composed later than Gajaśāstra and Hastyāyurveda as the author Nīlakaṇṭha attributes the substance of his work to Pālakāpya which again is an indication of seeking legitimacy for his work. On the basis of the style and content of the texts their time of composition or antiquity of such compositions can be dated back to the early historic time period[1]. Though they were constantly updated and changes were made in the form and content.
-
-Footnotes and references:
-
-[back to top]
 
 [1]:
 
@@ -934,22 +839,13 @@ As one sees in case of Bhoja, authorship more than forty different texts are att
 
 ## 9. Historical significance of Elephant lore
 
-
 Matangalila and Hastyayurveda (study)
 
-by Chandrima Das | 2021 | 98,676 words
-
 This page relates ‘Historical significance of Elephant lore’ of the study on the Matangalina and Hastyayurveda in the light of available epigraphic data on elephants in ancient India. Both the Matanga-Lila (by Nilakantha) and and the Hasti-Ayurveda (by Palakapya) represent technical Sanskrit works deal with the treatment of elephants. This thesis deals with their natural abode, capturing techniques, myths and metaphors, and other text related to elephants reflected from a historical and chronological cultural framework.
-
-Go directly to: 
-Footnotes.
 
 Historical significance of Elephant lore
 
 Hastyāyurveda and Mātaṅgalīlā are written in the form of dialogue between King of Aṅga Romapāda and sage Pālakāpya. Explaining the name of Romapāda Mātaṅgalīlā says “Roma” is the name for lotus ascribed by the scholars; as the foot or “pāda” of the king was marked with lotus symbol, he was called Romapāda[1] -
-
-“rometi nāma Padmasya vikhyāta pūrvasūribhiḥ /
-tenaivāṅkitapādatvād Romapāda iti smṛtaḥ //”[2]
 
 “rometi nāma Padmasya vikhyāta pūrvasūribhiḥ /
 tenaivāṅkitapādatvād Romapāda iti smṛtaḥ //”[2]
@@ -981,10 +877,6 @@ From an overall discussion, according to the two texts, its readers can be divid
 [Table 7: Target readers of the texts]
 
 Therefore we can perceive that texts were composed especially on elephants highlighting various aspects like their mythical origin, life cycle, capturing techniques, types, qualities, etc. Mātaṅgalīlā and Hastyāyurveda are two imperative texts on elephants with different focus. Scholars are not unanimous about the exact time of their composition and compilation. Though the styles of composition of both the texts are similar to other texts composed in early historic period, yet they went through a process of evolution and interpolations.
-
-Footnotes and references:
-
-[back to top]
 
 [1]:
 
@@ -1074,10 +966,7 @@ Thomas R. Trautmann. Elephants and Kings An Environmental History, pp.146-147.
 
 ## 10. Chapter 2
 
-
 Matangalila and Hastyayurveda (study)
-
-by Chandrima Das | 2021 | 98,676 words
 
 This page relates ‘Chapter 2’ of the study on the Matangalina and Hastyayurveda in the light of available epigraphic data on elephants in ancient India. Both the Matanga-Lila (by Nilakantha) and and the Hasti-Ayurveda (by Palakapya) represent technical Sanskrit works deal with the treatment of elephants. This thesis deals with their natural abode, capturing techniques, myths and metaphors, and other text related to elephants reflected from a historical and chronological cultural framework.
 
@@ -1089,15 +978,9 @@ Chapter 2
 
 ## 11. Rutting elephants (based on inscriptions)
 
-
 Matangalila and Hastyayurveda (study)
 
-by Chandrima Das | 2021 | 98,676 words
-
 This page relates ‘Rutting elephants (based on inscriptions)’ of the study on the Matangalina and Hastyayurveda in the light of available epigraphic data on elephants in ancient India. Both the Matanga-Lila (by Nilakantha) and and the Hasti-Ayurveda (by Palakapya) represent technical Sanskrit works deal with the treatment of elephants. This thesis deals with their natural abode, capturing techniques, myths and metaphors, and other text related to elephants reflected from a historical and chronological cultural framework.
-
-Go directly to: 
-Footnotes.
 
 Rutting elephants (based on inscriptions)
 
@@ -1106,10 +989,6 @@ We have already discussed about the rutting elephants in the previous chapter. T
 In fact, every king wished to kill rutting elephants of the enemies’ troop, so that the king could win the battle. The most appropriate example of this, we can find in the Kalacuri inscription of Ratanpura[1] where it is stated that the king killed and splited heads of eighteen elephants to ensure his victory out of the prevailing conception. It is valorous to a king breaking or splitting rutting elephants, it is explained as we can see in the Dewal Praśasti of Lalla of the Chinda race, that he in every battle has written a eulogy of him on the firmament even with his sword, the tip of which is covered by the muddy ichor of his enemies’ elephants (ripugajamadapaṃka)[2]. In the Pehoa Praśasti of the reign of Mahendrapāla says about one Jaula who conducted his relatives to highest prosperity……. Presenting, as offerings to the earth pieces cut off from the temples of the mighty elephants of his foes and his fame, that possessed splendor fair like the glittering moon, assumed the guise of the stream of heaven (Gaṅgā), since it clave to the heavenly elephants and united with the sky (v.7)[3]. Ganapatesvaram inscription of Gaṇapati states that in the points of the horizon are spreading the moon-white creepers of fame, which have grown in the battle-fields that were flooded with the showers of the rutting juice, dripping from temples of his furious lordly elephants repeatedly ploughed by the hard hoops of (his) galloping the steeds; (and) covered[4] with the seed of masses of pearls, dropping from the heads of the elephants of (his) enemies[5].
 
 Often and often mention of the rutting juice in inscriptions expressed the positive effect of it in the royal status. One of the pillar inscriptions of Eastern Cālukya chiefs at Śrīkurmam near Chicacole in the Ganjam district (Śaka samvat 1195, i.e., CE 1272) expressed the valour of the king Rājarāja (CE 1022-1063) whose elephant squad had huge mast elephants and auspicious rutting juice, trickling from their big temples created like a shower of rain on the rivers and that attest the victorious career of that very king (v.5)[6]. Alas plates of the Yuvarāja Govindarāja II of Śaka samvat 692[7] mentions about the king Indrarāja II whose expansive soldiers were full of graceful scratches consequent upon the strokes of the tusks of (hostile) elephants from whose cleft temples ichor trickled down (and) who destroyed (all his) enemies on earth, became, as it were, the golden mountain (Meru) of the excellent Rāṣṭrakūṭas. In this context it should be mentioned that both Buhler and Fleet connect prabhinna-karaṭa-cyutadāna with rucira, and danti-danta prahāra with ullikhita; but this course is objectionable because the word dantin occurring after dāna shows the preceding expression to be a bahuvrīhi compound and an attribute of dantin.
-
-Footnotes and references:
-
-[back to top]
 
 [1]:
 
@@ -1143,15 +1022,9 @@ Ibid., Vol.VI, pp.208-213.
 
 ## 12. Elephants in Epigraphic Records (Introduction)
 
-
 Matangalila and Hastyayurveda (study)
 
-by Chandrima Das | 2021 | 98,676 words
-
 This page relates ‘Elephants in Epigraphic Records (Introduction)’ of the study on the Matangalina and Hastyayurveda in the light of available epigraphic data on elephants in ancient India. Both the Matanga-Lila (by Nilakantha) and and the Hasti-Ayurveda (by Palakapya) represent technical Sanskrit works deal with the treatment of elephants. This thesis deals with their natural abode, capturing techniques, myths and metaphors, and other text related to elephants reflected from a historical and chronological cultural framework.
-
-Go directly to: 
-Footnotes.
 
 Elephants in Epigraphic Records (Introduction)
 
@@ -1171,15 +1044,11 @@ It states:
 
 “The ivory was wrought here, was brought from Ethiopia and from Sind and from Arachosia”[3].
 
-“The ivory was wrought here, was brought from Ethiopia and from Sind and from Arachosia”[3].
-
 Sind probably was famous for ivory at that time. But since there is no geographical evidence of that region providing a habitat for elephants” ivory for Sind market would have been procured from the neighboring regions of the Indian subcontinent. What may be deduced with certainty is that India was exporting ivory as early as the 6th Century BCE.[4] In this context corroborative data is available from numismatic sources. Coins of the Mecedonion king Alexander the Great (c. 326-323 BCE) bear the elephant motif. The obverse device of a silver decadrachm of Alexander shows a cavalryman identified as a Mecedonian by his Phrygian-style helmet and characteristic long lance, charging at an elephant with two wariors mouted on its back. The reverse shows another Mecedonian horseman, standing and being crowned by a winged Victory but still wearing his distinctive helmet. The coin is obviously a reference to the Mecedonian victory at the Hydaspes and it is just as clear that the Mecedonian figure is intended to be Alexander himself. And the standing figure mounted on the elephant and brandishing a spear on the obverse has been identified as Porus. Even the coins of the Bactrian king Demetrius I (c. 200-185 BCE) depict the king wearing an elephant scalp on the obverse. This is symbolic and bears a reference to his victory over Indian territories. Thus in the 2nd century BCE elephant almost represented India at least symbolically which reflect the importantce of this animal to the western world and its demand as well.
 
 However in the Indian context after the Harappan records the earliest epigraphic data in the sub continent are the Aśokan inscriptions which have been found from Afghanistan in the north-west to Karnataka and Andhra Pradesh in the southern part of the subcontinent. As far as the records of Aśoka are concerned Major Rock Edict IV refers to celestial elephants[5] which shows the fantasy associated with the animal even in the 3rd century BCE. In the previous chapter we have already shown that Kauṭilya’s Arthaśāstra refers to the officials named Hastyādhyakṣa the officer incharge of elephants whose primary duty was to give protection and look after the preservation of elephants. Killing of elephant was a punishable offence and the guilty was given capital punishment.[6]
 
 This data is partially corroborated in the Pillar Edict V of Aśoka issued in his twenty seventh regnal year post coronation, wherein he ordered his subjects that on three seasonal full moon days and at the full moon day of the month of Tiṣya (Pauṣa), for three days, namely, the fourteenth and fifteenth days (of the particular fortnight) and the (next) first day (of the second fortnight) as constantly on every (upasatha or) fast day, along with other animals the elephants of elephant-forest are also not to be killed and this act is punishable—
-
-“nāga-vansi-kevaṭabhogasi yāni aṃnāni pi jīvanikayāni no haṃtaviyāni”[7].
 
 “nāga-vansi-kevaṭabhogasi yāni aṃnāni pi jīvanikayāni no haṃtaviyāni”[7].
 
@@ -1219,14 +1088,9 @@ In this context it is worth mentioning that king Indrarāja is said to have many
 
 “tasya prabhinn-karaṭa-cyuta-dāna-danti-danta-prahāra-rucir-ollikhit-āṃsa-pīṭhaḥ”,—v. 4
 
-“tasya prabhinn-karaṭa-cyuta-dāna-danti-danta-prahāra-rucir-ollikhit-āṃsa-pīṭhaḥ”,—v. 4
-
 This is also an indirect reference to capture of rutting elephants of the opponent.
 
 Kings are often eulogised as a lion to the elephants of his enemies—
-
-“viorodhi-vikrāṃta-gajeṃdrakeśariya”
-or “ari kari kumbha vibhaṅga siṃha’.[16]
 
 “viorodhi-vikrāṃta-gajeṃdrakeśariya”
 or “ari kari kumbha vibhaṅga siṃha’.[16]
@@ -1236,8 +1100,6 @@ This is a reference to a metaphor or a myth that if the rutting juice of the ele
 One of the records gives very interesting information, it states that “mada-vaṭṭi” which was a black bee like ornament was tied to the frontal globe of elephants. This was probably done to make the elephants more hostile to enemies they were probably irritated by tying such toys created to give them the feel of honey bees, who have come to have the sweet flowing fluid.
 
 In this case it is worth mentioning that one of the Kalacuri inscriptions, the Koni Stone Inscription of Pṛthvideva II, year 900 mentions sorrow as the flapping of elephant’s ear—
-
-“mānuṣyaṃ karikarṇatālacapalaṃ niḥsakhya (saṃkhya)duḥkhāspadaṃ” (v. 29).[17]
 
 “mānuṣyaṃ karikarṇatālacapalaṃ niḥsakhya (saṃkhya)duḥkhāspadaṃ” (v. 29).[17]
 
@@ -1253,21 +1115,13 @@ Another member of this family Kakkadeva is described to have long and solid arms
 
 “kari-kar-oddhura-vā(bā)hu-daṇḍaḥ” (v. 17).
 
-“kari-kar-oddhura-vā(bā)hu-daṇḍaḥ” (v. 17).
-
 He fought his last battle seating on the back of an elephant rider “ārūḍho gaja-pṛṣṭha”. Another king of this lineage Maṇḍanadeva, activity of dāna is considered as rutting juice (“dān-augho”) of elephants, his arms were like elephant-trunk (“kar-oddhuraḥ”), his race was described as bhadra, i.e. brilliant or a high-bred elephant and he was resplendent as the Elephant of the Gods “sura dvipa” (Airāvata) (v. 27).
 
 His weighty sword is considered to the tethering-post of the elephant of victory–
 
 “ālāno-vijaya-dvipasya” (v. 45).
 
-“ālāno-vijaya-dvipasya” (v. 45).
-
 The king Cāmuṇḍarāja is said to destoyed his foes like falling out of pearls from the string of the frontal globe of elephants–“vīra vareṇa”. He was also skilled in destroying the elephants of his enemies–“yasya=ārātibha-kuṃbha-sthala-dalana-paṭuḥ”.
-
-Footnotes and references:
-
-[back to top]
 
 [1]:
 
@@ -1349,15 +1203,9 @@ Ibid., Vol. XIV, pp. 295-310.
 
 ## 13. The gaja-śārdula concept
 
-
 Matangalila and Hastyayurveda (study)
 
-by Chandrima Das | 2021 | 98,676 words
-
 This page relates ‘gaja-shardula concept’ of the study on the Matangalina and Hastyayurveda in the light of available epigraphic data on elephants in ancient India. Both the Matanga-Lila (by Nilakantha) and and the Hasti-Ayurveda (by Palakapya) represent technical Sanskrit works deal with the treatment of elephants. This thesis deals with their natural abode, capturing techniques, myths and metaphors, and other text related to elephants reflected from a historical and chronological cultural framework.
-
-Go directly to: 
-Footnotes.
 
 The gaja-śārdula concept
 
@@ -1368,14 +1216,9 @@ The Rāṣṭrakūṭa king Jagattuṅga described as a lion that destroyed the 
 śvetātapatutritayenduvimvalīlodyādreḥ bhākyāt /
 tataḥ kṛtārātimadebhabhaṃgojāto jagattuṅgamṛgādhirājaḥ //
 
-śvetātapatutritayenduvimvalīlodyādreḥ bhākyāt /
-tataḥ kṛtārātimadebhabhaṃgojāto jagattuṅgamṛgādhirājaḥ //
-
 Bhadana grant of Aparājita of Śaka Year 919 (997 CE) from Thana district, Maharashtra, considers Aparājita as a lion to his powerful elephant like enemies for their destruction.[6]
 
 It says–
-
-“Prārthināṃ pūritāso (śo) Ripuvarakarisiṃha rājadhuryaḥ prasiddha” (ll.35-36)[7].
 
 “Prārthināṃ pūritāso (śo) Ripuvarakarisiṃha rājadhuryaḥ prasiddha” (ll.35-36)[7].
 
@@ -1383,11 +1226,7 @@ The Musalipatam plates of Eastern Chalukyan king Vijayāditya III (CE 844-888) d
 
 “Utkhāta-śātataravāri-vidārit-ārināgādhipasya hariṇādhipasya-vikramasya //” (v.5, l.8)[8].
 
-“Utkhāta-śātataravāri-vidārit-ārināgādhipasya hariṇādhipasya-vikramasya //” (v.5, l.8)[8].
-
 The noticeable is that through his expression the poet could be pointed out to the Gaṅga kings as his adversaries, those were mentioned in the line 7 of the inscription that Cālukya king was a fire of destruction to the Gaṅga family–
-
-“Gaṅgakula-kālānalasya’[9].
 
 “Gaṅgakula-kālānalasya’[9].
 
@@ -1395,13 +1234,7 @@ Another consequence of the expression is that there is no doubt this was present
 
 “hari kharanakhara-vitāritakumbhasthala vikala-vāraṇa.”
 
-“hari kharanakhara-vitāritakumbhasthala vikala-vāraṇa.”
-
 According to Fleet in the word “nāgādhipa” would seem “to have a double meaning and to indicate also a defeat of some hostile chiefs of the Nāgas”[10]. But from the above circumstances, it seemed to be more reliable to identify this “nāgadhipa” with the Gaṅgas. Because it is well known that their elephant squad was very famous and elephant is the royal emblem of Gaṅga kings. Vijayāditya’s seal describes him as “Tribhuvanāṃkuśa”. The inscription also describes Vijayāditya III’s son Mahārāja Viṣṇuvardhana that when he ascended his elephant, his enemies ascend the mountain top….(l.10)[11]. So, his son was similarly expert in elephant riding in battle field like his father.
-
-Footnotes and references:
-
-[back to top]
 
 [1]:
 
@@ -1451,15 +1284,9 @@ EI, Vol. V, pp.126.
 
 ## 14. Elephants in the Royal army
 
-
 Matangalila and Hastyayurveda (study)
 
-by Chandrima Das | 2021 | 98,676 words
-
 This page relates ‘Elephants in the Royal army’ of the study on the Matangalina and Hastyayurveda in the light of available epigraphic data on elephants in ancient India. Both the Matanga-Lila (by Nilakantha) and and the Hasti-Ayurveda (by Palakapya) represent technical Sanskrit works deal with the treatment of elephants. This thesis deals with their natural abode, capturing techniques, myths and metaphors, and other text related to elephants reflected from a historical and chronological cultural framework.
-
-Go directly to: 
-Footnotes.
 
 Elephants in the Royal army
 
@@ -1482,8 +1309,6 @@ He also brought elephants along with horses and jewels, rubis, pearls from the P
 
 “haya-hathī-ratanā-manikaṃ Paṃḍarājā c=edāni anekāni muta-maṇi-ratanāni āharāpayati idha sa ta” (l. 13)[7].
 
-“haya-hathī-ratanā-manikaṃ Paṃḍarājā c=edāni anekāni muta-maṇi-ratanāni āharāpayati idha sa ta” (l. 13)[7].
-
 “Hathī-nivāsaparisaraṃ” it referred probably to elephant preserves or some original form of kheda arrangements, invented by Khāravela. The repeated references to elephants in the record under discussion clearly reveal that Kaliṅga was famous for its elephants. The power and strength of the ruler due to the possession of elephants is again reflected in the description as Khāravela seiged the fort of Pāṭaliputra with the help of the elephant troops.
 
 The Kirari wooden pillar inscription[8] from Chhattisgarh datable to c. 2nd century CE refers to the presence of an army in the forest kingdom therin. Among the 17 odd officials or posts mentioned in this record we find the presence of two officers related to elephants firstly the hathāroha i.e. hastyāroha of the Aśokan records and hāthivapa probabaly denoting hastipaka i.e. the officer in charge of elephants or keeper of elephants. Besides this from the numismatic evidence from this area one gets the constant presence of elephants on the obverse of the coin device from 1st century BCE to 4th century CE. Similarly even in the case of Sātavāhana coins one finds the prominent presence of elephant as the obverse device on their Imperial coinage.
@@ -1495,8 +1320,6 @@ At the end of this chapter we have appended a list of inscriptions mentioning re
 There are few inscriptions which mention elephant troops or squad but not much detail is available for example the Madhuban pillar inscription of Harṣa in the year 25, states the elephant squad of Harṣa in his royal camp at Kopitthikā[12]. The Nidhanpur copper plates of Bhāskaravarman mention about the four kind of army in the royal camp at Karṇasuvarṇa, viz., possession of splendid ships, elephants, horses and foot-soldiers[13]. Aihole inscription of Pulakeśin II stated that the king Jayasiṃha-ballava of the Cālukyan lineage, who had horses, foot soldiers and elephants and also crushed the vigor of the Kaṭacuris, i.e., Kalacuris” array of elephants (v.12). Verse 17 of the inscription mentions of two ablest ministers of Pulakeśin II, named Āppāyika and Govinda, who approached with their troops of elephants and furiously conquered the country of the north of Bhaimarathi and received the reward of the services rendered by them. After this when Pulakeśin II straight way He strove to conquer the Coḷas, the Kāveri, who has the darting carps for her tremulous eyes, had her current obstructed by the causeway formed by his elephants whose rutting juice was dripping down, and avoided the contact with the ocean.
 
 Daulatpura plate of Bhojadeva I of Mahodaya of Kanauj dated Śaka Samvat100 (i.e. CE 706) tells about the Pañcāṅga senā including elephant squad of the Gurjjaras,i.e., boats, elephants, horses, chariots and foot soldiers which was fixed the glorious Mahodaya—
-
-“Śrī mahodaya-samāvāsit-ānekanau-hastya-aśva-ratha-pattisampanna skandhāvārāt…..”[14].
 
 “Śrī mahodaya-samāvāsit-ānekanau-hastya-aśva-ratha-pattisampanna skandhāvārāt…..”[14].
 
@@ -1514,15 +1337,9 @@ It says that:
 
 “This Calamartigaṇḍa became in battle a conflagration to the great forest (which was) the army of the Coḍa king, teeming with beasts (which were) horses, (and) full of tall trees (which were) mast elephants. By him the fire to the forest of the army of the Coḍa, whose flames were arrows, darts, knives and swords,-the trees (which were) the commander of the elephants and horses of the Utkala, were entirely burnt in battle, their roots broken, their heads struck down, (and) their branches (which were) arms and thighs, cut off……” (v. 4-5)[21].
 
-“This Calamartigaṇḍa became in battle a conflagration to the great forest (which was) the army of the Coḍa king, teeming with beasts (which were) horses, (and) full of tall trees (which were) mast elephants. By him the fire to the forest of the army of the Coḍa, whose flames were arrows, darts, knives and swords,-the trees (which were) the commander of the elephants and horses of the Utkala, were entirely burnt in battle, their roots broken, their heads struck down, (and) their branches (which were) arms and thighs, cut off……” (v. 4-5)[21].
-
 Another inscription Kadaba plates of Prabhutavarṣa stated that when once in battle his fortune was fickle, his heart trembling on account of the destruction of his elephants and ships by the crushing of the rough waves,-even then his enemies, though united and their power became unshaken, forsook the kingdom, and, bewildered by delusion, fled themselves to the remote regions (v.7)[22].
 
 There are several elegantly sculptured hero stones bearing inscriptions some of which illustrate elephants engaged in warfare. One of them is kept at the entrance into the Mamlatdar’s office at Roṇ, Dharwar district belongs to the reign of (the Rāṣṭakūṭa king) Kannaradeva and states that his brother-in-law Mahāmṇḍalika Permāri Bhūtārya was governing Gaṅgavāḍi. It records the death of Paṃpayya of the Vāji lineage in an encounter with Bhūtayya-permāḍi when the latter had attacked Roṇ on 24th April, CE 942. The lower panel depicts a battle scene where heroes mounted on two elephants and horse-back was engaged.[23]
-
-Footnotes and references:
-
-[back to top]
 
 [1]:
 
@@ -1620,15 +1437,9 @@ Annigeri, A.M. “Inscriptions on Hero-stones in Karnataka”, Studies in Indian
 
 ## 15. Elephants as fourth or fifth wing of the Royal army
 
-
 Matangalila and Hastyayurveda (study)
 
-by Chandrima Das | 2021 | 98,676 words
-
 This page relates ‘Elephants as fourth or fifth wing of the Royal army’ of the study on the Matangalina and Hastyayurveda in the light of available epigraphic data on elephants in ancient India. Both the Matanga-Lila (by Nilakantha) and and the Hasti-Ayurveda (by Palakapya) represent technical Sanskrit works deal with the treatment of elephants. This thesis deals with their natural abode, capturing techniques, myths and metaphors, and other text related to elephants reflected from a historical and chronological cultural framework.
-
-Go directly to: 
-Footnotes.
 
 Elephants as fourth or fifth wing of the Royal army
 
@@ -1638,13 +1449,9 @@ On the other hand Daulatpura plate of Bhojadeva I of Mahodaya of Kanauj dated Ś
 
 “śrī mahodayasamāvāsit-ānekanau-hastya-aśva-ratha-patti-sampanna skandhāvārāt…..”[4].
 
-“śrī mahodayasamāvāsit-ānekanau-hastya-aśva-ratha-patti-sampanna skandhāvārāt…..”[4].
-
 The elephant squad was very strong especially in the regions of Vaṅga, Kaliṅga, Assam and in the southern regions. In the Hathigumpha inscription of the Kaliṅgādhipati Khāravela is said to have watered his elephants in the Ganga River, which indicates that he conquered the region with the help of his strong elephant squad[5]. Hathi-nivāsa-parisaraṃ—this reading of the phrase is more reliable than the previous one (hatthi-nāvana-paripuraṃ). Nivāsa=nirvāsa[6]. The reference seems to be to elephant preserves or some original form of khedā arrangement, invented by Khāravela. The elephants of Kaliṅga were very famous in early India. The strength of Khāravela probably lay in elephants. He took the fort of Pāṭaliputra with the help of elephants. Later days Xuan Zang in his account stated that Kaliṅga produced the great tawny wild elephant which much prized by neighboring provinces.
 
 Gaṅga kings of Orissa were not only famous for their war-elephants but inscriptions tell about their vigor with such expressions that Mahārājādhirāja Koṅgaṇi alias Bhūvikrama had marks on his broad breast with the resplendent marks of victory grown from the wounds, resulting from the blows of the hatchets which were the tusks of the elephants:
-
-“kuliś-ābhighāta-vraṇa-saṃrūḍha-bhāsvad-vijaya-lakṣaṇa-lakṣī-kṛta-viśāla-vakṣaḥsthalaḥ” (l. 23),
 
 “kuliś-ābhighāta-vraṇa-saṃrūḍha-bhāsvad-vijaya-lakṣaṇa-lakṣī-kṛta-viśāla-vakṣaḥsthalaḥ” (l. 23),
 
@@ -1654,13 +1461,7 @@ Vijayāditya himself was a good elephant and horse rider—
 
 “hasty-aśvārohaṇo” (l. 49).
 
-“hasty-aśvārohaṇo” (l. 49).
-
 The Nidhanpur copper plates of Bhāskaravarman refer to Supratiṣṭhitavarman, who was possessed of rich elephants (v.21)[8]. The Assam plates of Ballabhadeva, a prince, of Śaka samvat 1107 or CE1184/85 tells us that one of his predecessors Rāyarideva was engaged at the gorgeous festival of battle which was fearful on account of the presence of the lordly elephants of Vaṅga-“Vaṅga-karīndra-saṅga….”, made the enemy abandon the entire practice of arms on the battlefield, and who, in his own person rendered the creation of “the lion of the three worlds” (Trailokya siṃha) exceedingly fruitful[9]. It indicates to the huge and powerful elephants of the Vaṅga country as we all know that the Bengal region is famous for its elephants. Three records in the Bangalore Museum states that Amoghavarṣadeva (Vaddiga)…. Marvel with elephants; a wrestler against forest elephants (l.2)[10].
-
-Footnotes and references:
-
-[back to top]
 
 [1]:
 
@@ -1706,23 +1507,13 @@ Ibid.,Vol.VI, p.55.
 
 ## 16. Elephants as gift
 
-
 Matangalila and Hastyayurveda (study)
 
-by Chandrima Das | 2021 | 98,676 words
-
 This page relates ‘Elephants as gift’ of the study on the Matangalina and Hastyayurveda in the light of available epigraphic data on elephants in ancient India. Both the Matanga-Lila (by Nilakantha) and and the Hasti-Ayurveda (by Palakapya) represent technical Sanskrit works deal with the treatment of elephants. This thesis deals with their natural abode, capturing techniques, myths and metaphors, and other text related to elephants reflected from a historical and chronological cultural framework.
-
-Go directly to: 
-Footnotes.
 
 Elephants as gift
 
 Elephants were also used in lieu of payments especially seen in donative cases. They were given as a part of a service, as a gift, as payment for other specific jobs and as a donation to achive merit. We also get hyperbolic claims of donating thousand elephants. For example the Nadagam plates of Vajrahasta indicate to his liberality in giving away a thousand elephants to mendicants. This description almost became a model for all the latter stereotypical mentions of the same pattern. However among all such references this is the first reference so far[1].
-
-Footnotes and references:
-
-[back to top]
 
 [1]:
 
@@ -1732,15 +1523,9 @@ Ibid., Vol. IV, p.186.
 
 ## 17. Capturing of elephants in battle-field
 
-
 Matangalila and Hastyayurveda (study)
 
-by Chandrima Das | 2021 | 98,676 words
-
 This page relates ‘Capturing of elephants in battle-field’ of the study on the Matangalina and Hastyayurveda in the light of available epigraphic data on elephants in ancient India. Both the Matanga-Lila (by Nilakantha) and and the Hasti-Ayurveda (by Palakapya) represent technical Sanskrit works deal with the treatment of elephants. This thesis deals with their natural abode, capturing techniques, myths and metaphors, and other text related to elephants reflected from a historical and chronological cultural framework.
-
-Go directly to: 
-Footnotes.
 
 Capturing of elephants in battle-field
 
@@ -1750,15 +1535,11 @@ The spurious Sudi plates[5] give another example of coveting warelephants to be 
 
 “When that king named Baddega had gone to appropriate the fortunes of (the god) Indra in heaven[6], took elephants and horses and white umbrellas and thrones from the possession of Lalleya, and gave (them) to king Kṛṣṇa……having, at command indeed, conquered king Rājāditya who was made arrogant by pride in (his) array of elephants,—having…….laid seize to the town of Tañjāpurī,-(and) having burnt numbers of hill forts, headed by Nāḷakoṭe,—(he), the glorious Gañja-Nārāyaṇa, of his own accord gave to (king) Kṛṣṇa lordly elephants (and) horses (and) great wealth. With thunder bolts that were the maxims of those who interpret the Vedic writing etc. (he), king Jayad-uttaraṅga[7], cleft open the frontal globes of the lordly elephants who are the expounders of evil precepts puffed up with the rut that is the doctrine of devotion to one sole object of worship.
 
-“When that king named Baddega had gone to appropriate the fortunes of (the god) Indra in heaven[6], took elephants and horses and white umbrellas and thrones from the possession of Lalleya, and gave (them) to king Kṛṣṇa……having, at command indeed, conquered king Rājāditya who was made arrogant by pride in (his) array of elephants,—having…….laid seize to the town of Tañjāpurī,-(and) having burnt numbers of hill forts, headed by Nāḷakoṭe,—(he), the glorious Gañja-Nārāyaṇa, of his own accord gave to (king) Kṛṣṇa lordly elephants (and) horses (and) great wealth. With thunder bolts that were the maxims of those who interpret the Vedic writing etc. (he), king Jayad-uttaraṅga[7], cleft open the frontal globes of the lordly elephants who are the expounders of evil precepts puffed up with the rut that is the doctrine of devotion to one sole object of worship.
-
 The Pithapuram Pillar inscription of Mallapadeva (Śaka Samvat 1124, i.e. CE 1202) recorded that the thirteenth king of this dynasty, Guṇaga-Vijayāditya bore the surname Tribhuvanāṅkuśa and he is reported to have received elephants as tribute from the king of Kaliṅga, it indicates towards the victory of the king over the Kaliṅga (v.9-10)[8]. We are come to know another Western Gaṅga king Mārasiṃha II from his Sravana Veḷgola Epitaph (9th-10th Century CE) and other epigraphic sources from Śravaṇa Belgoḷa that his successes against Vajjala, and at Gonūr and Uccaṅgi were actually achieved for him by a minister named Cāmuṇḍarāya or Cāvuṇḍarāja, who wrote Cāmuṇḍarāya Purāṇa and was a minister of also Rācamalla II who came next but one in the succession after Mārasiṃha II. Thus another record at Sravana Belgola[9] tells us that the array of his (Cāmuṇḍarāya’s) enemies was broken, like a herd of deer on him, resembling a tusked elephant running to and fro (among) them. The enemy was Vajjaladeva. So the supremacy of the elephant squad in Gaṅga army reflects through this epigraph.
 
 From the Śravana Belgoḷa epitaph of Western Gaṅga king Mārasiṃha II we come to know that the foremost king of the Gaṅga family Sayavākya Koṅguṇivarman, who came to be greatly extolled capturing many things with rutting elephants and all the other possessions of the lord of the Vanavāsi country, who bowed down in fear. Another inscription on a pillar in the Mūlasthāneśvara temple at Nāndeṇḍla refers to glorious squad of elephants of the Gaṅga kings of Kaliṅga (evidently Anantavarman alias Coḍagaṅga of Kaliṅga who reigned from Śaka samvat 999 to 1064) having consumed, like straw, the warriors of the bold enemy and having cut off (like), lotuses, their heads the mighty rutting elephants the Maṇḍalika Maṇḍa II (v.8)[10]. After defeating the army of the enemy, he gave to Rājendra-Cola mighty elephants which had been captured there, (and) whose temples were bright with rut[11]. Mention may be made here Abul Fazl’s note about wild elephants incidentally enable us to see how it was that Rājendra Cola (Kulattuṅga I) carried off many herds of wild elephants from Vayirāgaram (according to him city of Birāgarḥ) mentioned in the Tiruvorriyur inscription[12].One of the fourteen inscriptions at Tirukkovalur says that in his sixth regnal year the king Parakeśarivarman alias the lord Śrī Rājendradeva defeated Ahavamalla at Koppam (on) the bank of the great river seized his elephants, horses, women and treasures[13]. In the Nammuru grant of Ammarāja II of the Eastern Cālukya family, verse 5 contains unique description about Amma II than the other Cālukyan records.
 
 It contains the following fanciful statement:—
-
-“While this lord of the earth is proceeding to view the gardens outside (his palace), the frightened lords of the countries (lying) in that direction are offering (him) jewels, gold, horses, noble elephants and foot-soldiers”[14].
 
 “While this lord of the earth is proceeding to view the gardens outside (his palace), the frightened lords of the countries (lying) in that direction are offering (him) jewels, gold, horses, noble elephants and foot-soldiers”[14].
 
@@ -1774,13 +1555,7 @@ In the praśasti of the Temple of Lakkhā Maṇḍal at Meḍhā in Jaunsār Bā
 
 “aparāmagaṇitasandara kariradanāgrāṅkitiraska” (v.12)[20].
 
-“aparāmagaṇitasandara kariradanāgrāṅkitiraska” (v.12)[20].
-
 In this inscription one Divākarvarman whose famed appellation the Mahīghaṅghala warrior made his foes weaponless, when he nimbly strove over the battle (field) that was impossible on account of the elephant’s tusk (v.14)[21]. Again one Bhāskara is said likewise by whom scaling on foot mountain fortresses accessible (only) to birds, kings expert in fighting were attacked and made to pay a tribute elephants (hastikaranaṃ dāpitāḥ kṣitipāḥ) (v.17)[22].
-
-Footnotes and references:
-
-[back to top]
 
 [1]:
 
@@ -1874,15 +1649,9 @@ Ibid., pp.13 & 15.
 
 ## 18. Depiction of elephants on the royal seals and inscription-slabs/plates
 
-
 Matangalila and Hastyayurveda (study)
 
-by Chandrima Das | 2021 | 98,676 words
-
 This page relates ‘Depiction of elephants on the royal seals and inscription-slabs/plates’ of the study on the Matangalina and Hastyayurveda in the light of available epigraphic data on elephants in ancient India. Both the Matanga-Lila (by Nilakantha) and and the Hasti-Ayurveda (by Palakapya) represent technical Sanskrit works deal with the treatment of elephants. This thesis deals with their natural abode, capturing techniques, myths and metaphors, and other text related to elephants reflected from a historical and chronological cultural framework.
-
-Go directly to: 
-Footnotes.
 
 Depiction of elephants on the royal seals and inscription-slabs/plates
 
@@ -1921,10 +1690,6 @@ Here mention may be made of the fact that the insignia of the Eastern Gaṅgas w
 [5. Seal of Dharmapāla of Prāgjyotiṣa. Coutesy: EI]
 
 [6. Elephant on seal. Courtesy: EI]
-
-Footnotes and references:
-
-[back to top]
 
 [1]:
 
@@ -2066,15 +1831,9 @@ Ibid., Vol. XXII, p.111.
 
 ## 19. Elephants as chronogram
 
-
 Matangalila and Hastyayurveda (study)
 
-by Chandrima Das | 2021 | 98,676 words
-
 This page relates ‘Elephants as chronogram’ of the study on the Matangalina and Hastyayurveda in the light of available epigraphic data on elephants in ancient India. Both the Matanga-Lila (by Nilakantha) and and the Hasti-Ayurveda (by Palakapya) represent technical Sanskrit works deal with the treatment of elephants. This thesis deals with their natural abode, capturing techniques, myths and metaphors, and other text related to elephants reflected from a historical and chronological cultural framework.
-
-Go directly to: 
-Footnotes.
 
 Elephants as chronogram
 
@@ -2088,10 +1847,6 @@ It is interesting to note that epigraphs generally followed to express the dates
 “The movement of the numerals from right to left”.
 
 Piṅgala, Varāhamihira and later authors use such words with numerical meanings as grouped in Devandva compounds[1]. An elephant confused with “a snack” (ahi, nāga, gaja, dantin, diggaja, hastin, mātaṅga, kuñjara, dvipa etc.) is counted in the sense to express number “eight” (8). Among several refernces mention may be made of the Bitragunta grant of Saṃgam II (of Vijayanagara dynasty at the Kāvāli taluk in Nellor district), which is in the Śaka year and measured by the elephants (nāga: 8), the mountains (śaila: 7), and the suns (12), in figures–1278 (V.20, ll. 76-77)[2], -in the cyclic year Durmukha[3].
-
-Footnotes and references:
-
-[back to top]
 
 [1]:
 
@@ -2109,25 +1864,15 @@ Ibid., p. 33.
 
 ## 20. Epithets containing Elephants
 
-
 Matangalila and Hastyayurveda (study)
 
-by Chandrima Das | 2021 | 98,676 words
-
 This page relates ‘Epithets containing Elephants’ of the study on the Matangalina and Hastyayurveda in the light of available epigraphic data on elephants in ancient India. Both the Matanga-Lila (by Nilakantha) and and the Hasti-Ayurveda (by Palakapya) represent technical Sanskrit works deal with the treatment of elephants. This thesis deals with their natural abode, capturing techniques, myths and metaphors, and other text related to elephants reflected from a historical and chronological cultural framework.
-
-Go directly to: 
-Footnotes.
 
 Epithets containing Elephants
 
 Epithets of rulers and chiefs were bearing direct reference to elphants. We often find epithets of rulers with terms related to elephants for example dāya-gaja-keśarī, ari-gaja-keśarī, rāyagaja-keśarī, gaja-kacchapa and so on. The Khaṇḍavalli plates of the time of Kākati Pratāparudra bears a seal which has in relief the figures of boar, cow and a dagger in the middle of the sun and the crescent-moon at the top, and at the bottom the legend “Dāya-Gaja-Keśarī” in the thirteenth century’s telugu script. A word about the legend “Dāya-Gaja-Keśarī” found on the seal of the plates. This title is not met with on the seals or in the description of the rulers in the other copper plate grants of the dynasty. But evidences have been cited to show that titles like “ari-gaja-keśarī” and “Dāya-Gaja-Keśarī” were borne by Prola II and Gaṇapati. The title “Dāya-Gaja-Keśarī” could be traces in the Bekkallu inscription of the time of Rudradeva, dated Śaka 1097 and the Terāla inscription of the time of Kumāra (Pratāpa) Rudra, dated Śaka 1213. In the latter inscription, Pratāparudra is stated to have had this title as a lāñchana, i.e., title used by his predecessors[1]. The discovery of the Khaṇḍavalli plates has added a new dimension to the problem. The seal of this copperplate is more interesting. It contains the legend “Dāya-Gaja-Keśarī’. This title was assumed by Pratāparudra. The earlier Kākatiya kings right from the time of Prola I had similar titles. From this P.V. Parabrhmasastry has rightly concluded that the titles “Dāya-Gaja-Keśarī’ and “Rāya-GajaKeśarī” refer to the Kākatiya kings[2].
 
 One earlier inscription Madakasira inscription of Diliparasa, Śaka 870 (CE 948-949) mentions another epithet taken by the ruler. The inscription records the death of Pannaya of Ballaha, in the battle of IpīỊi, in which he is said to have fought with great bravery against Gajāṅkuśa Coḷa[3]. Scholars have suggested that Gajāṅkuśa Coḷa may have been the Cola king Parāntaka’s eldest son Rājāditya[4] who bore the epithet of Gajāṅkuśa Cola. We may further conclude that names ending in “aṅkuśa” were popular in the family of the Coḍas of Reṇāṇḍu. On the basis of this, Gajāṅkuśa Coḷa may be said to have belonged to the same family[5].
-
-Footnotes and references:
-
-[back to top]
 
 [1]:
 
@@ -2153,15 +1898,9 @@ SII, Vol. XII, p.20.
 
 ## 21. Elephants and land grants
 
-
 Matangalila and Hastyayurveda (study)
 
-by Chandrima Das | 2021 | 98,676 words
-
 This page relates ‘Elephants and land grants’ of the study on the Matangalina and Hastyayurveda in the light of available epigraphic data on elephants in ancient India. Both the Matanga-Lila (by Nilakantha) and and the Hasti-Ayurveda (by Palakapya) represent technical Sanskrit works deal with the treatment of elephants. This thesis deals with their natural abode, capturing techniques, myths and metaphors, and other text related to elephants reflected from a historical and chronological cultural framework.
-
-Go directly to: 
-Footnotes.
 
 Elephants and land grants
 
@@ -2172,10 +1911,6 @@ The Bahur plates of Nṛpatuṅgavarman give a unique feature as similar to the 
 In another case, the Anbil plates of Sundara-Cola of the 4th year records the grant by the king. The plot of land, defined by letting a she-elephant go round it, was given the new name of Karuṇākara-maṅgala [Karuṇākaramaṅgalam]. The ceremony of letting loose a she-elephant to go round a plot of land intended to be granted to any one is an ancient institution it is referred to in the Lyden grant also as Kariṇī—parikramaṇa-vispaṣṭa-sīmā-catuṣṭayam; a she-elephant is let loose her wandering path is carefully marked and, after she returns to the place from which she started, the plot of land enclosed by the path of the elephant is granted to the donee. This ceremony is called Kariṇī-parikramaṇa or in Tamil Piḍi-śuḷdal. As the boundaries have to be fixed in the extreme detail, as traced by the path pursued by the sheelephant, the Tamil portion of the record here: after this follow the lists of objects contained in the village granted, of the sources of the income, such as taxes, etc., and any other privileges enjoyable by the donee[6].
 
 Thus elephants were used for the fixing boundaries of the granted lands, and also in some records we saw elephants as a witness of the grants. It may possible that this technique flourished the measuring unit of “gaja”.
-
-Footnotes and references:
-
-[back to top]
 
 [1]:
 
@@ -2205,15 +1940,9 @@ EI, Vol. XV, pp.55-56.
 
 ## 22. Ivory and Trade
 
-
 Matangalila and Hastyayurveda (study)
 
-by Chandrima Das | 2021 | 98,676 words
-
 This page relates ‘Ivory and Trade’ of the study on the Matangalina and Hastyayurveda in the light of available epigraphic data on elephants in ancient India. Both the Matanga-Lila (by Nilakantha) and and the Hasti-Ayurveda (by Palakapya) represent technical Sanskrit works deal with the treatment of elephants. This thesis deals with their natural abode, capturing techniques, myths and metaphors, and other text related to elephants reflected from a historical and chronological cultural framework.
-
-Go directly to: 
-Footnotes.
 
 Ivory and Trade
 
@@ -2224,10 +1953,6 @@ Elephants formed a major commodity of trade and there are several inscriptions w
 The Sonpur plates of Kumāra Someśvaradeva states that the donees of this charter, were given all sorts of liberalities including the freedom of enjoying the tusks of elephants, which were the monopoly of the king in the ancient times[2]. In the context of procuring of tusks or ivories there is a text which supplies significant information. Kalpanāratnam[3] a text on this subject composed by the Gaṅga king Śivamāra who ruled some parts of Karnataka in the 8th and 9th centuries CE, sheds new light on the preservation of elephants and their ivory. The word “Kalpanā” means here the art of cutting the tusks of elephants so that the ivory could be used for making useful and beautiful articles, without harming the pachyderms. In the light of this, it was necessary to know the proper time to cut the tusks of elephants and also the proper method of preserving the ivory. By studying this text, we know the various genres of elephants, their nature, behavior and also the proper method of preserving ivory.
 
 In ancient times elephants were used for army and for transportation of heavy goods. Indian elephants are famous for their fighting ability; so it is quite natural selling of elephants was most common and profitable and that it was one of most eminent part of royal treasury through taxation on it. We have discussed the trade in elephants and ivory in detail in chapter 5.
-
-Footnotes and references:
-
-[back to top]
 
 [1]:
 
@@ -2245,15 +1970,9 @@ H.V.Nagaraja Rao. ed.& tr. Śrī Śivamārabhūpāla Praṇītam Kalpanāratnam,
 
 ## 23. Metaphors regarding Elephants
 
-
 Matangalila and Hastyayurveda (study)
 
-by Chandrima Das | 2021 | 98,676 words
-
 This page relates ‘Metaphors regarding Elephants’ of the study on the Matangalina and Hastyayurveda in the light of available epigraphic data on elephants in ancient India. Both the Matanga-Lila (by Nilakantha) and and the Hasti-Ayurveda (by Palakapya) represent technical Sanskrit works deal with the treatment of elephants. This thesis deals with their natural abode, capturing techniques, myths and metaphors, and other text related to elephants reflected from a historical and chronological cultural framework.
-
-Go directly to: 
-Footnotes.
 
 Metaphors regarding Elephants
 
@@ -2263,13 +1982,9 @@ For example the Badaun inscription of Lakhanapāla eulogises king Surapāla as A
 
 “Airāvaṇo gaja-vareṣu….”[1].
 
-“Airāvaṇo gaja-vareṣu….”[1].
-
 The elephants guarding quarters were usually described as white in colur. Some records also mention the fame of the ruler as being similar to those elephants who guard the cardinal points or the quarters. The elephants of the frontal globes are used as the simile with the fame of the Cinda king Lalla.
 
 It stated that:
-
-“His fame wanders all around (the world)….in every quarter or the horizon to the frontal globes of the (guardian) elephants….”(L.19).
 
 “His fame wanders all around (the world)….in every quarter or the horizon to the frontal globes of the (guardian) elephants….”(L.19).
 
@@ -2297,8 +2012,6 @@ Nandamapundi grant of Rāja Rāja I, dated in his thirty second year (CE 1053) d
 In the Aihole inscription of Pulakeśin II (Śaka Samvat 556, i.e. CE 634-35), the hundred fleets of the Cālukyas are described with the arrays of rutting elephants (v.21).
 
 The strength of the elephant squad of the Cālukyas at the time of encountering over Kuntala it is stated that:
-
-“….the land within it overspread with arrays of accoutered elephants–was like the cloud covered sky in which the red evening-twilight has risen” (v.28)[10].
 
 “….the land within it overspread with arrays of accoutered elephants–was like the cloud covered sky in which the red evening-twilight has risen” (v.28)[10].
 
@@ -2338,10 +2051,6 @@ In a Sanskrit couplet inscribed (Bl.238) on the Hayasaleśvara temple at Haḷeb
 In the Khajuraho inscription No.II[18] the illustrious Lakṣavarman’s enemies” horses became unmanageable with fright at the gurgling sound of the torrents of the Ganges, and which were crowded with his mighty elephants (v.30).
 
 Elephants are fond of lotus-ponds. This characteristic of the elephants make them a part of the metaphorical consequence, such as a victorious king being described as an elephant to his enemies who were destroyed by the king like lotus pond. For example Nimbadevarasa, one feudatory of Śilāhāra king Goṇḍarāditya (Śaka era 1032 i.e. c. CE 1110-1135) at Kolhapur has been described by inscriptions as “an awful rutting elephant to the beds of lotuses, the barons of Toṇḍāi.[19]
-
-Footnotes and references:
-
-[back to top]
 
 [1]:
 
@@ -2423,10 +2132,7 @@ CII, Vol.VI, p. xxxiii.
 
 ## 24. Concluding Remarks
 
-
 Matangalila and Hastyayurveda (study)
-
-by Chandrima Das | 2021 | 98,676 words
 
 This page relates ‘Concluding Remarks’ of the study on the Matangalina and Hastyayurveda in the light of available epigraphic data on elephants in ancient India. Both the Matanga-Lila (by Nilakantha) and and the Hasti-Ayurveda (by Palakapya) represent technical Sanskrit works deal with the treatment of elephants. This thesis deals with their natural abode, capturing techniques, myths and metaphors, and other text related to elephants reflected from a historical and chronological cultural framework.
 
@@ -2438,15 +2144,9 @@ Using a homogenous random sampling process here in this chapter we have analysed
 
 ## 25. Miscellaneous information regarding Elephants from epigraphic data
 
-
 Matangalila and Hastyayurveda (study)
 
-by Chandrima Das | 2021 | 98,676 words
-
 This page relates ‘Miscellaneous information regarding Elephants from epigraphic data’ of the study on the Matangalina and Hastyayurveda in the light of available epigraphic data on elephants in ancient India. Both the Matanga-Lila (by Nilakantha) and and the Hasti-Ayurveda (by Palakapya) represent technical Sanskrit works deal with the treatment of elephants. This thesis deals with their natural abode, capturing techniques, myths and metaphors, and other text related to elephants reflected from a historical and chronological cultural framework.
-
-Go directly to: 
-Footnotes.
 
 Miscellaneous information regarding Elephants from epigraphic data
 
@@ -2464,14 +2164,9 @@ The Purle plates of Indravarman (the Ganga year 149) which stated:
 
 “By the order of the Mahā-Mahattara Śivaśarman, this edict was written by Śambapura-Upādhyāya, the son of the Hasty-ādhyakṣa–the chief of the elephants–the Sarvādhikṛta Dharmacandra” (l.28)[11].
 
-“By the order of the Mahā-Mahattara Śivaśarman, this edict was written by Śambapura-Upādhyāya, the son of the Hasty-ādhyakṣa–the chief of the elephants–the Sarvādhikṛta Dharmacandra” (l.28)[11].
-
 A very interesting and unique reference to the use of elephants must or the rutting juice secreting from the frontal lobe for preparation of washable ink is found from an epigraphic record. The Rewa stone inscription of Karṇa of the year 8, mentions about the preparation of an ink from the rutting juice of elephant.
 
 This ink was used for writing on the Himalayan birch-barks:
-
-(bhurjjatyvacaḥ saṅkalitebhadānapāthomasiva[ṇṇa]viśeṣabhājaḥ.
-himācale yena vaśīkṛtāṇāṃ bhujiṣyapattrāṇyabhavannṛpā[ṇāṃ](ṇām) II” (V.29)[12]).
 
 (bhurjjatyvacaḥ saṅkalitebhadānapāthomasiva[ṇṇa]viśeṣabhājaḥ.
 himācale yena vaśīkṛtāṇāṃ bhujiṣyapattrāṇyabhavannṛpā[ṇāṃ](ṇām) II” (V.29)[12]).
@@ -2485,10 +2180,6 @@ Besides these literary sources speak about Hatthiyāna (elephant carriage), Dant
 Bṛatsaṃhitā of Varāhamihira gives some geographical identification like Gajāhvaya (XIV.14) and Kuñjaradarī (XVI.16). The first one identified with another name of Hastināpura, ancient capital of Kuru country (Meerat district, Uttara Pradesh) and the later one which literary means “the elephants” cave or glen” situated in the southern division. Utpala, a commentator on Bṛhatsaṃhitā ascertain Kuñjaradarī as Hastikhaṇḍā, the boundary of Travancore and Tiruneveli districts.[17]
 
 Following table shows a summary of above mentioned topics in a selective mode:
-
-Footnotes and references:
-
-[back to top]
 
 [1]:
 
@@ -2562,15 +2253,9 @@ Ajay Mitra Shastri. India as seen in The Bṛhatsaṃhitā of Varāhamihira, Del
 
 ## 26. Use of elephants for religious purposes and rituals
 
-
 Matangalila and Hastyayurveda (study)
 
-by Chandrima Das | 2021 | 98,676 words
-
 This page relates ‘Use of elephants for religious purposes and rituals’ of the study on the Matangalina and Hastyayurveda in the light of available epigraphic data on elephants in ancient India. Both the Matanga-Lila (by Nilakantha) and and the Hasti-Ayurveda (by Palakapya) represent technical Sanskrit works deal with the treatment of elephants. This thesis deals with their natural abode, capturing techniques, myths and metaphors, and other text related to elephants reflected from a historical and chronological cultural framework.
-
-Go directly to: 
-Footnotes.
 
 Use of elephants for religious purposes and rituals
 
@@ -2581,10 +2266,6 @@ In some Prakrit inscriptions from a Buddhist site at Nagarjunikonda Buddha has b
 Mathura (Kaṅkālī Ṭīlā) Jaina elephant capital inscription of the time of Mahārāja devaputra Huviṣka mentions the setting up of (the elephant) Naṃdiviśāla by the banker (śreṣṭhin) Aryya Rudradāsa (Ārya Rudradāsa), the son of the banker (śreṣṭhin) Śivadāsa for the worship of the Arahaṃtas (Arhats)[6].
 
 Till now we have discussed the positive depiction of elephants as an auspicious animal. However there are a few refences where they have been depicted as destructive or in a negative frame. In this context the Dewal Praśasti of king Lalla of Chinda[7] race praises Goddess Pārvatī, the daughter of the Mountain as the destroyer of a Dānava, who assumed the shape of an elephant. The demon is no doubt Mahiṣāsura. According to the Devimāhātya of Mārkaṇḍeya Purāṇa, LXXIII, 30, the asura turned himself also into a Mahāgaja.
-
-Footnotes and references:
-
-[back to top]
 
 [1]:
 
@@ -2618,10 +2299,7 @@ EI, Vol. I, p.81 & note.
 
 ## 27. Chapter 3
 
-
 Matangalila and Hastyayurveda (study)
-
-by Chandrima Das | 2021 | 98,676 words
 
 This page relates ‘Chapter 3’ of the study on the Matangalina and Hastyayurveda in the light of available epigraphic data on elephants in ancient India. Both the Matanga-Lila (by Nilakantha) and and the Hasti-Ayurveda (by Palakapya) represent technical Sanskrit works deal with the treatment of elephants. This thesis deals with their natural abode, capturing techniques, myths and metaphors, and other text related to elephants reflected from a historical and chronological cultural framework.
 
@@ -2633,24 +2311,15 @@ Chapter 3
 
 ## 28. Vāribandha: The first technique
 
-
 Matangalila and Hastyayurveda (study)
 
-by Chandrima Das | 2021 | 98,676 words
-
 This page relates ‘Varibandha: The first technique’ of the study on the Matangalina and Hastyayurveda in the light of available epigraphic data on elephants in ancient India. Both the Matanga-Lila (by Nilakantha) and and the Hasti-Ayurveda (by Palakapya) represent technical Sanskrit works deal with the treatment of elephants. This thesis deals with their natural abode, capturing techniques, myths and metaphors, and other text related to elephants reflected from a historical and chronological cultural framework.
-
-Go directly to: 
-Footnotes.
 
 Vāribandha: The first technique
 
 Here we find the use of a trap for capture. Mātaṅgalīlā mentions about the size of this pen as having a length and breadth of around a kośa (elsewhere also mentioned as koca one and onehalf miles).
 
 To make a circular enclosure the pen is surrounded with stout trees, the ground inside this enclosure is then dug, and also a ditch hard to cross on the outside is excavated, one shall construct with bamboos, etc., a lane opening outward, (beginning) between two fences arranged on either side of the entrance, and gradually becoming wider (as it leads out)[1] –
-
-krośaprāyavitānadīrghamahitā vārī nikhātairidhairvṛkṣādyaiḥ parito vṛtiṃ ca parikhāṃ kṛtvā bahirdustarām /
-dvārasyobhayotaḥ prakalpitavṛtidvandvāntarasthāṃ kramād vistīrṇāṃ ca bahirmukhāṃ vitanuyādvīthīṃ ca veṇvādibhiḥ // (v. 2)[2]
 
 krośaprāyavitānadīrghamahitā vārī nikhātairidhairvṛkṣādyaiḥ parito vṛtiṃ ca parikhāṃ kṛtvā bahirdustarām /
 dvārasyobhayotaḥ prakalpitavṛtidvandvāntarasthāṃ kramād vistīrṇāṃ ca bahirmukhāṃ vitanuyādvīthīṃ ca veṇvādibhiḥ // (v. 2)[2]
@@ -2662,15 +2331,9 @@ Mātaṅgalīlā speaks thus–
 uddhṛtyopari sannibadhya ca kavāṭaṃ dvāri vāryantare dārustambhamitastataśca suiḍhaṃ kṛtvā sadhāraṃ bahum /
 ikṣvādyatra vinikṣipedatha gajān saṃvārya bhoryāditastrastānatra niveśya cārgalaśikhāpāśāṃśca bhindyād drutam // (v. 3)[3]
 
-uddhṛtyopari sannibadhya ca kavāṭaṃ dvāri vāryantare dārustambhamitastataśca suiḍhaṃ kṛtvā sadhāraṃ bahum /
-ikṣvādyatra vinikṣipedatha gajān saṃvārya bhoryāditastrastānatra niveśya cārgalaśikhāpāśāṃśca bhindyād drutam // (v. 3)[3]
-
 Once the elephants enter the trap pen then the experts get involved in the process of selection and those with auspicious signs are separated from the inauspicious ones. The latter were released from the pen as these were not considered fit for possession.
 
 The texts mentions thus:
-
-kakṣyābandhakakuntaveṇusṛṇipāśādyairyutā hastipāstasmin dvitradinaṃ pratīkṣya punarabhyetyāśu vāryantaram /
-stambhopāntagatā gajānapi gṛhītvopāyavanto iḍhaṃ sambadhyātra guṇānvitānatha bahiryūthaṃ ca vidrāvayet // (v. 4)[4]
 
 kakṣyābandhakakuntaveṇusṛṇipāśādyairyutā hastipāstasmin dvitradinaṃ pratīkṣya punarabhyetyāśu vāryantaram /
 stambhopāntagatā gajānapi gṛhītvopāyavanto iḍhaṃ sambadhyātra guṇānvitānatha bahiryūthaṃ ca vidrāvayet // (v. 4)[4]
@@ -2682,13 +2345,7 @@ The text also mentions the art of capture in details, for example how to tie an 
 kakṣyābhāge ca kaṇṭhe mṛdutaraiḍhapāśairgajaṃ cāru tūrṇaṃ badhnīyāccāparāṅge nigaḷanamapi tatpādayorapyamīṣu /
 badhvā pāśānathātyāyatasuiḍhatarānagrato hastipendrairākṛṣyākṛṣya mandaṃ gamayatu śithilīkṛtya pāścātyapāśam // (v. 5)[5]
 
-kakṣyābhāge ca kaṇṭhe mṛdutaraiḍhapāśairgajaṃ cāru tūrṇaṃ badhnīyāccāparāṅge nigaḷanamapi tatpādayorapyamīṣu /
-badhvā pāśānathātyāyatasuiḍhatarānagrato hastipendrairākṛṣyākṛṣya mandaṃ gamayatu śithilīkṛtya pāścātyapāśam // (v. 5)[5]
-
 Selected elephants were finally led to the camp using the finely trained and trustworthy elephants. This ‘trap pen’ method is now called kheddaḥ or kheda.
-
-stambhāt stambhāntaraṃ tvevaṃ yāpayitvā śanairgajān /
-śālāṃ praveśayedanyairāptairdantivaraiḥ saha // (v. 6)[6]
 
 stambhāt stambhāntaraṃ tvevaṃ yāpayitvā śanairgajān /
 śālāṃ praveśayedanyairāptairdantivaraiḥ saha // (v. 6)[6]
@@ -2709,13 +2366,7 @@ That he quotes selections from Sanderson’s long description[12] which helps to
 
 “The scouts having found a herd … the hunters are halted within a mile, when half of them file off to the right and half to the left. Along these diverging lines, which are to meet beyond the herd and enclose it, two men are left at every fifty yards or so as a guard. The surround when completed is often six or eight miles in circumstance [which would be two koś or more in diameter] …. [Guards see to it that the enclosed herd does not escape from this’surround’ until the pen proper has been built.] The construction of the kheddaḥ, inside the large circle, is commenced as soon as the elephants are surrounded. … This is formed of stout uprights about twelve feet in height, arranged in a circle of from twenty to fifty yards in diameter. …. An entrance of four yards in width is left for ingress of the herd …. To guide the elephants to the gate, two lines of strong palisades are run out from it to perhaps fifty yards across their commencement, which may be a hundred yards or so from the gate. When the herd is once within the funnel-shaped approach, it is easily driven forward by the beaters closing in from behind. The gate is made very strong, and is studded with iron spikes on the inside. It is slung by rope-hinges to a cross-beam, and is dropped by the rope being cut as soon as the elephants have entered. Inside, around the foot of the palisade, a ditch is generally dug…to deter the elephants from trying the stockade…. [When all is ready] a smaller interior circle is formed by commencing at the ends of the guiding wings of the kheddaḥ and posting the men until the elephants are again surrounded. They are then driven forward towards the kheddaḥ, and when near it the men close in from all sides with shouts and shots, and the elephants generally enter the trap without hesitation. … After the elephants have been impounded … the tame elephants are admitted with their mahouts upon the neck of each, and a rope-tier seated behind.”
 
-“The scouts having found a herd … the hunters are halted within a mile, when half of them file off to the right and half to the left. Along these diverging lines, which are to meet beyond the herd and enclose it, two men are left at every fifty yards or so as a guard. The surround when completed is often six or eight miles in circumstance [which would be two koś or more in diameter] …. [Guards see to it that the enclosed herd does not escape from this’surround’ until the pen proper has been built.] The construction of the kheddaḥ, inside the large circle, is commenced as soon as the elephants are surrounded. … This is formed of stout uprights about twelve feet in height, arranged in a circle of from twenty to fifty yards in diameter. …. An entrance of four yards in width is left for ingress of the herd …. To guide the elephants to the gate, two lines of strong palisades are run out from it to perhaps fifty yards across their commencement, which may be a hundred yards or so from the gate. When the herd is once within the funnel-shaped approach, it is easily driven forward by the beaters closing in from behind. The gate is made very strong, and is studded with iron spikes on the inside. It is slung by rope-hinges to a cross-beam, and is dropped by the rope being cut as soon as the elephants have entered. Inside, around the foot of the palisade, a ditch is generally dug…to deter the elephants from trying the stockade…. [When all is ready] a smaller interior circle is formed by commencing at the ends of the guiding wings of the kheddaḥ and posting the men until the elephants are again surrounded. They are then driven forward towards the kheddaḥ, and when near it the men close in from all sides with shouts and shots, and the elephants generally enter the trap without hesitation. … After the elephants have been impounded … the tame elephants are admitted with their mahouts upon the neck of each, and a rope-tier seated behind.”
-
 What becomes clear is that the pen had a rope-slung gate which was closed by cutting the rope.[13]
-
-Footnotes and references:
-
-[back to top]
 
 [1]:
 
@@ -2773,15 +2424,9 @@ Franklin Edgerton. tr. The Elephant-Lore of the Hindus, p.20.
 
 ## 29. Vaśālobha: The second technique
 
-
 Matangalila and Hastyayurveda (study)
 
-by Chandrima Das | 2021 | 98,676 words
-
 This page relates ‘Vashalobha: The second technique’ of the study on the Matangalina and Hastyayurveda in the light of available epigraphic data on elephants in ancient India. Both the Matanga-Lila (by Nilakantha) and and the Hasti-Ayurveda (by Palakapya) represent technical Sanskrit works deal with the treatment of elephants. This thesis deals with their natural abode, capturing techniques, myths and metaphors, and other text related to elephants reflected from a historical and chronological cultural framework.
-
-Go directly to: 
-Footnotes.
 
 Vaśālobha: The second technique
 
@@ -2801,8 +2446,6 @@ This is described succinctly in a single verse in the Mātaṅgalīlā (Chapter 
 This method was an ancient and popular method as even the Arthaśātra also refers to a similar method and describes how elephant-catchers locate the elephant-zone.
 
 It says:
-
-“Guards of elephant-forests, aided by elephant keepers, foot-chainers, border guards, foresters and attendants, with their won odours suppressed by the urine and dung of elephants, with their bodies covered with branches of bhallātakī, and moving with five or seven female elephant decoys, should ascertain the size of the herds of elephants, by means of indications provided by sleeping places, foot-prints, dung and damage caused to river banks. They should maintain a record in writing of (every) elephant, (whether) moving in a herd, moving alone, lost from a herd, lord of a herd, (and whether) wild, intoxicated, cub or released from captivity” (Book 2, Chapter 2, v. 10-11).[4]
 
 “Guards of elephant-forests, aided by elephant keepers, foot-chainers, border guards, foresters and attendants, with their won odours suppressed by the urine and dung of elephants, with their bodies covered with branches of bhallātakī, and moving with five or seven female elephant decoys, should ascertain the size of the herds of elephants, by means of indications provided by sleeping places, foot-prints, dung and damage caused to river banks. They should maintain a record in writing of (every) elephant, (whether) moving in a herd, moving alone, lost from a herd, lord of a herd, (and whether) wild, intoxicated, cub or released from captivity” (Book 2, Chapter 2, v. 10-11).[4]
 
@@ -2845,13 +2488,7 @@ Megasthenes mentions a composite method which includes both trap pen and seducti
 
 The hunters having selected a level tract of arid ground dig a trench all round it, enclosing as much space as would suffice to encamp a large army. They make the trench with a breadth of five fathoms and a depth of four. But the earth which they throw out in the process of digging they heap up in mounds both edges of the trench, and use it as a wall. Then they make huts for themselves by excavating the wall on the outer edge of the trench, and in these they leave loopholes, both to admit light, and to enable them to see when their prey approaches and enters the enclosure. They next station some three or four of their best-trained she-elephants within the trap, to which they leave only a single passage by means of a bridge thrown across the trench, the frame-work of which they cover over with earth and a great quantity of straw, to conceal the bridge as much as possible form the wild animals, which might else suspect treachery. The hunters then go out of the way, retiring to the cells which they had made in the earthen wall. Now the wild elephants do not go near inhabited places in the day-time, but during the night-time they wander about everywhere, and feed in herds, following as leader the one who is biggest and boldest, just as cows follows bulls. As soon, then, as they approach the enclose, and hear the cry and catch scent of the females, they rush at full speed in the direction of the fenced ground, and being arrested by the trench move round its edge until they fall in the bridge, along which they force their way into the enclosure. The hunters meanwhile, perceiving the entrance of the wild elephants, hasten, some of them, to take away the bridge, while others, running off to the nearest villages, announce that the elephants are within the trap. The villagers, on hearing the news, mount their most spirited and best-trained, elephants, and as soon as mounted ride off to the trap; but, though they ride up to it, they do not immediately engaged in conflict with the wild elephants, but wait till these are sorely pinched by hunger and tamed by thirst; when they think their strength has been enough weakened, they set up the bridge anew and ride onto the enclosure, when a fierce assault is made by the tame elephants upon those that have been entrapped, and then as might be expected, the wild elephants, through loss of spirit and fitness from hunger, are overpowered. On this the hunters, dismounting from their elephants, bind with fetters the feet of the wild ones, now by this time quite exhausted. Then they instigate the tame ones to beat them with repeated blows, until their sufferings wear them out and they fall to the ground. The hunters meanwhile, standing near them, slip nooses over their necks and mount them while yet lying on the ground. According to Strabo, they then bind the wild one and they tame ones together neck to neck with thongs of raw ox-hide[15].
 
-The hunters having selected a level tract of arid ground dig a trench all round it, enclosing as much space as would suffice to encamp a large army. They make the trench with a breadth of five fathoms and a depth of four. But the earth which they throw out in the process of digging they heap up in mounds both edges of the trench, and use it as a wall. Then they make huts for themselves by excavating the wall on the outer edge of the trench, and in these they leave loopholes, both to admit light, and to enable them to see when their prey approaches and enters the enclosure. They next station some three or four of their best-trained she-elephants within the trap, to which they leave only a single passage by means of a bridge thrown across the trench, the frame-work of which they cover over with earth and a great quantity of straw, to conceal the bridge as much as possible form the wild animals, which might else suspect treachery. The hunters then go out of the way, retiring to the cells which they had made in the earthen wall. Now the wild elephants do not go near inhabited places in the day-time, but during the night-time they wander about everywhere, and feed in herds, following as leader the one who is biggest and boldest, just as cows follows bulls. As soon, then, as they approach the enclose, and hear the cry and catch scent of the females, they rush at full speed in the direction of the fenced ground, and being arrested by the trench move round its edge until they fall in the bridge, along which they force their way into the enclosure. The hunters meanwhile, perceiving the entrance of the wild elephants, hasten, some of them, to take away the bridge, while others, running off to the nearest villages, announce that the elephants are within the trap. The villagers, on hearing the news, mount their most spirited and best-trained, elephants, and as soon as mounted ride off to the trap; but, though they ride up to it, they do not immediately engaged in conflict with the wild elephants, but wait till these are sorely pinched by hunger and tamed by thirst; when they think their strength has been enough weakened, they set up the bridge anew and ride onto the enclosure, when a fierce assault is made by the tame elephants upon those that have been entrapped, and then as might be expected, the wild elephants, through loss of spirit and fitness from hunger, are overpowered. On this the hunters, dismounting from their elephants, bind with fetters the feet of the wild ones, now by this time quite exhausted. Then they instigate the tame ones to beat them with repeated blows, until their sufferings wear them out and they fall to the ground. The hunters meanwhile, standing near them, slip nooses over their necks and mount them while yet lying on the ground. According to Strabo, they then bind the wild one and they tame ones together neck to neck with thongs of raw ox-hide[15].
-
 Megasthenese said that to prevent them shaking off their riders, or doing mischief otherwise, make with a sharp knife an incision all round their neck, and fasten the noose round in the incision. By means of the wound thus made, they keep their head and neck quite steady: for it they become restive and turn round, the wound is galled by the action of the rope. They shun, therefore, violent movements, and, knowing that they have been vanquished, suffer themselves to baled in fetters by the tame ones. Thus we can get a picture of capturing method by mixing of two, in the Mauryan reign, though it is clear that this technic was also a cruel one.
-
-Footnotes and references:
-
-[back to top]
 
 [1]:
 
@@ -2917,15 +2554,9 @@ John W. McCrinddle. Ancient India as described by Megasthenês and Arrian, p. 91
 
 ## 30. Anugatabandha: The third technique
 
-
 Matangalila and Hastyayurveda (study)
 
-by Chandrima Das | 2021 | 98,676 words
-
 This page relates ‘Anugatabandha: The third technique’ of the study on the Matangalina and Hastyayurveda in the light of available epigraphic data on elephants in ancient India. Both the Matanga-Lila (by Nilakantha) and and the Hasti-Ayurveda (by Palakapya) represent technical Sanskrit works deal with the treatment of elephants. This thesis deals with their natural abode, capturing techniques, myths and metaphors, and other text related to elephants reflected from a historical and chronological cultural framework.
-
-Go directly to: 
-Footnotes.
 
 Anugatabandha: The third technique
 
@@ -2934,22 +2565,13 @@ Coming to the traditional techniques discussed in Mātaṅgalīlā, the third me
 “Bherītūryakakāhalādininadairvidrāvya nāgān bhṛśaṃ bhītānāśu sadā sasainyamanudhāvanto bhaṭā nirbhayāḥ /
 yāvat pādapariśrameṇa kalabhāḥ stabdhāḥ syuretāṃstadā badhnīyuścaturā javādanugatākhyoâyaṃ gajānāṃ grahaḥ //[2]
 
-“Bherītūryakakāhalādininadairvidrāvya nāgān bhṛśaṃ bhītānāśu sadā sasainyamanudhāvanto bhaṭā nirbhayāḥ /
-yāvat pādapariśrameṇa kalabhāḥ stabdhāḥ syuretāṃstadā badhnīyuścaturā javādanugatākhyoâyaṃ gajānāṃ grahaḥ //[2]
-
 The text describes this method thus:
-
-…with sound of kettledrums, musical instruments, drums, etc., driving apart the elephants, the herders, always with a crowd (of followers), swiftly and fearlessly pursuing the greatly frightened animals, when the young elephants are lame with foot weariness, shall then quickly and cleverly catch them.
 
 …with sound of kettledrums, musical instruments, drums, etc., driving apart the elephants, the herders, always with a crowd (of followers), swiftly and fearlessly pursuing the greatly frightened animals, when the young elephants are lame with foot weariness, shall then quickly and cleverly catch them.
 
 Mānasollāsa vividly characterized this method as Anugatabandha (v. 198-212). According to this late treatise having observed with perseverance through hunters that an elephant herd is sleeping [at a particular place in the forest] one should proceed for the operation accompanied by many people carrying snares and bundles of grass in their hands. The elephant-catcher, accompanied by people carrying trumpets, goads, as also different kinds of musical instruments,–some riding on horses, others on tamed cow-elephants, all very watchful and appointed by the king for the purpose should start on the expedition of catching elephants. Intelligent servants carrying trumpets with them should be positioned at all the places on the trees nearby, where elephants come for drinking water. Early morning in Nidagha (summer), the catcher should silently approach the place where the herd is resting in deep sleep, in the direction to which the wind is blowing, and hushing up the noise of men, he should order a sudden and simultaneous blowing of trumpets along with the beating of drums. The herd awakened suddenly, bewildered and frightened starts running speedily in confusion. At that time the experts in the operation of Vāribandha should follow them on the path by which the frightened herd has left for another forest. The capturers who carry snares and grass bundles should then follow the elephant that get separated from the herd while running in fear and confusion. Exhausted and thirsty, when the elephant approaches for water, hearing the noise of the trumpets there, he runs away from the place. With his mouth completely parched the elephant stands still with his trunk and tail slackened and ears motionless. At that time, the cow-elephants controlled and goaded by the riders should speedily approach the elephant and surround him on all sides. Then the watchful men having the snares, concealed behind the bodies of the cows should bravely ensnare that elephant at his various limbs. Ensnared at the armpits and throat with ropes of leather, the elephant should then be tied to the trunk of a nearby tree. When an elephant is caught with this kind of a method the expert catchers call it Anugatabandha.[3]
 
 Gajaśāstra (v. 32) briefly describes Anugatabandha method in a different form and it mentions that in this technique the deluded elephant follows the female, by the experts in capturing elephants[4]. This method more or less complements Megasthenese’s description, which has been mentioned earlier thus it was a very common practice which did not change over a long period of time.
-
-Footnotes and references:
-
-[back to top]
 
 [1]:
 
@@ -2971,15 +2593,9 @@ Shri Mantramurti K.S.Subrahmanyaśāstri. ed. &tr. (in Tamil), Gaja-śāstram of
 
 ## 31. Techniques of Capturing Elephants (Introduction)
 
-
 Matangalila and Hastyayurveda (study)
 
-by Chandrima Das | 2021 | 98,676 words
-
 This page relates ‘Techniques of Capturing Elephants (Introduction)’ of the study on the Matangalina and Hastyayurveda in the light of available epigraphic data on elephants in ancient India. Both the Matanga-Lila (by Nilakantha) and and the Hasti-Ayurveda (by Palakapya) represent technical Sanskrit works deal with the treatment of elephants. This thesis deals with their natural abode, capturing techniques, myths and metaphors, and other text related to elephants reflected from a historical and chronological cultural framework.
-
-Go directly to: 
-Footnotes.
 
 Techniques of Capturing Elephants (Introduction)
 
@@ -2988,8 +2604,6 @@ Catching elephants was a specialized branch in elephant science. Those who captu
 Nīlakaṇṭha narrates the nuances of capturing and catching elephants in the Xth  Chapter of this treatise. The text is in Sanskrit language and it mentions five different methods for capturing of elephants which were prevalent or popularly practiced in early India. It is interesting to note that other well-known works on elephants in early India such as Gajaśāstra of Pālakāpya, he is also credited with the composition of the Hastyāyurveda a medical text on treatment of elephants, and Mānasollāsa or Abhilāṣitārthacintāmaṇi written by Western Cālukyan king Someśvara or Somadeva III (c.12th century CE), also refer to the five methods of capturing elephants as mentioned in the Mātaṅgalīlā.
 
 A passage in Mātaṅgalīlā describing these five techniques reads thus (Chapter X):
-
-“vārīkarmavaśāvilobhanavidhibhyāṃ cānugatvā tathaivā pātena tato âvapātata itīhebhagrahaḥ pañcadhā /” (v. 1)[2]
 
 “vārīkarmavaśāvilobhanavidhibhyāṃ cānugatvā tathaivā pātena tato âvapātata itīhebhagrahaḥ pañcadhā /” (v. 1)[2]
 
@@ -3013,8 +2627,6 @@ Mātaṅgalīlā mentions–
 
 “nindyāste tu yathottaroṃ kila gajā naśyanti yasmāttato varjyāvantyabhavāvubhāvapi viśeṣādetayoścāntimaḥ II” (v. 1)
 
-“nindyāste tu yathottaroṃ kila gajā naśyanti yasmāttato varjyāvantyabhavāvubhāvapi viśeṣādetayoścāntimaḥ II” (v. 1)
-
 It is noteworthy that Arthaśāstra, Gajaśāstra and Mānasollāsa or Abhilāṣitārthacintāmaṇi also condemned the last two methods which reflect empathy of early Indian psyche towards this animal.
 
 Besides these five techniques texts do not refer to any other technique of capturing of elephants.
@@ -3024,13 +2636,6 @@ If we consider the hunt for elephants as a campaign then it’s quite possible t
 As far as the topic of capturing elephants is concerned Gajaśāstra (Chapter 6, v.15-19)[3] mentions how to locate elephant herds before explaining the method. It mentions that one can locate elephant herd when one notices that the forest tract has turned muddy with the elephants‘urine and excreta then one should start looking for an elephant herd nearby. Their foot prints and marks, marks of scraping on trees caused by them, the place where they lie down and their trumpeting all should be noticed carefully and all these would help in the capturing process. The treatise further also mentions lord Vyāsa as an expert in elephant science he was an expert in elucidating the marks of the elephant-paths (‘gajānāṃ mārgalakṣaṇam’).
 
 The text then mentions the following passage:
-
-ityāha bhagavān Vyāso gajānāṃ mārgalakṣaṇam /
-kariṇīturagāruḍairmantribhirbahubhirvṛtaḥ // (v. 17)
-parikarmayutaḥ pādapāśajālaissamanvitaḥ /
-samādiṣṭaḥ kṣitīśen karilakṣmavicakṣaṇaḥ // (v. 18)
-dviradāndhārayed grīṣme yatnato lakṣaṇānvitān /
-dhārayettrividhairbandhairdvipānhastipakādibhiḥ // (v. 19)
 
 ityāha bhagavān Vyāso gajānāṃ mārgalakṣaṇam /
 kariṇīturagāruḍairmantribhirbahubhirvṛtaḥ // (v. 17)
@@ -3138,10 +2743,6 @@ It is interesting to note that the text clearly mentions that even if it is endo
 
 We have briefly mentioned the five techniques of capturing of elephants. Now we would be elaborating upon each technique.
 
-Footnotes and references:
-
-[back to top]
-
 [1]:
 
 T. Gaṇapati Śāstri. ed. The Mātaṅgalīlā of Nīlakaṇṭha, Trivandrum: Trivandrum Sanskrit Series, No. X, 1910, pp. 25-28, and Franklin Edgerton. tr. The Elephant-Lore of the Hindus, Delhi: MotilalBanarsidass, 1985, pp.8791.
@@ -3178,15 +2779,9 @@ H.V. Nagaraja Rao. ed. & tr. Śrī Śivamārabhūpāla Praṇītam Kalpanāratna
 
 ## 32. Āpātabandha: The fourth technique
 
-
 Matangalila and Hastyayurveda (study)
 
-by Chandrima Das | 2021 | 98,676 words
-
 This page relates ‘Apatabandha: The fourth technique’ of the study on the Matangalina and Hastyayurveda in the light of available epigraphic data on elephants in ancient India. Both the Matanga-Lila (by Nilakantha) and and the Hasti-Ayurveda (by Palakapya) represent technical Sanskrit works deal with the treatment of elephants. This thesis deals with their natural abode, capturing techniques, myths and metaphors, and other text related to elephants reflected from a historical and chronological cultural framework.
-
-Go directly to: 
-Footnotes.
 
 Āpātabandha: The fourth technique
 
@@ -3199,10 +2794,6 @@ Mānasollāsa calls this fourth method as Āpātabandha (v. 213-226) , during th
 The elephant tied with this snare is severely afflicted. He may even die in rare cases. He may also survive. The elephant-catchers call this procedure Āpātabandha (catching suddenly). It is always condemned and is siṃhasaṃśayita (carries the risk of encountering a lion).Unlike other bandhas this procedure is not clear at all.[4]
 
 According to Gajaśāstra (v.33)[5] the experts in capturing elephants mention this technique as Āpāta as the elephants fall a little way into a hole where there are sallakīs and bananas.
-
-Footnotes and references:
-
-[back to top]
 
 [1]:
 
@@ -3232,15 +2823,9 @@ Shri Mantramurti K.S. Subrahmanyaśāstri. ed. &tr. (in Tamil), Gaja-śāstram o
 
 ## 33. Avapāta: The fifth technique
 
-
 Matangalila and Hastyayurveda (study)
 
-by Chandrima Das | 2021 | 98,676 words
-
 This page relates ‘Avapata: The fifth technique’ of the study on the Matangalina and Hastyayurveda in the light of available epigraphic data on elephants in ancient India. Both the Matanga-Lila (by Nilakantha) and and the Hasti-Ayurveda (by Palakapya) represent technical Sanskrit works deal with the treatment of elephants. This thesis deals with their natural abode, capturing techniques, myths and metaphors, and other text related to elephants reflected from a historical and chronological cultural framework.
-
-Go directly to: 
-Footnotes.
 
 Avapāta: The fifth technique
 
@@ -3258,13 +2843,7 @@ An elephant full of good deeds, valour and power, should be tied the post in its
 
 “Aniruddha, enter here and be established on this post for a hundred years, endowed with good health and strength, and make the king victorious again and again”[4].
 
-“Aniruddha, enter here and be established on this post for a hundred years, endowed with good health and strength, and make the king victorious again and again”[4].
-
 This on one hand reflects the use of magical spells and supernatural intervention in the capturing of this vital beast and the birth of rituals related to the capturing of elephants and involvement of the priestly class in the procedure. Aniruddha mentioned here is a hitherto unknown deity responsible for taking care of capturing and tying up of elephants.
-
-Footnotes and references:
-
-[back to top]
 
 [1]:
 
@@ -3288,15 +2867,9 @@ Ibid., p.63.
 
 ## 34. Measurement and Age of the Elephants
 
-
 Matangalila and Hastyayurveda (study)
 
-by Chandrima Das | 2021 | 98,676 words
-
 This page relates ‘Measurement and Age of the Elephants’ of the study on the Matangalina and Hastyayurveda in the light of available epigraphic data on elephants in ancient India. Both the Matanga-Lila (by Nilakantha) and and the Hasti-Ayurveda (by Palakapya) represent technical Sanskrit works deal with the treatment of elephants. This thesis deals with their natural abode, capturing techniques, myths and metaphors, and other text related to elephants reflected from a historical and chronological cultural framework.
-
-Go directly to: 
-Footnotes.
 
 Measurement and Age of the Elephants
 
@@ -3317,10 +2890,6 @@ For different type of elephants see the quotes below from the text Gajaśāstra:
 Elephants with smooth tusks, nails, hair and gentle eyes, long ears and bodies like swords, their front parts marked fully and good heads live long.
 
 With seven red parts of the body, raised in six places, with pleasant minds, sweet-scented, the colour of dark clouds, trumpeting, with two or three hairs–these elephants live long. The elephant which has these seven parts of the body red is the best among elephants–the testicles, penis, tongue, lip, vagina and palate.
-
-Footnotes and references:
-
-[back to top]
 
 [1]:
 
@@ -3378,15 +2947,9 @@ Shri Mantramurti K.S. Subrahmanyaśāstri. ed. &tr. (in Tamil), Gajaśāstra [Ga
 
 ## 35. Techniques of building Elephant abodes
 
-
 Matangalila and Hastyayurveda (study)
 
-by Chandrima Das | 2021 | 98,676 words
-
 This page relates ‘Techniques of building Elephant abodes’ of the study on the Matangalina and Hastyayurveda in the light of available epigraphic data on elephants in ancient India. Both the Matanga-Lila (by Nilakantha) and and the Hasti-Ayurveda (by Palakapya) represent technical Sanskrit works deal with the treatment of elephants. This thesis deals with their natural abode, capturing techniques, myths and metaphors, and other text related to elephants reflected from a historical and chronological cultural framework.
-
-Go directly to: 
-Footnotes.
 
 Techniques of building Elephant abodes
 
@@ -3397,10 +2960,6 @@ Further the text also mentions other cautions while the abode site is selected t
 The sleeping area for the elephants was to be constructed with care in the centre, slightly raised on the sides with tender and dry. Its size should be judged according to the size of the elephant, and should be slightly depressed in the middle. The text also provides an alternative of building the sleeping area in the north or the east of the house, a bed according to the size of the elephant should be laid out. The best house is seven arms high. It is interesting to note that the cleanliness was maintained in this sleeping zone by besmearing the ground with elephant’s own excreta as it done to keep mud huts clean by using cow dung. To make it a compulsory arrangement a hint of superstition or healing effect was also added with the myth that this was done to avert (the ill effects of) planets etc. and appease pain or agitation, the bed must be spread every day with the elephants own excreta. Up to the bed, half a wall should be built, made of mud, and covered with thick leaves on top. However the text also mentions that when it is dry, the house must be anointed with mud. Beside it another dispensary should be added.[6] The texts often mention worshiping procedures along with oblations and libations for pleasing Brāhmaṇas especially on auspicious days.[7] Such rituals were held on associated with events like the elephant’s entry into the abode and so on. There were deities associated with elephants and their well-being. The elephant keepers worshipped deities like Śaktipāṇi and Śāstā so that their elephants do not suffer from pākala and remain in good health.[8]
 
 Gajaśāstra recommends their daily worship without fail or their regular worship as compulsory. However the worship of these deities are hitherto unknown. Śaktipāṇi[9] is an epithet of Kārttikeya and reference to Śāstā is found in Tamil literature and this male deity is also associated with Kārttikeya. Kārttikeya was a warrior god and elephants were an important part of the warfare hence the association with Kārttikeya is but obvious. The involvement of the Brāhmaṇas in the whole process is evident from the references to worship, oblations libations and other rites and rituals including sacrificial rituals as well. The text also mentions that in each of the elephant-houses, goats, dogs, pigs (boars) should be sacrificed by the wise for the satisfaction of rakṣas, gandharvas and yakṣas.[10]
-
-Footnotes and references:
-
-[back to top]
 
 [1]:
 
@@ -3446,15 +3005,9 @@ Shri Mantramurti K.S. Subrahmanyaśāstri. ed. &tr. (in Tamil), Gaja-śāstram o
 
 ## 36. Pregnant elephants
 
-
 Matangalila and Hastyayurveda (study)
 
-by Chandrima Das | 2021 | 98,676 words
-
 This page relates ‘Pregnant elephants’ of the study on the Matangalina and Hastyayurveda in the light of available epigraphic data on elephants in ancient India. Both the Matanga-Lila (by Nilakantha) and and the Hasti-Ayurveda (by Palakapya) represent technical Sanskrit works deal with the treatment of elephants. This thesis deals with their natural abode, capturing techniques, myths and metaphors, and other text related to elephants reflected from a historical and chronological cultural framework.
-
-Go directly to: 
-Footnotes.
 
 Pregnant elephants
 
@@ -3497,10 +3050,6 @@ An expert is expected to know all these signs of identifying a female pregnant e
 Gender of the unborn was also predicted and signs of prediction are also provided in the text. It mentions that if the wind of the womb is white bisected, there would be two male calves. If it is red and bisected, there would be two female calves.[21]
 
 Further the text also mentions the position of the unborn in the womb. In the right side of the womb is a male, on the left a female, in the middle a sexless calf. The text also mentions that due to the fault of the elephant, the wind of the womb and the mind, calves may be born hunch backed, deformed, short, extra-tall, dwarfish, blind and with other disabilities.[22]
-
-Footnotes and references:
-
-[back to top]
 
 [1]:
 
@@ -3594,15 +3143,9 @@ Ibid., v. 27-28.
 
 ## 37. Quality Indicators regarding Elephants
 
-
 Matangalila and Hastyayurveda (study)
 
-by Chandrima Das | 2021 | 98,676 words
-
 This page relates ‘Quality Indicators regarding Elephants’ of the study on the Matangalina and Hastyayurveda in the light of available epigraphic data on elephants in ancient India. Both the Matanga-Lila (by Nilakantha) and and the Hasti-Ayurveda (by Palakapya) represent technical Sanskrit works deal with the treatment of elephants. This thesis deals with their natural abode, capturing techniques, myths and metaphors, and other text related to elephants reflected from a historical and chronological cultural framework.
-
-Go directly to: 
-Footnotes.
 
 Quality Indicators regarding Elephants
 
@@ -3651,10 +3194,6 @@ In this case it is worth mentioning that Bṛhaspati declares that the qualities
 In this context Pālakāpya’s opinion also similar he elaborates it and mentions that one who has these distinguishing marks three, five, seven, or eight in number, attains long life to just that extent in decades (i.e., to the extent of three, five, seven, or eight decades).[28]
 
 In this context it is worth mentioning that the fourth (i.e. 40’s) is declared to be a full life for the mṛga (deer) category of elephants thus they are short lived creatures and live for only four decades. Eight decades is mentioned as a life expectancy of a manda or the’slow’ category, maximum life span is given to the bhadra class bearing all the twelve features hence the life expectance in decades is mentioned as twelve i.e.120 years.[29]
-
-Footnotes and references:
-
-[back to top]
 
 [1]:
 
@@ -3806,15 +3345,9 @@ nīlanīradanibhā virāviṇo dvitraromanilayāścirāyuṣaḥ //
 
 ## 38. Food and Diet of Elephants
 
-
 Matangalila and Hastyayurveda (study)
 
-by Chandrima Das | 2021 | 98,676 words
-
 This page relates ‘Food and Diet of Elephants’ of the study on the Matangalina and Hastyayurveda in the light of available epigraphic data on elephants in ancient India. Both the Matanga-Lila (by Nilakantha) and and the Hasti-Ayurveda (by Palakapya) represent technical Sanskrit works deal with the treatment of elephants. This thesis deals with their natural abode, capturing techniques, myths and metaphors, and other text related to elephants reflected from a historical and chronological cultural framework.
-
-Go directly to: 
-Footnotes.
 
 Food and Diet of Elephants
 
@@ -3823,10 +3356,6 @@ As far as their diet is concerned the text mentions that in summer due to the ro
 Arthaśāstra specifies the ration for elephants.[5] The elephants of age thirty and twenty five i.e., value of middling and lower, are said to be given less by a quarter than that for the best. Ration is given according to their height. The food of elephants are mentioned here mentioning their units of measurement such as droṇa, āḍhaka, prastha, pala, bhāra etc. In meal elephants were given rice-grains, oil melted butter, salt, meat, juice or curds for moisturising dry lumps, liquor or milk with sugar as an invigorating drink, green fodder, dry grass and leaves of plants with no limit. Arthaśātra conveys the best kind of śāli rice should be consumed by humans and the inferior kind should be fed to the animals. It gives a surprisingly detail of amount of the śāli rice being given to the elephants.[6] Trautmann shows the underlying principle of this method is that the smaller amount of rice obtained from milling a unit of paddy the higher the quality, as it is more thoroughly cleaned off the bran. By this process 12 āḍhakas of rice of the lowest quality, milled from 5 droṇas of śāli paddy thus considered merely apt for feeding of a young or kalabha elephant and then the higher qualities given in order to the hierarchy of beings, such as after 12 āḍhaka, 11 is suitable for vicious elephants (vyāla), 10 for riding elephants, 9 for war elephants, 8 for foot soldiers, 7 for chiefs, 6 for the queens and princes and 5 for kings. So unbroken and cleaned one prastha of rice grains are considered as best for the king and broken, uncleaned rice with bran are prescribed best suitable for animals.
 
 Mātaṅgalīlā includes grains especially rice, both raw and cooked. Along with this the text also mentions wheat, barley, beans, other vegetables; grass, other jungle fodder in abundance; ghee (clarified butter), jaggery (a coarse kind of sugar), salt, various spices, sweetened drinks, meat broth and even meat itself, and occasionally strong liquor. The treatise also mentions careful figures of the amounts to be administered of each of the principal article of diet; the amount is made proportional to the animal’s size. Likewise an entire list of grasses to be given to elephants is enlisted in the Yavasadhyāya of Pālakāpya’s Hastyāyurveda (IV, 24ff). The text identifies several types of grasses eaten by elephants, some of which grow in the wild.[7] Edgerton[8] points out the matter of prescription of meat (māṃsa) and as food for elephants both in Mātaṅgalīlā (Chapter 11, v.25, 36)[9] and Hastyāyurveda (IV. 15, 30, 87)[10] along with Arthaśātra. According to Trautmann, processed and human-like food were taken from the granary or store houses and the food like grass, leaves of trees were collected from the grass cutters and gatherers.[11] The above data reflects that the elephant abodes and stables were filled with adequate amount of food supply for them.
-
-Footnotes and references:
-
-[back to top]
 
 [1]:
 
@@ -3876,32 +3405,13 @@ Thomas R. Trautmann. Elephants and Kings An Environmental History, Ranikhet, Per
 
 ## 39. The merits and measures of food suitable for the Elephant
 
-
 Matangalila and Hastyayurveda (study)
 
-by Chandrima Das | 2021 | 98,676 words
-
 This page relates ‘merits and measures of food suitable for the Elephant’ of the study on the Matangalina and Hastyayurveda in the light of available epigraphic data on elephants in ancient India. Both the Matanga-Lila (by Nilakantha) and and the Hasti-Ayurveda (by Palakapya) represent technical Sanskrit works deal with the treatment of elephants. This thesis deals with their natural abode, capturing techniques, myths and metaphors, and other text related to elephants reflected from a historical and chronological cultural framework.
-
-Go directly to: 
-Footnotes.
 
 The merits and measures of food suitable for the Elephant
 
 Gajaśāstra before mentioning food for elephants very interestingly provides us with details of measurement pattern in Magadha. These details are given in verses 1-4 as follows[1] :
-
-8 madhūlikā fruits = 1 mustard seed
-8 mustard seeds = 1 barley grain
-4 barley grains = 1 kākiṇī.
-4 kākiṇīs = 1 māṣa 
-4 māṣas = 1 śāṇaka,
-4 śāṇasa = 1 suvarṇa 
-4 suvarṇa = 1 pala 
-4 palas = 1 kuḍuba 
-4 kuḍuba = 1 prastha 
-4 prastha = 1 āḍhaka 
-4 āḍhakas = 1 droṇa 
-16 droṇas = 1 kārī
 
 8 madhūlikā fruits = 1 mustard seed
 8 mustard seeds = 1 barley grain
@@ -3923,11 +3433,6 @@ The detailed measurement of rasas i.e. fluid or liquid is given separately as fo
 10 palas of medicine should be put in a droṇa of powder
 In 1 droṇa, 20 palas of medicines should be put
 
-5 kuḍubas = 1 prastha 
-13 ½ palas 1 prastha of water to be added
-10 palas of medicine should be put in a droṇa of powder
-In 1 droṇa, 20 palas of medicines should be put
-
 Similarly the measurement of oils is also provided which is mainly for medicinal purposes. This is as follows[3] :
 
 ½ āḍhaka of oil in 1 droṇa 
@@ -3936,15 +3441,7 @@ Similarly the measurement of oils is also provided which is mainly for medicinal
 1 kuḍuba of ghee mixed with red chalk (probably geru or hematite lumps) for an elephant in rut for rubbing its scrotum
 ½ kuḍumba of crushed ink and one kuḍuba of ghee must be massaged on the head to heal wounds of the goad
 
-½ āḍhaka of oil in 1 droṇa 
-½ prastha (of oil) should be known (as usable) in anointing the limbs of elephants
-2 prasthas of oil to be used in anointing the whole (body).
-1 kuḍuba of ghee mixed with red chalk (probably geru or hematite lumps) for an elephant in rut for rubbing its scrotum
-½ kuḍumba of crushed ink and one kuḍuba of ghee must be massaged on the head to heal wounds of the goad
-
 The measurement of lamp oil is as follows:[4]
-
-10 palas in 1 droṇa each of guḍa and salt
 
 10 palas in 1 droṇa each of guḍa and salt
 
@@ -3987,10 +3484,6 @@ The meal of elephants and horses is called vidhā with regular exercise and nour
 The text further mentions that elephants must be nourished by oil, milk, wines, grass and various other foods as well as herbs. Paruṣa, udumbara, aśvattha, pippalī, plakṣa, bandhana, śālmalī, śāka, vārāhī, moda, mango, jack-fruit and banyan–these are called kabala and destroy bile and phlegm. Priyāla, palm, timiśa, kapittha, and ānanda trees as well as sprouting wheat is kabala which destroys kapha and bile. Sallakī, kṣīravṛkṣa, modakī, kiṇihī, karavīra, karṇikāra, kāśmarya and bamboo are kaṭaṃkaras and causes excess of fat and destruction of bile.[42] The leaves of these (trees) are called pallavas. Garlic is called rasona (mixed one taste) because it lacks merely the sour taste. It destroys the three faults, produces ichor, inflames and purifies the bowels. Garlic is like nectar as it appeases the humours, causes sexual vigour, garlic with sesamum oil is to be given in utkarṇaka, jaundice, winds, goitre, paralysis of manyā, shoulder-ache, affection of the spleen, heart burn etc. for curing these ailments.[43] Pure water is to be given as anupāna with these. In the seasons of monsoon, autumn, winter and spring, those elephants which have itching, ringworm, swellings and which are phlegmatic or afflicted with worms, should be given garlic as anupāna with pure water, mixed with ghee, oil, the three acrids and powdered viḍaṅga. When elephants are afflicted with raktapitta in summer and śarat, they should be given garlic mixed with grape-juice and powdered sugars, one fourth of the food or less, in order to cure the ailments. In one aratni, twenty palas of garlic cures ailments. The tastes astringent, acrid, bitter etc., arising from roots, stalks etc., go down to seed, with the heat of the sun’s rays; they are important and cannot cure the various diseases of the elephants.[44] Therefore, the physician should follow properly the methods prescribed by the śāstras. Garlic is said to be astringent in the root, salty in the stalk, and devoid of the sour taste. In diseases (such as) mṛdu, gṛha, mahā, bāla, kukkuṭa, pākala and gout, paralysis, earache, (diseases) of the spleen, stomach, purging, fainting, stiffness of trunk or legs, spleen, gulma, desire to eat earth, and worms, crushed guggulu should be given to elephants by the physicians in order to cure the ailments, also in backache, ailments of the head and heart, and drunkenness.[45] It is endowed with four tastes, devoid of salt and sour (tastes). It reduces wind due to its sweetness, and destroys bile due to its astringency; it reduces phlegm through its bitterness and lends energy through its acridness. Through its gentleness it gives strength and destroys worms. Starting from two palas up to twenty palas (should be given), increasing (from day to day) for ten days, and reducing it for ten days. Guggulu which destroys ailments and gives nourishment should be given. Good guggulu, mixed with ghee, cooked over a slow fire and in a liquid form should be given duly every day before sunrise when the elephant has just arisen from a good sleep.It is as good as mahīṣākṣi, bhṛṅgapatra and añjanapatra. Mixed with oil, it is good for fattening the emaciated (elephants). It is praised for fat (elephants) in order to make them thinner, (to be taken) pure mixed with urine. In spring it should be given with oil, and wine as its anupāna. It should be given with ghee in śarat with milk as anupāna; in summer, mixed with ghee, with white sugar as anupāna. In autumn and winter it should be given with acrid oil. It is praised in all seasons (as) it clears the bowels.[46]
 
 The medicine prescribed should be mixed with beneficial guggulu for the appeasement of that ailment and administered to the elephant. To the best category of elephant should be given one hundred and ten palas; three fourth of that to the medium and half to the inferior. Marrow and fat should be given in spring. In autumn and monsoon, drinking of oil is prescribed. In śarat and summer, drinking of ghee is prescribed. In monsoon, the well-nourished elephants should be tended with oil. In autumn and summer, when the fruitful grass dries up, drinking of oil should be avoided.[47] Consumption of oil in autumn is not prescribed as it does not get digested properly. Similarly consumption of ghee in winter also is not digested properly. Drinking oil in summer causes loss of consciousness. The text further mentions that consumption of oil also causes thirst, tremor and flows in the skin. Therefore oil should be avoided at the onset of cold (weather) and in summer. Bile is placed above the navel, and depends on the heart. Below the navel is the place for wind. The limbs, above the āmāśaya, the chest, the throat and the head–these are placed phlegm in the elephant.[48] An elephant fed and covered with grass in summer, should be put in the shed at eight and a half nāḍika. Again it should be taken to that place (in the daytime)–this is the prescription in summer. In monsoon, it should be brought in at six nāḍika, of the night. The elephant should be taken to the place again at ten nāḍika. In autumn, it should be taken there after eight nāḍiaka. In the rest of the seasons, śarat, spring and winter, they should be taken at ten nāḍika by the wise.[49] Most commonly diseases of elephants are caused by worms. But mention is also made of the elephant fever known by the special name of pākala; it is lightly dismissed with the statement that its symptoms and treatment are the same as with human fever. Following the usual Ayurveda theory, diseases are attributed to disturbance of the equilibrium of the three bodily humours, wind, gall and phlegm; the symptoms of disturbance affecting each of the three are severally described, and the next verse gives the characteristics of the healthy elephant whose humours are balanced.
-
-Footnotes and references:
-
-[back to top]
 
 [1]:
 
@@ -4192,15 +3685,9 @@ Ibid., v. 151-154, p. 207.
 
 ## 40. Megasthenes’ account on Elephants
 
-
 Matangalila and Hastyayurveda (study)
 
-by Chandrima Das | 2021 | 98,676 words
-
 This page relates ‘Megasthenes’ account on Elephants’ of the study on the Matangalina and Hastyayurveda in the light of available epigraphic data on elephants in ancient India. Both the Matanga-Lila (by Nilakantha) and and the Hasti-Ayurveda (by Palakapya) represent technical Sanskrit works deal with the treatment of elephants. This thesis deals with their natural abode, capturing techniques, myths and metaphors, and other text related to elephants reflected from a historical and chronological cultural framework.
-
-Go directly to: 
-Footnotes.
 
 Megasthenes’ account on Elephants
 
@@ -4211,10 +3698,6 @@ The elephant, like the bull and the horse, engenders in spring, when the female 
 According to Megasthenes sixth division of the city magistrate had charge of the elephants. Like horses there were royal stables for elephants. He also informs that after the war soldiers had to return their elephants to the stables. They used the elephants without bridle[11]. The war-elephant carries four men–three who shoot arrows, and the driver. The war-elephant, either in what is called the tower, or on his bare back in sooth, carries three fighting men, of whom two shoot from the side, while one shoots from behind. There is also a fourth man, who carries in his hand the goad wherewith he guides the animal[12].
 
 According to Aelian (2nd-3rd century CE), a commentator on Megasthenes’s writings, the elephant when feeding at large ordinarily drinks water, but when undergoing the fatigues of war is allowed wine, -not that sort, however, which comes from the grape, but another which is prepared from rice (ārak). The attendants even go in advance of their elephants and gather them flowers; for they are very fond of sweet perfumes, and they are accordingly taken out to the meadows, there to be trained under the influence of the fragrance. The animal selects the flowers according to their smell, and throws them as they are gathered into a basket which is held out by the trainer. This being filled, and harvest work, so to speak, completed, he then bathes, and enjoys his bath with all the zest of a consummate voluptuary. On returning from bathing he is impatient to have his flowers, and if there is delay in bringing them he begins roaring, and will not taste a morsel of food till all the flowers he gathered are placed before him. This done, he takes the flowers out of the basket with its trunk and scatters them over the edge of his manager, and makes by his device their fine scent be, as it were, a relish to his food. He strews also a good quantity of them as litter over his stall, for he loves to have his sleep made sweet and pleasant[13]. Aelian also speaks about an Indian white elephant and his loyalty to his master[14].
-
-Footnotes and references:
-
-[back to top]
 
 [1]:
 
@@ -4276,15 +3759,9 @@ Ibid., pp. 119-120.
 
 ## 41. Care and keeping of elephants
 
-
 Matangalila and Hastyayurveda (study)
 
-by Chandrima Das | 2021 | 98,676 words
-
 This page relates ‘Care and keeping of elephants’ of the study on the Matangalina and Hastyayurveda in the light of available epigraphic data on elephants in ancient India. Both the Matanga-Lila (by Nilakantha) and and the Hasti-Ayurveda (by Palakapya) represent technical Sanskrit works deal with the treatment of elephants. This thesis deals with their natural abode, capturing techniques, myths and metaphors, and other text related to elephants reflected from a historical and chronological cultural framework.
-
-Go directly to: 
-Footnotes.
 
 Care and keeping of elephants
 
@@ -4324,15 +3801,9 @@ The text mentions that the elephant leader should order,
 
 “Play the instrument called vīramuṇḍa, that is as delightful as a mṛdaṅga, along with drums and elephant bells”.[65]
 
-“Play the instrument called vīramuṇḍa, that is as delightful as a mṛdaṅga, along with drums and elephant bells”.[65]
-
 In the first yāma of the night, when the vīramuṇḍa is being played, the servants should stand surrounding the elephant on all sides.[66] They should roar hair-raisingly, the noise of soldiers. Hearing their noise, the king should call the hordes of foot-soldiers and should give each of them thick white clothes to deck themselves.[67] He should give them) oil and vermilion along with kausumbha and vīraka to deck the elephants in rut, and food to enrage them.[68] At the beginning of sleep, at the end of sleep, the elephants in rut should be given lotus stalk to eat to put them to sleep.[69] He should make the elephant-drivers offer excitant food already prepared, at the necessity of nature.[70] On the day of the fight, they should be given food and drink, and their thighs and heads should be anointed with oil and vermilion. In the middle of the bumps, a beautiful tilaka should be marked. Thus bedecked, the elephants should be placed near the Bahyāli. They should be tethered far away from one another in a place hundred dhanus long and sixty wide, free from shoots, stones, thorns etc., devoid of dust, level, smooth, slightly raised in the front.[71] Two lovely gates should be constructed in the middle (decked) with new pitchers, with painted portals covered with kunda flowers.
 
 The stable probably had separate places specified for tying up of each variety of elephants as the texts mention that the expert elephant-driver places the Manda elephant in the sun, the Bhadra in the sun and shade, and ties the Mṛga in the shade.[72] The elephant shade should be planned facing east or north. The elephant house facing east should have its centre in the south. Close to it there should be a round sighting gallery, raised high and surrounded by elephants.[73] It should be large and beautiful, walled at the back, and decked with golden pillars which are whitewashed. It should be painted with many colours, with a glass floor, and surrounded by a moat, with a drawbridge as the way (over it). Another room should be built outside the moat, with an ascent without stairs to prevent elephants (from climbing it). A little behind it, on the south, a sporting-terrace should be built in front of the sighting gallery, surrounded by a moat, high, with painted walls, beautiful, large and well-adorned. Another such should be built with eight well-formed pillars on both sides, with a pair of thick and long doors having strong bolts, another such with (similar) doors etc., as high as an elephant’s chest and intercommunicating near the eastern gate with good signs. Thus the elephant-house i.e. a stable should be built with such signs.
-
-Footnotes and references:
-
-[back to top]
 
 [1]:
 
@@ -4636,15 +4107,9 @@ Ibid., v. 113, p.123.
 
 ## 42. Medical treatment of Elephants
 
-
 Matangalila and Hastyayurveda (study)
 
-by Chandrima Das | 2021 | 98,676 words
-
 This page relates ‘Medical treatment of Elephants’ of the study on the Matangalina and Hastyayurveda in the light of available epigraphic data on elephants in ancient India. Both the Matanga-Lila (by Nilakantha) and and the Hasti-Ayurveda (by Palakapya) represent technical Sanskrit works deal with the treatment of elephants. This thesis deals with their natural abode, capturing techniques, myths and metaphors, and other text related to elephants reflected from a historical and chronological cultural framework.
-
-Go directly to: 
-Footnotes.
 
 Medical treatment of Elephants
 
@@ -4655,10 +4120,6 @@ The text Gajaśāstra also provides detailed knowledge on methods of purgation 3
 It ends with verse 30 which mentions that (the physician) who can make the king follow these methods, is not chary in danger and can cause the medicines to be applied to the elephants is the greatest of physicians[5]. This reflects that elephant physicians are required to be expert in every aspect related to cure and care of elephants. Even purgation was considered as a knowledge, practical experience of which was considered imperative to qualify as a superlative veterinary doctor–moving in a royal contingent with elephants definitely would have included a veterinary physician in the groups and he would have been include of keeping the herd in good humour.
 
 The Gajaśāstra provides details of treating elephants diseases and in this text one finds details of methods of purgation and snuff. The latter is prescribed in diseases of the head, ears limbs, face and eyes, and in earache, paralysis of the vein on the back of the neck and goitre. Snuff is best taken in the morning when (the elephant) has hot eaten. Oil (half droṇa) boiled over a slow fire with medicines to cure the disease, is best for snuff. The elephant should remain with its face raised and its trunk stretched. A servant, seated should care the elephant on his lap. Then the good physician should carefully squeeze the genitals (of the elephant). The treatment of young elephants is mentioned separately as in case of paediatrics.
-
-Footnotes and references:
-
-[back to top]
 
 [1]:
 
@@ -4684,15 +4145,9 @@ Ibid., v.30, p. 211.
 
 ## 43. Natural Abodes of Elephants: Forests and woods
 
-
 Matangalila and Hastyayurveda (study)
 
-by Chandrima Das | 2021 | 98,676 words
-
 This page relates ‘Natural Abodes of Elephants: Forests and woods’ of the study on the Matangalina and Hastyayurveda in the light of available epigraphic data on elephants in ancient India. Both the Matanga-Lila (by Nilakantha) and and the Hasti-Ayurveda (by Palakapya) represent technical Sanskrit works deal with the treatment of elephants. This thesis deals with their natural abode, capturing techniques, myths and metaphors, and other text related to elephants reflected from a historical and chronological cultural framework.
-
-Go directly to: 
-Footnotes.
 
 Natural Abodes of Elephants: Forests and woods
 
@@ -4750,13 +4205,9 @@ The signs of the elephants in the forests of Cedikarūṣaka:
 
 Mekhalā (Narmadā), Tripurī and the land of Dāśārṇa and (the land called) Unmattagaṅga–in the middle of this is Cedikarūṣaka. Some of the elephants there are have ally with high sides, tusks the colour of honey, of quick mettle with good bodies, auspicious feet, tall and brown, and are sometimes ferocious and quick to kick (v. 11-12).[5]
 
-Mekhalā (Narmadā), Tripurī and the land of Dāśārṇa and (the land called) Unmattagaṅga–in the middle of this is Cedikarūṣaka. Some of the elephants there are have ally with high sides, tusks the colour of honey, of quick mettle with good bodies, auspicious feet, tall and brown, and are sometimes ferocious and quick to kick (v. 11-12).[5]
-
 3) Dāśārṇa forest:
 
 The signs of the elephants in the forests of Dāśārṇa:
-
-Mekhalā is said to be in the middle of Dāśārṇa, Unmattagaṅga and Tripura and Rasapuṭa in Cardya. Dāśārṇa is in between Śrīparvata and Śrībala mountain, by the Vetravatī. The Dāśārṇa (elephant) has auspicious limbs, is speedy, well-disciplined with great limbs and yellowish (in colour) (v. 13).[6]
 
 Mekhalā is said to be in the middle of Dāśārṇa, Unmattagaṅga and Tripura and Rasapuṭa in Cardya. Dāśārṇa is in between Śrīparvata and Śrībala mountain, by the Vetravatī. The Dāśārṇa (elephant) has auspicious limbs, is speedy, well-disciplined with great limbs and yellowish (in colour) (v. 13).[6]
 
@@ -4766,13 +4217,9 @@ The signs of the elephants in the forests of Āṅgāreyaka:
 
 Between the mountain Pāriyātra and the country of Vidiśā, by the Revatī and the Brahmavatī is the Āṅgāreya (country); the elephant born there has auspicious eyes and is very powerful, with tender skin (v. 14).[7]
 
-Between the mountain Pāriyātra and the country of Vidiśā, by the Revatī and the Brahmavatī is the Āṅgāreya (country); the elephant born there has auspicious eyes and is very powerful, with tender skin (v. 14).[7]
-
 5) Kāliṅga forest:
 
 The signs of the elephants in the forests of Kāliṅga:
-
-Kāliṅga is (the land) in the middle of the Sahya, the Vindhya, Utkala, the direction of Agastya (south) and the sea. The (elephant) there has fine hair, sweet glance, a unique body and is slow-moving.[8]
 
 Kāliṅga is (the land) in the middle of the Sahya, the Vindhya, Utkala, the direction of Agastya (south) and the sea. The (elephant) there has fine hair, sweet glance, a unique body and is slow-moving.[8]
 
@@ -4782,21 +4229,15 @@ The signs of the elephants in the Aparānta forest:
 
 The Aparānta is (the country) to the east of the last mountain by the Revā, the Kṛṣṇa mountain and the ocean. The (elephant) born there has a beautiful body, is very strong and has tender skin (v. 15).[9]
 
-The Aparānta is (the country) to the east of the last mountain by the Revā, the Kṛṣṇa mountain and the ocean. The (elephant) born there has a beautiful body, is very strong and has tender skin (v. 15).[9]
-
 7) Saurāṣṭra forest:
 
 The signs of the elephants in the forests of Saurāṣṭra:
 
 Saurāṣṭra is in the middle of the Revā, Avantī, the city named Arbuda and Dvārakā. The elephants born there has short nails and tusks, as short lived and stupid.[10]
 
-Saurāṣṭra is in the middle of the Revā, Avantī, the city named Arbuda and Dvārakā. The elephants born there has short nails and tusks, as short lived and stupid.[10]
-
 8) Pāñcanada forest:
 
 The signs of the elephants of the Pāñcanada forest:
-
-Pāñcanada is the forest on the north, in the middle of the Kāleya forest and the Sindhu (on the one hand) and Himālaya and Kurukṣetra (on the other). (The elephant) born here is very strong and ferocious (v. 16).This is an account of the forests of the elephants. The elephants that roam in the forests should be judged by their looks, their behaviour and their bodies (v. 17).[11]
 
 Pāñcanada is the forest on the north, in the middle of the Kāleya forest and the Sindhu (on the one hand) and Himālaya and Kurukṣetra (on the other). (The elephant) born here is very strong and ferocious (v. 16).This is an account of the forests of the elephants. The elephants that roam in the forests should be judged by their looks, their behaviour and their bodies (v. 17).[11]
 
@@ -4849,10 +4290,6 @@ northern upavanas and
 Iśāna (north-eastern) upavanas.[17]
 
 Elephants are particularly judged according to the signs of the woods they are born in.[18] Arthaśāstra and Aśokan inscriptions both mention elephant forests or Hastivana where elephants were kept in captivity post capture for training. Kauṭilya places the elephant forests much as much superior to the material forests. Elephants are principally responsible for destruction of the enemy’s force (Book 7, Chapter 11, verses 13-16).[19] Under the measures taken by ministers for state’s foreign policy especially at the time of pact for an undertaking Kauṭilya mentions the usefulness of the elephant forests. According to the ancient teachers there were two types of elephants in forests prior to their usefulness i.e. ‘one with many but dull elephants and one with few but brave elephants is preferable; for, on the brave depends the fight; the few brave rout the many dull, and those routed become the destroyers of their own troops.’ But according to Kauṭilya many dull elephants are preferable for their use in the army as they carry out many tasks, become the refuge of their own troops in battle and unassailable and frightful to the enemies. Where as to the many dull elephants, bravery can be imparted by means of training, but numerousness cannot be generated at all in the few brave (Book 7, Chapter 12, verses 8-12).[20] Elephant forests are the source of elephants for war (Book 7, Chapter 14, verse 25).[21]
-
-Footnotes and references:
-
-[back to top]
 
 [1]:
 
@@ -4942,21 +4379,13 @@ Ibid., p. 426.
 
 ## 44. Tracking of Elephants in their natural abode
 
-
 Matangalila and Hastyayurveda (study)
 
-by Chandrima Das | 2021 | 98,676 words
-
 This page relates ‘Tracking of Elephants in their natural abode’ of the study on the Matangalina and Hastyayurveda in the light of available epigraphic data on elephants in ancient India. Both the Matanga-Lila (by Nilakantha) and and the Hasti-Ayurveda (by Palakapya) represent technical Sanskrit works deal with the treatment of elephants. This thesis deals with their natural abode, capturing techniques, myths and metaphors, and other text related to elephants reflected from a historical and chronological cultural framework.
-
-Go directly to: 
-Footnotes.
 
 Tracking of Elephants in their natural abode
 
 According to texts—[1]
-
-Aforest known for the breeding of elephants is considered to be the paramount. The king must look after such forests and also those in which elephants are known to reside, with the help of the forest dwellers. Before capturing elephants one has to know the signs of their presence in the forests.
 
 Aforest known for the breeding of elephants is considered to be the paramount. The king must look after such forests and also those in which elephants are known to reside, with the help of the forest dwellers. Before capturing elephants one has to know the signs of their presence in the forests.
 
@@ -4965,12 +4394,6 @@ Gajaśāstra reveals the ways of finding out of elephant path which method is de
 The method described in this treatise is similar to the Gajaśāstra. It says thus[4] —
 
 presence of an elephant herd in a forest can be ascertained from animals of the forest smeared with urine and dung of the elephants and the leaves of aruṣka (Semecarpus anacardium) sticking on to them. It can also be inferred from the footmarks and droppings of the elephants, from the felled trees tore against by them, from their relaxing spaces, and also from their trumpets. Experts should catch the elephants according to the order of the king in grīṣma, i.e., summer time[5]. People were also aware of forests where the elephants of best breed lived.
-
-presence of an elephant herd in a forest can be ascertained from animals of the forest smeared with urine and dung of the elephants and the leaves of aruṣka (Semecarpus anacardium) sticking on to them. It can also be inferred from the footmarks and droppings of the elephants, from the felled trees tore against by them, from their relaxing spaces, and also from their trumpets. Experts should catch the elephants according to the order of the king in grīṣma, i.e., summer time[5]. People were also aware of forests where the elephants of best breed lived.
-
-Footnotes and references:
-
-[back to top]
 
 [1]:
 
@@ -4996,24 +4419,15 @@ Ibid., v. 184, p. 46.
 
 ## 45. Training of Elephants
 
-
 Matangalila and Hastyayurveda (study)
 
-by Chandrima Das | 2021 | 98,676 words
-
 This page relates ‘Training of Elephants’ of the study on the Matangalina and Hastyayurveda in the light of available epigraphic data on elephants in ancient India. Both the Matanga-Lila (by Nilakantha) and and the Hasti-Ayurveda (by Palakapya) represent technical Sanskrit works deal with the treatment of elephants. This thesis deals with their natural abode, capturing techniques, myths and metaphors, and other text related to elephants reflected from a historical and chronological cultural framework.
-
-Go directly to: 
-Footnotes.
 
 Training of Elephants
 
 As far as the matter of training of elephants[1] is concerned the texts provide interesting details. Verse 1 mentions that in front (of the elephant) three men should be placed, two at the ears and two behind–thus seven men should be placed in all. On both sides should be placed two well-trained females. The elephant should be controlled by the riders. The trainer of elephants should then teach the language to the elephants every day, untiringly, repeatedly so that they know their work. The language of training elephants as detailed by Pālakāpya and others thus was to be mastered by the trainers for best training of elephants. It is worth mentioning that the text directly refers to the use of Prakrit language and dialects for training the elephants in explaining the work[2].
 
 Thus trained in who to be and who is not to be killed, the elephant, though alone, conquers many men, horses and elephants–
-
-evaṃ saṃśikṣito nāgaḥ vadhyāvadhyeṣu karmasu /
-jayatyekoapi saṃgrāme naravājigajān bahūn //[3]
 
 evaṃ saṃśikṣito nāgaḥ vadhyāvadhyeṣu karmasu /
 jayatyekoapi saṃgrāme naravājigajān bahūn //[3]
@@ -5044,9 +4458,6 @@ Thus the elephant guards are to be conceived as best, middling, and poorest. Amo
 rekhāvānapi yuktimāṃśca balabān yenta tridhetyagrimo nāgasyaiva tu vartateânuguṇamatrātmebhayormadhyamaḥ /
 pāścātyo nijabuddhiśaktivibhavenaiveti te hastipāḥ kalpyāścottama madhyamādhamatayā varjyoâtra teṣvantimaḥ // (v. 3)[7]
 
-rekhāvānapi yuktimāṃśca balabān yenta tridhetyagrimo nāgasyaiva tu vartateânuguṇamatrātmebhayormadhyamaḥ /
-pāścātyo nijabuddhiśaktivibhavenaiveti te hastipāḥ kalpyāścottama madhyamādhamatayā varjyoâtra teṣvantimaḥ // (v. 3)[7]
-
 Then follow, in rather minute and interesting detail, descriptions of the technique of guiding elephants–first by words alone (vv. 8-10)[8], then by prodding them with the feet (vv. 11-12)[9], and then–after a brief listing of the various ‘gaits’ of an elephant (v. 13)[10], and three verses (vv. 14-16)[11] on the ways of sitting on his back, of which there are no less than eight, three front and five behind–a dissertation on the hook or goad. There are four kinds of hook (v. 18)[12]; six parts of beast’s body to which they may be applied (v.19)[13]; the manner of applying tells the trained elephant exactly the direction in which he is expected to move (v.20)[14]; there are six degrees of severity of the goading, ‘from barely touching’ to the most violent thrusts after brandishing the hook (v. 21)[15]. Three verses (vv.22-24)[16] prescribe ointments or solutions which when rubbed on the hook; make it more effective in controlling an elephant. A stick may also be used; it is to be applied to five spots on the sides and rear of the elephant, which indicates that it was not used by the driver but by a rider sitting behind. There are eight ways of mounting an elephant, and ten of dismounting (v. 26-27)[17].
 
 Gajaśāstra (Chapter 10) also provides further information regarding signs of seats, classification of seats of elephants, ways of driving them with goad and various commands, different ways to guiding with the foot and techniques of directing elephants with words. Experts in the elephant science have said about three kinds of seats on an elephant–excellent, medium and inferior (verse 1).[18] The excellent seat is level and firm, adhering, when knee-joints are placed, (is found) in the species such as Manda and in war (verse 2). The text mentions that in species such as Manda and in battle, that seat is considered as the best seat which is high and when one mounts it both his knees are bent (verse 4).[19]
@@ -5067,8 +4478,6 @@ The texts also mention the various methods for mounting the elephant:
 
 The texts divide the riders into three categories according to the marks, joints and power (of the elephant) they are: inferior, medium and excellent. The Best follows the will of the elephant, he is Rekhāvān. The one who follows his own will and the elephant’s is Yuktimān and the one that acts according to his own wit is Sattvavān. There are eight types of mounting and ten of dismounting–by both hind legs and both sides, with ropes, mounting by the face also dismounting.[31]
 
-The texts divide the riders into three categories according to the marks, joints and power (of the elephant) they are: inferior, medium and excellent. The Best follows the will of the elephant, he is Rekhāvān. The one who follows his own will and the elephant’s is Yuktimān and the one that acts according to his own wit is Sattvavān. There are eight types of mounting and ten of dismounting–by both hind legs and both sides, with ropes, mounting by the face also dismounting.[31]
-
 Qualities of the elephant-rider instructor:
 
 Elephant riders or māhuts are of four kinds–
@@ -5086,10 +4495,6 @@ They also engage in taming the elephants. By the sixth century BCE the taming an
 The capturing and taming of wild elephants, the training of these animals for war, their treatment, etc.:
 
 It is difficult to assume where did the idea originate? According to Shastri it may be Bengal which first subdued and tamed these huge beasts. The country which is bounded on the one side by the Himalaya and on two other sides by the Lauhitya and the Sea gave birth to what is called the “Hastividyā”, or the science about elephants. It was here that a great man (Pālakāpya) flourished, who from his childhood associated with elephants, moving, walking, living and eating with these beasts, nursing and treating them during their illness, serving them in every possible way, and, in a word, transforming himself into an elephant. He was, in turn loved, served and fed by these animals and nursed by them when he was ill.[33]
-
-Footnotes and references:
-
-[back to top]
 
 [1]:
 
@@ -5227,10 +4632,7 @@ Haraprasad Shastri. ‘Contributions of Bengal to Hindu Civilization’, Journal
 
 ## 46. Chapter 4
 
-
 Matangalila and Hastyayurveda (study)
-
-by Chandrima Das | 2021 | 98,676 words
 
 This page relates ‘Chapter 4’ of the study on the Matangalina and Hastyayurveda in the light of available epigraphic data on elephants in ancient India. Both the Matanga-Lila (by Nilakantha) and and the Hasti-Ayurveda (by Palakapya) represent technical Sanskrit works deal with the treatment of elephants. This thesis deals with their natural abode, capturing techniques, myths and metaphors, and other text related to elephants reflected from a historical and chronological cultural framework.
 
@@ -5242,10 +4644,7 @@ Chapter 4
 
 ## 47. Concluding Remarks
 
-
 Matangalila and Hastyayurveda (study)
-
-by Chandrima Das | 2021 | 98,676 words
 
 This page relates ‘Concluding Remarks’ of the study on the Matangalina and Hastyayurveda in the light of available epigraphic data on elephants in ancient India. Both the Matanga-Lila (by Nilakantha) and and the Hasti-Ayurveda (by Palakapya) represent technical Sanskrit works deal with the treatment of elephants. This thesis deals with their natural abode, capturing techniques, myths and metaphors, and other text related to elephants reflected from a historical and chronological cultural framework.
 
@@ -5259,15 +4658,9 @@ Thus we have also discussed the several parameters which decided the elephant’
 
 ## 48. Elephants in Myths and Metaphors (Introduction)
 
-
 Matangalila and Hastyayurveda (study)
 
-by Chandrima Das | 2021 | 98,676 words
-
 This page relates ‘Elephants in Myths and Metaphors (Introduction)’ of the study on the Matangalina and Hastyayurveda in the light of available epigraphic data on elephants in ancient India. Both the Matanga-Lila (by Nilakantha) and and the Hasti-Ayurveda (by Palakapya) represent technical Sanskrit works deal with the treatment of elephants. This thesis deals with their natural abode, capturing techniques, myths and metaphors, and other text related to elephants reflected from a historical and chronological cultural framework.
-
-Go directly to: 
-Footnotes.
 
 Elephants in Myths and Metaphors (Introduction)
 
@@ -5276,10 +4669,6 @@ Indian mythological tradition is replete with references to elephants. There are
 We have taken into consideration Buddhist literature and Jātakas have been chosen for a detailed data extraction. From among the epics, both Rāmāyaṇa and Mahābhārata have been taken into consideration and as a representation of Brahmanical literature Purāṇas have been taken into account, some Jain secular literature has also been consulted. According to Coomaraswamy Indian mythology is not a subject of antiquarian research and disquisition yet it permeates the whole life of the people as a controlling influence.[1]
 
 Texts like Mātaṅgalīlā which deal with the science of elephants have several such embedded myths. These have several myths related to origin and life circle of elephants. In fact all the known texts agree in attributing the science of elephantology to a mythical sage Pālakāpya whose supernatural origin is narrated in a bizarre story recorded in the Mātaṅgalīlā (i, 1718)[2]. In this narrative a hierarchy or order of relaying the myth is also found which is repeated in several texts. He reveals this elephant-lore firstly to an apparently mythical Romapāda, king of Aṅga, whose name is not otherwise known. It is interesting to note that all the three texts Gajaśāstra, Mātaṅgalīlā and Hastyāyurveda, were composed in the form of dialogue between these two personages.
-
-Footnotes and references:
-
-[back to top]
 
 [1]:
 
@@ -5293,15 +4682,9 @@ Franklin Edgerton. The Elephant-lore of the Hindus, Delhi: Motilal Banarsidass, 
 
 ## 49. Eight noble Elephants (aṣṭadiggajas)
 
-
 Matangalila and Hastyayurveda (study)
 
-by Chandrima Das | 2021 | 98,676 words
-
 This page relates ‘Eight noble Elephants (ashtadiggajas)’ of the study on the Matangalina and Hastyayurveda in the light of available epigraphic data on elephants in ancient India. Both the Matanga-Lila (by Nilakantha) and and the Hasti-Ayurveda (by Palakapya) represent technical Sanskrit works deal with the treatment of elephants. This thesis deals with their natural abode, capturing techniques, myths and metaphors, and other text related to elephants reflected from a historical and chronological cultural framework.
-
-Go directly to: 
-Footnotes.
 
 Eight noble Elephants (aṣṭadiggajas)
 
@@ -5331,13 +4714,9 @@ It is interesting to note that in addition to the Aṣṭadiggajas who have been
 
 To forge a divine origin and also to describe that the divine creatures are on earth due to a punitive curse the Purāṇas provide us with a narrative. This narrative describes the Aṣṭadiggajas as winged creatures that fly about, changing their shapes and colours at will–a picturesque allusion to cloud formation. In an elegiac tale of their later fortunes, a flock of youngsters one day settle on the branch of a huge banyan tree in the Himalayas under which sat a sage, Dīrghatapas, presenting a discourse[7]. Enraptured by the sage’s eloquence, the elephants lean forward. Predictably, the branch snaps and falls, instantly killing one of the sage’s disciples. Oblivious to the bedlam they have caused, the elephants rise into the air and perch on a different branch. Enraged, Dīrghatapasa hurls a terrible curse: from that day on, all elephants would lose the gift of flight to wander instead on earth, constantly thrusting for water and in the service of humans. The parent-Aṣṭadiggajas, however, are spread the sage’s wrath and be him to forgive their children. The curse is, of course, irreversible. Dīrghatapasa instead assured the elephants that there would soon appear on earth another sage, Pālakāpya, destined to be partial to the eccentricities of earth-bound pachyderms[8]. This was definitely a way to introduce Pālakāpya as a sage par excellence and also to highlight his soft corner for elephantology. In other words the inclusion of the narrative was to introduce Pālakāpya and also to assign elephants an important position. Since the animal was on the earth and was also used by humans extensively to serve them in different ways the elephant riders and keepers could have created this myth or oral tradition which made its way into the Purāṇas which could have added the curse, its irreversible character and a remedy to further uplift the position of the animal among the other animals.
 
-The dissemination of the knowledge of veterinary sciences, surrounding elephants exclusively, is done using a narrative which gradually gains prominence. The narrative proceeds to further mention that Pālakāpya, a name that suggests that its bearer is himself fond of elephants, in course of his good works shares his knowledge of elephant-magic and medicine (Gaja-śāstra) with a mythical king, Romapāda (Lotus-foot). Pālakāpya’s mythical monologue reappears in the form of an instructional discourse in three different Sanskrit treaties on the life and lore of the Indian elephants. The Mātaṅgalīlā oscillates between fantasy and fact whereas the theme of the other text i.e. Gaja-śāstra, authored by Nīlakaṇṭha revolves around the care and husbandry of domesticated elephants.
+The dissemination of the knowledge of veterinary sciences, surrounding elephants exclusively, is done using a narrative which gradually gains prominence. The narrative proceeds to further mention that Pālakāpya, a name that suggests that its bearer is himself fond of elephants, in course of his good works shares his knowledge of elephant-magic and medicine (Gaja-śāstra) with a mythical king, Romapāda (Lotus-foot). Pālakāpya’s mythical monologue reappears in the form of an instructional discourse in three different Sanskrit treaties on the life and lore of the Indian elephants. The Mātaṅgalīlā oscillates between fantasy and fact whereas the theme of the other text i.e. Gaja-śāstra, authored by Nīlakaṇṭha focuses on the care and husbandry of domesticated elephants.
 
 The creation myth of the elephants is not only restricted to their creation and divine origin and introduction of Pālakāpya and Romapāda but also goes beyond that claiming a special status for the other elephants in the forests. In this context it may be highlighted that the Aṣṭadiggajas and their four descendants had several other descendants who also claimed special status as the texts mention that in course of time those elephants, their many sons and grandsons, etc. endowed with spirit and might range at will own the forests, rivers, and mountains of the whole world thus gaining prominence and divine pedigree[9].
-
-Footnotes and references:
-
-[back to top]
 
 [1]:
 
@@ -5379,15 +4758,9 @@ Franklin Edgerton. The Elephant-Lore of the Hindus, v.23, pp.47-48.
 
 ## 50. Divine origin of Elephants
 
-
 Matangalila and Hastyayurveda (study)
 
-by Chandrima Das | 2021 | 98,676 words
-
 This page relates ‘Divine origin of Elephants’ of the study on the Matangalina and Hastyayurveda in the light of available epigraphic data on elephants in ancient India. Both the Matanga-Lila (by Nilakantha) and and the Hasti-Ayurveda (by Palakapya) represent technical Sanskrit works deal with the treatment of elephants. This thesis deals with their natural abode, capturing techniques, myths and metaphors, and other text related to elephants reflected from a historical and chronological cultural framework.
-
-Go directly to: 
-Footnotes.
 
 Divine origin of Elephants
 
@@ -5402,10 +4775,6 @@ The elephant called “Slow” is said by the sages to be born in the Tretā age
 Deficient in girth and length, his whole body lean, his form has a greyish colour, he eats much, responds to slight stimuli, i.e. highly sensitive, his mind is unstable and he is easily angered, he is river ranging, has large eyes and short tail, he is born in the last Dvāpara age and in the rainy season, he is violent and has a predominance of bile; thus is described that smallish elephant known as “Deer” (v.29).[4] Here as well we find myth and fact intertwined.
 
 The elephants of mixed class are born abundantly in the Kali age; they are so named from the mixture of the characteristics mentioned for the “Slow” and the other classes.[5] The designation of elephants and their association with varied time periods is quite interesting this shows that concept of time and chronological phases in early India and associating and assigning events and descriptions to such chronological orders is atypical.
-
-Footnotes and references:
-
-[back to top]
 
 [1]:
 
@@ -5431,15 +4800,9 @@ Franklin Edgerton. The Elephant-Lore of the Hindus, p.50.
 
 ## 51. Airāvata (vehicle of the King of Gods—Indra)
 
-
 Matangalila and Hastyayurveda (study)
 
-by Chandrima Das | 2021 | 98,676 words
-
 This page relates ‘Airavata (vehicle of the King of Gods—Indra)’ of the study on the Matangalina and Hastyayurveda in the light of available epigraphic data on elephants in ancient India. Both the Matanga-Lila (by Nilakantha) and and the Hasti-Ayurveda (by Palakapya) represent technical Sanskrit works deal with the treatment of elephants. This thesis deals with their natural abode, capturing techniques, myths and metaphors, and other text related to elephants reflected from a historical and chronological cultural framework.
-
-Go directly to: 
-Footnotes.
 
 Airāvata (vehicle of the King of Gods—Indra)
 
@@ -5458,10 +4821,6 @@ It is worth mentioning here that in the ancient dānastuti hymns the things give
 It is not difficult to demonstrate this higher dignity of the chariot–the gods themselves all ride chariots in the Veda, as we have seen, Gonda proposed that the increased importance of cavalry and growing prestige of riding horseback motivated the rise of the particular animal vāhanas associated with each Brahamanical god as its characteristic mount, abandoning the chariot for an animal conveyance specific to that god. The argument is convincing. Thus Śiva is associated with the bull Nandi; Viṣṇu with Garuḍa and Indra’s mount is the Airāvata. Only Sūrya continues to ride chariot daily across the sky, like his Greek counterpart Helios.[6]
 
 In a variation of ocean myth, Airāvata is accountable (albeit indirectly) for the churning of the ocean. Here, the elephant already belongs to the king of gods. Epigraphic records also reflect the same references. Along with other Purāṇic treatise Mātaṅgalīlā also gives a mythical story which tells Durvāsā respectfully gave the Lord of the Gods a marvellous garland. It was crushed by Airāvata, on seeing this the sage mercilessly cursed him. By his curse he was destroyed, and then was (re-)born (as) the mate of Abhramu in the ocean when it was churned (by Indra) to win him back and to win complete supremacy. Hence he is reputed to be born of the milk ocean. Cambay plates of Govinda IV of Śaka-samvat 852 (CE 930) gives a magnificent description of the rising of Airāvata by churning milk ocean. Started with evoking Keśava (Viṣṇu), on whose person horripilation was caused by the waves which sprang up in the milky ocean agitated by the revolution of the Mandāra mountain, and which were reddened by the dense washing of quantities of red chalk of the best of the elephant. This refers to Airāvata, the elephant of Indra who was produced by the churning of the milky ocean.[7] Another inscription of Chandella’s from Mahoba, of which verse 26 records the victory of Kīrtivarman over Lakṣmīkarṇa with the description of Purāṇic myths of churning of milk-ocean. According to this record–“Just as Puruṣottama (Viṣṇu), having produced the nectar by churning with the mountain (Mandāra) the rolling (milk) ocean, whose high waves had swallowed many mountains, obtained (the goddess) Lakṣmī together with the elephants (of the eight regions), -he (viz. Kīrtivarman), having acquired fame by crushing with his strong arm the haughty Lakṣmīkarṇa, whose armies had destroyed many princess, obtained splendour in this world together with elephants”.[8]
-
-Footnotes and references:
-
-[back to top]
 
 [1]:
 
@@ -5499,15 +4858,9 @@ EI, Vol. I, p.219.
 
 ## 52. Curses borne by Elephants
 
-
 Matangalila and Hastyayurveda (study)
 
-by Chandrima Das | 2021 | 98,676 words
-
 This page relates ‘Curses borne by Elephants’ of the study on the Matangalina and Hastyayurveda in the light of available epigraphic data on elephants in ancient India. Both the Matanga-Lila (by Nilakantha) and and the Hasti-Ayurveda (by Palakapya) represent technical Sanskrit works deal with the treatment of elephants. This thesis deals with their natural abode, capturing techniques, myths and metaphors, and other text related to elephants reflected from a historical and chronological cultural framework.
-
-Go directly to: 
-Footnotes.
 
 Curses borne by Elephants
 
@@ -5517,13 +4870,9 @@ Because of her complaint he cursed them, not being able to burn them by reason o
 
 “Since in great insolence you said (thought) that because you obeyed the previously expressed command of the Creator you could do any such violent deed, behold this reason you shall instantly, from this moment, be subject always to inversion of the tongue, and likewise to internal fire” thus they were subjected to Agni’s curse. Then in compassion the Lotus-born granted them the delight of dust, water and mud (Chapter 1, v.37).[1]
 
-“Since in great insolence you said (thought) that because you obeyed the previously expressed command of the Creator you could do any such violent deed, behold this reason you shall instantly, from this moment, be subject always to inversion of the tongue, and likewise to internal fire” thus they were subjected to Agni’s curse. Then in compassion the Lotus-born granted them the delight of dust, water and mud (Chapter 1, v.37).[1]
-
 Next in series of curses, is a curse, that came from Bhṛgu, i.e. attraction to their own dung and urine. Once the elephants went to Bhṛgu’s hermitage and tore down trees, and voided dung and urine in the holy fire.
 
 This enraged Bhṛgu and he cursed them saying that:
-
-“Upon smelling their own dung and urine, let them always be producing a tickling of the palate (an attraction for it)!” (Chapter 1, v.38).[2]
 
 “Upon smelling their own dung and urine, let them always be producing a tickling of the palate (an attraction for it)!” (Chapter 1, v.38).[2]
 
@@ -5535,11 +4884,7 @@ Such decisive circumstances the elephants of the quarters, attended by all the e
 
 “O god, when our kinsfolk have gone to earth by the power of fate, they may be a pray to diseases, because of unsuitable and undigested food due to eating coarse things and overeating, and other causes”.
 
-“O god, when our kinsfolk have gone to earth by the power of fate, they may be a pray to diseases, because of unsuitable and undigested food due to eating coarse things and overeating, and other causes”.
-
 Thus addressed by them in their great distress, the Lotus-born replied to them:
-
-“Not after now there shall appear a certain sage fond of elephants, well versed in medicine, and he shall right skilfully cure their diseases.”
 
 “Not after now there shall appear a certain sage fond of elephants, well versed in medicine, and he shall right skilfully cure their diseases.”
 
@@ -5559,10 +4904,6 @@ Then the sage, realizing that she was innocent, straightway said to her:
 “A certain Yakṣī (female sprite) once appeared to the hermit Sāmagāyana in a dream. Then the noble hermit straightway went out from the hermitage and passed water. With the urine, seed came forth. That she drank when the hermit had re-entered the house, and speedily the elephant cow conceived and brought forth a son, from her mouth”.
 
 Giving her son with joy to the sage, she left the form of an elephant cow and quickly went to heaven, freed from her curse, in peace. Pleased that hermit Sāmagāyana then performed the birth rite and other rites for him, and in accordance with (the instructions of) a heavenly voice gave him the name of Pālakāpya[6]. He lived and moved with elephants. They were his friends, relatives and companions. Here one can clearly notice an attempt to claim divine origin for the elephants.
-
-Footnotes and references:
-
-[back to top]
 
 [1]:
 
@@ -5592,15 +4933,9 @@ Franklin Edgerton. The Elephant-Lore of the Hindus, pp. 47-46.
 
 ## 53. Gaja-piṭha or Gaja-pṛṣṭha (elephant-platform)
 
-
 Matangalila and Hastyayurveda (study)
 
-by Chandrima Das | 2021 | 98,676 words
-
 This page relates ‘Gaja-pitha or Gaja-prishtha (elephant-platform)’ of the study on the Matangalina and Hastyayurveda in the light of available epigraphic data on elephants in ancient India. Both the Matanga-Lila (by Nilakantha) and and the Hasti-Ayurveda (by Palakapya) represent technical Sanskrit works deal with the treatment of elephants. This thesis deals with their natural abode, capturing techniques, myths and metaphors, and other text related to elephants reflected from a historical and chronological cultural framework.
-
-Go directly to: 
-Footnotes.
 
 Gaja-piṭha or Gaja-pṛṣṭha (elephant-platform)
 
@@ -5627,10 +4962,6 @@ Two different interpretations are presented in two early Cālukya temples in the
 [14a. Gajathara image from an early medieval Śiva temple of Malhar. Courtesy: Susmita Basu Majumdar]
 
 [14b. Close up of Gajathara image. Courtesy: Susmita Basu Majumdar]
-
-Footnotes and references:
-
-[back to top]
 
 [1]:
 
@@ -5672,15 +5003,9 @@ V. Ram. Elephant Kingdom–Sculptures from Indian Architecture, pp.23-25.
 
 ## 54. Gaja-Lakṣmī motif
 
-
 Matangalila and Hastyayurveda (study)
 
-by Chandrima Das | 2021 | 98,676 words
-
 This page relates ‘Gaja-Lakshmi motif’ of the study on the Matangalina and Hastyayurveda in the light of available epigraphic data on elephants in ancient India. Both the Matanga-Lila (by Nilakantha) and and the Hasti-Ayurveda (by Palakapya) represent technical Sanskrit works deal with the treatment of elephants. This thesis deals with their natural abode, capturing techniques, myths and metaphors, and other text related to elephants reflected from a historical and chronological cultural framework.
-
-Go directly to: 
-Footnotes.
 
 Gaja-Lakṣmī motif
 
@@ -5690,10 +5015,6 @@ Image given below is from an early medieval Śiva temple in Malhar, Chhattisgarh
 
 [16. Gaja-Lakṣmī image from an early medieval Śiva temple, Malhar. Courtesy: Susmita Basu Majumdar]
 
-Footnotes and references:
-
-[back to top]
-
 [1]:
 
 Coomaraswamy and Nivedita. Myths of the Hindus and Buddhists, pp.315-316.
@@ -5702,15 +5023,9 @@ Coomaraswamy and Nivedita. Myths of the Hindus and Buddhists, pp.315-316.
 
 ## 55. Elephants in Jain Mythology
 
-
 Matangalila and Hastyayurveda (study)
 
-by Chandrima Das | 2021 | 98,676 words
-
 This page relates ‘Elephants in Jain Mythology’ of the study on the Matangalina and Hastyayurveda in the light of available epigraphic data on elephants in ancient India. Both the Matanga-Lila (by Nilakantha) and and the Hasti-Ayurveda (by Palakapya) represent technical Sanskrit works deal with the treatment of elephants. This thesis deals with their natural abode, capturing techniques, myths and metaphors, and other text related to elephants reflected from a historical and chronological cultural framework.
-
-Go directly to: 
-Footnotes.
 
 Elephants in Jain Mythology
 
@@ -5719,10 +5034,6 @@ Not only in the Buddhist pantheon but also in Jain faith elephants are perceived
 [20. Jain Tīrthaṅkara Ajitanātha, with elephant]
 
 The Tīrthaṅkaras are all considered to be of royal lineage–each one of them a prince who renounced the worldly existence to follow a path of extreme asceticism. As an acknowledgment of their former privileges, the Tīrthaṅkaras are often shown flanked by caparisoned elephants. At the hill-fort of Gwalior in Central India, for instance, a group of towering Jina figures, carved from the living-sand stone hill side, are each embellished with a pair of triumphal elephants over the shoulders. In one of the sculptural panels an elephant and its rider transport reliquary urns towards a prototypal Jain shrine.[2] Other elephants in Jain art serve a more ritualistic role–mainly of adoration and worship. ādinātha temple at Ronakpur and Pārśvanātha temples contain huge images of elephants, fully modelled.
-
-Footnotes and references:
-
-[back to top]
 
 [1]:
 
@@ -5736,15 +5047,9 @@ V. Ram. Elephant Kingdom–Sculptures from Indian Architecture, p.37.
 
 ## 56. Elephants in Buddhist mythology
 
-
 Matangalila and Hastyayurveda (study)
 
-by Chandrima Das | 2021 | 98,676 words
-
 This page relates ‘Elephants in Buddhist mythology’ of the study on the Matangalina and Hastyayurveda in the light of available epigraphic data on elephants in ancient India. Both the Matanga-Lila (by Nilakantha) and and the Hasti-Ayurveda (by Palakapya) represent technical Sanskrit works deal with the treatment of elephants. This thesis deals with their natural abode, capturing techniques, myths and metaphors, and other text related to elephants reflected from a historical and chronological cultural framework.
-
-Go directly to: 
-Footnotes.
 
 Elephants in Buddhist mythology
 
@@ -5767,10 +5072,6 @@ The Chaddanta Jātaka occupies a prominent position in the Sanchi monuments. The
 [19. Northern gateway of Sanchi stūpa. Courtesy: Archaeological Survey of India]
 
 Spreading of Mahāyāna Buddhism in early centuries of Christian era encourages the development of various vihāras and temples in vast areas of the sub-continent. Many of these places were situated in remote areas and undoubtedly troubled with considerable risk. To protect and give security, against evil elements and physical dangers of the path, to monks as well as lay devotees, gentle Padmapāṇi also known as Avalokiteśvara has been praised. Many sculptural representation of Padmapāṇi at the rock-cut caves of Ajanta, Aurangabad and Ellora can be seen. In large scale panel in Aurangabad, the central figure of Avalokiteśvara/ Padmapāṇi is held between eight smaller scenes in which Padmapāṇi has been shown rescuing his devotees from various torments. Despite the special status of elephant in Buddhism, one of the perceived dangers comes in the form of a wild elephant which is depicted in the panel[5].
-
-Footnotes and references:
-
-[back to top]
 
 [1]:
 
@@ -5796,15 +5097,9 @@ V. Ram. Elephant Kingdom–Sculptures from Indian Architecture, p. 34.
 
 ## 57. Elephants in Śaivism
 
-
 Matangalila and Hastyayurveda (study)
 
-by Chandrima Das | 2021 | 98,676 words
-
 This page relates ‘Elephants in Shaivism’ of the study on the Matangalina and Hastyayurveda in the light of available epigraphic data on elephants in ancient India. Both the Matanga-Lila (by Nilakantha) and and the Hasti-Ayurveda (by Palakapya) represent technical Sanskrit works deal with the treatment of elephants. This thesis deals with their natural abode, capturing techniques, myths and metaphors, and other text related to elephants reflected from a historical and chronological cultural framework.
-
-Go directly to: 
-Footnotes.
 
 Elephants in Śaivism
 
@@ -5814,11 +5109,7 @@ In this connection we can take a glance to a record the Chandrehe inscription of
 
 “May the mass of lustre of the laugh of Śaṅkara clad in an elephant-skin which white like the goose, in spread round his face and which, being slightly darkened by the effulgence of his (blue) neck, at once assumes the clear splendour of the moon emerging from a cloud-grant you prosperity!”
 
-“May the mass of lustre of the laugh of Śaṅkara clad in an elephant-skin which white like the goose, in spread round his face and which, being slightly darkened by the effulgence of his (blue) neck, at once assumes the clear splendour of the moon emerging from a cloud-grant you prosperity!”
-
 It also speaks that:
-
-“Skilled in the cārī steps; which puts to flight the elephants of the quarters; which caused a sudden movement of a part of the universe by the revolutions of his staff-like arms and which is accompanied by the deep sound of the ḍamru.”[2]
 
 “Skilled in the cārī steps; which puts to flight the elephants of the quarters; which caused a sudden movement of a part of the universe by the revolutions of his staff-like arms and which is accompanied by the deep sound of the ḍamru.”[2]
 
@@ -5831,10 +5122,6 @@ The darker side of Śiva’s dance emerges with his manifestation as Gajāsura-s
 [22. Gaja-hasta mudrā]
 
 The hand of Śiva plays a significant role in the creation of Gaṇeśa–much-loved elephantheaded god of wisdom and patron of literary and academic persuades. The mythology of the rubicund deity is varied and complex. In the most popular tale of Gaṇeśa’s creation, Śiva’s consort Pārvatī fashions a boy-child out of rubbings from her own body and instructs him to guard the house while she goes in for a bath. Śiva returns home to find a stranger minding the front door. Because the obedient denies him entry, Śiva lops the youngster’s head off. Pārvatī emerges from her bath and is distraught. To mollify his wife, Śiva replaces the child’s head with that of the first animal he comes across–which happens to be an elephant–and restores life into the little boy. Also known as Gaṇapati (Lord of the Gaṇas), Vigneśvara (remover of obstacles) and Eka-danta (one tusked), Gaṇeśa the elephant headed God is invoked in the beginning of any new work or assignment for an auspicious commencement. His iconography, therefore, is hugely eclectic. An especially charming depiction, in a cavetemple at Udayagiri, Central India, shows the god seated like a quiet and introspective child.
-
-Footnotes and references:
-
-[back to top]
 
 [1]:
 
@@ -5856,15 +5143,9 @@ V. Ram., pp. 37-38.
 
 ## 58. Gajendra-Mokṣa (Gajendra’s salvation)
 
-
 Matangalila and Hastyayurveda (study)
 
-by Chandrima Das | 2021 | 98,676 words
-
 This page relates ‘Gajendra-Moksha (Gajendra’s salvation)’ of the study on the Matangalina and Hastyayurveda in the light of available epigraphic data on elephants in ancient India. Both the Matanga-Lila (by Nilakantha) and and the Hasti-Ayurveda (by Palakapya) represent technical Sanskrit works deal with the treatment of elephants. This thesis deals with their natural abode, capturing techniques, myths and metaphors, and other text related to elephants reflected from a historical and chronological cultural framework.
-
-Go directly to: 
-Footnotes.
 
 Gajendra-Mokṣa (Gajendra’s salvation)
 
@@ -5882,8 +5163,6 @@ For example Cintra Praśasti of the reign of Śāraṅgadeva elucidated the king
 
 “To his (Śāraṅgadhara) power he in reduce the powers of the Yādava and the Mālava lords, just as the lord bird formerly (overcome) the huge bodies elephant and the tortoise (v.13).”[2]
 
-“To his (Śāraṅgadhara) power he in reduce the powers of the Yādava and the Mālava lords, just as the lord bird formerly (overcome) the huge bodies elephant and the tortoise (v.13).”[2]
-
 Two other records from Sinda and Benchamatti (Śaka 1088 and 1109) refer this Purāṇic story.[3]
 
 The continuity of the narratives through a large span of time is quite significant and the presence of elephant in the narrative as the central character is noteworthy. The Gajendra mokṣa legend possibly represents a Purāṇic variation of the Ṛgvedic episode of Indra destroying Vṛtrāsura to liberate the rain clouds. Here, the elephant hero suggests a body of water rendered unsuitable for consumption by the presence of a “water monster”. Viṣṇu, who has replaced Indra in importance in the Purāṇas, is alone capable of reversing the situation to provide a remedy.
@@ -5891,10 +5170,6 @@ The continuity of the narratives through a large span of time is quite significa
 The rescue-scene emerges with quite grandeur on the Northern facade of the Daśāvatāra temple. The water-monster here is a nāga accompanied by his queen; the lotus pond is more evocative of a nest of mesmerised cobras. As Gajendra stands in their loosening coils, the nāga couple gazes heavenwards with hand folded in penitence. Viṣṇu’s expression is imperious, reminiscent of his features in the southern facade of the shrine, where other divinities had watched over his recumbent form. Here, a divine coronation awaits the elephant.[4]
 
 Another interesting fact is the association of Gajendra with a typical kind of cloud. Puranic scholars have categorised these clouds into three classes, the first of those is “āgneya”. It originates from fire or heat or in other words evaporation. In a better sense they may be called cyclonic, thermal or clouds formed due to insolation. The Brahmāṇḍa Purāṇa explains that the āgneya clouds occurs in the winter season and assume the form of an elephant including a buffalo or boar being devoid of lightning and thunder (Vidyutguṇavihīnāḥ). These are of immense importance and are said to bring rainfall on the mountain foot within a radius of a krośa or a half (3 km. or 1.5 km).[5] It can be assumed that the clouds in elephant form might be hindered by some atmospheric reason that may have an adverse effect on the water resources. This atmospheric hindrance is depicted as the water-monster is the mythology. What is interesting is the fact that the elephants need water bodies for their survival and good health and their association with water, its evaporation and finally with clouds is the indication of the embedded concept of water cycle. The symbolism of these narratives has a much deeper insight.
-
-Footnotes and references:
-
-[back to top]
 
 [1]:
 
@@ -5920,15 +5195,9 @@ Brahmāṇḍa Purāṇa, 11.22.31-35 (they correspond to large cumulous clouds 
 
 ## 59. Hybrid and Sea-creatures
 
-
 Matangalila and Hastyayurveda (study)
 
-by Chandrima Das | 2021 | 98,676 words
-
 This page relates ‘Hybrid and Sea-creatures’ of the study on the Matangalina and Hastyayurveda in the light of available epigraphic data on elephants in ancient India. Both the Matanga-Lila (by Nilakantha) and and the Hasti-Ayurveda (by Palakapya) represent technical Sanskrit works deal with the treatment of elephants. This thesis deals with their natural abode, capturing techniques, myths and metaphors, and other text related to elephants reflected from a historical and chronological cultural framework.
-
-Go directly to: 
-Footnotes.
 
 Hybrid and Sea-creatures
 
@@ -5942,10 +5211,6 @@ Sea-monsters and mythical serpents have a less cordial relationship with the ele
 
 This was the working out of an old curse the elephant was a Vaiṣṇva king Indradyumna, who is at his prayers one morning when the sage Agastya arrives at the palace Indradyumana cannot break off his prayers to receive the visitor; Agastya takes umbrage and curses the king that he may turn into an elephant. Emerging from his prayers, Indradyumna is horrified to hear that he has been cursed. As small consolation, Agastya tells him that the curse would only come undone if the King’s beloved Viṣṇu were to ever reach out to save him. The elephant of the story stands for the typical human soul of our age, exited by desires; given over too much to sensual pleasure, the demon would have carried him away, he knew not where. There was no salvation for him until he called on Viṣṇu, who speedily saves all those who call upon him with devotion.[2]
 
-Footnotes and references:
-
-[back to top]
-
 [1]:
 
 V. Ram., p.40.
@@ -5958,25 +5223,15 @@ Coomaraswamy and Nivedita. Myths of the Hindus and Buddhists, pp.331-332.
 
 ## 60. The Elephant-headed God (Gaṇeśa)
 
-
 Matangalila and Hastyayurveda (study)
 
-by Chandrima Das | 2021 | 98,676 words
-
 This page relates ‘Elephant-headed God (Ganesha)’ of the study on the Matangalina and Hastyayurveda in the light of available epigraphic data on elephants in ancient India. Both the Matanga-Lila (by Nilakantha) and and the Hasti-Ayurveda (by Palakapya) represent technical Sanskrit works deal with the treatment of elephants. This thesis deals with their natural abode, capturing techniques, myths and metaphors, and other text related to elephants reflected from a historical and chronological cultural framework.
-
-Go directly to: 
-Footnotes.
 
 The Elephant-headed God (Gaṇeśa)
 
 Purāṇas narrate the story of the creation of the elephant headed God. At his birth Gaṇeśa was visited by Gods and Demi-gods only Śani did not visit. Pārvatī enquired the reason of his absence. She was told that he feared to harm her child, since it was matter of common knowledge that the head of one on whom Śani looked was likely to be burnt to ashes at his glance. With easy pride the mother smiled, and assuring him that her son could not be subject to his power, sent him warm invitation. Accordingly Śani came but to everyone’s horror when he looked at the baby Gaṇeśa his head disappeared in a flame. At this catastrophe the mother was profoundly disturbed, and commanded her guests somewhat sharply at once to restore the head of her child. But Śani smiled pleasantly, and pointed out that the head as such no longer existed. It lay in ashes before them. Pārvatī asked him to send forth a servant and replace the head of her child with the one he first meets. Śani had no option save to obey. He could only severe the head of a living being who was at fault or inadvertently was doing wrong. He came across an elephant sleeping with his head to the north. This trifling fault brought him under the jurisdiction, and hastily the servant cut off his head and returned to put it on the infant’s body. It is for this reason that Gaṇeśa wears an elephant-head.
 
 Coomaraswamy and Nivedita discuss the significance of this narrative.[1] What is interesting in this narrative is not the creation of an elephant headed God but to show the power of Śani, and consequently to generate a requirement of his propitiation to get rid of his evil eye.
-
-Footnotes and references:
-
-[back to top]
 
 [1]:
 
@@ -5986,15 +5241,9 @@ Coomaraswamy and Nivedita. Myths of the Hindus and Buddhists, pp.381-382.
 
 ## 61. Elephants in Śaktism
 
-
 Matangalila and Hastyayurveda (study)
 
-by Chandrima Das | 2021 | 98,676 words
-
 This page relates ‘Elephants in Shaktism’ of the study on the Matangalina and Hastyayurveda in the light of available epigraphic data on elephants in ancient India. Both the Matanga-Lila (by Nilakantha) and and the Hasti-Ayurveda (by Palakapya) represent technical Sanskrit works deal with the treatment of elephants. This thesis deals with their natural abode, capturing techniques, myths and metaphors, and other text related to elephants reflected from a historical and chronological cultural framework.
-
-Go directly to: 
-Footnotes.
 
 Elephants in Śaktism
 
@@ -6004,13 +5253,7 @@ To quote the inscriptional record–
 
 “May the daughter of the Mountain purify the universe–she the spotless splendour of whose throat has been gained through a multitude of pearls fallen from the frontal globes of the Dānava (who assumed the shape of) an elephant (and was) wounded by (her) trident, she who wears as it were the halo surrounding the moon which is surpassed by her face.”
 
-“May the daughter of the Mountain purify the universe–she the spotless splendour of whose throat has been gained through a multitude of pearls fallen from the frontal globes of the Dānava (who assumed the shape of) an elephant (and was) wounded by (her) trident, she who wears as it were the halo surrounding the moon which is surpassed by her face.”
-
 Here the demon who assumed the shape of an elephant is no doubt Mahiṣāsura. According to the Devīmāhātya of Mārkaṇḍeya Purāṇa (LXXIII, 30), the asura turned himself also into a Mahāgaja. The description of the inscription is somewhat similar to that of the Mythical story of Mahiṣāsuramardinī, which symbolises the final victory of good over evil power.[2]
-
-Footnotes and references:
-
-[back to top]
 
 [1]:
 
@@ -6024,10 +5267,7 @@ EI, Vol.I, p.81 & n.
 
 ## 62. Mythological motifs related to Elephants
 
-
 Matangalila and Hastyayurveda (study)
-
-by Chandrima Das | 2021 | 98,676 words
 
 This page relates ‘Mythological motifs related to Elephants’ of the study on the Matangalina and Hastyayurveda in the light of available epigraphic data on elephants in ancient India. Both the Matanga-Lila (by Nilakantha) and and the Hasti-Ayurveda (by Palakapya) represent technical Sanskrit works deal with the treatment of elephants. This thesis deals with their natural abode, capturing techniques, myths and metaphors, and other text related to elephants reflected from a historical and chronological cultural framework.
 
@@ -6041,10 +5281,7 @@ Both Brahmanical and Buddhist iconography give immense importance to elephants. 
 
 ## 63. Concluding Remarks
 
-
 Matangalila and Hastyayurveda (study)
-
-by Chandrima Das | 2021 | 98,676 words
 
 This page relates ‘Concluding Remarks’ of the study on the Matangalina and Hastyayurveda in the light of available epigraphic data on elephants in ancient India. Both the Matanga-Lila (by Nilakantha) and and the Hasti-Ayurveda (by Palakapya) represent technical Sanskrit works deal with the treatment of elephants. This thesis deals with their natural abode, capturing techniques, myths and metaphors, and other text related to elephants reflected from a historical and chronological cultural framework.
 
@@ -6056,15 +5293,9 @@ The above data and its analysis reflect the importance of elephants in early Ind
 
 ## 64. Elephants and Trade (Introduction)
 
-
 Matangalila and Hastyayurveda (study)
 
-by Chandrima Das | 2021 | 98,676 words
-
 This page relates ‘Elephants and Trade (Introduction)’ of the study on the Matangalina and Hastyayurveda in the light of available epigraphic data on elephants in ancient India. Both the Matanga-Lila (by Nilakantha) and and the Hasti-Ayurveda (by Palakapya) represent technical Sanskrit works deal with the treatment of elephants. This thesis deals with their natural abode, capturing techniques, myths and metaphors, and other text related to elephants reflected from a historical and chronological cultural framework.
-
-Go directly to: 
-Footnotes.
 
 Elephants and Trade (Introduction)
 
@@ -6077,10 +5308,6 @@ The procurement of the animal also involved several issues and expertise was req
 For catching elephants or for capturing them, several professionals were involved. We also come to know about the koonki elephant that were trained specifically for capturing elephants. Thus there were official elephant trainers who would train koonki elephants for capturing other elephants. Similarly elephants were also captured using a noose or pāśa, there were professional elephant nooser. There is specific term phāndi to denote such professionals. Similarly the elephants which were captured also required to be taken care off. They were to be fed with grass we also get reference to kamlā[1] who were professional grass cutters. Though it is not sure that these grass cutters were involved in fetching grass or fodder specifically for elephants kept in captivity but Hastyāyurveda of Pālakāpya gives an entire list of grasses for elephants (Yavasādhyāya, IV, v. 24ff)[2], some of them grew in wild. Thus the work of a grass supplier (kamlā) would include the collection and procurement of grasses from the wild forested zones as well. This also leads us to another issue whether there were specific forests for collection of grasses for elephants or in other words forests which were reserved for elephant fodder. In this connection it is noteworthy that Arthaśāstra mentions an official post of Nāgavanādhyakṣa or Superintendent of elephant-forests. Thus there were specific forests which were designated as elephant forests and one can also notice hierarchy in the positions or posts. On the upper level there was a superintendent of elephant-forests or overseer of the elephant preserve (Nāgavanādhyakṣa) under him were other staffs like guards of the elephant forest, elephant keepers, foot chainers, border guards, forest rangers and attendants. The text mentions that these lower grade officials should disguise themselves with the scent of elephant urine and dung of elephants and concealing themselves with the branches of trees, should move with five or seven female elephant decoys to “find out the size of the elephant herds, by means of signs provided by sleeping places, foot prints, dung and damage caused to river bank,” and “keep a written record of elephants–those moving in herds, those moving alone, those driven from a herd, and the leaders of herds, as well as those that are dangerous, in must, the youngster and those, released from captivity.” They should capture elephants deemed excellent in the judgment of elephant trainers.[3] However the Arthaśāstra does not include the elephant trainer in the hierarchical list but this leads us to assume that in this hierarchy the elephant trainers would have been in an upper position than the one who worked on site in catching them and below the Nāgavanādhyakṣa. Thus a trainer would approve of the elephant/ elephant herd prior to the capture activity.
 
 In the ideal case a kingdom will have an elephant forest and will resort to it for war elephants and riding elephants. But Arthaśāstra mentions eight regional elephant forests divided into three classes on the basis of their quality. It is in this connection that the Arthaśāstra speaks of the comparative advantages of the Himalayan trade route and the southern route. The first supplies horses and elephants among other things; the second is the better, supplying elephants and a greater abundance of precious goods. This also brings us to the issue that such elephant reserves or forests were state property and hence the elephants too generated revenue for the state. State or monarchical powers would have been the main purchasers of horses and elephants; private ownership of either was hence restricted, and in the case of Mauryas there was a royal monopoly, which was simply the limiting condition of a constant tendency of Indian kingship to treat horses and elephants as crucial military assets.
-
-Footnotes and references:
-
-[back to top]
 
 [1]:
 
@@ -6098,10 +5325,7 @@ R.P. Kangle. tr. The Kauṭilīya Arthaśāstra, (Book 2, Chapter 2), Part II, B
 
 ## 65. Chapter 5
 
-
 Matangalila and Hastyayurveda (study)
-
-by Chandrima Das | 2021 | 98,676 words
 
 This page relates ‘Chapter 5’ of the study on the Matangalina and Hastyayurveda in the light of available epigraphic data on elephants in ancient India. Both the Matanga-Lila (by Nilakantha) and and the Hasti-Ayurveda (by Palakapya) represent technical Sanskrit works deal with the treatment of elephants. This thesis deals with their natural abode, capturing techniques, myths and metaphors, and other text related to elephants reflected from a historical and chronological cultural framework.
 
@@ -6113,15 +5337,9 @@ Chapter 5
 
 ## 66. Influence on foreign countries
 
-
 Matangalila and Hastyayurveda (study)
 
-by Chandrima Das | 2021 | 98,676 words
-
 This page relates ‘Influence on foreign countries’ of the study on the Matangalina and Hastyayurveda in the light of available epigraphic data on elephants in ancient India. Both the Matanga-Lila (by Nilakantha) and and the Hasti-Ayurveda (by Palakapya) represent technical Sanskrit works deal with the treatment of elephants. This thesis deals with their natural abode, capturing techniques, myths and metaphors, and other text related to elephants reflected from a historical and chronological cultural framework.
-
-Go directly to: 
-Footnotes.
 
 Influence on foreign countries
 
@@ -6132,8 +5350,6 @@ One of the earliest depictions of taming of elephants is portrayed on a terracot
 [26. A man riding a humped bull]
 
 Leon Legrain rightly points out that:
-
-“….this is a rare but curious witness to the influence of Indian trade and models in the Larsa period. The animal is represented as walking. Its straight back, small ears and thick legs belong to the Indian types.[3] Like those portrait on Indian seals it shows no traces of tusks and may be a female. On this relief the tail is somewhat long and the trunk is rolled up as if collecting fodder; the marks around the neck may be folds of skin, or necklace. The mode of riding is still more curious. A broad woven strap, as used today in India to fix the howdah, is tied round the body of the animal. The driver is siting neither on the head nor on the back, but is represented at mid flank in an almost impossible position, with his right knee stuck below the strap. This is exactly the position of the man riding on the back of an Indian humped bull on a relief plaque from Ischali, here transformed into an elephant rider. On both reliefs bust and arms are shown full-face, the left hand resting on the hump or shoulders of the animal, the right holding a slightly curved driving stick; both riders are nude except for a light loincloth and girdle”.[4]
 
 “….this is a rare but curious witness to the influence of Indian trade and models in the Larsa period. The animal is represented as walking. Its straight back, small ears and thick legs belong to the Indian types.[3] Like those portrait on Indian seals it shows no traces of tusks and may be a female. On this relief the tail is somewhat long and the trunk is rolled up as if collecting fodder; the marks around the neck may be folds of skin, or necklace. The mode of riding is still more curious. A broad woven strap, as used today in India to fix the howdah, is tied round the body of the animal. The driver is siting neither on the head nor on the back, but is represented at mid flank in an almost impossible position, with his right knee stuck below the strap. This is exactly the position of the man riding on the back of an Indian humped bull on a relief plaque from Ischali, here transformed into an elephant rider. On both reliefs bust and arms are shown full-face, the left hand resting on the hump or shoulders of the animal, the right holding a slightly curved driving stick; both riders are nude except for a light loincloth and girdle”.[4]
 
@@ -6150,10 +5366,6 @@ In another representation, called the Barberini ivory, there is a central panel 
 [29. The ivory and an elephant. Courtesy: Thomas R. Trautmann]
 
 It is evident that Indian hunters and trainers were acquired by Alexander and sought by his Hellenistic successors, and that Indian māhuts travelled with Indian elephants as far as the Seleucid kings of Syria and the Ptolemaic kings of Egypt–and possibly further. The demand of māhuts or elephant drivers and trainers is seen throughout the ancient and medieval times. There is circumstantial evidence that North Indian māhuts, transmitted their knowledge to locals in South India, and that the māhuts of India trained those in Sri Lanka and South Asia.[7] There is direct evidence that South-East Asian māhuts accompanied diplomatic gifts of elephants by South-East Asian kings to the emperor of China in Ming times. These show that the unwritten knowledge of the māhut in particular, as also of the hunter and the trainers is a crucial strategic asset for kings using war elephants, and that it was embodied in and spread by Indian māhuts, hunters and trainers.
-
-Footnotes and references:
-
-[back to top]
 
 [1]:
 
@@ -6187,15 +5399,9 @@ Thomas R. Trautmann. Elephants and Kings An Environmental History, p.141
 
 ## 67. Metaphors related to Elephants
 
-
 Matangalila and Hastyayurveda (study)
 
-by Chandrima Das | 2021 | 98,676 words
-
 This page relates ‘Metaphors related to Elephants’ of the study on the Matangalina and Hastyayurveda in the light of available epigraphic data on elephants in ancient India. Both the Matanga-Lila (by Nilakantha) and and the Hasti-Ayurveda (by Palakapya) represent technical Sanskrit works deal with the treatment of elephants. This thesis deals with their natural abode, capturing techniques, myths and metaphors, and other text related to elephants reflected from a historical and chronological cultural framework.
-
-Go directly to: 
-Footnotes.
 
 Metaphors related to Elephants
 
@@ -6209,8 +5415,6 @@ When Arthaśāstra mentions about the winning over the seducible and non-seducib
 
 “Just as an elephant, blinded by intoxication and mounted by an intoxicated driver, whatever it finds (on the way), so this king, not possessed of the eye of science, and (hence) blind, has risen to destroy the citizens and the country people; it is possible to do harm to him by inciting a rival elephant against him; show (your) resentment;”–in this way he should cause the group of the enraged to be instigate.”[4]
 
-“Just as an elephant, blinded by intoxication and mounted by an intoxicated driver, whatever it finds (on the way), so this king, not possessed of the eye of science, and (hence) blind, has risen to destroy the citizens and the country people; it is possible to do harm to him by inciting a rival elephant against him; show (your) resentment;”–in this way he should cause the group of the enraged to be instigate.”[4]
-
 Mentioning the foreign policies Kauṭilya says the king or the conqueror should engage the six procedures of policy with due regard to his power. For instance if he makes himself to war with the stronger enemy it can be presumed as it were in a fight on foot with an elephant (Book 7, Chapter 3, v. 3).[5] While discussing the difference between brave and a wise son Kauṭilya refers that even in the matter of valour the wise one over-reaches the brave, as the hunter does the elephant (Book 7, Chapter 17, v. 24).[6]
 
 In Indian thought, beside the rule of the act begetting its sequence in a distant future stands the more easily intelligible, if logically irreconcilable, conception of fate. This idea looms large with Kalhaṇa; he goes on to describe it in this fashion. It is the power that pulls the springs of the puppets of the human stage; it intervenes to bring doubt and discomfiture into the clearest mind. The sun brings out the beauty of the lotus, but fate casts in under the feet of the elephant whose trunk uproots it from its place. On such a view it was impossible to seek a clear intelligence and appreciation of historical events, and Kalhaṇa makes no such effort, his aim is not to understand the course of events or predict the future; it is to inculcate by his great poem the feeling of the vanity of everything save resignation.[7] There is often very real power and vividness in Kalhaṇa’s descriptions, as in the picture of the flight of Prince Bhoja in 1144 CE to the country of the Dards: The points of icy rock encompassed him like the teeth of death; like net of destruction the dark night of the clouds surrounded him, like herds of elephants snowdrifts flung their weight against him; the spray of the waterfalls smote his body like arrow shots; the skin, that guards the blood, burst open beneath the force of the drifting storms; his eyes were blinded by the glitter of the sun on the snowfields.[8]
@@ -6221,13 +5425,9 @@ All these diseases are driven off by drinking the radish-oil, just as a furious 
 
 “prabhinnam=iva māṃtagam=aṅkuśaḥ kuśal-odyata iti” (v.318a).
 
-“prabhinnam=iva māṃtagam=aṅkuśaḥ kuśal-odyata iti” (v.318a).
-
 All the treatises on elephant science describe pākala as a special kind of fever of elephants which is fatal. Bāṇabhaṭṭa the court poet of Harṣvardhaṇa mentions this in his Harṣacarita. According to his description Prabhākaravardhaṇa started his political career as a feudatory chief in Thāneśvar and as time passed away he became supreme lord of Thāneśvar after defeating various kings in north Bengal.
 
 He was designated by Bāṇabhaṭṭa in Harṣacarita as:
-
-“hūṇahariṇakesarī sindhurājajvaro gurjaraprajāgaro gāndhārādhipagandhadvipakūṭapākalo lāṭpāṭavapāṭaccaro mālavalakṣmīlatāparaśuḥ” (Harṣacarita, Part II, p.1)[10].
 
 “hūṇahariṇakesarī sindhurājajvaro gurjaraprajāgaro gāndhārādhipagandhadvipakūṭapākalo lāṭpāṭavapāṭaccaro mālavalakṣmīlatāparaśuḥ” (Harṣacarita, Part II, p.1)[10].
 
@@ -6237,13 +5437,7 @@ Similar usage is also seen in the Śaratbari Plates of Ratnapāla (c.920-60 CE),
 
 “śaka-krīḍā-śakuni-āṛīḍha-pañjareṇa Gurjjar-ādhirāja-prajvareṇa durddānta-Gauḍendra-kari-kūṭapākalena Keraleśācala-śilājatunā Vāhika-Tāyik-ātaṅka-kāriṇā Dākṣiṇātyakṣauṇīpati-rājayakṣmaṇā”.
 
-“śaka-krīḍā-śakuni-āṛīḍha-pañjareṇa Gurjjar-ādhirāja-prajvareṇa durddānta-Gauḍendra-kari-kūṭapākalena Keraleśācala-śilājatunā Vāhika-Tāyik-ātaṅka-kāriṇā Dākṣiṇātyakṣauṇīpati-rājayakṣmaṇā”.
-
 Similar to Bāṇa’s description of Prabhākaravardhana in the Harṣacarita here the author mentions it as the description for the king of Gauḍa instead of Gandhāra king.[11]
-
-Footnotes and references:
-
-[back to top]
 
 [1]:
 
@@ -6293,15 +5487,9 @@ EI, vol. XL, Part II, 1973, p.63.
 
 ## 68. Elephants in the Kingdom and as a Royal Asset
 
-
 Matangalila and Hastyayurveda (study)
 
-by Chandrima Das | 2021 | 98,676 words
-
 This page relates ‘Elephants in the Kingdom and as a Royal Asset’ of the study on the Matangalina and Hastyayurveda in the light of available epigraphic data on elephants in ancient India. Both the Matanga-Lila (by Nilakantha) and and the Hasti-Ayurveda (by Palakapya) represent technical Sanskrit works deal with the treatment of elephants. This thesis deals with their natural abode, capturing techniques, myths and metaphors, and other text related to elephants reflected from a historical and chronological cultural framework.
-
-Go directly to: 
-Footnotes.
 
 Elephants in the Kingdom and as a Royal Asset
 
@@ -6325,13 +5513,7 @@ According to Trautmann on the basis of the above pay structure one might surmise
 
 “…. military personnel are ranked high, and so are the upper levels of the elephant staff. The highest paid in this list are the commandants in battle of the four limbs of the four fold army next to them, at half their pay, are the overseers of the four limbs, along with the warden of the elephant forest. The next lower step is occupied by the elephant trainer, physician and horse trainer the three ranks for whom the king is to give land in the village–an important sign of distinction. It is noticeable that the elephant trainer ranks very much higher than the māhuts and other staff who are at the lowest pay level, several steps below. The expertise of the trainer seems to be considered superior, and the Arthaśāstra singles him out as the one whose knowledge of the qualities of individual elephants is to govern the process of capture. On the whole the upper grades of the elephant staff are very well compensated”.[5]
 
-“…. military personnel are ranked high, and so are the upper levels of the elephant staff. The highest paid in this list are the commandants in battle of the four limbs of the four fold army next to them, at half their pay, are the overseers of the four limbs, along with the warden of the elephant forest. The next lower step is occupied by the elephant trainer, physician and horse trainer the three ranks for whom the king is to give land in the village–an important sign of distinction. It is noticeable that the elephant trainer ranks very much higher than the māhuts and other staff who are at the lowest pay level, several steps below. The expertise of the trainer seems to be considered superior, and the Arthaśāstra singles him out as the one whose knowledge of the qualities of individual elephants is to govern the process of capture. On the whole the upper grades of the elephant staff are very well compensated”.[5]
-
 We would like to further add to the above interpretation a few important observations. Elephant staff had a clear cut hierarchy which can be divided into an upper and lower band on the basis of their pay structures. Some of them enjoyed a very respectable position and were paid premium salaries like the top level military officials. This shows the utility and demand of the elephants in the state structure. The commandants in battle managing the elephants are one of the highest paid which clearly points out that the animal was a major part of Indian warfare. This is further proved from the various metaphors and myths related to elephants as noticed from epigraphic and literary sources already discussed in previous chapters. Procurement of the elephants from their natural abode was one of the most important tasks and hence the salary of the overseers of the elephants and the warden of the elephant forest was also in the higher segment. Though placed below the overseer and warden of elephant forest the elephant trainer and elephant physician were imperative part of the ancient society and this is proved from the fact that besides their salary they were also provided residential facility and the king gave them land in the village. The elephant trainer’s not only would have trained the elephants for warfare but also were experts in identifying their type and tasks and hence could identify which one to retain for the royal and military purpose. Arthaśāstra especially mentions their role in the process of capturing of elephants as an expert in selection of the animal to be retained or captured.
-
-Footnotes and references:
-
-[back to top]
 
 [1]:
 
@@ -6357,15 +5539,9 @@ Thomas R. Trautmann. Elephants and Kings An Environmental History, pp. 168-169.
 
 ## 69. Ancient trade in Ivory and Elephant-tusks
 
-
 Matangalila and Hastyayurveda (study)
 
-by Chandrima Das | 2021 | 98,676 words
-
 This page relates ‘Ancient trade in Ivory and Elephant-tusks’ of the study on the Matangalina and Hastyayurveda in the light of available epigraphic data on elephants in ancient India. Both the Matanga-Lila (by Nilakantha) and and the Hasti-Ayurveda (by Palakapya) represent technical Sanskrit works deal with the treatment of elephants. This thesis deals with their natural abode, capturing techniques, myths and metaphors, and other text related to elephants reflected from a historical and chronological cultural framework.
-
-Go directly to: 
-Footnotes.
 
 Ancient trade in Ivory and Elephant-tusks
 
@@ -6394,10 +5570,6 @@ As far as the Indian markets are concerned we get reference to the markets of Uj
 The above text also provides interesting information on the training of craftsmen or vocational training to students on ivory working in the Vijayapur region. In the travel account of Kuvalayacanda who was traveling to Vijayapura, the description of a college (Maṭha) is a new trend in the Indian literature. He came across a college in Vijayapura. Hoping to get some information about Kuvalayamālā from its students he entered the college there he met students from Lāṭa, Karṇāṭaka Mālava, Kānyakubja, Godāvarī, Mahārāṣṭra, Saurāṣṭra, Dacca, Śrīkaṇṭha and Sindh they were busy in practising archery, wielding weapons and doing gymnastics. Among the various types of education imparted the author also describes subjects like Nimitta-Śāstra, Mantra, Yoga, interpretation of dreams, chemistry, etymology, prosody, cutting patterns, magic etc. along with ivory carving (Dantakarma) were taught.[31] Thus ivory carving was among an art and a craft taught in the college in 8th century CE.
 
 The Hudūd-e-ālam (982-983 CE) of Sayyad Suleman Nadvi informs us that in the tenth century CE Arabians imported chank-shell and ivory from Orissa.[32] Regarding the ivory trade, Kalpanāratna [Kalpanāratnam] a text composed by the Gaṅga king Śivamāra[33] who ruled over parts of Karnataka in the 8th and 9th centuries CE, sheds new light on the preservation of elephants and their ivory. The word “Kalpanā” here indicated the art of cutting the tusks of elephants so that the ivory could be used for making useful and beautiful articles, without harming the pachyderms. In the light of this, it was necessary to know the proper time to cut the tusks of elephants and also the proper method of preserving the ivory. This is also corroborated by several epigraphs which bear reference to ivory carvers, their guilds, donation of ivory tax to donees and the royal monopoly on ivory.
-
-Footnotes and references:
-
-[back to top]
 
 [1]:
 
@@ -6535,10 +5707,7 @@ H.V. Nagaraja Rao, ed. Kalpanāratnam of Śri Śivamāra Bhūpāla, Bangalore: P
 
 ## 70. Appendix III: Elephant on Imperial Punch Marked Coins
 
-
 Matangalila and Hastyayurveda (study)
-
-by Chandrima Das | 2021 | 98,676 words
 
 This page relates ‘Appendix III: Elephant on Imperial Punch Marked Coins’ of the study on the Matangalina and Hastyayurveda in the light of available epigraphic data on elephants in ancient India. Both the Matanga-Lila (by Nilakantha) and and the Hasti-Ayurveda (by Palakapya) represent technical Sanskrit works deal with the treatment of elephants. This thesis deals with their natural abode, capturing techniques, myths and metaphors, and other text related to elephants reflected from a historical and chronological cultural framework.
 
@@ -6548,23 +5717,15 @@ Appendix III: Elephant on Imperial Punch Marked Coins
 
 ## 71. Elephants as commodities of Trade
 
-
 Matangalila and Hastyayurveda (study)
 
-by Chandrima Das | 2021 | 98,676 words
-
 This page relates ‘Elephants as commodities of Trade’ of the study on the Matangalina and Hastyayurveda in the light of available epigraphic data on elephants in ancient India. Both the Matanga-Lila (by Nilakantha) and and the Hasti-Ayurveda (by Palakapya) represent technical Sanskrit works deal with the treatment of elephants. This thesis deals with their natural abode, capturing techniques, myths and metaphors, and other text related to elephants reflected from a historical and chronological cultural framework.
-
-Go directly to: 
-Footnotes.
 
 Elephants as commodities of Trade
 
 Coming to the issue of elephants as commodities of trade and fixing the price of elephants it is obvious that their process varied from region to region depending on their availability and several other factors. Prices were fixed on the basis of the age of the elephant and also its variety and quality.
 
 Mātaṅgalīlā (Chapter 7) mentions that men cannot say “so large a price is enough for them”.
-
-“When one price is approved by both buyer and seller it was considered as the best price.[1] What is disapproved by one of the parties, as a middling price; what is disapproved by the both, as a bad price” (v. 1).[2]
 
 “When one price is approved by both buyer and seller it was considered as the best price.[1] What is disapproved by one of the parties, as a middling price; what is disapproved by the both, as a bad price” (v. 1).[2]
 
@@ -6603,10 +5764,6 @@ Elephants were coveted commodities and often the royal courts were assessed in t
 Regions famous for elephants:
 
 According to Mahābhārata Bengal and Odisha were famous for fine cotton and elephants.[25] Black elephants of Kaliṅga region were very much famous in ancient past and have been referred to by the Chinese traveller Xuan Zang.
-
-Footnotes and references:
-
-[back to top]
 
 [1]:
 
@@ -6719,15 +5876,9 @@ Moti Chandra. Trade and Trade Routes in Ancient India, p.68.
 
 ## 72. Chapter 6 - Conclusion
 
-
 Matangalila and Hastyayurveda (study)
 
-by Chandrima Das | 2021 | 98,676 words
-
 This page relates ‘Chapter 6 - Conclusion’ of the study on the Matangalina and Hastyayurveda in the light of available epigraphic data on elephants in ancient India. Both the Matanga-Lila (by Nilakantha) and and the Hasti-Ayurveda (by Palakapya) represent technical Sanskrit works deal with the treatment of elephants. This thesis deals with their natural abode, capturing techniques, myths and metaphors, and other text related to elephants reflected from a historical and chronological cultural framework.
-
-Go directly to: 
-Footnotes.
 
 Chapter 6 - Conclusion
 
@@ -6791,8 +5942,6 @@ Describing the foreign policies Kauṭilya says:
 
 “Of them, he should follow that policy by resorting to which he may be able to see, “By resorting to this, I shall be able to promote my own undertakings concerning forts, water-works, trade-routes, settling on waste land, mines, materials forests, and elephant forests, and injure these undertakings of the enemy” (Book 7, Chapter 1, v. 20).[24]
 
-“Of them, he should follow that policy by resorting to which he may be able to see, “By resorting to this, I shall be able to promote my own undertakings concerning forts, water-works, trade-routes, settling on waste land, mines, materials forests, and elephant forests, and injure these undertakings of the enemy” (Book 7, Chapter 1, v. 20).[24]
-
 List of Early Indian coins bearing elephant on them:
 
 1. Imperial Punch Marked Coins bearing elephant as the fifth symbol
@@ -6852,21 +6001,12 @@ The milk of she-elephant tastes sweet, slightly astringent, heavy, aphrodisiac, 
 “hastinyā madhuraṃ vṛṣyaṃ kaṣāyānurasaṃ guru /
 snigdhaṃ sthairyakaraṃ śītaṃ cakṣuṣyaṃ balavardhanam //”[26]
 
-“hastinyā madhuraṃ vṛṣyaṃ kaṣāyānurasaṃ guru /
-snigdhaṃ sthairyakaraṃ śītaṃ cakṣuṣyaṃ balavardhanam //”[26]
-
 The curd of she-elephant’s milk is light and easy to digest, besides this it is kapha-pacifying, uṣṇa-vīrya, improves digestive power, and has astringent as subsidiary taste and increases faeces–
 
 “laghu pāke balāsadhnaṃ vīryoṣṇaṃ pattkināśam /
 kaṣāyānurasaṃ nāgyā dadhi varcovivardhanam //”[27]
 
-“laghu pāke balāsadhnaṃ vīryoṣṇaṃ pattkināśam /
-kaṣāyānurasaṃ nāgyā dadhi varcovivardhanam //”[27]
-
 And the ghee of she-elephant obstructs elimination of faeces and urine, is bitter, appetiser, light and alleviates kapha, kuṣṭha, poison and worm–
-
-“kṣāyaṃ baddhaviṇmūtraṃ tiktamagnikaraṃ laghu //
-hanti kāreṇavaṃ sarpiḥ kaphakuṣṭhaviṣakrimīn //”[28]
 
 “kṣāyaṃ baddhaviṇmūtraṃ tiktamagnikaraṃ laghu //
 hanti kāreṇavaṃ sarpiḥ kaphakuṣṭhaviṣakrimīn //”[28]
@@ -6884,10 +6024,6 @@ After a thorough study of the texts and knowledge of elephants in early India we
 Concluding Remarks:
 
 The present work thus brings to light several unknown facts about elephants and their utility in a civilized society–we have analysed different genres of textual date mainly on elephants and what comes forth is that texts were composed not by those involved directly with the practical dealings i.e. elephant riders, catchers, trainers and so on but the target audience and readers also included them. The texts were created mainly for the royal army, keepers of stables and also other experts who handled elephants. Elephants were a source of fortune, their use in trade prompted the royalty to patronise the composition and creation of such texts. The more the number of elephants, the more prosperity and strength of the army. Hence every ruler wanted to make them captive and domesticate them according to their requirement and usage. Hence the need to have a proper data and texts on their availability, abodes, upkeep and care was imperative and from this demand the texts were created. Once the elephants were captured having a veterinary doctor crew was equally important. To treat the injured ones in the battle fields as well their necessity was felt. But more important was to have a proper hasti vaidya while the royal contingent was enrooted as a long distance travel. The texts also provide us information how veterinary doctors in and around the place of campaign and journey were to help the caravan or the royal retinue. Our study also reflects the practical angle of the use and position of the animal in varied social groups and condition. This data has been culled from epigraphic sources. The myths and metaphors related to elephants have been studied for the first time in the present research. Gajaśāstra also has been used in detail for the first time in this present thesis. Trade in elephants and ivory has also been addressed from different angle altogether in our doctoral research. The depiction of elephants on coins reflects their availability, importance and usage in these specific regions where it was issued or used. Sifting through a wide gamut of sources of different types has allowed us unravel several new facts about the association of early India with elephant and the science of elephantology.
-
-Footnotes and references:
-
-[back to top]
 
 [1]:
 
@@ -7017,10 +6153,7 @@ Susmita Basu Majumdar. The Mauryas in Karnataka, Kolkata: Mahabodhi Book Agency,
 
 ## 73. Concluding Remarks
 
-
 Matangalila and Hastyayurveda (study)
-
-by Chandrima Das | 2021 | 98,676 words
 
 This page relates ‘Concluding Remarks’ of the study on the Matangalina and Hastyayurveda in the light of available epigraphic data on elephants in ancient India. Both the Matanga-Lila (by Nilakantha) and and the Hasti-Ayurveda (by Palakapya) represent technical Sanskrit works deal with the treatment of elephants. This thesis deals with their natural abode, capturing techniques, myths and metaphors, and other text related to elephants reflected from a historical and chronological cultural framework.
 
@@ -7052,10 +6185,7 @@ Understanding or mapping the demand for elephants: A communicator who would comm
 
 ## 74. Appendix III: Elephant on other Coins
 
-
 Matangalila and Hastyayurveda (study)
-
-by Chandrima Das | 2021 | 98,676 words
 
 This page relates ‘Appendix III: Elephant on other Coins’ of the study on the Matangalina and Hastyayurveda in the light of available epigraphic data on elephants in ancient India. Both the Matanga-Lila (by Nilakantha) and and the Hasti-Ayurveda (by Palakapya) represent technical Sanskrit works deal with the treatment of elephants. This thesis deals with their natural abode, capturing techniques, myths and metaphors, and other text related to elephants reflected from a historical and chronological cultural framework.
 
@@ -7065,10 +6195,7 @@ Appendix III: Elephant on other Coins
 
 ## 75. Appendix I: List of Inscriptions
 
-
 Matangalila and Hastyayurveda (study)
-
-by Chandrima Das | 2021 | 98,676 words
 
 This page relates ‘Appendix I: List of Inscriptions’ of the study on the Matangalina and Hastyayurveda in the light of available epigraphic data on elephants in ancient India. Both the Matanga-Lila (by Nilakantha) and and the Hasti-Ayurveda (by Palakapya) represent technical Sanskrit works deal with the treatment of elephants. This thesis deals with their natural abode, capturing techniques, myths and metaphors, and other text related to elephants reflected from a historical and chronological cultural framework.
 

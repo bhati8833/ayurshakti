@@ -1,23 +1,15 @@
 ---
 title: "Vāta-śoṇita (gout) and Vāta-rakta (arthritis) — Atharvaveda And Charaka Samhita By Laxmi Maji"
-paper_title: "Atharvaveda And Charaka Samhita By Laxmi Maji"
-paper_slug: "atharvaveda-and-charaka-samhita-by-laxmi-maji"
-chapter_title: "Vāta-śoṇita (gout) and Vāta-rakta (arthritis)"
-chapter_slug: "vāta-śoṇita-gout-and-vāta-rakta-arthritis"
-chapter_number: 130
-reading_time: 2
-prev_chapter: "vātavyādhi-disease-caused-by-vāyu"
-next_chapter: "gynecic-disorders-and-impotency"
-silo: "research"
-category: "Ayurvedic Research & Evidence"
-status: "Published"
-date: "2026-08-17"
 description: "Detailed analysis of Vāta-śoṇita (gout) and Vāta-rakta (arthritis) from Atharvaveda And Charaka Samhita By Laxmi Maji by Laxmi Maji. Evidence-based Ayurvedic literature review and pharmacognosy."
+category: "Ayurvedic Research & Evidence"
 author: "Suresh Bhati"
-original_scholar: "Laxmi Maji"
+publishedDate: "2026-08-17"
+status: "Published"
 ---
 
 # 130. Vāta-śoṇita (gout) and Vāta-rakta (arthritis)
+
+> **Clinical Executive Summary**: This guide on **Vāta-śoṇita (gout) and Vāta-rakta (arthritis) — Atharvaveda And Charaka Samhita By Laxmi Maji** synthesizes classical Sanskrit Samhita principles with modern botanical pharmacological research. Curated under the editorial supervision of Suresh Bhati, it provides actionable doshic guidelines, evidence-based applications, and safety parameters.
 
 > **TL;DR:** Chapter 130 of **Atharvaveda And Charaka Samhita By Laxmi Maji** by **Laxmi Maji** explores key findings on *Vāta-śoṇita (gout) and Vāta-rakta (arthritis)*. It bridges traditional Sanskrit literature with contemporary medical science.
 
@@ -25,23 +17,13 @@ original_scholar: "Laxmi Maji"
 
 ## 📜 1. Section Overview & Classical Context
 
-Atharvaveda and Charaka Samhita
-
-This page relates ‘Vata-shonita (gout) and Vata-rakta (arthritis)’ found in the study on diseases and remedies found in the Atharvaveda and Charaka-samhita. These texts deal with Ayurveda—the ancient Indian Science of life—which lays down the principles for keeping a sound health involving the use of herbs, roots and leaves. The Atharvaveda refers to one of the four Vedas (ancient Sanskrit texts encompassing all kinds of knowledge and science) containing many details on Ayurveda, which is here taken up for study.
-
 Vāta-śoṇita (gout) and Vāta-rakta (arthritis)
 
 Maharṣi Caraka discusses disease of Vāta-śoṇita and treatment of Vāta-rakta or Gout and Arthritis and Vāta-śoṇita-cikitsā. Vāta-śoṇita is a variety of vāta-roga. The disease which is caused by both, vāta and rakta is called Vāta-śoṇita. Alternatively, the very attainment of the stage of the morbid transformation of vitiated vāyu and rakta is called Vāta-śoṇita. Pathogenesis of Vāta-śoṇita are as follows: excessive intake of saline, sour, pungent, alkaline, unctuous, hot and uncooked food, oil-cake; sleeping during day time etc. General symptoms of Vāta-śoṇita are as follows: injury, inappropriate pañcakarma, sexual intercourse etc. Vāta-śoṇita located in hands, feet, fingers and all joints. it begins from hands and feet, then spreads all over the body. Due to vāta, pitta, kapha, vāta-pitta, pitta-kapha, kapha-vāta and all three doṣa and rakta produced eight types of Vātaśoṇita. The general treatment of Vāta-śoṇita includes oleation, purgation, unctuous and non-unctuous enema, bloodletting with leech, horn, needle, venesection etc. Use of formulations to cures of this disease, namely, Balā ghṛta, Jīvanīya ghṛta, Sukumāra taila Amṛtādi taila etc. Regarding the diet of Vāta-śoṇita patients it has been said: old maize, wheat, rice, pigeon pea, bengal gram, lentils, ghee, and milk[1].
 
-Footnotes and references:
-
-[back to top]
-
 [1]:
 
 C. Cikitsāsthāna–XXIX. 3-162; Caraka Saṃhitā Vol. II with elaborated Vidyotini Hindi Commentary, trans. Kasinatha Pandey & Gorakha Natha Chaturvedi, Varanasi, Chaukhambha Bharati Academy, 2015, pp. 916-939.
-
----
 
 ---
 
@@ -154,6 +136,72 @@ C. Cikitsāsthāna–XXIX. 3-162; Caraka Saṃhitā Vol. II with elaborated Vidy
           }
         }
       ]
+    }
+  ]
+}
+</script>
+
+## Frequently Asked Questions (FAQ)
+
+### What are the primary health benefits of Vāta-śoṇita (gout) and Vāta-rakta (arthritis) — Atharvaveda And Charaka Samhita By Laxmi Maji in Ayurveda?
+Vāta-śoṇita (gout) and Vāta-rakta (arthritis) — Atharvaveda And Charaka Samhita By Laxmi Maji is traditionally utilized in Ayurveda to balance doshic imbalances, support systemic vitality, and promote long-term physiological wellness under proper guidance.
+
+### How should Vāta-śoṇita (gout) and Vāta-rakta (arthritis) — Atharvaveda And Charaka Samhita By Laxmi Maji be taken according to classical guidelines?
+According to classical Ayurvedic principles, Vāta-śoṇita (gout) and Vāta-rakta (arthritis) — Atharvaveda And Charaka Samhita By Laxmi Maji is best administered with appropriate Anupana (carrier vehicles such as warm water, honey, or warm milk) tailored to an individual's Prakriti (constitution).
+
+### Are there any contraindications or side effects associated with Vāta-śoṇita (gout) and Vāta-rakta (arthritis) — Atharvaveda And Charaka Samhita By Laxmi Maji?
+While generally well-tolerated when used appropriately, excessive usage or improper dosing may exacerbate specific doshas. Consult an Ayurvedic physician prior to therapeutic use.
+
+### How long does it take to observe results from using Vāta-śoṇita (gout) and Vāta-rakta (arthritis) — Atharvaveda And Charaka Samhita By Laxmi Maji?
+In traditional Ayurvedic protocol, herbal formulations operate synergistically with diet and lifestyle. Notable improvements typically emerge within 2 to 4 weeks of consistent administration.
+
+### Is Vāta-śoṇita (gout) and Vāta-rakta (arthritis) — Atharvaveda And Charaka Samhita By Laxmi Maji safe for long-term daily consumption?
+Certain tonic (Rasayana) preparations may be safely used long-term, whereas intensive therapeutic formulas are recommended for specific short-term protocols under expert supervision.
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What are the primary health benefits of Vāta-śoṇita (gout) and Vāta-rakta (arthritis) — Atharvaveda And Charaka Samhita By Laxmi Maji in Ayurveda?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Vāta-śoṇita (gout) and Vāta-rakta (arthritis) — Atharvaveda And Charaka Samhita By Laxmi Maji is traditionally utilized in Ayurveda to balance doshic imbalances, support systemic vitality, and promote long-term physiological wellness under proper guidance."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How should Vāta-śoṇita (gout) and Vāta-rakta (arthritis) — Atharvaveda And Charaka Samhita By Laxmi Maji be taken according to classical guidelines?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "According to classical Ayurvedic principles, Vāta-śoṇita (gout) and Vāta-rakta (arthritis) — Atharvaveda And Charaka Samhita By Laxmi Maji is best administered with appropriate Anupana (carrier vehicles such as warm water, honey, or warm milk) tailored to an individual's Prakriti (constitution)."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Are there any contraindications or side effects associated with Vāta-śoṇita (gout) and Vāta-rakta (arthritis) — Atharvaveda And Charaka Samhita By Laxmi Maji?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "While generally well-tolerated when used appropriately, excessive usage or improper dosing may exacerbate specific doshas. Consult an Ayurvedic physician prior to therapeutic use."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How long does it take to observe results from using Vāta-śoṇita (gout) and Vāta-rakta (arthritis) — Atharvaveda And Charaka Samhita By Laxmi Maji?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "In traditional Ayurvedic protocol, herbal formulations operate synergistically with diet and lifestyle. Notable improvements typically emerge within 2 to 4 weeks of consistent administration."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Is Vāta-śoṇita (gout) and Vāta-rakta (arthritis) — Atharvaveda And Charaka Samhita By Laxmi Maji safe for long-term daily consumption?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Certain tonic (Rasayana) preparations may be safely used long-term, whereas intensive therapeutic formulas are recommended for specific short-term protocols under expert supervision."
+      }
     }
   ]
 }

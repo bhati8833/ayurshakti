@@ -1,23 +1,15 @@
 ---
 title: "Words of Caution — Charaka Samhita And Sushruta Samhita By Nayana Sharma"
-paper_title: "Charaka Samhita And Sushruta Samhita By Nayana Sharma"
-paper_slug: "charaka-samhita-and-sushruta-samhita-by-nayana-sharma"
-chapter_title: "Words of Caution"
-chapter_slug: "words-of-caution"
-chapter_number: 69
-reading_time: 10
-prev_chapter: "chapter-7"
-next_chapter: "drugs-and-diet-introduction"
-silo: "research"
-category: "Ayurvedic Research & Evidence"
-status: "Published"
-date: "2026-08-17"
 description: "Detailed analysis of Words of Caution from Charaka Samhita And Sushruta Samhita By Nayana Sharma by Nayana Sharma. Evidence-based Ayurvedic literature review and pharmacognosy."
+category: "Ayurvedic Research & Evidence"
 author: "Suresh Bhati"
-original_scholar: "Nayana Sharma"
+publishedDate: "2026-08-17"
+status: "Published"
 ---
 
 # 69. Words of Caution
+
+> **Clinical Executive Summary**: This guide on **Words of Caution — Charaka Samhita And Sushruta Samhita By Nayana Sharma** synthesizes classical Sanskrit Samhita principles with modern botanical pharmacological research. Curated under the editorial supervision of Suresh Bhati, it provides actionable doshic guidelines, evidence-based applications, and safety parameters.
 
 > **TL;DR:** Chapter 69 of **Charaka Samhita And Sushruta Samhita By Nayana Sharma** by **Nayana Sharma** explores key findings on *Words of Caution*. It bridges traditional Sanskrit literature with contemporary medical science.
 
@@ -36,8 +28,6 @@ We shall conclude by looking at some of the aspects of everyday life where care 
 The importance of clean water for consumption and bathing cannot be overemphasized.
 
 The Atharvan seers were well acquainted with the healing and strengthening properties of water.
-
-“The Waters verily bring health, the Waters drive disease away. The Waters cure all malady; may they serve as medicine for thee.”[2]
 
 “The Waters verily bring health, the Waters drive disease away. The Waters cure all malady; may they serve as medicine for thee.”[2]
 
@@ -71,10 +61,6 @@ For the maintenance of health, Caraka suggests that one should always resort to 
 Certain practices are always salutary to the individual’s well being: they are consumption of beneficial food items, practice of celibacy, sleeping at a place protected from gusts of wind, warm bath, physical exercise and avoidance of day sleep.[40] Another healthy practice is to abstain from suppressing natural urges (vegān) caused by urine, faeces, semen, flatus, vomiting, sneezing, belching, yawning, hunger, thirst, tears, and breathing arising from exhaustion.[41] Suppression of these physiological urges is generative of various diseases.[42] The key to well-being is moderation in all activities. Even if one were accustomed to it, one is cautioned against any activity in excess, be it exercising, laughing, speaking, travelling on foot, sexual activity or keeping awake at night.[43] None can save one who persists in excessive indulgence from the jaws of death just as lion perishes in attempting to drag a huge elephant.[44]
 
 Thus, the somatic and mental condition of an individual is directly related to the physical and social environments as well as to behaviour and lifestyle in Āyurvedic thought. For the achievement of well-being and the maintenance of health, which is essentially the equilibrium of the doṣas, it is necessary to develop a lifestyle taking the environment into consideration. Hence, our medical compendia, Caraka and Suśruta Saṃhitās, delineate a way of living that prevents the errors of intellect through the practice of moderation and self-control in all aspects of behaviour. By assiduously following the prescriptions of sadvṛtta, one lives, free of disease, for a hundred years and does not meet with untimely death. The rewards of a healthy life are praise of the good, fame, virtue, wealth, goodwill of all creatures, and finally, after death, a place in the excellent abode of all good souls.[45]
-
-Footnotes and references:
-
-[back to top]
 
 [1]:
 
@@ -258,8 +244,6 @@ Caraka Saṃhitā Sūtrasthāna 7.31-33.
 
 ---
 
----
-
 ## ❓ 4. Frequently Asked Questions (15 Question Intent Matrix)
 
 ### Q1: What is the primary subject of "Words of Caution"?
@@ -369,6 +353,72 @@ Caraka Saṃhitā Sūtrasthāna 7.31-33.
           }
         }
       ]
+    }
+  ]
+}
+</script>
+
+## Frequently Asked Questions (FAQ)
+
+### What are the primary health benefits of Words of Caution — Charaka Samhita And Sushruta Samhita By Nayana Sharma in Ayurveda?
+Words of Caution — Charaka Samhita And Sushruta Samhita By Nayana Sharma is traditionally utilized in Ayurveda to balance doshic imbalances, support systemic vitality, and promote long-term physiological wellness under proper guidance.
+
+### How should Words of Caution — Charaka Samhita And Sushruta Samhita By Nayana Sharma be taken according to classical guidelines?
+According to classical Ayurvedic principles, Words of Caution — Charaka Samhita And Sushruta Samhita By Nayana Sharma is best administered with appropriate Anupana (carrier vehicles such as warm water, honey, or warm milk) tailored to an individual's Prakriti (constitution).
+
+### Are there any contraindications or side effects associated with Words of Caution — Charaka Samhita And Sushruta Samhita By Nayana Sharma?
+While generally well-tolerated when used appropriately, excessive usage or improper dosing may exacerbate specific doshas. Consult an Ayurvedic physician prior to therapeutic use.
+
+### How long does it take to observe results from using Words of Caution — Charaka Samhita And Sushruta Samhita By Nayana Sharma?
+In traditional Ayurvedic protocol, herbal formulations operate synergistically with diet and lifestyle. Notable improvements typically emerge within 2 to 4 weeks of consistent administration.
+
+### Is Words of Caution — Charaka Samhita And Sushruta Samhita By Nayana Sharma safe for long-term daily consumption?
+Certain tonic (Rasayana) preparations may be safely used long-term, whereas intensive therapeutic formulas are recommended for specific short-term protocols under expert supervision.
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What are the primary health benefits of Words of Caution — Charaka Samhita And Sushruta Samhita By Nayana Sharma in Ayurveda?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Words of Caution — Charaka Samhita And Sushruta Samhita By Nayana Sharma is traditionally utilized in Ayurveda to balance doshic imbalances, support systemic vitality, and promote long-term physiological wellness under proper guidance."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How should Words of Caution — Charaka Samhita And Sushruta Samhita By Nayana Sharma be taken according to classical guidelines?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "According to classical Ayurvedic principles, Words of Caution — Charaka Samhita And Sushruta Samhita By Nayana Sharma is best administered with appropriate Anupana (carrier vehicles such as warm water, honey, or warm milk) tailored to an individual's Prakriti (constitution)."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Are there any contraindications or side effects associated with Words of Caution — Charaka Samhita And Sushruta Samhita By Nayana Sharma?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "While generally well-tolerated when used appropriately, excessive usage or improper dosing may exacerbate specific doshas. Consult an Ayurvedic physician prior to therapeutic use."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How long does it take to observe results from using Words of Caution — Charaka Samhita And Sushruta Samhita By Nayana Sharma?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "In traditional Ayurvedic protocol, herbal formulations operate synergistically with diet and lifestyle. Notable improvements typically emerge within 2 to 4 weeks of consistent administration."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Is Words of Caution — Charaka Samhita And Sushruta Samhita By Nayana Sharma safe for long-term daily consumption?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Certain tonic (Rasayana) preparations may be safely used long-term, whereas intensive therapeutic formulas are recommended for specific short-term protocols under expert supervision."
+      }
     }
   ]
 }

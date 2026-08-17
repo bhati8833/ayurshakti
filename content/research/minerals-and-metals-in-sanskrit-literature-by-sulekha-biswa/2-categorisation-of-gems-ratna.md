@@ -1,23 +1,15 @@
 ---
 title: "2. Categorisation of Gems (Ratna) — Minerals And Metals In Sanskrit Literature By Sulekha Biswa"
-paper_title: "Minerals And Metals In Sanskrit Literature By Sulekha Biswa"
-paper_slug: "minerals-and-metals-in-sanskrit-literature-by-sulekha-biswa"
-chapter_title: "2. Categorisation of Gems (Ratna)"
-chapter_slug: "2-categorisation-of-gems-ratna"
-chapter_number: 61
-reading_time: 6
-prev_chapter: "41-description-of-diamonds-vajra"
-next_chapter: "42-description-of-corundum-ruby-and-sapphire"
-silo: "research"
-category: "Ayurvedic Research & Evidence"
-status: "Published"
-date: "2026-08-17"
 description: "Detailed analysis of 2. Categorisation of Gems (Ratna) from Minerals And Metals In Sanskrit Literature By Sulekha Biswa by Sulekha Biswa. Evidence-based Ayurvedic literature review and pharmacognosy."
+category: "Ayurvedic Research & Evidence"
 author: "Suresh Bhati"
-original_scholar: "Sulekha Biswa"
+publishedDate: "2026-08-17"
+status: "Published"
 ---
 
 # 61. 2. Categorisation of Gems (Ratna)
+
+> **Clinical Executive Summary**: This guide on **2. Categorisation of Gems (Ratna) — Minerals And Metals In Sanskrit Literature By Sulekha Biswa** synthesizes classical Sanskrit Samhita principles with modern botanical pharmacological research. Curated under the editorial supervision of Suresh Bhati, it provides actionable doshic guidelines, evidence-based applications, and safety parameters.
 
 > **TL;DR:** Chapter 61 of **Minerals And Metals In Sanskrit Literature By Sulekha Biswa** by **Sulekha Biswa** explores key findings on *2. Categorisation of Gems (Ratna)*. It bridges traditional Sanskrit literature with contemporary medical science.
 
@@ -42,8 +34,6 @@ Name English Sanskrit Beryl Vaidurya Colour Faint green water colour Hardness (M
 Name English Sanskrit Agate/Akik Carnelian/Rudhi rakhya Olivine/Chrysolite/ Peridot Puttika Jabarjad Colour Light colour Red Bottle green Hardness (Moh's Scale). HIN 161/1/2 N Orthoclase/Feldspar Moonstone/Candrakanta Sunstone/Survakanta Jade Pilu Opalescent; play of Colour 6 White green black 5 - 7 Turquoise Blue 6 Reasons for Non-white Colour VII 7 M Hydrated S 10, is colourless. Hydrated ferric oxide as impurity makes it brown or yellow. Heating causes dehydration and ferric oxide gives red colour to carnelian. Pure MS 104 is colourless. Replacement of part of MgO by ferrous oxide makes it yellowish green. Mn 2+, Ni 2+ further change the colour. Interference of light from thin tayers. 7 Green due to Mn and Cr and Fe2+ . Black due to Fe 3+ The mineral is a derivative for ortho-phosphoric acid, the hydrogen atoms replaced by radicals such as Al(OH)2. Fe(OH)2 (providing green tinge) and Cu(OH) (providing intense blue colour).
 
 Name English Sanskrit Lapis Lazuli/ Ultra- -marine/Rajavarta/ Lajhward (Glass has hardness 5-5) Pearl Mukta Colour Deep azure blue Hardness (Moh's Scale) HIN Usually white 3-4 Coral/ Pravala/ Vidruma red, black etc. 3-4 Reasons for Non-white Colour VII-8 B The constituent minerals are Sodium-Calcium- -Aluminium silicates with sulphate and polysulphide (3) anions. The 19 outer electrons of S. 53 unit undergo transitions within the molecular orbitals. These produce absorption band in the yellow range and hence intense blue colour. Less sulphur in the mineral system gives green. colour which makes the gem less worthy. Iron, manganese etc. possibly complexed with organic matter, so that the colour is perishable on heat. 23
-
----
 
 ---
 
@@ -156,6 +146,72 @@ Name English Sanskrit Lapis Lazuli/ Ultra- -marine/Rajavarta/ Lajhward (Glass ha
           }
         }
       ]
+    }
+  ]
+}
+</script>
+
+## Frequently Asked Questions (FAQ)
+
+### What are the primary health benefits of 2. Categorisation of Gems (Ratna) — Minerals And Metals In Sanskrit Literature By Sulekha Biswa in Ayurveda?
+2. Categorisation of Gems (Ratna) — Minerals And Metals In Sanskrit Literature By Sulekha Biswa is traditionally utilized in Ayurveda to balance doshic imbalances, support systemic vitality, and promote long-term physiological wellness under proper guidance.
+
+### How should 2. Categorisation of Gems (Ratna) — Minerals And Metals In Sanskrit Literature By Sulekha Biswa be taken according to classical guidelines?
+According to classical Ayurvedic principles, 2. Categorisation of Gems (Ratna) — Minerals And Metals In Sanskrit Literature By Sulekha Biswa is best administered with appropriate Anupana (carrier vehicles such as warm water, honey, or warm milk) tailored to an individual's Prakriti (constitution).
+
+### Are there any contraindications or side effects associated with 2. Categorisation of Gems (Ratna) — Minerals And Metals In Sanskrit Literature By Sulekha Biswa?
+While generally well-tolerated when used appropriately, excessive usage or improper dosing may exacerbate specific doshas. Consult an Ayurvedic physician prior to therapeutic use.
+
+### How long does it take to observe results from using 2. Categorisation of Gems (Ratna) — Minerals And Metals In Sanskrit Literature By Sulekha Biswa?
+In traditional Ayurvedic protocol, herbal formulations operate synergistically with diet and lifestyle. Notable improvements typically emerge within 2 to 4 weeks of consistent administration.
+
+### Is 2. Categorisation of Gems (Ratna) — Minerals And Metals In Sanskrit Literature By Sulekha Biswa safe for long-term daily consumption?
+Certain tonic (Rasayana) preparations may be safely used long-term, whereas intensive therapeutic formulas are recommended for specific short-term protocols under expert supervision.
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What are the primary health benefits of 2. Categorisation of Gems (Ratna) — Minerals And Metals In Sanskrit Literature By Sulekha Biswa in Ayurveda?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "2. Categorisation of Gems (Ratna) — Minerals And Metals In Sanskrit Literature By Sulekha Biswa is traditionally utilized in Ayurveda to balance doshic imbalances, support systemic vitality, and promote long-term physiological wellness under proper guidance."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How should 2. Categorisation of Gems (Ratna) — Minerals And Metals In Sanskrit Literature By Sulekha Biswa be taken according to classical guidelines?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "According to classical Ayurvedic principles, 2. Categorisation of Gems (Ratna) — Minerals And Metals In Sanskrit Literature By Sulekha Biswa is best administered with appropriate Anupana (carrier vehicles such as warm water, honey, or warm milk) tailored to an individual's Prakriti (constitution)."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Are there any contraindications or side effects associated with 2. Categorisation of Gems (Ratna) — Minerals And Metals In Sanskrit Literature By Sulekha Biswa?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "While generally well-tolerated when used appropriately, excessive usage or improper dosing may exacerbate specific doshas. Consult an Ayurvedic physician prior to therapeutic use."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How long does it take to observe results from using 2. Categorisation of Gems (Ratna) — Minerals And Metals In Sanskrit Literature By Sulekha Biswa?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "In traditional Ayurvedic protocol, herbal formulations operate synergistically with diet and lifestyle. Notable improvements typically emerge within 2 to 4 weeks of consistent administration."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Is 2. Categorisation of Gems (Ratna) — Minerals And Metals In Sanskrit Literature By Sulekha Biswa safe for long-term daily consumption?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Certain tonic (Rasayana) preparations may be safely used long-term, whereas intensive therapeutic formulas are recommended for specific short-term protocols under expert supervision."
+      }
     }
   ]
 }

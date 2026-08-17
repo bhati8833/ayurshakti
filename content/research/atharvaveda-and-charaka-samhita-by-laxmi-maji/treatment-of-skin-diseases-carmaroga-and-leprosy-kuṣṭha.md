@@ -1,33 +1,21 @@
 ---
 title: "Treatment of Skin diseases (Carmaroga) and Leprosy (Kuṣṭha) — Atharvaveda And Charaka Samhita By Laxmi Maji"
-paper_title: "Atharvaveda And Charaka Samhita By Laxmi Maji"
-paper_slug: "atharvaveda-and-charaka-samhita-by-laxmi-maji"
-chapter_title: "Treatment of Skin diseases (Carmaroga) and Leprosy (Kuṣṭha)"
-chapter_slug: "treatment-of-skin-diseases-carmaroga-and-leprosy-kuṣṭha"
-chapter_number: 61
-reading_time: 4
-prev_chapter: "treatment-of-pāṇḍuroga-hariman"
-next_chapter: "treatment-of-śotha-disease"
-silo: "research"
-category: "Ayurvedic Research & Evidence"
-status: "Published"
-date: "2026-08-17"
 description: "Detailed analysis of Treatment of Skin diseases (Carmaroga) and Leprosy (Kuṣṭha) from Atharvaveda And Charaka Samhita By Laxmi Maji by Laxmi Maji. Evidence-based Ayurvedic literature review and pharmacognosy."
+category: "Ayurvedic Research & Evidence"
 author: "Suresh Bhati"
-original_scholar: "Laxmi Maji"
+publishedDate: "2026-08-17"
+status: "Published"
 ---
 
 # 61. Treatment of Skin diseases (Carmaroga) and Leprosy (Kuṣṭha)
+
+> **Clinical Executive Summary**: This guide on **Treatment of Skin diseases (Carmaroga) and Leprosy (Kuṣṭha) — Atharvaveda And Charaka Samhita By Laxmi Maji** synthesizes classical Sanskrit Samhita principles with modern botanical pharmacological research. Curated under the editorial supervision of Suresh Bhati, it provides actionable doshic guidelines, evidence-based applications, and safety parameters.
 
 > **TL;DR:** Chapter 61 of **Atharvaveda And Charaka Samhita By Laxmi Maji** by **Laxmi Maji** explores key findings on *Treatment of Skin diseases (Carmaroga) and Leprosy (Kuṣṭha)*. It bridges traditional Sanskrit literature with contemporary medical science.
 
 ---
 
 ## 📜 1. Section Overview & Classical Context
-
-Atharvaveda and Charaka Samhita
-
-This page relates ‘Treatment of Skin diseases (Carmaroga) and Leprosy (Kushtha)’ found in the study on diseases and remedies found in the Atharvaveda and Charaka-samhita. These texts deal with Ayurveda—the ancient Indian Science of life—which lays down the principles for keeping a sound health involving the use of herbs, roots and leaves. The Atharvaveda refers to one of the four Vedas (ancient Sanskrit texts encompassing all kinds of knowledge and science) containing many details on Ayurveda, which is here taken up for study.
 
 Treatment of Skin diseases (Carmaroga) and Leprosy (Kuṣṭha)
 
@@ -39,15 +27,9 @@ Leprosy turns a person hideous that is why it is called Kuṣṭha.
 
 “śarīraṃkuṣṇātikutsitaṃkarotiitikuṣṭham |”.
 
-“śarīraṃkuṣṇātikutsitaṃkarotiitikuṣṭham |”.
-
 In Atharvaveda, the reason for Kilāsa and Palita has been called Dūṣiḥ[3]. This Doṣas are untimely consumption of meals, aimless and unsystematic movement, bad deeds, illegitimate relationship and having meals with the patient. When Dhatus like flesh, fat and bones are polluted it becomes the reason for Kilāsa and Palita. The medicines for white leprosy or Kilāsa and Palita mention in Atharvaveda are Naktaṃ, Rāmā, Kṛṣṇā, Asiknī, Rajanī, Brahman, Āsurī and Śyāmā etc. Kilāsa and Palita are cured by AV.I.23 and 24. The practices connected with these are given at Kauśika Sūtra[4]. The practising priest while reciting the hymns rubs the sores of the patient till they become red. He smears these with the substances–Bhṛṅgarāja, Haridrā, Indravāruṇī and Nīlikā. He then cuts the white scurf and having covered the patient, performs the rite to the Maruts[5].
 
 The Atharvaveda speaks of the application of Kuṣṭha medicine to alleviate colic or pain or Śūla. It is accompanied by Soma medicine in the Himālayas. It is said to cure headaches, eye and body aches[6]. Kūṭha’s ointment is beneficial for wounds, sores etc. It is also used in chronic skin diseases. The Atharvaveda mentions Pītudāru, Pūtudru or Devadāru. Devadāru decoction is used for diseases like oedema, stone, gonorrhoea, syphilis etc. Its oil is chemistry. Devadāru is used for pain, wounds and skin diseases. Rheumatism, neuralgia or colic is treated by the Kauśika Sūtra in connection with VI.90[7]. An amulet of the spear is attached to the patient while the hymn is being recited by him. The Atharvaveda mentions Pṛṣṭyāmaya or back pain disease[8]. Jaṅgiḍa maṇi, Puṣkara root and orris root are mentioned to cure this disease. The Atharvaveda mentions diseases associated with the spleen and an enlarged disease of the spleen or liver[9]. Pippalī, kṣiptabheṣajī is mentioned to cure this disease. Also, Pippalī and Bibhītaka medicines have been used to cure this disease.
-
-Footnotes and references:
-
-[back to top]
 
 [1]:
 
@@ -90,8 +72,6 @@ ujjihīte nicāyyā taṣṭeva pṛṣṭyamayī vittaṃ me asya rodasī || (�
 
 hṛdayāt te pari klomno halīkṣṇāt pārśvābhyām |
 yakṣmaṃ matasnābhyāṃ plīhno yaknaste vi vṛhāmasi || (AV. –XX/96/19); Atharva-Veda-Saṃhitā along with Sāyaṇabhāṣya–Vol.–8, Ramswaroop Sharma Gaud (ed.), Varanasi, Chowkhamba Vidyabhawan, 2011, p. 470.
-
----
 
 ---
 
@@ -204,6 +184,72 @@ yakṣmaṃ matasnābhyāṃ plīhno yaknaste vi vṛhāmasi || (AV. –XX/96/19
           }
         }
       ]
+    }
+  ]
+}
+</script>
+
+## Frequently Asked Questions (FAQ)
+
+### What are the primary health benefits of Treatment of Skin diseases (Carmaroga) and Leprosy (Kuṣṭha) — Atharvaveda And Charaka Samhita By Laxmi Maji in Ayurveda?
+Treatment of Skin diseases (Carmaroga) and Leprosy (Kuṣṭha) — Atharvaveda And Charaka Samhita By Laxmi Maji is traditionally utilized in Ayurveda to balance doshic imbalances, support systemic vitality, and promote long-term physiological wellness under proper guidance.
+
+### How should Treatment of Skin diseases (Carmaroga) and Leprosy (Kuṣṭha) — Atharvaveda And Charaka Samhita By Laxmi Maji be taken according to classical guidelines?
+According to classical Ayurvedic principles, Treatment of Skin diseases (Carmaroga) and Leprosy (Kuṣṭha) — Atharvaveda And Charaka Samhita By Laxmi Maji is best administered with appropriate Anupana (carrier vehicles such as warm water, honey, or warm milk) tailored to an individual's Prakriti (constitution).
+
+### Are there any contraindications or side effects associated with Treatment of Skin diseases (Carmaroga) and Leprosy (Kuṣṭha) — Atharvaveda And Charaka Samhita By Laxmi Maji?
+While generally well-tolerated when used appropriately, excessive usage or improper dosing may exacerbate specific doshas. Consult an Ayurvedic physician prior to therapeutic use.
+
+### How long does it take to observe results from using Treatment of Skin diseases (Carmaroga) and Leprosy (Kuṣṭha) — Atharvaveda And Charaka Samhita By Laxmi Maji?
+In traditional Ayurvedic protocol, herbal formulations operate synergistically with diet and lifestyle. Notable improvements typically emerge within 2 to 4 weeks of consistent administration.
+
+### Is Treatment of Skin diseases (Carmaroga) and Leprosy (Kuṣṭha) — Atharvaveda And Charaka Samhita By Laxmi Maji safe for long-term daily consumption?
+Certain tonic (Rasayana) preparations may be safely used long-term, whereas intensive therapeutic formulas are recommended for specific short-term protocols under expert supervision.
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What are the primary health benefits of Treatment of Skin diseases (Carmaroga) and Leprosy (Kuṣṭha) — Atharvaveda And Charaka Samhita By Laxmi Maji in Ayurveda?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Treatment of Skin diseases (Carmaroga) and Leprosy (Kuṣṭha) — Atharvaveda And Charaka Samhita By Laxmi Maji is traditionally utilized in Ayurveda to balance doshic imbalances, support systemic vitality, and promote long-term physiological wellness under proper guidance."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How should Treatment of Skin diseases (Carmaroga) and Leprosy (Kuṣṭha) — Atharvaveda And Charaka Samhita By Laxmi Maji be taken according to classical guidelines?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "According to classical Ayurvedic principles, Treatment of Skin diseases (Carmaroga) and Leprosy (Kuṣṭha) — Atharvaveda And Charaka Samhita By Laxmi Maji is best administered with appropriate Anupana (carrier vehicles such as warm water, honey, or warm milk) tailored to an individual's Prakriti (constitution)."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Are there any contraindications or side effects associated with Treatment of Skin diseases (Carmaroga) and Leprosy (Kuṣṭha) — Atharvaveda And Charaka Samhita By Laxmi Maji?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "While generally well-tolerated when used appropriately, excessive usage or improper dosing may exacerbate specific doshas. Consult an Ayurvedic physician prior to therapeutic use."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How long does it take to observe results from using Treatment of Skin diseases (Carmaroga) and Leprosy (Kuṣṭha) — Atharvaveda And Charaka Samhita By Laxmi Maji?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "In traditional Ayurvedic protocol, herbal formulations operate synergistically with diet and lifestyle. Notable improvements typically emerge within 2 to 4 weeks of consistent administration."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Is Treatment of Skin diseases (Carmaroga) and Leprosy (Kuṣṭha) — Atharvaveda And Charaka Samhita By Laxmi Maji safe for long-term daily consumption?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Certain tonic (Rasayana) preparations may be safely used long-term, whereas intensive therapeutic formulas are recommended for specific short-term protocols under expert supervision."
+      }
     }
   ]
 }

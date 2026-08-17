@@ -20,17 +20,11 @@ This chapter from **Sushruta Samhita (Chikitsasthana)** represents the classical
 
 ---
 
-
 Sushruta Samhita, volume 4: Cikitsasthana
-
-by Kaviraj Kunja Lal Bhishagratna | 1911 | 123,229 words
 
 This current book, the Chikitsa-sthana (english translation), deals with therapeutics, surgical emergencies, geriatrics, aphrodisiacs and various other subjects.
 
 The Sushruta Samhita is the most representative work of the Hindu system of medicine. It embraces all that can possibly appertain to the science of medicine. Susruta-samhita is recognized...
-
-Go directly to: 
-Footnotes.
 
 Chapter IX - The medical treatment of cutaneous affections
 
@@ -134,10 +128,6 @@ The paring of the nails and shaving the hair off, light physical exercise, the u
 
 Thus ends the ninth Chapter of the Chikitsita Sthana in the Sushruta Samhita which deals with the medical treatment of Kushtha.
 
-Footnotes and references:
-
-[back to top]
-
 [1]:
 
 An unsalted decoction of any substance not seasoned with any spices whatever is called Yusha, while the one salted and seasoned with spices is called Supa. In preparing the soup of any pulse, all husks should be carefully thrashed out and the grain should be slightly fried before boiling.
@@ -189,8 +179,6 @@ According to some, both the leaves and bark of the “amra” and of the “Hari
 [13]:
 
 The leaves and bark respectively of the Amra and the Haritaki  should be taken in the preparation. The whole stanza seems to be of faulty construction. Dallana, in his commentary, says that some read the fourth line as
-
-“tailena siktaṃ kaṭuna samastamalepayedevamupaiti shantim ||”
 
 “tailena siktaṃ kaṭuna samastamalepayedevamupaiti shantim ||”
 

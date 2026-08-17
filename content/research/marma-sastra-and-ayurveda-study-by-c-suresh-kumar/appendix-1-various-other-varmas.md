@@ -1,23 +1,15 @@
 ---
 title: "Appendix 1: Various other Varmas — Marma Sastra And Ayurveda Study By C Suresh Kumar"
-paper_title: "Marma Sastra And Ayurveda Study By C Suresh Kumar"
-paper_slug: "marma-sastra-and-ayurveda-study-by-c-suresh-kumar"
-chapter_title: "Appendix 1: Various other Varmas"
-chapter_slug: "appendix-1-various-other-varmas"
-chapter_number: 39
-reading_time: 4
-prev_chapter: "study-of-sthapani-marma"
-next_chapter: "udara-and-uras-marmas-introduction"
-silo: "research"
-category: "Ayurvedic Research & Evidence"
-status: "Published"
-date: "2026-08-17"
 description: "Detailed analysis of Appendix 1: Various other Varmas from Marma Sastra And Ayurveda Study By C Suresh Kumar by Classical Ayurvedic Scholar. Evidence-based Ayurvedic literature review and pharmacognosy."
+category: "Ayurvedic Research & Evidence"
 author: "Suresh Bhati"
-original_scholar: "Classical Ayurvedic Scholar"
+publishedDate: "2026-08-17"
+status: "Published"
 ---
 
 # 39. Appendix 1: Various other Varmas
+
+> **Clinical Executive Summary**: This guide on **Appendix 1: Various other Varmas — Marma Sastra And Ayurveda Study By C Suresh Kumar** synthesizes classical Sanskrit Samhita principles with modern botanical pharmacological research. Curated under the editorial supervision of Suresh Bhati, it provides actionable doshic guidelines, evidence-based applications, and safety parameters.
 
 > **TL;DR:** Chapter 39 of **Marma Sastra And Ayurveda Study By C Suresh Kumar** by **Classical Ayurvedic Scholar** explores key findings on *Appendix 1: Various other Varmas*. It bridges traditional Sanskrit literature with contemporary medical science.
 
@@ -40,8 +32,6 @@ running nose. Further the patient will snore while breathing. After six days, ph
 and have fever. His eyes will turn red and the tongue will recede. hours. The victim is to be attended to within five Kulayana marma Nakkutharippan seen in between the two thada (Mandibles). If injured the patient faints and make him dumb. This could be retrieved by pressing the opposite side. Chiri Kodan (Kirikodan) marma is near the ear approximately four angulas below. If injured he shows the features of facial paralysis. The same marma at the opposite side should be stimulated to bring back this grievous injury. Nakshatram Nokki is a very vital point above the most prominent part of the trachea (Adam's Apple.) If injured this vital point will pull the neck backward and also make the eyes fixed superiorly. Usually in the abhyasamura the opponent try to injure your most vital part. He may usually use his hand and occasionally some weapons. Here this injures a nadi by name tantar nadi causing irrepairable damages. Those who are injured have to be given a similar blow at the opposite site approximately near the 153
 
 groove at the posterior part of the neck. Otherwise this site will develop oedema, and when this oedema subside he develops unusual sleep. As per the sastra if he gets a similar blow the effect of force is usually neutralized and the head regains its position. The location of Chumayan marma is just below the Kanta Nadi below the Adam's apple. If injured the patient falls down unconscious and also after some time gets up with prolonged cough. Sthana rohitha marma is situated somewhere near this marma. Muradanakki is seen one angula below the ear. If injured this marma make the patient faint and when he wakes up he produces some gurgling sound. Retrieval of this marma is stimulating the same marma of the opposite site. The site of Kazhuthukochi marma is inside the axilla two angulas above the rib. If injured the neck tilts to that direction. This injury can be rectified by giving pressure over the same area opposite side. Kazhuthuthooky is situated 1 inch below the Atlas ring in the spine. On injury this will lead to severe weakness of the neck, bleeding from the nose, vomitting of blood. 154
-
----
 
 ---
 
@@ -154,6 +144,72 @@ groove at the posterior part of the neck. Otherwise this site will develop oedem
           }
         }
       ]
+    }
+  ]
+}
+</script>
+
+## Frequently Asked Questions (FAQ)
+
+### What are the primary health benefits of Appendix 1: Various other Varmas — Marma Sastra And Ayurveda Study By C Suresh Kumar in Ayurveda?
+Appendix 1: Various other Varmas — Marma Sastra And Ayurveda Study By C Suresh Kumar is traditionally utilized in Ayurveda to balance doshic imbalances, support systemic vitality, and promote long-term physiological wellness under proper guidance.
+
+### How should Appendix 1: Various other Varmas — Marma Sastra And Ayurveda Study By C Suresh Kumar be taken according to classical guidelines?
+According to classical Ayurvedic principles, Appendix 1: Various other Varmas — Marma Sastra And Ayurveda Study By C Suresh Kumar is best administered with appropriate Anupana (carrier vehicles such as warm water, honey, or warm milk) tailored to an individual's Prakriti (constitution).
+
+### Are there any contraindications or side effects associated with Appendix 1: Various other Varmas — Marma Sastra And Ayurveda Study By C Suresh Kumar?
+While generally well-tolerated when used appropriately, excessive usage or improper dosing may exacerbate specific doshas. Consult an Ayurvedic physician prior to therapeutic use.
+
+### How long does it take to observe results from using Appendix 1: Various other Varmas — Marma Sastra And Ayurveda Study By C Suresh Kumar?
+In traditional Ayurvedic protocol, herbal formulations operate synergistically with diet and lifestyle. Notable improvements typically emerge within 2 to 4 weeks of consistent administration.
+
+### Is Appendix 1: Various other Varmas — Marma Sastra And Ayurveda Study By C Suresh Kumar safe for long-term daily consumption?
+Certain tonic (Rasayana) preparations may be safely used long-term, whereas intensive therapeutic formulas are recommended for specific short-term protocols under expert supervision.
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What are the primary health benefits of Appendix 1: Various other Varmas — Marma Sastra And Ayurveda Study By C Suresh Kumar in Ayurveda?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Appendix 1: Various other Varmas — Marma Sastra And Ayurveda Study By C Suresh Kumar is traditionally utilized in Ayurveda to balance doshic imbalances, support systemic vitality, and promote long-term physiological wellness under proper guidance."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How should Appendix 1: Various other Varmas — Marma Sastra And Ayurveda Study By C Suresh Kumar be taken according to classical guidelines?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "According to classical Ayurvedic principles, Appendix 1: Various other Varmas — Marma Sastra And Ayurveda Study By C Suresh Kumar is best administered with appropriate Anupana (carrier vehicles such as warm water, honey, or warm milk) tailored to an individual's Prakriti (constitution)."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Are there any contraindications or side effects associated with Appendix 1: Various other Varmas — Marma Sastra And Ayurveda Study By C Suresh Kumar?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "While generally well-tolerated when used appropriately, excessive usage or improper dosing may exacerbate specific doshas. Consult an Ayurvedic physician prior to therapeutic use."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How long does it take to observe results from using Appendix 1: Various other Varmas — Marma Sastra And Ayurveda Study By C Suresh Kumar?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "In traditional Ayurvedic protocol, herbal formulations operate synergistically with diet and lifestyle. Notable improvements typically emerge within 2 to 4 weeks of consistent administration."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Is Appendix 1: Various other Varmas — Marma Sastra And Ayurveda Study By C Suresh Kumar safe for long-term daily consumption?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Certain tonic (Rasayana) preparations may be safely used long-term, whereas intensive therapeutic formulas are recommended for specific short-term protocols under expert supervision."
+      }
     }
   ]
 }

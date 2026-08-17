@@ -20,17 +20,11 @@ This chapter from **Sushruta Samhita (Chikitsasthana)** represents the classical
 
 ---
 
-
 Sushruta Samhita, volume 4: Cikitsasthana
-
-by Kaviraj Kunja Lal Bhishagratna | 1911 | 123,229 words
 
 This current book, the Chikitsa-sthana (english translation), deals with therapeutics, surgical emergencies, geriatrics, aphrodisiacs and various other subjects.
 
 The Sushruta Samhita is the most representative work of the Hindu system of medicine. It embraces all that can possibly appertain to the science of medicine. Susruta-samhita is recognized...
-
-Go directly to: 
-Footnotes.
 
 Chapter XXXVII - The treatment with an Anuvasana-vasti and an Uttara-vasti
 
@@ -157,10 +151,6 @@ A cold decoction of Yashti-madhu saturated with honey and sugar[20] or a decocti
 Diseases such as derangements of the semen, or of ovum, or difficult menstruation, excess or suppression of the monthly flow, diseases of the uterus and of the vaginal canal, non-falling of the placenta, strangury and other diseases of the urine, gravel, stones (Ashmari), spermatorrhea (Shukrotseka), cramps in the bladder, in the groins and in the urethra and all other severe diseases of the bladder other than Meha, will all yield to the application of an Uttara-vasti (urethral enema). Symptoms which mark, or dangers which attend, a judicious or an injudicious application of an Uttara-vasti are respectively identical with those which characterise or attend those of a Sneha-vasti. 45-46.
 
 Thus ends the Thirty-seventh Chapter of the Chikitsita Sthana in the Sushruta Samhita which deals with the Anuvasana-vasti and the Uttara-vasti.
-
-Footnotes and references:
-
-[back to top]
 
 [1]:
 

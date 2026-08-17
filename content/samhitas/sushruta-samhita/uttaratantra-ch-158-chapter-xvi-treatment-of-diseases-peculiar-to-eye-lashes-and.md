@@ -20,17 +20,11 @@ This chapter from **Sushruta Samhita (Uttaratantra)** represents the classical s
 
 ---
 
-
 Sushruta Samhita, Volume 6: Uttara-tantra
-
-by Kaviraj Kunja Lal Bhishagratna | 1916 | 113,078 words
 
 This current book, the Uttara-tantra (english translation) is the supplementary part of the Sushrutasamhita and deals various subjects such as diseases of the eye, treatment of fever, diarrhea, diseases resulting from superhuman influences, insanity, rules of health etc.
 
 The Sushruta Samhita is the most representative work of the Hindu system of m...
-
-Go directly to: 
-Footnotes.
 
 Chapter XVI - Treatment of diseases peculiar to eye-lashes and eye-lids
 
@@ -45,10 +39,6 @@ Cauterisation:—
 In case of the failure of the preceding measure, the eye-lid should be carefully examined and lifted up in an inverted posture and the diseased cyst (Bali) should be very carefully cauterised with fire or alkali. As an alternative, the Pakshma-mala (eye-lashes) should be ail removed and the affected eye-lid having been carefully secured with three hooks (Vadisha) should be rubbed with pasted Haritaki and Tuvaraka (Lodhra). The four aforesaid measures[2] as well as purgatives, eye-drops (Ashchyotana), medicinal snuffs, inhalations (fumigations), Plasters, Collyrium, Sneha and Rasa-kriya, should be likewise held as beneficial[3] in cases of Pakshma-kopa. 3-5.
 
 Thus ends the sixteenth chapter of the Uttara-Tantra in the Shushruta Samhita which treats of the remedies of Pakshma-kopa.
-
-Footnotes and references:
-
-[back to top]
 
 [1]:
 

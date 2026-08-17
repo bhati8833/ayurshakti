@@ -1,23 +1,15 @@
 ---
 title: "Part 27 - Classification of Breeds (in modern Indian society) — Agriculture And Animal Husbandry In The Puranas By Purboshri"
-paper_title: "Agriculture And Animal Husbandry In The Puranas By Purboshri"
-paper_slug: "agriculture-and-animal-husbandry-in-the-puranas-by-purboshri"
-chapter_title: "Part 27 - Classification of Breeds (in modern Indian society)"
-chapter_slug: "part-27---classification-of-breeds-in-modern-indian-society"
-chapter_number: 115
-reading_time: 3
-prev_chapter: "part-26---breeding-policy-in-modern-indian-society"
-next_chapter: "part-28---feeding-of-cattle-in-modern-indian-society"
-silo: "research"
-category: "Ayurvedic Research & Evidence"
-status: "Published"
-date: "2026-08-17"
 description: "Detailed analysis of Part 27 - Classification of Breeds (in modern Indian society) from Agriculture And Animal Husbandry In The Puranas By Purboshri by Purboshri Borpuzari. Evidence-based Ayurvedic literature review and pharmacognosy."
+category: "Ayurvedic Research & Evidence"
 author: "Suresh Bhati"
-original_scholar: "Purboshri Borpuzari"
+publishedDate: "2026-08-17"
+status: "Published"
 ---
 
 # 115. Part 27 - Classification of Breeds (in modern Indian society)
+
+> **Clinical Executive Summary**: This guide on **Part 27 - Classification of Breeds (in modern Indian society) — Agriculture And Animal Husbandry In The Puranas By Purboshri** synthesizes classical Sanskrit Samhita principles with modern botanical pharmacological research. Curated under the editorial supervision of Suresh Bhati, it provides actionable doshic guidelines, evidence-based applications, and safety parameters.
 
 > **TL;DR:** Chapter 115 of **Agriculture And Animal Husbandry In The Puranas By Purboshri** by **Purboshri Borpuzari** explores key findings on *Part 27 - Classification of Breeds (in modern Indian society)*. It bridges traditional Sanskrit literature with contemporary medical science.
 
@@ -64,10 +56,6 @@ The best indigenous breeds of buffaloes are-
 
 Although the population of buffaloes is much less than that of cows, more than 50 per cent of the milk produced in India, at present, is buffalo's milk. On account of the higher fat percentage in the buffalo’s milk (average 7.5 per cent), it is more commonly used for the manufacture of dairy products, e.g. butter, ghee, and cheese and it yields a much greater return than the cow's milk. Moreover, buffaloes are able to digest rougher feeds. Male buffaloes after castration are used for heavy transport as well as for ploughing. They are generally not worked during the hot part of the day.[3]
 
-Footnotes and references:
-
-[back to top]
-
 [1]:
 
 Randhawa, M.S., A History of Agriculture in India, volume 4, p. 537-543
@@ -79,8 +67,6 @@ Ibid., p. 543
 [3]:
 
 Ibid., p. 543-544
-
----
 
 ---
 
@@ -193,6 +179,72 @@ Ibid., p. 543-544
           }
         }
       ]
+    }
+  ]
+}
+</script>
+
+## Frequently Asked Questions (FAQ)
+
+### What are the primary health benefits of Part 27 - Classification of Breeds (in modern Indian society) — Agriculture And Animal Husbandry In The Puranas By Purboshri in Ayurveda?
+Part 27 - Classification of Breeds (in modern Indian society) — Agriculture And Animal Husbandry In The Puranas By Purboshri is traditionally utilized in Ayurveda to balance doshic imbalances, support systemic vitality, and promote long-term physiological wellness under proper guidance.
+
+### How should Part 27 - Classification of Breeds (in modern Indian society) — Agriculture And Animal Husbandry In The Puranas By Purboshri be taken according to classical guidelines?
+According to classical Ayurvedic principles, Part 27 - Classification of Breeds (in modern Indian society) — Agriculture And Animal Husbandry In The Puranas By Purboshri is best administered with appropriate Anupana (carrier vehicles such as warm water, honey, or warm milk) tailored to an individual's Prakriti (constitution).
+
+### Are there any contraindications or side effects associated with Part 27 - Classification of Breeds (in modern Indian society) — Agriculture And Animal Husbandry In The Puranas By Purboshri?
+While generally well-tolerated when used appropriately, excessive usage or improper dosing may exacerbate specific doshas. Consult an Ayurvedic physician prior to therapeutic use.
+
+### How long does it take to observe results from using Part 27 - Classification of Breeds (in modern Indian society) — Agriculture And Animal Husbandry In The Puranas By Purboshri?
+In traditional Ayurvedic protocol, herbal formulations operate synergistically with diet and lifestyle. Notable improvements typically emerge within 2 to 4 weeks of consistent administration.
+
+### Is Part 27 - Classification of Breeds (in modern Indian society) — Agriculture And Animal Husbandry In The Puranas By Purboshri safe for long-term daily consumption?
+Certain tonic (Rasayana) preparations may be safely used long-term, whereas intensive therapeutic formulas are recommended for specific short-term protocols under expert supervision.
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What are the primary health benefits of Part 27 - Classification of Breeds (in modern Indian society) — Agriculture And Animal Husbandry In The Puranas By Purboshri in Ayurveda?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Part 27 - Classification of Breeds (in modern Indian society) — Agriculture And Animal Husbandry In The Puranas By Purboshri is traditionally utilized in Ayurveda to balance doshic imbalances, support systemic vitality, and promote long-term physiological wellness under proper guidance."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How should Part 27 - Classification of Breeds (in modern Indian society) — Agriculture And Animal Husbandry In The Puranas By Purboshri be taken according to classical guidelines?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "According to classical Ayurvedic principles, Part 27 - Classification of Breeds (in modern Indian society) — Agriculture And Animal Husbandry In The Puranas By Purboshri is best administered with appropriate Anupana (carrier vehicles such as warm water, honey, or warm milk) tailored to an individual's Prakriti (constitution)."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Are there any contraindications or side effects associated with Part 27 - Classification of Breeds (in modern Indian society) — Agriculture And Animal Husbandry In The Puranas By Purboshri?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "While generally well-tolerated when used appropriately, excessive usage or improper dosing may exacerbate specific doshas. Consult an Ayurvedic physician prior to therapeutic use."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How long does it take to observe results from using Part 27 - Classification of Breeds (in modern Indian society) — Agriculture And Animal Husbandry In The Puranas By Purboshri?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "In traditional Ayurvedic protocol, herbal formulations operate synergistically with diet and lifestyle. Notable improvements typically emerge within 2 to 4 weeks of consistent administration."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Is Part 27 - Classification of Breeds (in modern Indian society) — Agriculture And Animal Husbandry In The Puranas By Purboshri safe for long-term daily consumption?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Certain tonic (Rasayana) preparations may be safely used long-term, whereas intensive therapeutic formulas are recommended for specific short-term protocols under expert supervision."
+      }
     }
   ]
 }

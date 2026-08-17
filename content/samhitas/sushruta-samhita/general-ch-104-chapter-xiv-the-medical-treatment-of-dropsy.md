@@ -20,17 +20,11 @@ This chapter from **Sushruta Samhita (Chikitsasthana)** represents the classical
 
 ---
 
-
 Sushruta Samhita, volume 4: Cikitsasthana
-
-by Kaviraj Kunja Lal Bhishagratna | 1911 | 123,229 words
 
 This current book, the Chikitsa-sthana (english translation), deals with therapeutics, surgical emergencies, geriatrics, aphrodisiacs and various other subjects.
 
 The Sushruta Samhita is the most representative work of the Hindu system of medicine. It embraces all that can possibly appertain to the science of medicine. Susruta-samhita is recognized...
-
-Go directly to: 
-Footnotes.
 
 Chapter XIV - The medical treatment of dropsy
 
@@ -130,10 +124,6 @@ Skilled physicians should prescribe boiled milk and the soup of the flesh of ani
 
 Thus ends the fourteenth Chapter in the Chikitsita Sthana of the Sushruta Samhita which deals with the treatment of Udara.
 
-Footnotes and references:
-
-[back to top]
-
 [1]:
 
 If this be not done, the patient is sure to die j but it is not certain whether he would get any relief from this treatment. It being, however, possible in some cases to save the life of a patient by the application of this medicine, it should be used, as the last resort with the permission of the king.—Dallana.
@@ -160,8 +150,6 @@ Dallana explains the sentence as follows:—
 
 Asavas, Arishtas and Suras should be prepared with urine (instead of the liquid i.e., water) and the milky exudation of Maha-vriksha (as an after-throw), and should be constantly used.
 
-Asavas, Arishtas and Suras should be prepared with urine (instead of the liquid i.e., water) and the milky exudation of Maha-vriksha (as an after-throw), and should be constantly used.
-
 [7]:
 
 Dropsical swelling of the abdomen owing to an enlargement of the spleen.
@@ -176,11 +164,7 @@ The use of water is forbidden during these nine months.
 
 “During the first six months, drinking, washing, etc., should be done with milk or the soup of Jangala animals. After this period, the said purposes should be served with half-diluted milk or meat-soup seasoned with the juice of acid fruits. Water may be used during the period of the next three ninths.”—Dallana.
 
-“During the first six months, drinking, washing, etc., should be done with milk or the soup of Jangala animals. After this period, the said purposes should be served with half-diluted milk or meat-soup seasoned with the juice of acid fruits. Water may be used during the period of the next three ninths.”—Dallana.
-
 Vagbhata following Charaka says: —
-
-“The patient should live only on milk for six months. After this period, he should live on porridge (Peya) boiled with milk; and for the next three months he should live on boiled Shyama-rice with milk, or with the soup of meat seasoned with the juice or acid fruits and mixed with clarified butter and a small quantity of salt.”
 
 “The patient should live only on milk for six months. After this period, he should live on porridge (Peya) boiled with milk; and for the next three months he should live on boiled Shyama-rice with milk, or with the soup of meat seasoned with the juice or acid fruits and mixed with clarified butter and a small quantity of salt.”
 

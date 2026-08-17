@@ -18,7 +18,6 @@ Language and terminology form the backbone of traditional Indian medicine. Every
 
 ---
 
-
 ### Key Sanskrit Terms starting with 'G' (Sample Preview)
 The following is an excerpt of classical Sanskrit terms starting with letter **G**:
 
@@ -57,7 +56,6 @@ The following is an excerpt of classical Sanskrit terms starting with letter **G
 </ul>
 
 *Browse all 859 authenticated terms under Letter G in the searchable directory above.*
-
 
 ---
 

@@ -20,10 +20,7 @@ This chapter from **Charaka Samhita (Vimanasthana)** addresses the foundational 
 
 ---
 
-
 Charaka Samhita (English translation)
-
-by Shree Gulabkunverba Ayurvedic Society | 1949 | 383,279 words | ISBN-13: 9788176370813
 
 The English translation of the Charaka Samhita (by Caraka) deals with Ayurveda (also ‘the science of life’) and includes eight sections dealing with Sutrasthana (general principles), Nidanasthana (pathology), Vimanasthana (training), Sharirasthana (anatomy), Indriyasthana (sensory), Cikitsasthana (therapeutics), Kalpasthana (pharmaceutics) and Sidd...
 

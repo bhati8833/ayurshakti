@@ -20,17 +20,11 @@ This chapter from **Sushruta Samhita (Chikitsasthana)** represents the classical
 
 ---
 
-
 Sushruta Samhita, volume 4: Cikitsasthana
-
-by Kaviraj Kunja Lal Bhishagratna | 1911 | 123,229 words
 
 This current book, the Chikitsa-sthana (english translation), deals with therapeutics, surgical emergencies, geriatrics, aphrodisiacs and various other subjects.
 
 The Sushruta Samhita is the most representative work of the Hindu system of medicine. It embraces all that can possibly appertain to the science of medicine. Susruta-samhita is recognized...
-
-Go directly to: 
-Footnotes.
 
 Chapter XXXI - The medicinal use of Sneha (oleaginous substances)
 
@@ -113,10 +107,6 @@ The good effects of Sneha-pana:—
 The blessings which attend a person who has duly taken a Sneha are improved digestive capacity, regular and satisfactory motions of the bowels, a growth of all the vital principles of the body, strength and firmness of the organs, improvement of complexion, a delayed old age and the enjoyment of a hundred summers on earth. The application of a Sneha is potent enough to increase the strength and the digestive capacity of a weak person suffering from impaired digestion, and a person having his health and digestive capacity recouped (by the use of a Sneha) does not yield to the evil effects of errors of diet. 54-55.
 
 Thus ends the Thirty-first Chapter in the Chikitsita Sthana of the Sushruta Samhita which deals with the treatment of the diseases where oleaginous medicines are useful.
-
-Footnotes and references:
-
-[back to top]
 
 [1]:
 

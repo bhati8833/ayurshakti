@@ -20,15 +20,9 @@ This chapter from **Sushruta Samhita (Sutrasthana)** represents the classical su
 
 ---
 
-
 Sushruta Samhita, volume 1: Sutrasthana
 
-by Kaviraj Kunja Lal Bhishagratna | 1907 | 148,756 words
-
 This current book, the Sutra-sthana (english translation), is the first part of this voluminous medical work. It contains a large summary of the knowledge envelopig the medical aspects of Ayurveda. Descriptions of diseases, various diets and drugs, the duties of a surgeon, surgical procedures, medical training; these are only some of the numerous s...
-
-Go directly to: 
-Footnotes.
 
 Chapter VI - Different seasons of the year
 
@@ -95,10 +89,6 @@ In autumn the sun’s rays assume a mellow golden tint. Masses of white clouds a
 The bodily humours such as wind, etc. are disturbed and aggravated by the contrariety, excess or variations in the characteristic features of the seasons. Hence it is prudent to check the deranged phlegm in spring, to conquer the deranged bile in autumn, and to subdue the deranged bodily wind in the rains, before they develop themselves in any patent or manifest bodily ailment.
 
 Thus ends the sixth chapter of the Sutrasthana in the Sushruta Samhita which treats of the characteristic features of the seasons and their influence on health and drugs.
-
-Footnotes and references:
-
-[back to top]
 
 [1]:
 

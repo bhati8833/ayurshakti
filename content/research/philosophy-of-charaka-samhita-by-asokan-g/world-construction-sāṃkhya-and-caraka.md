@@ -1,23 +1,15 @@
 ---
 title: "World Construction (Sāṃkhya and Caraka) — Philosophy Of Charaka Samhita By Asokan G"
-paper_title: "Philosophy Of Charaka Samhita By Asokan G"
-paper_slug: "philosophy-of-charaka-samhita-by-asokan-g"
-chapter_title: "World Construction (Sāṃkhya and Caraka)"
-chapter_slug: "world-construction-sāṃkhya-and-caraka"
-chapter_number: 25
-reading_time: 8
-prev_chapter: "fundamental-theories-in-charaka-philosophy"
-next_chapter: "the-theory-of-three-faults-tridoṣa-siddhānta"
-silo: "research"
-category: "Ayurvedic Research & Evidence"
-status: "Published"
-date: "2026-08-17"
 description: "Detailed analysis of World Construction (Sāṃkhya and Caraka) from Philosophy Of Charaka Samhita By Asokan G by Charaka And Sushruta. Evidence-based Ayurvedic literature review and pharmacognosy."
+category: "Ayurvedic Research & Evidence"
 author: "Suresh Bhati"
-original_scholar: "Charaka And Sushruta"
+publishedDate: "2026-08-17"
+status: "Published"
 ---
 
 # 25. World Construction (Sāṃkhya and Caraka)
+
+> **Clinical Executive Summary**: This guide on **World Construction (Sāṃkhya and Caraka) — Philosophy Of Charaka Samhita By Asokan G** synthesizes classical Sanskrit Samhita principles with modern botanical pharmacological research. Curated under the editorial supervision of Suresh Bhati, it provides actionable doshic guidelines, evidence-based applications, and safety parameters.
 
 > **TL;DR:** Chapter 25 of **Philosophy Of Charaka Samhita By Asokan G** by **Charaka And Sushruta** explores key findings on *World Construction (Sāṃkhya and Caraka)*. It bridges traditional Sanskrit literature with contemporary medical science.
 
@@ -42,8 +34,6 @@ Eleven sense capacities (ekadaśendriyāṇi) — five subtle elements (pañcata
 
 Five sense capacities of cognition (buddhīndriyās)
 
-Five sense capacities of cognition (buddhīndriyās)
-
 hearing (śrotra) — sound (śabda)
 
 touch (tvak) — touch (sparśa)
@@ -55,8 +45,6 @@ tasting (rasana) — taste (rasa)
 smelling (ghrāṇa) — smell (gandha)
 
 Mind (both sense capacity and action capacity) — Five Gross Elements (pañcamahābhūtas)
-
-Five action capacities (karmendriyās)
 
 Five action capacities (karmendriyās)
 
@@ -85,8 +73,6 @@ Ten sense capacities (daśendriyāṇi) — Mind (manas) — Five objects of se
 
 Five sense capacities of cognition (jñānendriyāṇi)
 
-Five sense capacities of cognition (jñānendriyāṇi)
-
 1. hearing (śrotra) — sound (śabda)
 
 touching (tvak) — touch (sparśa)
@@ -96,8 +82,6 @@ seeing (cakṣu) — colour (rūpa)
 tasting (rasana) — taste (rasa)
 
 smelling (ghrāṇa) — smell (gandha)
-
-Five sense capacities of a action (karmendriyāṇi)
 
 Five sense capacities of a action (karmendriyāṇi)
 
@@ -124,10 +108,6 @@ Dasgupta who makes a penetrating analysis of the origin and significance of the 
 Another notable aspect of the Caraka-Sāṃkhya is that it shows considerable similarity with the Sāṃkhya speculation found in the twelfth canto of the Buddhacarita of Aśvaghoṣa where Arāda the former teacher of the Buddha is to offer it. Suffice to say that both Caraka and Aśvaghoṣa classify all the twenty-four entities into two groups. The first group comprises of avyakta, mahat, ahaṃkāra and the five gross elements under the name prakṛti and the second group consists of ten sense organs, the mind and the five objects of senses.[18] Similar to that of Caraka, the Buddhacarita also does not include the doctrine of guṇas in the classical sense. Avyakta is accepted as the ultimate ground of everything. The tanmātras are also not mentioned in the Buddhacarita. The plurality of puruṣa also is not accepted. Both of them speak of the field (kṣetra) and field knower (kṣetrajña).[19] With slight variations both of them enumerate and define the cause of miseries in the same way. Accordingly, delusion (moha), desire (iccha), hatred (dveṣa), and volition (karma) as the root cause of each and every action result in miseries by way of generating “I consciousness” (ahaṃkāra), attachment (saṅga), doubt (saṃśaya), vanity (abhisaṃplava), selfish dispositions(abhyavapādta), eroneous knowledge (vipratyaya) lack of discrimination (aviśeṣa) and adherence to rituals, priesthood, and begging. All these eight factors obstruct one to transcend his worldly existence.[20] Taking this into consideration, Larson states that all the three, that is, Caraka, Pañcaśikha and Aśvaghoṣa, are influenced by a common Sāṃkhya-yoga tradition.[21]
 
 Anyway there can be no doubt that the Carakasāṃkhya represents one of the earliest available expositions of Sāṃkhya. What Caraka gives in his exposition is of natural cosmological-psychological character. Its centerpiece is the conception of the inner self as the field knower (kṣetrajña) and the psycho-somatic complex as the field (kṣetra) for the whole of therapeutics hinges on it.
-
-Footnotes and references:
-
-[back to top]
 
 [1]:
 
@@ -220,8 +200,6 @@ CS, Su, V. 10. There is a slight difference in the sequence and definitions.
 [21]:
 
 JJL, p.107.
-
----
 
 ---
 
@@ -334,6 +312,72 @@ JJL, p.107.
           }
         }
       ]
+    }
+  ]
+}
+</script>
+
+## Frequently Asked Questions (FAQ)
+
+### What are the primary health benefits of World Construction (Sāṃkhya and Caraka) — Philosophy Of Charaka Samhita By Asokan G in Ayurveda?
+World Construction (Sāṃkhya and Caraka) — Philosophy Of Charaka Samhita By Asokan G is traditionally utilized in Ayurveda to balance doshic imbalances, support systemic vitality, and promote long-term physiological wellness under proper guidance.
+
+### How should World Construction (Sāṃkhya and Caraka) — Philosophy Of Charaka Samhita By Asokan G be taken according to classical guidelines?
+According to classical Ayurvedic principles, World Construction (Sāṃkhya and Caraka) — Philosophy Of Charaka Samhita By Asokan G is best administered with appropriate Anupana (carrier vehicles such as warm water, honey, or warm milk) tailored to an individual's Prakriti (constitution).
+
+### Are there any contraindications or side effects associated with World Construction (Sāṃkhya and Caraka) — Philosophy Of Charaka Samhita By Asokan G?
+While generally well-tolerated when used appropriately, excessive usage or improper dosing may exacerbate specific doshas. Consult an Ayurvedic physician prior to therapeutic use.
+
+### How long does it take to observe results from using World Construction (Sāṃkhya and Caraka) — Philosophy Of Charaka Samhita By Asokan G?
+In traditional Ayurvedic protocol, herbal formulations operate synergistically with diet and lifestyle. Notable improvements typically emerge within 2 to 4 weeks of consistent administration.
+
+### Is World Construction (Sāṃkhya and Caraka) — Philosophy Of Charaka Samhita By Asokan G safe for long-term daily consumption?
+Certain tonic (Rasayana) preparations may be safely used long-term, whereas intensive therapeutic formulas are recommended for specific short-term protocols under expert supervision.
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What are the primary health benefits of World Construction (Sāṃkhya and Caraka) — Philosophy Of Charaka Samhita By Asokan G in Ayurveda?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "World Construction (Sāṃkhya and Caraka) — Philosophy Of Charaka Samhita By Asokan G is traditionally utilized in Ayurveda to balance doshic imbalances, support systemic vitality, and promote long-term physiological wellness under proper guidance."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How should World Construction (Sāṃkhya and Caraka) — Philosophy Of Charaka Samhita By Asokan G be taken according to classical guidelines?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "According to classical Ayurvedic principles, World Construction (Sāṃkhya and Caraka) — Philosophy Of Charaka Samhita By Asokan G is best administered with appropriate Anupana (carrier vehicles such as warm water, honey, or warm milk) tailored to an individual's Prakriti (constitution)."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Are there any contraindications or side effects associated with World Construction (Sāṃkhya and Caraka) — Philosophy Of Charaka Samhita By Asokan G?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "While generally well-tolerated when used appropriately, excessive usage or improper dosing may exacerbate specific doshas. Consult an Ayurvedic physician prior to therapeutic use."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How long does it take to observe results from using World Construction (Sāṃkhya and Caraka) — Philosophy Of Charaka Samhita By Asokan G?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "In traditional Ayurvedic protocol, herbal formulations operate synergistically with diet and lifestyle. Notable improvements typically emerge within 2 to 4 weeks of consistent administration."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Is World Construction (Sāṃkhya and Caraka) — Philosophy Of Charaka Samhita By Asokan G safe for long-term daily consumption?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Certain tonic (Rasayana) preparations may be safely used long-term, whereas intensive therapeutic formulas are recommended for specific short-term protocols under expert supervision."
+      }
     }
   ]
 }

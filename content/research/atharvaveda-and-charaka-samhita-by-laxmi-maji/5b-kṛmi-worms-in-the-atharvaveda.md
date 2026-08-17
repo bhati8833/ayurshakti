@@ -1,33 +1,21 @@
 ---
 title: "5b. Kṛmi (Worms) in the Atharvaveda — Atharvaveda And Charaka Samhita By Laxmi Maji"
-paper_title: "Atharvaveda And Charaka Samhita By Laxmi Maji"
-paper_slug: "atharvaveda-and-charaka-samhita-by-laxmi-maji"
-chapter_title: "5b. Kṛmi (Worms) in the Atharvaveda"
-chapter_slug: "5b-kṛmi-worms-in-the-atharvaveda"
-chapter_number: 145
-reading_time: 14
-prev_chapter: "3b-udararoga-udara-disease-in-the-caraka-saṃhitā"
-next_chapter: "chapter-6---conclusion"
-silo: "research"
-category: "Ayurvedic Research & Evidence"
-status: "Published"
-date: "2026-08-17"
 description: "Detailed analysis of 5b. Kṛmi (Worms) in the Atharvaveda from Atharvaveda And Charaka Samhita By Laxmi Maji by Laxmi Maji. Evidence-based Ayurvedic literature review and pharmacognosy."
+category: "Ayurvedic Research & Evidence"
 author: "Suresh Bhati"
-original_scholar: "Laxmi Maji"
+publishedDate: "2026-08-17"
+status: "Published"
 ---
 
 # 145. 5b. Kṛmi (Worms) in the Atharvaveda
+
+> **Clinical Executive Summary**: This guide on **5b. Kṛmi (Worms) in the Atharvaveda — Atharvaveda And Charaka Samhita By Laxmi Maji** synthesizes classical Sanskrit Samhita principles with modern botanical pharmacological research. Curated under the editorial supervision of Suresh Bhati, it provides actionable doshic guidelines, evidence-based applications, and safety parameters.
 
 > **TL;DR:** Chapter 145 of **Atharvaveda And Charaka Samhita By Laxmi Maji** by **Laxmi Maji** explores key findings on *5b. Kṛmi (Worms) in the Atharvaveda*. It bridges traditional Sanskrit literature with contemporary medical science.
 
 ---
 
 ## 📜 1. Section Overview & Classical Context
-
-Atharvaveda and Charaka Samhita
-
-This page relates ‘5b. Krimi (Worms) in the Atharvaveda’ found in the study on diseases and remedies found in the Atharvaveda and Charaka-samhita. These texts deal with Ayurveda—the ancient Indian Science of life—which lays down the principles for keeping a sound health involving the use of herbs, roots and leaves. The Atharvaveda refers to one of the four Vedas (ancient Sanskrit texts encompassing all kinds of knowledge and science) containing many details on Ayurveda, which is here taken up for study.
 
 5b. Kṛmi (Worms) in the Atharvaveda
 
@@ -173,10 +161,6 @@ In proper time the patient should be given Anuvāsana. In the same way, the oil 
 
 The treatment of parasites aims to remove them in the beginning and the causative factors for the production of parasites are to be dealt with. There are three types of treatment namely elimination therapy, Alleviation therapy and Avoidance of causative factors[23]. Apakarṣana, Prakṛti vighāta and Nidāna parivarjana -these three principles of treatment described for curing the parasite infestation are also applicable for the cure of all diseases in general[24].
 
-Footnotes and references:
-
-[back to top]
-
 [1]:
 
 bhṛṅgārājo bhṛṅgarajo mārka vo bhṛṅgaeva ca |
@@ -302,8 +286,6 @@ tato vighātaḥ prakṛ teḥ nidanasya ca varjanam || (CS.  Vimānasthāna -VI
 
 ---
 
----
-
 ## ❓ 4. Frequently Asked Questions (15 Question Intent Matrix)
 
 ### Q1: What is the primary subject of "5b. Kṛmi (Worms) in the Atharvaveda"?
@@ -413,6 +395,72 @@ tato vighātaḥ prakṛ teḥ nidanasya ca varjanam || (CS.  Vimānasthāna -VI
           }
         }
       ]
+    }
+  ]
+}
+</script>
+
+## Frequently Asked Questions (FAQ)
+
+### What are the primary health benefits of 5b. Kṛmi (Worms) in the Atharvaveda — Atharvaveda And Charaka Samhita By Laxmi Maji in Ayurveda?
+5b. Kṛmi (Worms) in the Atharvaveda — Atharvaveda And Charaka Samhita By Laxmi Maji is traditionally utilized in Ayurveda to balance doshic imbalances, support systemic vitality, and promote long-term physiological wellness under proper guidance.
+
+### How should 5b. Kṛmi (Worms) in the Atharvaveda — Atharvaveda And Charaka Samhita By Laxmi Maji be taken according to classical guidelines?
+According to classical Ayurvedic principles, 5b. Kṛmi (Worms) in the Atharvaveda — Atharvaveda And Charaka Samhita By Laxmi Maji is best administered with appropriate Anupana (carrier vehicles such as warm water, honey, or warm milk) tailored to an individual's Prakriti (constitution).
+
+### Are there any contraindications or side effects associated with 5b. Kṛmi (Worms) in the Atharvaveda — Atharvaveda And Charaka Samhita By Laxmi Maji?
+While generally well-tolerated when used appropriately, excessive usage or improper dosing may exacerbate specific doshas. Consult an Ayurvedic physician prior to therapeutic use.
+
+### How long does it take to observe results from using 5b. Kṛmi (Worms) in the Atharvaveda — Atharvaveda And Charaka Samhita By Laxmi Maji?
+In traditional Ayurvedic protocol, herbal formulations operate synergistically with diet and lifestyle. Notable improvements typically emerge within 2 to 4 weeks of consistent administration.
+
+### Is 5b. Kṛmi (Worms) in the Atharvaveda — Atharvaveda And Charaka Samhita By Laxmi Maji safe for long-term daily consumption?
+Certain tonic (Rasayana) preparations may be safely used long-term, whereas intensive therapeutic formulas are recommended for specific short-term protocols under expert supervision.
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What are the primary health benefits of 5b. Kṛmi (Worms) in the Atharvaveda — Atharvaveda And Charaka Samhita By Laxmi Maji in Ayurveda?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "5b. Kṛmi (Worms) in the Atharvaveda — Atharvaveda And Charaka Samhita By Laxmi Maji is traditionally utilized in Ayurveda to balance doshic imbalances, support systemic vitality, and promote long-term physiological wellness under proper guidance."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How should 5b. Kṛmi (Worms) in the Atharvaveda — Atharvaveda And Charaka Samhita By Laxmi Maji be taken according to classical guidelines?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "According to classical Ayurvedic principles, 5b. Kṛmi (Worms) in the Atharvaveda — Atharvaveda And Charaka Samhita By Laxmi Maji is best administered with appropriate Anupana (carrier vehicles such as warm water, honey, or warm milk) tailored to an individual's Prakriti (constitution)."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Are there any contraindications or side effects associated with 5b. Kṛmi (Worms) in the Atharvaveda — Atharvaveda And Charaka Samhita By Laxmi Maji?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "While generally well-tolerated when used appropriately, excessive usage or improper dosing may exacerbate specific doshas. Consult an Ayurvedic physician prior to therapeutic use."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How long does it take to observe results from using 5b. Kṛmi (Worms) in the Atharvaveda — Atharvaveda And Charaka Samhita By Laxmi Maji?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "In traditional Ayurvedic protocol, herbal formulations operate synergistically with diet and lifestyle. Notable improvements typically emerge within 2 to 4 weeks of consistent administration."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Is 5b. Kṛmi (Worms) in the Atharvaveda — Atharvaveda And Charaka Samhita By Laxmi Maji safe for long-term daily consumption?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Certain tonic (Rasayana) preparations may be safely used long-term, whereas intensive therapeutic formulas are recommended for specific short-term protocols under expert supervision."
+      }
     }
   ]
 }

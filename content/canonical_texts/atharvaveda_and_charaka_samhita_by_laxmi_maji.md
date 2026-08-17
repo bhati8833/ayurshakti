@@ -9,24 +9,9 @@ date: "2026-08-17"
 description: "study on diseases and remedies found in the Atharvaveda and Charaka-samhita."
 ---
 
-**Author / Source:** by Laxmi Maji
-
-
-**Total Chapters/Sections:** 147
-
 ---
 
 ## 1. Introduction to the Vedas
-
-
-Atharvaveda and Charaka Samhita
-
-by Laxmi Maji | 2021 | 143,541 words
-
-This page relates ‘Introduction to the Vedas’ found in the study on diseases and remedies found in the Atharvaveda and Charaka-samhita. These texts deal with Ayurveda—the ancient Indian Science of life—which lays down the principles for keeping a sound health involving the use of herbs, roots and leaves. The Atharvaveda refers to one of the four Vedas (ancient Sanskrit texts encompassing all kinds of knowledge and science) containing many details on Ayurveda, which is here taken up for study.
-
-Go directly to: 
-Footnotes.
 
 Introduction to the Vedas
 
@@ -73,10 +58,6 @@ In Yajurveda, we find little information about Āyurveda. We find some informati
 In Atharvaveda Āyurveda is called Bhaiṣaja or Bhiṣak Veda[12]. In Gopatha Brāhmaṇa the ‘Mantras’ of Atharvaveda are linked with that of Āyurveda and said to be ‘Atharvā’ is referred to as Bhaiṣaja[13]. In Śatapatha Brāhmaṇa in the explanation of a mantra of Yajurveda ‘Prāṇa’ is referred to as ‘Atharvā’. This means that ‘Prāṇa-Vidyā’ or life science is Ātharvaṇa-Vidyā[14]. The other name of Atharvaveda is Brahmaveda[15].
 
 According to Gopatha Brāhmaṇa -Brahma is therapeutic and signifying of Bhiṣakveda. That means that Atharva is that therapeutic which is nectar. Nectar is Brahma that means therapeutic and Brahma is the same[16]. According to Gopatha Brāhmaṇa Aṅgirasa has a relation between Āyurveda and Physiology where we find the theory is called organ juice. The juice that comes out of the limb is called Aṅgirasa. There is a detailed description of the Aṅgirasa in Gopatha Brāhmaṇa[17]. The union of body, lifelong treatment should be done to increase longevity. Lifespan should be treated. This treatment saves lives and gives a proper life, happy life is healing and healing is the Puruṣārtha-catuṣṭaya. i.e. Dharma, Artha, Kāma, Mokṣa are the main causes. This longevity is described in detail in Āyurveda. As long as there is consciousness, the body remains attached to the organs, body, soul, sense entity.
-
-Footnotes and references:
-
-[back to top]
 
 [1]:
 
@@ -151,13 +132,6 @@ etam aṅgarasaṃ santam aṅgirā ityacakṣate | Atharvaveda Gopatha Brahmana
 
 ## 2. Preface
 
-
-Atharvaveda and Charaka Samhita
-
-by Laxmi Maji | 2021 | 143,541 words
-
-This page relates ‘Preface’ found in the study on diseases and remedies found in the Atharvaveda and Charaka-samhita. These texts deal with Ayurveda—the ancient Indian Science of life—which lays down the principles for keeping a sound health involving the use of herbs, roots and leaves. The Atharvaveda refers to one of the four Vedas (ancient Sanskrit texts encompassing all kinds of knowledge and science) containing many details on Ayurveda, which is here taken up for study.
-
 Preface
 
 Āyurveda etymologically means “Knowledge of life science or generally speaking, up keeping a sound health”. In ancient and medieval times, when there were no health clinics or modern medical equipment, people used to treat their occasional and seasonal ailments with herbs, roots and leaves of various kinds of trees, grass, roots, fruits, flowers collected from their vicinity.
@@ -174,20 +148,9 @@ While carrying out this work I depended mainly on primary sources, as well as on
 
 I express my heart-felt gratitude to Dr. Ram Pramol Kumar, Assistant Professor in the Department of Sanskrit, Pali & Prakrit of Visva Bharati. My supervisor of this research work, under his active guidance and meticulous direction, I carried out this research work, and without his intellectual and moral support this work could not have been a reality.
 
-(Laxmi Maji)
-
-Research Scholar
-
 ---
 
 ## 3. Acknowledgement
-
-
-Atharvaveda and Charaka Samhita
-
-by Laxmi Maji | 2021 | 143,541 words
-
-This page relates ‘Acknowledgement’ found in the study on diseases and remedies found in the Atharvaveda and Charaka-samhita. These texts deal with Ayurveda—the ancient Indian Science of life—which lays down the principles for keeping a sound health involving the use of herbs, roots and leaves. The Atharvaveda refers to one of the four Vedas (ancient Sanskrit texts encompassing all kinds of knowledge and science) containing many details on Ayurveda, which is here taken up for study.
 
 Acknowledgement
 
@@ -206,20 +169,9 @@ I am would like to thank the University Grants Commission for providing me Rajiv
 
 Finally, I am really grateful to my loving parents, Swapan Kumar Maji and Mamata Maji; and my brother Aloke Nath Maji for their constant inspiration and encouragement. I do also give my special thanks to my dear friends Shahanaz Banu, Pousali Mondal, Rina Biswas, Anonya Das, Hasan Ahmad Khan, Sukanta Roy and Krishna Gopal Bal for their priceless support, love and motivation.
 
-(Laxmi Maji)
-
-Research Scholar
-
 ---
 
 ## 4. Chapter 1 - Introduction
-
-
-Atharvaveda and Charaka Samhita
-
-by Laxmi Maji | 2021 | 143,541 words
-
-This page relates ‘Introduction’ found in the study on diseases and remedies found in the Atharvaveda and Charaka-samhita. These texts deal with Ayurveda—the ancient Indian Science of life—which lays down the principles for keeping a sound health involving the use of herbs, roots and leaves. The Atharvaveda refers to one of the four Vedas (ancient Sanskrit texts encompassing all kinds of knowledge and science) containing many details on Ayurveda, which is here taken up for study.
 
 Chapter 1 - Introduction
 
@@ -228,13 +180,6 @@ Chapter 1 - Introduction
 ---
 
 ## 5. Bharadvāja (Āyurveda scholar)
-
-
-Atharvaveda and Charaka Samhita
-
-by Laxmi Maji | 2021 | 143,541 words
-
-This page relates ‘Bharadvaja (Ayurveda scholar)’ found in the study on diseases and remedies found in the Atharvaveda and Charaka-samhita. These texts deal with Ayurveda—the ancient Indian Science of life—which lays down the principles for keeping a sound health involving the use of herbs, roots and leaves. The Atharvaveda refers to one of the four Vedas (ancient Sanskrit texts encompassing all kinds of knowledge and science) containing many details on Ayurveda, which is here taken up for study.
 
 Bharadvāja (Āyurveda scholar)
 
@@ -252,25 +197,9 @@ Bharadvāja—IV (900 BC)–Kumāraśira Bharadvāja participated in the debate 
 
 ## 6. Introduction to Āyurveda
 
-
-Atharvaveda and Charaka Samhita
-
-by Laxmi Maji | 2021 | 143,541 words
-
-This page relates ‘Introduction to Ayurveda’ found in the study on diseases and remedies found in the Atharvaveda and Charaka-samhita. These texts deal with Ayurveda—the ancient Indian Science of life—which lays down the principles for keeping a sound health involving the use of herbs, roots and leaves. The Atharvaveda refers to one of the four Vedas (ancient Sanskrit texts encompassing all kinds of knowledge and science) containing many details on Ayurveda, which is here taken up for study.
-
-Go directly to: 
-Footnotes.
-
 Introduction to Āyurveda
 
 The word Āyurveda means authentic knowledge about life. Where Āyu means life and Veda means true knowledge. The etymology of the word ‘Āyurveda’ is–
-
-‘āyuṣaḥveda āyurvedaḥ |’
-‘āyurvedayatīti ayurvedaḥ |[1]
-‘āyurvidyate'neneti ayurvedaḥ’
-‘āyurvindati—asmānnitīva āyurvedaḥ |’
-‘āyurasminvidyate, anenavā āyurvindatītyayurvedaḥ |’[2].
 
 ‘āyuṣaḥveda āyurvedaḥ |’
 ‘āyurvedayatīti ayurvedaḥ |[1]
@@ -283,14 +212,9 @@ The word Āyurveda is derived from √vid. There are many types of Nirukti in Ā
 ‘satāyāṃvidyatejñānevettivintevicāraṇe |
 vindatevindatiprāptośyanlṛkṛśnaṃśāṣvid kramāt ||’[3]
 
-‘satāyāṃvidyatejñānevettivintevicāraṇe |
-vindatevindatiprāptośyanlṛkṛśnaṃśāṣvid kramāt ||’[3]
-
 The science which imparts knowledge of life is known as Āyurveda. The word Āyurveda is formed by the combination of Āyu and Veda. Āyurveda–Āyu(life) +
 
 Veda(authentic real knowledge).Where Āyu is the subject matter is called Āyurveda–
-
-‘āyurasminvidyate—ityayurvedaḥ |’
 
 ‘āyurasminvidyate—ityayurvedaḥ |’
 
@@ -298,11 +222,7 @@ Although knowledge of life is obtained, it is called Āyurveda -
 
 'āyurvidyatejñāyate—'neneti ayurvedaḥ | vedayatiitivedaḥ, āyurvedayato ityayurvedaḥ |’
 
-'āyurvidyatejñāyate—'neneti ayurvedaḥ | vedayatiitivedaḥ, āyurvedayato ityayurvedaḥ |’
-
 Again, the long and healthy life from which it is obtained is also called Āyurveda -
-
-‘anenavā''yurvindatiityayurvedaḥ |’
 
 ‘anenavā''yurvindatiityayurvedaḥ |’
 
@@ -317,17 +237,11 @@ According to Caraka-Saṃhitā-
 “hitāhitaṃsukhaṃduḥkhamāyustasyahitāhitam |
 mānaṃcataccayatroktamāyurvedaḥsaucyate ||”[4]
 
-“hitāhitaṃsukhaṃduḥkhamāyustasyahitāhitam |
-mānaṃcataccayatroktamāyurvedaḥsaucyate ||”[4]
-
 That science is termed Āyurveda which describes good and bad, happy and unhappy life, its promoters and non-promoters, its measures and life itself. Human life aims to attain Dharma, Artha, Kāma and Mokṣa and without sound health, it is impossible to accomplish such status so for Āyurveda is the study of elemental and execution units of the human body. According to Suśruta the beneficial and detrimental theories of life are judged and that which gives longevity is called Āyurveda. Āyurveda aims at preserving health where health is defined as the equilibrium of doṣa, dhātu, mala, Agni, manas and Ātmā[5].
 
 The Āyu is a complex structure formed by the congregation of Śarīra, Indriya, Sattva and Ātma. Śarīra (body) is formed of Pañcabhūta, they are Pṛthvī, Jala, Tejas, Vāyu and Ākāśa. Indriyas (sensory and motor organs) are responsible for sensory perceptions and different functions. Sattva (mind or manas) is formed of triguṇas known as Sattva, Rajas and Tamas. Ātma (soul) is the inherent part of the body responsible for jīva or caitaṇya.
 
 Caraka-Saṃhitā says that–
-
-“śarīrendriyasattvātmasaṃyogodhārijīvitam |
-nityagaścānuvandhaścaparyāyairāyurucyate ||”[6]
 
 “śarīrendriyasattvātmasaṃyogodhārijīvitam |
 nityagaścānuvandhaścaparyāyairāyurucyate ||”[6]
@@ -346,8 +260,6 @@ Source: A Text Book of Padartha Vijnana Evam Ayurveda Itihasa
 
 ‘prayojanaṃ cāsya svasthasya svāsthya-rakṣaṇamāturasya vikāra-praśamanaṃ ca |’[8]
 
-‘prayojanaṃ cāsya svasthasya svāsthya-rakṣaṇamāturasya vikāra-praśamanaṃ ca |’[8]
-
 There are two requirements for Ayurvedic medicine -firstly, pleasure and the advice of medicine and healing. By adopting healthy men can maintain their health and longevity of life. Secondly, because of unwholesome food, Bihāra or enjoyment, men are diseased or sick, and the treatment by which men are cured is advised. The sages advised Āyurveda, mainly for healing and curing diseases. Staying healthy is essential for Dharma, Artha, Kāma and Mokṣa.
 
 If there is ever a disease, then the only goal of medical science is to eradicate it–
@@ -355,15 +267,9 @@ If there is ever a disease, then the only goal of medical science is to eradicat
 ‘dharmārtha-kāma-mokṣāṇāmārogyaṃ mṛtamuttamam |
 rogāstasyāpahartāraḥ śreyaso jīvitasya ca |’[9]
 
-‘dharmārtha-kāma-mokṣāṇāmārogyaṃ mṛtamuttamam |
-rogāstasyāpahartāraḥ śreyaso jīvitasya ca |’[9]
-
 The second requirement of Āyurveda is that the knowledge of the symptoms of the sick condition is first and foremost necessary for the relief of the disease spread in the eight parts of the entire Āyurveda. The reason for this is that the diagnosis of the disease is made knowing the condition and the treatment accordingly. It is also necessary to know the signs of distortion while performing the rules of a healthy circle. This knowledge helps to bring men back to the path of a healthy circle and maintain health.
 
 Ācārya Suśruta says–
-
-‘iha khalvāyurveda-prayojanaṃ vyādhyupasṛṣṭānau |
-vyādhi-parimokṣaḥ, svasthasya rakṣaṇaṃ ca ||’[10]
 
 ‘iha khalvāyurveda-prayojanaṃ vyādhyupasṛṣṭānau |
 vyādhi-parimokṣaḥ, svasthasya rakṣaṇaṃ ca ||’[10]
@@ -416,10 +322,6 @@ Origin of Kāśyapa tradition–from Kāśyapa school of Āyurveda a popular Sa�
 
 [Fig. 2: Creation History of the Āyurveda]
 [Ancient Era—āyurvedāvataraṇa][21]
-
-Footnotes and references:
-
-[back to top]
 
 [1]:
 
@@ -511,16 +413,6 @@ Dr. Vidyadhar Sukla & Dr. Ravidatta Tripathi, Ayurveda Ka Itihasa Evam Paricaya,
 
 ## 7. Āyurveda and the Vedas
 
-
-Atharvaveda and Charaka Samhita
-
-by Laxmi Maji | 2021 | 143,541 words
-
-This page relates ‘Ayurveda and the Vedas’ found in the study on diseases and remedies found in the Atharvaveda and Charaka-samhita. These texts deal with Ayurveda—the ancient Indian Science of life—which lays down the principles for keeping a sound health involving the use of herbs, roots and leaves. The Atharvaveda refers to one of the four Vedas (ancient Sanskrit texts encompassing all kinds of knowledge and science) containing many details on Ayurveda, which is here taken up for study.
-
-Go directly to: 
-Footnotes.
-
 Āyurveda and the Vedas
 
 The Vedic mantras are theistic. There is a deity in every Sūkta. The deity in which the Sūkta has been prayed for and he is the God of that Sūkta. Thus, the Gods Agni. Ap etc. were equal to the Gods Rudra, Indra, etc., and with them were Asvini twins with treatment. The Aśvin twin treated the Gods. In Āyurveda, the names of many gods and goddesses are found in the Vedas. Among them, Aśvin and Rudra were the chiefs.
@@ -589,10 +481,6 @@ Vāyu also occupies an important place among the medical deities. In the Vedas, 
 
 In the Ṛgveda, the heavens and the earth are separated by Ṛbhus and descriptions of handicrafts are found. The Ṛbhus provided the youth of their worn-out parents. Descriptions of Ṛbhus are found only in Vedas, not in Āyurveda. Reverence and faith in the gods for healing was largely a symbolic sign in the thinking of Indian culture that the maximum benefit of human beings is possible through the proper use and cooperation of natural forces.
 
-Footnotes and references:
-
-[back to top]
-
 [1]:
 
 ‘iha khalu āyurvedo nāma yadupāṅgamatharvavedasya anutpādyeva prajāḥ ślokaśatasahasramadhyāyasahasraṃ kṛtavān svayambhūḥ |’ (S. Sū–1/5); Dr. Anant Ram Sharma (ed.), Suśruta Saṃhitā of Maharṣi Suśruta -Vol. I, Varanasi, Chaukhamba Surbharati Prakashan, 2018, p. 4. ‘svayambhūrbrahmā prajāḥ sisṛkṣuḥ prajānāṃ paripālanārtham āyurvedameva agre'sṛjata sarvāvit tato viśvāni bhūtāni |’ (Kā. Vi. –1/10); Kāśyapa Saṃhitā by Vṛddha Jīvaka with the Vidyotani Hindi Commentary, trans. Satyapāla Bhiṣgāchārya, Varanasi, Chaukhambha Sanskrit Sansthan, 2018, pp. 89. ‘brahmā smṛtvā''yuṣyo vedaṃ prajāpatimajigrahat |’ (Aṣṭā. H Sū. –1/3); Aṣṭāṅga Hṛdayaṃ of Vāgbhaṭṭa Vol. I, trans. K. R. Srikantha Murthy, Varanasi, Chaukhambha Krishnadas Academy, 2018, p. 4.
@@ -653,13 +541,6 @@ Anup Kumar Gakkhara & Anil Gakkhara, Āyurveda Kā Itihāsa, Varanasi, Chaukhamb
 
 ## 8. Ātreya (Āyurveda scholar)
 
-
-Atharvaveda and Charaka Samhita
-
-by Laxmi Maji | 2021 | 143,541 words
-
-This page relates ‘Atreya (Ayurveda scholar)’ found in the study on diseases and remedies found in the Atharvaveda and Charaka-samhita. These texts deal with Ayurveda—the ancient Indian Science of life—which lays down the principles for keeping a sound health involving the use of herbs, roots and leaves. The Atharvaveda refers to one of the four Vedas (ancient Sanskrit texts encompassing all kinds of knowledge and science) containing many details on Ayurveda, which is here taken up for study.
-
 Ātreya (Āyurveda scholar)
 
 Ātreya (900 BC)—Ātreya was the greatest scholar of Kāya Cikitsā in Āyurveda and Vedic literature. He was the son of sage Atri. He learned the science of Āyurveda from Bharadvāja (directly from Indra as per another concept) and taught to his six disciples known as Agniveśa, Bhela, Hārīta, Parāśara, Jatukarṇa and Kṣārapāṇi. He is known as Bhagavāna Ātreya, Punarvasu Ātreya, Kṛṣṇātreya and Candrabhāgā. All the names mentioned above are synonyms of Ātreya. His famous book name is Āyurveda. This proof we find in the book of Aṣṭāṅga Āyurveda commentary.
@@ -669,13 +550,6 @@ Bhikṣu Ātreya (700 BC)—He was a different person. He was a Buddhist, a repu
 ---
 
 ## 9. Dhanvantari (Āyurveda scholar)
-
-
-Atharvaveda and Charaka Samhita
-
-by Laxmi Maji | 2021 | 143,541 words
-
-This page relates ‘Dhanvantari (Ayurveda scholar)’ found in the study on diseases and remedies found in the Atharvaveda and Charaka-samhita. These texts deal with Ayurveda—the ancient Indian Science of life—which lays down the principles for keeping a sound health involving the use of herbs, roots and leaves. The Atharvaveda refers to one of the four Vedas (ancient Sanskrit texts encompassing all kinds of knowledge and science) containing many details on Ayurveda, which is here taken up for study.
 
 Dhanvantari (Āyurveda scholar)
 
@@ -689,13 +563,6 @@ There are three Dhanvantari and there are different books like–First Dhanvanta
 
 ## 10. Kāśyapa and Jīvaka (Āyurveda scholars)
 
-
-Atharvaveda and Charaka Samhita
-
-by Laxmi Maji | 2021 | 143,541 words
-
-This page relates ‘Kashyapa and Jivaka (Ayurveda scholars)’ found in the study on diseases and remedies found in the Atharvaveda and Charaka-samhita. These texts deal with Ayurveda—the ancient Indian Science of life—which lays down the principles for keeping a sound health involving the use of herbs, roots and leaves. The Atharvaveda refers to one of the four Vedas (ancient Sanskrit texts encompassing all kinds of knowledge and science) containing many details on Ayurveda, which is here taken up for study.
-
 Kāśyapa and Jīvaka (Āyurveda scholars)
 
 Kāśyapa—He is the propounder of the Kāśyapa tradition of Āyurveda. His treatise is named as Kāśyapa Saṃhitā. Maharṣi Kāśyapa studied the science of Āyurveda from Indra and taught the same to his disciples.
@@ -708,25 +575,11 @@ At the starting of Kaliyuga, one copy of Vṛddha Jīvaka Tantra was preserved b
 
 ## 11. Agniveśa (Āyurveda scholars)
 
-
-Atharvaveda and Charaka Samhita
-
-by Laxmi Maji | 2021 | 143,541 words
-
-This page relates ‘Agnivesha (Ayurveda scholars)’ found in the study on diseases and remedies found in the Atharvaveda and Charaka-samhita. These texts deal with Ayurveda—the ancient Indian Science of life—which lays down the principles for keeping a sound health involving the use of herbs, roots and leaves. The Atharvaveda refers to one of the four Vedas (ancient Sanskrit texts encompassing all kinds of knowledge and science) containing many details on Ayurveda, which is here taken up for study.
-
-Go directly to: 
-Footnotes.
-
 Agniveśa (Āyurveda scholars)
 
 There are eight sects in Āyurveda i.e. Ātreya, Dhanvantari, Śālākya, Bhūtavidyā, Kaumārbhṛtya, Agadatantra, Rasāyanatāntrika and Vājīkaraṇatāntrika. The most important books in Āyurveda after Atharvaveda are Maharṣi Agniveśa compiled the advice of Ātreya to create Agniveśatantra which was farther reformed by Caraka to composed Caraka-Saṃhitā.
 
 Agniveśa was the most intelligent disciple of Punarvasu Ātreya. He was one among the six disciples of Ātreya. The methodology of teachings of Punarvasu Ātreya shows the clarifications by Ātreya to the questions raised by Agniveśa which proves the priority of Agniveśa among the six disciples of Ātreya. His period maybe 1000 BC.  Agniveśa was the son of Devadatta. He was also called Hutāsa, Hutāsaveśa, Vahniveśa. Bhāgavat Purāṇa mentions him as the incarnation of God Agni. Agniveśa was the first man who composed a treatise known as Agniveśa Tantra in twelve thousand verses, eight divisions, one hundred twenty chapters but the original Agniveśa Tantra is not available now. It was revised by Caraka divided by Dṛḍhavala and available as Caraka-Saṃhitā, a popular book of General medicine. In total forty-one chapters are seventeen from cikitsā sthāna, twelve Kalpa sthāna, twelve Siddhi sthāna. Forty-one chapters were lost from Agniveśa Tantra. Formulations attributed to Agniveśa–Caṅgeri ghṛta, Vasādya ghṛta, Śataphala ghṛta, Tiktaka ghṛta, Mahātiktaka ghṛta, Tṛṣṇādya ghṛta. Works of Agniveśa–Agniveśa Tantra, Añjana Nidāna, Nidāna Sthāna, Nādi Parīkṣā, Rāmāyaṇa Rahasya, Rāmāyaṇa Śataśloki[1].
-
-Footnotes and references:
-
-[back to top]
 
 [1]:
 
@@ -736,25 +589,11 @@ Dr. Dingari Lakshmana Chary, A Text Book of Padartha Vijnana Evam Ayurveda Itiha
 
 ## 12. Hārīta (Āyurveda scholar)
 
-
-Atharvaveda and Charaka Samhita
-
-by Laxmi Maji | 2021 | 143,541 words
-
-This page relates ‘Harita (Ayurveda scholar)’ found in the study on diseases and remedies found in the Atharvaveda and Charaka-samhita. These texts deal with Ayurveda—the ancient Indian Science of life—which lays down the principles for keeping a sound health involving the use of herbs, roots and leaves. The Atharvaveda refers to one of the four Vedas (ancient Sanskrit texts encompassing all kinds of knowledge and science) containing many details on Ayurveda, which is here taken up for study.
-
-Go directly to: 
-Footnotes.
-
 Hārīta (Āyurveda scholar)
 
 Hārīta–He was one of six disciples of Punarvasu Ātreya, contemporary to Agniveśa, Bhela etc., scholars. He composed a treatise named Hārīta Saṃhitā, the original book is not available and the available book appears to be written in the tenth to the eleventh AD.
 
 The name Hārīta was quoted in may famous medical treatises like Tattva-Candrikā, Tattva-Pradīpikā, Bhāva-Prakāśa, Caraka-Saṃhitā, Suśruta-Saṃhitā etc. Hārīta Saṃhitā consists of seven Sthāna and one hundred three chapters as follows: Vaidyaguṇa- doṣa, Śāstra Reading Rules, Vaidyaka sarvasva, Vaidya śikṣā, Ṛtucaryā, Doṣaprakopa, ṣaḍarasa, Jalavarga, Trivarga, Mūvarga, Ikṣuvarga, Kāñjikavarga, Maṇḍavarga, Yūṣavarga, Tailabasāvarga, Dhyānavarga, Śākavarga, Phalavarga, Madhuvarga, Madhyavarga, Catuṣpada-meat-Varga, Jalacara-meat-Varga, Sthalacarameat- Varga, Anyāpana -Varga etc. The second sthāna consists of nine chapters. This sthāna described Pāpadoṣa pratikāra, Svapnādhyāya, Svāsthyāriṣṭa, Vyādhyariṣṭā, Pañca-indriya-bikāra, Nakṣatra jñāna, Homabidhi, Dūtaparīkṣā, description of Śakūna etc. The third sthāna consists of fifty-eight chapters described this sthāna are herbal medicine, diagnosis of fever, Atisāra Virecana, Gulma, Kṛmi, different types of fire and diagnosis, Śūla, Pāṇḍuroga, erosion, hemoptysis, haemorrhoids, cough, Kṛṣṇā-tālu defect, fainting, sleep, Madātyaya, Dāharoga, Apasmāra, Unmāda, Vātavyādhi, Āmavāta, Dṛghnasi, Vātarakta, Amlabṛtta, Śoka, Gulma, Jalodara, Prameha, Mūtrakṛccha, Mūtrarodha, Aśmarī, Mūtrabṛddhi, Bisarpa, Upasarpa, Braṇa, Ślīpada, Arbudha, Lūtāgaṇḍamālā, Kuṣṭha, Urdhvajatru, Gataroga, Śiroroga, Bhrūroga, Nasal Disease, Indralupta, Ear Disease, Eye Disease, Oral Disease, Bajīkaraṇa, Strīroga bibecana, gynaecology, Hrallasi, Chardi etc., treatment of the eight infestations of the pregnant woman, stupid pregnancy treatment, Sūtikāroga treatment, Bālaroga Treatment, Bhūtavidyā, Biṣatantra, fracture treatment, and burn treatment etc. The fourth sthāna consists of six chapters. This sthāna described are–Tulāmāna-Bidhi, Tailapāka-Bidhi, Niruha-Bastikarma-Bidhi, Svedana-Bidhi, Raktābasecana-Bidhi, Jalokābacāra-Bidhi, etc. The fifth sthāna consists of five chapters. This sthāna described are-Harītakīkalpa, Triphalākalpa, Rasonakalpa, Gugulukalpa etc. The sixth sthāna consists of one chapter and Pariśiṣṭa sthāna consists of one chapter[1].
-
-Footnotes and references:
-
-[back to top]
 
 [1]:
 
@@ -764,25 +603,11 @@ Kaviraj Vagishwar Shukla, History of Ayurveda, Varanasi, Chaukhamba Amarabharati
 
 ## 13. Jatukarṇa (Āyurveda scholar)
 
-
-Atharvaveda and Charaka Samhita
-
-by Laxmi Maji | 2021 | 143,541 words
-
-This page relates ‘Jatukarna (Ayurveda scholar)’ found in the study on diseases and remedies found in the Atharvaveda and Charaka-samhita. These texts deal with Ayurveda—the ancient Indian Science of life—which lays down the principles for keeping a sound health involving the use of herbs, roots and leaves. The Atharvaveda refers to one of the four Vedas (ancient Sanskrit texts encompassing all kinds of knowledge and science) containing many details on Ayurveda, which is here taken up for study.
-
-Go directly to: 
-Footnotes.
-
 Jatukarṇa (Āyurveda scholar)
 
 Jatukarṇa–He was one of the six disciples of Punarvasu Ātreya. His period maybe 1000 BC.  He wrote a treatise known as Jatukarṇa Tantra but it is not available now, it was available at the time of Cakrapāṇi.
 
 Jejjata, Cakrapāṇi, Dalhaṇa, Arunadatta, Vijayarakṣita, Śrīkaṇṭhadatta, Śivadās Sen etc. Ācāryas quoted the reference of Jatukarṇa which proves that he was a great scholar of Āyurveda. As per the reference of Śatapatha-Brāhmaṇa, Jatukarṇa was the pro-pounder of Brāhmavidyā[1].
-
-Footnotes and references:
-
-[back to top]
 
 [1]:
 
@@ -791,16 +616,6 @@ Anup Kumar Gakkhara & Anil Gakkhara, Āyurveda Kā Itihāsa, Varanasi, Chaukhamb
 ---
 
 ## 14. Bhela and Bhela Saṃhitā
-
-
-Atharvaveda and Charaka Samhita
-
-by Laxmi Maji | 2021 | 143,541 words
-
-This page relates ‘Bhela and Bhela Samhita’ found in the study on diseases and remedies found in the Atharvaveda and Charaka-samhita. These texts deal with Ayurveda—the ancient Indian Science of life—which lays down the principles for keeping a sound health involving the use of herbs, roots and leaves. The Atharvaveda refers to one of the four Vedas (ancient Sanskrit texts encompassing all kinds of knowledge and science) containing many details on Ayurveda, which is here taken up for study.
-
-Go directly to: 
-Footnotes.
 
 Bhela and Bhela Saṃhitā
 
@@ -822,10 +637,6 @@ The name of the first chapter in the Cikitsāsthāna is ‘Ekādaśaspiṣkādhy
 
 There are six chapters in Kalpasthāna. Namely-Madan, Ikṣvāku, Dhāmārgaba, Kūṭaja, Caturaṅgula, Dantīphala Śaṅkhinī, and Śyāmātribṛta. The name of the first to eighth chapters of Siddhisthāna is 'Vamanavirecana’, ‘Śirovirecanasiddhi’, ‘Daśavyāpadīyavamana-Virecanasiddhi’, ‘Bastimātrīyasiddhi’, ‘Upakalpasiddhi’ ‘Phalamātrāsiddhi’, ‘Daśabyāpaṭikā āsthāpanānuvāsana Siddhi. The rest of the chapters of Kalpa and Siddhi places are fragmented[1].
 
-Footnotes and references:
-
-[back to top]
-
 [1]:
 
 Kaviraj Vagishwar Shukla, History of Ayurveda, Varanasi, Chaukhamba Amarabharati Prakashan, 2016, pp. 59-66.
@@ -834,23 +645,9 @@ Kaviraj Vagishwar Shukla, History of Ayurveda, Varanasi, Chaukhamba Amarabharati
 
 ## 15. Parāśara (Āyurveda scholar)
 
-
-Atharvaveda and Charaka Samhita
-
-by Laxmi Maji | 2021 | 143,541 words
-
-This page relates ‘Parashara (Ayurveda scholar)’ found in the study on diseases and remedies found in the Atharvaveda and Charaka-samhita. These texts deal with Ayurveda—the ancient Indian Science of life—which lays down the principles for keeping a sound health involving the use of herbs, roots and leaves. The Atharvaveda refers to one of the four Vedas (ancient Sanskrit texts encompassing all kinds of knowledge and science) containing many details on Ayurveda, which is here taken up for study.
-
-Go directly to: 
-Footnotes.
-
 Parāśara (Āyurveda scholar)
 
 Parāśara–According to the Tāṇḍya Brāhmaṇa and Jaiminīya texts, Parāśara's son was Kṛṣṇadvaipāyana Veda Vyāsa, the pioneer of the Mahābhārata. Parāśara was one of the disciples of Punarvasu Ātreya and was contemporary of Agniveśa. He wrote Parāśara Saṃhitā but it is not available. His period maybe 1000 BC.  In the treatise of HastiĀyurveda, it is stated that the sages were invited by Romapāda to learn Hasti-Āyurveda under Parāśara. The treatise takra Kalpa also attributed to him. Vāgbhaṭṭa, Ḍalhaṇa, Cakrapāṇi, Hemādri etc., quoted his name in their works. Suśruta while describing the process of development of foetus quoted the according to Parāśara umbilicus was the first organ formed in the foetus. The opinion of Parāśara was quoted regarding the quantity of vasti products and saṃkhyā. While describing Bipāka, Vāgbhaṭṭa quoted the opinion of Parāśara. Cakrapāṇi also quoted the opinion of Parāśara regarding the transformation of tissues. All we know about Parāśara only by the cross-references of other sages[1].
-
-Footnotes and references:
-
-[back to top]
 
 [1]:
 
@@ -859,16 +656,6 @@ Dingari Lakshmana Chary, A Text Book of Padartha Vijnana Evam Ayurveda Itihasa, 
 ---
 
 ## 16. History of Āyurveda
-
-
-Atharvaveda and Charaka Samhita
-
-by Laxmi Maji | 2021 | 143,541 words
-
-This page relates ‘History of Ayurveda’ found in the study on diseases and remedies found in the Atharvaveda and Charaka-samhita. These texts deal with Ayurveda—the ancient Indian Science of life—which lays down the principles for keeping a sound health involving the use of herbs, roots and leaves. The Atharvaveda refers to one of the four Vedas (ancient Sanskrit texts encompassing all kinds of knowledge and science) containing many details on Ayurveda, which is here taken up for study.
-
-Go directly to: 
-Footnotes.
 
 History of Āyurveda
 
@@ -950,10 +737,6 @@ Pathogenesis and prognosis of some important diseases coming within the realm of
 
 The Atharvaveda describes four types of treatment. Namely Ātharvaṇī Cikitsā, Āṅgirasī Cikitsā, Daivī Cikitsā, and Mānavī Cikitsā. The Vedas describe ways to stay healthy, e.g., five healer element, consumption of pure and unblemished food, rules of eating, do not stop the velocity of stool urine, preventing Tridoṣaja disorders, adopt the Sāttvika ideas, be happy, avoiding sins and bad deeds, keep the body strong and getting up before sunrise. The ways to gain longevity are as follows–avoiding Rajoguṇa and Tamoguṇa; adopt the truth; restraint of life and Apāna śakti; relinquishment of anxiety; gain power from sun and wind; prāṇaśakti with fire; abandonment and misery; drug intake; sun, moon and medicines; renounce ignorance and adopt the path of knowledge; will power and spiritual force; use of pure water; and gem and gemstone holding[12].
 
-Footnotes and references:
-
-[back to top]
-
 [1]:
 
 Dingari Lakshmana Chary, A Text Book of Padartha Vijnana Evam Ayurveda Itihasa, Delhi, Chaukhamba Sanskrit Pratishthan, 2017, pp. 300-303.
@@ -1009,23 +792,9 @@ K. D. Dvivedi, Medical Science in the Vedas, Uttar Pradesh, Visvabharati Researc
 
 ## 17. Kṣārapāṇi (Āyurveda scholar)
 
-
-Atharvaveda and Charaka Samhita
-
-by Laxmi Maji | 2021 | 143,541 words
-
-This page relates ‘Ksharapani (Ayurveda scholar)’ found in the study on diseases and remedies found in the Atharvaveda and Charaka-samhita. These texts deal with Ayurveda—the ancient Indian Science of life—which lays down the principles for keeping a sound health involving the use of herbs, roots and leaves. The Atharvaveda refers to one of the four Vedas (ancient Sanskrit texts encompassing all kinds of knowledge and science) containing many details on Ayurveda, which is here taken up for study.
-
-Go directly to: 
-Footnotes.
-
 Kṣārapāṇi (Āyurveda scholar)
 
 Kṣārapāṇi was one of the six disciples of Punarvasu Ātreya. He composed a treatise known as Kṣārapāṇi Saṃhitā but the original book is not available. Vijay Rakṣita in his Madhukoṣa-vyākhyā quoted the prognosis of Śotha taken from Kṣārapāṇi Saṃhitā. Suśruta quoted the. Features of Balāsa Jvara taken from Kṣārapāṇi Saṃhitā. Vāgbhaṭṭa quoted the name of Kṣārapāṇi while describing Rakta-gulma. Śivadās Sen quoted pippalyādi-leha for the treatment of Pittaja and Kṣayaja kāsa taken from Kṣārapāṇi Saṃhitā. Many other Ācāryas also quoted the name of Kṣārapāṇi Saṃhitā in their texts[1].
-
-Footnotes and references:
-
-[back to top]
 
 [1]:
 
@@ -1035,23 +804,9 @@ Sri Baladev Upadhyaya & Srinivasa Rath (eds.) Sanskrit-Vāṅmaya Kā Bṛhad It
 
 ## 18. Varāhamihira (Āyurveda scholar)
 
-
-Atharvaveda and Charaka Samhita
-
-by Laxmi Maji | 2021 | 143,541 words
-
-This page relates ‘Varahamihira (Ayurveda scholar)’ found in the study on diseases and remedies found in the Atharvaveda and Charaka-samhita. These texts deal with Ayurveda—the ancient Indian Science of life—which lays down the principles for keeping a sound health involving the use of herbs, roots and leaves. The Atharvaveda refers to one of the four Vedas (ancient Sanskrit texts encompassing all kinds of knowledge and science) containing many details on Ayurveda, which is here taken up for study.
-
-Go directly to: 
-Footnotes.
-
 Varāhamihira (Āyurveda scholar)
 
 Varāhamihira—Although Ācārya Varāhamihira was a scholar of astrology. Yet he did a little subtle study of Āyurveda. He described all the sections of Vṛkṣāyurveda, Hastāyurveda [Hastyāyurveda], Aśvāyurveda etc., in a very meticulous study. King Vikramāditya of Varāhamihira was one of the jewels of the Navaratna Sabhā. One of his books on astrology is Vṛhatsaṃhitā. It is written in the epilogue chapter of the Bṛhat-Jātaka, the abode of Varāhamihira was Avantī and he was enlightened by Kāpithyaka with the blessings of Lord Sun. Varāhamihira gave an example of a verse from Vāgbhaṭṭa. From this, it appears that the advent of Varāhamihira is approximately the fifth century after Vāgbhaṭṭa. His expertise in the three branches of astrology is found in mathematical astrology, applied astrology and Saṃhitā[1].
-
-Footnotes and references:
-
-[back to top]
 
 [1]:
 
@@ -1061,23 +816,9 @@ Sri Baladev Upadhyaya & Srinivasa Rath (eds.) Sanskrit-Vāṅmaya Kā Bṛhad It
 
 ## 19. Suśruta (Āyurveda scholar)
 
-
-Atharvaveda and Charaka Samhita
-
-by Laxmi Maji | 2021 | 143,541 words
-
-This page relates ‘Sushruta (Ayurveda scholar)’ found in the study on diseases and remedies found in the Atharvaveda and Charaka-samhita. These texts deal with Ayurveda—the ancient Indian Science of life—which lays down the principles for keeping a sound health involving the use of herbs, roots and leaves. The Atharvaveda refers to one of the four Vedas (ancient Sanskrit texts encompassing all kinds of knowledge and science) containing many details on Ayurveda, which is here taken up for study.
-
-Go directly to: 
-Footnotes.
-
 Suśruta (Āyurveda scholar)
 
 Suśruta—Agniveśa was such the greatest among the disciples of Punarbasu Ātreya; Similarly, Suśruta was one of the disciples of Divodāsa Dhanvantari. Maharṣi Suśruta was one of the twelfth disciples of Dhanvantari. The name of his book is 'Suśrutatantra'. Which was later revised by Nāgārjuna to become known as the Suśruta Saṃhitā. The fourth chapter of the Anuśāsana-Parva of the Mahābhārata tells of Suśruta, the son of Maharṣi Viśvāmitra, an expert in surgery and a disciple of Dhanvantari. At the behest of Devarāja Indra, the Āyurvedic scholar Dhanvantari was born in Kāśīdhāma of Āyurveda and was born as a Kṣatriya named Divodāsa. When Viśvāmitra found out about it in meditation, he gave his son Suśruta there to study Āyurveda. Later, Suśruta's work was reformed by Nāgārjuna and became known as Suśruta-Saṃhitā. Again, according to many scholars, the two Suśrutas are said to be an old Suśruta and the second Suśruta to be among the disciples of Divodāsa. Old Suśruta was the first to be counted, who composed the original 'Suśrutatantra'. Then the second Suśruta reshaped him and gave him a new look. This Suśruta is the son of Viśvāmitra. The Suśruta Saṃhitā, compiled by Suśruta, was composed between the fifth and sixth centuries BC. According to many scholars, the period of old Suśruta is the Upaniṣad period (1000- 1400 BC). Many have accepted the period of Suśruta as the second century, which is considered as the time of Sātabāhana empire[1].
-
-Footnotes and references:
-
-[back to top]
 
 [1]:
 
@@ -1087,16 +828,6 @@ Kaviraj Vagishwar Shukla, History of Ayurveda, Varanasi, Chaukhamba Amarabharati
 
 ## 20. Vāgbhaṭṭa (Āyurveda scholar)
 
-
-Atharvaveda and Charaka Samhita
-
-by Laxmi Maji | 2021 | 143,541 words
-
-This page relates ‘Vagbhatta (Ayurveda scholar)’ found in the study on diseases and remedies found in the Atharvaveda and Charaka-samhita. These texts deal with Ayurveda—the ancient Indian Science of life—which lays down the principles for keeping a sound health involving the use of herbs, roots and leaves. The Atharvaveda refers to one of the four Vedas (ancient Sanskrit texts encompassing all kinds of knowledge and science) containing many details on Ayurveda, which is here taken up for study.
-
-Go directly to: 
-Footnotes.
-
 Vāgbhaṭṭa (Āyurveda scholar)
 
 Vāgbhaṭṭa—In Indian literature, many Vāgbhaṭṭas are referred to as experts on many subjects. In Āyurveda, there are four names of Vāgbhaṭṭa, namely, old Vāgbhaṭṭa, Madhya Vāgbhaṭṭa, Laghu Vāgbhaṭṭa, Rasa Vāgbhaṭṭa. The period of the first Vāgbhaṭṭa is between the fifth and sixth centuries. Ācārya Priyabrata Sharma admits that the period of first Vāgbhaṭṭa is 550 AD. Vāgbhaṭṭa II, Vāgbhaṭṭa I was the grandson and he composed the Aṣṭāṅga Hṛdayaṃ. Aṣṭāṅga Hṛdayaṃ is composed in verse, therefore the book is more tasteful and elegant for this reason. Probably this is the reason why this book has become more popular than Aṣṭāṅga Saṃgraha. The period of the second Vāgbhaṭṭa is the sixth century. Ācārya Priyabrata Sharma narrates the fictional genealogies of Vāgbhaṭṭa.
@@ -1104,10 +835,6 @@ Vāgbhaṭṭa—In Indian literature, many Vāgbhaṭṭas are referred to as e
 Vāgbhaṭṭa —> Siṃhagupta —> Vāgbhaṭṭa I —> Siṃhagupta —> Vāgbhaṭṭa II.[1]
 
 It is clear from this opinion that the author of the Aṣṭāṅga Saṃgraha is the Vṛddha Vāgbhaṭṭa or Vāgbhaṭṭa I, and the author of the Aṣṭāṅga Hṛdayaṃ is the Laghu Vāgbhaṭṭa or second Vāgbhaṭṭa. In the thirteenth century, Vāgbhaṭṭa, the son of the Siṃhagupta, wrote a book called 'Rasaratnasamūcaya'. This book is divided into two parts and has thirty chapters. Chapters one to eleven of the first volume cover all the sciences of chemistry in detail, and chapters twelve to thirty of the second volume describe medical matters in detail.
-
-Footnotes and references:
-
-[back to top]
 
 [1]:
 
@@ -1117,23 +844,9 @@ Sri Baladev Upadhyaya & Srinivasa Rath (eds.) Sanskrit-Vāṅmaya Kā Bṛhad It
 
 ## 21. Mādhavakara (Āyurveda scholar)
 
-
-Atharvaveda and Charaka Samhita
-
-by Laxmi Maji | 2021 | 143,541 words
-
-This page relates ‘Madhavakara (Ayurveda scholar)’ found in the study on diseases and remedies found in the Atharvaveda and Charaka-samhita. These texts deal with Ayurveda—the ancient Indian Science of life—which lays down the principles for keeping a sound health involving the use of herbs, roots and leaves. The Atharvaveda refers to one of the four Vedas (ancient Sanskrit texts encompassing all kinds of knowledge and science) containing many details on Ayurveda, which is here taken up for study.
-
-Go directly to: 
-Footnotes.
-
 Mādhavakara (Āyurveda scholar)
 
 Mādhavakara—There are many Ācāryas and writers named Mādhava. But Mādhava is certainly the author of 'Rogaviniścaya' or 'Mādhava Nidāna'. Mādhava's full name is Mādhavakara. He was the son of Indukara. According to Ācārya Priyabrata Sharma, he wrote a book called 'Mādhavacikitsita'. The author of the book 'Mādhava Cikitsita' was Mādhavakara, the son of Candrakara, not Indukara. Therefore, according to him, Mādhavakara is the author of two books. But the period of Mādhavakara's advent was in the seventh century.[1]
-
-Footnotes and references:
-
-[back to top]
 
 [1]:
 
@@ -1142,16 +855,6 @@ Dingari Lakshmana Chary, A Text Book of Padartha Vijnana Evam Ayurveda Itihasa, 
 ---
 
 ## 22. Caraka (Āyurveda scholar)
-
-
-Atharvaveda and Charaka Samhita
-
-by Laxmi Maji | 2021 | 143,541 words
-
-This page relates ‘Caraka (Ayurveda scholar)’ found in the study on diseases and remedies found in the Atharvaveda and Charaka-samhita. These texts deal with Ayurveda—the ancient Indian Science of life—which lays down the principles for keeping a sound health involving the use of herbs, roots and leaves. The Atharvaveda refers to one of the four Vedas (ancient Sanskrit texts encompassing all kinds of knowledge and science) containing many details on Ayurveda, which is here taken up for study.
-
-Go directly to: 
-Footnotes.
 
 Caraka (Āyurveda scholar)
 
@@ -1164,9 +867,6 @@ Mentioned the name of the main advisor–
 ‘vālmīkirādau ca sasarja padyaṃ jagrantha yanna cyavano maharṣiḥ |
 cikitsitaṃ yacca cakāra nātriḥ paścāttadātreya ṛṣirjagāda ||’[1]
 
-‘vālmīkirādau ca sasarja padyaṃ jagrantha yanna cyavano maharṣiḥ |
-cikitsitaṃ yacca cakāra nātriḥ paścāttadātreya ṛṣirjagāda ||’[1]
-
 From this, it is understood that Caraka was before Aśvaghoṣa. Judging by the interrelationship between Caraka and Suśruta, it can be said that the original version of Suśruta preceded the Caraka-Saṃhitā but the second version was after the Caraka Saṃhitā. Caraka was first quoted by Vāgbhaṭṭa. Vāgbhaṭṭa's first work was a collection of Aṣṭāṅga-Saṃgraha, following Suśruta and Vāgbhaṭṭa's second work was a collection of Aṣṭāṅga-Saṃgraha, following Caraka. From this, it is understood that during the time of Vāgbhaṭṭa (6th Century) the fame and recognition of Caraka became codified. At this time Bhaṭṭāra Hariścandra took the task of interpreting this book into his own hands. Before this, Maharṣi Caraka, as the author of the Carak Saṃhitā, was not used in this sense in all works, but in another sense.
 
 It is not possible to determine at what time Munivara Caraka appeared. However, it can be said with certainty that he was born before the advent of Vaiyākaraṇa Maharṣi Pāṇini. Because Pāṇini in his grammar book ‘Aṣṭādhyāyī’ -‘kaṭacarakālluka’ has fixed a form of this formula, in ‘carakenaproktamadhīyateyetecarakāḥ |’ -in this place there is a ‘luk’ of the suffix ‘nimi’ after the word Caraka. Seeing this, European archaeologists speculate that Caraka here means the disciples of Caraka. If this assumption is true, then Panini appeared more than four hundred and two thousand years before the present time. That is, Maharṣi Caraka is ahead of them. Dr Dasgupta acknowledges Caraka as a contemporary of Kaniṣka. The period of Caraka (2nd BC) is supposed to be contemporary with the period of Sunga. Because this is also the time of writing Pātañjala Mahābhāṣya and Yogasūtra. That is, we can put Caraka before this book. We find in the Caraka Samhita the source of the words which are mentioned in the Mahābhāṣya and Sāṅkhyakārikā, which are the direct obstacles.
@@ -1174,10 +874,6 @@ It is not possible to determine at what time Munivara Caraka appeared. However, 
 Sri Gurupada Haldar speaks of two Carakas -one a disciple of Vaiśampāyana and the other a royal physician of Kaniṣka. He also admitted the name of the second Caraka as Kapilbala. According to Dr C. Kunhan Raja, the word Caraka seems to be a Pahlavi language, not Sanskrit. The Caraka-Samhita was translated into the Pahlavi language in the early centuries of this period. Therefore, the period of Caraka can be called the second BC.  According to the signs of social and religious conditions found in the Caraka Saṃhitā, the Caraka can be placed in the line between the Śuṅgakāla or Maurya Śuṅga period[2].
 
 Ācārya Dṛḍhabala is famous as a reformer of the great book of Caraka- Saṃhitā, the great book of Ayurvedic medicine. One-third of the Caraka-Saṃhitā was not available at that time. Which the Dṛḍhabala completed by combining the Sutras based on another Tantra. In this way, he completed sixteen chapters of Cikitsāsthāna, twelve chapters of Kalpa sthāna and completed Siddhi sthāna. He provided the terminology of Sanskrit. Dṛḍhavala was a resident of Kashmir. His father's name was Kapilbala. The fourth century of the Gupta period is considered to be the period of Dṛḍhabala. According to Harnell Mādhava, Dṛḍhabala and Vāgbhaṭṭa II appeared between the seventh and ninth centuries[3].
-
-Footnotes and references:
-
-[back to top]
 
 [1]:
 
@@ -1195,23 +891,9 @@ Anup Kumar Gakkhara & Anil Gakkhara, Āyurveda Kā Itihāsa, Varanasi, Chaukhamb
 
 ## 23. Śāraṅgadhara (Āyurveda scholar)
 
-
-Atharvaveda and Charaka Samhita
-
-by Laxmi Maji | 2021 | 143,541 words
-
-This page relates ‘Sharangadhara (Ayurveda scholar)’ found in the study on diseases and remedies found in the Atharvaveda and Charaka-samhita. These texts deal with Ayurveda—the ancient Indian Science of life—which lays down the principles for keeping a sound health involving the use of herbs, roots and leaves. The Atharvaveda refers to one of the four Vedas (ancient Sanskrit texts encompassing all kinds of knowledge and science) containing many details on Ayurveda, which is here taken up for study.
-
-Go directly to: 
-Footnotes.
-
 Śāraṅgadhara (Āyurveda scholar)
 
 Śāraṅgadhara [Śārṅgadhara]—There were many Ācāryas named Śārṅgadhara. Some are philosophers, some are astrologers, some are dramatists and some are Āyurvedajña. Among them, Dāmodara's son Śārṅgadhara was a physician. He composed the Śārṅgadhara Saṃhitā in the twelfth century in the style of Sauḍhala. Containing thirty-two chapters and two thousand six hundred verses, this Saṃhitā is divided into three parts -Pūrva, Madhyama and Uttara khaṇḍa. The first mention of pulse examination is found in this text. Some scholars believe that the author of the Śārṅgadhara Saṃhitā and the Śārṅgadhara Paddhati is the same person. Rāghavadeva was the guru of Hamīra Naraśa of Cauhāna dynasty of Śākambharī country. His son was Dāmodara and grandson was Śārṅgadhara. Its period is acknowledged to be between the thirteenth and fourteenth centuries.[1]
-
-Footnotes and references:
-
-[back to top]
 
 [1]:
 
@@ -1221,23 +903,9 @@ Anup Kumar Gakkhara & Anil Gakkhara, Āyurveda Kā Itihāsa, Varanasi, Chaukhamb
 
 ## 24. Jayadeva Vidyālaṅkāra (Āyurveda Scholar)
 
-
-Atharvaveda and Charaka Samhita
-
-by Laxmi Maji | 2021 | 143,541 words
-
-This page relates ‘Jayadeva Vidyalankara (Ayurveda Scholar)’ found in the study on diseases and remedies found in the Atharvaveda and Charaka-samhita. These texts deal with Ayurveda—the ancient Indian Science of life—which lays down the principles for keeping a sound health involving the use of herbs, roots and leaves. The Atharvaveda refers to one of the four Vedas (ancient Sanskrit texts encompassing all kinds of knowledge and science) containing many details on Ayurveda, which is here taken up for study.
-
-Go directly to: 
-Footnotes.
-
 Jayadeva Vidyālaṅkāra (Āyurveda Scholar)
 
 Joydeva [Jayadeva] Vidyālaṅkāra is one of the notable Āyurveda Ācāryas of the modern age. He was a scholarly writer in the tradition of Gurukul Kāṅgrī Haridwar. He wrote a Hindi commentary on the Caraka-Saṃhitā which is very popular. The eighth edition was published in 1970. He wrote Hindi commentaries on Cikitsākalikā and Bhaiṣajyaratnāvalī which are very popular. Its duration is the twentieth century[1].
-
-Footnotes and references:
-
-[back to top]
 
 [1]:
 
@@ -1247,16 +915,6 @@ Sri Baladev Upadhyaya & Srinivasa Rath (eds.) Sanskrit-Vāṅmaya Kā Bṛhad It
 
 ## 25. Suśruta-Saṃhitā (Āyurveda book)
 
-
-Atharvaveda and Charaka Samhita
-
-by Laxmi Maji | 2021 | 143,541 words
-
-This page relates ‘Sushruta-Samhita (Ayurveda book)’ found in the study on diseases and remedies found in the Atharvaveda and Charaka-samhita. These texts deal with Ayurveda—the ancient Indian Science of life—which lays down the principles for keeping a sound health involving the use of herbs, roots and leaves. The Atharvaveda refers to one of the four Vedas (ancient Sanskrit texts encompassing all kinds of knowledge and science) containing many details on Ayurveda, which is here taken up for study.
-
-Go directly to: 
-Footnotes.
-
 Suśruta-Saṃhitā (Āyurveda book)
 
 Suśruta-Saṃhitā—The status of Suśruta-Saṃhitā is second only to Caraka-Saṃhitā in the history of Āyurveda. This anthology of Suśruta, one of the twelfth disciples of Dhanvantari, was reformed by Nāgārjuna but is known as the Suśruta-Saṃhitā. In the Mahābhārata, Suśruta is said to be the son of Maharṣi Viśvāmitra, an expert in surgery and a disciple of Dhanvantari. When Dhanvantari, a scholar of Āyurveda, was born as a Kṣatriya named Divodāsa at Kāśīdhāma by the order of Devarāja Indra, Viśvāmitra found out about it in meditation and sent his son Suśruta there for teaching Āyurveda. Later, Suśruta's writings became reformed in the hands of Nāgārjuna and became known as Suśruta-Saṃhitā. The Suśruta-Saṃhitā, compiled by Suśruta, was composed in the fifth or sixth century AD.
@@ -1264,10 +922,6 @@ Suśruta-Saṃhitā—The status of Suśruta-Saṃhitā is second only to Caraka
 The Suśruta-Saṃhitā division has six sections and many chapters. Sūtra sthāna consists of forty-eight chapters and describes the meanings of surgical terms and the classification of herbs. Nidānasthāna consists of eighteen chapters and describes the causes and symptoms of the disease. Śarīra sthāna consists of ten chapters and describes the human body and has descriptions and embryology. Cikitsāsthāna consists of forty chapters and Large chapters rich in details of the treatment of various diseases. Kalpa sthāna consists of six chapters and describes Various poisons and their reactions and medical system. Uttaratantra consists of six chapters. Nāgārjuna is considered to be the author of this part. Here Combined different topics. According to Suśruta, there are seven types of surgical procedures-Chedana, Bhedana, Lekhana, Traṣyana, Āharaṇa, Bisravarṇa and Sīvana. Ācārya Suśruta was an expert in Kaumārbhṛtya[1].
 
 Many Commentaries have been written in the Suśruta-Saṃhitā. Notable among them are the oldest commentators like Jaiyaṭa, Gayadāsa, Cakrapāṇi-kṛta (1080 AD) Bhānumatī, Nibandhasaṃgraha by Dalhvaṇa, besides Śrīmādhaba, Jejjaṭa, Kaupālika etc. The Suśruta-Saṃhitā popularized the book with its simplicity of language and presentation of the subject, the duties of surgery in necropsy, asceticism, haemorrhoids, fractures, flesh transplants and brain surgery[2].
-
-Footnotes and references:
-
-[back to top]
 
 [1]:
 
@@ -1281,23 +935,9 @@ Suśruta Saṃhitā of Maharṣi Suśruta Vol. I -III, Anant Ram Sharma (ed.), V
 
 ## 26. Bhāvamiśra (Āyurveda scholar)
 
-
-Atharvaveda and Charaka Samhita
-
-by Laxmi Maji | 2021 | 143,541 words
-
-This page relates ‘Bhavamishra (Ayurveda scholar)’ found in the study on diseases and remedies found in the Atharvaveda and Charaka-samhita. These texts deal with Ayurveda—the ancient Indian Science of life—which lays down the principles for keeping a sound health involving the use of herbs, roots and leaves. The Atharvaveda refers to one of the four Vedas (ancient Sanskrit texts encompassing all kinds of knowledge and science) containing many details on Ayurveda, which is here taken up for study.
-
-Go directly to: 
-Footnotes.
-
 Bhāvamiśra (Āyurveda scholar)
 
 Bhāvamiśra follows the ancient scriptures and collects their basic judgments and new subjects in his texts. His famous book is Bhāvaprakāśa. This Bhāvaprakāśa is the last and most important book of Laghutrayī. Bhāvamiśra's father's name was Laṭakana (Miśra). He was Śaiva. He mentioned this in many places. Ganeśa is worshipped in the opening verse and Viṣṇu is mentioned by the words Śrīpati and Madhusūdana. Trideva i.e., Brahmā, Viṣṇu, Maheśa and Hanumāna are also mentioned in the text. According to Ācārya Priyabrata Sharma, the period of Bhāvamiśra seems to be between the fifteenth and seventeenth centuries, i.e., the sixteenth century. Another of his works is Guṇaratnamālā. Which is probably based on the Nighaṇṭu part of the Bhāvaprakāśa[1].
-
-Footnotes and references:
-
-[back to top]
 
 [1]:
 
@@ -1307,25 +947,11 @@ Vidyadhar Sukla & Ravidatta Tripathi, Ayurveda Ka Itihasa Evam Paricaya, Delhi, 
 
 ## 27. Aṣṭāṅga Hṛdaya (Āyurveda book)
 
-
-Atharvaveda and Charaka Samhita
-
-by Laxmi Maji | 2021 | 143,541 words
-
-This page relates ‘Ashtanga Hridaya (Ayurveda book)’ found in the study on diseases and remedies found in the Atharvaveda and Charaka-samhita. These texts deal with Ayurveda—the ancient Indian Science of life—which lays down the principles for keeping a sound health involving the use of herbs, roots and leaves. The Atharvaveda refers to one of the four Vedas (ancient Sanskrit texts encompassing all kinds of knowledge and science) containing many details on Ayurveda, which is here taken up for study.
-
-Go directly to: 
-Footnotes.
-
 Aṣṭāṅga Hṛdaya (Āyurveda book)
 
 Aṣṭāṅga Hṛdaya [Hṛdayaṃ]—Ācārya Vāgbhaṭṭa was the son of Siṃhagupta and the grandson of Vāgbhaṭṭa belongs to the region of river Sindhu. His forefathers were also great scholars of Āyurveda. He was a disciple of Avalokita, the chief monk of Mahāyāna Buddhism. Based on the internal and external evidence, the date of Vāgbhaṭṭa can be fixed between the 4th and 5th century AD. The name of a famous book written by Vāgbhaṭṭa is Aṣṭāṅga Hṛdaya. Aṣṭāṅga Hṛdaya is one of the most celebrated and most often studied treatises on Indian medicine, after Caraka-Saṃhitā and Suśruta-Saṃhitā.
 
 Aṣṭāṅga Hṛdayaṃ [Hṛdaya] contains six sthānas (sections) each sthāna consisting of varying numbers of Adhyāyas; the total number of chapters being One hundred twenty. The text is composed entirely in poetry. The total number of verses is Seven thousand one hundred twenty. The first section Sūtra sthāna has thirty chapters dealing with basic doctrines of Āyurveda. Principles of health, prevention of diseases, properties of articles of diet and drugs, humoral physiology and pathology, different kinds of diseases and methods of treatment. The second section Śarīra sthāna has six chapters dealing with embryology, anatomy, physiology, physiognomy, physical and psychological constitutions, auspicious and inauspicious dreams and omens, signs of bad prognosis and oncoming death. The third section Nidānasthāna with Sixteen chapters describes the causes, premonitory symptoms, characteristic features pathogenesis and prognosis of some important diseases coming within the realm of Kāyacikitsā (inner medicine). The fourth section cikitsā sthāna twenty-two chapters elaborating the methods of treatment of all major organic diseases, including efficacious medicinal recipes, diet and care of the patient. The fifth section Kalpa-siddhi sthāna has six chapters dealing with the preparation of recipes, administration of purificatory therapies and management of complications; and principles of pharmacy. The sixth and the last section Uttara sthāna is devoted to the remaining seven branches of Āyurveda. It has forty chapters in total; divided as follows, viz. three for Bāla cikitsā or demonology psychiatry, seventeen for Ūrdhvāṅga cikitsā or diseases of organs in the head, subdivided again nine for Netracikitsā or ophthalmology, two for Karṇacikitsā or otology, two for Nāsācikitsā or rhinology, two for Mukhacikitsā or mouth, teeth and throat, and two for Śiraroga or diseases of the head. Śalya cikitsā or surgery has ten chapters; Daṃṣṭrā or toxicology has four; Jarā cikitsā or rasāyana or rejuvenation therapy, geriatrics and Vṛṣa or Vājīkaraṇa or vilification therapy or aphrodisiacs have one chapter each. The greater portion of the text being devoted to Kāyacikitsā or inner medicine is thus conspicuous[1].
-
-Footnotes and references:
-
-[back to top]
 
 [1]:
 
@@ -1334,16 +960,6 @@ Aṣṭāṅga Hṛdayaṃ of Vāgbhaṭṭa Vol. I -III, trans. K. R. Srikantha
 ---
 
 ## 28. Caraka-Saṃhitā (Āyurveda book)
-
-
-Atharvaveda and Charaka Samhita
-
-by Laxmi Maji | 2021 | 143,541 words
-
-This page relates ‘Caraka-Samhita (Ayurveda book)’ found in the study on diseases and remedies found in the Atharvaveda and Charaka-samhita. These texts deal with Ayurveda—the ancient Indian Science of life—which lays down the principles for keeping a sound health involving the use of herbs, roots and leaves. The Atharvaveda refers to one of the four Vedas (ancient Sanskrit texts encompassing all kinds of knowledge and science) containing many details on Ayurveda, which is here taken up for study.
-
-Go directly to: 
-Footnotes.
 
 Caraka-Saṃhitā (Āyurveda book)
 
@@ -1359,12 +975,6 @@ That is why the Mahatma Dṛḍhabala said firmly—
 
 ‘cikitsā bahṇiveśasya svasthaturahitaṃ prati yadihāsti tadanyatra yannehāsti na tat kvacit ||
 
-‘cikitsā bahṇiveśasya svasthaturahitaṃ prati yadihāsti tadanyatra yannehāsti na tat kvacit ||
-
-Footnotes and references:
-
-[back to top]
-
 [1]:
 
 Caraka Saṃhitā -Vol. I & II: with elaborated Vidyotini Hindi Commentary, trans. Kasinatha Pandey & Gorakha Natha Chaturvedi, Varanasi, Chaukhambha Bharati Academy, 2015, pp. 1-1024, 1-1120.
@@ -1372,16 +982,6 @@ Caraka Saṃhitā -Vol. I & II: with elaborated Vidyotini Hindi Commentary, tran
 ---
 
 ## 29. Mādhavanidāna (Āyurveda book)
-
-
-Atharvaveda and Charaka Samhita
-
-by Laxmi Maji | 2021 | 143,541 words
-
-This page relates ‘Madhavanidana (Ayurveda book)’ found in the study on diseases and remedies found in the Atharvaveda and Charaka-samhita. These texts deal with Ayurveda—the ancient Indian Science of life—which lays down the principles for keeping a sound health involving the use of herbs, roots and leaves. The Atharvaveda refers to one of the four Vedas (ancient Sanskrit texts encompassing all kinds of knowledge and science) containing many details on Ayurveda, which is here taken up for study.
-
-Go directly to: 
-Footnotes.
 
 Mādhavanidāna (Āyurveda book)
 
@@ -1391,15 +991,9 @@ Describing the greatness of this book, the later Ācāryas said—
 
 ‘nidāne mādhava śreṣṭhaḥ |’
 
-‘nidāne mādhava śreṣṭhaḥ |’
-
 This book is included in Laghutrayī.
 
 The book is divided into two parts—Mādhavanidāna I and Mādhavanidāna II. There are sixty-nine chapters in this book and at the end the book ends with another chapter called Biṣayānukramanikā. In the First to Sixty nine chapters describes are as follows–Pañca Nidāna Lakṣaṇa; Jvara Nidāna [nidānaṃ]; Atisāra Nidāna [nidānaṃ]; Grahaṇī Roga Nidāna [nidānaṃ]; Arśa Nidāna [nidānaṃ]; Agnimāndya, Ajīrṇa, Visūcīkā; Kṛminidāna; Pāṇḍuroga, Kāmalā, Kumbhakāmalā, Halīmakanidāna; Raktapitta; Rājayakṣmā or Kṣatakṣīṇa; Kāśanidāna; Hikkāśvāsanidāna; Sarvabheda; Arocaka; Chardi; Tṛṣṇā; Mūrcchā; Pānātyaya, Paramada, Pānājīrna, and Pānavibhrama; Dāha; Unmāda; Apasmāra; Vātavyādhi; Vātarakta; Urustambha; Āmavāta; Śūla; Udavartādi; Gulma; Hṛdroga; Mūtrakṛccha; Mūtraghāta; Aśmarī; Parameha; Medaroga; Udara; Śotha; Vṛddhi; Galagaṇḍa or Gaṇḍamālā or Apacīgranthi; Ślipada; Vidradhi; Varṇa Śotha; Śarīra Varṇa; Sadyovarṇa; Bhagna; Nāḍī Varṇa; Bhagandara; Upadaṃśa; Śuka Doṣa; Kuṣṭha; Śītapitta; Amlapitta; Visarpa; Visphoṭa; Musurikā; Kṣudraroga; Oral Disease; Otolaryngology; Nāsaroga; Ophthalmology; Headache; Asṛgdara; Yonīvyāpad; Yonīkanda; Mūḍhagarbha; Sūtikā disease; Breast disease; Stanya Duṣṭi; Bālaroga; and Viṣa Roga etc. have been discussed[1].
-
-Footnotes and references:
-
-[back to top]
 
 [1]:
 
@@ -1409,23 +1003,9 @@ Mādhava-Nidāna of Mādhavakara with the Commentary Madhukoṣa by Vijayarakṣ
 
 ## 30. Aṣṭāṅga-Saṃgraha (Āyurveda book)
 
-
-Atharvaveda and Charaka Samhita
-
-by Laxmi Maji | 2021 | 143,541 words
-
-This page relates ‘Ashtanga-Samgraha (Ayurveda book)’ found in the study on diseases and remedies found in the Atharvaveda and Charaka-samhita. These texts deal with Ayurveda—the ancient Indian Science of life—which lays down the principles for keeping a sound health involving the use of herbs, roots and leaves. The Atharvaveda refers to one of the four Vedas (ancient Sanskrit texts encompassing all kinds of knowledge and science) containing many details on Ayurveda, which is here taken up for study.
-
-Go directly to: 
-Footnotes.
-
 Aṣṭāṅga-Saṃgraha (Āyurveda book)
 
 Aṣṭāṅga-Saṃgraha—A notable book of Āyurveda written by Maharṣi Vāgbhaṭṭa is the Aṣṭāṅga Saṃgraha. He studied the books of his previous Āyurvedācāryas and collected materials from their books and compiled Aṣṭāṅga Saṃgraha. Aṣṭāṅga Saṃgraha is a voluminous text having one hundred fifty Adhyāyas or chapters divided into six sthānas or sections. The first section Sūtra sthāna consists of forty chapters. This section describes the basic doctrines, principles of health, prevention of diseases-diet articlesfood habits-causes of diseases. The second section Śarīra sthāna consists of twelve chapters. This section describes deals with evolution and composition of the universehuman embryology-anatomy-physiology physical and psychological temperamentsdreams- omens total signs etc. The third section Nidānasthāna consists of sixteen chapters. This section describes the causes, signs, symptoms, pathogenesis, prognosis etc., of major diseases. The fourth section Cikitsāsthāna of twenty-four chapters. This section describes elaborate methods of treatment, medicines, diet, care of the patient etc., of all diseases about Kāyacikitsā or inner medicine. The fifth consists of eight chapters. This sections Kalpa sthāna deals with the method of preparing purificatory recipes i.e. -emetics, purgative and enemata; administration of purificatory therapies, management of complications, principles of pharmacy weights and measures etc. The sixth and last sections of Uttarasthāna is consists of fifty chapters. This chapter describes Bāla cikitsā or paediatrics, Graha cikitsā or demonology, Ūrdhvāṅga cikitsā or Netraroga cikitsā or ophthalmology, Karṇaroga cikitsā or otology, Nāsāroga cikitsā or rhinology, Mukharoga cikitsā or treatment of lips, teeth gums, tongue, palate and throat, Śīroroga or treatment of head and scalp, Śalya cikitsā or surgery, Daṃṣṭrā viṣa cikitsā or toxicology, Jarā or Rasāyana or rejuvenation, Vṛṣa or Vājīkaraṇa or vilification[1].
-
-Footnotes and references:
-
-[back to top]
 
 [1]:
 
@@ -1435,16 +1015,6 @@ Aṣṭāṅga Saṃgraha of Vāgbhaṭṭa Vol. I -III, trans. K. R. Srikantha 
 
 ## 31. Rasaratnākara (Āyurveda book)
 
-
-Atharvaveda and Charaka Samhita
-
-by Laxmi Maji | 2021 | 143,541 words
-
-This page relates ‘Rasaratnakara (Ayurveda book)’ found in the study on diseases and remedies found in the Atharvaveda and Charaka-samhita. These texts deal with Ayurveda—the ancient Indian Science of life—which lays down the principles for keeping a sound health involving the use of herbs, roots and leaves. The Atharvaveda refers to one of the four Vedas (ancient Sanskrit texts encompassing all kinds of knowledge and science) containing many details on Ayurveda, which is here taken up for study.
-
-Go directly to: 
-Footnotes.
-
 Rasaratnākara (Āyurveda book)
 
 Rasaratnākara—The oldest book on chemistry, Nāgārjuna's Rasaratnākara, was written in the seventh and eighth centuries AD. Chemistry or scripture was included are the treatment of various diseases like mercury and other metals such as oxidation, refining, mixing, etc., extraction of arka or ārakas, alkali and acidification, analysis of the quality of herbs, etc., included various processes in chemistry. Nāgārjuna proves that mercury becomes more volatile as it consumes one metal after another. Mercury can cure many incurable diseases.
@@ -1452,10 +1022,6 @@ Rasaratnākara—The oldest book on chemistry, Nāgārjuna's Rasaratnākara, was
 In Indian medicine, he is called the pioneer of chemistry and the father of mercury. He was the first to introduce Kajjalī, a black sulphide compound of mercury, as medicine. Apart from mercury in medicine, there is talk of using one or two other metals and Rasaratnākara.
 
 Nāgārjuna will be remembered for curing various diseases by applying for herbal medicine in combination with different metals such as Sulphur, amber, copper, conch, diamond, gold, lead etc. instead of arms[1].
-
-Footnotes and references:
-
-[back to top]
 
 [1]:
 
@@ -1465,16 +1031,6 @@ Rasaratnākara with Hindi Commentary by Nityanath, trans. Khemraj Sri Krishna Da
 
 ## 32. Kāśyapa Saṃhitā (Āyurveda book)
 
-
-Atharvaveda and Charaka Samhita
-
-by Laxmi Maji | 2021 | 143,541 words
-
-This page relates ‘Kashyapa Samhita (Ayurveda book)’ found in the study on diseases and remedies found in the Atharvaveda and Charaka-samhita. These texts deal with Ayurveda—the ancient Indian Science of life—which lays down the principles for keeping a sound health involving the use of herbs, roots and leaves. The Atharvaveda refers to one of the four Vedas (ancient Sanskrit texts encompassing all kinds of knowledge and science) containing many details on Ayurveda, which is here taken up for study.
-
-Go directly to: 
-Footnotes.
-
 Kāśyapa Saṃhitā (Āyurveda book)
 
 Kāśyapa Saṃhitā—Vṛddha Jīvaka Tantra, popularly known as Kāśyapa Saṃhitā is the only surviving classical text on Kaumārbhṛtya, one of the eight branches of Āyurveda. It is a compendium based on the teachings of Ācārya Kāśyapa, which was compiled by Vṛddha Jīvaka and redacted by Vatsya. Kaumārbhṛtya is the branch of Āyurveda dealing with the care of infants and children, diseases and treatment of Dhātrī or wet nurse or caretaker of the child, milk, its qualities and treatment of milk-related disorders and diseases due to Bālagrahas. It must have been a fully developed, well flourished and practiced the art of medicine in the ancient era of Āyurvedic history. The period of the Saṃhitā is dated to be around the sixth century BCE. Kāśyapa Saṃhitā is said to have content eight sthāna and two hundred chapters have followed sutra sthāna of thirty chapters, Nidānasthāna of eight chapters; Vimāna sthāna of eight chapters, Śarīra sthāna of eight chapters; Indriya sthāna of twelve chapters; Cikitsāsthāna of thirty chapters; Siddhi sthāna of twelve chapters; Kalpa sthāna of twelve chapters and Khila-Bhāga of eight chapters.
@@ -1482,10 +1038,6 @@ Kāśyapa Saṃhitā—Vṛddha Jīvaka Tantra, popularly known as Kāśyapa Sa�
 In addition to eight sthāna, one supplementary part named Khilasthāna having eighty chapters is also an essential part of Kāśyapa Saṃhitā. Available Kāśyapa Saṃhitā is incomplete, as out of the total two hundred chapters only seventy-eight is incomplete either in the beginning end or in between. Kāśyapa Saṃhitā is the book of paediatrics specialty, naturally, every topic touched has its leaning towards it. The childhood is divided into three stages i.e., Garbha (intrauterine life), Bāla (childhood) and Kumāra (adolescence), which is accepted even today. In the present scenario, the neonatologist advises the diet, daily routine etc., to the mother for proper growth and development of the fetus and also for the wellbeing of the future child. Kāśyapa has mentioned about showing the rising sun and moon during the first month, & also given the elaborate description of sedation including sedation with warmed up palm and emesis to the children. A detailed discussion is given about Basti or enema which is considered as nectar and used for producing Bṛmhaṇa or anabolic effect in children along with specific oleaginous substance named Śaiśuka snehana to be used in an enema. A detailed and incisive description of Nasya or sternutatory drugs for the children is discussed. The diseases like phakka, visarpa of children along with the story about its development and Carmadala have not been described by any other author though fumigations are described by other authors also, the long list of fumigations of Dhūpakalpādhyāya for various purposes other than those mentioned by other authors and also classification as pratidhupa, anudhupa etc., are also contributions of Kāśyapa Saṃhitā.
 
 Aṣṭappidikā or eight furunculosis, ulcers of the overactive crawling child, dadru or ringworm along with blisters developing due to infliction by duḥsaha and other skin disorders specific in the children are mentioned. A Detailed story about duḥsaha, reasons for abduction by it and it worship on pañcamī is described[1].
-
-Footnotes and references:
-
-[back to top]
 
 [1]:
 
@@ -1495,16 +1047,6 @@ Kāśyapa Saṃhitā by Vṛddha Jīvaka with the Vidyotani Hindi Commentary, tr
 
 ## 33. Bhāvaprakāśa (Āyurveda book)
 
-
-Atharvaveda and Charaka Samhita
-
-by Laxmi Maji | 2021 | 143,541 words
-
-This page relates ‘Bhavaprakasha (Ayurveda book)’ found in the study on diseases and remedies found in the Atharvaveda and Charaka-samhita. These texts deal with Ayurveda—the ancient Indian Science of life—which lays down the principles for keeping a sound health involving the use of herbs, roots and leaves. The Atharvaveda refers to one of the four Vedas (ancient Sanskrit texts encompassing all kinds of knowledge and science) containing many details on Ayurveda, which is here taken up for study.
-
-Go directly to: 
-Footnotes.
-
 Bhāvaprakāśa (Āyurveda book)
 
 Bhāvaprakāśa—The plants and herbs used in Āyurvedic medicine have been described in Bhāvaprakāśa. Bhāvaprakāśa, Mādhavanidāna, Śāraṅgadhara Saṃhitā are the three books which together are called Laghutrayī. Nighaṇṭu is a part of Bhāvaprakāśa. The Nighaṇṭu chapter is described separately in the Pūrvārdhakhaṇḍa. Where the multiplicative action of all kinds of plants, animals and earthly matter has been extensively considered. The author, Bhāvamiśra wrote this treatise in sixteenth century A.D. This was one of the best compilations of medical knowledge prevalent in the medieval period on the use of medicinal plants and treatment of various diseases. Pūrva khaṇḍa or first section has seven chapters and deals with the origin of Āyurveda chief gods and sages propagating it–Pañcabhūta triguṇa-Ātmā; Indriya-manas; garbhotpatti-Śarīra-aṅga-avayava-doṣādi vijñāna; Dina-caryā, Ṛtu-caryā, Sadācāra; Auṣadha-dravyas, āhāra-dravyas, measurements, purification and oxidation of metals, oleation, pañcakarma, the examination of patient etc. are explained and several new drugs are introduced.
@@ -1513,10 +1055,6 @@ Description of different groups of drugs and articles of diet is dealt is twenty
 
 Madhyakhaṇḍa or middle/second section has seventy-one chapters dealing with the Nidāna or aetiology, Lakṣaṇa or symptomatology, Samprāpti of pathogenesis and cikitsā or treatment of all diseases, with greater emphasis on Kāyacikitsā or inner medicine. Both kaṣṭauṣadha (formulae from vegetable drugs) and rasauṣadha (formulae from mercury and minerals) are mentioned in the treatment. Uttara Khaṇḍa-third and last section has only two chapters, one dealing with Vājīkaraṇa cikitsā (vilification therapy) and the other with rasāyana cikitsā (rejuvenation therapy)[1].
 
-Footnotes and references:
-
-[back to top]
-
 [1]:
 
 Bhāvaprakāśa by Bhāvamiśra Vol. I–IV, trans. Kalishachandra Sengupta, Vaidyacarya Kalikinkara Senasharma & Ayurvedacharya Satya Shekhara Bhattyacharya (eds.), Kolkata, Deepayan, 2000, pp. 1- 395, 2-410, 1-278, 1-256.
@@ -1524,16 +1062,6 @@ Bhāvaprakāśa by Bhāvamiśra Vol. I–IV, trans. Kalishachandra Sengupta, Vai
 ---
 
 ## 34. Yogaratnākara (Āyurveda book)
-
-
-Atharvaveda and Charaka Samhita
-
-by Laxmi Maji | 2021 | 143,541 words
-
-This page relates ‘Yogaratnakara (Ayurveda book)’ found in the study on diseases and remedies found in the Atharvaveda and Charaka-samhita. These texts deal with Ayurveda—the ancient Indian Science of life—which lays down the principles for keeping a sound health involving the use of herbs, roots and leaves. The Atharvaveda refers to one of the four Vedas (ancient Sanskrit texts encompassing all kinds of knowledge and science) containing many details on Ayurveda, which is here taken up for study.
-
-Go directly to: 
-Footnotes.
 
 Yogaratnākara (Āyurveda book)
 
@@ -1547,10 +1075,6 @@ The Yogaratnākara texts give a detailed description of various types of experim
 
 Studying the Sāṅgapāṅga of this book, it seems that the author collected the essence of different books and nourished them in such a way that no part of the book should be inferior. Therefore, there is no room for doubt that a person can become a famous doctor by studying this book[1].
 
-Footnotes and references:
-
-[back to top]
-
 [1]:
 
 Yogaratnākara with ‘Vaidyaprabha’ Hindi Commentary, trans. Indradev Tripathi & Daya Shankar Tripathi, Varanasi, Chowkhamba Krishnadas Academy, 2013, pp. 1-894.
@@ -1559,16 +1083,6 @@ Yogaratnākara with ‘Vaidyaprabha’ Hindi Commentary, trans. Indradev Tripath
 
 ## 35. Rasendrasāra Saṅgraha (Āyurveda book)
 
-
-Atharvaveda and Charaka Samhita
-
-by Laxmi Maji | 2021 | 143,541 words
-
-This page relates ‘Rasendrasara Sangraha (Ayurveda book)’ found in the study on diseases and remedies found in the Atharvaveda and Charaka-samhita. These texts deal with Ayurveda—the ancient Indian Science of life—which lays down the principles for keeping a sound health involving the use of herbs, roots and leaves. The Atharvaveda refers to one of the four Vedas (ancient Sanskrit texts encompassing all kinds of knowledge and science) containing many details on Ayurveda, which is here taken up for study.
-
-Go directly to: 
-Footnotes.
-
 Rasendrasāra Saṅgraha (Āyurveda book)
 
 Rasendrasāra Saṅgraha is a notable book written by Gopālakṛṣṇa Bhaṭṭa. The book was written in the fourteenth century. The text can be distinctly halved into two sections. First one deals with the minerals and metals with properties, Śodhana, Māraṇa etc. The second part includes the Rasayogas or formulations in various diseases. The book is divided into four chapters.
@@ -1576,10 +1090,6 @@ Rasendrasāra Saṅgraha is a notable book written by Gopālakṛṣṇa Bhaṭ�
 In the first chapter describes Pārada, Varga, Uparasa, Gandhaka, Vajra, Vaikrānta, Abhraka, Haratala, Manaḥśila, kharpara, Tuttha, Vimala, Makṣika, Kāśiśa, Kāntapāṣāṇa, Varāṭikā, Añjana, Hiṅgula, Śilājatu, Gairika, Kaṅkuṣṭha, Taṅkaṇa, Śaṅkha and Dhātu. In the second chapter describes Virecana yogas, Jvara Cikitsā, Atisāra Cikitsā, Grahaṇī Roga Cikitsā, Arśa Cikitsā, Ajīrṇa Cikitsā, Krimi Cikitsā, Pāṇḍu Kāmalā Cikitsā, Rakta Pitta Cikitsā, Yakṣmā Cikitsā, Kāsa Cikitsā, Hikkā Śvāsa Cikitsā, Arocaka cikitsā, Chardi Roga Cikitsā, Tṛṣṇā Cikitsā, Mūrchā Roga Cikitsā, Madātyaya Cikitsā, Dāha Cikitsā, Unmāda Roga Cikitsā, Apasmāra Cikitsā, Vāta Vyādhi Cikitsā, Kapharoga Cikitsā, Pitta Roga Cikitsā, Vātarakta Cikitsā, Urusthambha Cikitsā, Āmavāta Cikitsā, Śūla Roga Cikitsā, Udāvarta Ānāha Cikitsā, Gulma Roga Cikitsā, Hṛdroga Cikitsā, Mūtra Kṛchra Cikitsā, Mūtraghāta Cikitsā, Aśmarī Cikitsā, Prameha Cikitsā, Somaroga Cikitsā, Sthoulya Cikitsā, Udara Roga Cikitsā, Plihāroga Cikitsā, Śotha Roga Cikitsā, Arvuda Cikitsā, Ślīpada Cikitsā, Bhagandara Cikitsā, Upadaṃśa Cikitsā, Kuṣṭharoga Cikitsā, Śvitra cikitsā, Śītapitta Udara Koṭḥa Cikitsā, Amlapitta Cikitsā, Visarpa Visphoṭa Tantuka Roga Cikitsā, Masūrikā Cikitsā, Mukharoga Cikitsā, Karṇaroga Cikitsā, Nāsāroga Cikitsā, Netraroga Cikitsā, Śiroroga Cikitsā, Pradara Roga Cikitsā, Yonivyāpad Cikitsā, Sūtikā Roga Cikitsā, Bālaroga Cikitsā etc. The third chapter describes poison treatment. The fourth chapter describes Rasāyana -Vājīkaraṇa[1].
 
 The main decisions of Āyurveda depend on the following factors namely–Pañca- Mahābhūta, Tridoṣa, six Rasa, Guṇa, Vīrya, Vipāka, Prabhāva, seven Dhatu, and Prakṛti. There are two types of semen, warm and cold. There are two types of Vikāra, Avasthāpāka and Niṣṭhāpāka. The seven Dhātus are–juice, blood, flesh, fat. bone, marrow and sperm. Nature is immutable. According to threefold nature, there are three types–Sāttvika nature, Rājasa nature and Tāmasa nature. According to Cakrapāṇi, there are three types of quality–Vaiśeṣika, Sāmānya and Ātma[2].
-
-Footnotes and references:
-
-[back to top]
 
 [1]:
 
@@ -1593,16 +1103,6 @@ Vidyadhar Sukla & Ravidatta Tripathi, Ayurveda Ka Itihasa Evam Paricaya, Delhi, 
 
 ## 36. Śārṅgadhara-Saṃhitā (Āyurveda book)
 
-
-Atharvaveda and Charaka Samhita
-
-by Laxmi Maji | 2021 | 143,541 words
-
-This page relates ‘Sharngadhara-Samhita (Ayurveda book)’ found in the study on diseases and remedies found in the Atharvaveda and Charaka-samhita. These texts deal with Ayurveda—the ancient Indian Science of life—which lays down the principles for keeping a sound health involving the use of herbs, roots and leaves. The Atharvaveda refers to one of the four Vedas (ancient Sanskrit texts encompassing all kinds of knowledge and science) containing many details on Ayurveda, which is here taken up for study.
-
-Go directly to: 
-Footnotes.
-
 Śārṅgadhara-Saṃhitā (Āyurveda book)
 
 Śārṅgadhara-Saṃhitā—Ācārya Śārṅgadhara is the author of Śārṅgadhara-Saṃhitā, written in simple and easy language the book consists of thirty-two chapters with two thousand six hundred verses in all. The first section with seven chapters and five hundred eighty-five verses; the second with twelve chapters and one thousand two hundred sixty-one verses; and the third section with thirteen chapters and six hundred eighty-two verses are available. The following descriptions are found in the chapters of the first volume. E.g., definitions, weights and measures etc. described in Paribhāṣā chapter; Principles of pharmacy described in Bhaiṣajya Vyākhyāna; Examination of pulse etc. in NāḍīParikṣādi Vidhi; Pharmacological definitions in Dīpanapāchanādi Kathanaṃ; Anatomy and Physiology in Kalādikākhyāna-Śarīraṃ; Digestion and Metabolism in Āhārādigati Kathanaṃ; and Enumeration of disease describes in Rogagaṇanā.
@@ -1610,10 +1110,6 @@ Footnotes.
 Madhyama khaṇḍa or second section describes the composition, method of preparation and uses of different kinds of recipes. E.g., Svarasa Adhāya (fresh juices), Quātha Kalpanā (decoctions, Infusions etc.), Phāṇṭa Kalpanā (Infusions), Hima Kalpanā (Cold Infusions), Kalka Kalpanā (Wet Pills or Bolus), Cūrṇa Kalpanā (Powders), Guṭikā Kalpanā (Pills). Avaleha Kalpanā (Confections), Sneha Kalpanā (Medicated ghee and Oils), Sandhāna Kalpanā (Galenical’s, Fermented liquids), Dhātu Śodhana-Māraṇa Kalpanā (Purification and Killing of minerals and metals) and Rasādi Śodhana-Māraṇa Kalpanā (Purification and Preparation of Mercurial).
 
 Uttara khaṇḍa the third and last section explains the different kinds of treatment in separate chapters viz, Sneha Adhyāya (Oleation Therapy), Sveda (Sudation Therapy), Vamana Vidhi (Emesis Therapy), Virecana Vidhi (Purgation Therapy), Basti Vidhi (Enemata-oil enema Therapy), Niruha Basti Vidhi (Decoction Enemata), Uttara Basti Vidhi (Urethral and Vaginal douches), Nasya Vidhi (Nasal Medication), Dhūmapāna Vidhi (Inhalations, Fumigations Therapy), Gaṇḍūṣa-Kavala Pratisāraṇa Vidhi (Mouth gargles), Lepa-mūrdhā Taila Karṇapūraṇa Vidhi (Topical application, Oleation of the head, ears etc.), Śoṇitasrāva Vidhi (bloodletting) and Netra Prasādana Karma (Therapies for the eyes)[1].
-
-Footnotes and references:
-
-[back to top]
 
 [1]:
 
@@ -1623,13 +1119,6 @@ Footnotes and references:
 
 ## 37. Chapter 2 - The nature of treatment for diseases in the Ancient era
 
-
-Atharvaveda and Charaka Samhita
-
-by Laxmi Maji | 2021 | 143,541 words
-
-This page relates ‘nature of treatment for diseases in the Ancient era’ found in the study on diseases and remedies found in the Atharvaveda and Charaka-samhita. These texts deal with Ayurveda—the ancient Indian Science of life—which lays down the principles for keeping a sound health involving the use of herbs, roots and leaves. The Atharvaveda refers to one of the four Vedas (ancient Sanskrit texts encompassing all kinds of knowledge and science) containing many details on Ayurveda, which is here taken up for study.
-
 Chapter 2 - The nature of treatment for diseases in the Ancient era
 
 - Sub-Contents: (+ / -)
@@ -1637,13 +1126,6 @@ Chapter 2 - The nature of treatment for diseases in the Ancient era
 ---
 
 ## 38. Aims of the present work
-
-
-Atharvaveda and Charaka Samhita
-
-by Laxmi Maji | 2021 | 143,541 words
-
-This page relates ‘Aims of the present work’ found in the study on diseases and remedies found in the Atharvaveda and Charaka-samhita. These texts deal with Ayurveda—the ancient Indian Science of life—which lays down the principles for keeping a sound health involving the use of herbs, roots and leaves. The Atharvaveda refers to one of the four Vedas (ancient Sanskrit texts encompassing all kinds of knowledge and science) containing many details on Ayurveda, which is here taken up for study.
 
 Aims of the present work
 
@@ -1676,13 +1158,6 @@ Since the volume of the work of Atharvaveda and Caraka-Saṃhitā are enormous, 
 ---
 
 ## 39. Review of the Literature
-
-
-Atharvaveda and Charaka Samhita
-
-by Laxmi Maji | 2021 | 143,541 words
-
-This page relates ‘Review of the Literature’ found in the study on diseases and remedies found in the Atharvaveda and Charaka-samhita. These texts deal with Ayurveda—the ancient Indian Science of life—which lays down the principles for keeping a sound health involving the use of herbs, roots and leaves. The Atharvaveda refers to one of the four Vedas (ancient Sanskrit texts encompassing all kinds of knowledge and science) containing many details on Ayurveda, which is here taken up for study.
 
 Review of the Literature
 
@@ -1800,16 +1275,6 @@ All these scholars have so far discussed either Caraka-Saṃhitā or about Athar
 
 ## 40. Natural Treatment in the Vedas
 
-
-Atharvaveda and Charaka Samhita
-
-by Laxmi Maji | 2021 | 143,541 words
-
-This page relates ‘Natural Treatment in the Vedas’ found in the study on diseases and remedies found in the Atharvaveda and Charaka-samhita. These texts deal with Ayurveda—the ancient Indian Science of life—which lays down the principles for keeping a sound health involving the use of herbs, roots and leaves. The Atharvaveda refers to one of the four Vedas (ancient Sanskrit texts encompassing all kinds of knowledge and science) containing many details on Ayurveda, which is here taken up for study.
-
-Go directly to: 
-Footnotes.
-
 Natural Treatment in the Vedas
 
 Nature is a gift to man. Different theories of the earth such as earth, water, fire, air, sun and moon benefit human beings in one way or another. In Ṛgveda, Samaveda and Yajurveda, various deities were worshipped for healing. Namely–Mitrāvaruṇa[1], Savitā[2], Rudra[3] and Sun. The Sun is commonly called the soul of the world[4]. In the Upaniṣads, the Sun is called the life of the human world[5]. The sun mainly cures various diseases[6]. There is a detailed description of the treatment given by Sun-rays in the Vedas. The importance of rising sunlight has been proved in the Veda[7]. The rays of the rising sun are light red and these rays destroy all causes of death[8]. The Ṛgveda states that the rising sun cures all diseases of the heart, jaundice and anemia[9]. The Atharvaveda states that the rays of the rising sun (infrared) cure heart disease and anemia[10]. It is indicated here that the rays of the sun are to be applied according to the form, colour and longevity of man. The patient will keep his chest open for treatment in front of the rising sun or wear light clothes so that the sun's rays fall directly on the chest and have a greater effect. A mantra says that the rising sun destroys all diseases of the head, all kinds of heart ailments and all the pains of the limbs[11].
@@ -1845,10 +1310,6 @@ The care of the patient is done by the attendant etc. This is called Upācāra t
 Secondly, during the treatment, the patient will take any divagaṃta. Thirdly, the patient will be given medicine by his mother, father, brother and sister. Fourth, take medicine with love. Fifth, the patient's morale will increase and so on. The Śrīmatbhāgavatgītā says to be healthy and to be free from all sorrows namely-control overeating, the regularity of daily work, feeling of inability to do all the work and sleeping at the right time and waking up at the right time etc.[51]
 
 The word Tridhātu is mentioned in Ṛgveda and Atharvaveda. In the Ṛgveda, Sāyaṇa explains of the Tridhātu which is vāta, pitta, and kapha. In a mantra in the Atharvaveda, it is said that Oja is spread in the body in three forms[52]. Sāyaṇa Tredhā has interpreted the word of vāta, pitta, and phlegmatic tridoṣa. The word pitta is mentioned in the Atharvaveda. The Tridoṣas of vāyu, pitta and phlegm are mentioned in the Aṣṭāṅga Hṛdayaṃ. If it is distorted, the body suffers and if it is undistorted, the body remains stable. It is said in the Śrīmadbhagavatgītā that when a man’s senses are subdued, his intellect is fixed. Addiction to the subject is thought by the mind, desire arises from addiction, and anger when desire is hindered, indiscretion from anger, unconsciousness is the destruction of memory[53]. The same thought is found in the Vedas.
-
-Footnotes and references:
-
-[back to top]
 
 [1]:
 
@@ -2089,16 +1550,6 @@ smṛtibhraṃśād vuddhināśo vuddhināśāt praṇaśyati || (Gītā–2/63)
 
 ## 41. Medical Science in the Vedas
 
-
-Atharvaveda and Charaka Samhita
-
-by Laxmi Maji | 2021 | 143,541 words
-
-This page relates ‘Medical Science in the Vedas’ found in the study on diseases and remedies found in the Atharvaveda and Charaka-samhita. These texts deal with Ayurveda—the ancient Indian Science of life—which lays down the principles for keeping a sound health involving the use of herbs, roots and leaves. The Atharvaveda refers to one of the four Vedas (ancient Sanskrit texts encompassing all kinds of knowledge and science) containing many details on Ayurveda, which is here taken up for study.
-
-Go directly to: 
-Footnotes.
-
 Medical Science in the Vedas
 
 The nature of treatment for diseases in the Ancient era Among India’s many claims to fame is the ancient medical science known as Āyurveda. This is a healing method that relies on herbs as medicines for maintaining good health. The five thousand years-old system of natural healing originated in India's ancient Vedic culture. The oldest documentary records of Indian Literature are the Vedas. There are four Vedas -Ṛgveda, Yajurveda, Sāmaveda and Atharvaveda. The Vedas are interspersed with Āyurvedic citations.
@@ -2113,14 +1564,9 @@ The Ṛgveda has defined the functions of physicians–
 
 “The medicinal plants have assembled, as do the kings in an assembly; that Brāhmaṇa is called the physician who kills Rākṣasa and Amīvā”.
 
-“The medicinal plants have assembled, as do the kings in an assembly; that Brāhmaṇa is called the physician who kills Rākṣasa and Amīvā”.
-
 The physician is a scholar who has a thorough knowledge of the herbs and cures the germs of diseases.
 
 The duties of the physician are to protect the universe and protect our bodies. The Aśvin-gods are invoked to cure diseases.
-
-“yatrauṣadhīḥ samagmata rājānaḥ samitāviva |
-vipraḥ sa ucyate bhiṣag rakṣohāmīvacātanaḥ ||”[1]
 
 “yatrauṣadhīḥ samagmata rājānaḥ samitāviva |
 vipraḥ sa ucyate bhiṣag rakṣohāmīvacātanaḥ ||”[1]
@@ -2165,11 +1611,7 @@ Replacement of artificial head is referred to in 1/117/22 verse where it is said
 
 “ākṣī ṛjrāsve aśvināvadhattaṃ jyotirandhāya cakrathurvicakṣe ||”.
 
-“ākṣī ṛjrāsve aśvināvadhattaṃ jyotirandhāya cakrathurvicakṣe ||”.
-
 Replacement of artificial head is referred to in 1/117/22 verse where it is said that the Aśvin-gods to replace an artificial head of a horse to Dadhyaṅ—
-
-“ātharvaṇāyāśvinā dadhīce'śvyaṃ śiraḥ pratyairayatam |”.
 
 “ātharvaṇāyāśvinā dadhīce'śvyaṃ śiraḥ pratyairayatam |”.
 
@@ -2177,19 +1619,13 @@ The replacement of artificial legs also referred to in the 1/116/15 verse–
 
 “sadyo jaṃghāmāyasīṃ viśpalāyai dhane hite sartave pratyadhattam ||”.
 
-“sadyo jaṃghāmāyasīṃ viśpalāyai dhane hite sartave pratyadhattam ||”.
-
 It says that the Aśvin-gods replaced an iron leg to Viśpalā–
-
-“mahī vāmutiraśvinā mayobhūruta strāmaṃ śatamekaṃ ca meṣān ||”.
 
 “mahī vāmutiraśvinā mayobhūruta strāmaṃ śatamekaṃ ca meṣān ||”.
 
 In the verse of 1/117/19 invoke the Aśvin-gods who cure lame person successfully.
 
 Again verse 1/117/24 refers to the treatment of Śyāva whose limbs were broken in three parts and gave him a new life–
-
-“tridhā ha śyāvamaśvinā vikastamujjīvasa erayataṃ sudānu ||”[14].
 
 “tridhā ha śyāvamaśvinā vikastamujjīvasa erayataṃ sudānu ||”[14].
 
@@ -2208,8 +1644,6 @@ A very great saint like Priyamedhā comes in front of the lord sun like a bird a
 Among the Gṛhya Sūtras, the Āśvalāyana contains warning against sleeping at sun-rise and sun-set which is a cause of diseases, against the diseases to be avoided by the sacrifice, and the diseases of the beasts[18]. The Śāṅkhāyana instructs against singing Vedic hymns at the time of physical pain; curing of all diseases. Similarly, Gobhila contains references to charms for curing diseases; and against snake-bite[19]. The Āpastamba gives a charm for suffering women; ascribes the cause of a headache to germs and the cause of hydrophobia of a child to dog-bite[20]. It also deals with the disease Kṣetriya in a child. In the same way, the Pāraskara contains prescription against headache.
 
 The Hiraṇyakeśin emphasizes the use of fire or heat against diseases (V.2.28), especially Kṣetriya (II.3.10) and the Kāthaka has a description of germs (IV.4.5.), the diseases of cows (IV.3.13) and the treatment of snake-bite.
-
-“Further transitional stages”, says Jolly in connection with the continuity of the Āyurveda, “are found by the Buddhist medicine e.g., the serpent-spell in the bower MS, as by the Gṛhya Sūtras and the Dharma Sūtras which show literal agreement with the medical works in the descriptions of the Saṃskāras, hygiene, embryology, anatomy and the doctrine of rebirth and by both Epics and the Purāṇas”.
 
 “Further transitional stages”, says Jolly in connection with the continuity of the Āyurveda, “are found by the Buddhist medicine e.g., the serpent-spell in the bower MS, as by the Gṛhya Sūtras and the Dharma Sūtras which show literal agreement with the medical works in the descriptions of the Saṃskāras, hygiene, embryology, anatomy and the doctrine of rebirth and by both Epics and the Purāṇas”.
 
@@ -2233,21 +1667,13 @@ According to Sāyaṇācārya the etymology of medicine is–
 
 “oṣaḥ pākaḥ āsu dhīyate iti oṣadhayaḥ|”[40]
 
-“oṣaḥ pākaḥ āsu dhīyate iti oṣadhayaḥ|”[40]
-
 That means those who will get the fruits. In the Nirukta of the word ‘Auṣudhi’—
-
-“oṣadhayaḥ oṣaddhayantīti vauṣatyenā dhayantīti vā doṣaṃ dhayantīti vā |”[41]
 
 “oṣadhayaḥ oṣaddhayantīti vauṣatyenā dhayantīti vā doṣaṃ dhayantīti vā |”[41]
 
 That means it creates energy in the body, prescribes it and cures all doṣas. In Śatapatha Brāhmaṇa Auṣudhi is called Doṣanāśaka[42]. There in Tridoṣa-nāśaka is medicine and it removes the pollutants in the environment. Therefore, medicine is a special role in human life and Ayurveda. Medicines are mainly of two types–Vanaspati and Auṣudhi. Vanaspati is used for trees and Auṣudhi is used for saplings. In Ṛgveda the word ‘Vanin’ is used for trees and vanaspati[43]. Vanaspati is two types–Vanaspati and Vānaspatya. Vanaspati is used for big trees and Vānaspatya is used for saplings. Medicines again are of two types -Auṣudhi and Vīrudh. For small saplings, herbs and creepers are used. These four varieties are found in Atharvaveda[44]. The word Bhaiṣajī is used for medicine in Atharvaveda[45].
 
 The medicines in Atharvaveda are clarified according to nature, quality and appearance. For example—Vabhru, Śukra, Rohiṇī, Pṛśni, Asiknī, Kṛṣṇā. According to natural medicines use of different types like -Prastṛṇatī, Stamvinī, Ekaśuṃga, Pratanvatī, Aṃśumatī, Kāṇḍinī, Viśākhā. According to quality medicine classified as—Jīvalā, Naghāriṣā, Arundhatī, Unnayantī, Madhumatī, Pracetasa, Medinī, Ugra, Viṣadūṣanī, Balāsanāśanī. According to effect medicines are of different types—Puṣpavatī, Prasūmatī, Phalinī, Aphalā[46].
-
-Footnotes and references:
-
-[back to top]
 
 [1]:
 
@@ -2440,16 +1866,6 @@ K. D. Dvivedi & B. Dvivedi, Vedoṇ Meṇ Āyurveda (Medical Science in the Veda
 
 ## 42. Medicine in the Atharva-veda (Introduction)
 
-
-Atharvaveda and Charaka Samhita
-
-by Laxmi Maji | 2021 | 143,541 words
-
-This page relates ‘Medicine in the Atharva-veda (Introduction)’ found in the study on diseases and remedies found in the Atharvaveda and Charaka-samhita. These texts deal with Ayurveda—the ancient Indian Science of life—which lays down the principles for keeping a sound health involving the use of herbs, roots and leaves. The Atharvaveda refers to one of the four Vedas (ancient Sanskrit texts encompassing all kinds of knowledge and science) containing many details on Ayurveda, which is here taken up for study.
-
-Go directly to: 
-Footnotes.
-
 Medicine in the Atharva-veda (Introduction)
 
 Only a brief introduction and history of medical science is found in Ṛgveda whereas Atharvaveda contains a detailed description of various aspects of medical science. In Atharvaveda descriptions of anatomical structures of human digestion and metabolism, blood circulation, diseases and causative factors, preventive measures, treatment with herbs, minerals and surgical techniques, different types of worms and, the diseases caused by them along with treatment etc. have been described.
@@ -2469,10 +1885,6 @@ Atharvaveda XIX.45.4 mentions four distinct uses of the Āñjana plant: “āk�
 Thus–the use of Devamuni against Apachit[29]; Varaṇa against Yakṣma; Pippalī against Kṣipta; Cīpudru against Balāsa; Nitatnī for Keśavṛddhi; Suparṇāsuri against Harimā; Pṛśniparṇi against miscarriage; Rohiṇī against fracture; Apāmārga against various diseases; Śilācī, Lākṣā for growth of body; Kuṣṭha against Takman; Jaṅgiḍa against Viṣkandha; Viṣāṇakā against Āsrāva. In addition to these Atharvaveda mentions several plants whose use cannot be specified.
 
 In the Atharvaveda, the word Bheṣajī has been used for medicine. In the Vedas, medicine has been categorized based on its quality, religion and form. The Atharvaveda has given not only several plants in general but has given us some families of the plants such as Asiknī, Kṛṣṇā, Pṛśni, Prastṛṇatī, Stamvinī, Ekaśuṅga, Pratanvatī, Aṃśumatī, Kāṇḍinī, Viśākhā, Vaiśvadevī, Ugrā, Avakā, Ulva, Tīkṣṇaśṛṅgī, as also Puṣpavatī, Prasūmatī, Phalinī, Aphalā etc. The VIII.7 gives a detailed classification of the plants as-Plants Classified according to colour; those classified according to growth; their varieties according to properties, their varieties according to their origin, and their varieties according to him. First, categorization based on colour like Brabhrū, Śukra, Rohīṇi, Pṛśni, Asiknī, Kṛṣṇā. Second, classification based on form like Prastṛṇatī, Stamvinī, Ekaśuṅga etc. Thirdly, there is classification based on quality like Jīvalā, Arundhatī, Madhumatī etc. Fourth, classification is based on fruits etc. like Puṣpavatī, Prasūmatī, Phalinī etc.
-
-Footnotes and references:
-
-[back to top]
 
 [1]:
 
@@ -2594,13 +2006,6 @@ AV. –VII. 74.1
 
 ## 43. Chapter 3 - Diseases and Remedial measures (described in Atharvaveda)
 
-
-Atharvaveda and Charaka Samhita
-
-by Laxmi Maji | 2021 | 143,541 words
-
-This page relates ‘Diseases and Remedial measures (described in Atharvaveda)’ found in the study on diseases and remedies found in the Atharvaveda and Charaka-samhita. These texts deal with Ayurveda—the ancient Indian Science of life—which lays down the principles for keeping a sound health involving the use of herbs, roots and leaves. The Atharvaveda refers to one of the four Vedas (ancient Sanskrit texts encompassing all kinds of knowledge and science) containing many details on Ayurveda, which is here taken up for study.
-
 Chapter 3 - Diseases and Remedial measures (described in Atharvaveda)
 
 - Sub-Contents: (+ / -)
@@ -2610,16 +2015,6 @@ Chapter 3 - Diseases and Remedial measures (described in Atharvaveda)
 ---
 
 ## 44. Vanaspati (Plants) used in Veda
-
-
-Atharvaveda and Charaka Samhita
-
-by Laxmi Maji | 2021 | 143,541 words
-
-This page relates ‘Vanaspati (Plants) used in Veda’ found in the study on diseases and remedies found in the Atharvaveda and Charaka-samhita. These texts deal with Ayurveda—the ancient Indian Science of life—which lays down the principles for keeping a sound health involving the use of herbs, roots and leaves. The Atharvaveda refers to one of the four Vedas (ancient Sanskrit texts encompassing all kinds of knowledge and science) containing many details on Ayurveda, which is here taken up for study.
-
-Go directly to: 
-Footnotes.
 
 Vanaspati (Plants) used in Veda
 
@@ -2842,10 +2237,6 @@ Svadhiti–It is mentioned in Ṛgveda[110]. This is a huge tree. That is, it ha
 Hāridrava, Haridru–It is mentioned in Ṛgveda and Atharvaveda[111]. Sāyaṇa means Haritāla tree. It is used in the treatment of heart disease and jaundice. It also destroys poison, itching, mouth diseases, rheumatic disorders, acne etc.
 
 Hariṇyaparṇa–It is mentioned in Yajurveda[112]. The word Hariṇyaparṇa comes from Khilasthāna. This is the adjective lākṣā.
-
-Footnotes and references:
-
-[back to top]
 
 [1]:
 
@@ -3324,16 +2715,6 @@ vanaspatirhiraṇyaparṇaḥ | (YV.  -XXI/56); Acharya Vedanta Tirtha (ed.), Ya
 
 ## 45. Maṇis (medical amulets) in the Atharva Veda
 
-
-Atharvaveda and Charaka Samhita
-
-by Laxmi Maji | 2021 | 143,541 words
-
-This page relates ‘Manis (medical amulets) in the Atharva Veda’ found in the study on diseases and remedies found in the Atharvaveda and Charaka-samhita. These texts deal with Ayurveda—the ancient Indian Science of life—which lays down the principles for keeping a sound health involving the use of herbs, roots and leaves. The Atharvaveda refers to one of the four Vedas (ancient Sanskrit texts encompassing all kinds of knowledge and science) containing many details on Ayurveda, which is here taken up for study.
-
-Go directly to: 
-Footnotes.
-
 Maṇis (medical amulets) in the Atharva Veda
 
 Though the Atharva-veda proper recommends the use of various plants in the treatment of different diseases yet from the high praise bestowed upon amulets or Maṇis, we can infer that these plants were mostly used as amulets[1].
@@ -3341,9 +2722,6 @@ Though the Atharva-veda proper recommends the use of various plants in the treat
 The Atharvaveda says that there are many benefits to holding the amulet. Besides, even if you hold a hiraṇya, the body has a lot of hives. Namely-Golden is beneficial for longevity, increases energy, destroys various diseases and provides beauty. According to some scholars, Maṇi can be made of anything and it is tied or worn like a garland or amulet. The common word for maṇi is manakā. The person has to make a manakā of some special tree and tie it on his body like an amulet. The qualities of a particular tree are also present in that manakā. The manakā cures those special diseases. That is why Atharva Veda has spoken of holding the amulet. An amulet or Maṇi is considered from the earliest times as medicine of miraculous effects[2]. It is not possible to foretell how an amulet would behave under given conditions (acintya-prabhāva).
 
 That its working cannot be predicted was recognized by Caraka and Suśruta also.–
-
-“maṇīnāṃ dhāraṇīyānāṃ karma yadvividhātmakam |
-tatprabhāvakṛtaṃ teṣāṃ prabhāvo'cintya ucyate ||”[3]
 
 “maṇīnāṃ dhāraṇīyānāṃ karma yadvividhātmakam |
 tatprabhāvakṛtaṃ teṣāṃ prabhāvo'cintya ucyate ||”[3]
@@ -3409,10 +2787,6 @@ Aśvattha Maṇi is mentioned in the Atharvaveda[34]. Victory is achieved by thi
 Pāṭā Maṇi
 
 Pāṭā or Pāṭhā Maṇi is mentioned in the Atharva-veda. Lord Indra tied the maṇi of Pāṭhāmedicine in his arms to defeat the demons[35]. There is a provision to hold this maṇi for victory over the defendant[36].
-
-Footnotes and references:
-
-[back to top]
 
 [1]:
 
@@ -3579,13 +2953,6 @@ prāśaṃ pratiprāśo jahyarasān kṛṇvoṣadhe || (AV. –II.27.1); Acarya
 
 ## 46. Characteristics of Atharvan medical literature
 
-
-Atharvaveda and Charaka Samhita
-
-by Laxmi Maji | 2021 | 143,541 words
-
-This page relates ‘Characteristics of Atharvan medical literature’ found in the study on diseases and remedies found in the Atharvaveda and Charaka-samhita. These texts deal with Ayurveda—the ancient Indian Science of life—which lays down the principles for keeping a sound health involving the use of herbs, roots and leaves. The Atharvaveda refers to one of the four Vedas (ancient Sanskrit texts encompassing all kinds of knowledge and science) containing many details on Ayurveda, which is here taken up for study.
-
 Characteristics of Atharvan medical literature
 
 For ceremonial purposes, the hymns of Atharvaveda are categorised into Gaṇas or Groups by the Kauśika Sūtra. The Gaṇa-method is principally espoused by the Sūtra but later on the Vaitāna Sūtra and the Atharva-pariśiṣṭa–Gaṇamālā followed it. The Āyuṣya-gaṇa; Takmanāśana-gaṇa, Gaṇakarmā-gaṇa, Kuṣṭhaliṅgā [kuṣṭhaliṅgāḥ], Varchasya-gaṇa, Salila-gaṇa, Amholiṅgā [amholiṅgāḥ] etc, are directly or incidentally connected with the medical practices directed by the Kauśika-sūtra. These gaṇa shows ever, are not comprehensive and are constituted by the Pratīkāśa of the hymns.
@@ -3598,16 +2965,6 @@ Symbolism is the soul of these semi-religious medical performances. Here the sho
 
 ## 47. Treatment of Urinary Disorders (Mūtrakṛccha)
 
-
-Atharvaveda and Charaka Samhita
-
-by Laxmi Maji | 2021 | 143,541 words
-
-This page relates ‘Treatment of Urinary Disorders (Mutrakriccha)’ found in the study on diseases and remedies found in the Atharvaveda and Charaka-samhita. These texts deal with Ayurveda—the ancient Indian Science of life—which lays down the principles for keeping a sound health involving the use of herbs, roots and leaves. The Atharvaveda refers to one of the four Vedas (ancient Sanskrit texts encompassing all kinds of knowledge and science) containing many details on Ayurveda, which is here taken up for study.
-
-Go directly to: 
-Footnotes.
-
 Treatment of Urinary Disorders (Mūtrakṛccha)
 
 The Atharvaveda initially mentions the treatment of Mūtrarodha or Mūtrakṛccha[1]. The best way to get rid of various impurities in the body is to pass urine out smoothly. All the toxins in the body combine with the urine and come out of the body with the urine. In this way, the body stays healthy. But when the urine gets stuck inside and the urine poison spreads inside the body, various diseases arise as a result. When the prostate glands are enlarged, the urinary tract becomes blocked and the urine does not come out. This is called urinary tract disease or urinary incontinence. Urinary incontinence is a terrible disease, which results in death. Therefore, in the Vedas, provision has been made to keep the two kidneys (kidneys) transparent[2]. The Atharvaveda speaks of four types of treatment for urinary tract infections. Namely—Medicinal treatment, śalakā application, surgery, treatment and divine or Daivī treatment.
@@ -3617,10 +2974,6 @@ The Atharvaveda initially mentions the treatment of Mūtrarodha or Mūtrakṛcch
 In modern times it is an iron whip or catheter. The third rule is surgery or operation. This causes the urine stuck in the uterus and kidney to be excreted by surgery. The word mehana in mantra prevents prostate gland operation[4]. The fourth rule is Daivī treatment. The Atharvaveda mentions Parjanya (cloud, rain), Mitra (soul), Varuṇa (water), Moon and Sun in the Daivī treatment. Parjanya means that rainwater is the purest. If you drink it regularly, all the faults of the body are excreted through urine. Description of Mūtraghāta (retention of urine) and its treatment by catheterisation is also found in Atharvaveda. The Atharvaveda mentions many medicines to cure urinary tract infections, which are beneficial. Namely—Darbha, Apāmārga, Madugha, Kiṃśuka, Kuśa, Āsrāvabheṣaja, Dūrvā, Pītudāru, Punarṇavā, Bisa, Māṣa, Muñja, Yabāṣa, Varaṇa, Vetasa, Śara, Śāṇḍadūrvā, Śigru, Sahadevī, Srekaparṇa.
 
 If the patient is suffering from “retention of urine” and “constipation”, the practising priest ties substances like Harītakī (gall-nut) or Karpūra (camphor) which promote micturition, while reciting I.3. Then he gives the patient a decoction of earth from a mole-hill, Pūtikā, pulverized Pramanda, each mixed with wood shavings. Then while reciting the last two stanzas of I.3 he gives the patient enema and makes him take a ride in a vehicle. He then shoots an arrow and finally opens the urethra by probing the bladder with a copper instrument. After the operation is over, the priest pours twenty-one barley grains upon the affected parts of the body. A decoction of Āla (a creeper), lotus root and Ula (musk) are given to the patient to drink”[5].
-
-Footnotes and references:
-
-[back to top]
 
 [1]:
 
@@ -3649,16 +3002,6 @@ sarpiṣā limpati || apidhamati || vidmā śarasyeti pramehaṇaṃ badhnāti |
 ---
 
 ## 48. Medicinal herbs and plants in the Atharva-veda
-
-
-Atharvaveda and Charaka Samhita
-
-by Laxmi Maji | 2021 | 143,541 words
-
-This page relates ‘Medicinal herbs and plants in the Atharva-veda’ found in the study on diseases and remedies found in the Atharvaveda and Charaka-samhita. These texts deal with Ayurveda—the ancient Indian Science of life—which lays down the principles for keeping a sound health involving the use of herbs, roots and leaves. The Atharvaveda refers to one of the four Vedas (ancient Sanskrit texts encompassing all kinds of knowledge and science) containing many details on Ayurveda, which is here taken up for study.
-
-Go directly to: 
-Footnotes.
 
 Medicinal herbs and plants in the Atharva-veda
 
@@ -3991,10 +3334,6 @@ Haritabheṣaja—It is mentioned in Atharvaveda[158]. It is an adjective of the
 Hiraṇyapuṣpī, Suvarṇapuṣpī—It is mentioned in Paippalāda Saṃhitā and Atharva- Pariśiṣṭa[159]. It is applied to subjugation. By this, the husband is subdued.
 
 Hlādikā—It is mentioned in Atharvaveda[160]. This herb is in aquatic places. It is for comfort, so it is called Hlādikā. Sāyaṇācārya means Hlādaka medicine.
-
-Footnotes and references:
-
-[back to top]
 
 [1]:
 
@@ -4794,16 +4133,6 @@ AV. Pari.  –18/1/16.
 
 ## 49. Treatment of Fever (Takman)—Synopsis
 
-
-Atharvaveda and Charaka Samhita
-
-by Laxmi Maji | 2021 | 143,541 words
-
-This page relates ‘Treatment of Fever (Takman)—Synopsis’ found in the study on diseases and remedies found in the Atharvaveda and Charaka-samhita. These texts deal with Ayurveda—the ancient Indian Science of life—which lays down the principles for keeping a sound health involving the use of herbs, roots and leaves. The Atharvaveda refers to one of the four Vedas (ancient Sanskrit texts encompassing all kinds of knowledge and science) containing many details on Ayurveda, which is here taken up for study.
-
-Go directly to: 
-Footnotes.
-
 Treatment of Fever (Takman)—Synopsis
 
 [Note: For a detailed study, see the comparative study of Fever in the Atharvaveda]
@@ -4816,13 +4145,7 @@ According to Keśava and Sāyaṇa, this performance is undertaken—
 
 “jvarabhaiṣajyam | nityajvarai velājvarai satatajvare ekāntikajvare cāturthikajvare ṛtujvare ca |”.
 
-“jvarabhaiṣajyam | nityajvarai velājvarai satatajvare ekāntikajvare cāturthikajvare ṛtujvare ca |”.
-
 A different treatment is prescribed by the Kauśika Sūtra at 29.18: The Priest while reciting V.22 gives the patient a gruel made of roasted grain to drink. The dregs of the gruel, he pours from a copper vessel into fire derived from the forest fire. Again, at Kauśika Sūtra 32.17 appears an unusual account for curing fever: while reciting VII.116, he does as in the case of birds, he ties a frog that has stripes like reed upon his body using a blue and red thread, by the armpits to a low couch upon which the patient is made to sleep and sprinkles him.
-
-Footnotes and references:
-
-[back to top]
 
 [1]:
 
@@ -4845,25 +4168,11 @@ AV. –IV/9/1-10, II/4/1-6, XIX/34/1-10, XIX/36/1-6; Veda Atharvaveda Saṃhitā
 
 ## 50. Treatment of Kṣetriya disease
 
-
-Atharvaveda and Charaka Samhita
-
-by Laxmi Maji | 2021 | 143,541 words
-
-This page relates ‘Treatment of Kshetriya disease’ found in the study on diseases and remedies found in the Atharvaveda and Charaka-samhita. These texts deal with Ayurveda—the ancient Indian Science of life—which lays down the principles for keeping a sound health involving the use of herbs, roots and leaves. The Atharvaveda refers to one of the four Vedas (ancient Sanskrit texts encompassing all kinds of knowledge and science) containing many details on Ayurveda, which is here taken up for study.
-
-Go directly to: 
-Footnotes.
-
 Treatment of Kṣetriya disease
 
 In Atharvaveda the disease Kṣetriya is treated in the hymn II.8, 10 and III.7. Since there is a great uncertainty regarding the nature of Kṣetriya disease, some hymns are addressed to a plant called Kṣetriya–Nāśanīvīrut along with a prayer addressed to the stars to liberate the ties of the disease and it is believed that the above-mentioned plant successfully destroys the disease. The disease is also called Yakṣma[1]. This disease is also regarded as family disease or hereditary disease[2]. For the cure of Kṣetriya, the practices of the Kauśika Sūtra are both lengthy and arcane[3]. The priest washes the patient outside the house while reciting II.8.1-2 at dawn. Then while reciting II.8.3 he pulverizes the plant mentioned in the stanza, natural mud and mud from an anthill, sews this up into the skin of a freshly slain animal and fastens it as an amulet upon the patient.
 
 The patient is then placed in the ditch and the priest gives him the water to drink and lets him wash with water. Again, in Kauśika Sūtra, a different method of treatment is recorded: While reciting III.7 the priest fastens an amulet made from the horn of an antelope on the patient, gives him water to drink and lets him wash himself water which has been warmed by quenching in it a kindled piece of an antelope’s skin pierced by pegs. The patient is then offered as much barley as can be taken up by a single grasp of his hand. Then food is given to him[4].The splinters of the holy Kāmpīla wood are also used against Kṣetriya[5].
-
-Footnotes and references:
-
-[back to top]
 
 [1]:
 
@@ -4888,16 +4197,6 @@ kṣetriyāttveti catuṣpathe kāmpīlaśkalaiḥ parvasu bad dhvā piñjulībh
 ---
 
 ## 51. Treatment of Apacit and Goitre
-
-
-Atharvaveda and Charaka Samhita
-
-by Laxmi Maji | 2021 | 143,541 words
-
-This page relates ‘Treatment of Apacit and Goitre’ found in the study on diseases and remedies found in the Atharvaveda and Charaka-samhita. These texts deal with Ayurveda—the ancient Indian Science of life—which lays down the principles for keeping a sound health involving the use of herbs, roots and leaves. The Atharvaveda refers to one of the four Vedas (ancient Sanskrit texts encompassing all kinds of knowledge and science) containing many details on Ayurveda, which is here taken up for study.
-
-Go directly to: 
-Footnotes.
 
 Treatment of Apacit and Goitre
 
@@ -4924,10 +4223,6 @@ Glau and
 Galunta.
 
 In the Atharvaveda, the fresh juice of the medicine Babhrū is beneficial for diseases like goitre and insanity disease. Maṇḍūkī medicine is mentioned in the Atharvaveda. Its root is used for skin diseases, goitre, etc., for its warmth and chemistry. Mahuyā mentioned in the Śāṅkhāyana Gṛhya Sūtra is beneficial for cases of goitre and rheumatism.
-
-Footnotes and references:
-
-[back to top]
 
 [1]:
 
@@ -4959,16 +4254,6 @@ apacitāmiti vaiṇavena dārbhyūṣeṇa kṛṣṇorṇājyena kālavundaiḥ
 
 ## 52. Treatment of Yakṣma disease—Synopsis
 
-
-Atharvaveda and Charaka Samhita
-
-by Laxmi Maji | 2021 | 143,541 words
-
-This page relates ‘Treatment of Yakshma disease—Synopsis’ found in the study on diseases and remedies found in the Atharvaveda and Charaka-samhita. These texts deal with Ayurveda—the ancient Indian Science of life—which lays down the principles for keeping a sound health involving the use of herbs, roots and leaves. The Atharvaveda refers to one of the four Vedas (ancient Sanskrit texts encompassing all kinds of knowledge and science) containing many details on Ayurveda, which is here taken up for study.
-
-Go directly to: 
-Footnotes.
-
 Treatment of Yakṣma disease—Synopsis
 
 [Note: For a detailed study, see the comparative study of Tuberculosis in the Atharvaveda]
@@ -4979,15 +4264,9 @@ Against Rājayakṣma the Kauśika Sūtra recommends the following practice:
 
 “The patient is given to eat porridge containing rotten fish. He is taken to the forest and at dawn and sprinkled over with water which has been warmed by quenching in it the burning sesame, hemp, cow-dung, and sacred fire-wood, all of which are gathered in the forest[1].
 
-“The patient is given to eat porridge containing rotten fish. He is taken to the forest and at dawn and sprinkled over with water which has been warmed by quenching in it the burning sesame, hemp, cow-dung, and sacred fire-wood, all of which are gathered in the forest[1].
-
 The practice is undertaken with the recitation of III.11[2].
 
 The Atharvaveda mentions two ways to cure Rājayakṣmā. For example, drinking Somapāna and Puruṣārtha[3]. Soma-rasa or other nutritious juice cures tuberculosis and increases virility. This disease arises and increases when there is a decrease in mood and will power. If the mind has the willpower then the incidence of this disease gradually decreases and gradually subsides.
-
-Footnotes and references:
-
-[back to top]
 
 [1]:
 
@@ -5015,16 +4294,6 @@ piba kalaśe somam..... ā vṛṣasva | (AV. –VII.76.6); Acarya Vedanta Tirth
 
 ## 53. Treatment of Apvā disease (Jalodara or Dropsy)
 
-
-Atharvaveda and Charaka Samhita
-
-by Laxmi Maji | 2021 | 143,541 words
-
-This page relates ‘Treatment of Apva disease (Jalodara or Dropsy)’ found in the study on diseases and remedies found in the Atharvaveda and Charaka-samhita. These texts deal with Ayurveda—the ancient Indian Science of life—which lays down the principles for keeping a sound health involving the use of herbs, roots and leaves. The Atharvaveda refers to one of the four Vedas (ancient Sanskrit texts encompassing all kinds of knowledge and science) containing many details on Ayurveda, which is here taken up for study.
-
-Go directly to: 
-Footnotes.
-
 Treatment of Apvā disease (Jalodara or Dropsy)
 
 In Rigveda and Atharvaveda, there is mention of Apvā disease, it is called Jalodara disease or dropsy. In this disease, there is water in the stomach. Heart disease is the result of Jalodara disease. The Atharvaveda says that lying too much and misbehaving causes Jalodara disease. Apāmārga is used as a medicine for Jalodara disease.
@@ -5032,10 +4301,6 @@ In Rigveda and Atharvaveda, there is mention of Apvā disease, it is called Jalo
 The practices associated with Jalodara are simple. In a purely symbolic practice, the patient is sprinkled over the head with water using twenty-one tufts of Darbha grass together with reeds taken from the thatch of a house by the priest while reciting I.10[1].Again, while reciting VI. 24, water is drawn from a stream and sprinkled upon the patient[2].Again, the priest while reciting VI.127 anoints the patient with the powder obtained from pulverizing a chip of Palāśa wood of the width of four fingers; dregs of ghee are poured upon the head of the patient during the recitation of VI.127[3].
 
 In the Atharvaveda, the word Udaradāra has been applied for sharp-bellyache. In the three sūktas of Atharvaveda, the virtues of applying Apāmārga or Circiṭā and Laṭajīrā are discussed. Apāmārga is a very important medicine in the prevention of colic. There is also a Śveta-Punarṇavā in the Atharvaveda. Śveta-Punarṇavā relieves stomach ailments, Pāṇḍu-roga and various ailments.
-
-Footnotes and references:
-
-[back to top]
 
 [1]:
 
@@ -5053,13 +4318,6 @@ pañcamena varuṇagṛhītasya mūrdhni sampātānānayati || (Kauśika Sūtra 
 
 ## 54. Treatment of Bhasmaka disease
 
-
-Atharvaveda and Charaka Samhita
-
-by Laxmi Maji | 2021 | 143,541 words
-
-This page relates ‘Treatment of Bhasmaka disease’ found in the study on diseases and remedies found in the Atharvaveda and Charaka-samhita. These texts deal with Ayurveda—the ancient Indian Science of life—which lays down the principles for keeping a sound health involving the use of herbs, roots and leaves. The Atharvaveda refers to one of the four Vedas (ancient Sanskrit texts encompassing all kinds of knowledge and science) containing many details on Ayurveda, which is here taken up for study.
-
 Treatment of Bhasmaka disease
 
 The Atharvaveda discusses Bhasmaka diseases. If the fire in the abdomen is more inflamed, it is a disease of Bhasmaka or a disease of Tīkṣnāgni. This disease takes more than hunger and all the time seems to have not calmed the hunger. This disease is treated by Apāmārga. The Yajurveda and the Atharvaveda have references to Udumvara. It is used to treat Bhasmaka disease.
@@ -5067,13 +4325,6 @@ The Atharvaveda discusses Bhasmaka diseases. If the fire in the abdomen is more 
 ---
 
 ## 55. Treatment of Mandāgni (Indigestion)
-
-
-Atharvaveda and Charaka Samhita
-
-by Laxmi Maji | 2021 | 143,541 words
-
-This page relates ‘Treatment of Mandagni (Indigestion)’ found in the study on diseases and remedies found in the Atharvaveda and Charaka-samhita. These texts deal with Ayurveda—the ancient Indian Science of life—which lays down the principles for keeping a sound health involving the use of herbs, roots and leaves. The Atharvaveda refers to one of the four Vedas (ancient Sanskrit texts encompassing all kinds of knowledge and science) containing many details on Ayurveda, which is here taken up for study.
 
 Treatment of Mandāgni (Indigestion)
 
@@ -5085,23 +4336,9 @@ If food is not digested properly, Mandāgni disease occurs. This disease is caus
 
 ## 56. Treatment of Bhagandara (fistula in the anus)
 
-
-Atharvaveda and Charaka Samhita
-
-by Laxmi Maji | 2021 | 143,541 words
-
-This page relates ‘Treatment of Bhagandara (fistula in the anus)’ found in the study on diseases and remedies found in the Atharvaveda and Charaka-samhita. These texts deal with Ayurveda—the ancient Indian Science of life—which lays down the principles for keeping a sound health involving the use of herbs, roots and leaves. The Atharvaveda refers to one of the four Vedas (ancient Sanskrit texts encompassing all kinds of knowledge and science) containing many details on Ayurveda, which is here taken up for study.
-
-Go directly to: 
-Footnotes.
-
 Treatment of Bhagandara (fistula in the anus)
 
 In Atharvaveda Bhagandara or fistula in the anus is boil or Nāsura. Atharvaveda speaks about the treatment of this disease. Aṣṭāṅga Hṛdaya says, if you ride, elephant, horse etc., if you perform painful and severe asana, on forcefully controlling the pressure of excretion, excessively passionate sex, you can have this disease[1]. For fistula patients, it is very important to have a cleansed stomach. In the Atharvaveda, the following medicine is beneficial for fistula like Arka, and Srekaparṇa etc.
-
-Footnotes and references:
-
-[back to top]
 
 [1]:
 
@@ -5120,23 +4357,9 @@ doṣaiḥ pṛthagyutaiḥ sarvairāgantuḥ so'ṣṭamaḥ smṛtaḥ || (A�
 
 ## 57. Treatment of Piles (durṇāmā)
 
-
-Atharvaveda and Charaka Samhita
-
-by Laxmi Maji | 2021 | 143,541 words
-
-This page relates ‘Treatment of Piles (durnama)’ found in the study on diseases and remedies found in the Atharvaveda and Charaka-samhita. These texts deal with Ayurveda—the ancient Indian Science of life—which lays down the principles for keeping a sound health involving the use of herbs, roots and leaves. The Atharvaveda refers to one of the four Vedas (ancient Sanskrit texts encompassing all kinds of knowledge and science) containing many details on Ayurveda, which is here taken up for study.
-
-Go directly to: 
-Footnotes.
-
 Treatment of Piles (durṇāmā)
 
 Atharvaveda discusses the disease piles. In Caraka-Saṃhitā and Aṣṭāṅga Hṛdaya. If the anus is obstructed with fleshly growth then it is called Arśa. Piles are of two types–dry or there is no blood and Srāvī meaning where there is blood flow. The reason for piles is being Agnimanda by the doṣas, if solid waste collects in the intestine to an abnormal degree, too much sex, obstructing the flow of excretion, Atisāra and Grahaṇī etc. The word synonymous to piles are durṇāmā, durṇāmnī and durvāca[1]. The two types of treatment mentioned in Atharvaveda regarding piles are–Medicine and surgery. In Medicine Pṛśniparṇī and Apāmārga are mentioned. In Atharvaveda, in one hymn the surgical cure for headache and piles is mentioned[2]. The following medicines are said to be beneficial for the treatment of piles. Namely, Arka, Upavāka, Karīra, Pippalī, Bibhīdaka, Māṣa, Muñja, Vetasa, Śamī, Sahadevī, Nīlī, Śatavāra and Madugha or Madhūlaka etc.
-
-Footnotes and references:
-
-[back to top]
 
 [1]:
 
@@ -5154,23 +4377,9 @@ tayāhaṃ durṇāmnā śiro vṛścāmi śakuneriva || (AV. –II/25/2); Acary
 
 ## 58. Treatment of Upadaṃśa (syphilis)
 
-
-Atharvaveda and Charaka Samhita
-
-by Laxmi Maji | 2021 | 143,541 words
-
-This page relates ‘Treatment of Upadamsha (syphilis)’ found in the study on diseases and remedies found in the Atharvaveda and Charaka-samhita. These texts deal with Ayurveda—the ancient Indian Science of life—which lays down the principles for keeping a sound health involving the use of herbs, roots and leaves. The Atharvaveda refers to one of the four Vedas (ancient Sanskrit texts encompassing all kinds of knowledge and science) containing many details on Ayurveda, which is here taken up for study.
-
-Go directly to: 
-Footnotes.
-
 Treatment of Upadaṃśa (syphilis)
 
 Upadaṃśa or Syphilis is a terrifying disease. It gives rise to an insatiable desire for sex. In Aṣṭāṅga Hṛdaya, the following reasons have been described for Upadaṃśa roga—non-consensual sex with women, copulation with animals etc.[1] In Atharvaveda, the following medicines have been prescribed as a treatment for this disease -Arka, Pītudāru, devadāru, Maṇḍūkī or Maṇḍūkaparṇī, soma, Srekaparṇa, Guggulu etc.
-
-Footnotes and references:
-
-[back to top]
 
 [1]:
 
@@ -5189,23 +4398,9 @@ pṛthagdoṣaiḥ sarudhiraiḥ samastaiśca atra mārutāt || (Aṣṭā. H.  
 
 ## 59. Treatment of Visarpa disease
 
-
-Atharvaveda and Charaka Samhita
-
-by Laxmi Maji | 2021 | 143,541 words
-
-This page relates ‘Treatment of Visarpa disease’ found in the study on diseases and remedies found in the Atharvaveda and Charaka-samhita. These texts deal with Ayurveda—the ancient Indian Science of life—which lays down the principles for keeping a sound health involving the use of herbs, roots and leaves. The Atharvaveda refers to one of the four Vedas (ancient Sanskrit texts encompassing all kinds of knowledge and science) containing many details on Ayurveda, which is here taken up for study.
-
-Go directly to: 
-Footnotes.
-
 Treatment of Visarpa disease
 
 When spotted red marks and boils spread across the body then it is called Visarpa. The synonyms of Visarpa are Visalpa and Visalpaka as mentioned in Atharvaveda[1]. Atharvaveda mentioned Cīpudru as Medicine for Visarpa[2]. Also, Āñjana and Āñjana-maṇi are mentioned as the medicine for Visarpa.
-
-Footnotes and references:
-
-[back to top]
 
 [1]:
 
@@ -5221,23 +4416,9 @@ vedāhaṃ tasya bheṣajaṃ cīpudrurabhicakṣaṇam || (AV. –VI/127/2); Ve
 
 ## 60. Treatment of Śotha disease
 
-
-Atharvaveda and Charaka Samhita
-
-by Laxmi Maji | 2021 | 143,541 words
-
-This page relates ‘Treatment of Shotha disease’ found in the study on diseases and remedies found in the Atharvaveda and Charaka-samhita. These texts deal with Ayurveda—the ancient Indian Science of life—which lays down the principles for keeping a sound health involving the use of herbs, roots and leaves. The Atharvaveda refers to one of the four Vedas (ancient Sanskrit texts encompassing all kinds of knowledge and science) containing many details on Ayurveda, which is here taken up for study.
-
-Go directly to: 
-Footnotes.
-
 Treatment of Śotha disease
 
 Atharvaveda Examines the Śotha disease. Sores and Pain etc., are called Śotha. For the Remedy of Śotha Atharvaveda endorses the following medicines—Puṣkara, Puṣkaramūla, Plakṣa, Nyagrodha, Vaṃśa, and Varaṇa Trees, etc.[1] The Ṛgveda proclaims Śigru tree as the cure for Śotha[2] and for the medical rehabilitation of Pakṣaghāta, the Kauśika Sūtra rubricates VI.80[3]. The practice recommended is as follows: The paralysed part of the body is rubbed with earth taken from the foot-print of a dog while keeping the part in a quick motion. Then the part is fumigated by burning an insect taken from the dog. The hymn is to be recited while the whole performance is carried out.
-
-Footnotes and references:
-
-[back to top]
 
 [1]:
 
@@ -5255,23 +4436,9 @@ antarikṣeṇeti pakṣahataṃ mantroktaṃ caṅkamayā || kīṭena dhūpaya
 
 ## 61. Treatment of Pāman disease
 
-
-Atharvaveda and Charaka Samhita
-
-by Laxmi Maji | 2021 | 143,541 words
-
-This page relates ‘Treatment of Paman disease’ found in the study on diseases and remedies found in the Atharvaveda and Charaka-samhita. These texts deal with Ayurveda—the ancient Indian Science of life—which lays down the principles for keeping a sound health involving the use of herbs, roots and leaves. The Atharvaveda refers to one of the four Vedas (ancient Sanskrit texts encompassing all kinds of knowledge and science) containing many details on Ayurveda, which is here taken up for study.
-
-Go directly to: 
-Footnotes.
-
 Treatment of Pāman disease
 
 In Taittirīya Saṃhitā and Kāṭhaka Saṃhitā the word of Pāman[1] is mentioned. These are Khāja and Khujalī. In Āyurveda, this is known as a form of Kuṣṭha. Atharvaveda prescribes the following medicine for the treatment of the problem, namely, Arka, Āsurī, Maṇḍūkī, Hāridrava, and Haridru etc.
-
-Footnotes and references:
-
-[back to top]
 
 [1]:
 
@@ -5282,16 +4449,6 @@ pāmanā jāyeran | Kāṭh. S.  –23/4.
 
 ## 62. Treatment of Pāṇḍuroga (Hariman)
 
-
-Atharvaveda and Charaka Samhita
-
-by Laxmi Maji | 2021 | 143,541 words
-
-This page relates ‘Treatment of Panduroga (Hariman)’ found in the study on diseases and remedies found in the Atharvaveda and Charaka-samhita. These texts deal with Ayurveda—the ancient Indian Science of life—which lays down the principles for keeping a sound health involving the use of herbs, roots and leaves. The Atharvaveda refers to one of the four Vedas (ancient Sanskrit texts encompassing all kinds of knowledge and science) containing many details on Ayurveda, which is here taken up for study.
-
-Go directly to: 
-Footnotes.
-
 Treatment of Pāṇḍuroga (Hariman)
 
 Ṛgveda and Atharvaveda use the term Hariman for Pāṇḍuroga[1]. Pāṇḍuroga is also called Kāmalā-roga. In this disease, the body, eyes, excreta, nails, face etc. turn yellow or orange. The Vedas speak of three kinds of treatment for this disease–treatment with Sunlight, treatment with cow milk and treatment with medicine[2].I/22, Charm against jaundice and related diseases–this is addressed to the patient wherein some remedial procedures are mentioned. First, it is said that patients suffering (heartache) and jaundice shall leave him and go up to the sun. That is to say, Hārimā can be correlated with Kāmalā (Jaundice) in which the yellowish colour of the body is seen and can be treated with morning Sunrays. In Ṛgveda and Atharvaveda, the Sunlight treatment is given great emphasis. The patient is required to strip and sit in the light of the early Sun facing east so that the sunlight falls on his body properly. Sunlight of the morning is beneficial for Kāmalā-roga and Cardiac diseases. Atharvaveda gives two meanings for ‘Gorohitasya’ (gorohitasya)–Sunlight and cow.
@@ -5299,10 +4456,6 @@ Treatment of Pāṇḍuroga (Hariman)
 Secondly, red cow's milk is said to be efficacious in treating Hārimā or Pāṇḍuroga[3]. It produces purple colour by removing green and yellow colours in the body. To cure Harima. the patient is given water to sip which is mixed with the hair of a red bull, i.e., having first poured water upon the back of the bull, he lets the patient drink it. He then ties on an amulet steeped in cow's milk anointed with dregs of ghee while the patient sitting on the skin of a bull. The doctor lets the patient sit on the skin of a bull which is pierced using pegs. The patient is afterwards given milk to drink and porridge of Haridrā to eat. He is anointed with the remnant of the porridge and additional untouched porridge is placed on his couch. Three yellow birds “Śuka”, “Ropaṇākā” and ‘Hāridrava” are tied to the foot of the couch by their left legs. The patient is washed off upon these birds. He is then given a stirred drink and made to step forward and asked to address the birds. Finally, the amulet of hairs from the breast of a red bull, glued together with lac and covered with gold is tied upon the patient[4].
 
 Also, in the Atharvaveda, the holding of Añjana maṇi and Jaṅgiḍa maṇi is said to be useful in the case of Pāṇḍuroga. The drug Añjana is said to be efficacious in treating Hārimā or Pāṇḍuroga. Besides, the following medicines have been said to be beneficial in cases of jaundice, namely -Punarṇavā, Vanaspati, Pippalī and Hāridrava or Haridru. The Atharvaveda gives scant regard to life that is non-human preferring that the sufferings of humans be transposed to them.
-
-Footnotes and references:
-
-[back to top]
 
 [1]:
 
@@ -5329,23 +4482,9 @@ anusūryamiti mantroktasya lomamiśramācamayati || pṛṣṭe pānīya || śa�
 
 ## 63. Treatment of Kaphaja (heart disease)
 
-
-Atharvaveda and Charaka Samhita
-
-by Laxmi Maji | 2021 | 143,541 words
-
-This page relates ‘Treatment of Kaphaja (heart disease)’ found in the study on diseases and remedies found in the Atharvaveda and Charaka-samhita. These texts deal with Ayurveda—the ancient Indian Science of life—which lays down the principles for keeping a sound health involving the use of herbs, roots and leaves. The Atharvaveda refers to one of the four Vedas (ancient Sanskrit texts encompassing all kinds of knowledge and science) containing many details on Ayurveda, which is here taken up for study.
-
-Go directly to: 
-Footnotes.
-
 Treatment of Kaphaja (heart disease)
 
 In the Atharvaveda, Kaphaja heart disease is called Balāsa. Balāsa means a disease that destroys strength or physical strength. Āñjana maṇi, Jaṅgiḍa maṇi and Varaṇa maṇi for the treatment of balāsa, Varaṇa maṇi destroys tuberculosis. The Ṛgveda and the Atharvaveda mention several medicines to cure heart disease. They are—Arjuna, Kṣetriyanāśanī, Cīpudru, Jambīra, Balāsanāśanī, Balāsa bheṣaja, Vṛṣa, Śigru, Soma, Srekaparṇa, Haridru and Hāridrava etc. Even the treatment of Balāsa is inconsequential[1]. Accordingly, A reed is placed into the water of the river and then the patient is washed with the water of the river using a branch of a holly tree so that the water flows down upon the reed. The hymn VI.14 is recited throughout[2].
-
-Footnotes and references:
-
-[back to top]
 
 [1]:
 
@@ -5359,25 +4498,11 @@ palāśodumbarajambukāmpīlasragvaṅghaśirīṣasrattayavaraṇabilvajaṅgi�
 
 ## 64. Treatment of Kāsa (cough)
 
-
-Atharvaveda and Charaka Samhita
-
-by Laxmi Maji | 2021 | 143,541 words
-
-This page relates ‘Treatment of Kasa (cough)’ found in the study on diseases and remedies found in the Atharvaveda and Charaka-samhita. These texts deal with Ayurveda—the ancient Indian Science of life—which lays down the principles for keeping a sound health involving the use of herbs, roots and leaves. The Atharvaveda refers to one of the four Vedas (ancient Sanskrit texts encompassing all kinds of knowledge and science) containing many details on Ayurveda, which is here taken up for study.
-
-Go directly to: 
-Footnotes.
-
 Treatment of Kāsa (cough)
 
 The synonyms for Cough in Atharvaveda are Kāsa, Kāsā, and Kāsikā, etc.[1] In one Sūkta Atharvaveda gives three hymns for curing cough like Mānasa-Cikitsā, Pārthiva-Cikitsā and Sāmudrī-Cikitsā. In Sāmudrī-Cikitsā, the foam of the sea is used to the healing of cough. Swami Brahmamuni has said–where the mucus collects and dries up there the mind is to be focused. If the mind can be focussing then the mucus can be melted[2]. In Bhāvaprakāśa seafoam can neutralize cough. A patient suffering from wet cough is advised by Atharvaveda to live on a hill covered in grass and trees. Then the patient will be cured[3]. Atharvaveda says pippalī is good for cough. Pippalī is called Atividdhabheṣajī and Kṣiptabheṣajī. In Yajurveda and Atharvaveda Māṣa or Uḍada cures headache and respiratory problems[4].
 
 The treatment of Kāsa, that Śleṣmapatana and Ariṣṭa describe: the patient takes a few steps away from his house, having fed himself with a churned drink and porridge while reciting VI.105 and 107[5].
-
-Footnotes and references:
-
-[back to top]
 
 [1]:
 
@@ -5412,16 +4537,6 @@ yathā mano'va diva ityariṣṭena || brahma jajñānamiti sutikāriṣṭakaup
 
 ## 65. Treatment of Skin diseases (Carmaroga) and Leprosy (Kuṣṭha)
 
-
-Atharvaveda and Charaka Samhita
-
-by Laxmi Maji | 2021 | 143,541 words
-
-This page relates ‘Treatment of Skin diseases (Carmaroga) and Leprosy (Kushtha)’ found in the study on diseases and remedies found in the Atharvaveda and Charaka-samhita. These texts deal with Ayurveda—the ancient Indian Science of life—which lays down the principles for keeping a sound health involving the use of herbs, roots and leaves. The Atharvaveda refers to one of the four Vedas (ancient Sanskrit texts encompassing all kinds of knowledge and science) containing many details on Ayurveda, which is here taken up for study.
-
-Go directly to: 
-Footnotes.
-
 Treatment of Skin diseases (Carmaroga) and Leprosy (Kuṣṭha)
 
 [Note: For a detailed study, see the comparative study of Leprosy in the Atharvaveda]
@@ -5432,15 +4547,9 @@ Leprosy turns a person hideous that is why it is called Kuṣṭha.
 
 “śarīraṃkuṣṇātikutsitaṃkarotiitikuṣṭham |”.
 
-“śarīraṃkuṣṇātikutsitaṃkarotiitikuṣṭham |”.
-
 In Atharvaveda, the reason for Kilāsa and Palita has been called Dūṣiḥ[3]. This Doṣas are untimely consumption of meals, aimless and unsystematic movement, bad deeds, illegitimate relationship and having meals with the patient. When Dhatus like flesh, fat and bones are polluted it becomes the reason for Kilāsa and Palita. The medicines for white leprosy or Kilāsa and Palita mention in Atharvaveda are Naktaṃ, Rāmā, Kṛṣṇā, Asiknī, Rajanī, Brahman, Āsurī and Śyāmā etc. Kilāsa and Palita are cured by AV.I.23 and 24. The practices connected with these are given at Kauśika Sūtra[4]. The practising priest while reciting the hymns rubs the sores of the patient till they become red. He smears these with the substances–Bhṛṅgarāja, Haridrā, Indravāruṇī and Nīlikā. He then cuts the white scurf and having covered the patient, performs the rite to the Maruts[5].
 
 The Atharvaveda speaks of the application of Kuṣṭha medicine to alleviate colic or pain or Śūla. It is accompanied by Soma medicine in the Himālayas. It is said to cure headaches, eye and body aches[6]. Kūṭha’s ointment is beneficial for wounds, sores etc. It is also used in chronic skin diseases. The Atharvaveda mentions Pītudāru, Pūtudru or Devadāru. Devadāru decoction is used for diseases like oedema, stone, gonorrhoea, syphilis etc. Its oil is chemistry. Devadāru is used for pain, wounds and skin diseases. Rheumatism, neuralgia or colic is treated by the Kauśika Sūtra in connection with VI.90[7]. An amulet of the spear is attached to the patient while the hymn is being recited by him. The Atharvaveda mentions Pṛṣṭyāmaya or back pain disease[8]. Jaṅgiḍa maṇi, Puṣkara root and orris root are mentioned to cure this disease. The Atharvaveda mentions diseases associated with the spleen and an enlarged disease of the spleen or liver[9]. Pippalī, kṣiptabheṣajī is mentioned to cure this disease. Also, Pippalī and Bibhītaka medicines have been used to cure this disease.
-
-Footnotes and references:
-
-[back to top]
 
 [1]:
 
@@ -5488,23 +4597,9 @@ yakṣmaṃ matasnābhyāṃ plīhno yaknaste vi vṛhāmasi || (AV. –XX/96/19
 
 ## 66. Treatment of Śīrṣakti (headache)
 
-
-Atharvaveda and Charaka Samhita
-
-by Laxmi Maji | 2021 | 143,541 words
-
-This page relates ‘Treatment of Shirshakti (headache)’ found in the study on diseases and remedies found in the Atharvaveda and Charaka-samhita. These texts deal with Ayurveda—the ancient Indian Science of life—which lays down the principles for keeping a sound health involving the use of herbs, roots and leaves. The Atharvaveda refers to one of the four Vedas (ancient Sanskrit texts encompassing all kinds of knowledge and science) containing many details on Ayurveda, which is here taken up for study.
-
-Go directly to: 
-Footnotes.
-
 Treatment of Śīrṣakti (headache)
 
 In the Atharvaveda, the synonymous words for headaches are—Śirṣakti, Śīrṣāmaya and Śīrṣaṇya[1]. The best medicine for headaches is when the sun rises, the rays of the sun should be received in the chest and the sunshine be enjoyed. As a result, all the diseases of the head are destroyed. Another mantra speaks of three ways to get rid of headaches, coughs, etc., such as Sunrays treatment, medical treatment, and living in the mountains[2]. Also, the application of Kuṣṭha medicine cures all headaches which have been described in the Atharvaveda. In the Kauśika Sūtra, the treatment of Śirṣakti is described: The priest while reciting I.12 gives the patient the fat of some animal to drink with ghee and sesame oil. He covers the head of the patient with a turban made of Muñja. The Patient goes with fried grain in a sieve and scatters it with his right hand. The priest proceeds with the patient in front of him with the sieve and the turban in his left hand and a bow-string and an axe in his right hand. They go to the spot where the patient was seized by the disease and put down the sieve and the turban and the bowstring and return home. At home, the patient puts ghee in his nose and the priest supporting the head of the patient with a staff of bamboo having five knots, mutters the hymn[3].
-
-Footnotes and references:
-
-[back to top]
 
 [1]:
 
@@ -5524,23 +4619,9 @@ jarāyuja iti medo madhu sarpistailaṃ pāyayati || mauñjapraśnena śirasyapi
 
 ## 67. Treatment of Dental disease and Toothache
 
-
-Atharvaveda and Charaka Samhita
-
-by Laxmi Maji | 2021 | 143,541 words
-
-This page relates ‘Treatment of Dental disease and Toothache’ found in the study on diseases and remedies found in the Atharvaveda and Charaka-samhita. These texts deal with Ayurveda—the ancient Indian Science of life—which lays down the principles for keeping a sound health involving the use of herbs, roots and leaves. The Atharvaveda refers to one of the four Vedas (ancient Sanskrit texts encompassing all kinds of knowledge and science) containing many details on Ayurveda, which is here taken up for study.
-
-Go directly to: 
-Footnotes.
-
 Treatment of Dental disease and Toothache
 
 The Atharvaveda mentions the treatment of dental disease and toothache. The Atharvaveda mentions the use of sesame seeds in the treatment of dental diseases[1]. There are three types of sesame -white, black, and red. Black sesame is the best, sesame oil is good for teeth. The Atharvaveda also mentions Nyagrodha and banyan trees for dental treatment. In the Maitrāyaṇī Saṃhitā and Yajurveda, the leaves of Indajau, Kuṭaja, Kuṭajavīja and Black Kuṭajavīja are described as medicines for dental diseases.
-
-Footnotes and references:
-
-[back to top]
 
 [1]:
 
@@ -5551,25 +4632,11 @@ vīrut kṣetriyanāśanyapa kṣetriyamucchatu || (AV. –II/8/3); Atharva-Veda
 
 ## 68. Treatment of Eye diseases
 
-
-Atharvaveda and Charaka Samhita
-
-by Laxmi Maji | 2021 | 143,541 words
-
-This page relates ‘Treatment of Eye diseases’ found in the study on diseases and remedies found in the Atharvaveda and Charaka-samhita. These texts deal with Ayurveda—the ancient Indian Science of life—which lays down the principles for keeping a sound health involving the use of herbs, roots and leaves. The Atharvaveda refers to one of the four Vedas (ancient Sanskrit texts encompassing all kinds of knowledge and science) containing many details on Ayurveda, which is here taken up for study.
-
-Go directly to: 
-Footnotes.
-
 Treatment of Eye diseases
 
 The Atharvaveda contains descriptions of medicines for the treatment of eye diseases. In the Atharvaveda, water has been described as a Mahauṣadhi for eye diseases[1]. To cure eye diseases and increase eye strength, some rules of hydrotherapy are—to wash the eyes with cold water for one to two minutes in the morning. Before bathing, the eyes should be dipped four to five times in a wide water container. The eyes should be washed daily with pink alum water. In three sūktas of the Atharvaveda, Āñjana is said to be a beneficial medicine for eye diseases[2].
 
 In the Paippalāda Saṃhitā, Āñjana is said to be a Netra-Jyoti-bardhaka and a killer of hereditary diseases. Beneficial for Kuṣṭha medicine and eye treatment in Atharvaveda. Various medicines for white lotus pollen have been said to be beneficial for eye diseases. Namely—Ābayu, Bibhīdaka, Muñja, Bihahla, Śatavāra, Śara, Śāli, Sarṣapa, Silāñjālā, Srekaparṇa. Atharva Veda VI.16 is a charm against Akṣiroga. The Kauśika Sūtra gives the following rite: While the hymn is being recited, the amulet from the stem of the mustard plant anointed with the dregs of mustard oil is fastened upon the patient. The leaf of the same plant mixed with oil and is given to the patient as well as four fruits of Śāka tree. A Paste made from the sap of the plant is smeared upon the eyelids of the patient. The remaining paste is given to the patient to eat[3].
-
-Footnotes and references:
-
-[back to top]
 
 [1]:
 
@@ -5588,25 +4655,11 @@ IV/9/1-10; XIX/45/1-5; Veda Atharvaveda Saṃhitā, trans. Dilip Mukhopadhyaya, 
 
 ## 69. Treatment of Ear and Oral diseases
 
-
-Atharvaveda and Charaka Samhita
-
-by Laxmi Maji | 2021 | 143,541 words
-
-This page relates ‘Treatment of Ear and Oral diseases’ found in the study on diseases and remedies found in the Atharvaveda and Charaka-samhita. These texts deal with Ayurveda—the ancient Indian Science of life—which lays down the principles for keeping a sound health involving the use of herbs, roots and leaves. The Atharvaveda refers to one of the four Vedas (ancient Sanskrit texts encompassing all kinds of knowledge and science) containing many details on Ayurveda, which is here taken up for study.
-
-Go directly to: 
-Footnotes.
-
 Treatment of Ear and Oral diseases
 
 The Atharvaveda discusses the treatment of ear infections. Sunrays treatment is said to be beneficial for otitis[1]. When the rays of the rising sun are taken in the chest, the diseases like ear pain, headache, etc., are destroyed. The Ṛgveda mentions Śigru for ear treatment. Mixing Śigru glue with mustard oil and taking it in the ear cures ear pain[2].
 
 The Atharvaveda mentions the treatment of oral diseases. In the Ṛgveda mentions Hāridrava. Sāyaṇācārya Hāridrava means Haratāla. Pure Haratāla is used to eradicate oral diseases.
-
-Footnotes and references:
-
-[back to top]
 
 [1]:
 
@@ -5622,23 +4675,9 @@ ajāsaśca śigravo yakṣavaśca bali śīrṣāṇi jabhru raśvyāni || (ṚV
 
 ## 70. Treatment of Broken bones (Asthibhaṅga)
 
-
-Atharvaveda and Charaka Samhita
-
-by Laxmi Maji | 2021 | 143,541 words
-
-This page relates ‘Treatment of Broken bones (Asthibhanga)’ found in the study on diseases and remedies found in the Atharvaveda and Charaka-samhita. These texts deal with Ayurveda—the ancient Indian Science of life—which lays down the principles for keeping a sound health involving the use of herbs, roots and leaves. The Atharvaveda refers to one of the four Vedas (ancient Sanskrit texts encompassing all kinds of knowledge and science) containing many details on Ayurveda, which is here taken up for study.
-
-Go directly to: 
-Footnotes.
-
 Treatment of Broken bones (Asthibhaṅga)
 
 Atharva Veda is a charm against Asthibhaṅga. The treatment of broken bones is described in the Vedas. The Atharvaveda mentions that when a bone is broken, it should be placed and fixed in its proper place. Rohīṇi medicine is applied to reattach broken bones[1]. Arundhatī is mentioned in the Atharvaveda, which is applied to acne, wounds and to rejuvenate broken bones. In the Yajurveda, in the Kāṭhaka Saṃhitā, and the Atharvaveda, it is said that the bark of the Arjuna tree is used to treat fractures. For healing bone-fracture, the Kauśika Sūtra advises in IV. 12; that the patient is to be sprinkled with the essence of Lākṣā plant at dawn and made to drink the Pṛṣātaka mixed with ghee and milk and finally the patient is anointed with it[2]. The Atharvaveda contains references to diseases of the bone and osteoporosis. There is talk of using balāsa medicine to cure this disease[3].
-
-Footnotes and references:
-
-[back to top]
 
 [1]:
 
@@ -5657,23 +4696,9 @@ atho balāsanāśanīḥ kṛtyadū ṣaṇīśca yāstā ihā yantvoṣadhīḥ
 
 ## 71. Treatment of Jambharoga
 
-
-Atharvaveda and Charaka Samhita
-
-by Laxmi Maji | 2021 | 143,541 words
-
-This page relates ‘Treatment of Jambharoga’ found in the study on diseases and remedies found in the Atharvaveda and Charaka-samhita. These texts deal with Ayurveda—the ancient Indian Science of life—which lays down the principles for keeping a sound health involving the use of herbs, roots and leaves. The Atharvaveda refers to one of the four Vedas (ancient Sanskrit texts encompassing all kinds of knowledge and science) containing many details on Ayurveda, which is here taken up for study.
-
-Go directly to: 
-Footnotes.
-
 Treatment of Jambharoga
 
 The Atharvaveda mentions Jambharoga. The two meanings of Jambharoga are to come over Jambhā and to stick two jaws together. Jambharoga is caused by two pairs of jaws. Primarily it is the children. The Atharvaveda speaks of the application of Jaṅgiḍa maṇi for the treatment of this disease[1].
-
-Footnotes and references:
-
-[back to top]
 
 [1]:
 
@@ -5684,21 +4709,9 @@ maṇiḥ sahasravīryaḥ pariṇaḥ pātu viśvataḥ || (AV. –II.4.2); Ved
 
 ## 72. Treatment of Rudhirasrāva (excessive flow of blood)
 
-
-Atharvaveda and Charaka Samhita
-
-by Laxmi Maji | 2021 | 143,541 words
-
-This page relates ‘Treatment of Rudhirasrava (excessive flow of blood)’ found in the study on diseases and remedies found in the Atharvaveda and Charaka-samhita. These texts deal with Ayurveda—the ancient Indian Science of life—which lays down the principles for keeping a sound health involving the use of herbs, roots and leaves. The Atharvaveda refers to one of the four Vedas (ancient Sanskrit texts encompassing all kinds of knowledge and science) containing many details on Ayurveda, which is here taken up for study.
-
-Go directly to: 
-Footnotes.
-
 Treatment of Rudhirasrāva (excessive flow of blood)
 
 Atharva Veda is a charm against Rudhirasrāva. There is only one hymn in the Atharva Veda (I.17) which is used as a charm against “excessive flow of blood”[1]. According to Keśava, it is to be noted that—
-
-“atha lohitaṃ vahati śarīramadhye bahiśca, rudhiravraṇe strīrajaso'bhipravartane ca bhaiṣajyam”.
 
 “atha lohitaṃ vahati śarīramadhye bahiśca, rudhiravraṇe strīrajaso'bhipravartane ca bhaiṣajyam”.
 
@@ -5707,10 +4720,6 @@ On being attacked by weapons the body loses blood. Sometimes blood is lost in di
 In Atharvaveda Āsrāvabheṣaja and two hymns, the soil of Valmīka are mention as having curative medicines[3]. Also, Cīpudru and Āñjana can stop blood flow. In the Vedas, certain medicines are said to be effective for stopping the flow of blood like Darbha, Muñja, Aśvattha, Arjuna, Arundhatī, Tejana, Lākṣā and Vaṃśa etc. The performance meant to check such a flow of blood is given by the Kauśika Sūtra. The Practising priest, as he recites I.17, strews sand and dust around the wound with a bamboo staff having five knots. Again, he strews sand and dust. The mud from the marsh is tied. A solution of it is given to the patient to drink, and also a mixture of curds and ground sesame together with four tips of millet grass[4].
 
 In the treatment of Āsrāva, a stalk of Muñja reed with a cord made from the same plant is tied on the patient as an amulet. Having mashed up a natural lump of earth with earth from the ant-hill, he gives the resultant solution to the patient to drink. He then coats him with clarified butter and finally blows through his rectum, while reciting I.2 and II.2[5].
-
-Footnotes and references:
-
-[back to top]
 
 [1]:
 
@@ -5739,23 +4748,9 @@ apidhamati ||(Kauśika Sūtra 25.6-9); Atharvavedīya–Kauśika Gṛhyasūtra�
 
 ## 73. Treatment of Vilohita (Polypus)
 
-
-Atharvaveda and Charaka Samhita
-
-by Laxmi Maji | 2021 | 143,541 words
-
-This page relates ‘Treatment of Vilohita (Polypus)’ found in the study on diseases and remedies found in the Atharvaveda and Charaka-samhita. These texts deal with Ayurveda—the ancient Indian Science of life—which lays down the principles for keeping a sound health involving the use of herbs, roots and leaves. The Atharvaveda refers to one of the four Vedas (ancient Sanskrit texts encompassing all kinds of knowledge and science) containing many details on Ayurveda, which is here taken up for study.
-
-Go directly to: 
-Footnotes.
-
 Treatment of Vilohita (Polypus)
 
 The Atharvaveda discusses the treatment of Vilohita or Polypus[1]. Nakasīra means nasal blood-bile. Naksī is treated with sun rays. Or if you take the rays of the rising sun every day, this disease will end[2]. In the Ṛgveda, Pākadūrvā and the Atharvaveda, the treatment of Naksī by Śāṇḍadūrvā is mentioned.
-
-Footnotes and references:
-
-[back to top]
 
 [1]:
 
@@ -5771,23 +4766,9 @@ yakṣamāṇāṃ sarveṣāṃ viṣaṃ niravocamahaṃ tvat || (AV. –IX/8/
 
 ## 74. Treatment of Wounds (Vraṇa)
 
-
-Atharvaveda and Charaka Samhita
-
-by Laxmi Maji | 2021 | 143,541 words
-
-This page relates ‘Treatment of Wounds (Vrana)’ found in the study on diseases and remedies found in the Atharvaveda and Charaka-samhita. These texts deal with Ayurveda—the ancient Indian Science of life—which lays down the principles for keeping a sound health involving the use of herbs, roots and leaves. The Atharvaveda refers to one of the four Vedas (ancient Sanskrit texts encompassing all kinds of knowledge and science) containing many details on Ayurveda, which is here taken up for study.
-
-Go directly to: 
-Footnotes.
-
 Treatment of Wounds (Vraṇa)
 
 Atharva Veda is a charm against Vraṇa. If recent pains and sores remain in the body then it is called Sadyovraṇa or Āśughāta. The Atharvaveda prescribes water as the best treatment for Sadyovraṇa[1]. The sore is to be moistened in cold water and a thick cloth is to be placed on the sour and bandaged. This proves profitable. Also, Atharvaveda mentions the use of the following medicines–Lākṣā, Plakṣa, Nyagrodha, Bhadra, Aśvattha, Khadira, Śāṇḍadūrvā, and Śilācī etc. If anyone has even a thousand arrow wounds then application of water can heal the person if it is applied immediately. It is said in the Hymn that God Rudra recommends the use of water as treatment. The wound caused by a single arrow and recently formed thousands of wounds can be treated in this way. Also, medicine Rohiṇī can be used to heal wounds and Kṣata, vraṇa. This medicine can also be used to treat fractures and wounds inflicted by swords[2]. In the hymns, Rohiṇī is synonyms with Arundhatī and Lākṣā. To stop the bleeding due to injuries made by swords Lākṣā is to be boiled in hot water and poured on the affected area, clean and tied with cloth. Atharvaveda mentions the use of Pāṭhā and Guggulu Medicines. Wounds are of different types. For the treatment of injuries as given in the Kauśika Sūtra, it is proposed that the patient consume peppercorns as the recitation of VI.109 proceeds simultaneously[3].For unopened wounds or Akṣata Varṇa Kauśika Sutra has a special treatment in 31.11-15 in hymn VI.57[4]. The rite is based upon the cure known as Jālāṣa which is the special gift from Rudra. It means cow’s urine. The tumour is first moistened with it then sprinkled upon with it and finally washed. Then the wound is smeared with the scouring from teeth along with pollen from bunches of grass.
-
-Footnotes and references:
-
-[back to top]
 
 [1]:
 
@@ -5811,23 +4792,9 @@ idamidvā ityakṣataṃ mūtraphe nenābhyudya || prakṣipati || prakṣālaya
 
 ## 75. Treatment of Rakta-vikāra (Haemoptysis)
 
-
-Atharvaveda and Charaka Samhita
-
-by Laxmi Maji | 2021 | 143,541 words
-
-This page relates ‘Treatment of Rakta-vikara (Haemoptysis)’ found in the study on diseases and remedies found in the Atharvaveda and Charaka-samhita. These texts deal with Ayurveda—the ancient Indian Science of life—which lays down the principles for keeping a sound health involving the use of herbs, roots and leaves. The Atharvaveda refers to one of the four Vedas (ancient Sanskrit texts encompassing all kinds of knowledge and science) containing many details on Ayurveda, which is here taken up for study.
-
-Go directly to: 
-Footnotes.
-
 Treatment of Rakta-vikāra (Haemoptysis)
 
 Atharvaveda talks about Rakta-vikāra or Haemoptysis disease. On tying Audumbara maṇi this disease can be neutralized. Other than this, in Atharvaveda, the following medications are recommended as having curative properties with regards to this disease–Dūrvā, Puṇḍrīka and Plakṣa etc. Also, in Maitrāyaṇī and Kāṭhaka Saṃhitā Tilvaka and Bhūrja trees are mentioned. This can be used to treat Rakta-vikāra disease[1]. Atharvaveda talks about Raktātisāra. Maitrāyaṇī Saṃhitā mentions Upavāka or Upavākā medicine or Indrayava as a treatment for Rakta-vikāra disease[2]. Atharvaveda talks of Khadira as a cure for Raktātisāra[3]. Other than this Bilva, Maṇḍūkī or root of Maṇḍūkaparṇī is good for this disease. Ṛgveda mentions Śālmali tree as a cure for Raktātisāra[4].
-
-Footnotes and references:
-
-[back to top]
 
 [1]:
 
@@ -5851,25 +4818,11 @@ sukiṃ śukaṃ śalmaliṃ viśvarūpaṃ hiraṇyavarṇaṃ suvṛtaṃ suca
 
 ## 76. Treatment of Tṛṣṇā (excessive thirst)
 
-
-Atharvaveda and Charaka Samhita
-
-by Laxmi Maji | 2021 | 143,541 words
-
-This page relates ‘Treatment of Trishna (excessive thirst)’ found in the study on diseases and remedies found in the Atharvaveda and Charaka-samhita. These texts deal with Ayurveda—the ancient Indian Science of life—which lays down the principles for keeping a sound health involving the use of herbs, roots and leaves. The Atharvaveda refers to one of the four Vedas (ancient Sanskrit texts encompassing all kinds of knowledge and science) containing many details on Ayurveda, which is here taken up for study.
-
-Go directly to: 
-Footnotes.
-
 Treatment of Tṛṣṇā (excessive thirst)
 
 Atharva Veda is a charm against Tṛṣṇā. The Atharvaveda mentions the disease of Tṛṣṇā or thirst[1]. It means getting thirstier or dying of more thirst. When the incidence of bile in the body is high, air rises and flows to the palate, this results in thirst or thirst disease. Excessive thirst caused by some disease receives special attention in Atharva Veda. II. 29 with special parlance at Kauśika Sūtra[2]. The Interesting practice is as follows: while the priest recites II.29 at day-break, the patient and a healthy person sit back-to-back. The patient faces east. The performer then stirs a drink in a cup of Vetasa using two reeds on the head of the patient and then gives it to the healthy person. Thus, the thirst of the person is transferred. The patient is then given freshly drawn water to drink. Finally, while reciting II.29.6 the two are covered with the same garment and are given the stirred liquid to drink.
 
 The Atharvaveda, speaks of the use of Apāmārga drugs for the treatment of this disease. The Atharvaveda also mentions the application of other medicines: namely-Avakā, Dūrvā, Puṇḍrīka, Madhūka, Barley, Banyan tree, Śara etc.
-
-Footnotes and references:
-
-[back to top]
 
 [1]:
 
@@ -5884,23 +4837,9 @@ pārthivasyetyudyati pṛṣṭasaṃhitāvupaveśayati || prāṅmukhaṃ vyād
 
 ## 77. Treatment of Raktapitta and Raktavamana
 
-
-Atharvaveda and Charaka Samhita
-
-by Laxmi Maji | 2021 | 143,541 words
-
-This page relates ‘Treatment of Raktapitta and Raktavamana’ found in the study on diseases and remedies found in the Atharvaveda and Charaka-samhita. These texts deal with Ayurveda—the ancient Indian Science of life—which lays down the principles for keeping a sound health involving the use of herbs, roots and leaves. The Atharvaveda refers to one of the four Vedas (ancient Sanskrit texts encompassing all kinds of knowledge and science) containing many details on Ayurveda, which is here taken up for study.
-
-Go directly to: 
-Footnotes.
-
 Treatment of Raktapitta and Raktavamana
 
 Atharvaveda talks about Raktapitta and Raktavamana. This disease causes vomiting of blood. It is stated in Atharvaveda that this disease can be negated by Udumvara and Vaṭa[1]. Yajurveda says that Śālmali tree can cure Raktapitta and Raktavamana[2].
-
-Footnotes and references:
-
-[back to top]
 
 [1]:
 
@@ -5914,16 +4853,6 @@ pipīlikāvaṭaśvaso vid yutsvāparṇaśapho gośapho jaritaro'thāmo daiva |
 
 ## 78. Treatment of Keśavṛddhi (hair loss and growth)
 
-
-Atharvaveda and Charaka Samhita
-
-by Laxmi Maji | 2021 | 143,541 words
-
-This page relates ‘Treatment of Keshavriddhi (hair loss and growth)’ found in the study on diseases and remedies found in the Atharvaveda and Charaka-samhita. These texts deal with Ayurveda—the ancient Indian Science of life—which lays down the principles for keeping a sound health involving the use of herbs, roots and leaves. The Atharvaveda refers to one of the four Vedas (ancient Sanskrit texts encompassing all kinds of knowledge and science) containing many details on Ayurveda, which is here taken up for study.
-
-Go directly to: 
-Footnotes.
-
 Treatment of Keśavṛddhi (hair loss and growth)
 
 In Atharva Veda said charms against Keśavṛddhi. The Atharvaveda discusses the treatment of diseases such as hair loss, hair growth and keśadṛṅhaṇa. There are descriptions of Nitatnī medicine in two sūktas in Atharvaveda[1]. It enlarges the hair and strengthens the hair follicles. It helps to grow new hair in places where there is no hair.  Devī and Cupunīkā are other names for Nitatnī medicine. This medicine is found underground. Sāyaṇācārya means—Nyakprasaraṇaśīlā Auṣadhi [auṣadhiḥ], Kākamācīpramṛti Auṣadhi [auṣadhiḥ]. Kākamācī is called Makoya. According to Kauśika Sūtra, to prevent hair loss, Makoya has to be applied mixed with Bhṛṅgarāja. In Atharvaveda, it is said that hair loss and baldness are cured by the application of Nitatnī medicine. This medicine used for hair makes it grow very fast, and long the hair grows strong, white hair turns black and the hair disease is cured. More fascinating are the practices laid out in the Kauśika Sūtra for growth of hair, in connection with VI.21[2]. But to some extent they are abstruse: the person desiring growth of hair is washed off as the hymn is being recited with water heated by burning plants that have grown upon earth under trees.
@@ -5932,19 +4861,11 @@ His head is washed with an effusion prepared by heating dice in water and also f
 
 “dāruharidrā”;
 
-“dāruharidrā”;
-
 And according to Sāyaṇa—
 
 “haridrākvāthodakena”.
 
-“haridrākvāthodakena”.
-
 There is a much-particularised formula for growing hair. Again, in VI.136 Kauśika Sūtra advises the consumption of the fruit of the plant Nitatnī together with Jīvī and Alākā[3]. All these are distilled into a solution and poured upon the head of the person wishing for the growth of hair. The performance is to be undertaken early in the morning by the priest who is clothed in black and has had black food. In a mantra in the Atharvaveda, the soil is used as a herbal product for hair. In the Atharvaveda, Kuṣṭha medicine and Śamī tree is said to be beneficial for hair. Besides, in the Atharvaveda, it has been said that it is beneficial for the hair-like Jīvantī or Pāṭhā medicine, sesame, Bibhīdaka etc. In the Paippalāda Saṃhitā, Kṣetriyanāśanī Vīrudh is said to be beneficial for hair. The Śyāmā and Sarūpaṅkaranī herbs mentioned in the Atharvaveda are also said to be beneficial for blackening hair[4].
-
-Footnotes and references:
-
-[back to top]
 
 [1]:
 
@@ -5968,23 +4889,9 @@ idamū ṣu pra sādhaya punā rūpāṇi kalpaya || (AV. –I/24/4); K. L. Josh
 
 ## 79. Treatment of Prameha (diabetes)
 
-
-Atharvaveda and Charaka Samhita
-
-by Laxmi Maji | 2021 | 143,541 words
-
-This page relates ‘Treatment of Prameha (diabetes)’ found in the study on diseases and remedies found in the Atharvaveda and Charaka-samhita. These texts deal with Ayurveda—the ancient Indian Science of life—which lays down the principles for keeping a sound health involving the use of herbs, roots and leaves. The Atharvaveda refers to one of the four Vedas (ancient Sanskrit texts encompassing all kinds of knowledge and science) containing many details on Ayurveda, which is here taken up for study.
-
-Go directly to: 
-Footnotes.
-
 Treatment of Prameha (diabetes)
 
 Prameha and Madhumeha are mentioned in the Atharvaveda. Causes of prameha are eating more sweets, sitting in one place for a long time and sleeping irregularly. Prevalence of gonorrhoea and diabetes is excessive sweating, limb relaxation, increased desire for comfort, obesity of the body, dryness in the throat and palate, sweetness in the mouth, irritation in the hands and feet, and ants on the urine[1]. The Atharvaveda, mentions some medicines for relieving this disease, viz —Pippalī, Kṣiptabheṣajī Khadira, Tilvaka, Balā and Śāla etc.
-
-Footnotes and references:
-
-[back to top]
 
 [1]:
 
@@ -5995,16 +4902,6 @@ pramehā viṃśatistatra śleṣmato daśa, pittataḥ |
 
 ## 80. Treatment of Impotency
 
-
-Atharvaveda and Charaka Samhita
-
-by Laxmi Maji | 2021 | 143,541 words
-
-This page relates ‘Treatment of Impotency’ found in the study on diseases and remedies found in the Atharvaveda and Charaka-samhita. These texts deal with Ayurveda—the ancient Indian Science of life—which lays down the principles for keeping a sound health involving the use of herbs, roots and leaves. The Atharvaveda refers to one of the four Vedas (ancient Sanskrit texts encompassing all kinds of knowledge and science) containing many details on Ayurveda, which is here taken up for study.
-
-Go directly to: 
-Footnotes.
-
 Treatment of Impotency
 
 Atharva Veda is a charm against Vājīkaraṇa. The Atharvaveda discusses the treatment of impotency. Impotence is the absence of the origin of the dhātu in the body or the weakness of the sperm which does not produce offspring[1]. In the Atharvaveda, the disease is eradicated by taking Kuṣṭha medicine and Apāmārga medicine. The weakening of the male reproductive organs is eliminated by taking Apāmārga medicine. The Atharvaveda also mentions Vājīkaraṇa medicine or Vṛṣā, Aśvagandhā medicine[2]. This is energy-boosting and Vājīkaraṇa. In the Atharvaveda, Arka is called Vājīkaraṇa. In the Atharvaveda, Kalyānī i.e., Māṣaparṇī, Pṛśniparṇī, Piṭhavana medicine is said to increase aphrodisiac and Vājīkaraṇa.
@@ -6014,16 +4911,9 @@ To promote potency of a man IV.4 and the additional mantras-
 “vṛṣaṇaste khanitāro vṛṣā tvamasyoṣadhe |
 vṛṣāsi vṛṣṇyāvati vṛṣaṇe tvā khanāmasi ||”
 
-“vṛṣaṇaste khanitāro vṛṣā tvamasyoṣadhe |
-vṛṣāsi vṛṣṇyāvati vṛṣaṇe tvā khanāmasi ||”
-
 T in Kauśika Sūtra are recited. During the recitation, the plants Ucchuṣmā and Parivyādha are dug up with an iron instrument. Two decoctions of plants are poured into milk. They are drunk after having placed a bow into the lap. The person is required to sit on a stake or a pestle while the ceremony is carried through[3].
 
 Babhrū is mentioned in the Atharvaveda. It is a semen enhancer and beneficial for the nervous system. Yajurveda and Atharvaveda mention the Nyagrodha or banyan tree. This can be used to treat impotence. Potency and the testosterone-related problem is called dhātu-roga. Atharvaveda prescribed Āñjana is medicine for dhātu-roga. Gonorrhoea is caused by physical intimacy. It causes itching in private parts. The following medication used includes Nyagrodha, Punarṇavā, Bhaṅgā or Gāñjā.
-
-Footnotes and references:
-
-[back to top]
 
 [1]:
 
@@ -6043,16 +4933,6 @@ yāṃ tvā gandharvo akhanad vṛṣaṇastekhanitāro vṛṣā tvamasyoṣadh
 
 ## 81. Treatment of Mental illness
 
-
-Atharvaveda and Charaka Samhita
-
-by Laxmi Maji | 2021 | 143,541 words
-
-This page relates ‘Treatment of Mental illness’ found in the study on diseases and remedies found in the Atharvaveda and Charaka-samhita. These texts deal with Ayurveda—the ancient Indian Science of life—which lays down the principles for keeping a sound health involving the use of herbs, roots and leaves. The Atharvaveda refers to one of the four Vedas (ancient Sanskrit texts encompassing all kinds of knowledge and science) containing many details on Ayurveda, which is here taken up for study.
-
-Go directly to: 
-Footnotes.
-
 Treatment of Mental illness
 
 In Brāhmaṇa texts and Upaniṣads, the mind is called Brahma, Samrāṭ, Brahmā and Prajāpati[1]. The power of the mind is infinite. In the Ṛgveda mentions that the power of the mind can heal the patient only by the touch of the hand. Auto-suggestion treatment method was discovered with the help of this method. According to Suśruta, there are four types of disease—Āgantuka, physical, mental and normal. Among them, mental illness arises from anger, jealousy, envy, lust, greed etc.[2] According to Ācārya Caraka, mental illness arises from the crime of wisdom. When the intellect, patience and memory are corrupted, when people do evil deeds, the reasons for provoking all kinds of physical and mental diseases are called wisdom crimes. There are three causes of mental illness, namely-Hereditary, psychic, physical[3].
@@ -6061,17 +4941,11 @@ Pleasure and well-being of the mind keep people silent and the mind is polluted 
 
 ‘tanme manaḥ śivasaṃkalpamastu |’.[4]
 
-‘tanme manaḥ śivasaṃkalpamastu |’.[4]
-
 The Atharvaveda describes the treatment of anger or Krodha[5]. There is mention of Darbha and Bhūrimūla medicine. Darbha is called Kuśa. In Bhāvaprakāśa, Darbha is called cool. Kush has soaked in water and drinking that water calms the anger. Bhūrimūla means many roots added. It is also applied for coldness.
 
 In the Atharvaveda, medicines like Soma etc., are mentioned to remove doṣas like illusions (Moha) and mourning (Śoka)[6]. Among them, diseases like śapathya, varuṇya etc., are also treated by Soma medicine.
 
 The Atharvaveda describes the medicine for jealousy or Īrṣā. Medicines for this disease are found near the sea[7]. In the Atharvaveda, species of jealousy–just as fire burns a tree, so jealousy consumes human life. Just as cold-water quenches fire, so jealousy must be quenched by water of corpse judgement. The medicine for jealousy is sea fruit or Sindhu-phala. In Nighaṇṭu Ratnākara, the quality of Sindhu-phala has been mentioned. The Sindhu-phala destroys delusions, jealousy and headaches. In Śāligrāma Nighaṇṭu it is said that this fruit is more in Koṅkaṇadeśa. The Sindhu-phala is like large cardamom, has three edges, and hangs like a rope from a tree.
-
-Footnotes and references:
-
-[back to top]
 
 [1]:
 
@@ -6112,23 +4986,9 @@ ariṣṭanemiṃ pṛtanājimāśuṃ svastaye tārkṣyamihā huvema || (AV. �
 
 ## 82. Treatment of Dāharoga (burning disease)
 
-
-Atharvaveda and Charaka Samhita
-
-by Laxmi Maji | 2021 | 143,541 words
-
-This page relates ‘Treatment of Daharoga (burning disease)’ found in the study on diseases and remedies found in the Atharvaveda and Charaka-samhita. These texts deal with Ayurveda—the ancient Indian Science of life—which lays down the principles for keeping a sound health involving the use of herbs, roots and leaves. The Atharvaveda refers to one of the four Vedas (ancient Sanskrit texts encompassing all kinds of knowledge and science) containing many details on Ayurveda, which is here taken up for study.
-
-Go directly to: 
-Footnotes.
-
 Treatment of Dāharoga (burning disease)
 
 The Atharvaveda mentions the application of Pūtudru and Cīpudru to alleviate Dāharoga or burning disease[1]. It is also mentioned in the Atharvaveda as Sarakaṇḍā and Śāṇḍadūrvā to soothe the burning sensation. These two medicines are diuretics. These two medicines calm the irritation that occurs when urine is stuck. In the Atharvaveda, there are references to Āśarīka, Aṅgaśūla and Viśarīka diseases. These two diseases are treated by Jaṅgiḍa Maṇi[2]. Arjuna or Jaṅgiḍa bark is applied on limbs, bleeding and fractures.
-
-Footnotes and references:
-
-[back to top]
 
 [1]:
 
@@ -6144,23 +5004,9 @@ takmānaṃ viśvaśāradamarasāṃ jaṅgiḍaskarat || (AV. –XIX/34/10); At
 
 ## 83. Treatment of Ulcers
 
-
-Atharvaveda and Charaka Samhita
-
-by Laxmi Maji | 2021 | 143,541 words
-
-This page relates ‘Treatment of Ulcers’ found in the study on diseases and remedies found in the Atharvaveda and Charaka-samhita. These texts deal with Ayurveda—the ancient Indian Science of life—which lays down the principles for keeping a sound health involving the use of herbs, roots and leaves. The Atharvaveda refers to one of the four Vedas (ancient Sanskrit texts encompassing all kinds of knowledge and science) containing many details on Ayurveda, which is here taken up for study.
-
-Go directly to: 
-Footnotes.
-
 Treatment of Ulcers
 
 The word ulcer is found in the Atharvaveda. In Ayurveda, it is called Vidradhi. The symptoms of Vidradhi in Aṣṭāṅga Hṛdaya have been mentioned -By indulgence in stale foods (kept overnight), very hot, dry (without moisture and fat), dried up, those causing burning sensation during digestion; lying on an uneven bed, improper movement of the body parts and those (foods and activities) which cause vitiation of blood; the doṣas getting aggravated cause vitiation of the skin, muscle, fat, bone ligaments, blood and tendons and tendons and produce a swelling arising from them (any one or more) either outside or inside (the body) situated deep inside accompanied with severe pain; being either round or wide this is known as Vidradhi (abscess); it is of six kinds; from each doṣa separately, from the combination of all, from blood and trauma[1].In case of immature ulcer antar-vidradhi, Rakta-sajinā will be applied in feeding the food and coating and considering the defect, it should be taken with appropriate medicine in it. It will destroy an immature Vidradhi. To alleviate the evil antar-vidradhi, honey and Śigru should be drunk quickly and its Yavāgu should be made and eaten. It has been said in the Aṣṭāṅga Hṛdaya that one should be saved from the mature Vidradhi. Because when ripe, its treatment becomes impossible. Therefore, it is known that the application of Guggulu, Śilājatu and Madhuśigru is very beneficial in the treatment of Vidradhi. Śigru is mentioned in Ṛgveda and Guggulu is mentioned in Atharvaveda[2]. These two medicines are very useful medicines for Vidradhi. It is said three mantras of Atharvaveda’s, the application of Cīpudru for the treatment of Vidradhi, Balāsa and Visarpa diseases. Cīpudru application is extremely beneficial for eye, ear and heart diseases. The Atharvaveda mentions the Śāla tree. Its essence is called glue. It has medicinal properties. It is used to treat ulcers, ear infections, vaginal diseases, poisoning, acne and skin diseases.
-
-Footnotes and references:
-
-[back to top]
 
 [1]:
 
@@ -6175,25 +5021,11 @@ yaṃ bheṣajasya gulguloḥ surabhirgandho...... (AV. –XIX/38/1-3); K. L. Jo
 
 ## 84. Treatment to neutralize Poison
 
-
-Atharvaveda and Charaka Samhita
-
-by Laxmi Maji | 2021 | 143,541 words
-
-This page relates ‘Treatment to neutralize Poison’ found in the study on diseases and remedies found in the Atharvaveda and Charaka-samhita. These texts deal with Ayurveda—the ancient Indian Science of life—which lays down the principles for keeping a sound health involving the use of herbs, roots and leaves. The Atharvaveda refers to one of the four Vedas (ancient Sanskrit texts encompassing all kinds of knowledge and science) containing many details on Ayurveda, which is here taken up for study.
-
-Go directly to: 
-Footnotes.
-
 Treatment to neutralize Poison
 
 Atharva Veda is a charm against Sarpaviṣa-nāśana. There are several hymns in the Atharva Veda which are used by the Kauśika Sūtra for neutralising poison. These hymns are in honour of Takṣaka, the mythical serpent deity. While reciting IV.6 in low voice, making obeisance to Takṣaka Vaiśāleya, the practising priest gives to the patient water to drink and sprinkles water over him. The same performance is repeated with water in which pieces of Krumuka are placed. The priest then sprinkles over the patient water warmed by quenching in it a heated old garment or a heated old skin of an antelope or a heated wisp or broom. A mixed drink is stirred using two arrows whose points are daubed with poison and turned upwards, in a water-vessel which has been smeared with the dregs of ghee. Then lumps of earth are broken into it while the hymn is being recited stanza by stanza. The mixture is given to the patient till he begins to vomit. Finally, the patient is given a yellow Curcuma to drink[1].
 
 In another practice which is in continuation with the one just mentioned: The poison is confined with the second stanza of V.13 i.e.; a rope is fastened about the patient when stanza two is being recited. The priest walks about the patient towards the left and fastens a bunch of grass to the tuft of the patient’s hair. Finally, the patient is given to drink from a gourd which is then tied to the naval of the patient[2]. Atharvaveda -X.10 prescribes methods for removal of poison. In the practices connected with it the Paidva becomes the main element in the removal of poison[3].The process commences with the performance of the rites connected with IV.6. After which, having ground up Paidva the person, suffering from snakebite, puts the ground material in his right nostril with his right thumb. The patient is then rubbed from head to foot; the wounded part is heated with a torch; which is then flung at the serpent or in the direction of the serpent or on the spot where it had bitten the patient. If one is scared of serpents, one hides the Paidva in his attire. In connection with VI.12, the practices are repeated. However, in this case, the patient is given Madhiśībha [madhiśībhaṃ] (honey mixture) before the healing ritual is undertaken[4]. The ants Upajīkā are supposed to be endowed with water having curative properties. At Kauśika Sūtra 31.26 in connection with VI.100, this particular water mixed with warm water is recommended as a solution with for plastering the body of the patient as well as an amulet of earth from the anthill[5].
-
-Footnotes and references:
-
-[back to top]
 
 [1]:
 
@@ -6219,25 +5051,11 @@ devā aduriti valmīkena bandhanapāyanācamanapradehanamuṣṇena || (Kauśika
 
 ## 85. Treatment of Kṛmi (worms)
 
-
-Atharvaveda and Charaka Samhita
-
-by Laxmi Maji | 2021 | 143,541 words
-
-This page relates ‘Treatment of Krimi (worms)’ found in the study on diseases and remedies found in the Atharvaveda and Charaka-samhita. These texts deal with Ayurveda—the ancient Indian Science of life—which lays down the principles for keeping a sound health involving the use of herbs, roots and leaves. The Atharvaveda refers to one of the four Vedas (ancient Sanskrit texts encompassing all kinds of knowledge and science) containing many details on Ayurveda, which is here taken up for study.
-
-Go directly to: 
-Footnotes.
-
 Treatment of Kṛmi (worms)
 
 [Note: For a detailed study, see the comparative study of Worm infestation in the Atharvaveda]
 
 Atharva Veda is a charm against Kṛmināśana. There are three charms in the Atharvaveda (II.31;32; V.23) against worms. Of these the first two are general, to be used against worms; but the last one is specifically against worms in children. The practices connected with the former are given at Kauśika Sūtra[1]. With the recital of II.31 oblation of Khalvaṅga, Algaṇḍū and Hanana are mixed with ghee and presented. Young worms are wound round a black-spotted arrow from the right to the left. That arrow is roasted in the fire. With the face turned to the south, dust is thrown and scattered over the patient with the left hand. The patient mills the dust and feeds ordinary fuel to the fire. For worms in children, the Kauśika Sūtra prescribes practices in connection with II.31 and V.23. They consist of chanting V.23 with the use of Karīra in place of the rite of the arrow mentioned above.
-
-Footnotes and references:
-
-[back to top]
 
 [1]:
 
@@ -6247,23 +5065,9 @@ indrasya yā mahīti khalvaṅgānalāṇḍū n hananān ghṛtamiśrāñjuhoti
 
 ## 86. Treatment of Aśmarī (stone disease)
 
-
-Atharvaveda and Charaka Samhita
-
-by Laxmi Maji | 2021 | 143,541 words
-
-This page relates ‘Treatment of Ashmari (stone disease)’ found in the study on diseases and remedies found in the Atharvaveda and Charaka-samhita. These texts deal with Ayurveda—the ancient Indian Science of life—which lays down the principles for keeping a sound health involving the use of herbs, roots and leaves. The Atharvaveda refers to one of the four Vedas (ancient Sanskrit texts encompassing all kinds of knowledge and science) containing many details on Ayurveda, which is here taken up for study.
-
-Go directly to: 
-Footnotes.
-
 Treatment of Aśmarī (stone disease)
 
 The Atharvaveda describes the treatment of stone disease or Aśmarī. Aṣṭāṅga Hṛdaya has been said to be the cause of stone disease, when the vāyu(vāta) covers the mouth of the bladder and dries up the urine (inside); then urine getting mixed with pitta, kapha or semen, gives rise to the formation of Aśmarī (stone, calculus) just as Gorocanā (ox gall) gets formed from pitta (bite) in the (bite) in the (body of) ox; all of these are having kapha as their receptacle (their mass). Its premonitory symptoms are distention of the bladder, severe pain in and around the site of stone, urine emitting the smell of goat, difficulty for the elimination of urine, fever and loss of appetite[1]. According to Ācārya Suśruta, the stone is a terrible disease. It is as deadly as Yama. In the initial stage, it is cured with medicine but if it increases it is cured by surgery[2]. According to Ācārya Suśruta, mixing honey with crushed Gokharu seeds and mixing it with goat’s milk for a week destroys the stone[3]. It has been said in the Aṣṭāṅga Hṛdaya, that the extract of  the root of the horseradish tree sings in a little hot water and pushes the stone out. The Atharvaveda mentions the names of some medicines, which are beneficial in the case of stone. Namely-Varaṇa tree is beneficial for stone disease. Take one hundred grams of Varuṇa tree bark and heat it four times in water. When the water is halved, you have to drink that water twice a day. In this way, after playing for five to six days, the stone melts and goes out with the urine. Other medicines are Arjuna, Guggulu, Pītudāru, Pūtadru, Vetasa, and Kuśa etc. There are some medicines in Atharvaveda which are added to prevent vomiting. Namely—Jambīra, Dūrvā and Yabāṣa.
-
-Footnotes and references:
-
-[back to top]
 
 [1]:
 
@@ -6285,25 +5089,11 @@ trikaṇṭakasya bījānāṃ cūrṇaṃ mākṣikasaṃyutam || (Suśruta Cik
 
 ## 87. Treatment of Hṛdayāmaya (Heart disease)
 
-
-Atharvaveda and Charaka Samhita
-
-by Laxmi Maji | 2021 | 143,541 words
-
-This page relates ‘Treatment of Hridayamaya (Heart disease)’ found in the study on diseases and remedies found in the Atharvaveda and Charaka-samhita. These texts deal with Ayurveda—the ancient Indian Science of life—which lays down the principles for keeping a sound health involving the use of herbs, roots and leaves. The Atharvaveda refers to one of the four Vedas (ancient Sanskrit texts encompassing all kinds of knowledge and science) containing many details on Ayurveda, which is here taken up for study.
-
-Go directly to: 
-Footnotes.
-
 Treatment of Hṛdayāmaya (Heart disease)
 
 Heart disease is mentioned in Ṛgveda and Atharvaveda. The term heart disease refers to the Hṛdayāmaya, Hṛddyota and Hṛddyotana. Heartburn, tremors and pain are called heart disease or Hṛdayāmaya. According to Ācārya Suśruta, if the velocity of excrement is stopped, a person indulges in excessive consumption of hot and dry food, there is adhyaśana, indigestion, then perverted defects enter the heart, contaminates the blood and causes obstruction in the heart, which is called heart disease[1]. The Ṛgveda and the Atharvaveda speak of natural remedies for heart disease by treatment of the blood and obstruction of the heart using the following methods of treatment-Sunrays' treatment, Moon rays' treatment and Hydrotherapy. The short rule of sunrays treatment is that a person with heart disease and pāṇḍu roga should be sitting in front of the rising sun for at least fifteen minutes every morning. Take off your clothes in summer and light clothes in winter so that the rays of the sun fall directly on the chest and at that time Ouṃ or Gāyatrī will chant the mantra. This eliminates the deformity of the heart. Fill the bottle with water wrapped in orange paper and leave it in the sun for at least six hours, drinking that water four to five times a day. Even if you take sun rays on your chest with orange coloured glass, it benefits the heart. Chandrakiraṇa also has provisions for treatment in this way[2]. In Chandrakiraṇa treatment, water, milk and ointment are kept overnight and then applied. Under the influence of the moon's rays, that water or coating removes all the defects in the body and eliminates heart disease.
 
 The Atharvaveda also provides for hydrotherapy in the same way. The Atharvaveda says that water is the best medicine. Drink at least 2-3 litres of water every morning. One should wake up in the morning and drink a glass of water before defecation which keeps the stomach clean. Drink warm water in case of the disease. śuddha Gaṅgā water and flowing river water is more beneficial. With eight to ten basil leaves in water then heated and then drunk, all diseases are eliminated. In the Atharvaveda, the deer's horn is said to be a destroyer of genetic heart disease. Because deer antlers have medicinal properties.
-
-Footnotes and references:
-
-[back to top]
 
 [1]:
 
@@ -6318,23 +5108,9 @@ sūryaḥ kṛṇotu bheṣajaṃ candramā vo'pocchatu || (AV. –VI/83/1); Ved
 
 ## 88. The Sarvaroga-bhaiṣajya hymns
 
-
-Atharvaveda and Charaka Samhita
-
-by Laxmi Maji | 2021 | 143,541 words
-
-This page relates ‘Sarvaroga-bhaishajya hymns’ found in the study on diseases and remedies found in the Atharvaveda and Charaka-samhita. These texts deal with Ayurveda—the ancient Indian Science of life—which lays down the principles for keeping a sound health involving the use of herbs, roots and leaves. The Atharvaveda refers to one of the four Vedas (ancient Sanskrit texts encompassing all kinds of knowledge and science) containing many details on Ayurveda, which is here taken up for study.
-
-Go directly to: 
-Footnotes.
-
 The Sarvaroga-bhaiṣajya hymns
 
 The Sarvaroga-bhaiṣajya [sarvarogabhaiṣajjyaṃ ] hymns, the panacea for all diseases–of the Atharvaveda are included in the so-called Amholiṅgāḥ gaṇa and the Āyuṣya gaṇa. The healing rituals ascribed to them are quite general and mainly consist of sprinkling water and washing of the patient with water mixed with dregs of ghee[1], as well as leaves of Kāmpīla[2] or Kuṣṭha[3] or Yava[4]. After the bath Yava maṇi or Varaṇa maṇi is tied. The water dug up by the ants Upajīkā and the earth from an ant-hill are used in this connection. One cannot differentiate between Ātharvaṇ prayers for longevity (Āyurṣyāṇi) and those for prosperity (Puṣṭikarma). In such cases, the Kauśika Sūtra primarily proposes Āñjanamaṇi[5], Śaṅkhamaṇi[6], Parṇamaṇi[7] which are all prescribed for a Brahmin youth on the occasion of his investiture.
-
-Footnotes and references:
-
-[back to top]
 
 [1]:
 
@@ -6368,23 +5144,9 @@ vātājjāta iti kṛśanam || (Kauśika Sūtra-58.9 in connection with IV.10);A
 
 ## 89. Treatment of Insanity (Unmāda-roga)
 
-
-Atharvaveda and Charaka Samhita
-
-by Laxmi Maji | 2021 | 143,541 words
-
-This page relates ‘Treatment of Insanity (Unmada-roga)’ found in the study on diseases and remedies found in the Atharvaveda and Charaka-samhita. These texts deal with Ayurveda—the ancient Indian Science of life—which lays down the principles for keeping a sound health involving the use of herbs, roots and leaves. The Atharvaveda refers to one of the four Vedas (ancient Sanskrit texts encompassing all kinds of knowledge and science) containing many details on Ayurveda, which is here taken up for study.
-
-Go directly to: 
-Footnotes.
-
 Treatment of Insanity (Unmāda-roga)
 
 The Atharvaveda discusses the treatment of insanity or Unmāda roga. There are two types of insanity -calm and added delirium. In the quiet frenzy, the inner fibres of the brain gather with phlegm. Then the mind becomes stupid and becomes insane, for which Auto Suggestion is the best treatment. In the Atharvaveda, there has been talking of Agni treatment to eradicate insanity[1]. Besides, the bark of the kandamūla, raisins, herbicides giloya and medicine poured in, inhaling its smoke, then consciousness, vigour and serenity return to the patient’s brain. The Atharvaveda also mentioned some medicine which helps in eradicating insanity namely -Ajaśṛṅgī, Meṣaśṛṅgī, Aśvattha, Udumvara, Kṣiptabheṣajī, Vātīkṛtabheṣajī and Babhrū.
-
-Footnotes and references:
-
-[back to top]
 
 [1]:
 
@@ -6395,25 +5157,11 @@ kṛṇomi vidvān bheṣajaṃ yathānunmadito'sasi || (AV. –VI/111/2); Acary
 
 ## 90. Treatment of Kunakha (deformed nails) and Foot disease
 
-
-Atharvaveda and Charaka Samhita
-
-by Laxmi Maji | 2021 | 143,541 words
-
-This page relates ‘Treatment of Kunakha (deformed nails) and Foot disease’ found in the study on diseases and remedies found in the Atharvaveda and Charaka-samhita. These texts deal with Ayurveda—the ancient Indian Science of life—which lays down the principles for keeping a sound health involving the use of herbs, roots and leaves. The Atharvaveda refers to one of the four Vedas (ancient Sanskrit texts encompassing all kinds of knowledge and science) containing many details on Ayurveda, which is here taken up for study.
-
-Go directly to: 
-Footnotes.
-
 Treatment of Kunakha (deformed nails) and Foot disease
 
 Kunakha disease is mentioned in the Atharvaveda. Kunakha means ugly or deformed nails. In a mantra, Kunakha is associated with śyābadat, meaning black teeth and Baṇḍa means Apaṅga, Lūlā is mentioned. A mantra is said to forbid sitting next to those who have these three diseases i.e., it is known as a contagious disease. It is mentioned in Mādhava Nidāna, Caraka-Saṃhitā and Suśruta-Saṃhitā as Leprosy or Mahākuṣṭha. In this disease the nails become deformed. That means the nails melt. Nowadays this disease is called onychogryphosis. In the Atharvaveda, Apāmārga (Circiṭā) is mentioned as a medicine for the treatment of this disease[1]. In the case of rupture of arms and legs, it is beneficial to apply milk extracted from Nyagrodha or Vaṭa tree. This medicine is known in Yajurveda and Atharvaveda.
 
 The Atharvaveda mentions foot disease. The mantra says, the pain in my eyes, two knees, two legs, etc. Water is considered to be the best medicine. In this disease, water should be poured on the affected part of the infected person[2]. Dip your feet in cold water in a bucket and sit for five to ten minutes. The heat heals various wounds and aches. Bathing in cold water is also beneficial.
-
-Footnotes and references:
-
-[back to top]
 
 [1]:
 
@@ -6429,23 +5177,9 @@ yanme akṣyorādidyota pārṣṇyaiḥ prapadośca yat |
 
 ## 91. Treatment of Kṣipta-roga
 
-
-Atharvaveda and Charaka Samhita
-
-by Laxmi Maji | 2021 | 143,541 words
-
-This page relates ‘Treatment of Kshipta-roga’ found in the study on diseases and remedies found in the Atharvaveda and Charaka-samhita. These texts deal with Ayurveda—the ancient Indian Science of life—which lays down the principles for keeping a sound health involving the use of herbs, roots and leaves. The Atharvaveda refers to one of the four Vedas (ancient Sanskrit texts encompassing all kinds of knowledge and science) containing many details on Ayurveda, which is here taken up for study.
-
-Go directly to: 
-Footnotes.
-
 Treatment of Kṣipta-roga
 
 The Atharvaveda provides for the treatment of Kṣipta-roga. Dhanurvāta disease is accepted by Kṣipta-roga. The Atharvaveda speaks of Pippalī medicine[1].
-
-Footnotes and references:
-
-[back to top]
 
 [1]:
 
@@ -6456,23 +5190,9 @@ akṣyau vṛṣaṇyantyāḥ keśā māṃ te kāmena śuṣyantu || (AV. –V
 
 ## 92. Treatment of Sleeping conditions
 
-
-Atharvaveda and Charaka Samhita
-
-by Laxmi Maji | 2021 | 143,541 words
-
-This page relates ‘Treatment of Sleeping conditions’ found in the study on diseases and remedies found in the Atharvaveda and Charaka-samhita. These texts deal with Ayurveda—the ancient Indian Science of life—which lays down the principles for keeping a sound health involving the use of herbs, roots and leaves. The Atharvaveda refers to one of the four Vedas (ancient Sanskrit texts encompassing all kinds of knowledge and science) containing many details on Ayurveda, which is here taken up for study.
-
-Go directly to: 
-Footnotes.
-
 Treatment of Sleeping conditions
 
 One of the secret diseases is Emission. If semen is ejaculated while sleeping, it is called emission. The Atharvaveda speaks of water treatment for the treatment of nightmares and a bad dream[1]. Ejaculation occurs due to wet dreams. Particularly beneficial for the treatment of sit in the pot take a lumbar bath, bathing and washing the feet while sleeping. Bathing with cold water before going to bed, putting wet clothes on the navel at night and washing the urethra before going to sleep can cure nightmares. It is said in the Atharvaveda. When Āñjana Maṇi is applied, the dream defect is removed. Beneficial results can be obtained by wearing a garland of Varaṇa tree for nightmares.
-
-Footnotes and references:
-
-[back to top]
 
 [1]:
 
@@ -6482,25 +5202,11 @@ ariprā āpo apa ripramasmat | prāsmadeno duritaṃ supratīkāḥ praduṣvapn
 
 ## 93. Treatment of Epilepsy (Mṛgī)
 
-
-Atharvaveda and Charaka Samhita
-
-by Laxmi Maji | 2021 | 143,541 words
-
-This page relates ‘Treatment of Epilepsy (Mrigi)’ found in the study on diseases and remedies found in the Atharvaveda and Charaka-samhita. These texts deal with Ayurveda—the ancient Indian Science of life—which lays down the principles for keeping a sound health involving the use of herbs, roots and leaves. The Atharvaveda refers to one of the four Vedas (ancient Sanskrit texts encompassing all kinds of knowledge and science) containing many details on Ayurveda, which is here taken up for study.
-
-Go directly to: 
-Footnotes.
-
 Treatment of Epilepsy (Mṛgī)
 
 The Atharvaveda describes the treatment of epilepsy. Epilepsy is called Mṛgī or Mirgī. In this disease, the person becomes unconscious and falls to the ground. This is called epilepsy. In the Atharvaveda, Daśavṛkṣa, i.e., Daśamūla, has been called the medicine for the treatment of this disease[1]. There are ten herbs in Daśamūla -Bilva, Agnimantha, Śyonāka, Kāśmarī, Pāṭalā, Śālaparṇī, Pṛśniparṇī, Baḍī Kaṭelī, Choṭo Kaṭelī and Gokharu. In the Atharvaveda, Talāśā tree, Śaṅkhapuṣpī etc. are said to be the destroyers of epilepsy. There are also references to Bacā medicine in Atharva-Pariśiṣṭa.
 
 There are references to date palms in the Taittirīya Saṃhitā[2]. Which destroys fainting, asthma, shortness of breath and cough. Śaṅkhapuṣpī has also been called the destroyer of fainting.
-
-Footnotes and references:
-
-[back to top]
 
 [1]:
 
@@ -6513,16 +5219,6 @@ te kharjūrā abhavan | Tai.  S.–2/4/9/2.
 ---
 
 ## 94. Gynaecology and Pediatrics in the Atharvaveda
-
-
-Atharvaveda and Charaka Samhita
-
-by Laxmi Maji | 2021 | 143,541 words
-
-This page relates ‘Gynaecology and Pediatrics in the Atharvaveda’ found in the study on diseases and remedies found in the Atharvaveda and Charaka-samhita. These texts deal with Ayurveda—the ancient Indian Science of life—which lays down the principles for keeping a sound health involving the use of herbs, roots and leaves. The Atharvaveda refers to one of the four Vedas (ancient Sanskrit texts encompassing all kinds of knowledge and science) containing many details on Ayurveda, which is here taken up for study.
-
-Go directly to: 
-Footnotes.
 
 Gynaecology and Pediatrics in the Atharvaveda
 
@@ -6539,10 +5235,6 @@ In the Atharvaveda, a complete sūkta describes a woman so that she can give bir
 The Atharvaveda provides information about medical procedures of Mūḍhagarbha[9]. Childlessness is called infertility. Atharvaveda mentions the disease of infertility[10]. According to the Atharvaveda, if the root of the apāmārga is crushed and drunk with the milk of one-coloured cow, the womb becomes stable and a long-lived child is produced. Besides, there is a reference to Ṛṣabhaka medicine in Atharvaveda. Infertility can be cured by crushing the Ṛṣabhaka medicine mixed and then drink it with rainwater. Rainwater has been called the means of gaining a son[11]. In the Atharvaveda, if there is a Pippalī tree on top of the Śamī tree and if you eat the leaves of that Pippalī tree, you will have a son[12]. Lākṣā medicine also provides fertility to the young lady and newlyweds. In the Atharvaveda, it is said to hold a Śatavāra Maṇi and Audumbara Maṇi is required for having a son. The Śvetapuṣpā Kaṇṭakārī is called Lakṣmaṇā medicine. There is a provision for the consumption of Śvetapuṣpā Kaṇṭakārī for the benefit of the son.
 
 Pippalī medicine is mentioned in the Atharvaveda. This medicine is crushed with stones and its paste is applied on the breasts to produce excessive milk. Also, Arundhatī medicine is applied to increase milk. In the Atharvaveda, for increasing the milk of animals, provision has been made to hold Audumbara Maṇi. The Atharvaveda also mentions the roots of Bisa i.e., lotus tuber and root of lotus, which increase milk production and destroy haemoptysis[13].
-
-Footnotes and references:
-
-[back to top]
 
 [1]:
 
@@ -6633,23 +5325,9 @@ etāstvā dhārā upa yantu sarvāḥ svarge lokemadhumat pinvamānā upa tvā t
 
 ## 95. Treatments of Vātaja diseases
 
-
-Atharvaveda and Charaka Samhita
-
-by Laxmi Maji | 2021 | 143,541 words
-
-This page relates ‘Treatments of Vataja diseases’ found in the study on diseases and remedies found in the Atharvaveda and Charaka-samhita. These texts deal with Ayurveda—the ancient Indian Science of life—which lays down the principles for keeping a sound health involving the use of herbs, roots and leaves. The Atharvaveda refers to one of the four Vedas (ancient Sanskrit texts encompassing all kinds of knowledge and science) containing many details on Ayurveda, which is here taken up for study.
-
-Go directly to: 
-Footnotes.
-
 Treatments of Vātaja diseases
 
 The well-known types of Vātaja roga are arthritis or Vāta, respiratory diseases or Śvāsa, Joint arthritis or Sandhi-vāta and hip-gout or Kaṭi-vāta. Atharvaveda speaks about Vāta disease. Bhāvaprakāśa says the following foods increases Vāta–Prasādhikā, Khesārī, Kalāi, gram, Śyāmā, mug, Aḍahara, Rājamāṣa, Moṭha, Varāṭikā, Musurikā and Kodrava. The causes for Vāta disease are the breath in the eastern air, staying up the night, onerous labour, starvation, sex, erosion of bodily minerals, lust, sorrow, anxiety etc. Atharvaveda says Pippalī is medicine for Vāta roga. It is a life-giving medicine. It cures Unmāda-roga, Vāta-roga and Pakṣaghāta. Ācārya Sāyaṇa advises the use of Pippalī to treat Dhanurvāta, Ākṣepaka or all Vāta diseases[1]. Atharvaveda also mentions Viṣāṇakā or Viṣāṇā medicine, Kuṣṭha medicine is the cure for Vāta. In Śāṅkhāyana Gṛhya Sūtra Madhūka has been mentioned as a cure for Vāta[2].
-
-Footnotes and references:
-
-[back to top]
 
 [1]:
 
@@ -6668,23 +5346,9 @@ vātīkṛtasya bheṣajīmatho kṣiptasya bheṣajīm || (AV. –VI/109/1-3); 
 
 ## 96. Treatments to enhance Female beauty
 
-
-Atharvaveda and Charaka Samhita
-
-by Laxmi Maji | 2021 | 143,541 words
-
-This page relates ‘Treatments to enhance Female beauty’ found in the study on diseases and remedies found in the Atharvaveda and Charaka-samhita. These texts deal with Ayurveda—the ancient Indian Science of life—which lays down the principles for keeping a sound health involving the use of herbs, roots and leaves. The Atharvaveda refers to one of the four Vedas (ancient Sanskrit texts encompassing all kinds of knowledge and science) containing many details on Ayurveda, which is here taken up for study.
-
-Go directly to: 
-Footnotes.
-
 Treatments to enhance Female beauty
 
 The Atharvaveda mentions the application of Āsurī medicine to enhance female beauty[1]. In the Vaidyaka-Śabdasindhu, white mustard is called Āsurī. In the Atharva- Pariśiṣṭa, it means Rājikā or Rāi. Ubaṭana of mustard applied to the body enhances the beauty of the body. By applying it, the wife subdues the husband. There are also references to Sahasraparṇī medicine. It has been called an aphrodisiac, a fortune teller and a sedative. Atharvaveda refers to Añjana or Āñjana medicine. Añjana is said to be an indicator of beauty, vigour, strength and good fortune. No one can cast an evil eye on the person applying Āñjana.
-
-Footnotes and references:
-
-[back to top]
 
 [1]:
 
@@ -6695,23 +5359,9 @@ parāyato nivartanamāyataḥ pratinandanam || (AV. –VII/38/1); Acarya Vedanta
 
 ## 97. Treatments of Śvāsa-roga (respiratory problems)
 
-
-Atharvaveda and Charaka Samhita
-
-by Laxmi Maji | 2021 | 143,541 words
-
-This page relates ‘Treatments of Shvasa-roga (respiratory problems)’ found in the study on diseases and remedies found in the Atharvaveda and Charaka-samhita. These texts deal with Ayurveda—the ancient Indian Science of life—which lays down the principles for keeping a sound health involving the use of herbs, roots and leaves. The Atharvaveda refers to one of the four Vedas (ancient Sanskrit texts encompassing all kinds of knowledge and science) containing many details on Ayurveda, which is here taken up for study.
-
-Go directly to: 
-Footnotes.
-
 Treatments of Śvāsa-roga (respiratory problems)
 
 Atharvaveda discusses Śvāsa-roga. Respiratory problem is Śvāsa-roga. Soma medicine has been spoken about in Ṛgveda, Yajurveda and Atharvaveda. Somalatā is called Svāmī of medicines[1]. Somalatā juice can be used to treat breathing problems, cough and hiccups. It is also useful for the following diseases–Jalodara, Śvāsaroga, Hṛdayaroga, Rohiṇī-roga etc. In Atharvaveda Pippalī, Talāśā and Vacā tree etc can be used to treat Śvāsaroga. Maitrāyaṇī Saṃhitā and Atharvaveda speak of Śamī tree; Taittirīya and Maitrāyaṇī Saṃhitā speak of a palm tree[2]. Both can be used to treat Śvāsaroga.
-
-Footnotes and references:
-
-[back to top]
 
 [1]:
 
@@ -6725,23 +5375,9 @@ te kharjūrā abhavan | Taittirīya Saṃhitā–II.4.9.2.
 
 ## 98. Treatments of Pittaja diseases
 
-
-Atharvaveda and Charaka Samhita
-
-by Laxmi Maji | 2021 | 143,541 words
-
-This page relates ‘Treatments of Pittaja diseases’ found in the study on diseases and remedies found in the Atharvaveda and Charaka-samhita. These texts deal with Ayurveda—the ancient Indian Science of life—which lays down the principles for keeping a sound health involving the use of herbs, roots and leaves. The Atharvaveda refers to one of the four Vedas (ancient Sanskrit texts encompassing all kinds of knowledge and science) containing many details on Ayurveda, which is here taken up for study.
-
-Go directly to: 
-Footnotes.
-
 Treatments of Pittaja diseases
 
 The types of well-known Pittaja diseases are—Atisāra, Atisāra, Āmātisāra, Viśarīka, Raktātisāra, Raktapitta and Raktavamana etc. In Bhāvaprakāśa, Atisāra or diarrhoea is compared to a flowing river of manure. This is a serious disease. Atisāra can be cured with Bilva or Bela[1]. Ripe Bela have rasāyana and recaka. This is a good laxative for constipation. The decoction of semi-ripe Bela is good for Raktātisāra, Atisāra and Āma disease. A murabbā of Bela is the family medicine for Diarrhoea and blood-Peciśa or Āmāśaya. In Śāṅkhāyana Gṛhya Sūtra the medicine mentioned is Madhuka or Mahuyā. In Yajurveda, the medicine mentioned is Badara or Kula[2]. In Ṛgveda the medicine mentioned is Palāśa. All these medicines are for treating atisāra disease. Atharvaveda speaks about dysentery, diarrhoea or Āmātisāra. Ṛgveda and Atharvaveda mention Khadira tree as a remedy for these diseases[3]. The marrow of Khadira can be used as an amulet for gaining vigour. In Bhāvaprakāśa it has been said that Khadira can cure Āma, Pitta and Rudhira-vikāra. Also, Atharvaveda says that Banyan tree and Bela can be used to treat this disease[4]. Atharvaveda talks about Viśarīka or Āmāśaya and Āśarīka or body ache. This disease can be treated with an amulet of Jaṅgiḍa tree.
-
-Footnotes and references:
-
-[back to top]
 
 [1]:
 
@@ -6763,23 +5399,9 @@ nyagrodhā mahāvṛkṣā: | (AV. –IV/37/4); Atharva-Veda-Saṃhitā along wi
 
 ## 99. Treatments of Sandhi-vāta-roga (distended joints)
 
-
-Atharvaveda and Charaka Samhita
-
-by Laxmi Maji | 2021 | 143,541 words
-
-This page relates ‘Treatments of Sandhi-vata-roga (distended joints)’ found in the study on diseases and remedies found in the Atharvaveda and Charaka-samhita. These texts deal with Ayurveda—the ancient Indian Science of life—which lays down the principles for keeping a sound health involving the use of herbs, roots and leaves. The Atharvaveda refers to one of the four Vedas (ancient Sanskrit texts encompassing all kinds of knowledge and science) containing many details on Ayurveda, which is here taken up for study.
-
-Go directly to: 
-Footnotes.
-
 Treatments of Sandhi-vāta-roga (distended joints)
 
 Atharvaveda discusses Sandhi-Vāta-roga. Sandhi means joint in the body. If polluted air permeates the joints, then the joints lose their strength and start paining and become distended. This is called Sandhi-vāta. Atharvaveda talks about the treatment of Sandhivāta by Daśabṛkṣa or Daśamūla[1]. Pūtudāru is a cure for Sandhi-vāta according to Atharvaveda. Atharvaveda talks about Kaṭi-vāta or waist pain. Pippalī is the medicine for this[2].
-
-Footnotes and references:
-
-[back to top]
 
 [1]:
 
@@ -6795,23 +5417,9 @@ atho amīvacātanaḥ pūtudrurnāma bheṣajam || (AV. –VIII/2/28); K. L. Jos
 
 ## 100. Treatments of Chuta-roga (infectious disease)
 
-
-Atharvaveda and Charaka Samhita
-
-by Laxmi Maji | 2021 | 143,541 words
-
-This page relates ‘Treatments of Chuta-roga (infectious disease)’ found in the study on diseases and remedies found in the Atharvaveda and Charaka-samhita. These texts deal with Ayurveda—the ancient Indian Science of life—which lays down the principles for keeping a sound health involving the use of herbs, roots and leaves. The Atharvaveda refers to one of the four Vedas (ancient Sanskrit texts encompassing all kinds of knowledge and science) containing many details on Ayurveda, which is here taken up for study.
-
-Go directly to: 
-Footnotes.
-
 Treatments of Chuta-roga (infectious disease)
 
 Atharvaveda talks about Chuta-roga or infectious disease. Atharvaveda says dwelling with the bad people, eating food with him can cause many types of infectious diseases. That means you must stop associating with bad people. For getting cure one must renounce the company of the bad people and take Apāmārga medicine[1].
-
-Footnotes and references:
-
-[back to top]
 
 [1]:
 
@@ -6822,23 +5430,9 @@ apāmārga tvayā vayaṃ sarvaṃ tadapa mṛjmahe || (AV. –VII/62/3); Acarya
 
 ## 101. Treatments of Viśara diseases
 
-
-Atharvaveda and Charaka Samhita
-
-by Laxmi Maji | 2021 | 143,541 words
-
-This page relates ‘Treatments of Vishara diseases’ found in the study on diseases and remedies found in the Atharvaveda and Charaka-samhita. These texts deal with Ayurveda—the ancient Indian Science of life—which lays down the principles for keeping a sound health involving the use of herbs, roots and leaves. The Atharvaveda refers to one of the four Vedas (ancient Sanskrit texts encompassing all kinds of knowledge and science) containing many details on Ayurveda, which is here taken up for study.
-
-Go directly to: 
-Footnotes.
-
 Treatments of Viśara diseases
 
 The Atharvaveda mentions Viśara diseases[1]. The disease causes pain and fractures of the parts. The Atharvaveda speaks of the application of Jaṅgiḍa maṇi for the treatment of this disease.
-
-Footnotes and references:
-
-[back to top]
 
 [1]:
 
@@ -6847,16 +5441,6 @@ jaṅgiḍo jaṃbhād viśarād viṣkandhādabhiśocanāt || (AV. –II/4/2); 
 ---
 
 ## 102. Physicians (Vaidyas) and Medicine
-
-
-Atharvaveda and Charaka Samhita
-
-by Laxmi Maji | 2021 | 143,541 words
-
-This page relates ‘Physicians (Vaidyas) and Medicine’ found in the study on diseases and remedies found in the Atharvaveda and Charaka-samhita. These texts deal with Ayurveda—the ancient Indian Science of life—which lays down the principles for keeping a sound health involving the use of herbs, roots and leaves. The Atharvaveda refers to one of the four Vedas (ancient Sanskrit texts encompassing all kinds of knowledge and science) containing many details on Ayurveda, which is here taken up for study.
-
-Go directly to: 
-Footnotes.
 
 Physicians (Vaidyas) and Medicine
 
@@ -6882,10 +5466,6 @@ Incantation of mantras, talisman, wearing of gems, auspicious offering, gifts, o
 
 When the vāyu, pitta, and kapha are irritated, all the diseases that occur in the body, usually need three kinds of medicine to cure them, namely-internal-cleansing, externalcleansing and surgical therapy. Medicines that enter the body and destroy food-borne diseases are called internal cleansing. The cleansing therapy which has its curative effect by external contact with the body such as massage, fomentation, unction, affusion and kneading is the external one. Surgical therapy comprises of excision, incision, puncturing, rupturing, scraping, uprooting, rubbing with a substance having rough surface, suturing, probing, application of alkalies and leeches. When the disease appears to a wise person, he accepts external cleansing, internal cleansing and surgical therapy and attains peace. The disease first develops like a molecule and then increases but it grows and grows thereafter and after gaining a strong holding in the body it takes away the strength and life of the fool. The wise person will cure the disease with medicine before the disease is born.
 
-Footnotes and references:
-
-[back to top]
-
 [1]:
 
 trividhā bhiṣaja iti -bhiṣakchadmacarāḥ santi santyekesiddhasādhitā |
@@ -6894,16 +5474,6 @@ santi vaidyaguṇairyuktāstrividhā bhiṣajo iti || (CS.  -Sūtrasthāna–XI.
 ---
 
 ## 103. Introduction and Cause of diseases
-
-
-Atharvaveda and Charaka Samhita
-
-by Laxmi Maji | 2021 | 143,541 words
-
-This page relates ‘Introduction and Cause of diseases’ found in the study on diseases and remedies found in the Atharvaveda and Charaka-samhita. These texts deal with Ayurveda—the ancient Indian Science of life—which lays down the principles for keeping a sound health involving the use of herbs, roots and leaves. The Atharvaveda refers to one of the four Vedas (ancient Sanskrit texts encompassing all kinds of knowledge and science) containing many details on Ayurveda, which is here taken up for study.
-
-Go directly to: 
-Footnotes.
 
 Introduction and Cause of diseases
 
@@ -6924,10 +5494,6 @@ There are two types of matter, honest and dishonest. Their test or knowledge is 
 There are three factors supporting life, three-fold strength, three types of causes, three types of diseases, three systems for the diseases, three types of physicians and three types of therapeutics. Unwholesome conjunction of the sense organs with their objects, intellectual blasphemy, and transformation-these are the threefold causes of diseases and if applied in their equivalence, it causes health. There are three types of diseases-endogenous (Nija), exogenous (Āgantu) and psychic (Mānasika). Endogenous diseases are caused by vāyu, pitta and phlegm. And all the diseases that arise from ghosts, poisons, wind, fire are called exogenous diseases. And psychic disease arises from the non-availability of the beloved and the gain of the unpleasant. If the intelligent person is mentally ill, then he should be careful to avoid harmful religious deeds and follow beneficial religious deeds. Religious work is the cure for mental illness. There are three types of pathogens. Namely-Śākhā i.e., the peripheral system includes tissue elements like blood, etc., and skin, Marmāsthisandhi or vital organs and joints of bones, and Koṣṭha or central system. External diseases are: goitre, pimple, boil, scrofula, wart, granuloma, moles, leprosy, and freckles etc.
 
 Diseases according to the Śākhā are: visarpa or skin diseases characterised by an acute spread, oedema, gulma or abdominal tumour, piles, vidradhi or abscess etc.[6] Diseases of the middle path way are: Pakṣaghāta or hemiplegia, Pakṣāgraha or tonic convulsion, Apatānaka or clonic convulsion, Ardita or facial paralysis, Śoṣa or consumption, tuberculosis, Asthisandhiśūla or pain in the bone joints, Gudabhraṃśa or prolapse rectum and anal fractures, and the disease of the head, heart and bladder. Diseases belong to the central system are: fever, diarrhoea, vomiting, Alasaka or intestinal torper, Visūcīkā or choleric diarrhoea, cough, dyspnoea, hiccough, Ānāha or constipation, Udara or disease of the abdomen and Plīhā or splenic disorders and the internal variety of Visarpa, Śvayathu or oedema, Gulma or abdominal tumour, Arśas or piles and Vidradhi or internal abscess.
-
-Footnotes and references:
-
-[back to top]
 
 [1]:
 
@@ -6961,23 +5527,9 @@ visarpaśvayathugulmārśovidradhyādayaḥ śākhānusāriṇo bhavanti rogaḥ
 
 ## 104. Treatments of Viṣūcikā disease (cholera)
 
-
-Atharvaveda and Charaka Samhita
-
-by Laxmi Maji | 2021 | 143,541 words
-
-This page relates ‘Treatments of Vishucika disease (cholera)’ found in the study on diseases and remedies found in the Atharvaveda and Charaka-samhita. These texts deal with Ayurveda—the ancient Indian Science of life—which lays down the principles for keeping a sound health involving the use of herbs, roots and leaves. The Atharvaveda refers to one of the four Vedas (ancient Sanskrit texts encompassing all kinds of knowledge and science) containing many details on Ayurveda, which is here taken up for study.
-
-Go directly to: 
-Footnotes.
-
 Treatments of Viṣūcikā disease (cholera)
 
 Viṣūcikā disease is called cholera. Viṣūcikā disease is mentioned in Yajurveda[1]. The word Viṣūcikā for this disease is found in the Atharvaveda and the god Rudra is said to be the destroyer of this disease[2]. The Maitrāyaṇī Saṃhitā speaks of the application of Upavāka or Upavākā medicine[3]. The Atharvaveda mentions the application of Kuṣṭha medicine for this disease.
-
-Footnotes and references:
-
-[back to top]
 
 [1]:
 
@@ -6995,13 +5547,6 @@ badarairūpavākābhirbheṣajam | Maitrā. S.–3/11/ 2, 6.
 
 ## 105. Chapter 4 - Diseases and Remedial measures (described in Caraka-saṃhitā)
 
-
-Atharvaveda and Charaka Samhita
-
-by Laxmi Maji | 2021 | 143,541 words
-
-This page relates ‘Diseases and Remedial measures (described in Caraka-samhita)’ found in the study on diseases and remedies found in the Atharvaveda and Charaka-samhita. These texts deal with Ayurveda—the ancient Indian Science of life—which lays down the principles for keeping a sound health involving the use of herbs, roots and leaves. The Atharvaveda refers to one of the four Vedas (ancient Sanskrit texts encompassing all kinds of knowledge and science) containing many details on Ayurveda, which is here taken up for study.
-
 Chapter 4 - Diseases and Remedial measures (described in Caraka-saṃhitā)
 
 - Sub-Contents: (+ / -)
@@ -7011,16 +5556,6 @@ Chapter 4 - Diseases and Remedial measures (described in Caraka-saṃhitā)
 ---
 
 ## 106. Classification of diseases in the Caraka-Saṃhitā
-
-
-Atharvaveda and Charaka Samhita
-
-by Laxmi Maji | 2021 | 143,541 words
-
-This page relates ‘Classification of diseases in the Caraka-Samhita’ found in the study on diseases and remedies found in the Atharvaveda and Charaka-samhita. These texts deal with Ayurveda—the ancient Indian Science of life—which lays down the principles for keeping a sound health involving the use of herbs, roots and leaves. The Atharvaveda refers to one of the four Vedas (ancient Sanskrit texts encompassing all kinds of knowledge and science) containing many details on Ayurveda, which is here taken up for study.
-
-Go directly to: 
-Footnotes.
 
 Classification of diseases in the Caraka-Saṃhitā
 
@@ -7618,10 +6153,6 @@ Pittaja,
 
 Śleṣmaja.
 
-Footnotes and references:
-
-[back to top]
-
 [1]:
 
 prāṇāḥ prāṇābhṛtāṃ yatra śritāḥ sarvendriyāṇi ca |
@@ -7634,16 +6165,6 @@ CS.  -Sūtrasthāna–XIX.2-46; Baidyacharya Kalikinkar Sensarma & Ayurbedachary
 ---
 
 ## 107. Vāta (Vāyu), Pitta and Kapha (Śleṣma)
-
-
-Atharvaveda and Charaka Samhita
-
-by Laxmi Maji | 2021 | 143,541 words
-
-This page relates ‘Vata (Vayu), Pitta and Kapha (Shleshma)’ found in the study on diseases and remedies found in the Atharvaveda and Charaka-samhita. These texts deal with Ayurveda—the ancient Indian Science of life—which lays down the principles for keeping a sound health involving the use of herbs, roots and leaves. The Atharvaveda refers to one of the four Vedas (ancient Sanskrit texts encompassing all kinds of knowledge and science) containing many details on Ayurveda, which is here taken up for study.
-
-Go directly to: 
-Footnotes.
 
 Vāta (Vāyu), Pitta and Kapha (Śleṣma)
 
@@ -7660,10 +6181,6 @@ The vitiated pitta should be treated with drugs having sweet, bitter, astringent
 The place of Śleṣma is the chest, head, neck, joint, stomach and fat. The chest is the main place of mucus[4]. The inherent natural qualities of Śleṣma are unctuousness, coolness, whiteness, heaviness, sweetness, steadiness, sliminess and viscosity. The functional symptoms of mucus disorder are: whiteness, coolness, itching, stability, heaviness, unctuousness, numbness, stickiness, act of being covered with bodily excreta, obstruction, sweetness and delay in manifestation. Forty types of Śleṣmaja diseases are: anorexia nervosa, drowsiness, excessive-sleep, timidness, heaviness of the body, laziness, sweet taste in mouth, salivation, mucus expectoration, excessive excretion of excreta, loss of strength, indigestion, phlegm adhered in vicinity of heart, phlegm adhered to throat, hardening of arteries, goitre, obesity, suppression of digestive power, urticaria, pallor, whiteness of urine, eye and faeces.
 
 The vitiated Śleṣma should be treated with drugs having pungent, bitter, astringent, sharp, hot, and unctuous qualities. Śleṣmaja diseases should be treated according to the dosage and duration of fomentation, emesis, elimination of dosas from the head, exercise, etc. Physicians call emetic therapy is the best treatment for curing Paittika diseases.
-
-Footnotes and references:
-
-[back to top]
 
 [1]:
 
@@ -7684,16 +6201,6 @@ uraḥ śiro grīvā parvāṇyāmāśayo medaśca śleṣmasthanāni, tatrāpyu
 ---
 
 ## 108. Fever according to Caraka—Synopsis
-
-
-Atharvaveda and Charaka Samhita
-
-by Laxmi Maji | 2021 | 143,541 words
-
-This page relates ‘Fever according to Caraka—Synopsis’ found in the study on diseases and remedies found in the Atharvaveda and Charaka-samhita. These texts deal with Ayurveda—the ancient Indian Science of life—which lays down the principles for keeping a sound health involving the use of herbs, roots and leaves. The Atharvaveda refers to one of the four Vedas (ancient Sanskrit texts encompassing all kinds of knowledge and science) containing many details on Ayurveda, which is here taken up for study.
-
-Go directly to: 
-Footnotes.
 
 Fever according to Caraka—Synopsis
 
@@ -7725,10 +6232,6 @@ If there are the premonitory symptoms or in the primary stage of fever, it is ne
 
 For all types of chronic fever, intake of ghee is beneficial. Besides, it has been said that daytime sleep, bathing, massage, food, intercourse, anger, proverbs, hard work, tanning etc., should be avoided for various fever[1].
 
-Footnotes and references:
-
-[back to top]
-
 [1]:
 
 C. Cikitsāsthāna–III.3-127; Baidyacharya Kalikinkar Sensarma & Ayurbedacharya Satyasekhar Bhattacharya (eds.), Caraka-Samhita–Vol. I, trans. Kabiraj Jasodanandan Sirkar, Kolkata, Deepayan Publication, 2013, pp. 209-258.
@@ -7736,16 +6239,6 @@ C. Cikitsāsthāna–III.3-127; Baidyacharya Kalikinkar Sensarma & Ayurbedachary
 ---
 
 ## 109. Gulma (abdominal swelling) according to Caraka
-
-
-Atharvaveda and Charaka Samhita
-
-by Laxmi Maji | 2021 | 143,541 words
-
-This page relates ‘Gulma (abdominal swelling) according to Caraka’ found in the study on diseases and remedies found in the Atharvaveda and Charaka-samhita. These texts deal with Ayurveda—the ancient Indian Science of life—which lays down the principles for keeping a sound health involving the use of herbs, roots and leaves. The Atharvaveda refers to one of the four Vedas (ancient Sanskrit texts encompassing all kinds of knowledge and science) containing many details on Ayurveda, which is here taken up for study.
-
-Go directly to: 
-Footnotes.
 
 Gulma (abdominal swelling) according to Caraka
 
@@ -7789,10 +6282,6 @@ Table 1: Vibhedaka Symptoms of Raktagulma[2]
 
 All these symptoms develop after three months of the patient. Treatment of Raktagulma is as follows: Treated only after tenth months, purgation (sneha Virecana), intake of Palāśa kṣāra, vaginal douche, disintegrating the swelling, with measures like enema of Daśamūla with kṣāra, Cow’s urine. In addition, Snehapāna is regarded to be the best treatment for gulma above the umbilicus. Also, the use of Basti is regarded to be the best treatment for gulma in Pakvāśaya and Jaṭhara[3].
 
-Footnotes and references:
-
-[back to top]
-
 [1]:
 
 anannābhilaṣaṇam, arocakāvipākau, agnivaiṣamyaṃ vidāho bhuktasya, pākakāle cāyuktayā chard्yudgārau, vātamūtrapurīṣavegānāṃ cāprādurbhāvaḥ, prādurbhūtānāṃ cāpravṛttirīṣadāgamanaṃ vā, vātaśūlāṭopāntrakujanāpariharṣaṇāti vṛttapurīṣatāḥ, abubhukṣā, daurbalyaṃ, sauhitasya cāsahatvamiti | (C. Nidānasthāna–III.15); R. K. Sharma & Bhagwan Dash (eds.), Caraka Saṃhitā–Vol. II, Varanasi, Chowkhamba Sanskrit Series Office, 2017, p. 51.
@@ -7808,16 +6297,6 @@ C. Cikitsāsthāna–V.4-182; Caraka Saṃhitā -Vol. II with elaborated Vidyoti
 ---
 
 ## 110. Arśa (piles) according to Caraka
-
-
-Atharvaveda and Charaka Samhita
-
-by Laxmi Maji | 2021 | 143,541 words
-
-This page relates ‘Arsha (piles) according to Caraka’ found in the study on diseases and remedies found in the Atharvaveda and Charaka-samhita. These texts deal with Ayurveda—the ancient Indian Science of life—which lays down the principles for keeping a sound health involving the use of herbs, roots and leaves. The Atharvaveda refers to one of the four Vedas (ancient Sanskrit texts encompassing all kinds of knowledge and science) containing many details on Ayurveda, which is here taken up for study.
-
-Go directly to: 
-Footnotes.
 
 Arśa (piles) according to Caraka
 
@@ -7863,10 +6342,6 @@ Intake of following drugs to cure piles are, namely, Bhallātaka for non-bleedin
 
 The following symptoms are due to complication of improper kṣāra and agni karma: loss of sexual potency, swelling in anorectal region, retention of various urges, distension of abdomen, severe pain in the abdomen, haemorrhage, prolapse of anus and immediate death[3].
 
-Footnotes and references:
-
-[back to top]
-
 [1]:
 
 sarveṣāṃ cārśasāṃ kṣetraṃ-gudasyārdhapañcamāṅgulāvakāśe tribhāgāntarāstisro gudavalayaḥ kṣetramiti; kecittu bhūyāṃsameva deśamupadiśantyarśasāṃ-śiśnamapatyapathaṃ galatālumukhanāsikākarṇākṣivartmāni tvak ceti | tadastyadhimāṃsadeśatayā, gudabalijānāṃ tvarśāsīti saṃjñā tantre'smin | sarveṣāṃ cārśasāmadhiṣṭhānaṃ-medo māsaṃ tvak ca ||(C. Cikitsāsthāna–XIV.6); Caraka Saṃhitā Vol. II with elaborated Vidyotini Hindi Commentary, trans. Kasinatha Pandey & Gorakha Natha Chaturvedi, Varanasi, Chaukhambha Bharati Academy, 2015, p. 417.
@@ -7882,16 +6357,6 @@ C. Cikitsāsthāna–XIV.5-248; Caraka Saṃhitā Vol. II with elaborated Vidyot
 ---
 
 ## 111. Prameha (urinary tract disease) according to Caraka
-
-
-Atharvaveda and Charaka Samhita
-
-by Laxmi Maji | 2021 | 143,541 words
-
-This page relates ‘Prameha (urinary tract disease) according to Caraka’ found in the study on diseases and remedies found in the Atharvaveda and Charaka-samhita. These texts deal with Ayurveda—the ancient Indian Science of life—which lays down the principles for keeping a sound health involving the use of herbs, roots and leaves. The Atharvaveda refers to one of the four Vedas (ancient Sanskrit texts encompassing all kinds of knowledge and science) containing many details on Ayurveda, which is here taken up for study.
-
-Go directly to: 
-Footnotes.
 
 Prameha (urinary tract disease) according to Caraka
 
@@ -7913,10 +6378,6 @@ For Prameha disease the following food are used: green gram soup (yūṣa), old 
 
 If a person has red coloured urine without any prodromal symptoms of prameha-then it is a case of rakta pitta, rather than prameha. Prameha due to heredity is incurable. Seven types of boils associated with prameha are to be treated by expert surgeons with the help os surgical operations, cleansing, and healing therapies[3].
 
-Footnotes and references:
-
-[back to top]
-
 [1]:
 
 jaṭilībhāvaṃ keśeṣu, mādhuryamāsyasya, karapādayoḥ suptatādāhau, mukhatālukaṇṭhaśoṣaṃ, pipāsām, ālasyaṃ malaṃ kāye, kāyacchidreṣūpadehaṃ, paridāhaṃ suptatāṃ cāṅgeṣu, ṣaṭpadapipīlikābhibhiśca śarīramūtrābhisaraṇaṃ, mūtre ca mūtradoṣān, vistraṃ śarīragandhaṃ, nidrāṃ, tandrāṃ ca sarvakālamiti || (CS.  -Nidānasthāna–IV.47); R. K. Sharma & Bhagwan Dash (eds.), Caraka Saṃhitā–Vol. II, Varanasi, Chowkhamba Sanskrit Series Office, 2017, p. 51.
@@ -7933,16 +6394,6 @@ C. Cikitsāsthāna–VI.4-58; R. K. Sharma & Bhagwan Dash (eds.), Caraka Saṃhi
 
 ## 112. Raktapitta according to Caraka
 
-
-Atharvaveda and Charaka Samhita
-
-by Laxmi Maji | 2021 | 143,541 words
-
-This page relates ‘Raktapitta according to Caraka’ found in the study on diseases and remedies found in the Atharvaveda and Charaka-samhita. These texts deal with Ayurveda—the ancient Indian Science of life—which lays down the principles for keeping a sound health involving the use of herbs, roots and leaves. The Atharvaveda refers to one of the four Vedas (ancient Sanskrit texts encompassing all kinds of knowledge and science) containing many details on Ayurveda, which is here taken up for study.
-
-Go directly to: 
-Footnotes.
-
 Raktapitta according to Caraka
 
 According to Maharṣi Caraka, Raktapitta disease is a serious disease and it afflicts the patient with a great speed. Like fire it manifests itself and effects instantaneously. Raktapitta originated after the manifestation of fever in Lord Rudra's anger. Pitta has many attributes, one of them being liquidity. This liquid fraction of pitta pervades one dhatu after the other as a result of its heat. More of liquids exudate from this dhatus. These liquids get mixed up with pitta as a result of which pitta gets exceedingly aggravated or increased in quantity. That contaminated connection of blood and bile is called Raktapitta.
@@ -7957,10 +6408,6 @@ Upper tracks of Raktapitta can be treated with purgation therapy. So, it is cura
 
 There is talk of applying different methods of treatment for Raktapitta. For example, if thirst is present, use of hrīverādi for drinking, application of tarpan and peyā, application of dates for tarpan, application of lāja tarpan, application of acid tarpan; application of food is Śāli, Yaṣṭhika, Nīvāra, Koradūṣa, Praśātikā, Śyāmaka etc. Application of soup and juice of Mug, Musura, Cholā, Vanamuga, Aḍahara. Raktapitta can be cured by applying herbs like leaves of Paltā, neem, Ciretā, Pākuḍa etc. application of meat of pigeon, lab, Cakora, deer etc. Also, in Caraka-Saṃhitā, application of drink of sandalwood peya, vomit, eight pollutants decoction, etc. Goat's milk or cow's milk is boiled in five times water and drunk with honey to cure Raktapitta[2].`
 
-Footnotes and references:
-
-[back to top]
-
 [1]:
 
 plīhānaṃ ca yakṛccaiva tadadhiṣṭhāya vartate | (C. Cikitsāsthāna–IV.10); R. K. Sharma & Bhagwan Dash (eds.), Caraka Saṃhitā–Vol. III, Varanasi, Chowkhamba Sanskrit Series Office, 2017, p. 223.
@@ -7972,16 +6419,6 @@ C. Cikitsāsthāna–IV.5-109; R. K. Sharma & Bhagwan Dash (eds.), Caraka Saṃh
 ---
 
 ## 113. Unmāda (insanity) according to Caraka
-
-
-Atharvaveda and Charaka Samhita
-
-by Laxmi Maji | 2021 | 143,541 words
-
-This page relates ‘Unmada (insanity) according to Caraka’ found in the study on diseases and remedies found in the Atharvaveda and Charaka-samhita. These texts deal with Ayurveda—the ancient Indian Science of life—which lays down the principles for keeping a sound health involving the use of herbs, roots and leaves. The Atharvaveda refers to one of the four Vedas (ancient Sanskrit texts encompassing all kinds of knowledge and science) containing many details on Ayurveda, which is here taken up for study.
-
-Go directly to: 
-Footnotes.
 
 Unmāda (insanity) according to Caraka
 
@@ -8041,10 +6478,6 @@ Irritant collyrium, beating etc., should be avoided in insanity by Gods, sage, f
 
 One who abstains from eating meat and drinking alcohol, and takes only wholesome food, who is disciplined and pure, and who has strong will power doesn’t get afflicted by either endogenous or exogenous type of Unmāda.
 
-Footnotes and references:
-
-[back to top]
-
 [1]:
 
 Baidyacharya Kalikinkar Sensarma & Ayurbedacharya Satyasekhar Bhattacharya (eds.), Caraka- Samhita–Vol. II, trans. Kabiraj Jasodanandan Sirkar, Kolkata, Deepayan Publication, 2013, pp. 452- 453.
@@ -8056,16 +6489,6 @@ Rajneesh V. Giri & Smitha Rajneesh, Synopsis on Caraka Saṃhitā, Varanasi, Cha
 ---
 
 ## 114. Apasmāra (epilepsy) according to Caraka
-
-
-Atharvaveda and Charaka Samhita
-
-by Laxmi Maji | 2021 | 143,541 words
-
-This page relates ‘Apasmara (epilepsy) according to Caraka’ found in the study on diseases and remedies found in the Atharvaveda and Charaka-samhita. These texts deal with Ayurveda—the ancient Indian Science of life—which lays down the principles for keeping a sound health involving the use of herbs, roots and leaves. The Atharvaveda refers to one of the four Vedas (ancient Sanskrit texts encompassing all kinds of knowledge and science) containing many details on Ayurveda, which is here taken up for study.
-
-Go directly to: 
-Footnotes.
 
 Apasmāra (epilepsy) according to Caraka
 
@@ -8100,10 +6523,6 @@ According to modern medicine, there are many types of epilepsy. E.g., tonic phas
 The following additions are used in epilepsy, namely, Pañcagavya ghṛta[15], Brāhmī ghṛta[16], Vacādya ghṛta[17], Jīvanīya yamaka, Kaṭabhyādi taila, Palaṅkaṣādya taila, Medicated oil for Inhalation, Kāyasthādya varti, Mustādya varti, garlic with oil, Śatāvarī with milk, juice of Brāhmī with honey, juice or decoction of Kuṣṭha with honey, and powder of Vacā with honey[18].
 
 Apasmāra is a disease which cannot be cured. It stays for a number of years. Therefore, an Apasmāra patient should be regularly treated with necessary rasāyana. The patient suffering from Epilepsy and insanity should be especially protected from water, fire, trees, mountains and uneven places. These may cause the instantaneous death of the patient[19].
-
-Footnotes and references:
-
-[back to top]
 
 [1]:
 
@@ -8207,16 +6626,6 @@ rakṣedunmādinaṃ caivaṃ sadyaḥ prāṇaharā hi te ||(C. Cikitsāsthāna
 
 ## 115. Atisāra (diarrhea) according to Caraka
 
-
-Atharvaveda and Charaka Samhita
-
-by Laxmi Maji | 2021 | 143,541 words
-
-This page relates ‘Atisara (diarrhea) according to Caraka’ found in the study on diseases and remedies found in the Atharvaveda and Charaka-samhita. These texts deal with Ayurveda—the ancient Indian Science of life—which lays down the principles for keeping a sound health involving the use of herbs, roots and leaves. The Atharvaveda refers to one of the four Vedas (ancient Sanskrit texts encompassing all kinds of knowledge and science) containing many details on Ayurveda, which is here taken up for study.
-
-Go directly to: 
-Footnotes.
-
 Atisāra (diarrhea) according to Caraka
 
 Atisāra Symptoms of Atisāra or Diarrhea are-passing excess of loose stools. It is said that diarrhea originated from the sacrifice performed by King Pṛṣadhra. Even The king first started sacrificing bulls and cows. Cows proved to be too heavy, too hot and too harmful. Therefore, it is said in brief that diarrhea is the main disease of bile and mucus. The pathogenesis, signs and symptoms of Atisāra are -unwholesome diet, vitiation of physical and mental doṣa, loss of agni etc.
@@ -8269,10 +6678,6 @@ For example, if you drink Cāṅgerīghṛta, it cures ailments caused by prolap
 
 For example, Rasāñjanādi-cūrṇa can be taken with lemon juice to get rid of diarrhoea; Rasāñjanādicūrṇa, Kapitthādi-cūrṇa can be taken to get rid of diarrhea. On the other hand, if you take Pippalyādi cūrṇa the mucus and diarrhoea are destroyed. After vāta, pitta and the kapha should be managed or whichever doṣa is the strongest, should be managed first[2].
 
-Footnotes and references:
-
-[back to top]
-
 [1]:
 
 pittalasya punaramlalavaṇakaṭukakṣāroṣṇatīkṣṇātimātraniṣeviṇaḥ pratatāgnisūryasaṃtāpoṣṇamārutopahatagātrasya krodherṣyābahulasya pittaṃ prakopamāpadyate | tat prakupitaṃ dravatvādū ṣmāṇmupahatya purīṣāśayavisṛtamauṣṇyād dravatvāt saratvācca bhittvā purīṣamatisārāya prakalpate | tasya rūpāṇi-hāridraṃ haritaṃ nīlaṃ kṛṣṇaṃ raktapittopahitamatidurgandhamatisāryate purīṣaṃ, tṛṣṇādāhasvedamūrcchāśūlabradhnasaṃtāpapākaparīta iti pittātisāraḥ || (C. Cikitsāsthāna–XIX.6); R. K. Sharma & Bhagwan Dash (eds.), Caraka Saṃhitā–Vol. III, Varanasi, Chowkhamba Sanskrit Series Office, 2017, p. 223.
@@ -8284,16 +6689,6 @@ C. Cikitsāsthāna–XIX.4-122; R. K. Sharma & Bhagwan Dash (eds.), Caraka Saṃ
 ---
 
 ## 116. Pāṇḍuroga (anemia) according to Caraka
-
-
-Atharvaveda and Charaka Samhita
-
-by Laxmi Maji | 2021 | 143,541 words
-
-This page relates ‘Panduroga (anemia) according to Caraka’ found in the study on diseases and remedies found in the Atharvaveda and Charaka-samhita. These texts deal with Ayurveda—the ancient Indian Science of life—which lays down the principles for keeping a sound health involving the use of herbs, roots and leaves. The Atharvaveda refers to one of the four Vedas (ancient Sanskrit texts encompassing all kinds of knowledge and science) containing many details on Ayurveda, which is here taken up for study.
-
-Go directly to: 
-Footnotes.
 
 Pāṇḍuroga (anemia) according to Caraka
 
@@ -8329,10 +6724,6 @@ Regarding the liquid diet of Pāṇḍuroga patients it has been said: Pañcamū
 
 Soil consuming Pāṇḍuroga patient are treated by physician depending on how well they can accept the treatment. Through sharp medication the physician cleanses the patient’s body of soil. After this process patient is administered various types of medicated ghee like—vyoṣādya-ghṛta for boosting his strength. If the patient doses not cease consuming soil then drugs like Viḍaṅga, Elā, Ativiṣa, and Nimba should be mixed with the mud. In śākhāśrita kāmalā the stool is like sesame paste, white in colour because of stoppage of Pitta by impaired Kapha. To remove this obstruction the physician prescribes hot spicy medicine to bring pitta from Śākhā to the intestine. In Halīmaka Vāta and Pitta colour of persons skin changes to yellow, blue or green. The treatment is done with the following: Oleation with buffalo milk, ghee mixed with guḍūcī juice and milk; Agastya Harītakī; cleansing with Āmlā juice mixed with niśotha powder. After this the patient is given diet rich in sweet taste which causes Vāta and Pitta[2].
 
-Footnotes and references:
-
-[back to top]
-
 [1]:
 
 pāṇḍurogāḥ smṛtāḥ pañca vātapittakaphai straya: |
@@ -8346,16 +6737,6 @@ C. Cikitsāsthāna–XX.2-68; Baidyacharya Kalikinkar Sensarma & Ayurbedacharya 
 
 ## 117. Kṣatakṣīṇa (galloping phthisis) according to Caraka
 
-
-Atharvaveda and Charaka Samhita
-
-by Laxmi Maji | 2021 | 143,541 words
-
-This page relates ‘Kshatakshina (galloping phthisis) according to Caraka’ found in the study on diseases and remedies found in the Atharvaveda and Charaka-samhita. These texts deal with Ayurveda—the ancient Indian Science of life—which lays down the principles for keeping a sound health involving the use of herbs, roots and leaves. The Atharvaveda refers to one of the four Vedas (ancient Sanskrit texts encompassing all kinds of knowledge and science) containing many details on Ayurveda, which is here taken up for study.
-
-Go directly to: 
-Footnotes.
-
 Kṣatakṣīṇa (galloping phthisis) according to Caraka
 
 Tuberculosis occurs as a consequence of Kṣatakṣīṇa. But Kṣatakṣīṇa cannot be called tuberculosis. In Western languages, a Kṣatakṣīṇa is called a galloping phthisis. Maharṣi Caraka discusses disease of Kṣatakṣīṇa and treatment of phthisis or Kṣatakṣīṇa-cikitsā. The causes of Kṣatakṣīṇa are: a person having excessive attachment for women and indulgence in taking ununctuous food, food in small quantity and untimely food etc. Due to the above causative factors the chest gets wounded and gets emaciated; thus, Kṣatakṣīṇa develops. The symptoms in unmanifested form constitute the premonitory symptoms of Kṣatakṣīṇa disease.
@@ -8366,10 +6747,6 @@ The general treatment of Kṣatakṣīṇa diseases is: if a person with the str
 
 The treatment of Kṣatakṣīṇa includes: intake of laksa with honey, followed with milk; and food with milk and sugar. Use of formulations to cures of this disease, namely, Elādi guṭikā, Yaṣṭyāhvādi ghṛta, Kolādi ghṛta, Amṛta prāśa ghṛta, Sarpirguḍāḥ, Sarpirmodakāḥ, Saindhavādi cūrṇa etc.[1]
 
-Footnotes and references:
-
-[back to top]
-
 [1]:
 
 C. Cikitsāsthāna–XI.4-95; Caraka Saṃhitā Vol. II with elaborated Vidyotini Hindi Commentary, trans. Kasinatha Pandey & Gorakha Natha Chaturvedi, Varanasi, Chaukhambha Bharati Academy, 2015, pp. 340-352.
@@ -8377,16 +6754,6 @@ C. Cikitsāsthāna–XI.4-95; Caraka Saṃhitā Vol. II with elaborated Vidyotin
 ---
 
 ## 118. Śvayathu (oedema) according to Caraka
-
-
-Atharvaveda and Charaka Samhita
-
-by Laxmi Maji | 2021 | 143,541 words
-
-This page relates ‘Shvayathu (oedema) according to Caraka’ found in the study on diseases and remedies found in the Atharvaveda and Charaka-samhita. These texts deal with Ayurveda—the ancient Indian Science of life—which lays down the principles for keeping a sound health involving the use of herbs, roots and leaves. The Atharvaveda refers to one of the four Vedas (ancient Sanskrit texts encompassing all kinds of knowledge and science) containing many details on Ayurveda, which is here taken up for study.
-
-Go directly to: 
-Footnotes.
 
 Śvayathu (oedema) according to Caraka
 
@@ -8408,10 +6775,6 @@ The general treatment of this disease is contradictory measures in respect to et
 
 In all the three types of oedema, the patient should be given the paste of Harītakī, Nagara, Devadāru and Punarṇavā along with cow’s urine. After taking these recipes, the patient should take bath, and after the recipe is digested, he should take food along with milk. The treatment of oedema includes: Aṣṭaśatāriṣṭa, Punarṇavādyariṣṭa, Triphalādyariṣṭa, Kṛṣṇādya Cūrṇa and, ginger juice, Śilājatu and Paṭolamūlādi Kaṣāya etc. In swelling due to the poison, he should be administered anti poison measures. To be cured of swelling the following treatment are applied–fasting, bloodletting, ununctuous ointment, excision, puncturing, cauterisation etc.[1]
 
-Footnotes and references:
-
-[back to top]
-
 [1]:
 
 C. Cikitsāsthāna–XII.5-102; R. K. Sharma & Bhagwan Dash (eds.), Caraka Saṃhitā–Vol. III, Varanasi, Chowkhamba Sanskrit Series Office, 2017, pp. 483-517.
@@ -8420,25 +6783,11 @@ C. Cikitsāsthāna–XII.5-102; R. K. Sharma & Bhagwan Dash (eds.), Caraka Saṃ
 
 ## 119. Madātyaya (alcoholism) according to Caraka
 
-
-Atharvaveda and Charaka Samhita
-
-by Laxmi Maji | 2021 | 143,541 words
-
-This page relates ‘Madatyaya (alcoholism) according to Caraka’ found in the study on diseases and remedies found in the Atharvaveda and Charaka-samhita. These texts deal with Ayurveda—the ancient Indian Science of life—which lays down the principles for keeping a sound health involving the use of herbs, roots and leaves. The Atharvaveda refers to one of the four Vedas (ancient Sanskrit texts encompassing all kinds of knowledge and science) containing many details on Ayurveda, which is here taken up for study.
-
-Go directly to: 
-Footnotes.
-
 Madātyaya (alcoholism) according to Caraka
 
 Alcohol is prepared from different types of ingredients like cereals, fruits, roots, Sara, flowers, leaves stems, barks and sugar. Depending upon the methods of preparation followed, alcohol is of different types like Surā, Madhu and Maireya. Maharṣi Caraka discusses disease of Madātyaya and treatment of Alcoholism or Madātyaya-cikitsā. The ten qualities of alcohol are lightness, hot, sharpness, subtleness, sourness, Vyavāyī, swiftness, ununctuousness, expansiveness and non-sliminess. If the person has taken in an appropriate manner, in a right dose, at an appropriate time, along with wholesome food, in accordance with one’s own strength and with a cheerful mind, alcohol works like ambrosia. If taken inappropriately, alcohol produces poisoning effects like Moha or unconsciousness. Alcoholism occurs due to vitiation of all three doṣas but depends up on the predominance of one doṣa. Always drink Madya with green vegetables, salted food items and roasted meat. A characteristic feature of Madya is intoxication. For persons of Vātika type, alcohol made of jaggery and piṣṭa is used. For persons dominated by kapha, alcohol prepared of honey is used. Similarly, for persons of Paittika type, alcohol made of grapes is used. The excessive intake of alcohol depends results in exhilaration, passionate desire, erotic stimulation, sense of pleasure and varieties of psychic morbidities of rājasika and tāmasika nature depending upon the mental attitude of the person culminating in maha-nidrā. This mental perversion caused by alcohol is called intoxication. Intake of alcohol results in three stage of toxication, namely, the first, the middle and the last.
 
 When taken the proper quantity of wine produces exhilaration, energy, happiness, nourishment, good health, excellent virility and pleasant. For the cure for Vātaja Madātyaya the patient should be given old, salty wine processes in Bijāpūra etc., unctuous and sour meat soup, different types of pickles, pomegranate juice, embracing of young women. For the cure for Pittaja Madātyaya he should be given emesis, grape juice, and saturating drinks, wine diluted with a lot of water, and cold measures. Kaphaja Madātyaya should be treated with vomiting therapy, fasting, hot food and drinks, and embracing of young women. If all the above measures fail then milk should be given, and then small doses of wine should be given.[1]
-
-Footnotes and references:
-
-[back to top]
 
 [1]:
 
@@ -8448,16 +6797,6 @@ C. Cikitsāsthāna–XXIV.11-206; R. K. Sharma & Bhagwan Dash (eds.), Caraka Sa�
 
 ## 120. Grahaṇī (sprue-syndrome) according to Caraka
 
-
-Atharvaveda and Charaka Samhita
-
-by Laxmi Maji | 2021 | 143,541 words
-
-This page relates ‘Grahani (sprue-syndrome) according to Caraka’ found in the study on diseases and remedies found in the Atharvaveda and Charaka-samhita. These texts deal with Ayurveda—the ancient Indian Science of life—which lays down the principles for keeping a sound health involving the use of herbs, roots and leaves. The Atharvaveda refers to one of the four Vedas (ancient Sanskrit texts encompassing all kinds of knowledge and science) containing many details on Ayurveda, which is here taken up for study.
-
-Go directly to: 
-Footnotes.
-
 Grahaṇī (sprue-syndrome) according to Caraka
 
 Maharṣi Caraka discusses disease of Grahaṇī Doṣa and treatment of Sprue-syndrome or Grahaṇī doṣa-cikitsā. The term Grahaṇī doṣa implies the malfunctioning of agni. The agni is primary located in the Grahaṇī. impairment agni is responsible for the causation of Grahaṇī doṣa. The reason for Jāṭharāgni is life, colour, strength, health, enthusiasm, plumpness, complexion, ojas or energy, tejas, agnis and prana. Digestive fire or Agni is the main cause of all diseases and also for the maintenance of good health and life. Jāṭharāgni is the chief among all the agnis because its increase and decrease result in the increase and decrease respectively of bhūtāgnis and dhātvagnis. Jāṭharāgni should be suitably and carefully maintained because the life and strength of an individual are dependent upon it. Also, Agnimāndya and Ajīrṇa, etc., are called Grahaṇī roga. The signs and symptoms of Ajīrṇa are: feeling prostration, headache, fainting, giddiness, yawning, malaise, fever, morbid thirst, vomiting, anorexia and indigestion of food etc.
@@ -8465,10 +6804,6 @@ Maharṣi Caraka discusses disease of Grahaṇī Doṣa and treatment of Sprue-s
 The distinctive feature of Grahaṇī-gada is that the patient voids stool, which is partly a product of digested food and partly a product of undigested food. The premonitory symptoms of Grahaṇī roga are: morbid thirst, feeling of laziness, diminution of strength, delay of food in the digestion etc. The symptoms of Grahaṇī-gada are morbid thirst, anorexia, distaste in mouth, excessive salivation, and asthma, pain in bones, oedema in legs and hands, fever, and smell of ama etc. Grahaṇī roga is four types, namely, Vātika, Paittika, Kaphaja, and Sānnipātika. The causes of Grahaṇī roga are Vayu, Pitta, Kapha and all three together.
 
 The general treatment of Grahaṇī roga is: when āma is excessive the patient should be given emesis therapy; when ama is in the intestine he should be given appetisers and purgatives therapies; when ama is in the whole body he should be given lightening and digestive measures. Use of formulations to cures of this disease, namely, Pañcakola peyā, Śuṇṭhi cūrṇa, Harītakī cūrṇa, Citrakādi cūrṇa, Daśamūla ghṛta, Tryūṣaṇādi ghṛta, Takrāriṣṭra, Bhallātaka kṣāra, Kṣāra guṭikā etc. Use Pañcakarma to cure Sānnipātika Grahaṇī[1].
-
-Footnotes and references:
-
-[back to top]
 
 [1]:
 
@@ -8478,25 +6813,11 @@ C. Cikitsāsthāna–XIX.2-141; Baidyacharya Kalikinkar Sensarma & Ayurbedachary
 
 ## 121. Visarpa (erysipelas) according to Caraka
 
-
-Atharvaveda and Charaka Samhita
-
-by Laxmi Maji | 2021 | 143,541 words
-
-This page relates ‘Visarpa (erysipelas) according to Caraka’ found in the study on diseases and remedies found in the Atharvaveda and Charaka-samhita. These texts deal with Ayurveda—the ancient Indian Science of life—which lays down the principles for keeping a sound health involving the use of herbs, roots and leaves. The Atharvaveda refers to one of the four Vedas (ancient Sanskrit texts encompassing all kinds of knowledge and science) containing many details on Ayurveda, which is here taken up for study.
-
-Go directly to: 
-Footnotes.
-
 Visarpa (erysipelas) according to Caraka
 
 In Western language, Visarpa is called Erysipelas. It spreads rapidly throughout the body, sometimes in one place or suddenly in different places. The name of the disease is Visarpa. The term has two parts, i.e., ‘Vi’ and ‘Sarpa’. ‘Vi’ stands for ‘Vividha’ meaning different, and ‘Sarpa’ Stands for ‘Sarpaṇa’ meaning spreading. Since the roga spreads either upwards or downwards or sidewards or in all these directions, it is called Visarpa. This roga is also called Pari-sarpa. The prefix ‘Pari’ stands for ‘Paritaḥ’ and ‘Sarpa’ stands for ‘Sarvataḥ’ meaning all over. Maharṣi Caraka discusses disease of Visarpa and treatment of Erysipelas and Herpes or Visarpa-cikitsā. The causes of Visarpa are -excessive intake of saline, sour, and pungent tastes; intake of sour, curd, mastu, surā, śukta, Sauvīra; excessive intake of Madya, intake of polluted Madya, condiments, pickles, haritas, vidāhis, kūrcikā, kilāṭa, mandaka, śāṇḍāki, other fermented drinks, tila, masa, Kulattha, different types of oil and pastries, Ānūpa meat, Audaka meat, garlic; intake of food large quantity, sleeping during day time etc.; affliction by phthisis, injury, bandha and falls; excessive exposure to hot sun and excessive physical work etc. The seven dhatus are involved in the pathogenesis of Visarpa, namely, Rakta, Lasikā, Tvak, Māṃsa, and three doṣas. Visarpa is seven types, viz., Vātika, Paittika, Kaphaja, Sānnipātika, Vātapittaka, Kaphavātaja and Pittaśleṣmika. The location of Visarpa is of three types, namely, Internal (difficult to cure), External (curable), and the both (incurable).
 
 The general treatment of visarpa is Virecana followed by bloodletting is adopted. The general treatment of visarpa includes: Virecana followed by bloodletting is adopted; if the dosas causing Visarpa are of āma nature and if these dosas are located in the abode of kapha, then fasting and emetic therapies and bitter drugs, application of dry and cool drugs are useful; If doṣa in the sites of pitta, then lightening measure, purgation, emesis, bloodletting, and bitter drugs are useful; if doṣa in the sites of vāta, then medicines and ununctuous nature are useful, and if doṣa in the periphery, then the patient should be treated with bloodletting with horns, leeches, etc. To cure of Visarpa the patient should be advised the following diet, namely, rice-paste, old śāli, green gram, bengal gram, Āmalaki, barley and wheat. Use of formulations to cures of this disease, namely, Muktā paste, Dantyādi lepa, Kampillakādi oil, and Ghṛta etc. Blood-letting is most effective therapy for visarpa[1].
-
-Footnotes and references:
-
-[back to top]
 
 [1]:
 
@@ -8505,16 +6826,6 @@ C. Cikitsāsthāna–XXI. 3-143; Caraka Saṃhitā Vol. II with elaborated Vidyo
 ---
 
 ## 122. Hikkā (hiccup) and Śvāsa (asthma) according to Caraka
-
-
-Atharvaveda and Charaka Samhita
-
-by Laxmi Maji | 2021 | 143,541 words
-
-This page relates ‘Hikka (hiccup) and Shvasa (asthma) according to Caraka’ found in the study on diseases and remedies found in the Atharvaveda and Charaka-samhita. These texts deal with Ayurveda—the ancient Indian Science of life—which lays down the principles for keeping a sound health involving the use of herbs, roots and leaves. The Atharvaveda refers to one of the four Vedas (ancient Sanskrit texts encompassing all kinds of knowledge and science) containing many details on Ayurveda, which is here taken up for study.
-
-Go directly to: 
-Footnotes.
 
 Hikkā (hiccup) and Śvāsa (asthma) according to Caraka
 
@@ -8548,10 +6859,6 @@ Kṣudra-śvāsa.
 
 The first three of these are inherently incurable. The line of treatment in both hiccup and asthma is the same due to the identical etiology, location and the dosas involved. The general treatment of Hikkā and Śvāsa includes fomentation therapy, elimination therapy, diet, drinks, pañcakarma therapy, massage with salted oil, etc. Use of formulations to cures of this disease, namely, Śatyādi-Cūrṇa, Muktādya- Cūrṇa, Daśamūlādi-Ghṛta, and Manaḥśilādi-Ghṛta, etc.[1]
 
-Footnotes and references:
-
-[back to top]
-
 [1]:
 
 C. Cikitsāsthāna–XXI.3-85; Baidyacharya Kalikinkar Sensarma & Ayurbedacharya Satyasekhar Bhattacharya (eds.), Caraka-Samhita–Vol. III, trans. Kabiraj Jasodanandan Sirkar, Kolkata, Deepayan Publication, 2013, pp. 13-30.
@@ -8559,16 +6866,6 @@ C. Cikitsāsthāna–XXI.3-85; Baidyacharya Kalikinkar Sensarma & Ayurbedacharya
 ---
 
 ## 123. Kāsa (bronchitis) according to Caraka
-
-
-Atharvaveda and Charaka Samhita
-
-by Laxmi Maji | 2021 | 143,541 words
-
-This page relates ‘Kasa (bronchitis) according to Caraka’ found in the study on diseases and remedies found in the Atharvaveda and Charaka-samhita. These texts deal with Ayurveda—the ancient Indian Science of life—which lays down the principles for keeping a sound health involving the use of herbs, roots and leaves. The Atharvaveda refers to one of the four Vedas (ancient Sanskrit texts encompassing all kinds of knowledge and science) containing many details on Ayurveda, which is here taken up for study.
-
-Go directly to: 
-Footnotes.
 
 Kāsa (bronchitis) according to Caraka
 
@@ -8590,10 +6887,6 @@ The first three types of kāsa should be curable and others are only controllabl
 
 Vātaja kāsa should be treated by oleation, sudation, purgation, unctuous enema. Pittaja kāsa should be treated by purgation and emesis. Kaphaja kāsa should be treated by emesis, food which is hot, dry, and spicy, light food etc. Kṣataja kāsa should be treated by drugs which are sweet and promotive, etc. Kṣayaja kāsa should be treated by mild evacuation and promotive measures, improve digestive power, nourishing drugs and drugs which cleanse body channels, etc. Use of formulations to cures of this disease, namely, Agastya Harītakī, Kaṇṭakāri-Ghṛta, Pippalyādi-Ghṛta, Viḍaṅgādi-Cūrṇa, Goat’s milk cooked with tṛṇa pañcamūlā, Manaḥśilādi-Dhūma, Drākṣādi-Leha, etc.[1]
 
-Footnotes and references:
-
-[back to top]
-
 [1]:
 
 C. Cikitsāsthāna–XVIII. 3-190; Caraka Saṃhitā Vol. II with elaborated Vidyotini Hindi Commentary, trans. Kasinatha Pandey & Gorakha Natha Chaturvedi, Varanasi, Chaukhambha Bharati Academy, 2015, pp. 532-555.
@@ -8601,13 +6894,6 @@ C. Cikitsāsthāna–XVIII. 3-190; Caraka Saṃhitā Vol. II with elaborated Vid
 ---
 
 ## 124. Ulcers (vraṇa) according to Caraka
-
-
-Atharvaveda and Charaka Samhita
-
-by Laxmi Maji | 2021 | 143,541 words
-
-This page relates ‘Ulcers (vrana) according to Caraka’ found in the study on diseases and remedies found in the Atharvaveda and Charaka-samhita. These texts deal with Ayurveda—the ancient Indian Science of life—which lays down the principles for keeping a sound health involving the use of herbs, roots and leaves. The Atharvaveda refers to one of the four Vedas (ancient Sanskrit texts encompassing all kinds of knowledge and science) containing many details on Ayurveda, which is here taken up for study.
 
 Ulcers (vraṇa) according to Caraka
 
@@ -8672,8 +6958,6 @@ Nīlatva,
 Śyāvatva,
 
 Atipiḍakatva,
-
-Raktakṛṣṇatva,
 
 Raktakṛṣṇatva,
 
@@ -8863,25 +7147,11 @@ rubbing, suturing.
 
 ## 125. Chardi (vomiting) according to Caraka
 
-
-Atharvaveda and Charaka Samhita
-
-by Laxmi Maji | 2021 | 143,541 words
-
-This page relates ‘Chardi (vomiting) according to Caraka’ found in the study on diseases and remedies found in the Atharvaveda and Charaka-samhita. These texts deal with Ayurveda—the ancient Indian Science of life—which lays down the principles for keeping a sound health involving the use of herbs, roots and leaves. The Atharvaveda refers to one of the four Vedas (ancient Sanskrit texts encompassing all kinds of knowledge and science) containing many details on Ayurveda, which is here taken up for study.
-
-Go directly to: 
-Footnotes.
-
 Chardi (vomiting) according to Caraka
 
 Maharṣi Caraka discusses disease of Chardi and treatment of Vomiting and Chardicikitsā. Due to vāta, pitta, kapha and Sannipāta and due to contact with disgusting things are produced five types of Chardi. The premonitory symptoms of Chardi are as follows: Nausea, excessive salivation, and hateful disposition towards food. There are five types of Chardi, namely, Vātika chardi (caused by vāyu), Paittika chardi (caused by pitta), Khapaja chardi (caused by kapha), Sānnipātika chardi (caused by all three doṣas), and Dviṣṭārtha-yogaja-chardi (caused by the contact unwanted objects). If vomitus contains faeces, and urine, associated with cough, dyspnoea and thirst, then he is incurable. If severe vomiting in a weak person, associated with blood and pus, then he is incurable. If Vomiting which has no complications, then he is curable.
 
 The general treatment of Chardi includes lightening measures and evacuative measures. Regarding the diet of Chardi patients it has been said: old rice, wheat, snake-gourd, guḍūcī, butter-milk, roots of Citraka. Use of formulations to cures of this disease, namely, Kalyāṇa-Ghṛta, Tryūṣaṇa-Ghṛta and Jīvanīya-Ghṛta, juice of Āmalakī, etc.[1]
-
-Footnotes and references:
-
-[back to top]
 
 [1]:
 
@@ -8890,16 +7160,6 @@ C. Cikitsāsthāna–XX.4-47; R. K. Sharma & Bhagwan Dash (eds.), Caraka Saṃhi
 ---
 
 ## 126. Tṛṣṇā (morbid thirst) according to Caraka
-
-
-Atharvaveda and Charaka Samhita
-
-by Laxmi Maji | 2021 | 143,541 words
-
-This page relates ‘Trishna (morbid thirst) according to Caraka’ found in the study on diseases and remedies found in the Atharvaveda and Charaka-samhita. These texts deal with Ayurveda—the ancient Indian Science of life—which lays down the principles for keeping a sound health involving the use of herbs, roots and leaves. The Atharvaveda refers to one of the four Vedas (ancient Sanskrit texts encompassing all kinds of knowledge and science) containing many details on Ayurveda, which is here taken up for study.
-
-Go directly to: 
-Footnotes.
 
 Tṛṣṇā (morbid thirst) according to Caraka
 
@@ -8919,10 +7179,6 @@ Upasargaja Tṛṣṇā (as a complication of other diseases).
 
 The general treatment of Tṛṣṇā includes Aindra Jala, being touched by pleasant ladies, wine should be given mixed with water etc. Tṛṣṇā can also occur as a complication in those emaciated by other diseases[1].
 
-Footnotes and references:
-
-[back to top]
-
 [1]:
 
 C. Cikitsāsthāna–XXII. 3-62; Caraka Saṃhitā Vol. II with elaborated Vidyotini Hindi Commentary, trans. Kasinatha Pandey & Gorakha Natha Chaturvedi, Varanasi, Chaukhambha Bharati Academy, 2015, pp. 613-623.
@@ -8930,16 +7186,6 @@ C. Cikitsāsthāna–XXII. 3-62; Caraka Saṃhitā Vol. II with elaborated Vidyo
 ---
 
 ## 127. Trimarmīya (conditions of the bladder, heart and head)
-
-
-Atharvaveda and Charaka Samhita
-
-by Laxmi Maji | 2021 | 143,541 words
-
-This page relates ‘Trimarmiya (conditions of the bladder, heart and head)’ found in the study on diseases and remedies found in the Atharvaveda and Charaka-samhita. These texts deal with Ayurveda—the ancient Indian Science of life—which lays down the principles for keeping a sound health involving the use of herbs, roots and leaves. The Atharvaveda refers to one of the four Vedas (ancient Sanskrit texts encompassing all kinds of knowledge and science) containing many details on Ayurveda, which is here taken up for study.
-
-Go directly to: 
-Footnotes.
 
 Trimarmīya (conditions of the bladder, heart and head)
 
@@ -8955,10 +7201,6 @@ The general symptoms of Hṛdroga or cardiac disease are as follows: abnormal co
 
 The general symptoms of Śiroroga and head disease are as follows: Vātika type of head disease, there is excruciating pain, ache, and throbbing sensation; Paittika type of headache is associated with burning sensation and pain; Khapaja type of headache is associated with heaviness; in Sānnipātika headache, which is caused by the simultaneous aggravation of all the three doṣas. Kṛmija Śiroroga gives rise to itching, foul smell, pricking sensation and pain in the head. The general treatment of Śiroroga includes Mayura Ghṛta, Mahāmayura Ghṛta, Baladi lepa and Rāsnādi lepa etc. Mouth disease is four types. Arocaka or Anorexia is caused by Aggravated Vāyu, etc., mental factors like grief fear, excessive greed, anger etc. there are five types of Arocaka. Ear disease caused by the simultaneous aggravation of all the three doṣas. Ear diseases are four types. Eye disease caused by the simultaneous aggravation of all the three doṣas. Eye diseases are four types. The tejas of the body in association with vāyu and other dosas, scorches up the hair-root giving instantaneous rise of alopecia in man. It is called Khālitya. If there is partial scorching, then this gives rise to premature greying of hair and tawny hair. It is called Palita. The treatment of hair diseases includes Manaḥśilādi- Cūrṇa, Mahānīla oil, Sahacarādi oil. Five types of Svarabheda or Hoarseness of voice are as follows: Vātaja (due to Vāta), Pittaja (due to pitta), Khapaja (due to kapha), Raktaja (due to rakta), and Sānnipātaja (all three doṣas involved). The treatment of Svarabheda includes using ghee internally and externally, purgation, Evacuation of doṣa from head etc.[1]
 
-Footnotes and references:
-
-[back to top]
-
 [1]:
 
 C. Cikitsāsthāna–XXVI. 3-293; Caraka Saṃhitā Vol. II with elaborated Vidyotini Hindi Commentary, trans. Kasinatha Pandey & Gorakha Natha Chaturvedi, Varanasi, Chaukhambha Bharati Academy, 2015, pp. 716-765.
@@ -8966,16 +7208,6 @@ C. Cikitsāsthāna–XXVI. 3-293; Caraka Saṃhitā Vol. II with elaborated Vidy
 ---
 
 ## 128. Viṣa (poison) according to Caraka
-
-
-Atharvaveda and Charaka Samhita
-
-by Laxmi Maji | 2021 | 143,541 words
-
-This page relates ‘Visha (poison) according to Caraka’ found in the study on diseases and remedies found in the Atharvaveda and Charaka-samhita. These texts deal with Ayurveda—the ancient Indian Science of life—which lays down the principles for keeping a sound health involving the use of herbs, roots and leaves. The Atharvaveda refers to one of the four Vedas (ancient Sanskrit texts encompassing all kinds of knowledge and science) containing many details on Ayurveda, which is here taken up for study.
-
-Go directly to: 
-Footnotes.
 
 Viṣa (poison) according to Caraka
 
@@ -9023,10 +7255,6 @@ Rājimān.
 
 They cause aggravation of Vāyu, pitta, and kapha respectively. The Darvīkara snake has a spoon-like hood, the Maṇḍalī snake has a rounded hood, and the Rājimān snake has its body of variegated colour with drop like spots on it. Five incurable signs of snake bite are as follows: deep, elevated, painful, placed lengthwise, and having marks of fangs. Taṇḍulīyaka triturated with the juice of Kākāṇḍa is useful in all types of poison, similarly, Kākamācī triturated with peacock-bile is useful in all types of poison[1].
 
-Footnotes and references:
-
-[back to top]
-
 [1]:
 
 C. Cikitsāsthāna–XXV.5-192; Baidyacharya Kalikinkar Sensarma & Ayurbedacharya Satyasekhar Bhattacharya (eds.), Caraka-Samhita–Vol. IV, trans. Kabiraj Jasodanandan Sirkar, Kolkata, Deepayan Publication, 2013, pp. 73-104.
@@ -9035,23 +7263,9 @@ C. Cikitsāsthāna–XXV.5-192; Baidyacharya Kalikinkar Sensarma & Ayurbedachary
 
 ## 129. Ūrustambha (spasticity of thigh) according to Caraka
 
-
-Atharvaveda and Charaka Samhita
-
-by Laxmi Maji | 2021 | 143,541 words
-
-This page relates ‘Urustambha (spasticity of thigh) according to Caraka’ found in the study on diseases and remedies found in the Atharvaveda and Charaka-samhita. These texts deal with Ayurveda—the ancient Indian Science of life—which lays down the principles for keeping a sound health involving the use of herbs, roots and leaves. The Atharvaveda refers to one of the four Vedas (ancient Sanskrit texts encompassing all kinds of knowledge and science) containing many details on Ayurveda, which is here taken up for study.
-
-Go directly to: 
-Footnotes.
-
 Ūrustambha (spasticity of thigh) according to Caraka
 
 Maharṣi Caraka discusses disease of Ūrustambha and treatment of Spasticity of thigh and Ūrustambha-cikitsā. This is only disease where pañcakarma is contradicted. Kapha associated with medas afflicts vāyu and pitta to cause spasticity of the thighs characterized by their stiffness and coldness because of which the ailment is called Ūrustambha. The symptoms of Ūrustambha are as follows: stiffness and coldness of thighs, lassitude of thighs, and incapability to move. The treatment of Ūrustambha includes juices of Śārṅgeṣṭadi Cūrṇa, Aṣṭakaṭvara taila, application of master seeds pastes, exercise, jumping, swimming, intake of Saindhavādi oil, Harītakī, Pippalī and honey etc. Diet includes barley, Śyāmaka, saltless green vegetables etc.[1]
-
-Footnotes and references:
-
-[back to top]
 
 [1]:
 
@@ -9060,16 +7274,6 @@ C. Cikitsāsthāna–XXVII.4-61; R. K. Sharma & Bhagwan Dash (eds.), Caraka Sa�
 ---
 
 ## 130. Gynecic disorders and Impotency
-
-
-Atharvaveda and Charaka Samhita
-
-by Laxmi Maji | 2021 | 143,541 words
-
-This page relates ‘Gynecic disorders and Impotency’ found in the study on diseases and remedies found in the Atharvaveda and Charaka-samhita. These texts deal with Ayurveda—the ancient Indian Science of life—which lays down the principles for keeping a sound health involving the use of herbs, roots and leaves. The Atharvaveda refers to one of the four Vedas (ancient Sanskrit texts encompassing all kinds of knowledge and science) containing many details on Ayurveda, which is here taken up for study.
-
-Go directly to: 
-Footnotes.
 
 Gynecic disorders and Impotency
 
@@ -9173,10 +7377,6 @@ heavy.
 
 The treatment of Stanya-roga includes unction, fomentation, emesis, purgation etc. Diet includes rice, red rice, maize, snake-gourd leaves, and brinjal. Use of formulations to cures of this disease, namely, Pañcakolādi ghṛta, Sārivādi lepa, Takrāriṣṭra. Doṣa, dūṣya, mala and vyādhi which are seen in adults, in similarly seen in infants and children, but only their quantity is less[1]. Four more diseases are also discussed in Chapter five.
 
-Footnotes and references:
-
-[back to top]
-
 [1]:
 
 C. Cikitsāsthāna–XXX. 4-152; R. K. Sharma & Bhagwan Dash (eds.), Caraka Saṃhitā–Vol. V, Varanasi, Chowkhamba Sanskrit Series Office, 2017, pp. 129-168.
@@ -9185,23 +7385,9 @@ C. Cikitsāsthāna–XXX. 4-152; R. K. Sharma & Bhagwan Dash (eds.), Caraka Sa�
 
 ## 131. Vāta-śoṇita (gout) and Vāta-rakta (arthritis)
 
-
-Atharvaveda and Charaka Samhita
-
-by Laxmi Maji | 2021 | 143,541 words
-
-This page relates ‘Vata-shonita (gout) and Vata-rakta (arthritis)’ found in the study on diseases and remedies found in the Atharvaveda and Charaka-samhita. These texts deal with Ayurveda—the ancient Indian Science of life—which lays down the principles for keeping a sound health involving the use of herbs, roots and leaves. The Atharvaveda refers to one of the four Vedas (ancient Sanskrit texts encompassing all kinds of knowledge and science) containing many details on Ayurveda, which is here taken up for study.
-
-Go directly to: 
-Footnotes.
-
 Vāta-śoṇita (gout) and Vāta-rakta (arthritis)
 
 Maharṣi Caraka discusses disease of Vāta-śoṇita and treatment of Vāta-rakta or Gout and Arthritis and Vāta-śoṇita-cikitsā. Vāta-śoṇita is a variety of vāta-roga. The disease which is caused by both, vāta and rakta is called Vāta-śoṇita. Alternatively, the very attainment of the stage of the morbid transformation of vitiated vāyu and rakta is called Vāta-śoṇita. Pathogenesis of Vāta-śoṇita are as follows: excessive intake of saline, sour, pungent, alkaline, unctuous, hot and uncooked food, oil-cake; sleeping during day time etc. General symptoms of Vāta-śoṇita are as follows: injury, inappropriate pañcakarma, sexual intercourse etc. Vāta-śoṇita located in hands, feet, fingers and all joints. it begins from hands and feet, then spreads all over the body. Due to vāta, pitta, kapha, vāta-pitta, pitta-kapha, kapha-vāta and all three doṣa and rakta produced eight types of Vātaśoṇita. The general treatment of Vāta-śoṇita includes oleation, purgation, unctuous and non-unctuous enema, bloodletting with leech, horn, needle, venesection etc. Use of formulations to cures of this disease, namely, Balā ghṛta, Jīvanīya ghṛta, Sukumāra taila Amṛtādi taila etc. Regarding the diet of Vāta-śoṇita patients it has been said: old maize, wheat, rice, pigeon pea, bengal gram, lentils, ghee, and milk[1].
-
-Footnotes and references:
-
-[back to top]
 
 [1]:
 
@@ -9211,23 +7397,9 @@ C. Cikitsāsthāna–XXIX. 3-162; Caraka Saṃhitā Vol. II with elaborated Vidy
 
 ## 132. Vātavyādhi (disease caused by Vāyu)
 
-
-Atharvaveda and Charaka Samhita
-
-by Laxmi Maji | 2021 | 143,541 words
-
-This page relates ‘Vatavyadhi (disease caused by Vayu)’ found in the study on diseases and remedies found in the Atharvaveda and Charaka-samhita. These texts deal with Ayurveda—the ancient Indian Science of life—which lays down the principles for keeping a sound health involving the use of herbs, roots and leaves. The Atharvaveda refers to one of the four Vedas (ancient Sanskrit texts encompassing all kinds of knowledge and science) containing many details on Ayurveda, which is here taken up for study.
-
-Go directly to: 
-Footnotes.
-
 Vātavyādhi (disease caused by Vāyu)
 
 Maharṣi Caraka discusses disease of Vātavyādhi and treatment of disease caused by Vāyu and Vāta-vyādhi-cikitsā. Vāyu itself is the disease. By implication, the aggravated vāyu itself after afflicting the concerned dūṣyas pervades the entire body or a part of it to give rise to different types of pain for which the disease is called Vāta-vyādhi. Vayu is the elan vitae, vāyu is the strength and vāyu is the sustained of the body of living beings. There are five divisions of vāyu, namely Prāṇa, Udāna, Samāna, Vyāna, and Apāna. Eighty diseases occur due to vāta. Premonitory symptom of vāyu is unmanifested. The treatment of vāyu includes oleation, sudation, mild purgation with cuter oil, bloodletting, venesection, nasya, therapeutic enema, Daśamūlādi ghṛta, Citrakādi ghṛta, repeated cold and hot treatment, strong purgation etc.[1]
-
-Footnotes and references:
-
-[back to top]
 
 [1]:
 
@@ -9236,13 +7408,6 @@ C. Cikitsāsthāna–XXVIII.3-182; Baidyacharya Kalikinkar Sensarma & Ayurbedach
 ---
 
 ## 133. Therapeutics and Rejuvenation Therapy
-
-
-Atharvaveda and Charaka Samhita
-
-by Laxmi Maji | 2021 | 143,541 words
-
-This page relates ‘Therapeutics and Rejuvenation Therapy’ found in the study on diseases and remedies found in the Atharvaveda and Charaka-samhita. These texts deal with Ayurveda—the ancient Indian Science of life—which lays down the principles for keeping a sound health involving the use of herbs, roots and leaves. The Atharvaveda refers to one of the four Vedas (ancient Sanskrit texts encompassing all kinds of knowledge and science) containing many details on Ayurveda, which is here taken up for study.
 
 Therapeutics and Rejuvenation Therapy
 
@@ -9262,13 +7427,6 @@ Used products for purgation therapy are as follows: latex; roots; barks; leaves;
 
 ## 134. Chapter 5 - Diseases and Remedies in Atharvaveda and Caraka-Saṃhitā
 
-
-Atharvaveda and Charaka Samhita
-
-by Laxmi Maji | 2021 | 143,541 words
-
-This page relates ‘Diseases and Remedies in Atharvaveda and Caraka-Samhita’ found in the study on diseases and remedies found in the Atharvaveda and Charaka-samhita. These texts deal with Ayurveda—the ancient Indian Science of life—which lays down the principles for keeping a sound health involving the use of herbs, roots and leaves. The Atharvaveda refers to one of the four Vedas (ancient Sanskrit texts encompassing all kinds of knowledge and science) containing many details on Ayurveda, which is here taken up for study.
-
 Chapter 5 - Diseases and Remedies in Atharvaveda and Caraka-Saṃhitā
 
 - Sub-Contents: (+ / -)
@@ -9279,16 +7437,6 @@ Chapter 5 - Diseases and Remedies in Atharvaveda and Caraka-Saṃhitā
 
 ## 135. Signs and Omens in the Caraka-Saṃhitā
 
-
-Atharvaveda and Charaka Samhita
-
-by Laxmi Maji | 2021 | 143,541 words
-
-This page relates ‘Signs and Omens in the Caraka-Samhita’ found in the study on diseases and remedies found in the Atharvaveda and Charaka-samhita. These texts deal with Ayurveda—the ancient Indian Science of life—which lays down the principles for keeping a sound health involving the use of herbs, roots and leaves. The Atharvaveda refers to one of the four Vedas (ancient Sanskrit texts encompassing all kinds of knowledge and science) containing many details on Ayurveda, which is here taken up for study.
-
-Go directly to: 
-Footnotes.
-
 Signs and Omens in the Caraka-Saṃhitā
 
 Signs which indicate death in six months are as follows: patient with no active inclination; conduct memory, sacrifice, intellect & strength; prominent network of blood vessels appearing on the forehead; appearance of crescent-shaped streak all over the four-head. Signs indicating death within a month are as follows–tremors in body, stupor, movements, &speech like insane; semen, urine & stool sinking in water; swelling up only the extremities and face; failure to identity his own people or attendants; dislike for physician, medicines, food, preceptor and friends etc.
@@ -9297,10 +7445,6 @@ Auspicious signs in the patient louse are family members & patient behaving resp
 
 Good dreams are dreaming of climbing house, palace, hill; riding of elephant, bull, horse; seeing the moon, sun, sun, fire, lactating women; while flowers; journey to the east and north; rising after fall etc[1].
 
-Footnotes and references:
-
-[back to top]
-
 [1]:
 
 Rajneesh V. Giri & Smitha Rajneesh, Synopsis on Caraka Saṃhitā, Varanasi, Chaukhambha Orientalia, 2019, pp. 1-226.
@@ -9308,16 +7452,6 @@ Rajneesh V. Giri & Smitha Rajneesh, Synopsis on Caraka Saṃhitā, Varanasi, Cha
 ---
 
 ## 136. Classification of Drugs in the Caraka-Saṃhitā
-
-
-Atharvaveda and Charaka Samhita
-
-by Laxmi Maji | 2021 | 143,541 words
-
-This page relates ‘Classification of Drugs in the Caraka-Samhita’ found in the study on diseases and remedies found in the Atharvaveda and Charaka-samhita. These texts deal with Ayurveda—the ancient Indian Science of life—which lays down the principles for keeping a sound health involving the use of herbs, roots and leaves. The Atharvaveda refers to one of the four Vedas (ancient Sanskrit texts encompassing all kinds of knowledge and science) containing many details on Ayurveda, which is here taken up for study.
-
-Go directly to: 
-Footnotes.
 
 Classification of Drugs in the Caraka-Saṃhitā
 
@@ -9337,10 +7471,6 @@ Anuvāsana type of enema is composed of fats. Fats are of two types, depending u
 
 Śirovirecana drugs are as follows: fruits of apāmārga, pippalī, marica, viḍaṅga, śigru, śirīṣa, tumburu, pīlu, ajāji, ajamoda, vārtakī, pṛthvikā, elā, hareṇuka. Leaves of various types of basils, viz., sumukha, surasa, kuṭheraka, gaṇḍīra, kālamālaka, parṇāsa, kṣavaka and phaṇijjhaka; haridrā, śṛṅgavera, mūlaka, laśuna, tarkārī, sarṣapa. Roots of arka, alarka, kuṣṭha, nāgadantī, vacā, apāmārga, śvetā, jyotiṣmatī, gavākṣī, gaṇḍīrapuṣpī, avākpuṣpī, vṛścīkāli, vayasthā, ativiṣā. Rhizoms etc. of haridrā, śṛṅgavera, mūlaka, laśuna. Flowers of lodhra, madana, saptaparṇa, nimbi, arka. Resinous exudations of devadāru, aguru, sarala, sallakī, jingini, asana, hiṅgu. Barks of tejovatī, varāṅga, ingudī, sobhāñjanaka, bṛhatī, kaṇṭakārikā[1].
 
-Footnotes and references:
-
-[back to top]
-
 [1]:
 
 C. Vimānasthāna–VIII.154-174; Baidyacharya Kalikinkar Sensarma & Ayurbedacharya Satyasekhar Bhattacharya (eds.), Caraka-Samhita–Vol. I, trans. Kabiraj Jasodanandan Sirkar, Kolkata, Deepayan Publication, 2013, pp. 83-91.
@@ -9348,16 +7478,6 @@ C. Vimānasthāna–VIII.154-174; Baidyacharya Kalikinkar Sensarma & Ayurbedacha
 ---
 
 ## 137. 1a. Study of Fever (Takman) in the Atharvaveda
-
-
-Atharvaveda and Charaka Samhita
-
-by Laxmi Maji | 2021 | 143,541 words
-
-This page relates ‘1a. Study of Fever (Takman) in the Atharvaveda’ found in the study on diseases and remedies found in the Atharvaveda and Charaka-samhita. These texts deal with Ayurveda—the ancient Indian Science of life—which lays down the principles for keeping a sound health involving the use of herbs, roots and leaves. The Atharvaveda refers to one of the four Vedas (ancient Sanskrit texts encompassing all kinds of knowledge and science) containing many details on Ayurveda, which is here taken up for study.
-
-Go directly to: 
-Footnotes.
 
 1a. Study of Fever (Takman) in the Atharvaveda
 
@@ -9440,9 +7560,6 @@ The nature of Takman is described with such words as "Arciḥ”, “Śociḥ”
 ‘agnerivāsya dahata eti śuṣmiṇa |’[38] &
 ‘namo rūrāya cyavanāya nodanāya dhṛṣṇave |’[39]
 
-‘agnerivāsya dahata eti śuṣmiṇa |’[38] &
-‘namo rūrāya cyavanāya nodanāya dhṛṣṇave |’[39]
-
 Fluctuations of Perspiration and Temperature–This is one more indication of Takman. These changes are customarily come with by quivering or shaking: ‘śūdrāmiccha prapharvya tāṃ takman vīva dhūnuhi |’[40], ‘saha kāsāvepayaḥ |’[41] & ‘udvepayati pūruṣam |’[42]. The condition of√dhū and √vep are utilized in this connection. The perspiration and temperature due to Takman are alternately thought to be triggered by cold and temperature. Therefore, Takman is called “Śīta” meaning cold–‘namaḥ śītāya takmane |’[43], ‘namaḥ śītāya pūrvakāmakṛ tvane |’[44] and ‘takmānaṃ śītam |’[45] and also “Rūra”, “Śociḥ” meaning hot ‘yattvaṃ śīto'tha rūraḥ |’[46], ‘takmānaṃ śītaṃ rūram |’[47], ‘namo rūrāya |’[48], ‘namo rūrāya śociṣe |’[49] and ‘agnirivāsya dahata eti śuṣmiṇa |’[50]
 
 Takman repeats his attacks alternately and periodically in a rhythm. On the third day, he is called 'Tṛtīyaka'[51] (Tertianus)–‘tṛtīyakāya namo astu takmane |’[52], ‘tṛtīyakaṃ vitṛtīyam |’[53] and ‘śīrṣalokaṃ tṛtīyakam |’[54]. In such a case the middle day is free. On the other day, he is called 'Anyedyu' or Duplex–'anyed yu...’[55] and ‘yo anyed yuḥ’[56]. After two days, he is called Ubhayedyu (Quartenus Complicates)–I.25.4; VII. 116.2. When the spell of Takman is constant he is called ‘Saṃdadi’ (Satata, Santata Jvara, Febris continua) V.22.13; XIX.39.10. Takman has two paroxysms one by day and another by night. Takman has numerous types–‘śataṃ ropīśca takmanaḥ |’[57].Example ‘yasya bhīmaḥ pratīkāśaḥ .........’[58] and ‘bhīmāste takman hetaya:........’[59].
@@ -9460,9 +7577,6 @@ Takman is again called ‘haritasya devaḥ’[70], because he is said to turn a
 ‘viśvā rūpāṇi haritā kṛ ṇoṣi |’[71]
 ‘ayaṃ yo viśvān haritān kṛ ṇoṣi |’[72].
 
-‘viśvā rūpāṇi haritā kṛ ṇoṣi |’[71]
-‘ayaṃ yo viśvān haritān kṛ ṇoṣi |’[72].
-
 He is the lord of yellow colour which is the sign of bilious fever or bilious typhoid or malarial fever with Icterus. In such cases, the presence of the fever is terrible. Thus, this warning signs gives us one more type of Takman in which he expresses himself on the skin of the patient.
 
 Takman is also called Paruṣa and red–‘yaḥ paruṣaḥ pāruṣeyā'vadhvaṃsa ivāruṇaḥ |’[73] ‘tasmai te'ruṇāya |’[74] causing the skin of the patient red with eruptions.
@@ -9472,18 +7586,11 @@ On account of this affectation of the skin of the patient Takman is said to have
 ‘takman bhrātrā balāsena svastrā kāsikayā saha |
 pāpmā bhrātṛvyeṇa saha gacchāmumaraṇaṃ janam ||’[75]
 
-‘takman bhrātrā balāsena svastrā kāsikayā saha |
-pāpmā bhrātṛvyeṇa saha gacchāmumaraṇaṃ janam ||’[75]
-
 Balāsa is the Atharvan term for erysipelas or Herpes. The unusual stress on the redness of skin with eruptions in Takman makes him the real brother of Balāsa. Balāsa is always attended by fever and therefore, this close connection between Balāsa and Takman is visible. Pāman his brother's son of Takman -A distant relation through the brother Balāsa which directly affects the skin.
 
 Now red spots on the skin are of many kinds. In the case of Takman, they are possibly 'critical blemishes' of typhoid, Abdominal Typhus. In the stanza: V.22.12 Takman is said to have Kāsikā (cough) as his sister. The difficulties of coughing and serious marks speak of Takman as Typhoid[76].
 
 To discuss the connections of Takman with the great Gods like Varuṇa and Rudra is to discuss its an etiology very little of which is to be found in the Atharvan.
-
-‘namo rudrāya namo astu takmane namo rājñe varuṇāya tviṣīmate |’[77]
-‘yadi vā rājñī varuṇasyāsi putraḥ |’[78]
-‘mā no rudra takmanā mā viṣeṇa mā naḥ saṃstrā divyenāgninā | anyatrāsmad vid yutaṃ pātayaitām ||’[79].
 
 ‘namo rudrāya namo astu takmane namo rājñe varuṇāya tviṣīmate |’[77]
 ‘yadi vā rājñī varuṇasyāsi putraḥ |’[78]
@@ -9500,17 +7607,11 @@ This was also known to the Vedic prophets:
 ‘agnerivāsya dahata eti śuṣmiṇa utave matto vilapannapāyati |
 anyamasmadicchatu kaṃ cidavratastapurvadhāya namo astu takmane ||’[92]
 
-‘agnerivāsya dahata eti śuṣmiṇa utave matto vilapannapāyati |
-anyamasmadicchatu kaṃ cidavratastapurvadhāya namo astu takmane ||’[92]
-
 Such was the terrible Takman.
 
 The Vedas refer to various medications for the cure of fever. for the treatment of fever, Yajña, water treatment, sun treatment, wind treatment etc. are also suggested. The practices suggested by the Kauśika Sūtra are already well-known.
 
 The Atharvan also looked upon Takman as caused by occult practice:
-
-V.22.1–‘apadveṣāṃsyamuyā bhavantu |’
-XIX.39.1–‘takmānaṃ sarvaṃ nāśaya sarvāśca yātudhānyaḥ |’
 
 V.22.1–‘apadveṣāṃsyamuyā bhavantu |’
 XIX.39.1–‘takmānaṃ sarvaṃ nāśaya sarvāśca yātudhānyaḥ |’
@@ -9544,10 +7645,6 @@ In the Atharvaveda, Varaṇa is called a fever destroyer. It is called Varuṇa.
 In the Atharvaveda, the vaiśvānara, agni has been called the destroyer of tuberculosis. The intention is to get rid of fever by mandāgni constipation. Illuminating vaiśvānara agni or jaṭharāgni increases hunger improves digestion and increases energy. Fever etc. is eliminated by eliminating the Mandāgnidoṣa[121].
 
 In the seventh mantra of a sūkta of the Atharvaveda, it is said that all types of fever and various diseases of every organ are cured by Kāśyapa Vidyā. Kāśyapa Vidyā means purification of the body and cleansing of every part of the body[122].
-
-Footnotes and references:
-
-[back to top]
 
 [1]:
 
@@ -10087,16 +8184,6 @@ kaśapasya vībarheṇa viṣvañcaṃ vi vṛhāmasi | (AV.  -I/33/7); K. L. Jo
 
 ## 138. 3a. Udararoga (gastroenterological diseases) in the Atharvaveda
 
-
-Atharvaveda and Charaka Samhita
-
-by Laxmi Maji | 2021 | 143,541 words
-
-This page relates ‘3a. Udararoga (gastroenterological diseases) in the Atharvaveda’ found in the study on diseases and remedies found in the Atharvaveda and Charaka-samhita. These texts deal with Ayurveda—the ancient Indian Science of life—which lays down the principles for keeping a sound health involving the use of herbs, roots and leaves. The Atharvaveda refers to one of the four Vedas (ancient Sanskrit texts encompassing all kinds of knowledge and science) containing many details on Ayurveda, which is here taken up for study.
-
-Go directly to: 
-Footnotes.
-
 3a. Udararoga (gastroenterological diseases) in the Atharvaveda
 
 The cause of abdominal distension might include accumulation of flatus, fat or fluid—the blocked fluid and gas in the GI tract cause abdominal distention. The abnormal muscle, tension and involuntary rigidity can be fatal. Palpable abdominal mass might be a symptom of the life-threatening disorder[1]. Aṣṭāṅga Hṛdayaṃ suggests that all type of stomach ailments is caused by mandāgni because of aggravated Dhātus causing abnormalities in this Prāṇa, Agni and Apāna. The eight kinds of doṣas are plīha, baddha, kṣata and Udaka.
@@ -10106,9 +8193,6 @@ In Mādhava Nidāna we find that swelling of abdomen is Udararoga. The symptoms 
 But the Atharvaveda discusses Jalodara as a part of Udararoga. The treatment of Jalodara as symbolically described in Atharvaveda with a lot of rituals including the recitation of verses[3]. According to Atharvaveda, bowel problem is a water-borne disease that causes enlargement of the stomach. Only saints who have command over Brahmatattva can save patients from disease. A patient then would live for 100 years. In the Atharvaveda, it is said that the disease is caused by God Varuṇa’s rage.
 
 If any sinner breaks the rule of the Varuṇa, he attacks him with this disease named as ‘Jalodara’.
-
-“ayaṃ devānāmasuro vi rājati vasāhi satya varuṇasya rājñaḥ |
-tataspari brahmaṇā śāśadāna ugrasya manyorudimaṃ nayāmi ||”[4]
 
 “ayaṃ devānāmasuro vi rājati vasāhi satya varuṇasya rājñaḥ |
 tataspari brahmaṇā śāśadāna ugrasya manyorudimaṃ nayāmi ||”[4]
@@ -10134,10 +8218,6 @@ Aṣṭāṅga Saṃgraha suggests that all the diseases are caused by Mandāgni
 Finally, we may conclude that, In the Atharvaveda, the medication of this disease is described in this way as falsity which comes out of the tongue, all the burden of sin deposited in its way. Varuṇadeva who is the sole protector of righteousness, justice giver, oh! My life I will spare you from all sins. Again, the medication also says that oh! My life, I will spare you from the rage of the fire God and water God and good karma will come to you. Water borne diseases swell stomachs–so wind God must be propitiated.
 
 Kauśika Sūtra also discusses the treatment of these diseases. If a male or a female suffers from this disease then the patient should take both with water in a pitcher mixed with twenty-one types of grasses along with their roots and hay[16].
-
-Footnotes and references:
-
-[back to top]
 
 [1]:
 
@@ -10254,16 +8334,6 @@ ayaṃ devānāmityekaviṃśatya darbhapiñjūlībhirvalīkaiḥ sārdhamadhiś
 
 ## 139. 2a. Tuberculosis (Yakṣmā or Rājayakṣmā) in the Atharvaveda
 
-
-Atharvaveda and Charaka Samhita
-
-by Laxmi Maji | 2021 | 143,541 words
-
-This page relates ‘2a. Tuberculosis (Yakshma or Rajayakshma) in the Atharvaveda’ found in the study on diseases and remedies found in the Atharvaveda and Charaka-samhita. These texts deal with Ayurveda—the ancient Indian Science of life—which lays down the principles for keeping a sound health involving the use of herbs, roots and leaves. The Atharvaveda refers to one of the four Vedas (ancient Sanskrit texts encompassing all kinds of knowledge and science) containing many details on Ayurveda, which is here taken up for study.
-
-Go directly to: 
-Footnotes.
-
 2a. Tuberculosis (Yakṣmā or Rājayakṣmā) in the Atharvaveda
 
 Yakṣmā in the Atharvaveda does not essentially denote consumption but generally, it stands for any disease in general. This complies with the argument in the Vājasaneyi Saṃhitā that Yakṣmās are numerous in counts. Yakṣmā takes place in the Atharvaveda more than twenty-five times and a few complete hymns are addressed to the same. Thus II.33 (ṚV.X.163), III.31; VI.85; and IX.8 are primarily dedicated to Yakṣmā. But the noun is more than a general sense of ‘disease’. Taking into consideration the hymns it is to be found that II.33 (ṚV.X.163) is called by the Kauśika Sūtra as “Ejector of Kāśyapa” aimed at ejecting ailment from every part of the body[1]. Thus, the plural of the term Yakṣmā means ‘roga’, included in the Takmanāśana gaṇa and the “Sarvarogabhaiṣajjyaṃ” along with the simple practices prescribed by the Kauśika Sūtra for IX.8 prove that in the Atharvaveda[2]. Yakṣmā means any ailment in general. The word has also been used in the Śāntikalpa very broadly. The Atharvaveda Yakṣmā is known for Royal tuberculosis or Kṣaya. Aṣṭāṅga Saṃgraha describes the disease as Kṣaya[3].The Aṣṭāṅga Hṛdaya described the four causes of Royal tuberculosis as exertion (Sāhasa), suppression of the urges (of urine, faeces, flatus, etc.), loss of semen (Śukra) and essence of the tissues (Ojas) and Sneha, and eating an unwholesome diet[4]. This is caused by Vāta, Pitta, and Kapha. The symptoms are sneering excess salivation, weakness, vomiting, etc.[5] It has been said in the Bhāvaprakāśa that the speed of excrement, loss of sperm, courage, and eating unwholesome diet, from these four combined causes, produce tuberculosis with three defects[6]. Tuberculosis is called Royal tuberculosis, Kṣaya, and Śoṣa. Symptoms of tuberculosis are aṃsa, meaning excessive heat on the shoulders and sides, more pain in the hands and feet, and maximum fever[7]. Ācārya Suśruta called Rājayakṣmā a disease of the sinus. Tuberculosis causes anorexia, fever, shortness of breath, cough, bleeding, and sore throat[8].According to Kāśyapa Saṃhitā, there are four reasons for Rājayakṣmā[9].According to Mādhava Nidāna, it is caused by drying up the tissues, blockage of channels of Rasa, cough predominance, etc.[10] According to Śāraṅgadhara Saṃhitā consumption is five types–Vātaja, Pittaja, Kaphaja, Sannipātaja, and Urukṣata[11].
@@ -10292,8 +8362,6 @@ According to Sāyaṇa Kṣetriya as–
 
 ‘kṣetreparakṣetreputrapautrādiśarīrecikitsyaḥkṣayakuṣṭhādidoṣadū ṣitapitṛmātrādiśarīrāvayavebhyaḥā gataḥkṣayakuṣṭhāpasmārādirogaḥ |’[36]
 
-‘kṣetreparakṣetreputrapautrādiśarīrecikitsyaḥkṣayakuṣṭhādidoṣadū ṣitapitṛmātrādiśarīrāvayavebhyaḥā gataḥkṣayakuṣṭhāpasmārādirogaḥ |’[36]
-
 Kṣetriya and Kṣetra the meaning given by Dāḍila, Keśava, Sāyaṇa, the commentator of the TB and the Western scholars who have all associated the disease to Kṣetra, (womb) is apt to create doubt in our mind. The hymns themselves, as pointed out, have given a certain vagueness to the disease Kṣetriya, by not only not mentioning the symptoms but also by equating it with the 'ties of Varuṇa', haters (druhaḥ), 'Curse of women'(Jāmiśaṃsa), 'Misfortune'(Nirṛti) and Calamity (Durita).
 
 In Āyurveda the disease is said to be difficult and impossible, but in the Vedas, there is a description of the treatment of that disease. The disease that is passed from parent to child is called hereditary or Kṣetriya disease[37]. Apāmārga has been called the destroyer of Kṣetriya or hereditary diseases[38]. In the Maitrāyaṇī etc., the branch of Yajurveda, there is a provision to make a powder of Apāmārga’s and deprive it[39]. The importance of Apāmārga is described in sūktas seventeen to nineteen of the fourth chapter of the Atharvaveda[40]. Deer horns eliminate all types of genetic diseases[41]. According to the Atharvaveda, the antlers of a deer should be rubbed in water or the ashes of the antlers should be consumed with water after the stars come out at night and before the sunrise. In the Atharvaveda, two stars called Vicṛta, are said to be the destroyers of Kṣetriya disease[42]. The two stars of the main star are called Vicṛta. Vicṛta means that intersects the pledge. Perhaps the intention is that the use of the bark of Arjuna, barley, sesame, etc., described in this sūkta during the rising of the main star, cures the genetic disease. Sun and moon rays remove Kṣetriya disease or tuberculosis, leprosy, etc. In the Atharvaveda, the same sūkta mentions the following medicines to cure Kṣetriya diseases-Arjuna tree bark powder should be consumed, barley and barley mañjarī should be applied more in food, sesame mañjarī vegetables should be eaten, sesame oil should be applied and sesame seeds should be applied more in food[43]. Arjuna tree maṇi or garland is also a destroyer of this disease. In the same sūkta, the means of eradicating Kṣetriya disease have been mentioned namely-plough, gambling, and agriculture by field[44]. Agriculture nourishes the body. If the body is kept in the Sun, the worms of the disease are destroyed. Where fresh air is available, antidote life energy is available. Therefore, agriculture is capable of eradicating hereditary diseases. In the four mantras of this sūkta, there is a reference to Kṣetriyanāśnīvīrut[45]. And water is also capable of eradicating Kṣetriya diseases[46]. That is drinking plenty of pure water fleshes out all the contaminants, urine, and sweat from the body and the patient is free of Kṣetriya disease. Viṣāṇā or Viṣāṇakā medicine cures rheumatism and hereditary diseases. According to Dr. Kapil Dev Dwivedi, boiling basil leaves in water and drinking it regularly is more beneficial[47]. In the Paippalāda Saṃhitā, Āñjana is said to be an eye-lightener and an antidote for the destroyer of Kṣetriya disease.[48] The remedial process of this disease is as follows -after washing the patient outdoor the priest chants a few hymns in the early morning. He takes some plants like barley (brown) and sesame flower and two types of mud -natural mud and mud from Anthill while reciting some verses washes the patient with ghee, etc. There are also some treatments mentioned by using amulets along with chanting of verses[49]. The use of water as a panacea is well known in the Atharvan tradition. Kṣetriya was a name for a disease or diseases caused by grass-poisoning[50].
@@ -10313,10 +8381,6 @@ Against Rājayakṣma the Kauśika Sūtra recommends the following practice: “
 The Atharvaveda mentions two ways to cure Rājayakṣmā, for example, drinking Somapāna and Puruṣārtha[70]. Soma-rasa or other nutritious juice cures tuberculosis. And increasing or virility masculinity is also useful for the prevention of this disease. This disease arises and increases when there is a decrease in mood and will power. If the mind has the willpower then the incidence of this disease gradually decreases and gradually subsides.
 
 In the Ṛgveda and the Atharvaveda, there is a reference to Rājayakṣmā along with Ajñātayakṣamā[71]. Unknown tuberculosis is probably applied to cancer. The symptoms and causes of this disease are unknown because it is called unknown tuberculosis. According to Dr. Kapil Dev Dwivedi, this unknown disease is cancer. At that time, the diagnosis of this disease was probably not confirmed. Therefore, it has been left out as unknown tuberculosis. The disease originates when infected germs enter the body[72]. Havana is the best medicine for Ajñātayakṣamā. The use of the Cipudra tree has been called a beneficial medicine for unknown tuberculosis[73] and other medicinal Rājayakṣmā equivalents.
-
-Footnotes and references:
-
-[back to top]
 
 [1]:
 
@@ -10664,16 +8728,6 @@ cīpudruḥ | parā tamajñātaṃ yakṣmam adharāñcaṃ suvāmasi | (AV. –
 
 ## 140. 2b. Tuberculosis (Yakṣmā or Rājayakṣmā) in the Caraka-Saṃhita
 
-
-Atharvaveda and Charaka Samhita
-
-by Laxmi Maji | 2021 | 143,541 words
-
-This page relates ‘2b. Tuberculosis (Yakshma or Rajayakshma) in the Caraka-Samhita’ found in the study on diseases and remedies found in the Atharvaveda and Charaka-samhita. These texts deal with Ayurveda—the ancient Indian Science of life—which lays down the principles for keeping a sound health involving the use of herbs, roots and leaves. The Atharvaveda refers to one of the four Vedas (ancient Sanskrit texts encompassing all kinds of knowledge and science) containing many details on Ayurveda, which is here taken up for study.
-
-Go directly to: 
-Footnotes.
-
 2b. Tuberculosis (Yakṣmā or Rājayakṣmā) in the Caraka-Saṃhita
 
 On the other hand, the Caraka-Saṃhitā states that vāta, bile, and phlegm are the main causes of tuberculosis. Degeneration of elements and blood caused Rājayakṣmā. Caraka-Saṃhitā has been Rājayakṣmā called Śoṣa Nidāna [nidānaṃ], Rājayakṣma-cikitsita [cikitsitaṃ] and Kṣatakṣīṇa-cikitsita [cikitsitaṃ]. In the Suśruta Saṃhitā, Rājayakṣmā is called Śoṣa, Kṣaya, and Rājayakṣmā[1]. Śoṣa is also called Rājayakṣmā, because it is the most troublesome, among diseases. According to Vāgbhaṭṭa, Rājayakṣmā is known also as kṣaya, Śoṣa, and Rogarāṭ[2]. Since it affected the king of the stars and the twice-born long back and since it is the king of Yakṣmās it is called Rājayakṣma, because it leads to loss of the body and of medicines and also because it is the cause of many diseases it is called kṣaya. It is Śoṣa because it produces depletion of rosa and others and Rogarāṭ king of the disease since it reigns over them.
@@ -10745,10 +8799,6 @@ There has been talking of applying extinction rules to alleviate tuberculosis. T
 The Kalka of white mustard seed; The perfumed garlands will be adorned with garlands, bas-reliefs, and ornaments by bathing in the seasonal water boiled with perfumes and life-giving medicines; and Maṇi-pearls will touch all that touches; will worship gods, physicians, and Brāhmaṇas; afterwards, he should take food and drinks which are of agreeable colour, taste, touch, and smell. The food and drinks should be consumed leisurely[41]. One-year-old rice has been prescribed as a diet for tuberculosis patients[42].
 
 Finally, it was said that the cure for tuberculosis is to massage, unction, bathing, cleansing, medicated enema, milk, ghee, meat, meaty food, delicious wine, pleasant aroma, seasonal bath, seasonal love, observing friendly and beautiful ladies, Śrutisukhakara, pleasant lyricism, always joy and reassurance, paying regular obeisance to preceptors, observing celibacy, giving donations, performing penance, offering prayers to the gods, speaking the truth, maintaining good conduct, performing auspicious and non-violent activities and showing respect of physicians and learned Brāhmaṇas are worshipped[43]. Again, it can be said that the Yajña by which royal tuberculosis was alleviated in ancient times, so the seeker of healing will be cured of tuberculosis by performing that Yajña according to the Vedic rules[44]. Rasendrasāra, Saṅgraha etc. several herbs have been documented to treat Yakṣmā. Gruel, Bilva, drug oils, Godhūma, mudgayūṣa, sūraṇa, etc. have been prescribed. It is also necessary to restrain from anger, sex, day sleep, etc., and eight kinds of fruits called kakarāṣṭaka have been suggested[45]. Medicines like śuddhapārada, śuddhagandhaka, jātiphala, jātikośa, jaṭāmaṇsi, and many other herbs are useful.
-
-Footnotes and references:
-
-[back to top]
 
 [1]:
 
@@ -10999,21 +9049,9 @@ tyajet kādīni dravyāṇi hṛdyaṃ svādu ca śīlayet || (Ras. S. –II/Yak
 
 ## 141. 4a. Kuṣṭha-roga (leprosy) in the Atharvaveda
 
-
-Atharvaveda and Charaka Samhita
-
-by Laxmi Maji | 2021 | 143,541 words
-
-This page relates ‘4a. Kushtha-roga (leprosy) in the Atharvaveda’ found in the study on diseases and remedies found in the Atharvaveda and Charaka-samhita. These texts deal with Ayurveda—the ancient Indian Science of life—which lays down the principles for keeping a sound health involving the use of herbs, roots and leaves. The Atharvaveda refers to one of the four Vedas (ancient Sanskrit texts encompassing all kinds of knowledge and science) containing many details on Ayurveda, which is here taken up for study.
-
-Go directly to: 
-Footnotes.
-
 4a. Kuṣṭha-roga (leprosy) in the Atharvaveda
 
 Leprosy makes the body ugly. So, it is called leprosy—
-
-‘śarīraṃ kuṣṇāti kutsitaṃ karoti, iti kuṣṭham |’.
 
 ‘śarīraṃ kuṣṇāti kutsitaṃ karoti, iti kuṣṭham |’.
 
@@ -11067,10 +9105,6 @@ In the Aṣṭāṅga Hṛdaya, some simple treatments for leprosy have been des
 There are also dietary and inedible instructions for leprosy patients. The diet consists of Śālidhānya, barley, Wheat, Kodo, Priyaṅgu, Moong, Masoor, Aḍahara, Triphalā, Paṭola, Neem, etc. Inedible is-Sour, Salty and Salty foods. Yogurt, Milk, Ghee, Sesame, and Uḍada should be left out especially[43].
 
 The Atharvaveda speaks of the application of Brahman medicine for white leprosy[44]. Bhāraṅgī or Phañjī is also called Brahmasuvarcalā and Brahmayaṣṭi. It is beneficial for blood disorders, cough, shortness of breath, and diseases of the pancreas, phlegm in the lungs, goiter, and hives. According to Ācārya Suśruta, Khaira and Vijayasāra are the medicines which destroy all types of leprosy. The Atharvaveda also mentions some other medicines that are beneficial for leprosy namely-Tilvaka, Maṇḍūkī, Māṣaparṇī and Pṛśniparṇī, Vīriṇa or Vīraṇa, Śatavāra, Puṣpā, Baja, Babhrū or Śaṅkhapuṣpī, Vibhīdaka or Vibhītaka, Śamī, Hāridrava, Haridru, etc.
-
-Footnotes and references:
-
-[back to top]
 
 [1]:
 
@@ -11346,16 +9380,6 @@ dūṣyā kṛtasya brahmaṇā lakṣma śvetamanīnaśam || (AV. –I.23.4) At
 
 ## 142. 5a. Worm infestation (Kṛmi) in the Atharvaveda
 
-
-Atharvaveda and Charaka Samhita
-
-by Laxmi Maji | 2021 | 143,541 words
-
-This page relates ‘5a. Worm infestation (Krimi) in the Atharvaveda’ found in the study on diseases and remedies found in the Atharvaveda and Charaka-samhita. These texts deal with Ayurveda—the ancient Indian Science of life—which lays down the principles for keeping a sound health involving the use of herbs, roots and leaves. The Atharvaveda refers to one of the four Vedas (ancient Sanskrit texts encompassing all kinds of knowledge and science) containing many details on Ayurveda, which is here taken up for study.
-
-Go directly to: 
-Footnotes.
-
 5a. Worm infestation (Kṛmi) in the Atharvaveda
 
 All living organisms including plants and mammals can be infected by diseases caused by parasites. The parasitic diseases are caused by–amoebiasis, ascariasis, babesiosis, Chagas disease, clonorchiasis, cryptosporidiosis, diphyllobothriasis, dracunculiasis, echinococcosis, elephantiasis, enterobiasis, fascioliasis, fasciolopsiasis, filariasis, giardiasis, gnathostomiasis, hymenolepiasis, isosporiasis, Katayama fever, leishmaniasis, Lyme disease, malaria, metagonimiasis, myiasis, onchocerciasis, pediculosis, scabies, schistosomiasis, sleeping sickness, strongyloidiasis, taeniasis, toxocariasis, toxoplasmosis, trichinosis and trichuriasis. The scientist identified parasites such as Ascaris lumbricoides, Balantidium coli, Cestoda, Entamoeba histolytica, Fasciola hepatica, Giardia lamblia, Hookworm, Leishmania, Liver fluke, Loa-loa, Pinworm, Plasmodium falciparum, Schistosoma, Strongyloides stercoralis, Tapeworm, Toxoplasma gondii, Trypanosoma, Whipworm and Wuchereria bancrofti[1].
@@ -11377,10 +9401,6 @@ In four kāṇḍa of sūkta thirty-seven of the first hymn, a specific plant or
 In the next hymn Arāṭakī, the goat horned, the sharp horned, the mighty herb is praised to have expelled disease[31]. In the next hymn the crested dancing Gandharva, the lord of the Apsarā whose testicles are split and penis is bound[32]. In another hymn, Indra is described to have destroyed the oblation-eating, Avakā-eating Gandharvas with his missiles, countless arrows made of iron[33]. The next hymn also describes how Indra destroys the oblation eating, Avakā eating Gandharvas with the help of his golden arrows[34]. In the next hymn, the same herb is praised for destroying the Avakā eating being, the Piśācas[35]. This hymn Gandharva assumes the shape of a dog, ape and handsome young men cure the women and seduce them then these Gandharvas are expelled with the herb[36]. In the next hymn, the mortal ones like wives and husbands are requested to run away[37].
 
 Finally, it can be said that in the Atharvaveda, Agni has been told to destroy the disease and worm and it is said to be an excellent doctor[38]. In the Atharvaveda, it is said to be an exterminator of the Sun[39]. The rays of the Sun destroy the worms in the same way, as the stones are crushed[40]. Yajña Samidhā has been called deworming[41]. Yajña has been called the best remedy for deworming. In the Atharvaveda, Bacā medicine is called anthelmintic[42]. Bacā is another name for Ūgragandhā[43]. According to Atharvaveda, four sages namely Atri, Kaṇva, Jamadagni and Agastya rules destroy worms. They discovered some herbs that quickly destroyed vermin. In the Atharvaveda Anjana Maṇi, Jaṅgiḍa Maṇi, Pratisara Maṇi and Śatavāra Maṇi have been described as an insecticide. In the Atharvaveda, these drugs have been called vermin destroyers such as Karīra, Kuṣṭha, Gulgulu, Tārṣṭāgha, Śamī, Sarṣapa, Pṛśniparṇi[44]. Its root and branch are anthelmintic. In Atharvaveda, the following medicines are deworming such as Gulgulu, Pīlā, Naladī, Aukṣagandhi, Pramandanī[45]. Ajaśṛṅgī is called deworming[46]. The Meṣaśṛṅgī is called Ajaśṛṅgī. The fruits of this tree are deworming and detoxifying. Upavāka or Upavākā medicine is mentioned in Maitrāyaṇī Saṃhitā etc.[47] it is best medicine for stomach worms.
-
-Footnotes and references:
-
-[back to top]
 
 [1]:
 
@@ -11603,16 +9623,6 @@ badarairupavākābhirbheṣajam | Maitrā. S.–3.11.2.
 
 ## 143. 4b. Leprosy (Kuṣṭha) in the Caraka-saṃhitā
 
-
-Atharvaveda and Charaka Samhita
-
-by Laxmi Maji | 2021 | 143,541 words
-
-This page relates ‘4b. Leprosy (Kushtha) in the Caraka-samhita’ found in the study on diseases and remedies found in the Atharvaveda and Charaka-samhita. These texts deal with Ayurveda—the ancient Indian Science of life—which lays down the principles for keeping a sound health involving the use of herbs, roots and leaves. The Atharvaveda refers to one of the four Vedas (ancient Sanskrit texts encompassing all kinds of knowledge and science) containing many details on Ayurveda, which is here taken up for study.
-
-Go directly to: 
-Footnotes.
-
 4b. Leprosy (Kuṣṭha) in the Caraka-saṃhitā
 
 On the other hand, as Caraka-Saṃhitā described, the chemical imbalance of the elements like Vāta, Pitta, and Kapha are the prime causes of Leprosy. Moreover, abnormality in skin, muscle, blood, and lymph causes this disease. In the Sūtrasthāna, Caraka refers to the three varieties of Kilāsa and enumerates them in the Cikitsāsthāna.
@@ -11702,10 +9712,6 @@ However, it is difficult to cure Śvitra patients should be cleaned by first the
 Besides, the disease is alleviated by drinking the alkali of Palāśa mixed with Fāṇita. Drinking Khadira water or mixed with the decoction of Khadira is an excellent remedy for Śvitra disease. Different types of recipes should also be used for external application in the treatment of leucoderma, namely, Manaḥśila, Viḍaṅga, Hirākasa, Gorocanā, Kaṇakapuṣpī, Saindhava should be used. The ashes of the bone of ass mixed with the Kṣāra of Kadalī by adding the blood of cattle; Alkali preparation of the bud of Mālatī flowers is mixed with the rut of the elephant; the paste should be made of Nīlotpala, Kuḍa, and Saindhava by adding urine of elephant or crushing seeds of Mūlaka and Somarājī adding urine of cow; Kākoḍumbabikā, Bāsaka, Somarājī, and Citā made to a paste by adding cow-urine; or Manaḥśila made to a paste by adding Peacock-bile; then apply the paste for the cure of Śvitra disease. Also, root of Somarājī, Lākṣā, cow-bile, Sauvīrāñjana, Rasāñjana, Pippalī, and Cūrṇa of Kāntalauha were mixed and applied and the Kilāsa types Śvitra was cured[60].
 
 Also, some peoples of leucoderma, who are free from the belonging of their sinful acts get cured by the use of elimination therapies, blood-letting, and intake of ununctuous food like saktu[61]. Symptoms of curable Śvitra disease are -the small hair over the patches is not red if the skin is not thin and long-lasting Pāṇḍu. Symptoms of incurable Śvitra disease are -the small hair over the patches is red and the patient is suffering from this disease for several years[62]. Lying, ingratitude, blasphemy, an insult to the guru, sinful deeds, premeditated misdeeds, or unhealthy eating are the causes of Kilāsa disease[63]. Also, Śvitra disease is caused by dog bites[64].
-
-Footnotes and references:
-
-[back to top]
 
 [1]:
 
@@ -12064,16 +10070,6 @@ Baidyacharya Kalikinkar Sensarma & Ayurbedacharya Satyasekhar Bhattacharya (eds.
 
 ## 144. 3b. Udararoga (Udara disease) in the Caraka-saṃhitā
 
-
-Atharvaveda and Charaka Samhita
-
-by Laxmi Maji | 2021 | 143,541 words
-
-This page relates ‘3b. Udararoga (Udara disease) in the Caraka-samhita’ found in the study on diseases and remedies found in the Atharvaveda and Charaka-samhita. These texts deal with Ayurveda—the ancient Indian Science of life—which lays down the principles for keeping a sound health involving the use of herbs, roots and leaves. The Atharvaveda refers to one of the four Vedas (ancient Sanskrit texts encompassing all kinds of knowledge and science) containing many details on Ayurveda, which is here taken up for study.
-
-Go directly to: 
-Footnotes.
-
 3b. Udararoga (Udara disease) in the Caraka-saṃhitā
 
 On the other hand, Caraka Saṃhitā has a minute description of Udara disease. Śotha and Udara are diseases having a common symptom of swelling and oedema. In sutra 9/3 several types of Udara disease have been scientifically discussed. The abdominal diseases result from the imbalance of digestive enzymes that causes abnormal metabolism. Contaminated food may cause indigestion that aggravates doṣas that causes problems of Prāṇa or vāyu and Agni or enzymes which leads to abstractive movement both upwards and downwards. The diseases created by Agni doṣa arise from suppressive digestion and metabolism. This gives rise to three doṣas which lead to gastroenterological diseases. Contaminated food is the main cause of these doṣas. There are three doṣas, namely Vāyu, Pitta, and Kapha. Vāyu is of two types-namely–Prāṇa and Apāna.
@@ -12161,10 +10157,6 @@ There are two stages in Udara roga, namely, ajātodaka. However, before the admi
 The surgeon should make the incision in the left pelvic region below the umbilicus having four fingers breadth of space. The intestine then should be carefully examined for strangulation and perforation. The furnish bodies should be removed. The cut portion of the intestine should be bitten with big-black-ants and the head of the ants should be removed. And the wound should be stitched properly with the help of a needle[58].
 
 If water has accumulated in the abdomen of all types of Udara roga, then the physician would tap the abdomen in its left side and drain the liquid through the nāḍī applying pressure[59]. After draining out the fluid, the patient should be made to fast and then should be given gruel with fat and salt. For the next six months, the patient should take only milk[60].
-
-Footnotes and references:
-
-[back to top]
 
 [1]:
 
@@ -12490,16 +10482,6 @@ ataḥ paraṃ tu ṣaṇmāsān kṣīravṛttirbhavennaraḥ || (CS.  Cikitsā
 
 ## 145. 5b. Kṛmi (Worms) in the Atharvaveda
 
-
-Atharvaveda and Charaka Samhita
-
-by Laxmi Maji | 2021 | 143,541 words
-
-This page relates ‘5b. Krimi (Worms) in the Atharvaveda’ found in the study on diseases and remedies found in the Atharvaveda and Charaka-samhita. These texts deal with Ayurveda—the ancient Indian Science of life—which lays down the principles for keeping a sound health involving the use of herbs, roots and leaves. The Atharvaveda refers to one of the four Vedas (ancient Sanskrit texts encompassing all kinds of knowledge and science) containing many details on Ayurveda, which is here taken up for study.
-
-Go directly to: 
-Footnotes.
-
 5b. Kṛmi (Worms) in the Atharvaveda
 
 In Bhāvaprakāśa Nighaṇṭu, Bhṛṅgarāja is described as an insecticide[1]. Regarding the Mahānimba or Vakāyana, western practitioners believe that consuming small amounts of the bark of Vakāyana can cure the ringworm disease of children[2].
@@ -12644,10 +10626,6 @@ In proper time the patient should be given Anuvāsana. In the same way, the oil 
 
 The treatment of parasites aims to remove them in the beginning and the causative factors for the production of parasites are to be dealt with. There are three types of treatment namely elimination therapy, Alleviation therapy and Avoidance of causative factors[23]. Apakarṣana, Prakṛti vighāta and Nidāna parivarjana -these three principles of treatment described for curing the parasite infestation are also applicable for the cure of all diseases in general[24].
 
-Footnotes and references:
-
-[back to top]
-
 [1]:
 
 bhṛṅgārājo bhṛṅgarajo mārka vo bhṛṅgaeva ca |
@@ -12775,16 +10753,6 @@ tato vighātaḥ prakṛ teḥ nidanasya ca varjanam || (CS.  Vimānasthāna -VI
 
 ## 146. 1b. Study of Fever (Jvara) in the Caraka-Saṃhita
 
-
-Atharvaveda and Charaka Samhita
-
-by Laxmi Maji | 2021 | 143,541 words
-
-This page relates ‘1b. Study of Fever (Jvara) in the Caraka-Samhita’ found in the study on diseases and remedies found in the Atharvaveda and Charaka-samhita. These texts deal with Ayurveda—the ancient Indian Science of life—which lays down the principles for keeping a sound health involving the use of herbs, roots and leaves. The Atharvaveda refers to one of the four Vedas (ancient Sanskrit texts encompassing all kinds of knowledge and science) containing many details on Ayurveda, which is here taken up for study.
-
-Go directly to: 
-Footnotes.
-
 1b. Study of Fever (Jvara) in the Caraka-Saṃhita
 
 On the other hand, in Caraka-Saṃhitā, fever has been discussed seriously among all diseases. In Āyurveda there are many synonyms for fever, such as fever, disorder, disease, illness and panic. And with it, the causes of fever have been said to be two—physical and mental. Physical defects are arthritis, bile and phlegm. And the mental faults are-Rājasa and Tāmasa.
@@ -12793,20 +10761,13 @@ According to Bhāvaprakāśa—
 
 ‘jvaratītijvaraḥ, jvararoge |’.
 
-‘jvaratītijvaraḥ, jvararoge |’.
-
 Amarakoṣa has accepted fever as a type of ailment–
-
-‘jvaramehabhagandarāḥ’.
 
 ‘jvaramehabhagandarāḥ’.
 
 Currently, a rise in body temperature above 37℃, or 98℉, is called fever[1]. In Caraka-Saṃhitā, Fever has been given prime importance among all diseases[2]. So, the description of fever comes first in this book. According to Caraka-Saṃhitā, the growing temperature in both body and mind is called Fever[3]. Growing body temperature means heating the body and mind temperature means tensions and exhaustion of mind. In Yogaratnākar's view—Vātādi doṣa, represented by false diet-vihara, following the rasa-dhātu located in the stomach and by extracting the Jaṭharāgni, they produce fever. That is, it irritates the body. The same anguish is called fever[4].The meaning of the term Fever is little extensive in Caraka-Saṃhitās. It encompasses different maladies like fever, insanity, discomfort, disease and anxiety.
 
 As Caraka Saṃhitā defines:
-
-“jvarau vikāro rogaśca vyādhirātaṅka eva ca |
-ekārthanāmaparyyāyairvividhairabhidhīyate ||”[5]
 
 “jvarau vikāro rogaśca vyādhirātaṅka eva ca |
 ekārthanāmaparyyāyairvividhairabhidhīyate ||”[5]
@@ -12941,10 +10902,6 @@ The formulations which alleviate the intermittent fever shall mention. They shou
 During a remission of fever, the patient groans, vomits, moves, respires, becomes pale, has perspired organ, trembles, faints frequently, has delirium, the whole body being hot or cold, becomes unconscious and as if filled with anger during the rise of fever, passes faeces with impurity and sound, liquid and with force. These should be taken as signs of the remission of fever[82]. That is what doctors called the collapse[83]. In case the patient has profuse morbidity and the fever is acute and high, the remission occurs by the crisis due to proper management and maturation of doṣas. On the other hand, if the fever is chronic, the fever having risen due to doṣa slowly comes down. The patient should be taken as free from fever when exhaustion and pyrexia are gone, there is no stress, senses are sound, and the psyche has revived normalcy[84]. during fever or convalescence, the patient should avoid heavy, unsuitable and unwholesome food and drinks. He should also abstain from sexual interaction, over-work, bath and excessive eating. Hence, fever recedes and thereafter does not relapse[85]. During recuperation, one should not do physical activity, sexual intercourse, bath and walking till he regains strength[86]. According to Bhāvaprakāśa, in case of fever, the drugs should be applied after seven days of rheumatic fever, after ten days of biliary fever and after twelve days of mucous fever[87]. Different specialists suggest differently about the treatment of the fever[88].
 
 Taking this avoidable food and activities during improvement before recovering normal strength, the fever relapses. It also deteriorates even with slight negligence in cases where fever comes down though the doṣas are not reduced correctly. The worsened fever kills the patient suffering since long, weakened and with poor Agni in a short time. Sometimes doṣas get matured in successive dhātus, thus they do not generate fever but cause harm to the body. They generate nervous expressions, swelling, paleness, anorexia, malaise, itching, rashes, pimples and mildness of appetite. Likewise, other cured disorders too relapse on a slight unwholesome activity if doṣas are not eliminated properly. Hence even after the fever subsides, doṣas should be eliminated or pacified according to condition, strength and vitality (of the patient). In such cases, evacuation with mild measures, light vegetable soup, sustaining enemas, and meat-soups of the wild animals are wholesome[89]. Massage, anointing, bath, incense, collyrium, bitter ghee is prescribed in relapsed fever. If the fever relapses due to heavy, channel-blocking and inappropriate diet, management with lightning and hot therapy as mentioned above may be done. Kirātatikta, kuṭakī, musta, Parpaṭaka, and Guḍūcī–a decoction of these drugs together, if taken regularly, destroys the relapsing fever[90]. The wise physician, considering the managing of fever, should handle the case according to condition. Fever is the king of all diseases, destroyer of all creatures and severe, hence a physician should be especially cautious in treating it[91].
-
-Footnotes and references:
-
-[back to top]
 
 [1]:
 
@@ -13402,13 +11359,6 @@ CS. –III.333-346; R. K. Sharma & Bhagwan Dash (eds.), Caraka Saṃhitā–Vol.
 ---
 
 ## 147. Chapter 6 - Conclusion
-
-
-Atharvaveda and Charaka Samhita
-
-by Laxmi Maji | 2021 | 143,541 words
-
-This page relates ‘Conclusion’ found in the study on diseases and remedies found in the Atharvaveda and Charaka-samhita. These texts deal with Ayurveda—the ancient Indian Science of life—which lays down the principles for keeping a sound health involving the use of herbs, roots and leaves. The Atharvaveda refers to one of the four Vedas (ancient Sanskrit texts encompassing all kinds of knowledge and science) containing many details on Ayurveda, which is here taken up for study.
 
 Chapter 6 - Conclusion
 

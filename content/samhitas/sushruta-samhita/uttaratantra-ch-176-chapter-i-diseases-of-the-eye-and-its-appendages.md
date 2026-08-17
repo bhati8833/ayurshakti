@@ -20,17 +20,11 @@ This chapter from **Sushruta Samhita (Uttaratantra)** represents the classical s
 
 ---
 
-
 Sushruta Samhita, Volume 6: Uttara-tantra
-
-by Kaviraj Kunja Lal Bhishagratna | 1916 | 113,078 words
 
 This current book, the Uttara-tantra (english translation) is the supplementary part of the Sushrutasamhita and deals various subjects such as diseases of the eye, treatment of fever, diarrhea, diseases resulting from superhuman influences, insanity, rules of health etc.
 
 The Sushruta Samhita is the most representative work of the Hindu system of m...
-
-Go directly to: 
-Footnotes.
 
 Chapter I - Diseases of the eye and its appendages
 
@@ -103,10 +97,6 @@ Their Localities:—
 Thus we have finished enumerating the seventy-six types of eye-diseases, of which nine are confined to the Sandhis (binding unions), twenty-one to the Vartma (eye-lids), eleven to the Shukla-bhaga (the Vitreous body), four to the Krishna-bhaga (the region of the Choroid), seventeen to the entire region (eye-ball) and twelve to the region of the Drishti (pupil or the crystalline lens, etc.). The two cases due to the extraneous cause (are chiefly located in the Drishti though affecting the whole of the eye-ball and) are very painful and incurable. The characteristic symptoms of all these will be hereafter described in detail. 22—23.
 
 Thus ends the first chapter of the Uttra-tantra in the Sushruta Samhita which deals with the diseases, viz. of the eye, etc.
-
-Footnotes and references:
-
-[back to top]
 
 [1]:
 

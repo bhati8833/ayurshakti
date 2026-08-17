@@ -20,17 +20,11 @@ This chapter from **Sushruta Samhita (Chikitsasthana)** represents the classical
 
 ---
 
-
 Sushruta Samhita, volume 4: Cikitsasthana
-
-by Kaviraj Kunja Lal Bhishagratna | 1911 | 123,229 words
 
 This current book, the Chikitsa-sthana (english translation), deals with therapeutics, surgical emergencies, geriatrics, aphrodisiacs and various other subjects.
 
 The Sushruta Samhita is the most representative work of the Hindu system of medicine. It embraces all that can possibly appertain to the science of medicine. Susruta-samhita is recognized...
-
-Go directly to: 
-Footnotes.
 
 Chapter I - The medical treatment of inflamed ulcers
 
@@ -311,10 +305,6 @@ Upadrava:—
 The distressing supervening symptoms which are found to attend a case of ulcer, are quite different from those of an ulcer-patient. Those which confine themselves solely to the ulcer are five in all—smell, colour, etc., and those which are exclusively manifest in the patient are fever, diarrhea, hiccup, vomiting, fainting fits, aversion to food, cough, difficult breathing, indigestion and thirst. The medical treatment of ulcers though described in detail in the present chapter, will be further dealt with in the next chapter on Sadyo-Vrana. 118–120.
 
 Thus ends the first Chapter of the Chikitsita-Sthana in the Sushruta Samhita which deals with the treatment of the two kinds of ulcer.
-
-Footnotes and references:
-
-[back to top]
 
 [1]:
 

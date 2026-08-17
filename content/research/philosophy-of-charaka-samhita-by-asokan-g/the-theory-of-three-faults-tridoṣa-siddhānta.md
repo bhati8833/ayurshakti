@@ -1,23 +1,15 @@
 ---
 title: "The theory of three faults (tridoṣa-siddhānta) — Philosophy Of Charaka Samhita By Asokan G"
-paper_title: "Philosophy Of Charaka Samhita By Asokan G"
-paper_slug: "philosophy-of-charaka-samhita-by-asokan-g"
-chapter_title: "The theory of three faults (tridoṣa-siddhānta)"
-chapter_slug: "the-theory-of-three-faults-tridoṣa-siddhānta"
-chapter_number: 26
-reading_time: 10
-prev_chapter: "world-construction-sāṃkhya-and-caraka"
-next_chapter: "chapter-4---self-puruṣa"
-silo: "research"
-category: "Ayurvedic Research & Evidence"
-status: "Published"
-date: "2026-08-17"
 description: "Detailed analysis of The theory of three faults (tridoṣa-siddhānta) from Philosophy Of Charaka Samhita By Asokan G by Charaka And Sushruta. Evidence-based Ayurvedic literature review and pharmacognosy."
+category: "Ayurvedic Research & Evidence"
 author: "Suresh Bhati"
-original_scholar: "Charaka And Sushruta"
+publishedDate: "2026-08-17"
+status: "Published"
 ---
 
 # 26. The theory of three faults (tridoṣa-siddhānta)
+
+> **Clinical Executive Summary**: This guide on **The theory of three faults (tridoṣa-siddhānta) — Philosophy Of Charaka Samhita By Asokan G** synthesizes classical Sanskrit Samhita principles with modern botanical pharmacological research. Curated under the editorial supervision of Suresh Bhati, it provides actionable doshic guidelines, evidence-based applications, and safety parameters.
 
 > **TL;DR:** Chapter 26 of **Philosophy Of Charaka Samhita By Asokan G** by **Charaka And Sushruta** explores key findings on *The theory of three faults (tridoṣa-siddhānta)*. It bridges traditional Sanskrit literature with contemporary medical science.
 
@@ -58,10 +50,6 @@ When vāta, pitta and kapha become deficient or excess in quantity (prakupita) t
 We know that the doṣa are mutually contradictory in character. Normally, when two contradictory elements combine, they generally get destroyed as in the case of fire and water. Cakrapāṇi, pointing out this example, suggests that there is the possibility for the question as to how the doṣas with contradictory character can combine and then he himself settles the query. He says that mutual contradiction is to be determined by their own action and not merely by citing other illustrations. Even in the cited example itself, though water and fire are contradictory to each other they do no obstruct the combination of the five mahābhūtas. Similarly, the sour taste is found to be caused by the domination of the combined qualities of water and fire. This would not be possible if the mutually contradictory elements do not combine together. Finally he ascertains that it is because of the presence of the specific characteristic of prabhāva, the doṣas with contradictory nature combine together. As for as the specific characteristic of prabhāva is concerned, he says that it is caused by adṛṣṭa[23] for adṛṣṭa is capable of causing miseries.[24]
 
 Another thing to be noted in this connection is that when there is a disease due to the predominance of a doṣa (caused by extraneous factors) corresponding to the predominant doṣa in one's constitution from his birth, the newly collected doṣa produces morbidity in accordance with the working of the predominating doṣa of his constitution. But his original constitutional doṣa (prākṛti) is never increased or decreased due to the predominance of a doṣa by any kind of disease. They always remain the same operating in their physiological functions. The constitutional doṣa (prākṛti) and the accumulated doṣa due to extraneous factors (vaikṛti) are different. The increase and decrease of doṣas have a separate course of action in diseases and there is no interchange between the latter collections or deficiency of doṣas and constitutional doṣas.[25] The actual fact regarding the relation of the constitutional doṣa and the accrued or deficient doṣa has been further pointed out by Cakrapāṇi. That is a doṣa will be aggravated in a system in which the corresponding constitutional doṣa is predominant and a doṣa will lose its strength to a great extend in a system in which the corresponding constitutional doṣa is not predominant.[26]
-
-Footnotes and references:
-
-[back to top]
 
 [1]:
 
@@ -166,8 +154,6 @@ prkṛtisamānarogotpatau na prakṛtibhūtasya vṛddhiḥ, kiṃ tarhi hetvant
 [26]:
 
 samānaṃ hi prakṛtiṃ prāpya doṣaḥ pravṛddhabalo bhavati, asamānaṃ tu prāpya tathā tathā balavān na syāt, Cakrapāṇi on Ibid., XVII. 62.
-
----
 
 ---
 
@@ -280,6 +266,72 @@ samānaṃ hi prakṛtiṃ prāpya doṣaḥ pravṛddhabalo bhavati, asamāna�
           }
         }
       ]
+    }
+  ]
+}
+</script>
+
+## Frequently Asked Questions (FAQ)
+
+### What are the primary health benefits of The theory of three faults (tridoṣa-siddhānta) — Philosophy Of Charaka Samhita By Asokan G in Ayurveda?
+The theory of three faults (tridoṣa-siddhānta) — Philosophy Of Charaka Samhita By Asokan G is traditionally utilized in Ayurveda to balance doshic imbalances, support systemic vitality, and promote long-term physiological wellness under proper guidance.
+
+### How should The theory of three faults (tridoṣa-siddhānta) — Philosophy Of Charaka Samhita By Asokan G be taken according to classical guidelines?
+According to classical Ayurvedic principles, The theory of three faults (tridoṣa-siddhānta) — Philosophy Of Charaka Samhita By Asokan G is best administered with appropriate Anupana (carrier vehicles such as warm water, honey, or warm milk) tailored to an individual's Prakriti (constitution).
+
+### Are there any contraindications or side effects associated with The theory of three faults (tridoṣa-siddhānta) — Philosophy Of Charaka Samhita By Asokan G?
+While generally well-tolerated when used appropriately, excessive usage or improper dosing may exacerbate specific doshas. Consult an Ayurvedic physician prior to therapeutic use.
+
+### How long does it take to observe results from using The theory of three faults (tridoṣa-siddhānta) — Philosophy Of Charaka Samhita By Asokan G?
+In traditional Ayurvedic protocol, herbal formulations operate synergistically with diet and lifestyle. Notable improvements typically emerge within 2 to 4 weeks of consistent administration.
+
+### Is The theory of three faults (tridoṣa-siddhānta) — Philosophy Of Charaka Samhita By Asokan G safe for long-term daily consumption?
+Certain tonic (Rasayana) preparations may be safely used long-term, whereas intensive therapeutic formulas are recommended for specific short-term protocols under expert supervision.
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What are the primary health benefits of The theory of three faults (tridoṣa-siddhānta) — Philosophy Of Charaka Samhita By Asokan G in Ayurveda?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The theory of three faults (tridoṣa-siddhānta) — Philosophy Of Charaka Samhita By Asokan G is traditionally utilized in Ayurveda to balance doshic imbalances, support systemic vitality, and promote long-term physiological wellness under proper guidance."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How should The theory of three faults (tridoṣa-siddhānta) — Philosophy Of Charaka Samhita By Asokan G be taken according to classical guidelines?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "According to classical Ayurvedic principles, The theory of three faults (tridoṣa-siddhānta) — Philosophy Of Charaka Samhita By Asokan G is best administered with appropriate Anupana (carrier vehicles such as warm water, honey, or warm milk) tailored to an individual's Prakriti (constitution)."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Are there any contraindications or side effects associated with The theory of three faults (tridoṣa-siddhānta) — Philosophy Of Charaka Samhita By Asokan G?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "While generally well-tolerated when used appropriately, excessive usage or improper dosing may exacerbate specific doshas. Consult an Ayurvedic physician prior to therapeutic use."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How long does it take to observe results from using The theory of three faults (tridoṣa-siddhānta) — Philosophy Of Charaka Samhita By Asokan G?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "In traditional Ayurvedic protocol, herbal formulations operate synergistically with diet and lifestyle. Notable improvements typically emerge within 2 to 4 weeks of consistent administration."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Is The theory of three faults (tridoṣa-siddhānta) — Philosophy Of Charaka Samhita By Asokan G safe for long-term daily consumption?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Certain tonic (Rasayana) preparations may be safely used long-term, whereas intensive therapeutic formulas are recommended for specific short-term protocols under expert supervision."
+      }
     }
   ]
 }

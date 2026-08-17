@@ -9,19 +9,11 @@ date: "2026-08-17"
 description: "explores the comparative aspects of alchemy in these two countries, focusing on chemical and protochemical formulations while addressing why modern science developed in the West rather than in Indi..."
 ---
 
-**Author / Source:** by Vijaya Jayant Deshpande
-
-
-**Total Chapters/Sections:** 58
-
 ---
 
 ## 1. Acknowledgement
 
-
 Alchemy in India and China
-
-by Vijaya Jayant Deshpande | 1988 | 42,318 words
 
 The thesis "Alchemy in India and China" explores the comparative aspects of alchemy in these two countries, focusing on chemical and protochemical formulations while addressing why modern science developed in the West rather than in India or China. It briefly touches upon internal alchemy in China and the ritualistic tantra in India....
 
@@ -35,10 +27,7 @@ being very co-operative and patient during the entire period. Mrs. Vijaya Jayant
 
 ## 2. Chapter 1 - Introduction to the history of Alchemy
 
-
 Alchemy in India and China
-
-by Vijaya Jayant Deshpande | 1988 | 42,318 words
 
 The thesis "Alchemy in India and China" explores the comparative aspects of alchemy in these two countries, focusing on chemical and protochemical formulations while addressing why modern science developed in the West rather than in India or China. It briefly touches upon internal alchemy in China and the ritualistic tantra in India....
 
@@ -84,10 +73,7 @@ Why do we read about alchemy and other proto-sciences when they are no more sign
 
 ## 3. Prologue
 
-
 Alchemy in India and China
-
-by Vijaya Jayant Deshpande | 1988 | 42,318 words
 
 The thesis "Alchemy in India and China" explores the comparative aspects of alchemy in these two countries, focusing on chemical and protochemical formulations while addressing why modern science developed in the West rather than in India or China. It briefly touches upon internal alchemy in China and the ritualistic tantra in India....
 
@@ -101,10 +87,7 @@ The contribution and place of alchemy in the overall development of chemistry is
 
 ## 4. Chapter 2 - Alchemy in India
 
-
 Alchemy in India and China
-
-by Vijaya Jayant Deshpande | 1988 | 42,318 words
 
 The thesis "Alchemy in India and China" explores the comparative aspects of alchemy in these two countries, focusing on chemical and protochemical formulations while addressing why modern science developed in the West rather than in India or China. It briefly touches upon internal alchemy in China and the ritualistic tantra in India....
 
@@ -116,10 +99,7 @@ Chapter 2 - Alchemy in India
 
 ## 5. 1. Introduction (the history of Alchemy in India)
 
-
 Alchemy in India and China
-
-by Vijaya Jayant Deshpande | 1988 | 42,318 words
 
 The thesis "Alchemy in India and China" explores the comparative aspects of alchemy in these two countries, focusing on chemical and protochemical formulations while addressing why modern science developed in the West rather than in India or China. It briefly touches upon internal alchemy in China and the ritualistic tantra in India....
 
@@ -135,10 +115,7 @@ Alchemy flourished in India in the medieval period. It had, like in other areas 
 
 ## 6. 2. The Philosophy of Mercury
 
-
 Alchemy in India and China
-
-by Vijaya Jayant Deshpande | 1988 | 42,318 words
 
 The thesis "Alchemy in India and China" explores the comparative aspects of alchemy in these two countries, focusing on chemical and protochemical formulations while addressing why modern science developed in the West rather than in India or China. It briefly touches upon internal alchemy in China and the ritualistic tantra in India....
 
@@ -156,10 +133,7 @@ We come across evidence of alchemical practice, in the true sense of the word, i
 
 ## 7. 6. Nagarjuna and Rasaratnakara
 
-
 Alchemy in India and China
-
-by Vijaya Jayant Deshpande | 1988 | 42,318 words
 
 The thesis "Alchemy in India and China" explores the comparative aspects of alchemy in these two countries, focusing on chemical and protochemical formulations while addressing why modern science developed in the West rather than in India or China. It briefly touches upon internal alchemy in China and the ritualistic tantra in India....
 
@@ -183,10 +157,7 @@ name for calamine was Rasaka but he gave no separate name for its essence, i.e.,
 
 ## 8. 3. Ayurveda and Rasayana
 
-
 Alchemy in India and China
-
-by Vijaya Jayant Deshpande | 1988 | 42,318 words
 
 The thesis "Alchemy in India and China" explores the comparative aspects of alchemy in these two countries, focusing on chemical and protochemical formulations while addressing why modern science developed in the West rather than in India or China. It briefly touches upon internal alchemy in China and the ritualistic tantra in India....
 
@@ -206,10 +177,7 @@ could ensure the development and the preservation of the body itself. This expla
 
 ## 9. 7. Introduction to the Rasarnava
 
-
 Alchemy in India and China
-
-by Vijaya Jayant Deshpande | 1988 | 42,318 words
 
 The thesis "Alchemy in India and China" explores the comparative aspects of alchemy in these two countries, focusing on chemical and protochemical formulations while addressing why modern science developed in the West rather than in India or China. It briefly touches upon internal alchemy in China and the ritualistic tantra in India....
 
@@ -225,10 +193,7 @@ After Rasaratnakara of Nagarjuna, there appeared a number of alchemical treatise
 
 ## 10. 4. Alchemical Texts of the Medieval Period
 
-
 Alchemy in India and China
-
-by Vijaya Jayant Deshpande | 1988 | 42,318 words
 
 The thesis "Alchemy in India and China" explores the comparative aspects of alchemy in these two countries, focusing on chemical and protochemical formulations while addressing why modern science developed in the West rather than in India or China. It briefly touches upon internal alchemy in China and the ritualistic tantra in India....
 
@@ -242,10 +207,7 @@ There were alchemical texts written in other Indian languages as well, e.g., Hin
 
 ## 11. 5. Endeavours of the Medieval Alchemist
 
-
 Alchemy in India and China
-
-by Vijaya Jayant Deshpande | 1988 | 42,318 words
 
 The thesis "Alchemy in India and China" explores the comparative aspects of alchemy in these two countries, focusing on chemical and protochemical formulations while addressing why modern science developed in the West rather than in India or China. It briefly touches upon internal alchemy in China and the ritualistic tantra in India....
 
@@ -263,10 +225,7 @@ importance. Other compounds which largely occur in such operations are: 30 Iron 
 
 ## 12. 8. Introduction to the Rasarnavakalpa (11th century)
 
-
 Alchemy in India and China
-
-by Vijaya Jayant Deshpande | 1988 | 42,318 words
 
 The thesis "Alchemy in India and China" explores the comparative aspects of alchemy in these two countries, focusing on chemical and protochemical formulations while addressing why modern science developed in the West rather than in India or China. It briefly touches upon internal alchemy in China and the ritualistic tantra in India....
 
@@ -282,10 +241,7 @@ fewer ingredients, as compared to Rasarnava. poisonous substances such as copper
 
 ## 13. 9. Introduction to the Rasaratnasamuccaya of Vagbhata (14th century)
 
-
 Alchemy in India and China
-
-by Vijaya Jayant Deshpande | 1988 | 42,318 words
 
 The thesis "Alchemy in India and China" explores the comparative aspects of alchemy in these two countries, focusing on chemical and protochemical formulations while addressing why modern science developed in the West rather than in India or China. It briefly touches upon internal alchemy in China and the ritualistic tantra in India....
 
@@ -301,10 +257,7 @@ Rasaratnasamuccaya, written by Vagbhat in the fourteenth century AD, marks the b
 
 ## 14. 2. Origins of Alchemy in China and Its relation to Taoism
 
-
 Alchemy in India and China
-
-by Vijaya Jayant Deshpande | 1988 | 42,318 words
 
 The thesis "Alchemy in India and China" explores the comparative aspects of alchemy in these two countries, focusing on chemical and protochemical formulations while addressing why modern science developed in the West rather than in India or China. It briefly touches upon internal alchemy in China and the ritualistic tantra in India....
 
@@ -318,10 +271,7 @@ Transmutation of base metals into nobel metals and synthesizing elixirs of life 
 
 ## 15. Chapter 3 - Chinese alchemy
 
-
 Alchemy in India and China
-
-by Vijaya Jayant Deshpande | 1988 | 42,318 words
 
 The thesis "Alchemy in India and China" explores the comparative aspects of alchemy in these two countries, focusing on chemical and protochemical formulations while addressing why modern science developed in the West rather than in India or China. It briefly touches upon internal alchemy in China and the ritualistic tantra in India....
 
@@ -333,10 +283,7 @@ Chapter 3 - Chinese alchemy
 
 ## 16. 1. Introduction to Chinese alchemy
 
-
 Alchemy in India and China
-
-by Vijaya Jayant Deshpande | 1988 | 42,318 words
 
 The thesis "Alchemy in India and China" explores the comparative aspects of alchemy in these two countries, focusing on chemical and protochemical formulations while addressing why modern science developed in the West rather than in India or China. It briefly touches upon internal alchemy in China and the ritualistic tantra in India....
 
@@ -352,10 +299,7 @@ Studies in Chinese alchemy are rendered comparatively easier, as in the case of 
 
 ## 17. 3. Yin, Yang, Qi and Five-element Theories
 
-
 Alchemy in India and China
-
-by Vijaya Jayant Deshpande | 1988 | 42,318 words
 
 The thesis "Alchemy in India and China" explores the comparative aspects of alchemy in these two countries, focusing on chemical and protochemical formulations while addressing why modern science developed in the West rather than in India or China. It briefly touches upon internal alchemy in China and the ritualistic tantra in India....
 
@@ -369,10 +313,7 @@ Likewise, earth destroys water water destroys fire fire destroys metal metal des
 
 ## 18. 4. Wei Bo-yang and “Can-tong-gi”
 
-
 Alchemy in India and China
-
-by Vijaya Jayant Deshpande | 1988 | 42,318 words
 
 The thesis "Alchemy in India and China" explores the comparative aspects of alchemy in these two countries, focusing on chemical and protochemical formulations while addressing why modern science developed in the West rather than in India or China. It briefly touches upon internal alchemy in China and the ritualistic tantra in India....
 
@@ -386,10 +327,7 @@ The thesis "Alchemy in India and China" explores the comparative aspects of alch
 
 ## 19. 5. Ge Hong and Bao-pu-zi
 
-
 Alchemy in India and China
-
-by Vijaya Jayant Deshpande | 1988 | 42,318 words
 
 The thesis "Alchemy in India and China" explores the comparative aspects of alchemy in these two countries, focusing on chemical and protochemical formulations while addressing why modern science developed in the West rather than in India or China. It briefly touches upon internal alchemy in China and the ritualistic tantra in India....
 
@@ -405,10 +343,7 @@ After Wei Bo-yang, in the fourth century AD the adept-alchemist Ge Hong appeared
 
 ## 20. 6. The Golden Period of Chinese Alchemy
 
-
 Alchemy in India and China
-
-by Vijaya Jayant Deshpande | 1988 | 42,318 words
 
 The thesis "Alchemy in India and China" explores the comparative aspects of alchemy in these two countries, focusing on chemical and protochemical formulations while addressing why modern science developed in the West rather than in India or China. It briefly touches upon internal alchemy in China and the ritualistic tantra in India....
 
@@ -422,10 +357,7 @@ The centuries between 400 to 800 AD were the golden period of Chinese alchemy. W
 
 ## 21. 7. Sun Si-miao and His Alchemy
 
-
 Alchemy in India and China
-
-by Vijaya Jayant Deshpande | 1988 | 42,318 words
 
 The thesis "Alchemy in India and China" explores the comparative aspects of alchemy in these two countries, focusing on chemical and protochemical formulations while addressing why modern science developed in the West rather than in India or China. It briefly touches upon internal alchemy in China and the ritualistic tantra in India....
 
@@ -445,10 +377,7 @@ of metallurgical processes such as purifying brass, 30 paktong (Bai-tong), and m
 
 ## 22. Chapter 4 - Transmutation of Base Metals into Gold
 
-
 Alchemy in India and China
-
-by Vijaya Jayant Deshpande | 1988 | 42,318 words
 
 The thesis "Alchemy in India and China" explores the comparative aspects of alchemy in these two countries, focusing on chemical and protochemical formulations while addressing why modern science developed in the West rather than in India or China. It briefly touches upon internal alchemy in China and the ritualistic tantra in India....
 
@@ -462,10 +391,7 @@ Chapter 4 - Transmutation of Base Metals into Gold
 
 ## 23. 1. Uniform Substrate Alloys
 
-
 Alchemy in India and China
-
-by Vijaya Jayant Deshpande | 1988 | 42,318 words
 
 The thesis "Alchemy in India and China" explores the comparative aspects of alchemy in these two countries, focusing on chemical and protochemical formulations while addressing why modern science developed in the West rather than in India or China. It briefly touches upon internal alchemy in China and the ritualistic tantra in India....
 
@@ -497,10 +423,7 @@ The thesis "Alchemy in India and China" explores the comparative aspects of alch
 
 ## 24. 8. Alchemy in Tang, Song and Ming Dynasties
 
-
 Alchemy in India and China
-
-by Vijaya Jayant Deshpande | 1988 | 42,318 words
 
 The thesis "Alchemy in India and China" explores the comparative aspects of alchemy in these two countries, focusing on chemical and protochemical formulations while addressing why modern science developed in the West rather than in India or China. It briefly touches upon internal alchemy in China and the ritualistic tantra in India....
 
@@ -528,10 +451,7 @@ Li Shi-zhen tells us that Geng-Xin Yu-ce included a total of 541 items listed un
 
 ## 25. 4. Surface Film Formation and Tinging
 
-
 Alchemy in India and China
-
-by Vijaya Jayant Deshpande | 1988 | 42,318 words
 
 The thesis "Alchemy in India and China" explores the comparative aspects of alchemy in these two countries, focusing on chemical and protochemical formulations while addressing why modern science developed in the West rather than in India or China. It briefly touches upon internal alchemy in China and the ritualistic tantra in India....
 
@@ -547,10 +467,7 @@ A thin layer of yellow sulphide of copper is formed on the surface when copper i
 
 ## 26. 3. Surface-layer Enrichment by Withdrawal
 
-
 Alchemy in India and China
-
-by Vijaya Jayant Deshpande | 1988 | 42,318 words
 
 The thesis "Alchemy in India and China" explores the comparative aspects of alchemy in these two countries, focusing on chemical and protochemical formulations while addressing why modern science developed in the West rather than in India or China. It briefly touches upon internal alchemy in China and the ritualistic tantra in India....
 
@@ -564,10 +481,7 @@ A little different kind of gilding is carried out in Slokas 602-603. (See Footno
 
 ## 27. 2. Surface-layer Enrichment by Addition
 
-
 Alchemy in India and China
-
-by Vijaya Jayant Deshpande | 1988 | 42,318 words
 
 The thesis "Alchemy in India and China" explores the comparative aspects of alchemy in these two countries, focusing on chemical and protochemical formulations while addressing why modern science developed in the West rather than in India or China. It briefly touches upon internal alchemy in China and the ritualistic tantra in India....
 
@@ -581,10 +495,7 @@ Mercury amalgams were used for plating the metalsurfaces, i.e., gilding or silve
 
 ## 28. 5. Special Cases
 
-
 Alchemy in India and China
-
-by Vijaya Jayant Deshpande | 1988 | 42,318 words
 
 The thesis "Alchemy in India and China" explores the comparative aspects of alchemy in these two countries, focusing on chemical and protochemical formulations while addressing why modern science developed in the West rather than in India or China. It briefly touches upon internal alchemy in China and the ritualistic tantra in India....
 
@@ -602,10 +513,7 @@ This powder macerated in the juice of this plant and deposited in an iron vessel
 
 ## 29. 6. The “Poisonous Water” or “Visodaka”
 
-
 Alchemy in India and China
-
-by Vijaya Jayant Deshpande | 1988 | 42,318 words
 
 The thesis "Alchemy in India and China" explores the comparative aspects of alchemy in these two countries, focusing on chemical and protochemical formulations while addressing why modern science developed in the West rather than in India or China. It briefly touches upon internal alchemy in China and the ritualistic tantra in India....
 
@@ -619,10 +527,7 @@ Needham' mentions a passage from the text "Yu Yang za zu" written by "duan Cheng
 
 ## 30. 1. Introduction (the Alchemical Exchange between India and China)
 
-
 Alchemy in India and China
-
-by Vijaya Jayant Deshpande | 1988 | 42,318 words
 
 The thesis "Alchemy in India and China" explores the comparative aspects of alchemy in these two countries, focusing on chemical and protochemical formulations while addressing why modern science developed in the West rather than in India or China. It briefly touches upon internal alchemy in China and the ritualistic tantra in India....
 
@@ -642,10 +547,7 @@ consider the case of Indian Buddhist travelers, their translation activity and i
 
 ## 31. Chapter 5 - Transmission of Alchemical and Chemical ideas
 
-
 Alchemy in India and China
-
-by Vijaya Jayant Deshpande | 1988 | 42,318 words
 
 The thesis "Alchemy in India and China" explores the comparative aspects of alchemy in these two countries, focusing on chemical and protochemical formulations while addressing why modern science developed in the West rather than in India or China. It briefly touches upon internal alchemy in China and the ritualistic tantra in India....
 
@@ -659,10 +561,7 @@ Chapter 5 - Transmission of Alchemical and Chemical ideas
 
 ## 32. 3. Secular Studies and Panca-Vidya
 
-
 Alchemy in India and China
-
-by Vijaya Jayant Deshpande | 1988 | 42,318 words
 
 The thesis "Alchemy in India and China" explores the comparative aspects of alchemy in these two countries, focusing on chemical and protochemical formulations while addressing why modern science developed in the West rather than in India or China. It briefly touches upon internal alchemy in China and the ritualistic tantra in India....
 
@@ -676,10 +575,7 @@ The interests of the Buddhist travelers were not limited to religious studies. M
 
 ## 33. 2. Buddhist Monks and their Translation Activity
 
-
 Alchemy in India and China
-
-by Vijaya Jayant Deshpande | 1988 | 42,318 words
 
 The thesis "Alchemy in India and China" explores the comparative aspects of alchemy in these two countries, focusing on chemical and protochemical formulations while addressing why modern science developed in the West rather than in India or China. It briefly touches upon internal alchemy in China and the ritualistic tantra in India....
 
@@ -695,10 +591,7 @@ India and China had contact with each other since ancient times. These contacts 
 
 ## 34. 7. Bogar Karpam—Three hundred
 
-
 Alchemy in India and China
-
-by Vijaya Jayant Deshpande | 1988 | 42,318 words
 
 The thesis "Alchemy in India and China" explores the comparative aspects of alchemy in these two countries, focusing on chemical and protochemical formulations while addressing why modern science developed in the West rather than in India or China. It briefly touches upon internal alchemy in China and the ritualistic tantra in India....
 
@@ -716,10 +609,7 @@ In ancient Tamil texts, frequent references to a Chinese alchemist "Bogar" are f
 
 ## 35. 6. References to Alchemy in Ganda Vyuha Sutra
 
-
 Alchemy in India and China
-
-by Vijaya Jayant Deshpande | 1988 | 42,318 words
 
 The thesis "Alchemy in India and China" explores the comparative aspects of alchemy in these two countries, focusing on chemical and protochemical formulations while addressing why modern science developed in the West rather than in India or China. It briefly touches upon internal alchemy in China and the ritualistic tantra in India....
 
@@ -737,10 +627,7 @@ Buddhist Sutra. For example, the following excerpts indicate the extent of knowl
 
 ## 36. 5. References to Indian Sciences in Chinese Texts
 
-
 Alchemy in India and China
-
-by Vijaya Jayant Deshpande | 1988 | 42,318 words
 
 The thesis "Alchemy in India and China" explores the comparative aspects of alchemy in these two countries, focusing on chemical and protochemical formulations while addressing why modern science developed in the West rather than in India or China. It briefly touches upon internal alchemy in China and the ritualistic tantra in India....
 
@@ -762,10 +649,7 @@ We find references to Indian sciences in numerous Chinese texts. Most of them ar
 
 ## 37. 4. Buddhist Monks and Their Interests in Alchemy
 
-
 Alchemy in India and China
-
-by Vijaya Jayant Deshpande | 1988 | 42,318 words
 
 The thesis "Alchemy in India and China" explores the comparative aspects of alchemy in these two countries, focusing on chemical and protochemical formulations while addressing why modern science developed in the West rather than in India or China. It briefly touches upon internal alchemy in China and the ritualistic tantra in India....
 
@@ -785,10 +669,7 @@ measures of other metals into gold. This stone juice is probably the "Sailodaka"
 
 ## 38. 9. Bogar Karpam and Ge Hong's Alchemy
 
-
 Alchemy in India and China
-
-by Vijaya Jayant Deshpande | 1988 | 42,318 words
 
 The thesis "Alchemy in India and China" explores the comparative aspects of alchemy in these two countries, focusing on chemical and protochemical formulations while addressing why modern science developed in the West rather than in India or China. It briefly touches upon internal alchemy in China and the ritualistic tantra in India....
 
@@ -804,10 +685,7 @@ We find a number of parallels between Ge Hong's elixir methods and those given i
 
 ## 39. Chapter 6 - Transmission of Alchemical and Chemical ideas (Part 2)
 
-
 Alchemy in India and China
-
-by Vijaya Jayant Deshpande | 1988 | 42,318 words
 
 The thesis "Alchemy in India and China" explores the comparative aspects of alchemy in these two countries, focusing on chemical and protochemical formulations while addressing why modern science developed in the West rather than in India or China. It briefly touches upon internal alchemy in China and the ritualistic tantra in India....
 
@@ -821,10 +699,7 @@ Chapter 6 - Transmission of Alchemical and Chemical ideas (Part 2)
 
 ## 40. 10. Case of China Silver
 
-
 Alchemy in India and China
-
-by Vijaya Jayant Deshpande | 1988 | 42,318 words
 
 The thesis "Alchemy in India and China" explores the comparative aspects of alchemy in these two countries, focusing on chemical and protochemical formulations while addressing why modern science developed in the West rather than in India or China. It briefly touches upon internal alchemy in China and the ritualistic tantra in India....
 
@@ -848,10 +723,7 @@ alloys reached India from China many centuries before they reached Europe. 130
 
 ## 41. 1. Introduction
 
-
 Alchemy in India and China
-
-by Vijaya Jayant Deshpande | 1988 | 42,318 words
 
 The thesis "Alchemy in India and China" explores the comparative aspects of alchemy in these two countries, focusing on chemical and protochemical formulations while addressing why modern science developed in the West rather than in India or China. It briefly touches upon internal alchemy in China and the ritualistic tantra in India....
 
@@ -865,10 +737,7 @@ languages, which indicate their possible introduction and assimilation from one 
 
 ## 42. 2. Case of Naga (i.e., Dragon or Long)
 
-
 Alchemy in India and China
-
-by Vijaya Jayant Deshpande | 1988 | 42,318 words
 
 The thesis "Alchemy in India and China" explores the comparative aspects of alchemy in these two countries, focusing on chemical and protochemical formulations while addressing why modern science developed in the West rather than in India or China. It briefly touches upon internal alchemy in China and the ritualistic tantra in India....
 
@@ -882,10 +751,7 @@ Christian era, the name of the author "Nagarjuna"l translated into Chinese as "l
 
 ## 43. 8. Bogar Karpam and Wei Bo-yang’s Alchemy
 
-
 Alchemy in India and China
-
-by Vijaya Jayant Deshpande | 1988 | 42,318 words
 
 The thesis "Alchemy in India and China" explores the comparative aspects of alchemy in these two countries, focusing on chemical and protochemical formulations while addressing why modern science developed in the West rather than in India or China. It briefly touches upon internal alchemy in China and the ritualistic tantra in India....
 
@@ -909,10 +775,7 @@ We have seen earlier in the chapter on "Alchemy in China" that one of the earlie
 
 ## 44. 4. Case of Arsenic Sulphide or Orpiment
 
-
 Alchemy in India and China
-
-by Vijaya Jayant Deshpande | 1988 | 42,318 words
 
 The thesis "Alchemy in India and China" explores the comparative aspects of alchemy in these two countries, focusing on chemical and protochemical formulations while addressing why modern science developed in the West rather than in India or China. It briefly touches upon internal alchemy in China and the ritualistic tantra in India....
 
@@ -928,10 +791,7 @@ Further in the Footnote, Waley writes: had Ogika = Sanskrit Hirika "The yellow o
 
 ## 45. 7. Case of “Ban Cha Zhuo Shui” or Visodaka
 
-
 Alchemy in India and China
-
-by Vijaya Jayant Deshpande | 1988 | 42,318 words
 
 The thesis "Alchemy in India and China" explores the comparative aspects of alchemy in these two countries, focusing on chemical and protochemical formulations while addressing why modern science developed in the West rather than in India or China. It briefly touches upon internal alchemy in China and the ritualistic tantra in India....
 
@@ -989,10 +849,7 @@ Equal weights of poisonous water, sulphur and orpiment (Haribija), mixed well wi
 
 ## 46. 5. Case of Nao Sha, Navasara or Sal-ammoniac
 
-
 Alchemy in India and China
-
-by Vijaya Jayant Deshpande | 1988 | 42,318 words
 
 The thesis "Alchemy in India and China" explores the comparative aspects of alchemy in these two countries, focusing on chemical and protochemical formulations while addressing why modern science developed in the West rather than in India or China. It briefly touches upon internal alchemy in China and the ritualistic tantra in India....
 
@@ -1012,10 +869,7 @@ Thus, Sha mana Sha men xiao Navasara Nao Sha Eg shi sha Probably the Arabic word
 
 ## 47. 3. Case of Mica
 
-
 Alchemy in India and China
-
-by Vijaya Jayant Deshpande | 1988 | 42,318 words
 
 The thesis "Alchemy in India and China" explores the comparative aspects of alchemy in these two countries, focusing on chemical and protochemical formulations while addressing why modern science developed in the West rather than in India or China. It briefly touches upon internal alchemy in China and the ritualistic tantra in India....
 
@@ -1031,10 +885,7 @@ Thus Yun mu = cloud mother = mica yun mu = Yun mu = mica. Where Yun yun ting zho
 
 ## 48. 6. Case of Sindura or Cinnabar
 
-
 Alchemy in India and China
-
-by Vijaya Jayant Deshpande | 1988 | 42,318 words
 
 The thesis "Alchemy in India and China" explores the comparative aspects of alchemy in these two countries, focusing on chemical and protochemical formulations while addressing why modern science developed in the West rather than in India or China. It briefly touches upon internal alchemy in China and the ritualistic tantra in India....
 
@@ -1050,10 +901,7 @@ Cinnabar or mercuric sulphide is another substance which is intimately related t
 
 ## 49. 8. Case of Tutenag or Zinc
 
-
 Alchemy in India and China
-
-by Vijaya Jayant Deshpande | 1988 | 42,318 words
 
 The thesis "Alchemy in India and China" explores the comparative aspects of alchemy in these two countries, focusing on chemical and protochemical formulations while addressing why modern science developed in the West rather than in India or China. It briefly touches upon internal alchemy in China and the ritualistic tantra in India....
 
@@ -1071,10 +919,7 @@ In ancient times metals were classified according to their appearance. Iron, gol
 
 ## 50. Chapter 7 - Indian and Chinese Alchemy—Parallels
 
-
 Alchemy in India and China
-
-by Vijaya Jayant Deshpande | 1988 | 42,318 words
 
 The thesis "Alchemy in India and China" explores the comparative aspects of alchemy in these two countries, focusing on chemical and protochemical formulations while addressing why modern science developed in the West rather than in India or China. It briefly touches upon internal alchemy in China and the ritualistic tantra in India....
 
@@ -1088,10 +933,7 @@ Chapter 7 - Indian and Chinese Alchemy—Parallels
 
 ## 51. 1. Introduction to the “Chun zhu ji wen”
 
-
 Alchemy in India and China
-
-by Vijaya Jayant Deshpande | 1988 | 42,318 words
 
 The thesis "Alchemy in India and China" explores the comparative aspects of alchemy in these two countries, focusing on chemical and protochemical formulations while addressing why modern science developed in the West rather than in India or China. It briefly touches upon internal alchemy in China and the ritualistic tantra in India....
 
@@ -1111,10 +953,7 @@ You Yan 7 of 1285 AD, "Sun-gong tan-pu" (The venerable Mr. Sun's conversation ga
 
 ## 52. 9. Case of “Crow’s Beak Gold”
 
-
 Alchemy in India and China
-
-by Vijaya Jayant Deshpande | 1988 | 42,318 words
 
 The thesis "Alchemy in India and China" explores the comparative aspects of alchemy in these two countries, focusing on chemical and protochemical formulations while addressing why modern science developed in the West rather than in India or China. It briefly touches upon internal alchemy in China and the ritualistic tantra in India....
 
@@ -1140,10 +979,7 @@ We have come across, in the chapter on Chinese Alchemy, an alchemist-metallurgis
 
 ## 53. 4. Case of a metal-container becoming golden
 
-
 Alchemy in India and China
-
-by Vijaya Jayant Deshpande | 1988 | 42,318 words
 
 The thesis "Alchemy in India and China" explores the comparative aspects of alchemy in these two countries, focusing on chemical and protochemical formulations while addressing why modern science developed in the West rather than in India or China. It briefly touches upon internal alchemy in China and the ritualistic tantra in India....
 
@@ -1159,10 +995,7 @@ after heating converts the pot into gold. This transmutation needs six months th
 
 ## 54. 3. Case of an herb transmuting mercury and iron gold
 
-
 Alchemy in India and China
-
-by Vijaya Jayant Deshpande | 1988 | 42,318 words
 
 The thesis "Alchemy in India and China" explores the comparative aspects of alchemy in these two countries, focusing on chemical and protochemical formulations while addressing why modern science developed in the West rather than in India or China. It briefly touches upon internal alchemy in China and the ritualistic tantra in India....
 
@@ -1186,10 +1019,7 @@ thus turned into gold of the best quality, which is suitable for the ornaments o
 
 ## 55. 5. Case of purple gold
 
-
 Alchemy in India and China
-
-by Vijaya Jayant Deshpande | 1988 | 42,318 words
 
 The thesis "Alchemy in India and China" explores the comparative aspects of alchemy in these two countries, focusing on chemical and protochemical formulations while addressing why modern science developed in the West rather than in India or China. It briefly touches upon internal alchemy in China and the ritualistic tantra in India....
 
@@ -1217,10 +1047,7 @@ in the medieval period, i.e., at the time when they had the closest and most fre
 
 ## 56. 2. Case of making treasure using mercury and a gourd
 
-
 Alchemy in India and China
-
-by Vijaya Jayant Deshpande | 1988 | 42,318 words
 
 The thesis "Alchemy in India and China" explores the comparative aspects of alchemy in these two countries, focusing on chemical and protochemical formulations while addressing why modern science developed in the West rather than in India or China. It briefly touches upon internal alchemy in China and the ritualistic tantra in India....
 
@@ -1250,10 +1077,7 @@ Further in the chapter on dyeing, bitter gourd is included in the list of plants
 
 ## 57. Bibliography
 
-
 Alchemy in India and China
-
-by Vijaya Jayant Deshpande | 1988 | 42,318 words
 
 The thesis "Alchemy in India and China" explores the comparative aspects of alchemy in these two countries, focusing on chemical and protochemical formulations while addressing why modern science developed in the West rather than in India or China. It briefly touches upon internal alchemy in China and the ritualistic tantra in India....
 
@@ -1285,10 +1109,7 @@ Singhal, D. P. India and World Civilization, Enka, Delhi, 1972. 236 Sivin, Natha
 
 ## 58. Conclusion
 
-
 Alchemy in India and China
-
-by Vijaya Jayant Deshpande | 1988 | 42,318 words
 
 The thesis "Alchemy in India and China" explores the comparative aspects of alchemy in these two countries, focusing on chemical and protochemical formulations while addressing why modern science developed in the West rather than in India or China. It briefly touches upon internal alchemy in China and the ritualistic tantra in India....
 

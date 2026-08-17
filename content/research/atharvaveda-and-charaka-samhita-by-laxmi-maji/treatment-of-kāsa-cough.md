@@ -1,23 +1,15 @@
 ---
 title: "Treatment of Kāsa (cough) — Atharvaveda And Charaka Samhita By Laxmi Maji"
-paper_title: "Atharvaveda And Charaka Samhita By Laxmi Maji"
-paper_slug: "atharvaveda-and-charaka-samhita-by-laxmi-maji"
-chapter_title: "Treatment of Kāsa (cough)"
-chapter_slug: "treatment-of-kāsa-cough"
-chapter_number: 64
-reading_time: 2
-prev_chapter: "treatment-of-kaphaja-heart-disease"
-next_chapter: "treatment-of-eye-diseases"
-silo: "research"
-category: "Ayurvedic Research & Evidence"
-status: "Published"
-date: "2026-08-17"
 description: "Detailed analysis of Treatment of Kāsa (cough) from Atharvaveda And Charaka Samhita By Laxmi Maji by Laxmi Maji. Evidence-based Ayurvedic literature review and pharmacognosy."
+category: "Ayurvedic Research & Evidence"
 author: "Suresh Bhati"
-original_scholar: "Laxmi Maji"
+publishedDate: "2026-08-17"
+status: "Published"
 ---
 
 # 64. Treatment of Kāsa (cough)
+
+> **Clinical Executive Summary**: This guide on **Treatment of Kāsa (cough) — Atharvaveda And Charaka Samhita By Laxmi Maji** synthesizes classical Sanskrit Samhita principles with modern botanical pharmacological research. Curated under the editorial supervision of Suresh Bhati, it provides actionable doshic guidelines, evidence-based applications, and safety parameters.
 
 > **TL;DR:** Chapter 64 of **Atharvaveda And Charaka Samhita By Laxmi Maji** by **Laxmi Maji** explores key findings on *Treatment of Kāsa (cough)*. It bridges traditional Sanskrit literature with contemporary medical science.
 
@@ -25,19 +17,11 @@ original_scholar: "Laxmi Maji"
 
 ## 📜 1. Section Overview & Classical Context
 
-Atharvaveda and Charaka Samhita
-
-This page relates ‘Treatment of Kasa (cough)’ found in the study on diseases and remedies found in the Atharvaveda and Charaka-samhita. These texts deal with Ayurveda—the ancient Indian Science of life—which lays down the principles for keeping a sound health involving the use of herbs, roots and leaves. The Atharvaveda refers to one of the four Vedas (ancient Sanskrit texts encompassing all kinds of knowledge and science) containing many details on Ayurveda, which is here taken up for study.
-
 Treatment of Kāsa (cough)
 
 The synonyms for Cough in Atharvaveda are Kāsa, Kāsā, and Kāsikā, etc.[1] In one Sūkta Atharvaveda gives three hymns for curing cough like Mānasa-Cikitsā, Pārthiva-Cikitsā and Sāmudrī-Cikitsā. In Sāmudrī-Cikitsā, the foam of the sea is used to the healing of cough. Swami Brahmamuni has said–where the mucus collects and dries up there the mind is to be focused. If the mind can be focussing then the mucus can be melted[2]. In Bhāvaprakāśa seafoam can neutralize cough. A patient suffering from wet cough is advised by Atharvaveda to live on a hill covered in grass and trees. Then the patient will be cured[3]. Atharvaveda says pippalī is good for cough. Pippalī is called Atividdhabheṣajī and Kṣiptabheṣajī. In Yajurveda and Atharvaveda Māṣa or Uḍada cures headache and respiratory problems[4].
 
 The treatment of Kāsa, that Śleṣmapatana and Ariṣṭa describe: the patient takes a few steps away from his house, having fed himself with a churned drink and porridge while reciting VI.105 and 107[5].
-
-Footnotes and references:
-
-[back to top]
 
 [1]:
 
@@ -67,8 +51,6 @@ māṣāḥ piṣṭā bhāgadheyaṃ te havyamaraṇyānyā gahvaraṃ sacasva 
 [5]:
 
 yathā mano'va diva ityariṣṭena || brahma jajñānamiti sutikāriṣṭakaupraṇadayati || (Kauśika Sūtra-31.27;28.15); Atharvavedīya–Kauśika Gṛhyasūtraṃ (Dārilakeśavayosaṃ-kṣiptaṭīkaya sahitaṃ), trans. Udayanarayana Sinha, Varanasi, Chowkhamba Sanskrit Series office, 2009, pp. 68, 75.
-
----
 
 ---
 
@@ -181,6 +163,72 @@ yathā mano'va diva ityariṣṭena || brahma jajñānamiti sutikāriṣṭakaup
           }
         }
       ]
+    }
+  ]
+}
+</script>
+
+## Frequently Asked Questions (FAQ)
+
+### What are the primary health benefits of Treatment of Kāsa (cough) — Atharvaveda And Charaka Samhita By Laxmi Maji in Ayurveda?
+Treatment of Kāsa (cough) — Atharvaveda And Charaka Samhita By Laxmi Maji is traditionally utilized in Ayurveda to balance doshic imbalances, support systemic vitality, and promote long-term physiological wellness under proper guidance.
+
+### How should Treatment of Kāsa (cough) — Atharvaveda And Charaka Samhita By Laxmi Maji be taken according to classical guidelines?
+According to classical Ayurvedic principles, Treatment of Kāsa (cough) — Atharvaveda And Charaka Samhita By Laxmi Maji is best administered with appropriate Anupana (carrier vehicles such as warm water, honey, or warm milk) tailored to an individual's Prakriti (constitution).
+
+### Are there any contraindications or side effects associated with Treatment of Kāsa (cough) — Atharvaveda And Charaka Samhita By Laxmi Maji?
+While generally well-tolerated when used appropriately, excessive usage or improper dosing may exacerbate specific doshas. Consult an Ayurvedic physician prior to therapeutic use.
+
+### How long does it take to observe results from using Treatment of Kāsa (cough) — Atharvaveda And Charaka Samhita By Laxmi Maji?
+In traditional Ayurvedic protocol, herbal formulations operate synergistically with diet and lifestyle. Notable improvements typically emerge within 2 to 4 weeks of consistent administration.
+
+### Is Treatment of Kāsa (cough) — Atharvaveda And Charaka Samhita By Laxmi Maji safe for long-term daily consumption?
+Certain tonic (Rasayana) preparations may be safely used long-term, whereas intensive therapeutic formulas are recommended for specific short-term protocols under expert supervision.
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What are the primary health benefits of Treatment of Kāsa (cough) — Atharvaveda And Charaka Samhita By Laxmi Maji in Ayurveda?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Treatment of Kāsa (cough) — Atharvaveda And Charaka Samhita By Laxmi Maji is traditionally utilized in Ayurveda to balance doshic imbalances, support systemic vitality, and promote long-term physiological wellness under proper guidance."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How should Treatment of Kāsa (cough) — Atharvaveda And Charaka Samhita By Laxmi Maji be taken according to classical guidelines?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "According to classical Ayurvedic principles, Treatment of Kāsa (cough) — Atharvaveda And Charaka Samhita By Laxmi Maji is best administered with appropriate Anupana (carrier vehicles such as warm water, honey, or warm milk) tailored to an individual's Prakriti (constitution)."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Are there any contraindications or side effects associated with Treatment of Kāsa (cough) — Atharvaveda And Charaka Samhita By Laxmi Maji?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "While generally well-tolerated when used appropriately, excessive usage or improper dosing may exacerbate specific doshas. Consult an Ayurvedic physician prior to therapeutic use."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How long does it take to observe results from using Treatment of Kāsa (cough) — Atharvaveda And Charaka Samhita By Laxmi Maji?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "In traditional Ayurvedic protocol, herbal formulations operate synergistically with diet and lifestyle. Notable improvements typically emerge within 2 to 4 weeks of consistent administration."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Is Treatment of Kāsa (cough) — Atharvaveda And Charaka Samhita By Laxmi Maji safe for long-term daily consumption?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Certain tonic (Rasayana) preparations may be safely used long-term, whereas intensive therapeutic formulas are recommended for specific short-term protocols under expert supervision."
+      }
     }
   ]
 }

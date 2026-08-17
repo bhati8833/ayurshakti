@@ -20,17 +20,11 @@ This chapter from **Sushruta Samhita (Chikitsasthana)** represents the classical
 
 ---
 
-
 Sushruta Samhita, volume 4: Cikitsasthana
-
-by Kaviraj Kunja Lal Bhishagratna | 1911 | 123,229 words
 
 This current book, the Chikitsa-sthana (english translation), deals with therapeutics, surgical emergencies, geriatrics, aphrodisiacs and various other subjects.
 
 The Sushruta Samhita is the most representative work of the Hindu system of medicine. It embraces all that can possibly appertain to the science of medicine. Susruta-samhita is recognized...
-
-Go directly to: 
-Footnotes.
 
 Chapter XII - The medical treatment of abscesses sequeling Prameha
 
@@ -67,10 +61,6 @@ Traits of cure:—
 The cure of Prameha-patients should be understood from the non-slimy and unturbid condition of the urine and from its clear transparent aspect and bitter or pungent taste. 12.
 
 Thus ends the twelfth Chapter of the Chikitsita Sthana in the Sushruta Sambita which deals with the medical treatment of Prameha-Pidaka.
-
-Footnotes and references:
-
-[back to top]
 
 [1]:
 
@@ -115,8 +105,6 @@ The Phanita should be refined by dissolving it in the decoction of the drugs of 
 [10]:
 
 The recipe of Loharishta, according to Vagbhata, is as follows:—
-
-The drugs of the Asanadi group (which corresponds with Sushruta’s Shala-saradi group), each weighing twenty Palas, should be boiled in eight Dronas of water down to a quarter part of its weight. Two hundred Pala weight of treacle and half an Adhaka (four seers) of honey and the powders of the drugs of the Vatsakadi group (which corresponds with the Pippalyadi group of Sushruta), each weighing one Pala, should be mixed with the above decoction when cooled. A (new earthen) pitcher should be plastered inside with (an adequate quantity of) Pippali-powder and honey, the outer side being plastered with shellac. The above preparation should now be poured into this pitcher which should be kept in a heap of barley. A fire should be kindled with Khadira charcoal. Thin iron-foils should be alternately heated in this fire and immersed in the above preparation until the iron-foils are powdered.
 
 The drugs of the Asanadi group (which corresponds with Sushruta’s Shala-saradi group), each weighing twenty Palas, should be boiled in eight Dronas of water down to a quarter part of its weight. Two hundred Pala weight of treacle and half an Adhaka (four seers) of honey and the powders of the drugs of the Vatsakadi group (which corresponds with the Pippalyadi group of Sushruta), each weighing one Pala, should be mixed with the above decoction when cooled. A (new earthen) pitcher should be plastered inside with (an adequate quantity of) Pippali-powder and honey, the outer side being plastered with shellac. The above preparation should now be poured into this pitcher which should be kept in a heap of barley. A fire should be kindled with Khadira charcoal. Thin iron-foils should be alternately heated in this fire and immersed in the above preparation until the iron-foils are powdered.
 

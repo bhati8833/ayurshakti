@@ -20,15 +20,9 @@ This chapter from **Sushruta Samhita (Sutrasthana)** represents the classical su
 
 ---
 
-
 Sushruta Samhita, volume 1: Sutrasthana
 
-by Kaviraj Kunja Lal Bhishagratna | 1907 | 148,756 words
-
 This current book, the Sutra-sthana (english translation), is the first part of this voluminous medical work. It contains a large summary of the knowledge envelopig the medical aspects of Ayurveda. Descriptions of diseases, various diets and drugs, the duties of a surgeon, surgical procedures, medical training; these are only some of the numerous s...
-
-Go directly to: 
-Footnotes.
 
 Chapter XXXV - Examination of the patient
 
@@ -183,10 +177,6 @@ A disease, which is marked by features other than those described above, should 
 In the case of a former medicine proving abortive, a different one should not be resorted to as long as the effect of the first would last, inasmuch as a mixture or a confusion of medicinal remedies tends to produce a positively injurious effect. A medicine or any medicinal measure, failing to produce any tangible effect, may be repeated in quick succession in a difficult or dangerous disease, if it be empirically found to be beneficial in the case under treatment. The intelligent physician, who, considering the nature of the season, etc., fully conforms to the abovesaid rules of medical treatment, conquers the bodily distempers and dispels the gloom of Death from the world with his medical skill.
 
 Thus ends the Thirty-fifth Chapter of the Sutrasthana in the Sushruta Samhita, which treats of clinical observations.
-
-Footnotes and references:
-
-[back to top]
 
 [1]:
 

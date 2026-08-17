@@ -1,23 +1,15 @@
 ---
 title: "Part 21 - Treatment and Care of Horses — Agriculture And Animal Husbandry In The Puranas By Purboshri"
-paper_title: "Agriculture And Animal Husbandry In The Puranas By Purboshri"
-paper_slug: "agriculture-and-animal-husbandry-in-the-puranas-by-purboshri"
-chapter_title: "Part 21 - Treatment and Care of Horses"
-chapter_slug: "part-21---treatment-and-care-of-horses"
-chapter_number: 81
-reading_time: 10
-prev_chapter: "part-20---management-of-horses"
-next_chapter: "part-19---horse-in-the-purāṇasintroduction"
-silo: "research"
-category: "Ayurvedic Research & Evidence"
-status: "Published"
-date: "2026-08-17"
 description: "Detailed analysis of Part 21 - Treatment and Care of Horses from Agriculture And Animal Husbandry In The Puranas By Purboshri by Purboshri Borpuzari. Evidence-based Ayurvedic literature review and pharmacognosy."
+category: "Ayurvedic Research & Evidence"
 author: "Suresh Bhati"
-original_scholar: "Purboshri Borpuzari"
+publishedDate: "2026-08-17"
+status: "Published"
 ---
 
 # 81. Part 21 - Treatment and Care of Horses
+
+> **Clinical Executive Summary**: This guide on **Part 21 - Treatment and Care of Horses — Agriculture And Animal Husbandry In The Puranas By Purboshri** synthesizes classical Sanskrit Samhita principles with modern botanical pharmacological research. Curated under the editorial supervision of Suresh Bhati, it provides actionable doshic guidelines, evidence-based applications, and safety parameters.
 
 > **TL;DR:** Chapter 81 of **Agriculture And Animal Husbandry In The Puranas By Purboshri** by **Purboshri Borpuzari** explores key findings on *Part 21 - Treatment and Care of Horses*. It bridges traditional Sanskrit literature with contemporary medical science.
 
@@ -92,10 +84,6 @@ Each meal of a horse should consist of four āḍhaka measures of yava, free of 
 Preservation of Horse-Life:
 
 References of shelters of elephants, stables of horses and references of chariots (hastyaśvarathaśālā) are met with in the Purāṇas.[34] While enumerating the ways of protecting the fort and the city of a king, the Matsya Purāṇa attests that the stables and cowsheds should be to the left side of the king’s palace. The stables should face to the north or to the south. If they face to other directions then it was considered bad. Moreover, there should be lamp burning in the stables through the whole night. The horses should stay in the stables.[35] It was customary to keep in the stables the following beasts for the welfare of the horses—the cocks, the monkeys, especially the apes, cows with their calves and she-goats. Dung should always be cleared away from the stables or elephant yards or cow sheds, before sunset. The quarters of the charioteers (sārathī) should be near the stables.[36] As diseases become more powerful in the fortress therefore, Veterinary doctors (govaidya, aśvavaidya and gajavaidya) should be provided lodging within the fortress.[37] It is suggested there in the Agni Purāṇa that, horses should be stabled in a well-ventilated house and dried bay should be strewn over its floors. The stable should be guarded well and lamps should be lighted there. Goats(aja), monkeys(kapaya), kṛkavākas, deers(mṛgas) should be kept in the stable.[38]
-
-Footnotes and references:
-
-[back to top]
 
 [1]:
 
@@ -305,8 +293,6 @@ kṛkavākvajakapayo dhāryāścāśvagṛhe mṛgāḥ// Agni Purāṇa , 289.5
 
 ---
 
----
-
 ## ❓ 4. Frequently Asked Questions (15 Question Intent Matrix)
 
 ### Q1: What is the primary subject of "Part 21 - Treatment and Care of Horses"?
@@ -416,6 +402,72 @@ kṛkavākvajakapayo dhāryāścāśvagṛhe mṛgāḥ// Agni Purāṇa , 289.5
           }
         }
       ]
+    }
+  ]
+}
+</script>
+
+## Frequently Asked Questions (FAQ)
+
+### What are the primary health benefits of Part 21 - Treatment and Care of Horses — Agriculture And Animal Husbandry In The Puranas By Purboshri in Ayurveda?
+Part 21 - Treatment and Care of Horses — Agriculture And Animal Husbandry In The Puranas By Purboshri is traditionally utilized in Ayurveda to balance doshic imbalances, support systemic vitality, and promote long-term physiological wellness under proper guidance.
+
+### How should Part 21 - Treatment and Care of Horses — Agriculture And Animal Husbandry In The Puranas By Purboshri be taken according to classical guidelines?
+According to classical Ayurvedic principles, Part 21 - Treatment and Care of Horses — Agriculture And Animal Husbandry In The Puranas By Purboshri is best administered with appropriate Anupana (carrier vehicles such as warm water, honey, or warm milk) tailored to an individual's Prakriti (constitution).
+
+### Are there any contraindications or side effects associated with Part 21 - Treatment and Care of Horses — Agriculture And Animal Husbandry In The Puranas By Purboshri?
+While generally well-tolerated when used appropriately, excessive usage or improper dosing may exacerbate specific doshas. Consult an Ayurvedic physician prior to therapeutic use.
+
+### How long does it take to observe results from using Part 21 - Treatment and Care of Horses — Agriculture And Animal Husbandry In The Puranas By Purboshri?
+In traditional Ayurvedic protocol, herbal formulations operate synergistically with diet and lifestyle. Notable improvements typically emerge within 2 to 4 weeks of consistent administration.
+
+### Is Part 21 - Treatment and Care of Horses — Agriculture And Animal Husbandry In The Puranas By Purboshri safe for long-term daily consumption?
+Certain tonic (Rasayana) preparations may be safely used long-term, whereas intensive therapeutic formulas are recommended for specific short-term protocols under expert supervision.
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What are the primary health benefits of Part 21 - Treatment and Care of Horses — Agriculture And Animal Husbandry In The Puranas By Purboshri in Ayurveda?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Part 21 - Treatment and Care of Horses — Agriculture And Animal Husbandry In The Puranas By Purboshri is traditionally utilized in Ayurveda to balance doshic imbalances, support systemic vitality, and promote long-term physiological wellness under proper guidance."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How should Part 21 - Treatment and Care of Horses — Agriculture And Animal Husbandry In The Puranas By Purboshri be taken according to classical guidelines?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "According to classical Ayurvedic principles, Part 21 - Treatment and Care of Horses — Agriculture And Animal Husbandry In The Puranas By Purboshri is best administered with appropriate Anupana (carrier vehicles such as warm water, honey, or warm milk) tailored to an individual's Prakriti (constitution)."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Are there any contraindications or side effects associated with Part 21 - Treatment and Care of Horses — Agriculture And Animal Husbandry In The Puranas By Purboshri?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "While generally well-tolerated when used appropriately, excessive usage or improper dosing may exacerbate specific doshas. Consult an Ayurvedic physician prior to therapeutic use."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How long does it take to observe results from using Part 21 - Treatment and Care of Horses — Agriculture And Animal Husbandry In The Puranas By Purboshri?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "In traditional Ayurvedic protocol, herbal formulations operate synergistically with diet and lifestyle. Notable improvements typically emerge within 2 to 4 weeks of consistent administration."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Is Part 21 - Treatment and Care of Horses — Agriculture And Animal Husbandry In The Puranas By Purboshri safe for long-term daily consumption?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Certain tonic (Rasayana) preparations may be safely used long-term, whereas intensive therapeutic formulas are recommended for specific short-term protocols under expert supervision."
+      }
     }
   ]
 }

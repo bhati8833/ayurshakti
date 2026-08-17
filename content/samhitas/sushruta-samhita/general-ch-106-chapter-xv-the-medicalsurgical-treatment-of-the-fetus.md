@@ -20,17 +20,11 @@ This chapter from **Sushruta Samhita (Chikitsasthana)** represents the classical
 
 ---
 
-
 Sushruta Samhita, volume 4: Cikitsasthana
-
-by Kaviraj Kunja Lal Bhishagratna | 1911 | 123,229 words
 
 This current book, the Chikitsa-sthana (english translation), deals with therapeutics, surgical emergencies, geriatrics, aphrodisiacs and various other subjects.
 
 The Sushruta Samhita is the most representative work of the Hindu system of medicine. It embraces all that can possibly appertain to the science of medicine. Susruta-samhita is recognized...
-
-Go directly to: 
-Footnotes.
 
 Chapter XV - The medical/surgical treatment of the fetus
 
@@ -91,10 +85,6 @@ Oils may similarly be prepared with each of Ativisha, Guduci, Aditya-parni, Sair
 Nilotpala and Shatavari should be cooked in milk. The milk thus prepared should be again cooked with sesamum oil successively a hundred times and a paste of all the drugs used as a paste in the Vala Taila should be added to it at the time of cooking. The therapeutic virtues of all these oils are the same as those of the Vala-Taila and the same regimen of diet and conduct should be observed in all such cases. 18.
 
 Thus ends the fifteenth Chapter of the Chikitsita Sthana in the Sushruta Samhita which deals with the medical treatment of Mudha- garbha.
-
-Footnotes and references:
-
-[back to top]
 
 [1]:
 

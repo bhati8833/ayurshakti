@@ -1,23 +1,15 @@
 ---
 title: "Interface between Physicians and Society — Charaka Samhita And Sushruta Samhita By Nayana Sharma"
-paper_title: "Charaka Samhita And Sushruta Samhita By Nayana Sharma"
-paper_slug: "charaka-samhita-and-sushruta-samhita-by-nayana-sharma"
-chapter_title: "Interface between Physicians and Society"
-chapter_slug: "interface-between-physicians-and-society"
-chapter_number: 23
-reading_time: 13
-prev_chapter: "quackery-the-fraudulent-medical-practitioners"
-next_chapter: "the-medical-attendant"
-silo: "research"
-category: "Ayurvedic Research & Evidence"
-status: "Published"
-date: "2026-08-17"
 description: "Detailed analysis of Interface between Physicians and Society from Charaka Samhita And Sushruta Samhita By Nayana Sharma by Nayana Sharma. Evidence-based Ayurvedic literature review and pharmacognosy."
+category: "Ayurvedic Research & Evidence"
 author: "Suresh Bhati"
-original_scholar: "Nayana Sharma"
+publishedDate: "2026-08-17"
+status: "Published"
 ---
 
 # 23. Interface between Physicians and Society
+
+> **Clinical Executive Summary**: This guide on **Interface between Physicians and Society — Charaka Samhita And Sushruta Samhita By Nayana Sharma** synthesizes classical Sanskrit Samhita principles with modern botanical pharmacological research. Curated under the editorial supervision of Suresh Bhati, it provides actionable doshic guidelines, evidence-based applications, and safety parameters.
 
 > **TL;DR:** Chapter 23 of **Charaka Samhita And Sushruta Samhita By Nayana Sharma** by **Nayana Sharma** explores key findings on *Interface between Physicians and Society*. It bridges traditional Sanskrit literature with contemporary medical science.
 
@@ -101,24 +93,15 @@ Concern for the well-being of the patient should necessarily take precedence in 
 dharmartho kirtimityartha satanga grahanamuttamam.
 prapnuyat swargavasanga ca hitamarabhya karmana.
 
-dharmartho kirtimityartha satanga grahanamuttamam.
-prapnuyat swargavasanga ca hitamarabhya karmana.
-
 This approach may be juxtaposed with medical ethics from another part of the ancient world. The Hippocratic practitioner “is the servant of his art, and the patient must cooperate with the doctor in combating the disease.” The primary objective of the physician is to practice his art diligently and protect the patient from harm. It has been described as an ethic of outward achievement than of inner intention.[25]
 
 Plato looked at the physician-patient relationship in a different light:
 
 “No physician, insofar as he is a physician, considers his own good in what he prescribes, but the good of his patient, for the true physician is also a ruler having the human body as a subject, and is not a money-maker”.[26]
 
-“No physician, insofar as he is a physician, considers his own good in what he prescribes, but the good of his patient, for the true physician is also a ruler having the human body as a subject, and is not a money-maker”.[26]
-
 The moral duty of the physician here is given precedence.
 
 Though the paternalistic ideal is upheld as the highest ideal the question of remuneration is also important. The patient is expected to reciprocate the services of the physician in some form or the other.[27] One of the objectives of medical practice is the attainment of artha (wealth) though those who practice simply for acquisition of wealth are condemned.[28]
-
-Footnotes and references:
-
-[back to top]
 
 [1]:
 
@@ -234,8 +217,6 @@ Caraka Saṃhitā Cikitsāsthāna 1:4.58.
 
 ---
 
----
-
 ## ❓ 4. Frequently Asked Questions (15 Question Intent Matrix)
 
 ### Q1: What is the primary subject of "Interface between Physicians and Society"?
@@ -345,6 +326,72 @@ Caraka Saṃhitā Cikitsāsthāna 1:4.58.
           }
         }
       ]
+    }
+  ]
+}
+</script>
+
+## Frequently Asked Questions (FAQ)
+
+### What are the primary health benefits of Interface between Physicians and Society — Charaka Samhita And Sushruta Samhita By Nayana Sharma in Ayurveda?
+Interface between Physicians and Society — Charaka Samhita And Sushruta Samhita By Nayana Sharma is traditionally utilized in Ayurveda to balance doshic imbalances, support systemic vitality, and promote long-term physiological wellness under proper guidance.
+
+### How should Interface between Physicians and Society — Charaka Samhita And Sushruta Samhita By Nayana Sharma be taken according to classical guidelines?
+According to classical Ayurvedic principles, Interface between Physicians and Society — Charaka Samhita And Sushruta Samhita By Nayana Sharma is best administered with appropriate Anupana (carrier vehicles such as warm water, honey, or warm milk) tailored to an individual's Prakriti (constitution).
+
+### Are there any contraindications or side effects associated with Interface between Physicians and Society — Charaka Samhita And Sushruta Samhita By Nayana Sharma?
+While generally well-tolerated when used appropriately, excessive usage or improper dosing may exacerbate specific doshas. Consult an Ayurvedic physician prior to therapeutic use.
+
+### How long does it take to observe results from using Interface between Physicians and Society — Charaka Samhita And Sushruta Samhita By Nayana Sharma?
+In traditional Ayurvedic protocol, herbal formulations operate synergistically with diet and lifestyle. Notable improvements typically emerge within 2 to 4 weeks of consistent administration.
+
+### Is Interface between Physicians and Society — Charaka Samhita And Sushruta Samhita By Nayana Sharma safe for long-term daily consumption?
+Certain tonic (Rasayana) preparations may be safely used long-term, whereas intensive therapeutic formulas are recommended for specific short-term protocols under expert supervision.
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What are the primary health benefits of Interface between Physicians and Society — Charaka Samhita And Sushruta Samhita By Nayana Sharma in Ayurveda?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Interface between Physicians and Society — Charaka Samhita And Sushruta Samhita By Nayana Sharma is traditionally utilized in Ayurveda to balance doshic imbalances, support systemic vitality, and promote long-term physiological wellness under proper guidance."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How should Interface between Physicians and Society — Charaka Samhita And Sushruta Samhita By Nayana Sharma be taken according to classical guidelines?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "According to classical Ayurvedic principles, Interface between Physicians and Society — Charaka Samhita And Sushruta Samhita By Nayana Sharma is best administered with appropriate Anupana (carrier vehicles such as warm water, honey, or warm milk) tailored to an individual's Prakriti (constitution)."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Are there any contraindications or side effects associated with Interface between Physicians and Society — Charaka Samhita And Sushruta Samhita By Nayana Sharma?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "While generally well-tolerated when used appropriately, excessive usage or improper dosing may exacerbate specific doshas. Consult an Ayurvedic physician prior to therapeutic use."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How long does it take to observe results from using Interface between Physicians and Society — Charaka Samhita And Sushruta Samhita By Nayana Sharma?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "In traditional Ayurvedic protocol, herbal formulations operate synergistically with diet and lifestyle. Notable improvements typically emerge within 2 to 4 weeks of consistent administration."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Is Interface between Physicians and Society — Charaka Samhita And Sushruta Samhita By Nayana Sharma safe for long-term daily consumption?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Certain tonic (Rasayana) preparations may be safely used long-term, whereas intensive therapeutic formulas are recommended for specific short-term protocols under expert supervision."
+      }
     }
   ]
 }

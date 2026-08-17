@@ -20,17 +20,11 @@ This chapter from **Sushruta Samhita (Uttaratantra)** represents the classical s
 
 ---
 
-
 Sushruta Samhita, Volume 6: Uttara-tantra
-
-by Kaviraj Kunja Lal Bhishagratna | 1916 | 113,078 words
 
 This current book, the Uttara-tantra (english translation) is the supplementary part of the Sushrutasamhita and deals various subjects such as diseases of the eye, treatment of fever, diarrhea, diseases resulting from superhuman influences, insanity, rules of health etc.
 
 The Sushruta Samhita is the most representative work of the Hindu system of m...
-
-Go directly to: 
-Footnotes.
 
 Chapter XLIII - Symptoms and Treatment of Heart-disease (Hridroga)
 
@@ -69,10 +63,6 @@ Treatment of Krimija type:—
 In the type (Krimija) characterised by the persence of worms, the patient should be first treated with a Sneha. A meat-diet with curd or (fried and) powdered sesamun should then be given to the patient for three days in succession after which he should be purged with the compound of Ajaji and sugar mixed with the salt-predominating[1] purgative preparation (see—Sutra, XLIV.) and mixed with the scented drugs (mentioned in the Sutra-sthana, Ch. XLIV). An adequate quantity of fermented-rice boilings (Dhanyamla) with a profuse quantity of Vidanga should then be internally administered, whereby the worms would be dislodged from the hearts (and expelled through the lower orfices of the body). A diet consisting of cooked barley grains saturated with powdered Vidanga should then be given to the patient. 12.
 
 Thus ends the forty-third chapter of the Ullara Tantra in the Sushruta Samhita which treats of the (symptoms and) treatment of Hridroga.
-
-Footnotes and references:
-
-[back to top]
 
 [1]:
 

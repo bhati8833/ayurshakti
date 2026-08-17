@@ -20,10 +20,7 @@ This chapter from **Sushruta Samhita (Sutrasthana)** represents the classical su
 
 ---
 
-
 Sushruta Samhita, volume 1: Sutrasthana
-
-by Kaviraj Kunja Lal Bhishagratna | 1907 | 148,756 words
 
 This current book, the Sutra-sthana (english translation), is the first part of this voluminous medical work. It contains a large summary of the knowledge envelopig the medical aspects of Ayurveda. Descriptions of diseases, various diets and drugs, the duties of a surgeon, surgical procedures, medical training; these are only some of the numerous s...
 
@@ -41,7 +38,7 @@ For the sake of convenience we have divided the entire work into three volumes, 
 
 We have adopted the diagrams of surgical instruments from that most valuable work of the Thakore Saheb of Gondal, called the History of the Aryan Medical Science, for which I am particularly indebted to His Highness.
 
-In conclusion, we beg to convey our sincerest thanks to our preceptor’s son Kaviraj Jogendranath Sen Vidyabhusana M. A., Dr. U. D. Banerji L. R. C. P., M. R. C. S. (Lond), and Lt. Col. K. P. Gupta M. A., M. D., I. M. S., Professor Janakinath Bhattacarya M.A. B.L., P.R.S. for having kindly examined the different portions of the manuscript. I am grateful to Dr. Surendranath Gosvami B. A., L. M. S. too, for the kind interest he has all along taken indhe publication of this work and for various intelligent suggestions, which have been of considerable help to me.
+In summary, we beg to convey our sincerest thanks to our preceptor’s son Kaviraj Jogendranath Sen Vidyabhusana M. A., Dr. U. D. Banerji L. R. C. P., M. R. C. S. (Lond), and Lt. Col. K. P. Gupta M. A., M. D., I. M. S., Professor Janakinath Bhattacarya M.A. B.L., P.R.S. for having kindly examined the different portions of the manuscript. I am grateful to Dr. Surendranath Gosvami B. A., L. M. S. too, for the kind interest he has all along taken indhe publication of this work and for various intelligent suggestions, which have been of considerable help to me.
 
 My thanks are also due to numerous learned authors, ancient and modern from whose writings, I have found it necessary to make frequent quotations.
 

@@ -9,19 +9,11 @@ date: "2026-08-17"
 description: "study of a pharmacopoea of drugs prepared mainly from minerals—a pharmacopoea of a colossal magnitude, prepared, in pre-historic times, by the ancient Indians."
 ---
 
-**Author / Source:** by Bhudeb Mookerjee
-
-
-**Total Chapters/Sections:** 250
-
 ---
 
 ## 1. Preface
 
-
 Rasa Jala Nidhi, vol 3: Metals, Gems and other substances
-
-by Bhudeb Mookerjee | 1938 | 47,185 words | ISBN-10: 8170305829 | ISBN-13: 9788170305828
 
 This third volume of the Rasa-jala-nidhi deals with purification techniques of the Seven Metals (sapta-dhatu) and various Gems (ratna). It also deals with substances such as Alkalis (kshara), Salts (lavana), Poisions (visha) and Semi-poisions (upavisha) as well as various alcholic liquors.
 
@@ -64,10 +56,7 @@ This concludes ‘Preface’ included in Bhudeb Mookerjee Rasa Jala Nidhi, vol 3
 
 ## 2. Chapter I - Metals (1): Suvarna (Gold)
 
-
 Rasa Jala Nidhi, vol 3: Metals, Gems and other substances
-
-by Bhudeb Mookerjee | 1938 | 47,185 words | ISBN-10: 8170305829 | ISBN-13: 9788170305828
 
 This third volume of the Rasa-jala-nidhi deals with purification techniques of the Seven Metals (sapta-dhatu) and various Gems (ratna). It also deals with substances such as Alkalis (kshara), Salts (lavana), Poisions (visha) and Semi-poisions (upavisha) as well as various alcholic liquors.
 
@@ -85,17 +74,11 @@ This concludes ‘Metals (1): Suvarna (Gold)’ included in Bhudeb Mookerjee Ras
 
 ## 3. Introduction to Semi-poisons (upavisha)
 
-
 Rasa Jala Nidhi, vol 3: Metals, Gems and other substances
-
-by Bhudeb Mookerjee | 1938 | 47,185 words | ISBN-10: 8170305829 | ISBN-13: 9788170305828
 
 This third volume of the Rasa-jala-nidhi deals with purification techniques of the Seven Metals (sapta-dhatu) and various Gems (ratna). It also deals with substances such as Alkalis (kshara), Salts (lavana), Poisions (visha) and Semi-poisions (upavisha) as well as various alcholic liquors.
 
 The Rasa-jala-nidhi (“the ocean of Iatrochemistry, or, che...
-
-Go directly to: 
-Footnotes.
 
 Introduction to Semi-poisons (upavisha)
 
@@ -109,10 +92,6 @@ All the Semi-poisons are purified, if subjected to bhavana with the pancha-gavya
 
 They are also purified by being boiled with milk by means of a Dola-Yantra.
 
-Footnotes and references:
-
-[back to top]
-
 [1]:
 
 See page 76, Vol. I.
@@ -125,10 +104,7 @@ This concludes ‘Introduction to Semi-poisons (upavisha)’ included in Bhudeb 
 
 ## 4. Introduction to Poisons (visha)
 
-
 Rasa Jala Nidhi, vol 3: Metals, Gems and other substances
-
-by Bhudeb Mookerjee | 1938 | 47,185 words | ISBN-10: 8170305829 | ISBN-13: 9788170305828
 
 This third volume of the Rasa-jala-nidhi deals with purification techniques of the Seven Metals (sapta-dhatu) and various Gems (ratna). It also deals with substances such as Alkalis (kshara), Salts (lavana), Poisions (visha) and Semi-poisions (upavisha) as well as various alcholic liquors.
 
@@ -162,10 +138,7 @@ This concludes ‘Introduction to Poisons (visha)’ included in Bhudeb Mookerje
 
 ## 5. Introduction to Gems (ratna)
 
-
 Rasa Jala Nidhi, vol 3: Metals, Gems and other substances
-
-by Bhudeb Mookerjee | 1938 | 47,185 words | ISBN-10: 8170305829 | ISBN-13: 9788170305828
 
 This third volume of the Rasa-jala-nidhi deals with purification techniques of the Seven Metals (sapta-dhatu) and various Gems (ratna). It also deals with substances such as Alkalis (kshara), Salts (lavana), Poisions (visha) and Semi-poisions (upavisha) as well as various alcholic liquors.
 
@@ -265,10 +238,7 @@ This concludes ‘Introduction to Gems (ratna)’ included in Bhudeb Mookerjee R
 
 ## 6. Part 1 - Characteristics of Gold (suvarna)
 
-
 Rasa Jala Nidhi, vol 3: Metals, Gems and other substances
-
-by Bhudeb Mookerjee | 1938 | 47,185 words | ISBN-10: 8170305829 | ISBN-13: 9788170305828
 
 This third volume of the Rasa-jala-nidhi deals with purification techniques of the Seven Metals (sapta-dhatu) and various Gems (ratna). It also deals with substances such as Alkalis (kshara), Salts (lavana), Poisions (visha) and Semi-poisions (upavisha) as well as various alcholic liquors.
 
@@ -306,10 +276,7 @@ This concludes ‘Characteristics of Gold (suvarna)’ included in Bhudeb Mooker
 
 ## 7. Part 2 - Purification of gold
 
-
 Rasa Jala Nidhi, vol 3: Metals, Gems and other substances
-
-by Bhudeb Mookerjee | 1938 | 47,185 words | ISBN-10: 8170305829 | ISBN-13: 9788170305828
 
 This third volume of the Rasa-jala-nidhi deals with purification techniques of the Seven Metals (sapta-dhatu) and various Gems (ratna). It also deals with substances such as Alkalis (kshara), Salts (lavana), Poisions (visha) and Semi-poisions (upavisha) as well as various alcholic liquors.
 
@@ -357,10 +324,7 @@ This concludes ‘Purification of gold’ included in Bhudeb Mookerjee Rasa Jala
 
 ## 8. Part 3 - Incineration of gold
 
-
 Rasa Jala Nidhi, vol 3: Metals, Gems and other substances
-
-by Bhudeb Mookerjee | 1938 | 47,185 words | ISBN-10: 8170305829 | ISBN-13: 9788170305828
 
 This third volume of the Rasa-jala-nidhi deals with purification techniques of the Seven Metals (sapta-dhatu) and various Gems (ratna). It also deals with substances such as Alkalis (kshara), Salts (lavana), Poisions (visha) and Semi-poisions (upavisha) as well as various alcholic liquors.
 
@@ -482,10 +446,7 @@ This concludes ‘Incineration of gold’ included in Bhudeb Mookerjee Rasa Jala
 
 ## 9. Part 4 - Liquefaction of gold
 
-
 Rasa Jala Nidhi, vol 3: Metals, Gems and other substances
-
-by Bhudeb Mookerjee | 1938 | 47,185 words | ISBN-10: 8170305829 | ISBN-13: 9788170305828
 
 This third volume of the Rasa-jala-nidhi deals with purification techniques of the Seven Metals (sapta-dhatu) and various Gems (ratna). It also deals with substances such as Alkalis (kshara), Salts (lavana), Poisions (visha) and Semi-poisions (upavisha) as well as various alcholic liquors.
 
@@ -509,10 +470,7 @@ This concludes ‘Liquefaction of gold’ included in Bhudeb Mookerjee Rasa Jala
 
 ## 10. Chapter II - Metals (2): Raupya (silver)
 
-
 Rasa Jala Nidhi, vol 3: Metals, Gems and other substances
-
-by Bhudeb Mookerjee | 1938 | 47,185 words | ISBN-10: 8170305829 | ISBN-13: 9788170305828
 
 This third volume of the Rasa-jala-nidhi deals with purification techniques of the Seven Metals (sapta-dhatu) and various Gems (ratna). It also deals with substances such as Alkalis (kshara), Salts (lavana), Poisions (visha) and Semi-poisions (upavisha) as well as various alcholic liquors.
 
@@ -530,10 +488,7 @@ This concludes ‘Metals (2): Raupya (silver)’ included in Bhudeb Mookerjee Ra
 
 ## 11. Part 1 - Characteristics of Silver (raupya)
 
-
 Rasa Jala Nidhi, vol 3: Metals, Gems and other substances
-
-by Bhudeb Mookerjee | 1938 | 47,185 words | ISBN-10: 8170305829 | ISBN-13: 9788170305828
 
 This third volume of the Rasa-jala-nidhi deals with purification techniques of the Seven Metals (sapta-dhatu) and various Gems (ratna). It also deals with substances such as Alkalis (kshara), Salts (lavana), Poisions (visha) and Semi-poisions (upavisha) as well as various alcholic liquors.
 
@@ -581,10 +536,7 @@ This concludes ‘Characteristics of Silver (raupya)’ included in Bhudeb Mooke
 
 ## 12. Part 2 - Purification of silver
 
-
 Rasa Jala Nidhi, vol 3: Metals, Gems and other substances
-
-by Bhudeb Mookerjee | 1938 | 47,185 words | ISBN-10: 8170305829 | ISBN-13: 9788170305828
 
 This third volume of the Rasa-jala-nidhi deals with purification techniques of the Seven Metals (sapta-dhatu) and various Gems (ratna). It also deals with substances such as Alkalis (kshara), Salts (lavana), Poisions (visha) and Semi-poisions (upavisha) as well as various alcholic liquors.
 
@@ -620,10 +572,7 @@ This concludes ‘Purification of silver’ included in Bhudeb Mookerjee Rasa Ja
 
 ## 13. Part 3 - Incineration of silver
 
-
 Rasa Jala Nidhi, vol 3: Metals, Gems and other substances
-
-by Bhudeb Mookerjee | 1938 | 47,185 words | ISBN-10: 8170305829 | ISBN-13: 9788170305828
 
 This third volume of the Rasa-jala-nidhi deals with purification techniques of the Seven Metals (sapta-dhatu) and various Gems (ratna). It also deals with substances such as Alkalis (kshara), Salts (lavana), Poisions (visha) and Semi-poisions (upavisha) as well as various alcholic liquors.
 
@@ -693,25 +642,15 @@ This concludes ‘Incineration of silver’ included in Bhudeb Mookerjee Rasa Ja
 
 ## 14. Part 4 - Liquefaction of silver
 
-
 Rasa Jala Nidhi, vol 3: Metals, Gems and other substances
-
-by Bhudeb Mookerjee | 1938 | 47,185 words | ISBN-10: 8170305829 | ISBN-13: 9788170305828
 
 This third volume of the Rasa-jala-nidhi deals with purification techniques of the Seven Metals (sapta-dhatu) and various Gems (ratna). It also deals with substances such as Alkalis (kshara), Salts (lavana), Poisions (visha) and Semi-poisions (upavisha) as well as various alcholic liquors.
 
 The Rasa-jala-nidhi (“the ocean of Iatrochemistry, or, che...
 
-Go directly to: 
-Footnotes.
-
 Part 4 - Liquefaction of silver
 
 Gold and silver turn into liquid (without the application of heat), as soon as a little of devadali fruit, powdered finely, and subjected to bhavana for one hundred times[1], is thrown upon the metal.
-
-Footnotes and references:
-
-[back to top]
 
 [1]:
 
@@ -725,10 +664,7 @@ This concludes ‘Liquefaction of silver’ included in Bhudeb Mookerjee Rasa Ja
 
 ## 15. Chapter III - Metals (3): Tamra (copper)
 
-
 Rasa Jala Nidhi, vol 3: Metals, Gems and other substances
-
-by Bhudeb Mookerjee | 1938 | 47,185 words | ISBN-10: 8170305829 | ISBN-13: 9788170305828
 
 This third volume of the Rasa-jala-nidhi deals with purification techniques of the Seven Metals (sapta-dhatu) and various Gems (ratna). It also deals with substances such as Alkalis (kshara), Salts (lavana), Poisions (visha) and Semi-poisions (upavisha) as well as various alcholic liquors.
 
@@ -746,10 +682,7 @@ This concludes ‘Metals (3): Tamra (copper)’ included in Bhudeb Mookerjee Ras
 
 ## 16. Part 1 - Characteristics of Copper (tamra)
 
-
 Rasa Jala Nidhi, vol 3: Metals, Gems and other substances
-
-by Bhudeb Mookerjee | 1938 | 47,185 words | ISBN-10: 8170305829 | ISBN-13: 9788170305828
 
 This third volume of the Rasa-jala-nidhi deals with purification techniques of the Seven Metals (sapta-dhatu) and various Gems (ratna). It also deals with substances such as Alkalis (kshara), Salts (lavana), Poisions (visha) and Semi-poisions (upavisha) as well as various alcholic liquors.
 
@@ -785,10 +718,7 @@ This concludes ‘Characteristics of Copper (tamra)’ included in Bhudeb Mooker
 
 ## 17. Part 2 - Purification of copper
 
-
 Rasa Jala Nidhi, vol 3: Metals, Gems and other substances
-
-by Bhudeb Mookerjee | 1938 | 47,185 words | ISBN-10: 8170305829 | ISBN-13: 9788170305828
 
 This third volume of the Rasa-jala-nidhi deals with purification techniques of the Seven Metals (sapta-dhatu) and various Gems (ratna). It also deals with substances such as Alkalis (kshara), Salts (lavana), Poisions (visha) and Semi-poisions (upavisha) as well as various alcholic liquors.
 
@@ -828,17 +758,11 @@ This concludes ‘Purification of copper’ included in Bhudeb Mookerjee Rasa Ja
 
 ## 18. Part 3 - Incineration of copper
 
-
 Rasa Jala Nidhi, vol 3: Metals, Gems and other substances
-
-by Bhudeb Mookerjee | 1938 | 47,185 words | ISBN-10: 8170305829 | ISBN-13: 9788170305828
 
 This third volume of the Rasa-jala-nidhi deals with purification techniques of the Seven Metals (sapta-dhatu) and various Gems (ratna). It also deals with substances such as Alkalis (kshara), Salts (lavana), Poisions (visha) and Semi-poisions (upavisha) as well as various alcholic liquors.
 
 The Rasa-jala-nidhi (“the ocean of Iatrochemistry, or, che...
-
-Go directly to: 
-Footnotes.
 
 Part 3 - Incineration of copper
 
@@ -902,10 +826,6 @@ Use of incinerated copper (2)
 
 Incinerated copper rubbed with honey and ginger juice, taken in the morning, in doses of two ractis a day, cures all sorts of udara-roga.
 
-Footnotes and references:
-
-[back to top]
-
 [1]:
 
 See page 2 59, Vol. I.
@@ -918,10 +838,7 @@ This concludes ‘Incineration of copper’ included in Bhudeb Mookerjee Rasa Ja
 
 ## 19. Part 1 - Characteristics of Iron (lauha)
 
-
 Rasa Jala Nidhi, vol 3: Metals, Gems and other substances
-
-by Bhudeb Mookerjee | 1938 | 47,185 words | ISBN-10: 8170305829 | ISBN-13: 9788170305828
 
 This third volume of the Rasa-jala-nidhi deals with purification techniques of the Seven Metals (sapta-dhatu) and various Gems (ratna). It also deals with substances such as Alkalis (kshara), Salts (lavana), Poisions (visha) and Semi-poisions (upavisha) as well as various alcholic liquors.
 
@@ -965,10 +882,7 @@ This concludes ‘Characteristics of Iron (lauha)’ included in Bhudeb Mookerje
 
 ## 20. Part 2 - Iron variety (a): Munda (ordinary iron)
 
-
 Rasa Jala Nidhi, vol 3: Metals, Gems and other substances
-
-by Bhudeb Mookerjee | 1938 | 47,185 words | ISBN-10: 8170305829 | ISBN-13: 9788170305828
 
 This third volume of the Rasa-jala-nidhi deals with purification techniques of the Seven Metals (sapta-dhatu) and various Gems (ratna). It also deals with substances such as Alkalis (kshara), Salts (lavana), Poisions (visha) and Semi-poisions (upavisha) as well as various alcholic liquors.
 
@@ -998,10 +912,7 @@ This concludes ‘Iron variety (a): Munda (ordinary iron)’ included in Bhudeb 
 
 ## 21. Chapter IV - Metals (4): Lauha (iron)
 
-
 Rasa Jala Nidhi, vol 3: Metals, Gems and other substances
-
-by Bhudeb Mookerjee | 1938 | 47,185 words | ISBN-10: 8170305829 | ISBN-13: 9788170305828
 
 This third volume of the Rasa-jala-nidhi deals with purification techniques of the Seven Metals (sapta-dhatu) and various Gems (ratna). It also deals with substances such as Alkalis (kshara), Salts (lavana), Poisions (visha) and Semi-poisions (upavisha) as well as various alcholic liquors.
 
@@ -1019,17 +930,11 @@ This concludes ‘Metals (4): Lauha (iron)’ included in Bhudeb Mookerjee Rasa 
 
 ## 22. Part 3 - Iron variety (b): Tikshna iron
 
-
 Rasa Jala Nidhi, vol 3: Metals, Gems and other substances
-
-by Bhudeb Mookerjee | 1938 | 47,185 words | ISBN-10: 8170305829 | ISBN-13: 9788170305828
 
 This third volume of the Rasa-jala-nidhi deals with purification techniques of the Seven Metals (sapta-dhatu) and various Gems (ratna). It also deals with substances such as Alkalis (kshara), Salts (lavana), Poisions (visha) and Semi-poisions (upavisha) as well as various alcholic liquors.
 
 The Rasa-jala-nidhi (“the ocean of Iatrochemistry, or, che...
-
-Go directly to: 
-Footnotes.
 
 Part 3 - Iron variety (b): Tikshna iron
 
@@ -1067,10 +972,6 @@ Properties of tikshna iron.
 
 (2) Sara iron cures the following diseases, if taken in the prescribed way—diarrhoea, both chronic and acute, paralysis affecting the whole or half of the body, colic felt at the time of digesting food, nausea, pinasa, diseases due to an excess of pitta, asthma, and cough.
 
-Footnotes and references:
-
-[back to top]
-
 [1]:
 
 Import of cheaper iron products from foreign countries has led to the total ruin of iron industry of an indigenous character in India. The last generation of iron smiths who were acquainted with the different kinds of iron, as described here, became totally extinct about 50 years back. The classification, as given here, has therefore nothing but a historical interest for us.
@@ -1095,17 +996,11 @@ This concludes ‘Iron variety (b): Tikshna iron’ included in Bhudeb Mookerjee
 
 ## 23. Part 4 - Iron variety (c): Kanta iron
 
-
 Rasa Jala Nidhi, vol 3: Metals, Gems and other substances
-
-by Bhudeb Mookerjee | 1938 | 47,185 words | ISBN-10: 8170305829 | ISBN-13: 9788170305828
 
 This third volume of the Rasa-jala-nidhi deals with purification techniques of the Seven Metals (sapta-dhatu) and various Gems (ratna). It also deals with substances such as Alkalis (kshara), Salts (lavana), Poisions (visha) and Semi-poisions (upavisha) as well as various alcholic liquors.
 
 The Rasa-jala-nidhi (“the ocean of Iatrochemistry, or, che...
-
-Go directly to: 
-Footnotes.
 
 Part 4 - Iron variety (c): Kanta iron
 
@@ -1137,10 +1032,6 @@ Properties of kanta.
 
 Kanta iron is bitter in taste, warm in touch, but produces a cooling effect in the system. It is a good rasayana (i.e. a medicine which, if used in the prescribed manner, can prevent and cure diseases and senility). It imparts long life to a healthy man (who takes it regularly). It is soothing. If taken with suitable anupana, it can cure all the diseases, especially, spermatorrhoea, colic, dysentery, excess of the three doshas, piles, fistula, gulma, enlargement of the spleen and liver, phthisis, jaundice, and udara-roga.
 
-Footnotes and references:
-
-[back to top]
-
 [1]:
 
 It is an ore found in nature and is, therefore, to be distinguished from a kind of Philosopher’s stone that can be prepared (vide page 235, Vol. I).
@@ -1153,10 +1044,7 @@ This concludes ‘Iron variety (c): Kanta iron’ included in Bhudeb Mookerjee R
 
 ## 24. Part 5 - Purification of iron
 
-
 Rasa Jala Nidhi, vol 3: Metals, Gems and other substances
-
-by Bhudeb Mookerjee | 1938 | 47,185 words | ISBN-10: 8170305829 | ISBN-13: 9788170305828
 
 This third volume of the Rasa-jala-nidhi deals with purification techniques of the Seven Metals (sapta-dhatu) and various Gems (ratna). It also deals with substances such as Alkalis (kshara), Salts (lavana), Poisions (visha) and Semi-poisions (upavisha) as well as various alcholic liquors.
 
@@ -1278,10 +1166,7 @@ This concludes ‘Purification of iron’ included in Bhudeb Mookerjee Rasa Jala
 
 ## 25. Part 6 - Incineration of iron (1-25)
 
-
 Rasa Jala Nidhi, vol 3: Metals, Gems and other substances
-
-by Bhudeb Mookerjee | 1938 | 47,185 words | ISBN-10: 8170305829 | ISBN-13: 9788170305828
 
 This third volume of the Rasa-jala-nidhi deals with purification techniques of the Seven Metals (sapta-dhatu) and various Gems (ratna). It also deals with substances such as Alkalis (kshara), Salts (lavana), Poisions (visha) and Semi-poisions (upavisha) as well as various alcholic liquors.
 
@@ -1409,10 +1294,7 @@ This concludes ‘Incineration of iron (1-25)’ included in Bhudeb Mookerjee Ra
 
 ## 26. Part 7 - Incineration of iron (26)
 
-
 Rasa Jala Nidhi, vol 3: Metals, Gems and other substances
-
-by Bhudeb Mookerjee | 1938 | 47,185 words | ISBN-10: 8170305829 | ISBN-13: 9788170305828
 
 This third volume of the Rasa-jala-nidhi deals with purification techniques of the Seven Metals (sapta-dhatu) and various Gems (ratna). It also deals with substances such as Alkalis (kshara), Salts (lavana), Poisions (visha) and Semi-poisions (upavisha) as well as various alcholic liquors.
 
@@ -1498,17 +1380,11 @@ This concludes ‘Incineration of iron (26)’ included in Bhudeb Mookerjee Rasa
 
 ## 27. Part 8 - Incineration of iron (27-34)
 
-
 Rasa Jala Nidhi, vol 3: Metals, Gems and other substances
-
-by Bhudeb Mookerjee | 1938 | 47,185 words | ISBN-10: 8170305829 | ISBN-13: 9788170305828
 
 This third volume of the Rasa-jala-nidhi deals with purification techniques of the Seven Metals (sapta-dhatu) and various Gems (ratna). It also deals with substances such as Alkalis (kshara), Salts (lavana), Poisions (visha) and Semi-poisions (upavisha) as well as various alcholic liquors.
 
 The Rasa-jala-nidhi (“the ocean of Iatrochemistry, or, che...
-
-Go directly to: 
-Footnotes.
 
 Part 8 - Incineration of iron (27-34)
 
@@ -1566,10 +1442,6 @@ Thirty-fourth process (Sudha Sagara Lauha)
 
 Iron is to be rubbed during certain part of the day with the juice of the leaves of any tree, herb, or grass. It is then to be dried by the sun and then heated by puta at night. This process is to be performed for 4380 days, juice of leaves of a new tree, herb, or grass being used each of these days. In other words, the iron is to be heated by puta for 4380 times, after having been rubbed each time with the juice of the leaves of a tree, herb, or grass, which is to be used in this way for one day only, so that 4380 different kinds of vegetable juices are required to complete the process. The tree, herb, or grass which has once been used must not be used for the second time. The iron, thus incinerated, has the property of rejuvenating an old man. It causes the growth of new teeth in place of fallen ones, even in old age; turns grey hair black; and makes the skin of an old man as tight as in youth. Ripe fruit turns green, if a grain of this iron is kept for a few hours inside the former. One dose of this medicine is to be taken once in every 20 years.
 
-Footnotes and references:
-
-[back to top]
-
 [1]:
 
 See page 293 and 296, Vol, I.
@@ -1586,10 +1458,7 @@ This concludes ‘Incineration of iron (27-34)’ included in Bhudeb Mookerjee R
 
 ## 28. Part 9 - Test of incinerated iron
 
-
 Rasa Jala Nidhi, vol 3: Metals, Gems and other substances
-
-by Bhudeb Mookerjee | 1938 | 47,185 words | ISBN-10: 8170305829 | ISBN-13: 9788170305828
 
 This third volume of the Rasa-jala-nidhi deals with purification techniques of the Seven Metals (sapta-dhatu) and various Gems (ratna). It also deals with substances such as Alkalis (kshara), Salts (lavana), Poisions (visha) and Semi-poisions (upavisha) as well as various alcholic liquors.
 
@@ -1607,10 +1476,7 @@ This concludes ‘Test of incinerated iron’ included in Bhudeb Mookerjee Rasa 
 
 ## 29. Part 10 - How to deprive the ashes of iron of the power of being restored to their original condition
 
-
 Rasa Jala Nidhi, vol 3: Metals, Gems and other substances
-
-by Bhudeb Mookerjee | 1938 | 47,185 words | ISBN-10: 8170305829 | ISBN-13: 9788170305828
 
 This third volume of the Rasa-jala-nidhi deals with purification techniques of the Seven Metals (sapta-dhatu) and various Gems (ratna). It also deals with substances such as Alkalis (kshara), Salts (lavana), Poisions (visha) and Semi-poisions (upavisha) as well as various alcholic liquors.
 
@@ -1630,10 +1496,7 @@ This concludes ‘How to deprive the ashes of iron of the power of being restore
 
 ## 30. Part 11 - Nectarization of incinerated iron
 
-
 Rasa Jala Nidhi, vol 3: Metals, Gems and other substances
-
-by Bhudeb Mookerjee | 1938 | 47,185 words | ISBN-10: 8170305829 | ISBN-13: 9788170305828
 
 This third volume of the Rasa-jala-nidhi deals with purification techniques of the Seven Metals (sapta-dhatu) and various Gems (ratna). It also deals with substances such as Alkalis (kshara), Salts (lavana), Poisions (visha) and Semi-poisions (upavisha) as well as various alcholic liquors.
 
@@ -1671,10 +1534,7 @@ This concludes ‘Nectarization of incinerated iron’ included in Bhudeb Mooker
 
 ## 31. Part 12 - Dosage of taking iron
 
-
 Rasa Jala Nidhi, vol 3: Metals, Gems and other substances
-
-by Bhudeb Mookerjee | 1938 | 47,185 words | ISBN-10: 8170305829 | ISBN-13: 9788170305828
 
 This third volume of the Rasa-jala-nidhi deals with purification techniques of the Seven Metals (sapta-dhatu) and various Gems (ratna). It also deals with substances such as Alkalis (kshara), Salts (lavana), Poisions (visha) and Semi-poisions (upavisha) as well as various alcholic liquors.
 
@@ -1692,10 +1552,7 @@ This concludes ‘Dosage of taking iron’ included in Bhudeb Mookerjee Rasa Jal
 
 ## 32. Part 13 - Anupanas (accompaniments of iron)
 
-
 Rasa Jala Nidhi, vol 3: Metals, Gems and other substances
-
-by Bhudeb Mookerjee | 1938 | 47,185 words | ISBN-10: 8170305829 | ISBN-13: 9788170305828
 
 This third volume of the Rasa-jala-nidhi deals with purification techniques of the Seven Metals (sapta-dhatu) and various Gems (ratna). It also deals with substances such as Alkalis (kshara), Salts (lavana), Poisions (visha) and Semi-poisions (upavisha) as well as various alcholic liquors.
 
@@ -1725,10 +1582,7 @@ This concludes ‘Anupanas (accompaniments of iron)’ included in Bhudeb Mooker
 
 ## 33. Part 14 - Dietary presecriptions and prohibitions when taking iron
 
-
 Rasa Jala Nidhi, vol 3: Metals, Gems and other substances
-
-by Bhudeb Mookerjee | 1938 | 47,185 words | ISBN-10: 8170305829 | ISBN-13: 9788170305828
 
 This third volume of the Rasa-jala-nidhi deals with purification techniques of the Seven Metals (sapta-dhatu) and various Gems (ratna). It also deals with substances such as Alkalis (kshara), Salts (lavana), Poisions (visha) and Semi-poisions (upavisha) as well as various alcholic liquors.
 
@@ -1760,10 +1614,7 @@ This concludes ‘Dietary presecriptions and prohibitions when taking iron’ in
 
 ## 34. Part 15 - Siddhi sara
 
-
 Rasa Jala Nidhi, vol 3: Metals, Gems and other substances
-
-by Bhudeb Mookerjee | 1938 | 47,185 words | ISBN-10: 8170305829 | ISBN-13: 9788170305828
 
 This third volume of the Rasa-jala-nidhi deals with purification techniques of the Seven Metals (sapta-dhatu) and various Gems (ratna). It also deals with substances such as Alkalis (kshara), Salts (lavana), Poisions (visha) and Semi-poisions (upavisha) as well as various alcholic liquors.
 
@@ -1781,10 +1632,7 @@ This concludes ‘Siddhi sara’ included in Bhudeb Mookerjee Rasa Jala Nidhi, v
 
 ## 35. Part 16 - Evil effects of taking iron not properly incinerated
 
-
 Rasa Jala Nidhi, vol 3: Metals, Gems and other substances
-
-by Bhudeb Mookerjee | 1938 | 47,185 words | ISBN-10: 8170305829 | ISBN-13: 9788170305828
 
 This third volume of the Rasa-jala-nidhi deals with purification techniques of the Seven Metals (sapta-dhatu) and various Gems (ratna). It also deals with substances such as Alkalis (kshara), Salts (lavana), Poisions (visha) and Semi-poisions (upavisha) as well as various alcholic liquors.
 
@@ -1808,10 +1656,7 @@ This concludes ‘Evil effects of taking iron not properly incinerated’ includ
 
 ## 36. Part 17 - Liquefaction of iron
 
-
 Rasa Jala Nidhi, vol 3: Metals, Gems and other substances
-
-by Bhudeb Mookerjee | 1938 | 47,185 words | ISBN-10: 8170305829 | ISBN-13: 9788170305828
 
 This third volume of the Rasa-jala-nidhi deals with purification techniques of the Seven Metals (sapta-dhatu) and various Gems (ratna). It also deals with substances such as Alkalis (kshara), Salts (lavana), Poisions (visha) and Semi-poisions (upavisha) as well as various alcholic liquors.
 
@@ -1833,10 +1678,7 @@ This concludes ‘Liquefaction of iron’ included in Bhudeb Mookerjee Rasa Jala
 
 ## 37. Part 18 - Iron variety (d): Mandura iron
 
-
 Rasa Jala Nidhi, vol 3: Metals, Gems and other substances
-
-by Bhudeb Mookerjee | 1938 | 47,185 words | ISBN-10: 8170305829 | ISBN-13: 9788170305828
 
 This third volume of the Rasa-jala-nidhi deals with purification techniques of the Seven Metals (sapta-dhatu) and various Gems (ratna). It also deals with substances such as Alkalis (kshara), Salts (lavana), Poisions (visha) and Semi-poisions (upavisha) as well as various alcholic liquors.
 
@@ -1864,10 +1706,7 @@ This concludes ‘Iron variety (d): Mandura iron’ included in Bhudeb Mookerjee
 
 ## 38. Part 19 - Incineration of mandura
 
-
 Rasa Jala Nidhi, vol 3: Metals, Gems and other substances
-
-by Bhudeb Mookerjee | 1938 | 47,185 words | ISBN-10: 8170305829 | ISBN-13: 9788170305828
 
 This third volume of the Rasa-jala-nidhi deals with purification techniques of the Seven Metals (sapta-dhatu) and various Gems (ratna). It also deals with substances such as Alkalis (kshara), Salts (lavana), Poisions (visha) and Semi-poisions (upavisha) as well as various alcholic liquors.
 
@@ -1895,10 +1734,7 @@ This concludes ‘Incineration of mandura’ included in Bhudeb Mookerjee Rasa J
 
 ## 39. Part 20 - Use of mandura
 
-
 Rasa Jala Nidhi, vol 3: Metals, Gems and other substances
-
-by Bhudeb Mookerjee | 1938 | 47,185 words | ISBN-10: 8170305829 | ISBN-13: 9788170305828
 
 This third volume of the Rasa-jala-nidhi deals with purification techniques of the Seven Metals (sapta-dhatu) and various Gems (ratna). It also deals with substances such as Alkalis (kshara), Salts (lavana), Poisions (visha) and Semi-poisions (upavisha) as well as various alcholic liquors.
 
@@ -1916,10 +1752,7 @@ This concludes ‘Use of mandura’ included in Bhudeb Mookerjee Rasa Jala Nidhi
 
 ## 40. Part 21 - Liquefaction of mandura
 
-
 Rasa Jala Nidhi, vol 3: Metals, Gems and other substances
-
-by Bhudeb Mookerjee | 1938 | 47,185 words | ISBN-10: 8170305829 | ISBN-13: 9788170305828
 
 This third volume of the Rasa-jala-nidhi deals with purification techniques of the Seven Metals (sapta-dhatu) and various Gems (ratna). It also deals with substances such as Alkalis (kshara), Salts (lavana), Poisions (visha) and Semi-poisions (upavisha) as well as various alcholic liquors.
 
@@ -1937,10 +1770,7 @@ This concludes ‘Liquefaction of mandura’ included in Bhudeb Mookerjee Rasa J
 
 ## 41. Chapter V - Metals (5): Yasoda (zinc)
 
-
 Rasa Jala Nidhi, vol 3: Metals, Gems and other substances
-
-by Bhudeb Mookerjee | 1938 | 47,185 words | ISBN-10: 8170305829 | ISBN-13: 9788170305828
 
 This third volume of the Rasa-jala-nidhi deals with purification techniques of the Seven Metals (sapta-dhatu) and various Gems (ratna). It also deals with substances such as Alkalis (kshara), Salts (lavana), Poisions (visha) and Semi-poisions (upavisha) as well as various alcholic liquors.
 
@@ -1958,10 +1788,7 @@ This concludes ‘Metals (5): Yasoda (zinc)’ included in Bhudeb Mookerjee Rasa
 
 ## 42. Part 1 - Characteristics of Zinc (yasoda)
 
-
 Rasa Jala Nidhi, vol 3: Metals, Gems and other substances
-
-by Bhudeb Mookerjee | 1938 | 47,185 words | ISBN-10: 8170305829 | ISBN-13: 9788170305828
 
 This third volume of the Rasa-jala-nidhi deals with purification techniques of the Seven Metals (sapta-dhatu) and various Gems (ratna). It also deals with substances such as Alkalis (kshara), Salts (lavana), Poisions (visha) and Semi-poisions (upavisha) as well as various alcholic liquors.
 
@@ -1983,10 +1810,7 @@ This concludes ‘Characteristics of Zinc (yasoda)’ included in Bhudeb Mookerj
 
 ## 43. Part 2 - Purification of Yasoda
 
-
 Rasa Jala Nidhi, vol 3: Metals, Gems and other substances
-
-by Bhudeb Mookerjee | 1938 | 47,185 words | ISBN-10: 8170305829 | ISBN-13: 9788170305828
 
 This third volume of the Rasa-jala-nidhi deals with purification techniques of the Seven Metals (sapta-dhatu) and various Gems (ratna). It also deals with substances such as Alkalis (kshara), Salts (lavana), Poisions (visha) and Semi-poisions (upavisha) as well as various alcholic liquors.
 
@@ -2010,17 +1834,11 @@ This concludes ‘Purification of Yasoda’ included in Bhudeb Mookerjee Rasa Ja
 
 ## 44. Part 3 - Incineration of Yasoda
 
-
 Rasa Jala Nidhi, vol 3: Metals, Gems and other substances
-
-by Bhudeb Mookerjee | 1938 | 47,185 words | ISBN-10: 8170305829 | ISBN-13: 9788170305828
 
 This third volume of the Rasa-jala-nidhi deals with purification techniques of the Seven Metals (sapta-dhatu) and various Gems (ratna). It also deals with substances such as Alkalis (kshara), Salts (lavana), Poisions (visha) and Semi-poisions (upavisha) as well as various alcholic liquors.
 
 The Rasa-jala-nidhi (“the ocean of Iatrochemistry, or, che...
-
-Go directly to: 
-Footnotes.
 
 Part 3 - Incineration of Yasoda
 
@@ -2038,10 +1856,6 @@ Fine leaves of zinc are incinerated, if they are subjected to heat by Gajaputa f
 
 Zinc may also be purified and incinerated in the same manner as vanga (tin) and sisaka (lead)[1].
 
-Footnotes and references:
-
-[back to top]
-
 [1]:
 
 See page 102.
@@ -2054,10 +1868,7 @@ This concludes ‘Incineration of Yasoda’ included in Bhudeb Mookerjee Rasa Ja
 
 ## 45. Part 4 - Taking of Yasoda
 
-
 Rasa Jala Nidhi, vol 3: Metals, Gems and other substances
-
-by Bhudeb Mookerjee | 1938 | 47,185 words | ISBN-10: 8170305829 | ISBN-13: 9788170305828
 
 This third volume of the Rasa-jala-nidhi deals with purification techniques of the Seven Metals (sapta-dhatu) and various Gems (ratna). It also deals with substances such as Alkalis (kshara), Salts (lavana), Poisions (visha) and Semi-poisions (upavisha) as well as various alcholic liquors.
 
@@ -2089,10 +1900,7 @@ This concludes ‘Taking of Yasoda’ included in Bhudeb Mookerjee Rasa Jala Nid
 
 ## 46. Chapter VI - Metals (6): Vanga (tin)
 
-
 Rasa Jala Nidhi, vol 3: Metals, Gems and other substances
-
-by Bhudeb Mookerjee | 1938 | 47,185 words | ISBN-10: 8170305829 | ISBN-13: 9788170305828
 
 This third volume of the Rasa-jala-nidhi deals with purification techniques of the Seven Metals (sapta-dhatu) and various Gems (ratna). It also deals with substances such as Alkalis (kshara), Salts (lavana), Poisions (visha) and Semi-poisions (upavisha) as well as various alcholic liquors.
 
@@ -2110,10 +1918,7 @@ This concludes ‘Metals (6): Vanga (tin)’ included in Bhudeb Mookerjee Rasa J
 
 ## 47. Part 1 - Characteristics of Tin (vanga)
 
-
 Rasa Jala Nidhi, vol 3: Metals, Gems and other substances
-
-by Bhudeb Mookerjee | 1938 | 47,185 words | ISBN-10: 8170305829 | ISBN-13: 9788170305828
 
 This third volume of the Rasa-jala-nidhi deals with purification techniques of the Seven Metals (sapta-dhatu) and various Gems (ratna). It also deals with substances such as Alkalis (kshara), Salts (lavana), Poisions (visha) and Semi-poisions (upavisha) as well as various alcholic liquors.
 
@@ -2135,10 +1940,7 @@ This concludes ‘Characteristics of Tin (vanga)’ included in Bhudeb Mookerjee
 
 ## 48. Part 2 - Purification of tin
 
-
 Rasa Jala Nidhi, vol 3: Metals, Gems and other substances
-
-by Bhudeb Mookerjee | 1938 | 47,185 words | ISBN-10: 8170305829 | ISBN-13: 9788170305828
 
 This third volume of the Rasa-jala-nidhi deals with purification techniques of the Seven Metals (sapta-dhatu) and various Gems (ratna). It also deals with substances such as Alkalis (kshara), Salts (lavana), Poisions (visha) and Semi-poisions (upavisha) as well as various alcholic liquors.
 
@@ -2178,10 +1980,7 @@ This concludes ‘Purification of tin’ included in Bhudeb Mookerjee Rasa Jala 
 
 ## 49. Part 3 - Incineration of tin
 
-
 Rasa Jala Nidhi, vol 3: Metals, Gems and other substances
-
-by Bhudeb Mookerjee | 1938 | 47,185 words | ISBN-10: 8170305829 | ISBN-13: 9788170305828
 
 This third volume of the Rasa-jala-nidhi deals with purification techniques of the Seven Metals (sapta-dhatu) and various Gems (ratna). It also deals with substances such as Alkalis (kshara), Salts (lavana), Poisions (visha) and Semi-poisions (upavisha) as well as various alcholic liquors.
 
@@ -2253,17 +2052,11 @@ This concludes ‘Incineration of tin’ included in Bhudeb Mookerjee Rasa Jala 
 
 ## 50. Part 4 - Vanga-kalpa
 
-
 Rasa Jala Nidhi, vol 3: Metals, Gems and other substances
-
-by Bhudeb Mookerjee | 1938 | 47,185 words | ISBN-10: 8170305829 | ISBN-13: 9788170305828
 
 This third volume of the Rasa-jala-nidhi deals with purification techniques of the Seven Metals (sapta-dhatu) and various Gems (ratna). It also deals with substances such as Alkalis (kshara), Salts (lavana), Poisions (visha) and Semi-poisions (upavisha) as well as various alcholic liquors.
 
 The Rasa-jala-nidhi (“the ocean of Iatrochemistry, or, che...
-
-Go directly to: 
-Footnotes.
 
 Part 4 - Vanga-kalpa
 
@@ -2272,10 +2065,6 @@ Tin, kanta iron, and mica—all equal In quantities and reduced to ashes, are to
 The product is then to be rubbed for eight days with guggulu (duly purified by means of being boiled in a Dola-yantra with the decoction of guruchi, dasha-muli, or triphala), dissolved with water. It is then to be dried, powdered, and mixed with an equal quantity of gum of babbula (acacia), fried by heat and reduced to powder, and with the same quantity of the powder of akuli (nirmali) seeds. The whole thing is then to be finely powdered and sifted by means of a piece of cloth and kept carefully. This medicine cures all sorts of meha and prameha, if taken with the juice of turmeric, pestled with butter-milk (prepared from cow’s milk).
 
 This preparation of ranga, taken in doses of 12 raktis a day, serves as a destroyer and preventer of senility. It also cures all sorts of diseases relating to the semen. The following diet should be taken by the user of the preparation:—shall rice, juice of mudga pulses, butter, sesamum oil, patola, gopala-karkati, and butter milk.
-
-Footnotes and references:
-
-[back to top]
 
 [1]:
 
@@ -2289,10 +2078,7 @@ This concludes ‘Vanga-kalpa’ included in Bhudeb Mookerjee Rasa Jala Nidhi, v
 
 ## 51. Part 5 - Taking of tin
 
-
 Rasa Jala Nidhi, vol 3: Metals, Gems and other substances
-
-by Bhudeb Mookerjee | 1938 | 47,185 words | ISBN-10: 8170305829 | ISBN-13: 9788170305828
 
 This third volume of the Rasa-jala-nidhi deals with purification techniques of the Seven Metals (sapta-dhatu) and various Gems (ratna). It also deals with substances such as Alkalis (kshara), Salts (lavana), Poisions (visha) and Semi-poisions (upavisha) as well as various alcholic liquors.
 
@@ -2322,10 +2108,7 @@ This concludes ‘Taking of tin’ included in Bhudeb Mookerjee Rasa Jala Nidhi,
 
 ## 52. Chapter VII - Metals (7): Sisaka (lead)
 
-
 Rasa Jala Nidhi, vol 3: Metals, Gems and other substances
-
-by Bhudeb Mookerjee | 1938 | 47,185 words | ISBN-10: 8170305829 | ISBN-13: 9788170305828
 
 This third volume of the Rasa-jala-nidhi deals with purification techniques of the Seven Metals (sapta-dhatu) and various Gems (ratna). It also deals with substances such as Alkalis (kshara), Salts (lavana), Poisions (visha) and Semi-poisions (upavisha) as well as various alcholic liquors.
 
@@ -2343,10 +2126,7 @@ This concludes ‘Metals (7): Sisaka (lead)’ included in Bhudeb Mookerjee Rasa
 
 ## 53. Part 1 - Characteristics of Lead (sisaka)
 
-
 Rasa Jala Nidhi, vol 3: Metals, Gems and other substances
-
-by Bhudeb Mookerjee | 1938 | 47,185 words | ISBN-10: 8170305829 | ISBN-13: 9788170305828
 
 This third volume of the Rasa-jala-nidhi deals with purification techniques of the Seven Metals (sapta-dhatu) and various Gems (ratna). It also deals with substances such as Alkalis (kshara), Salts (lavana), Poisions (visha) and Semi-poisions (upavisha) as well as various alcholic liquors.
 
@@ -2378,10 +2158,7 @@ This concludes ‘Characteristics of Lead (sisaka)’ included in Bhudeb Mookerj
 
 ## 54. Part 2 - Purification of Lead
 
-
 Rasa Jala Nidhi, vol 3: Metals, Gems and other substances
-
-by Bhudeb Mookerjee | 1938 | 47,185 words | ISBN-10: 8170305829 | ISBN-13: 9788170305828
 
 This third volume of the Rasa-jala-nidhi deals with purification techniques of the Seven Metals (sapta-dhatu) and various Gems (ratna). It also deals with substances such as Alkalis (kshara), Salts (lavana), Poisions (visha) and Semi-poisions (upavisha) as well as various alcholic liquors.
 
@@ -2425,17 +2202,11 @@ This concludes ‘Purification of Lead’ included in Bhudeb Mookerjee Rasa Jala
 
 ## 55. Part 3 - Incineration of Lead
 
-
 Rasa Jala Nidhi, vol 3: Metals, Gems and other substances
-
-by Bhudeb Mookerjee | 1938 | 47,185 words | ISBN-10: 8170305829 | ISBN-13: 9788170305828
 
 This third volume of the Rasa-jala-nidhi deals with purification techniques of the Seven Metals (sapta-dhatu) and various Gems (ratna). It also deals with substances such as Alkalis (kshara), Salts (lavana), Poisions (visha) and Semi-poisions (upavisha) as well as various alcholic liquors.
 
 The Rasa-jala-nidhi (“the ocean of Iatrochemistry, or, che...
-
-Go directly to: 
-Footnotes.
 
 Part 3 - Incineration of Lead
 
@@ -2515,10 +2286,6 @@ Eighteenth process.
 
 Lead is to be dried after having been smeared with one fourth its quantity of vasaka leaves rubbed with earthworms. It is then to be melted and kept in a strong pot. Ksharas of vasaka and apamarga are to be rubbed with the leaves of vasaka and then heated for three hours by fire. These ksharas are to be mixed well with the lead (finely powdered). The powder, thus prepared, is to be subjected to heat by puta for 21 times, after having been mixed each time with manas-shila, svarnamakshika, and kshara of vasaka, these three combined being equal to the original quantity of the lead. The product is again to be subjected twice to heat by puta after having been rubbed each time with the juice of vasaka. The product is red vermilion.
 
-Footnotes and references:
-
-[back to top]
-
 [1]:
 
 The process of preparation of ksharas will be described later in the present volume.
@@ -2531,17 +2298,11 @@ This concludes ‘Incineration of Lead’ included in Bhudeb Mookerjee Rasa Jala
 
 ## 56. Part 4 - Nectarization of lead
 
-
 Rasa Jala Nidhi, vol 3: Metals, Gems and other substances
-
-by Bhudeb Mookerjee | 1938 | 47,185 words | ISBN-10: 8170305829 | ISBN-13: 9788170305828
 
 This third volume of the Rasa-jala-nidhi deals with purification techniques of the Seven Metals (sapta-dhatu) and various Gems (ratna). It also deals with substances such as Alkalis (kshara), Salts (lavana), Poisions (visha) and Semi-poisions (upavisha) as well as various alcholic liquors.
 
 The Rasa-jala-nidhi (“the ocean of Iatrochemistry, or, che...
-
-Go directly to: 
-Footnotes.
 
 Part 4 - Nectarization of lead
 
@@ -2550,10 +2311,6 @@ Part 4 - Nectarization of lead
 (2) Four parts of incinerated lead, two parts of svarna-makshika, and one part each of copper, vimala, kanta iron, essence of mica, and sphatika (quartz) [1]—all of these are to be powdered together and subjected to heat by puta for 30 times, by means of a fire made of 30 pieces of cow-dung cakes, found dried in the pasturage, after having been rubbed each time with decoction of triphala. The ashes, thus prepared, are to be mixed with an equal quantity of trikatu and biranga, finely powdered, and are to be taken in doses of one balla a day, duly mixed with a little of honey and clarified butter.
 
 It cures eighty different kinds of diseases due to an abnormal excess of vayu, and especially dhanus-stanbha (titanus), those due to an abnormal excess of phlegm, all sorts of urinary diseases, asthma, kapha, phthisis, anemia, dropsy, fever accompanied with a sensation of coldness, and hydrocele.
-
-Footnotes and references:
-
-[back to top]
 
 [1]:
 
@@ -2567,10 +2324,7 @@ This concludes ‘Nectarization of lead’ included in Bhudeb Mookerjee Rasa Jal
 
 ## 57. Part 5 - Taking of lead
 
-
 Rasa Jala Nidhi, vol 3: Metals, Gems and other substances
-
-by Bhudeb Mookerjee | 1938 | 47,185 words | ISBN-10: 8170305829 | ISBN-13: 9788170305828
 
 This third volume of the Rasa-jala-nidhi deals with purification techniques of the Seven Metals (sapta-dhatu) and various Gems (ratna). It also deals with substances such as Alkalis (kshara), Salts (lavana), Poisions (visha) and Semi-poisions (upavisha) as well as various alcholic liquors.
 
@@ -2598,10 +2352,7 @@ This concludes ‘Taking of lead’ included in Bhudeb Mookerjee Rasa Jala Nidhi
 
 ## 58. Chapter VIII - Mixed metals (1): Pittala (brass)
 
-
 Rasa Jala Nidhi, vol 3: Metals, Gems and other substances
-
-by Bhudeb Mookerjee | 1938 | 47,185 words | ISBN-10: 8170305829 | ISBN-13: 9788170305828
 
 This third volume of the Rasa-jala-nidhi deals with purification techniques of the Seven Metals (sapta-dhatu) and various Gems (ratna). It also deals with substances such as Alkalis (kshara), Salts (lavana), Poisions (visha) and Semi-poisions (upavisha) as well as various alcholic liquors.
 
@@ -2619,10 +2370,7 @@ This concludes ‘Mixed metals (1): Pittala (brass)’ included in Bhudeb Mooker
 
 ## 59. Part 1 - Characteristics of Brass (pittala)
 
-
 Rasa Jala Nidhi, vol 3: Metals, Gems and other substances
-
-by Bhudeb Mookerjee | 1938 | 47,185 words | ISBN-10: 8170305829 | ISBN-13: 9788170305828
 
 This third volume of the Rasa-jala-nidhi deals with purification techniques of the Seven Metals (sapta-dhatu) and various Gems (ratna). It also deals with substances such as Alkalis (kshara), Salts (lavana), Poisions (visha) and Semi-poisions (upavisha) as well as various alcholic liquors.
 
@@ -2652,10 +2400,7 @@ This concludes ‘Characteristics of Brass (pittala)’ included in Bhudeb Mooke
 
 ## 60. Part 3 - Incineration of pittala
 
-
 Rasa Jala Nidhi, vol 3: Metals, Gems and other substances
-
-by Bhudeb Mookerjee | 1938 | 47,185 words | ISBN-10: 8170305829 | ISBN-13: 9788170305828
 
 This third volume of the Rasa-jala-nidhi deals with purification techniques of the Seven Metals (sapta-dhatu) and various Gems (ratna). It also deals with substances such as Alkalis (kshara), Salts (lavana), Poisions (visha) and Semi-poisions (upavisha) as well as various alcholic liquors.
 
@@ -2683,10 +2428,7 @@ This concludes ‘Incineration of pittala’ included in Bhudeb Mookerjee Rasa J
 
 ## 61. Part 4 - Use of brass
 
-
 Rasa Jala Nidhi, vol 3: Metals, Gems and other substances
-
-by Bhudeb Mookerjee | 1938 | 47,185 words | ISBN-10: 8170305829 | ISBN-13: 9788170305828
 
 This third volume of the Rasa-jala-nidhi deals with purification techniques of the Seven Metals (sapta-dhatu) and various Gems (ratna). It also deals with substances such as Alkalis (kshara), Salts (lavana), Poisions (visha) and Semi-poisions (upavisha) as well as various alcholic liquors.
 
@@ -2704,10 +2446,7 @@ This concludes ‘Use of brass’ included in Bhudeb Mookerjee Rasa Jala Nidhi, 
 
 ## 62. Part 2 - Purification of pittala (brass)
 
-
 Rasa Jala Nidhi, vol 3: Metals, Gems and other substances
-
-by Bhudeb Mookerjee | 1938 | 47,185 words | ISBN-10: 8170305829 | ISBN-13: 9788170305828
 
 This third volume of the Rasa-jala-nidhi deals with purification techniques of the Seven Metals (sapta-dhatu) and various Gems (ratna). It also deals with substances such as Alkalis (kshara), Salts (lavana), Poisions (visha) and Semi-poisions (upavisha) as well as various alcholic liquors.
 
@@ -2739,10 +2478,7 @@ This concludes ‘Purification of pittala (brass)’ included in Bhudeb Mookerje
 
 ## 63. Chapter IX - Mixed metals (2): Kamsya (bell-metal)
 
-
 Rasa Jala Nidhi, vol 3: Metals, Gems and other substances
-
-by Bhudeb Mookerjee | 1938 | 47,185 words | ISBN-10: 8170305829 | ISBN-13: 9788170305828
 
 This third volume of the Rasa-jala-nidhi deals with purification techniques of the Seven Metals (sapta-dhatu) and various Gems (ratna). It also deals with substances such as Alkalis (kshara), Salts (lavana), Poisions (visha) and Semi-poisions (upavisha) as well as various alcholic liquors.
 
@@ -2760,10 +2496,7 @@ This concludes ‘Mixed metals (2): Kamsya (bell-metal)’ included in Bhudeb Mo
 
 ## 64. Part 5 - Transmutation of brass and bell-metal
 
-
 Rasa Jala Nidhi, vol 3: Metals, Gems and other substances
-
-by Bhudeb Mookerjee | 1938 | 47,185 words | ISBN-10: 8170305829 | ISBN-13: 9788170305828
 
 This third volume of the Rasa-jala-nidhi deals with purification techniques of the Seven Metals (sapta-dhatu) and various Gems (ratna). It also deals with substances such as Alkalis (kshara), Salts (lavana), Poisions (visha) and Semi-poisions (upavisha) as well as various alcholic liquors.
 
@@ -2781,10 +2514,7 @@ This concludes ‘Transmutation of brass and bell-metal’ included in Bhudeb Mo
 
 ## 65. Part 1 - Characteristics of Bell-metal (kamsya)
 
-
 Rasa Jala Nidhi, vol 3: Metals, Gems and other substances
-
-by Bhudeb Mookerjee | 1938 | 47,185 words | ISBN-10: 8170305829 | ISBN-13: 9788170305828
 
 This third volume of the Rasa-jala-nidhi deals with purification techniques of the Seven Metals (sapta-dhatu) and various Gems (ratna). It also deals with substances such as Alkalis (kshara), Salts (lavana), Poisions (visha) and Semi-poisions (upavisha) as well as various alcholic liquors.
 
@@ -2814,10 +2544,7 @@ This concludes ‘Characteristics of Bell-metal (kamsya)’ included in Bhudeb M
 
 ## 66. Part 2 - Purification of Bell-metal
 
-
 Rasa Jala Nidhi, vol 3: Metals, Gems and other substances
-
-by Bhudeb Mookerjee | 1938 | 47,185 words | ISBN-10: 8170305829 | ISBN-13: 9788170305828
 
 This third volume of the Rasa-jala-nidhi deals with purification techniques of the Seven Metals (sapta-dhatu) and various Gems (ratna). It also deals with substances such as Alkalis (kshara), Salts (lavana), Poisions (visha) and Semi-poisions (upavisha) as well as various alcholic liquors.
 
@@ -2841,10 +2568,7 @@ This concludes ‘Purification of Bell-metal’ included in Bhudeb Mookerjee Ras
 
 ## 67. Part 3 - Incineration of Bell-metal
 
-
 Rasa Jala Nidhi, vol 3: Metals, Gems and other substances
-
-by Bhudeb Mookerjee | 1938 | 47,185 words | ISBN-10: 8170305829 | ISBN-13: 9788170305828
 
 This third volume of the Rasa-jala-nidhi deals with purification techniques of the Seven Metals (sapta-dhatu) and various Gems (ratna). It also deals with substances such as Alkalis (kshara), Salts (lavana), Poisions (visha) and Semi-poisions (upavisha) as well as various alcholic liquors.
 
@@ -2868,10 +2592,7 @@ This concludes ‘Incineration of Bell-metal’ included in Bhudeb Mookerjee Ras
 
 ## 68. Part 1 - Characteristics of Varta-loha
 
-
 Rasa Jala Nidhi, vol 3: Metals, Gems and other substances
-
-by Bhudeb Mookerjee | 1938 | 47,185 words | ISBN-10: 8170305829 | ISBN-13: 9788170305828
 
 This third volume of the Rasa-jala-nidhi deals with purification techniques of the Seven Metals (sapta-dhatu) and various Gems (ratna). It also deals with substances such as Alkalis (kshara), Salts (lavana), Poisions (visha) and Semi-poisions (upavisha) as well as various alcholic liquors.
 
@@ -2893,10 +2614,7 @@ This concludes ‘Characteristics of Varta-loha’ included in Bhudeb Mookerjee 
 
 ## 69. Chapter X - Mixed metals (3): Varta-loha
 
-
 Rasa Jala Nidhi, vol 3: Metals, Gems and other substances
-
-by Bhudeb Mookerjee | 1938 | 47,185 words | ISBN-10: 8170305829 | ISBN-13: 9788170305828
 
 This third volume of the Rasa-jala-nidhi deals with purification techniques of the Seven Metals (sapta-dhatu) and various Gems (ratna). It also deals with substances such as Alkalis (kshara), Salts (lavana), Poisions (visha) and Semi-poisions (upavisha) as well as various alcholic liquors.
 
@@ -2914,10 +2632,7 @@ This concludes ‘Mixed metals (3): Varta-loha’ included in Bhudeb Mookerjee R
 
 ## 70. Part 2 - Purification and Incineration of Varta-loha
 
-
 Rasa Jala Nidhi, vol 3: Metals, Gems and other substances
-
-by Bhudeb Mookerjee | 1938 | 47,185 words | ISBN-10: 8170305829 | ISBN-13: 9788170305828
 
 This third volume of the Rasa-jala-nidhi deals with purification techniques of the Seven Metals (sapta-dhatu) and various Gems (ratna). It also deals with substances such as Alkalis (kshara), Salts (lavana), Poisions (visha) and Semi-poisions (upavisha) as well as various alcholic liquors.
 
@@ -2935,10 +2650,7 @@ This concludes ‘Purification and Incineration of Varta-loha’ included in Bhu
 
 ## 71. Chapter XI - Mixed metals (4): Triloha
 
-
 Rasa Jala Nidhi, vol 3: Metals, Gems and other substances
-
-by Bhudeb Mookerjee | 1938 | 47,185 words | ISBN-10: 8170305829 | ISBN-13: 9788170305828
 
 This third volume of the Rasa-jala-nidhi deals with purification techniques of the Seven Metals (sapta-dhatu) and various Gems (ratna). It also deals with substances such as Alkalis (kshara), Salts (lavana), Poisions (visha) and Semi-poisions (upavisha) as well as various alcholic liquors.
 
@@ -2956,10 +2668,7 @@ This concludes ‘Mixed metals (4): Triloha’ included in Bhudeb Mookerjee Rasa
 
 ## 72. Part 1 - Characteristics of triloha
 
-
 Rasa Jala Nidhi, vol 3: Metals, Gems and other substances
-
-by Bhudeb Mookerjee | 1938 | 47,185 words | ISBN-10: 8170305829 | ISBN-13: 9788170305828
 
 This third volume of the Rasa-jala-nidhi deals with purification techniques of the Seven Metals (sapta-dhatu) and various Gems (ratna). It also deals with substances such as Alkalis (kshara), Salts (lavana), Poisions (visha) and Semi-poisions (upavisha) as well as various alcholic liquors.
 
@@ -2977,10 +2686,7 @@ This concludes ‘Characteristics of triloha’ included in Bhudeb Mookerjee Ras
 
 ## 73. Part 2 - Purification and Incineration of Triloha
 
-
 Rasa Jala Nidhi, vol 3: Metals, Gems and other substances
-
-by Bhudeb Mookerjee | 1938 | 47,185 words | ISBN-10: 8170305829 | ISBN-13: 9788170305828
 
 This third volume of the Rasa-jala-nidhi deals with purification techniques of the Seven Metals (sapta-dhatu) and various Gems (ratna). It also deals with substances such as Alkalis (kshara), Salts (lavana), Poisions (visha) and Semi-poisions (upavisha) as well as various alcholic liquors.
 
@@ -2998,10 +2704,7 @@ This concludes ‘Purification and Incineration of Triloha’ included in Bhudeb
 
 ## 74. Part 3 - Triloha-rasayana
 
-
 Rasa Jala Nidhi, vol 3: Metals, Gems and other substances
-
-by Bhudeb Mookerjee | 1938 | 47,185 words | ISBN-10: 8170305829 | ISBN-13: 9788170305828
 
 This third volume of the Rasa-jala-nidhi deals with purification techniques of the Seven Metals (sapta-dhatu) and various Gems (ratna). It also deals with substances such as Alkalis (kshara), Salts (lavana), Poisions (visha) and Semi-poisions (upavisha) as well as various alcholic liquors.
 
@@ -3019,10 +2722,7 @@ This concludes ‘Triloha-rasayana’ included in Bhudeb Mookerjee Rasa Jala Nid
 
 ## 75. Chapter XII - Gold essence of Earthworms
 
-
 Rasa Jala Nidhi, vol 3: Metals, Gems and other substances
-
-by Bhudeb Mookerjee | 1938 | 47,185 words | ISBN-10: 8170305829 | ISBN-13: 9788170305828
 
 This third volume of the Rasa-jala-nidhi deals with purification techniques of the Seven Metals (sapta-dhatu) and various Gems (ratna). It also deals with substances such as Alkalis (kshara), Salts (lavana), Poisions (visha) and Semi-poisions (upavisha) as well as various alcholic liquors.
 
@@ -3040,10 +2740,7 @@ This concludes ‘Gold essence of Earthworms’ included in Bhudeb Mookerjee Ras
 
 ## 76. Part 1 - Essence of Earthworms
 
-
 Rasa Jala Nidhi, vol 3: Metals, Gems and other substances
-
-by Bhudeb Mookerjee | 1938 | 47,185 words | ISBN-10: 8170305829 | ISBN-13: 9788170305828
 
 This third volume of the Rasa-jala-nidhi deals with purification techniques of the Seven Metals (sapta-dhatu) and various Gems (ratna). It also deals with substances such as Alkalis (kshara), Salts (lavana), Poisions (visha) and Semi-poisions (upavisha) as well as various alcholic liquors.
 
@@ -3063,25 +2760,15 @@ This concludes ‘Essence of Earthworms’ included in Bhudeb Mookerjee Rasa Jal
 
 ## 77. Part 2 - Khara-sattva
 
-
 Rasa Jala Nidhi, vol 3: Metals, Gems and other substances
-
-by Bhudeb Mookerjee | 1938 | 47,185 words | ISBN-10: 8170305829 | ISBN-13: 9788170305828
 
 This third volume of the Rasa-jala-nidhi deals with purification techniques of the Seven Metals (sapta-dhatu) and various Gems (ratna). It also deals with substances such as Alkalis (kshara), Salts (lavana), Poisions (visha) and Semi-poisions (upavisha) as well as various alcholic liquors.
 
 The Rasa-jala-nidhi (“the ocean of Iatrochemistry, or, che...
 
-Go directly to: 
-Footnotes.
-
 Part 2 - Khara-sattva
 
 Essence of earthworms is to be cleansed with water, and rubbed for one day each with the juice of bhringa-raja, nimbu (lemon fruit), and nirgundi. It is then to be rubbed with the Dravana-varga[1] and made into a lump, which is to be confined in a strong crucible, and heated steadily for forty eight minutes. When cooled of itself, the contents of the crucible are to be taken out and kept on a piece of smooth stone slab from which are to be collected the heavy metallic dusts of the shape of mustard seeds. These are to be mixed with one twelfth their weight of copper, and again heated in a crucible. The metallic dust is then to be separated from foreign matter by being washed off: with water. It is then to be used for the liquefaction of diamond, etc. It is called khara-sattva. It is not a good rasayana fa medicine which can prevent and cure senile decay).
-
-Footnotes and references:
-
-[back to top]
 
 [1]:
 
@@ -3095,10 +2782,7 @@ This concludes ‘Khara-sattva’ included in Bhudeb Mookerjee Rasa Jala Nidhi, 
 
 ## 78. Part 3 - Extraction of the best essence of earthworms
 
-
 Rasa Jala Nidhi, vol 3: Metals, Gems and other substances
-
-by Bhudeb Mookerjee | 1938 | 47,185 words | ISBN-10: 8170305829 | ISBN-13: 9788170305828
 
 This third volume of the Rasa-jala-nidhi deals with purification techniques of the Seven Metals (sapta-dhatu) and various Gems (ratna). It also deals with substances such as Alkalis (kshara), Salts (lavana), Poisions (visha) and Semi-poisions (upavisha) as well as various alcholic liquors.
 
@@ -3120,10 +2804,7 @@ This concludes ‘Extraction of the best essence of earthworms’ included in Bh
 
 ## 79. Chapter XIII - Gems (1): Vajra or Hiraka (diamond)
 
-
 Rasa Jala Nidhi, vol 3: Metals, Gems and other substances
-
-by Bhudeb Mookerjee | 1938 | 47,185 words | ISBN-10: 8170305829 | ISBN-13: 9788170305828
 
 This third volume of the Rasa-jala-nidhi deals with purification techniques of the Seven Metals (sapta-dhatu) and various Gems (ratna). It also deals with substances such as Alkalis (kshara), Salts (lavana), Poisions (visha) and Semi-poisions (upavisha) as well as various alcholic liquors.
 
@@ -3141,10 +2822,7 @@ This concludes ‘Gems (1): Vajra or Hiraka (diamond)’ included in Bhudeb Mook
 
 ## 80. Part 1 - Characteristics of Diamond (vajra or hiraka)
 
-
 Rasa Jala Nidhi, vol 3: Metals, Gems and other substances
-
-by Bhudeb Mookerjee | 1938 | 47,185 words | ISBN-10: 8170305829 | ISBN-13: 9788170305828
 
 This third volume of the Rasa-jala-nidhi deals with purification techniques of the Seven Metals (sapta-dhatu) and various Gems (ratna). It also deals with substances such as Alkalis (kshara), Salts (lavana), Poisions (visha) and Semi-poisions (upavisha) as well as various alcholic liquors.
 
@@ -3194,10 +2872,7 @@ This concludes ‘Characteristics of Diamond (vajra or hiraka)’ included in Bh
 
 ## 81. Part 2 - Purification of Diamonds
 
-
 Rasa Jala Nidhi, vol 3: Metals, Gems and other substances
-
-by Bhudeb Mookerjee | 1938 | 47,185 words | ISBN-10: 8170305829 | ISBN-13: 9788170305828
 
 This third volume of the Rasa-jala-nidhi deals with purification techniques of the Seven Metals (sapta-dhatu) and various Gems (ratna). It also deals with substances such as Alkalis (kshara), Salts (lavana), Poisions (visha) and Semi-poisions (upavisha) as well as various alcholic liquors.
 
@@ -3237,10 +2912,7 @@ This concludes ‘Purification of Diamonds’ included in Bhudeb Mookerjee Rasa 
 
 ## 82. Part 3 - Incineration of White Diamonds
 
-
 Rasa Jala Nidhi, vol 3: Metals, Gems and other substances
-
-by Bhudeb Mookerjee | 1938 | 47,185 words | ISBN-10: 8170305829 | ISBN-13: 9788170305828
 
 This third volume of the Rasa-jala-nidhi deals with purification techniques of the Seven Metals (sapta-dhatu) and various Gems (ratna). It also deals with substances such as Alkalis (kshara), Salts (lavana), Poisions (visha) and Semi-poisions (upavisha) as well as various alcholic liquors.
 
@@ -3264,10 +2936,7 @@ This concludes ‘Incineration of White Diamonds’ included in Bhudeb Mookerjee
 
 ## 83. Part 4 - Incineration of Red Diamonds
 
-
 Rasa Jala Nidhi, vol 3: Metals, Gems and other substances
-
-by Bhudeb Mookerjee | 1938 | 47,185 words | ISBN-10: 8170305829 | ISBN-13: 9788170305828
 
 This third volume of the Rasa-jala-nidhi deals with purification techniques of the Seven Metals (sapta-dhatu) and various Gems (ratna). It also deals with substances such as Alkalis (kshara), Salts (lavana), Poisions (visha) and Semi-poisions (upavisha) as well as various alcholic liquors.
 
@@ -3291,10 +2960,7 @@ This concludes ‘Incineration of Red Diamonds’ included in Bhudeb Mookerjee R
 
 ## 84. Part 5 - Incineration of Yellow Diamonds
 
-
 Rasa Jala Nidhi, vol 3: Metals, Gems and other substances
-
-by Bhudeb Mookerjee | 1938 | 47,185 words | ISBN-10: 8170305829 | ISBN-13: 9788170305828
 
 This third volume of the Rasa-jala-nidhi deals with purification techniques of the Seven Metals (sapta-dhatu) and various Gems (ratna). It also deals with substances such as Alkalis (kshara), Salts (lavana), Poisions (visha) and Semi-poisions (upavisha) as well as various alcholic liquors.
 
@@ -3318,10 +2984,7 @@ This concludes ‘Incineration of Yellow Diamonds’ included in Bhudeb Mookerje
 
 ## 85. Part 6 - Incineration of Black Diamonds
 
-
 Rasa Jala Nidhi, vol 3: Metals, Gems and other substances
-
-by Bhudeb Mookerjee | 1938 | 47,185 words | ISBN-10: 8170305829 | ISBN-13: 9788170305828
 
 This third volume of the Rasa-jala-nidhi deals with purification techniques of the Seven Metals (sapta-dhatu) and various Gems (ratna). It also deals with substances such as Alkalis (kshara), Salts (lavana), Poisions (visha) and Semi-poisions (upavisha) as well as various alcholic liquors.
 
@@ -3345,10 +3008,7 @@ This concludes ‘Incineration of Black Diamonds’ included in Bhudeb Mookerjee
 
 ## 86. Part 7 - Incineration of Diamonds, irrespective of colour
 
-
 Rasa Jala Nidhi, vol 3: Metals, Gems and other substances
-
-by Bhudeb Mookerjee | 1938 | 47,185 words | ISBN-10: 8170305829 | ISBN-13: 9788170305828
 
 This third volume of the Rasa-jala-nidhi deals with purification techniques of the Seven Metals (sapta-dhatu) and various Gems (ratna). It also deals with substances such as Alkalis (kshara), Salts (lavana), Poisions (visha) and Semi-poisions (upavisha) as well as various alcholic liquors.
 
@@ -3428,10 +3088,7 @@ This concludes ‘Incineration of Diamonds, irrespective of colour’ included i
 
 ## 87. Part 8 - Uses of Diamond
 
-
 Rasa Jala Nidhi, vol 3: Metals, Gems and other substances
-
-by Bhudeb Mookerjee | 1938 | 47,185 words | ISBN-10: 8170305829 | ISBN-13: 9788170305828
 
 This third volume of the Rasa-jala-nidhi deals with purification techniques of the Seven Metals (sapta-dhatu) and various Gems (ratna). It also deals with substances such as Alkalis (kshara), Salts (lavana), Poisions (visha) and Semi-poisions (upavisha) as well as various alcholic liquors.
 
@@ -3463,10 +3120,7 @@ This concludes ‘Uses of Diamond’ included in Bhudeb Mookerjee Rasa Jala Nidh
 
 ## 88. Part 9 - Softening of Diamonds
 
-
 Rasa Jala Nidhi, vol 3: Metals, Gems and other substances
-
-by Bhudeb Mookerjee | 1938 | 47,185 words | ISBN-10: 8170305829 | ISBN-13: 9788170305828
 
 This third volume of the Rasa-jala-nidhi deals with purification techniques of the Seven Metals (sapta-dhatu) and various Gems (ratna). It also deals with substances such as Alkalis (kshara), Salts (lavana), Poisions (visha) and Semi-poisions (upavisha) as well as various alcholic liquors.
 
@@ -3484,10 +3138,7 @@ This concludes ‘Softening of Diamonds’ included in Bhudeb Mookerjee Rasa Jal
 
 ## 89. Part 11 - Evil effects of Diamonds, not properly purified and incinerated
 
-
 Rasa Jala Nidhi, vol 3: Metals, Gems and other substances
-
-by Bhudeb Mookerjee | 1938 | 47,185 words | ISBN-10: 8170305829 | ISBN-13: 9788170305828
 
 This third volume of the Rasa-jala-nidhi deals with purification techniques of the Seven Metals (sapta-dhatu) and various Gems (ratna). It also deals with substances such as Alkalis (kshara), Salts (lavana), Poisions (visha) and Semi-poisions (upavisha) as well as various alcholic liquors.
 
@@ -3509,10 +3160,7 @@ This concludes ‘Evil effects of Diamonds, not properly purified and incinerate
 
 ## 90. Part 10 - Liquefaction of diamond
 
-
 Rasa Jala Nidhi, vol 3: Metals, Gems and other substances
-
-by Bhudeb Mookerjee | 1938 | 47,185 words | ISBN-10: 8170305829 | ISBN-13: 9788170305828
 
 This third volume of the Rasa-jala-nidhi deals with purification techniques of the Seven Metals (sapta-dhatu) and various Gems (ratna). It also deals with substances such as Alkalis (kshara), Salts (lavana), Poisions (visha) and Semi-poisions (upavisha) as well as various alcholic liquors.
 
@@ -3540,10 +3188,7 @@ This concludes ‘Liquefaction of diamond’ included in Bhudeb Mookerjee Rasa J
 
 ## 91. Chapter XIV - Gems (2): Marakata (emerald)
 
-
 Rasa Jala Nidhi, vol 3: Metals, Gems and other substances
-
-by Bhudeb Mookerjee | 1938 | 47,185 words | ISBN-10: 8170305829 | ISBN-13: 9788170305828
 
 This third volume of the Rasa-jala-nidhi deals with purification techniques of the Seven Metals (sapta-dhatu) and various Gems (ratna). It also deals with substances such as Alkalis (kshara), Salts (lavana), Poisions (visha) and Semi-poisions (upavisha) as well as various alcholic liquors.
 
@@ -3561,10 +3206,7 @@ This concludes ‘Gems (2): Marakata (emerald)’ included in Bhudeb Mookerjee R
 
 ## 92. Part 1 - Characteristics of Emerald (marakata)
 
-
 Rasa Jala Nidhi, vol 3: Metals, Gems and other substances
-
-by Bhudeb Mookerjee | 1938 | 47,185 words | ISBN-10: 8170305829 | ISBN-13: 9788170305828
 
 This third volume of the Rasa-jala-nidhi deals with purification techniques of the Seven Metals (sapta-dhatu) and various Gems (ratna). It also deals with substances such as Alkalis (kshara), Salts (lavana), Poisions (visha) and Semi-poisions (upavisha) as well as various alcholic liquors.
 
@@ -3600,17 +3242,11 @@ This concludes ‘Characteristics of Emerald (marakata)’ included in Bhudeb Mo
 
 ## 93. Part 2 - Test of Genuine Emerald
 
-
 Rasa Jala Nidhi, vol 3: Metals, Gems and other substances
-
-by Bhudeb Mookerjee | 1938 | 47,185 words | ISBN-10: 8170305829 | ISBN-13: 9788170305828
 
 This third volume of the Rasa-jala-nidhi deals with purification techniques of the Seven Metals (sapta-dhatu) and various Gems (ratna). It also deals with substances such as Alkalis (kshara), Salts (lavana), Poisions (visha) and Semi-poisions (upavisha) as well as various alcholic liquors.
 
 The Rasa-jala-nidhi (“the ocean of Iatrochemistry, or, che...
-
-Go directly to: 
-Footnotes.
 
 Part 2 - Test of Genuine Emerald
 
@@ -3638,10 +3274,6 @@ Sixth process.
 
 Some bhallata (a stone which possesses the colour and some other features of emerald) may appear to resemble a real emerald in colour and other features. The difference between such a stone 'and emerald can be known by a greater clearness of colour in the latter.
 
-Footnotes and references:
-
-[back to top]
-
 [1]:
 
 This is a clear reference to the ancient Indians having a knowledge of specific gravity.
@@ -3654,10 +3286,7 @@ This concludes ‘Test of Genuine Emerald’ included in Bhudeb Mookerjee Rasa J
 
 ## 94. Chapter XV - Gems (3): Manikya (ruby)
 
-
 Rasa Jala Nidhi, vol 3: Metals, Gems and other substances
-
-by Bhudeb Mookerjee | 1938 | 47,185 words | ISBN-10: 8170305829 | ISBN-13: 9788170305828
 
 This third volume of the Rasa-jala-nidhi deals with purification techniques of the Seven Metals (sapta-dhatu) and various Gems (ratna). It also deals with substances such as Alkalis (kshara), Salts (lavana), Poisions (visha) and Semi-poisions (upavisha) as well as various alcholic liquors.
 
@@ -3675,17 +3304,11 @@ This concludes ‘Gems (3): Manikya (ruby)’ included in Bhudeb Mookerjee Rasa 
 
 ## 95. Part 1 - Characteristics of Ruby (manikya)
 
-
 Rasa Jala Nidhi, vol 3: Metals, Gems and other substances
-
-by Bhudeb Mookerjee | 1938 | 47,185 words | ISBN-10: 8170305829 | ISBN-13: 9788170305828
 
 This third volume of the Rasa-jala-nidhi deals with purification techniques of the Seven Metals (sapta-dhatu) and various Gems (ratna). It also deals with substances such as Alkalis (kshara), Salts (lavana), Poisions (visha) and Semi-poisions (upavisha) as well as various alcholic liquors.
 
 The Rasa-jala-nidhi (“the ocean of Iatrochemistry, or, che...
-
-Go directly to: 
-Footnotes.
 
 Part 1 - Characteristics of Ruby (manikya)
 
@@ -3745,10 +3368,6 @@ Properties of Ruby.
 
 A ruby (duly purified and incinerated) is an increaser of digestive power. It is nutritious and destroyer of kapha, vayu, and waste. It also does away with the evil influence exerted by ghosts and other evil spirits.
 
-Footnotes and references:
-
-[back to top]
-
 [1]:
 
 One of the tributaries of the river, Ganges, felling into it near Hard war.
@@ -3761,10 +3380,7 @@ This concludes ‘Characteristics of Ruby (manikya)’ included in Bhudeb Mooker
 
 ## 96. Part 2 - Test of genuine Ruby
 
-
 Rasa Jala Nidhi, vol 3: Metals, Gems and other substances
-
-by Bhudeb Mookerjee | 1938 | 47,185 words | ISBN-10: 8170305829 | ISBN-13: 9788170305828
 
 This third volume of the Rasa-jala-nidhi deals with purification techniques of the Seven Metals (sapta-dhatu) and various Gems (ratna). It also deals with substances such as Alkalis (kshara), Salts (lavana), Poisions (visha) and Semi-poisions (upavisha) as well as various alcholic liquors.
 
@@ -3782,10 +3398,7 @@ This concludes ‘Test of genuine Ruby’ included in Bhudeb Mookerjee Rasa Jala
 
 ## 97. Chapter XVI - Gems (4): Mukta (pearl)
 
-
 Rasa Jala Nidhi, vol 3: Metals, Gems and other substances
-
-by Bhudeb Mookerjee | 1938 | 47,185 words | ISBN-10: 8170305829 | ISBN-13: 9788170305828
 
 This third volume of the Rasa-jala-nidhi deals with purification techniques of the Seven Metals (sapta-dhatu) and various Gems (ratna). It also deals with substances such as Alkalis (kshara), Salts (lavana), Poisions (visha) and Semi-poisions (upavisha) as well as various alcholic liquors.
 
@@ -3803,10 +3416,7 @@ This concludes ‘Gems (4): Mukta (pearl)’ included in Bhudeb Mookerjee Rasa J
 
 ## 98. Introduction to Salts (lavana)
 
-
 Rasa Jala Nidhi, vol 3: Metals, Gems and other substances
-
-by Bhudeb Mookerjee | 1938 | 47,185 words | ISBN-10: 8170305829 | ISBN-13: 9788170305828
 
 This third volume of the Rasa-jala-nidhi deals with purification techniques of the Seven Metals (sapta-dhatu) and various Gems (ratna). It also deals with substances such as Alkalis (kshara), Salts (lavana), Poisions (visha) and Semi-poisions (upavisha) as well as various alcholic liquors.
 
@@ -3832,10 +3442,7 @@ This concludes ‘Introduction to Salts (lavana)’ included in Bhudeb Mookerjee
 
 ## 99. Part 2 - Perforation of Pearls
 
-
 Rasa Jala Nidhi, vol 3: Metals, Gems and other substances
-
-by Bhudeb Mookerjee | 1938 | 47,185 words | ISBN-10: 8170305829 | ISBN-13: 9788170305828
 
 This third volume of the Rasa-jala-nidhi deals with purification techniques of the Seven Metals (sapta-dhatu) and various Gems (ratna). It also deals with substances such as Alkalis (kshara), Salts (lavana), Poisions (visha) and Semi-poisions (upavisha) as well as various alcholic liquors.
 
@@ -3853,10 +3460,7 @@ This concludes ‘Perforation of Pearls’ included in Bhudeb Mookerjee Rasa Jal
 
 ## 100. Part 1 - Characteristics of Pearl (mukta)
 
-
 Rasa Jala Nidhi, vol 3: Metals, Gems and other substances
-
-by Bhudeb Mookerjee | 1938 | 47,185 words | ISBN-10: 8170305829 | ISBN-13: 9788170305828
 
 This third volume of the Rasa-jala-nidhi deals with purification techniques of the Seven Metals (sapta-dhatu) and various Gems (ratna). It also deals with substances such as Alkalis (kshara), Salts (lavana), Poisions (visha) and Semi-poisions (upavisha) as well as various alcholic liquors.
 
@@ -3934,10 +3538,7 @@ This concludes ‘Characteristics of Pearl (mukta)’ included in Bhudeb Mookerj
 
 ## 101. Chapter XVII - Gems (5): Nila (sapphire)
 
-
 Rasa Jala Nidhi, vol 3: Metals, Gems and other substances
-
-by Bhudeb Mookerjee | 1938 | 47,185 words | ISBN-10: 8170305829 | ISBN-13: 9788170305828
 
 This third volume of the Rasa-jala-nidhi deals with purification techniques of the Seven Metals (sapta-dhatu) and various Gems (ratna). It also deals with substances such as Alkalis (kshara), Salts (lavana), Poisions (visha) and Semi-poisions (upavisha) as well as various alcholic liquors.
 
@@ -3955,10 +3556,7 @@ This concludes ‘Gems (5): Nila (sapphire)’ included in Bhudeb Mookerjee Rasa
 
 ## 102. Part 1 - Characteristics of Sapphire (nila)
 
-
 Rasa Jala Nidhi, vol 3: Metals, Gems and other substances
-
-by Bhudeb Mookerjee | 1938 | 47,185 words | ISBN-10: 8170305829 | ISBN-13: 9788170305828
 
 This third volume of the Rasa-jala-nidhi deals with purification techniques of the Seven Metals (sapta-dhatu) and various Gems (ratna). It also deals with substances such as Alkalis (kshara), Salts (lavana), Poisions (visha) and Semi-poisions (upavisha) as well as various alcholic liquors.
 
@@ -4000,10 +3598,7 @@ This concludes ‘Characteristics of Sapphire (nila)’ included in Bhudeb Mooke
 
 ## 103. Part 1 - Characteristics of Zercon (gomeda)
 
-
 Rasa Jala Nidhi, vol 3: Metals, Gems and other substances
-
-by Bhudeb Mookerjee | 1938 | 47,185 words | ISBN-10: 8170305829 | ISBN-13: 9788170305828
 
 This third volume of the Rasa-jala-nidhi deals with purification techniques of the Seven Metals (sapta-dhatu) and various Gems (ratna). It also deals with substances such as Alkalis (kshara), Salts (lavana), Poisions (visha) and Semi-poisions (upavisha) as well as various alcholic liquors.
 
@@ -4043,10 +3638,7 @@ This concludes ‘Characteristics of Zercon (gomeda)’ included in Bhudeb Mooke
 
 ## 104. Part 2 - Testing of genuine Zircon
 
-
 Rasa Jala Nidhi, vol 3: Metals, Gems and other substances
-
-by Bhudeb Mookerjee | 1938 | 47,185 words | ISBN-10: 8170305829 | ISBN-13: 9788170305828
 
 This third volume of the Rasa-jala-nidhi deals with purification techniques of the Seven Metals (sapta-dhatu) and various Gems (ratna). It also deals with substances such as Alkalis (kshara), Salts (lavana), Poisions (visha) and Semi-poisions (upavisha) as well as various alcholic liquors.
 
@@ -4064,10 +3656,7 @@ This concludes ‘Testing of genuine Zircon’ included in Bhudeb Mookerjee Rasa
 
 ## 105. Chapter XIX - Gems (7): Vaidurya (oriental cats eye and similar stones)
 
-
 Rasa Jala Nidhi, vol 3: Metals, Gems and other substances
-
-by Bhudeb Mookerjee | 1938 | 47,185 words | ISBN-10: 8170305829 | ISBN-13: 9788170305828
 
 This third volume of the Rasa-jala-nidhi deals with purification techniques of the Seven Metals (sapta-dhatu) and various Gems (ratna). It also deals with substances such as Alkalis (kshara), Salts (lavana), Poisions (visha) and Semi-poisions (upavisha) as well as various alcholic liquors.
 
@@ -4085,10 +3674,7 @@ This concludes ‘Gems (7): Vaidurya (oriental cats eye and similar stones)’ i
 
 ## 106. Part 1 - Characteristics of cat’s eye (vaidurya)
 
-
 Rasa Jala Nidhi, vol 3: Metals, Gems and other substances
-
-by Bhudeb Mookerjee | 1938 | 47,185 words | ISBN-10: 8170305829 | ISBN-13: 9788170305828
 
 This third volume of the Rasa-jala-nidhi deals with purification techniques of the Seven Metals (sapta-dhatu) and various Gems (ratna). It also deals with substances such as Alkalis (kshara), Salts (lavana), Poisions (visha) and Semi-poisions (upavisha) as well as various alcholic liquors.
 
@@ -4128,10 +3714,7 @@ This concludes ‘Characteristics of cat’s eye (vaidurya)’ included in Bhude
 
 ## 107. Part 2 - Test of genuine cat’s eye (vaidurya)
 
-
 Rasa Jala Nidhi, vol 3: Metals, Gems and other substances
-
-by Bhudeb Mookerjee | 1938 | 47,185 words | ISBN-10: 8170305829 | ISBN-13: 9788170305828
 
 This third volume of the Rasa-jala-nidhi deals with purification techniques of the Seven Metals (sapta-dhatu) and various Gems (ratna). It also deals with substances such as Alkalis (kshara), Salts (lavana), Poisions (visha) and Semi-poisions (upavisha) as well as various alcholic liquors.
 
@@ -4149,10 +3732,7 @@ This concludes ‘Test of genuine cat’s eye (vaidurya)’ included in Bhudeb M
 
 ## 108. Part 2 - Mines of Vaikranta (garnet)
 
-
 Rasa Jala Nidhi, vol 3: Metals, Gems and other substances
-
-by Bhudeb Mookerjee | 1938 | 47,185 words | ISBN-10: 8170305829 | ISBN-13: 9788170305828
 
 This third volume of the Rasa-jala-nidhi deals with purification techniques of the Seven Metals (sapta-dhatu) and various Gems (ratna). It also deals with substances such as Alkalis (kshara), Salts (lavana), Poisions (visha) and Semi-poisions (upavisha) as well as various alcholic liquors.
 
@@ -4174,10 +3754,7 @@ This concludes ‘Mines of Vaikranta (garnet)’ included in Bhudeb Mookerjee Ra
 
 ## 109. Part 1 - Characteristics of Garnet (vaikranta)
 
-
 Rasa Jala Nidhi, vol 3: Metals, Gems and other substances
-
-by Bhudeb Mookerjee | 1938 | 47,185 words | ISBN-10: 8170305829 | ISBN-13: 9788170305828
 
 This third volume of the Rasa-jala-nidhi deals with purification techniques of the Seven Metals (sapta-dhatu) and various Gems (ratna). It also deals with substances such as Alkalis (kshara), Salts (lavana), Poisions (visha) and Semi-poisions (upavisha) as well as various alcholic liquors.
 
@@ -4209,10 +3786,7 @@ This concludes ‘Characteristics of Garnet (vaikranta)’ included in Bhudeb Mo
 
 ## 110. Chapter XX - Gems (8): Vaikranta (garnet)
 
-
 Rasa Jala Nidhi, vol 3: Metals, Gems and other substances
-
-by Bhudeb Mookerjee | 1938 | 47,185 words | ISBN-10: 8170305829 | ISBN-13: 9788170305828
 
 This third volume of the Rasa-jala-nidhi deals with purification techniques of the Seven Metals (sapta-dhatu) and various Gems (ratna). It also deals with substances such as Alkalis (kshara), Salts (lavana), Poisions (visha) and Semi-poisions (upavisha) as well as various alcholic liquors.
 
@@ -4230,10 +3804,7 @@ This concludes ‘Gems (8): Vaikranta (garnet)’ included in Bhudeb Mookerjee R
 
 ## 111. Part 3 - Purification of Vaikranta
 
-
 Rasa Jala Nidhi, vol 3: Metals, Gems and other substances
-
-by Bhudeb Mookerjee | 1938 | 47,185 words | ISBN-10: 8170305829 | ISBN-13: 9788170305828
 
 This third volume of the Rasa-jala-nidhi deals with purification techniques of the Seven Metals (sapta-dhatu) and various Gems (ratna). It also deals with substances such as Alkalis (kshara), Salts (lavana), Poisions (visha) and Semi-poisions (upavisha) as well as various alcholic liquors.
 
@@ -4267,10 +3838,7 @@ This concludes ‘Purification of Vaikranta’ included in Bhudeb Mookerjee Rasa
 
 ## 112. Part 5 - Use of garnet in place of diamond
 
-
 Rasa Jala Nidhi, vol 3: Metals, Gems and other substances
-
-by Bhudeb Mookerjee | 1938 | 47,185 words | ISBN-10: 8170305829 | ISBN-13: 9788170305828
 
 This third volume of the Rasa-jala-nidhi deals with purification techniques of the Seven Metals (sapta-dhatu) and various Gems (ratna). It also deals with substances such as Alkalis (kshara), Salts (lavana), Poisions (visha) and Semi-poisions (upavisha) as well as various alcholic liquors.
 
@@ -4288,10 +3856,7 @@ This concludes ‘Use of garnet in place of diamond’ included in Bhudeb Mooker
 
 ## 113. Part 6 - Extraction of essence of Vaikranta
 
-
 Rasa Jala Nidhi, vol 3: Metals, Gems and other substances
-
-by Bhudeb Mookerjee | 1938 | 47,185 words | ISBN-10: 8170305829 | ISBN-13: 9788170305828
 
 This third volume of the Rasa-jala-nidhi deals with purification techniques of the Seven Metals (sapta-dhatu) and various Gems (ratna). It also deals with substances such as Alkalis (kshara), Salts (lavana), Poisions (visha) and Semi-poisions (upavisha) as well as various alcholic liquors.
 
@@ -4315,10 +3880,7 @@ This concludes ‘Extraction of essence of Vaikranta’ included in Bhudeb Mooke
 
 ## 114. Part 7 - Uses of Vaikranta
 
-
 Rasa Jala Nidhi, vol 3: Metals, Gems and other substances
-
-by Bhudeb Mookerjee | 1938 | 47,185 words | ISBN-10: 8170305829 | ISBN-13: 9788170305828
 
 This third volume of the Rasa-jala-nidhi deals with purification techniques of the Seven Metals (sapta-dhatu) and various Gems (ratna). It also deals with substances such as Alkalis (kshara), Salts (lavana), Poisions (visha) and Semi-poisions (upavisha) as well as various alcholic liquors.
 
@@ -4342,10 +3904,7 @@ This concludes ‘Uses of Vaikranta’ included in Bhudeb Mookerjee Rasa Jala Ni
 
 ## 115. Part 4 - Incineration of Vaikranta
 
-
 Rasa Jala Nidhi, vol 3: Metals, Gems and other substances
-
-by Bhudeb Mookerjee | 1938 | 47,185 words | ISBN-10: 8170305829 | ISBN-13: 9788170305828
 
 This third volume of the Rasa-jala-nidhi deals with purification techniques of the Seven Metals (sapta-dhatu) and various Gems (ratna). It also deals with substances such as Alkalis (kshara), Salts (lavana), Poisions (visha) and Semi-poisions (upavisha) as well as various alcholic liquors.
 
@@ -4377,10 +3936,7 @@ This concludes ‘Incineration of Vaikranta’ included in Bhudeb Mookerjee Rasa
 
 ## 116. Chapter XXI - Gems (9): Sphatika (quartz)
 
-
 Rasa Jala Nidhi, vol 3: Metals, Gems and other substances
-
-by Bhudeb Mookerjee | 1938 | 47,185 words | ISBN-10: 8170305829 | ISBN-13: 9788170305828
 
 This third volume of the Rasa-jala-nidhi deals with purification techniques of the Seven Metals (sapta-dhatu) and various Gems (ratna). It also deals with substances such as Alkalis (kshara), Salts (lavana), Poisions (visha) and Semi-poisions (upavisha) as well as various alcholic liquors.
 
@@ -4398,10 +3954,7 @@ This concludes ‘Gems (9): Sphatika (quartz)’ included in Bhudeb Mookerjee Ra
 
 ## 117. Part 1 - Characteristics Of Quartz (Sphatika)
 
-
 Rasa Jala Nidhi, vol 3: Metals, Gems and other substances
-
-by Bhudeb Mookerjee | 1938 | 47,185 words | ISBN-10: 8170305829 | ISBN-13: 9788170305828
 
 This third volume of the Rasa-jala-nidhi deals with purification techniques of the Seven Metals (sapta-dhatu) and various Gems (ratna). It also deals with substances such as Alkalis (kshara), Salts (lavana), Poisions (visha) and Semi-poisions (upavisha) as well as various alcholic liquors.
 
@@ -4427,10 +3980,7 @@ This concludes ‘Characteristics Of Quartz (Sphatika)’ included in Bhudeb Moo
 
 ## 118. Chapter XXI - Gems (10-11): Suryakanta (sunstone) and Candrakanta (moonstone)
 
-
 Rasa Jala Nidhi, vol 3: Metals, Gems and other substances
-
-by Bhudeb Mookerjee | 1938 | 47,185 words | ISBN-10: 8170305829 | ISBN-13: 9788170305828
 
 This third volume of the Rasa-jala-nidhi deals with purification techniques of the Seven Metals (sapta-dhatu) and various Gems (ratna). It also deals with substances such as Alkalis (kshara), Salts (lavana), Poisions (visha) and Semi-poisions (upavisha) as well as various alcholic liquors.
 
@@ -4448,10 +3998,7 @@ This concludes ‘Gems (10-11): Suryakanta (sunstone) and Candrakanta (moonstone
 
 ## 119. Part 2 - Properties of water kept in a pot made of sphatika
 
-
 Rasa Jala Nidhi, vol 3: Metals, Gems and other substances
-
-by Bhudeb Mookerjee | 1938 | 47,185 words | ISBN-10: 8170305829 | ISBN-13: 9788170305828
 
 This third volume of the Rasa-jala-nidhi deals with purification techniques of the Seven Metals (sapta-dhatu) and various Gems (ratna). It also deals with substances such as Alkalis (kshara), Salts (lavana), Poisions (visha) and Semi-poisions (upavisha) as well as various alcholic liquors.
 
@@ -4469,17 +4016,11 @@ This concludes ‘Properties of water kept in a pot made of sphatika’ included
 
 ## 120. Part 1 - Characteristics of Moon-stone (chandrakanta) and Sun-stone (suryakanta)
 
-
 Rasa Jala Nidhi, vol 3: Metals, Gems and other substances
-
-by Bhudeb Mookerjee | 1938 | 47,185 words | ISBN-10: 8170305829 | ISBN-13: 9788170305828
 
 This third volume of the Rasa-jala-nidhi deals with purification techniques of the Seven Metals (sapta-dhatu) and various Gems (ratna). It also deals with substances such as Alkalis (kshara), Salts (lavana), Poisions (visha) and Semi-poisions (upavisha) as well as various alcholic liquors.
 
 The Rasa-jala-nidhi (“the ocean of Iatrochemistry, or, che...
-
-Go directly to: 
-Footnotes.
 
 Part 1 - Characteristics of Moon-stone (chandrakanta) and Sun-stone (suryakanta)
 
@@ -4493,10 +4034,6 @@ Properties of the Moonstone.
 
 The moon-stone (candrakanta) is cool, appearing to be smeared with oil, pacifier of rakta-pitta (hemorrhage) and inflammation. It is pleasing to Siva—the Great Deity, and is a remover of the malignant influence of the planets[1] and misfortune.
 
-Footnotes and references:
-
-[back to top]
-
 [1]:
 
 Properly speaking, the planets do not exert any influence, good or bad, on human destiny. What they actually do is to indicate good or bad luck to human beings (by their peculiar configuration)
@@ -4509,10 +4046,7 @@ This concludes ‘Characteristics of Moon-stone (chandrakanta) and Sun-stone (su
 
 ## 121. Part 2 - Properties of Moonstone water
 
-
 Rasa Jala Nidhi, vol 3: Metals, Gems and other substances
-
-by Bhudeb Mookerjee | 1938 | 47,185 words | ISBN-10: 8170305829 | ISBN-13: 9788170305828
 
 This third volume of the Rasa-jala-nidhi deals with purification techniques of the Seven Metals (sapta-dhatu) and various Gems (ratna). It also deals with substances such as Alkalis (kshara), Salts (lavana), Poisions (visha) and Semi-poisions (upavisha) as well as various alcholic liquors.
 
@@ -4530,17 +4064,11 @@ This concludes ‘Properties of Moonstone water’ included in Bhudeb Mookerjee 
 
 ## 122. Introduction to Amorphous stones (uparatna)
 
-
 Rasa Jala Nidhi, vol 3: Metals, Gems and other substances
-
-by Bhudeb Mookerjee | 1938 | 47,185 words | ISBN-10: 8170305829 | ISBN-13: 9788170305828
 
 This third volume of the Rasa-jala-nidhi deals with purification techniques of the Seven Metals (sapta-dhatu) and various Gems (ratna). It also deals with substances such as Alkalis (kshara), Salts (lavana), Poisions (visha) and Semi-poisions (upavisha) as well as various alcholic liquors.
 
 The Rasa-jala-nidhi (“the ocean of Iatrochemistry, or, che...
-
-Go directly to: 
-Footnotes.
 
 Introduction to Amorphous stones (uparatna)
 
@@ -4556,10 +4084,6 @@ General Properties of Amorphous Stones.
 
 The amorphous stones, if devoid of defects, are regarded to have a part of the properties of the gems (see page 195).
 
-Footnotes and references:
-
-[back to top]
-
 [1]:
 
 The Persian epithet “peroja” is evidently a contraction of the Sanskrit “hiraja”, meaning green as “biraja” (durva grass).
@@ -4572,10 +4096,7 @@ This concludes ‘Introduction to Amorphous stones (uparatna)’ included in Bhu
 
 ## 123. Chapter XXII - Gems (12): Pravala (coral)
 
-
 Rasa Jala Nidhi, vol 3: Metals, Gems and other substances
-
-by Bhudeb Mookerjee | 1938 | 47,185 words | ISBN-10: 8170305829 | ISBN-13: 9788170305828
 
 This third volume of the Rasa-jala-nidhi deals with purification techniques of the Seven Metals (sapta-dhatu) and various Gems (ratna). It also deals with substances such as Alkalis (kshara), Salts (lavana), Poisions (visha) and Semi-poisions (upavisha) as well as various alcholic liquors.
 
@@ -4593,10 +4114,7 @@ This concludes ‘Gems (12): Pravala (coral)’ included in Bhudeb Mookerjee Ras
 
 ## 124. Part 1 - Characteristics of Coral (pravala)
 
-
 Rasa Jala Nidhi, vol 3: Metals, Gems and other substances
-
-by Bhudeb Mookerjee | 1938 | 47,185 words | ISBN-10: 8170305829 | ISBN-13: 9788170305828
 
 This third volume of the Rasa-jala-nidhi deals with purification techniques of the Seven Metals (sapta-dhatu) and various Gems (ratna). It also deals with substances such as Alkalis (kshara), Salts (lavana), Poisions (visha) and Semi-poisions (upavisha) as well as various alcholic liquors.
 
@@ -4632,10 +4150,7 @@ This concludes ‘Characteristics of Coral (pravala)’ included in Bhudeb Mooke
 
 ## 125. Chapter XXIII - Gems (13): Karketa (chrysoberyl or chrysolite)
 
-
 Rasa Jala Nidhi, vol 3: Metals, Gems and other substances
-
-by Bhudeb Mookerjee | 1938 | 47,185 words | ISBN-10: 8170305829 | ISBN-13: 9788170305828
 
 This third volume of the Rasa-jala-nidhi deals with purification techniques of the Seven Metals (sapta-dhatu) and various Gems (ratna). It also deals with substances such as Alkalis (kshara), Salts (lavana), Poisions (visha) and Semi-poisions (upavisha) as well as various alcholic liquors.
 
@@ -4653,10 +4168,7 @@ This concludes ‘Gems (13): Karketa (chrysoberyl or chrysolite)’ included in 
 
 ## 126. Part 1 - Characteristics of Chrysoberyl (karketa or karketana)
 
-
 Rasa Jala Nidhi, vol 3: Metals, Gems and other substances
-
-by Bhudeb Mookerjee | 1938 | 47,185 words | ISBN-10: 8170305829 | ISBN-13: 9788170305828
 
 This third volume of the Rasa-jala-nidhi deals with purification techniques of the Seven Metals (sapta-dhatu) and various Gems (ratna). It also deals with substances such as Alkalis (kshara), Salts (lavana), Poisions (visha) and Semi-poisions (upavisha) as well as various alcholic liquors.
 
@@ -4690,17 +4202,11 @@ This concludes ‘Characteristics of Chrysoberyl (karketa or karketana)’ inclu
 
 ## 127. Part 1 - Characteristics of Topaz (pushparaga)
 
-
 Rasa Jala Nidhi, vol 3: Metals, Gems and other substances
-
-by Bhudeb Mookerjee | 1938 | 47,185 words | ISBN-10: 8170305829 | ISBN-13: 9788170305828
 
 This third volume of the Rasa-jala-nidhi deals with purification techniques of the Seven Metals (sapta-dhatu) and various Gems (ratna). It also deals with substances such as Alkalis (kshara), Salts (lavana), Poisions (visha) and Semi-poisions (upavisha) as well as various alcholic liquors.
 
 The Rasa-jala-nidhi (“the ocean of Iatrochemistry, or, che...
-
-Go directly to: 
-Footnotes.
 
 Part 1 - Characteristics of Topaz (pushparaga)
 
@@ -4728,10 +4234,6 @@ Properties of pushpa-raga.
 
 Pushpa-raga is efficacious in poison, nausea, excess of phlegm and vayu, loss of digestive power, inflammation, leprosy, and hemorrhage. It is easy to digest.
 
-Footnotes and references:
-
-[back to top]
-
 [1]:
 
 For a brief history of Indian Chemistry, see Chapter III, page 46 of the author’s book entitled “Indian Civilization and its Antiquity.”—(Price Rs. 2. India).
@@ -4744,10 +4246,7 @@ This concludes ‘Characteristics of Topaz (pushparaga)’ included in Bhudeb Mo
 
 ## 128. Chapter XXV - Gems (15): Rajavarta (quartz amethyst or lapis lazuli)
 
-
 Rasa Jala Nidhi, vol 3: Metals, Gems and other substances
-
-by Bhudeb Mookerjee | 1938 | 47,185 words | ISBN-10: 8170305829 | ISBN-13: 9788170305828
 
 This third volume of the Rasa-jala-nidhi deals with purification techniques of the Seven Metals (sapta-dhatu) and various Gems (ratna). It also deals with substances such as Alkalis (kshara), Salts (lavana), Poisions (visha) and Semi-poisions (upavisha) as well as various alcholic liquors.
 
@@ -4765,10 +4264,7 @@ This concludes ‘Gems (15): Rajavarta (quartz amethyst or lapis lazuli)’ incl
 
 ## 129. Part 1 - Characteristics of Lapis lazuli (rajavarta
 
-
 Rasa Jala Nidhi, vol 3: Metals, Gems and other substances
-
-by Bhudeb Mookerjee | 1938 | 47,185 words | ISBN-10: 8170305829 | ISBN-13: 9788170305828
 
 This third volume of the Rasa-jala-nidhi deals with purification techniques of the Seven Metals (sapta-dhatu) and various Gems (ratna). It also deals with substances such as Alkalis (kshara), Salts (lavana), Poisions (visha) and Semi-poisions (upavisha) as well as various alcholic liquors.
 
@@ -4794,10 +4290,7 @@ This concludes ‘Characteristics of Lapis lazuli (rajavarta’ included in Bhud
 
 ## 130. Part 2 - Purification of Rajavarta
 
-
 Rasa Jala Nidhi, vol 3: Metals, Gems and other substances
-
-by Bhudeb Mookerjee | 1938 | 47,185 words | ISBN-10: 8170305829 | ISBN-13: 9788170305828
 
 This third volume of the Rasa-jala-nidhi deals with purification techniques of the Seven Metals (sapta-dhatu) and various Gems (ratna). It also deals with substances such as Alkalis (kshara), Salts (lavana), Poisions (visha) and Semi-poisions (upavisha) as well as various alcholic liquors.
 
@@ -4821,10 +4314,7 @@ This concludes ‘Purification of Rajavarta’ included in Bhudeb Mookerjee Rasa
 
 ## 131. Part 3 - Incineration of Pajavarta
 
-
 Rasa Jala Nidhi, vol 3: Metals, Gems and other substances
-
-by Bhudeb Mookerjee | 1938 | 47,185 words | ISBN-10: 8170305829 | ISBN-13: 9788170305828
 
 This third volume of the Rasa-jala-nidhi deals with purification techniques of the Seven Metals (sapta-dhatu) and various Gems (ratna). It also deals with substances such as Alkalis (kshara), Salts (lavana), Poisions (visha) and Semi-poisions (upavisha) as well as various alcholic liquors.
 
@@ -4842,10 +4332,7 @@ This concludes ‘Incineration of Pajavarta’ included in Bhudeb Mookerjee Rasa
 
 ## 132. Part 4 - Extraction of essence of Rajavarta
 
-
 Rasa Jala Nidhi, vol 3: Metals, Gems and other substances
-
-by Bhudeb Mookerjee | 1938 | 47,185 words | ISBN-10: 8170305829 | ISBN-13: 9788170305828
 
 This third volume of the Rasa-jala-nidhi deals with purification techniques of the Seven Metals (sapta-dhatu) and various Gems (ratna). It also deals with substances such as Alkalis (kshara), Salts (lavana), Poisions (visha) and Semi-poisions (upavisha) as well as various alcholic liquors.
 
@@ -4865,10 +4352,7 @@ This concludes ‘Extraction of essence of Rajavarta’ included in Bhudeb Mooke
 
 ## 133. Chapter XXVI - Gems (16): Bhisma-mani
 
-
 Rasa Jala Nidhi, vol 3: Metals, Gems and other substances
-
-by Bhudeb Mookerjee | 1938 | 47,185 words | ISBN-10: 8170305829 | ISBN-13: 9788170305828
 
 This third volume of the Rasa-jala-nidhi deals with purification techniques of the Seven Metals (sapta-dhatu) and various Gems (ratna). It also deals with substances such as Alkalis (kshara), Salts (lavana), Poisions (visha) and Semi-poisions (upavisha) as well as various alcholic liquors.
 
@@ -4886,10 +4370,7 @@ This concludes ‘Gems (16): Bhisma-mani’ included in Bhudeb Mookerjee Rasa Ja
 
 ## 134. Part 1 - Characteristics of Bhisma-Mani (a kind of anti-poisonous quartz)
 
-
 Rasa Jala Nidhi, vol 3: Metals, Gems and other substances
-
-by Bhudeb Mookerjee | 1938 | 47,185 words | ISBN-10: 8170305829 | ISBN-13: 9788170305828
 
 This third volume of the Rasa-jala-nidhi deals with purification techniques of the Seven Metals (sapta-dhatu) and various Gems (ratna). It also deals with substances such as Alkalis (kshara), Salts (lavana), Poisions (visha) and Semi-poisions (upavisha) as well as various alcholic liquors.
 
@@ -4917,10 +4398,7 @@ This concludes ‘Characteristics of Bhisma-Mani (a kind of anti-poisonous quart
 
 ## 135. Chapter XXVII - Uparatna (minor gems)
 
-
 Rasa Jala Nidhi, vol 3: Metals, Gems and other substances
-
-by Bhudeb Mookerjee | 1938 | 47,185 words | ISBN-10: 8170305829 | ISBN-13: 9788170305828
 
 This third volume of the Rasa-jala-nidhi deals with purification techniques of the Seven Metals (sapta-dhatu) and various Gems (ratna). It also deals with substances such as Alkalis (kshara), Salts (lavana), Poisions (visha) and Semi-poisions (upavisha) as well as various alcholic liquors.
 
@@ -4938,10 +4416,7 @@ This concludes ‘Uparatna (minor gems)’ included in Bhudeb Mookerjee Rasa Jal
 
 ## 136. Part 2 - Uparatna (2): Rudhra (carnelian)
 
-
 Rasa Jala Nidhi, vol 3: Metals, Gems and other substances
-
-by Bhudeb Mookerjee | 1938 | 47,185 words | ISBN-10: 8170305829 | ISBN-13: 9788170305828
 
 This third volume of the Rasa-jala-nidhi deals with purification techniques of the Seven Metals (sapta-dhatu) and various Gems (ratna). It also deals with substances such as Alkalis (kshara), Salts (lavana), Poisions (visha) and Semi-poisions (upavisha) as well as various alcholic liquors.
 
@@ -4961,10 +4436,7 @@ This concludes ‘Uparatna (2): Rudhra (carnelian)’ included in Bhudeb Mookerj
 
 ## 137. Part 1 - Uparatna (1): Onyx (palanka)
 
-
 Rasa Jala Nidhi, vol 3: Metals, Gems and other substances
-
-by Bhudeb Mookerjee | 1938 | 47,185 words | ISBN-10: 8170305829 | ISBN-13: 9788170305828
 
 This third volume of the Rasa-jala-nidhi deals with purification techniques of the Seven Metals (sapta-dhatu) and various Gems (ratna). It also deals with substances such as Alkalis (kshara), Salts (lavana), Poisions (visha) and Semi-poisions (upavisha) as well as various alcholic liquors.
 
@@ -4982,10 +4454,7 @@ This concludes ‘Uparatna (1): Onyx (palanka)’ included in Bhudeb Mookerjee R
 
 ## 138. Part 3 - Uparatna (3): Puttika (peridote)
 
-
 Rasa Jala Nidhi, vol 3: Metals, Gems and other substances
-
-by Bhudeb Mookerjee | 1938 | 47,185 words | ISBN-10: 8170305829 | ISBN-13: 9788170305828
 
 This third volume of the Rasa-jala-nidhi deals with purification techniques of the Seven Metals (sapta-dhatu) and various Gems (ratna). It also deals with substances such as Alkalis (kshara), Salts (lavana), Poisions (visha) and Semi-poisions (upavisha) as well as various alcholic liquors.
 
@@ -5003,10 +4472,7 @@ This concludes ‘Uparatna (3): Puttika (peridote)’ included in Bhudeb Mookerj
 
 ## 139. Part 4 - Uparatna (4): Tarkshaja (turquoise—biraja)
 
-
 Rasa Jala Nidhi, vol 3: Metals, Gems and other substances
-
-by Bhudeb Mookerjee | 1938 | 47,185 words | ISBN-10: 8170305829 | ISBN-13: 9788170305828
 
 This third volume of the Rasa-jala-nidhi deals with purification techniques of the Seven Metals (sapta-dhatu) and various Gems (ratna). It also deals with substances such as Alkalis (kshara), Salts (lavana), Poisions (visha) and Semi-poisions (upavisha) as well as various alcholic liquors.
 
@@ -5026,10 +4492,7 @@ This concludes ‘Uparatna (4): Tarkshaja (turquoise—biraja)’ included in Bh
 
 ## 140. Part 5 - Uparatna (5): Pilu (jade)
 
-
 Rasa Jala Nidhi, vol 3: Metals, Gems and other substances
-
-by Bhudeb Mookerjee | 1938 | 47,185 words | ISBN-10: 8170305829 | ISBN-13: 9788170305828
 
 This third volume of the Rasa-jala-nidhi deals with purification techniques of the Seven Metals (sapta-dhatu) and various Gems (ratna). It also deals with substances such as Alkalis (kshara), Salts (lavana), Poisions (visha) and Semi-poisions (upavisha) as well as various alcholic liquors.
 
@@ -5047,10 +4510,7 @@ This concludes ‘Uparatna (5): Pilu (jade)’ included in Bhudeb Mookerjee Rasa
 
 ## 141. Part 6 - Uparatna (6): Upala (chalcedony, opal, and agate)
 
-
 Rasa Jala Nidhi, vol 3: Metals, Gems and other substances
-
-by Bhudeb Mookerjee | 1938 | 47,185 words | ISBN-10: 8170305829 | ISBN-13: 9788170305828
 
 This third volume of the Rasa-jala-nidhi deals with purification techniques of the Seven Metals (sapta-dhatu) and various Gems (ratna). It also deals with substances such as Alkalis (kshara), Salts (lavana), Poisions (visha) and Semi-poisions (upavisha) as well as various alcholic liquors.
 
@@ -5072,10 +4532,7 @@ This concludes ‘Uparatna (6): Upala (chalcedony, opal, and agate)’ included 
 
 ## 142. Part 7 - Uparatna (7): Sugandhika (spinel)
 
-
 Rasa Jala Nidhi, vol 3: Metals, Gems and other substances
-
-by Bhudeb Mookerjee | 1938 | 47,185 words | ISBN-10: 8170305829 | ISBN-13: 9788170305828
 
 This third volume of the Rasa-jala-nidhi deals with purification techniques of the Seven Metals (sapta-dhatu) and various Gems (ratna). It also deals with substances such as Alkalis (kshara), Salts (lavana), Poisions (visha) and Semi-poisions (upavisha) as well as various alcholic liquors.
 
@@ -5093,10 +4550,7 @@ This concludes ‘Uparatna (7): Sugandhika (spinel)’ included in Bhudeb Mooker
 
 ## 143. Chapter XXVIII - Kshara (akalis)
 
-
 Rasa Jala Nidhi, vol 3: Metals, Gems and other substances
-
-by Bhudeb Mookerjee | 1938 | 47,185 words | ISBN-10: 8170305829 | ISBN-13: 9788170305828
 
 This third volume of the Rasa-jala-nidhi deals with purification techniques of the Seven Metals (sapta-dhatu) and various Gems (ratna). It also deals with substances such as Alkalis (kshara), Salts (lavana), Poisions (visha) and Semi-poisions (upavisha) as well as various alcholic liquors.
 
@@ -5114,10 +4568,7 @@ This concludes ‘Kshara (akalis)’ included in Bhudeb Mookerjee Rasa Jala Nidh
 
 ## 144. Part 1 - Alkaline substance (1): Java-kshara
 
-
 Rasa Jala Nidhi, vol 3: Metals, Gems and other substances
-
-by Bhudeb Mookerjee | 1938 | 47,185 words | ISBN-10: 8170305829 | ISBN-13: 9788170305828
 
 This third volume of the Rasa-jala-nidhi deals with purification techniques of the Seven Metals (sapta-dhatu) and various Gems (ratna). It also deals with substances such as Alkalis (kshara), Salts (lavana), Poisions (visha) and Semi-poisions (upavisha) as well as various alcholic liquors.
 
@@ -5147,17 +4598,11 @@ This concludes ‘Alkaline substance (1): Java-kshara’ included in Bhudeb Mook
 
 ## 145. Part 3 - Alkaline substance (3): Svarji-kshara (refined natron)
 
-
 Rasa Jala Nidhi, vol 3: Metals, Gems and other substances
-
-by Bhudeb Mookerjee | 1938 | 47,185 words | ISBN-10: 8170305829 | ISBN-13: 9788170305828
 
 This third volume of the Rasa-jala-nidhi deals with purification techniques of the Seven Metals (sapta-dhatu) and various Gems (ratna). It also deals with substances such as Alkalis (kshara), Salts (lavana), Poisions (visha) and Semi-poisions (upavisha) as well as various alcholic liquors.
 
 The Rasa-jala-nidhi (“the ocean of Iatrochemistry, or, che...
-
-Go directly to: 
-Footnotes.
 
 Part 3 - Alkaline substance (3): Svarji-kshara (refined natron)
 
@@ -5171,10 +4616,6 @@ Artificial svarji-kshara.
 
 In the absense of svarji-kshara, as manufactured in the way stated above, physicians sometimes use, as its substitute, a kshara prepared from the ashes of duralabha or small duralabha.[1]
 
-Footnotes and references:
-
-[back to top]
-
 [1]:
 
 The small variety grows in abundance in barren tracts of land, and especially in the Punjab where it is called “lana” (contraction of “lavana”, meaning saltish).
@@ -5187,10 +4628,7 @@ This concludes ‘Alkaline substance (3): Svarji-kshara (refined natron)’ incl
 
 ## 146. Part 2 - Alkaline substance (2): Usara or Sora (salt-petre)
 
-
 Rasa Jala Nidhi, vol 3: Metals, Gems and other substances
-
-by Bhudeb Mookerjee | 1938 | 47,185 words | ISBN-10: 8170305829 | ISBN-13: 9788170305828
 
 This third volume of the Rasa-jala-nidhi deals with purification techniques of the Seven Metals (sapta-dhatu) and various Gems (ratna). It also deals with substances such as Alkalis (kshara), Salts (lavana), Poisions (visha) and Semi-poisions (upavisha) as well as various alcholic liquors.
 
@@ -5232,10 +4670,7 @@ This concludes ‘Alkaline substance (2): Usara or Sora (salt-petre)’ included
 
 ## 147. Part 4 - Alkaline substance (4): Tankana (borax)
 
-
 Rasa Jala Nidhi, vol 3: Metals, Gems and other substances
-
-by Bhudeb Mookerjee | 1938 | 47,185 words | ISBN-10: 8170305829 | ISBN-13: 9788170305828
 
 This third volume of the Rasa-jala-nidhi deals with purification techniques of the Seven Metals (sapta-dhatu) and various Gems (ratna). It also deals with substances such as Alkalis (kshara), Salts (lavana), Poisions (visha) and Semi-poisions (upavisha) as well as various alcholic liquors.
 
@@ -5269,17 +4704,11 @@ This concludes ‘Alkaline substance (4): Tankana (borax)’ included in Bhudeb 
 
 ## 148. Part 5 - Two kinds of ksharas (liquid and solid)
 
-
 Rasa Jala Nidhi, vol 3: Metals, Gems and other substances
-
-by Bhudeb Mookerjee | 1938 | 47,185 words | ISBN-10: 8170305829 | ISBN-13: 9788170305828
 
 This third volume of the Rasa-jala-nidhi deals with purification techniques of the Seven Metals (sapta-dhatu) and various Gems (ratna). It also deals with substances such as Alkalis (kshara), Salts (lavana), Poisions (visha) and Semi-poisions (upavisha) as well as various alcholic liquors.
 
 The Rasa-jala-nidhi (“the ocean of Iatrochemistry, or, che...
-
-Go directly to: 
-Footnotes.
 
 Part 5 - Two kinds of ksharas (liquid and solid)
 
@@ -5297,10 +4726,6 @@ The liquid kshara is used in toxin, gulma, udara, indigestion, colic, loss of ap
 
 It is injurious in hemorrhage, fever, biliousness, diseases of children, old men, and weak men, giddiness, after-effects of drinking wine, loss of eye-sight, etc.
 
-Footnotes and references:
-
-[back to top]
-
 [1]:
 
 Allopathic classification of diseases is so vague and general that it is impossible to find a corresponding allopathic name for every name Of diseases mentioned in the Hindu science of medicine.
@@ -5313,17 +4738,11 @@ This concludes ‘Two kinds of ksharas (liquid and solid)’ included in Bhudeb 
 
 ## 149. Part 6 - Process of preparing Sarva-kshara
 
-
 Rasa Jala Nidhi, vol 3: Metals, Gems and other substances
-
-by Bhudeb Mookerjee | 1938 | 47,185 words | ISBN-10: 8170305829 | ISBN-13: 9788170305828
 
 This third volume of the Rasa-jala-nidhi deals with purification techniques of the Seven Metals (sapta-dhatu) and various Gems (ratna). It also deals with substances such as Alkalis (kshara), Salts (lavana), Poisions (visha) and Semi-poisions (upavisha) as well as various alcholic liquors.
 
 The Rasa-jala-nidhi (“the ocean of Iatrochemistry, or, che...
-
-Go directly to: 
-Footnotes.
 
 Part 6 - Process of preparing Sarva-kshara
 
@@ -5336,10 +4755,6 @@ Two thirds of a drona of the ghanta-patali kshara and one third of a drona of th
 Take one kuraba or 1½ kuraba of this solution, and rub it with 8 palas of all these combined:—burnt lime, burnt sand obtained from the spot where the wood was burnt, oyster shells burnt, and nabhishankha (a kind of conch shell)—each equal in quantity, and previously made red-hot by heating in an iron cauldron. The paste, thus prepared, is to be boiled with two dronas of the liquid kshara, referred to above, turning it, all the while, by an iron ladle in such a way as to make the product neither solid nor liquid. The kshara, thus prepared, is of moderate strength. It would be mild, if prepared in the above way without the mixture of the paste, referred to above. It can be rendered the strongest, if prepared with the addition of four tolas in weight of the fine powder of each of the following, mixed in course of the heating:—danti, dravanti, chitraka, langalaki, leaves of nata-karanja, tala-muli, bira-salt, svarji-kshara, svarna-kshiri, hingu, baeha, and ati-visha.
 
 These ksharas are to be kept in jars with their mouths covered.[2]
-
-Footnotes and references:
-
-[back to top]
 
 [1]:
 
@@ -5357,10 +4772,7 @@ This concludes ‘Process of preparing Sarva-kshara’ included in Bhudeb Mooker
 
 ## 150. Chapter XXIX - Lavana (salts)
 
-
 Rasa Jala Nidhi, vol 3: Metals, Gems and other substances
-
-by Bhudeb Mookerjee | 1938 | 47,185 words | ISBN-10: 8170305829 | ISBN-13: 9788170305828
 
 This third volume of the Rasa-jala-nidhi deals with purification techniques of the Seven Metals (sapta-dhatu) and various Gems (ratna). It also deals with substances such as Alkalis (kshara), Salts (lavana), Poisions (visha) and Semi-poisions (upavisha) as well as various alcholic liquors.
 
@@ -5378,10 +4790,7 @@ This concludes ‘Lavana (salts)’ included in Bhudeb Mookerjee Rasa Jala Nidhi
 
 ## 151. Part 1 - Lavana (1): Samudra (sea-salt)
 
-
 Rasa Jala Nidhi, vol 3: Metals, Gems and other substances
-
-by Bhudeb Mookerjee | 1938 | 47,185 words | ISBN-10: 8170305829 | ISBN-13: 9788170305828
 
 This third volume of the Rasa-jala-nidhi deals with purification techniques of the Seven Metals (sapta-dhatu) and various Gems (ratna). It also deals with substances such as Alkalis (kshara), Salts (lavana), Poisions (visha) and Semi-poisions (upavisha) as well as various alcholic liquors.
 
@@ -5399,10 +4808,7 @@ This concludes ‘Lavana (1): Samudra (sea-salt)’ included in Bhudeb Mookerjee
 
 ## 152. Part 2 - Lavana (2): Saindhava (rock-salt)
 
-
 Rasa Jala Nidhi, vol 3: Metals, Gems and other substances
-
-by Bhudeb Mookerjee | 1938 | 47,185 words | ISBN-10: 8170305829 | ISBN-13: 9788170305828
 
 This third volume of the Rasa-jala-nidhi deals with purification techniques of the Seven Metals (sapta-dhatu) and various Gems (ratna). It also deals with substances such as Alkalis (kshara), Salts (lavana), Poisions (visha) and Semi-poisions (upavisha) as well as various alcholic liquors.
 
@@ -5420,10 +4826,7 @@ This concludes ‘Lavana (2): Saindhava (rock-salt)’ included in Bhudeb Mooker
 
 ## 153. Part 3 - Lavana (3): Bira (a type of artificial salt)
 
-
 Rasa Jala Nidhi, vol 3: Metals, Gems and other substances
-
-by Bhudeb Mookerjee | 1938 | 47,185 words | ISBN-10: 8170305829 | ISBN-13: 9788170305828
 
 This third volume of the Rasa-jala-nidhi deals with purification techniques of the Seven Metals (sapta-dhatu) and various Gems (ratna). It also deals with substances such as Alkalis (kshara), Salts (lavana), Poisions (visha) and Semi-poisions (upavisha) as well as various alcholic liquors.
 
@@ -5447,10 +4850,7 @@ This concludes ‘Lavana (3): Bira (a type of artificial salt)’ included in Bh
 
 ## 154. Part 4 - Lavana (4): Sauvarchala or Sauvarcala (salt-petre)
 
-
 Rasa Jala Nidhi, vol 3: Metals, Gems and other substances
-
-by Bhudeb Mookerjee | 1938 | 47,185 words | ISBN-10: 8170305829 | ISBN-13: 9788170305828
 
 This third volume of the Rasa-jala-nidhi deals with purification techniques of the Seven Metals (sapta-dhatu) and various Gems (ratna). It also deals with substances such as Alkalis (kshara), Salts (lavana), Poisions (visha) and Semi-poisions (upavisha) as well as various alcholic liquors.
 
@@ -5476,10 +4876,7 @@ This concludes ‘Lavana (4): Sauvarchala or Sauvarcala (salt-petre)’ included
 
 ## 155. Part 5 - Lavana (5): Romaka (sambar-salt)
 
-
 Rasa Jala Nidhi, vol 3: Metals, Gems and other substances
-
-by Bhudeb Mookerjee | 1938 | 47,185 words | ISBN-10: 8170305829 | ISBN-13: 9788170305828
 
 This third volume of the Rasa-jala-nidhi deals with purification techniques of the Seven Metals (sapta-dhatu) and various Gems (ratna). It also deals with substances such as Alkalis (kshara), Salts (lavana), Poisions (visha) and Semi-poisions (upavisha) as well as various alcholic liquors.
 
@@ -5501,10 +4898,7 @@ This concludes ‘Lavana (5): Romaka (sambar-salt)’ included in Bhudeb Mookerj
 
 ## 156. Part 6 - Lavana (6): Chulika salt
 
-
 Rasa Jala Nidhi, vol 3: Metals, Gems and other substances
-
-by Bhudeb Mookerjee | 1938 | 47,185 words | ISBN-10: 8170305829 | ISBN-13: 9788170305828
 
 This third volume of the Rasa-jala-nidhi deals with purification techniques of the Seven Metals (sapta-dhatu) and various Gems (ratna). It also deals with substances such as Alkalis (kshara), Salts (lavana), Poisions (visha) and Semi-poisions (upavisha) as well as various alcholic liquors.
 
@@ -5522,10 +4916,7 @@ This concludes ‘Lavana (6): Chulika salt’ included in Bhudeb Mookerjee Rasa 
 
 ## 157. Chapter XXX - Visha (poisons)
 
-
 Rasa Jala Nidhi, vol 3: Metals, Gems and other substances
-
-by Bhudeb Mookerjee | 1938 | 47,185 words | ISBN-10: 8170305829 | ISBN-13: 9788170305828
 
 This third volume of the Rasa-jala-nidhi deals with purification techniques of the Seven Metals (sapta-dhatu) and various Gems (ratna). It also deals with substances such as Alkalis (kshara), Salts (lavana), Poisions (visha) and Semi-poisions (upavisha) as well as various alcholic liquors.
 
@@ -5543,10 +4934,7 @@ This concludes ‘Visha (poisons)’ included in Bhudeb Mookerjee Rasa Jala Nidh
 
 ## 158. Part 1 - Tuber poison (1): Saktuka
 
-
 Rasa Jala Nidhi, vol 3: Metals, Gems and other substances
-
-by Bhudeb Mookerjee | 1938 | 47,185 words | ISBN-10: 8170305829 | ISBN-13: 9788170305828
 
 This third volume of the Rasa-jala-nidhi deals with purification techniques of the Seven Metals (sapta-dhatu) and various Gems (ratna). It also deals with substances such as Alkalis (kshara), Salts (lavana), Poisions (visha) and Semi-poisions (upavisha) as well as various alcholic liquors.
 
@@ -5564,10 +4952,7 @@ This concludes ‘Tuber poison (1): Saktuka’ included in Bhudeb Mookerjee Rasa
 
 ## 159. Part 2 - Tuber poison (2): Mustaka
 
-
 Rasa Jala Nidhi, vol 3: Metals, Gems and other substances
-
-by Bhudeb Mookerjee | 1938 | 47,185 words | ISBN-10: 8170305829 | ISBN-13: 9788170305828
 
 This third volume of the Rasa-jala-nidhi deals with purification techniques of the Seven Metals (sapta-dhatu) and various Gems (ratna). It also deals with substances such as Alkalis (kshara), Salts (lavana), Poisions (visha) and Semi-poisions (upavisha) as well as various alcholic liquors.
 
@@ -5585,10 +4970,7 @@ This concludes ‘Tuber poison (2): Mustaka’ included in Bhudeb Mookerjee Rasa
 
 ## 160. Part 3 - Tuber Poison (3): Shringi
 
-
 Rasa Jala Nidhi, vol 3: Metals, Gems and other substances
-
-by Bhudeb Mookerjee | 1938 | 47,185 words | ISBN-10: 8170305829 | ISBN-13: 9788170305828
 
 This third volume of the Rasa-jala-nidhi deals with purification techniques of the Seven Metals (sapta-dhatu) and various Gems (ratna). It also deals with substances such as Alkalis (kshara), Salts (lavana), Poisions (visha) and Semi-poisions (upavisha) as well as various alcholic liquors.
 
@@ -5606,10 +4988,7 @@ This concludes ‘Tuber Poison (3): Shringi’ included in Bhudeb Mookerjee Rasa
 
 ## 161. Part 4 - Tuber Poison (4): Baluka (saikata)
 
-
 Rasa Jala Nidhi, vol 3: Metals, Gems and other substances
-
-by Bhudeb Mookerjee | 1938 | 47,185 words | ISBN-10: 8170305829 | ISBN-13: 9788170305828
 
 This third volume of the Rasa-jala-nidhi deals with purification techniques of the Seven Metals (sapta-dhatu) and various Gems (ratna). It also deals with substances such as Alkalis (kshara), Salts (lavana), Poisions (visha) and Semi-poisions (upavisha) as well as various alcholic liquors.
 
@@ -5627,10 +5006,7 @@ This concludes ‘Tuber Poison (4): Baluka (saikata)’ included in Bhudeb Mooke
 
 ## 162. Part 5 - Tuber Poison (5): Sarshapa
 
-
 Rasa Jala Nidhi, vol 3: Metals, Gems and other substances
-
-by Bhudeb Mookerjee | 1938 | 47,185 words | ISBN-10: 8170305829 | ISBN-13: 9788170305828
 
 This third volume of the Rasa-jala-nidhi deals with purification techniques of the Seven Metals (sapta-dhatu) and various Gems (ratna). It also deals with substances such as Alkalis (kshara), Salts (lavana), Poisions (visha) and Semi-poisions (upavisha) as well as various alcholic liquors.
 
@@ -5648,10 +5024,7 @@ This concludes ‘Tuber Poison (5): Sarshapa’ included in Bhudeb Mookerjee Ras
 
 ## 163. Part 6 - Tuber Poison (6): Batsa-nabha (aconite)
 
-
 Rasa Jala Nidhi, vol 3: Metals, Gems and other substances
-
-by Bhudeb Mookerjee | 1938 | 47,185 words | ISBN-10: 8170305829 | ISBN-13: 9788170305828
 
 This third volume of the Rasa-jala-nidhi deals with purification techniques of the Seven Metals (sapta-dhatu) and various Gems (ratna). It also deals with substances such as Alkalis (kshara), Salts (lavana), Poisions (visha) and Semi-poisions (upavisha) as well as various alcholic liquors.
 
@@ -5675,10 +5048,7 @@ This concludes ‘Tuber Poison (6): Batsa-nabha (aconite)’ included in Bhudeb 
 
 ## 164. Part 7 - Tuber Poison (7): Kurma
 
-
 Rasa Jala Nidhi, vol 3: Metals, Gems and other substances
-
-by Bhudeb Mookerjee | 1938 | 47,185 words | ISBN-10: 8170305829 | ISBN-13: 9788170305828
 
 This third volume of the Rasa-jala-nidhi deals with purification techniques of the Seven Metals (sapta-dhatu) and various Gems (ratna). It also deals with substances such as Alkalis (kshara), Salts (lavana), Poisions (visha) and Semi-poisions (upavisha) as well as various alcholic liquors.
 
@@ -5696,10 +5066,7 @@ This concludes ‘Tuber Poison (7): Kurma’ included in Bhudeb Mookerjee Rasa J
 
 ## 165. Part 8 - Tuber Poison (8): Sveta-shringa
 
-
 Rasa Jala Nidhi, vol 3: Metals, Gems and other substances
-
-by Bhudeb Mookerjee | 1938 | 47,185 words | ISBN-10: 8170305829 | ISBN-13: 9788170305828
 
 This third volume of the Rasa-jala-nidhi deals with purification techniques of the Seven Metals (sapta-dhatu) and various Gems (ratna). It also deals with substances such as Alkalis (kshara), Salts (lavana), Poisions (visha) and Semi-poisions (upavisha) as well as various alcholic liquors.
 
@@ -5717,10 +5084,7 @@ This concludes ‘Tuber Poison (8): Sveta-shringa’ included in Bhudeb Mookerje
 
 ## 166. Part 9 - Tuber Poison (9): Kala-kuta
 
-
 Rasa Jala Nidhi, vol 3: Metals, Gems and other substances
-
-by Bhudeb Mookerjee | 1938 | 47,185 words | ISBN-10: 8170305829 | ISBN-13: 9788170305828
 
 This third volume of the Rasa-jala-nidhi deals with purification techniques of the Seven Metals (sapta-dhatu) and various Gems (ratna). It also deals with substances such as Alkalis (kshara), Salts (lavana), Poisions (visha) and Semi-poisions (upavisha) as well as various alcholic liquors.
 
@@ -5740,10 +5104,7 @@ This concludes ‘Tuber Poison (9): Kala-kuta’ included in Bhudeb Mookerjee Ra
 
 ## 167. Part 10 - Tuber Poison (10): Meshashringi
 
-
 Rasa Jala Nidhi, vol 3: Metals, Gems and other substances
-
-by Bhudeb Mookerjee | 1938 | 47,185 words | ISBN-10: 8170305829 | ISBN-13: 9788170305828
 
 This third volume of the Rasa-jala-nidhi deals with purification techniques of the Seven Metals (sapta-dhatu) and various Gems (ratna). It also deals with substances such as Alkalis (kshara), Salts (lavana), Poisions (visha) and Semi-poisions (upavisha) as well as various alcholic liquors.
 
@@ -5761,10 +5122,7 @@ This concludes ‘Tuber Poison (10): Meshashringi’ included in Bhudeb Mookerje
 
 ## 168. Part 11 - Tuber Poison (11): Halahala
 
-
 Rasa Jala Nidhi, vol 3: Metals, Gems and other substances
-
-by Bhudeb Mookerjee | 1938 | 47,185 words | ISBN-10: 8170305829 | ISBN-13: 9788170305828
 
 This third volume of the Rasa-jala-nidhi deals with purification techniques of the Seven Metals (sapta-dhatu) and various Gems (ratna). It also deals with substances such as Alkalis (kshara), Salts (lavana), Poisions (visha) and Semi-poisions (upavisha) as well as various alcholic liquors.
 
@@ -5782,10 +5140,7 @@ This concludes ‘Tuber Poison (11): Halahala’ included in Bhudeb Mookerjee Ra
 
 ## 169. Chapter XXIV - Gems (14): Pushparaga (topaz)
 
-
 Rasa Jala Nidhi, vol 3: Metals, Gems and other substances
-
-by Bhudeb Mookerjee | 1938 | 47,185 words | ISBN-10: 8170305829 | ISBN-13: 9788170305828
 
 This third volume of the Rasa-jala-nidhi deals with purification techniques of the Seven Metals (sapta-dhatu) and various Gems (ratna). It also deals with substances such as Alkalis (kshara), Salts (lavana), Poisions (visha) and Semi-poisions (upavisha) as well as various alcholic liquors.
 
@@ -5803,10 +5158,7 @@ This concludes ‘Gems (14): Pushparaga (topaz)’ included in Bhudeb Mookerjee 
 
 ## 170. Part 12 - Tuber Poison (12): Dardura
 
-
 Rasa Jala Nidhi, vol 3: Metals, Gems and other substances
-
-by Bhudeb Mookerjee | 1938 | 47,185 words | ISBN-10: 8170305829 | ISBN-13: 9788170305828
 
 This third volume of the Rasa-jala-nidhi deals with purification techniques of the Seven Metals (sapta-dhatu) and various Gems (ratna). It also deals with substances such as Alkalis (kshara), Salts (lavana), Poisions (visha) and Semi-poisions (upavisha) as well as various alcholic liquors.
 
@@ -5824,10 +5176,7 @@ This concludes ‘Tuber Poison (12): Dardura’ included in Bhudeb Mookerjee Ras
 
 ## 171. Part 13 - Tuber Poison (13): Karkata or Karkota
 
-
 Rasa Jala Nidhi, vol 3: Metals, Gems and other substances
-
-by Bhudeb Mookerjee | 1938 | 47,185 words | ISBN-10: 8170305829 | ISBN-13: 9788170305828
 
 This third volume of the Rasa-jala-nidhi deals with purification techniques of the Seven Metals (sapta-dhatu) and various Gems (ratna). It also deals with substances such as Alkalis (kshara), Salts (lavana), Poisions (visha) and Semi-poisions (upavisha) as well as various alcholic liquors.
 
@@ -5845,10 +5194,7 @@ This concludes ‘Tuber Poison (13): Karkata or Karkota’ included in Bhudeb Mo
 
 ## 172. Part 14 - Tuber Poison (14): Mulaka
 
-
 Rasa Jala Nidhi, vol 3: Metals, Gems and other substances
-
-by Bhudeb Mookerjee | 1938 | 47,185 words | ISBN-10: 8170305829 | ISBN-13: 9788170305828
 
 This third volume of the Rasa-jala-nidhi deals with purification techniques of the Seven Metals (sapta-dhatu) and various Gems (ratna). It also deals with substances such as Alkalis (kshara), Salts (lavana), Poisions (visha) and Semi-poisions (upavisha) as well as various alcholic liquors.
 
@@ -5866,10 +5212,7 @@ This concludes ‘Tuber Poison (14): Mulaka’ included in Bhudeb Mookerjee Rasa
 
 ## 173. Part 16 - Tuber Poison (16): Haridra or mirata
 
-
 Rasa Jala Nidhi, vol 3: Metals, Gems and other substances
-
-by Bhudeb Mookerjee | 1938 | 47,185 words | ISBN-10: 8170305829 | ISBN-13: 9788170305828
 
 This third volume of the Rasa-jala-nidhi deals with purification techniques of the Seven Metals (sapta-dhatu) and various Gems (ratna). It also deals with substances such as Alkalis (kshara), Salts (lavana), Poisions (visha) and Semi-poisions (upavisha) as well as various alcholic liquors.
 
@@ -5887,10 +5230,7 @@ This concludes ‘Tuber Poison (16): Haridra or mirata’ included in Bhudeb Moo
 
 ## 174. Part 17 - Tuber Poison (17): Rakta-shringi
 
-
 Rasa Jala Nidhi, vol 3: Metals, Gems and other substances
-
-by Bhudeb Mookerjee | 1938 | 47,185 words | ISBN-10: 8170305829 | ISBN-13: 9788170305828
 
 This third volume of the Rasa-jala-nidhi deals with purification techniques of the Seven Metals (sapta-dhatu) and various Gems (ratna). It also deals with substances such as Alkalis (kshara), Salts (lavana), Poisions (visha) and Semi-poisions (upavisha) as well as various alcholic liquors.
 
@@ -5908,10 +5248,7 @@ This concludes ‘Tuber Poison (17): Rakta-shringi’ included in Bhudeb Mookerj
 
 ## 175. Part 18 - Tuber Poison (18): Keshara, Pradipana or Mahabisha (Mahavisha)
 
-
 Rasa Jala Nidhi, vol 3: Metals, Gems and other substances
-
-by Bhudeb Mookerjee | 1938 | 47,185 words | ISBN-10: 8170305829 | ISBN-13: 9788170305828
 
 This third volume of the Rasa-jala-nidhi deals with purification techniques of the Seven Metals (sapta-dhatu) and various Gems (ratna). It also deals with substances such as Alkalis (kshara), Salts (lavana), Poisions (visha) and Semi-poisions (upavisha) as well as various alcholic liquors.
 
@@ -5935,10 +5272,7 @@ This concludes ‘Tuber Poison (18): Keshara, Pradipana or Mahabisha (Mahavisha)
 
 ## 176. Part 19 - Caste or classification of the eight poisons
 
-
 Rasa Jala Nidhi, vol 3: Metals, Gems and other substances
-
-by Bhudeb Mookerjee | 1938 | 47,185 words | ISBN-10: 8170305829 | ISBN-13: 9788170305828
 
 This third volume of the Rasa-jala-nidhi deals with purification techniques of the Seven Metals (sapta-dhatu) and various Gems (ratna). It also deals with substances such as Alkalis (kshara), Salts (lavana), Poisions (visha) and Semi-poisions (upavisha) as well as various alcholic liquors.
 
@@ -5972,10 +5306,7 @@ This concludes ‘Caste or classification of the eight poisons’ included in Bh
 
 ## 177. Part 20 - Symptoms of Poison
 
-
 Rasa Jala Nidhi, vol 3: Metals, Gems and other substances
-
-by Bhudeb Mookerjee | 1938 | 47,185 words | ISBN-10: 8170305829 | ISBN-13: 9788170305828
 
 This third volume of the Rasa-jala-nidhi deals with purification techniques of the Seven Metals (sapta-dhatu) and various Gems (ratna). It also deals with substances such as Alkalis (kshara), Salts (lavana), Poisions (visha) and Semi-poisions (upavisha) as well as various alcholic liquors.
 
@@ -6005,10 +5336,7 @@ This concludes ‘Symptoms of Poison’ included in Bhudeb Mookerjee Rasa Jala N
 
 ## 178. Part 21 - Treatment of poison
 
-
 Rasa Jala Nidhi, vol 3: Metals, Gems and other substances
-
-by Bhudeb Mookerjee | 1938 | 47,185 words | ISBN-10: 8170305829 | ISBN-13: 9788170305828
 
 This third volume of the Rasa-jala-nidhi deals with purification techniques of the Seven Metals (sapta-dhatu) and various Gems (ratna). It also deals with substances such as Alkalis (kshara), Salts (lavana), Poisions (visha) and Semi-poisions (upavisha) as well as various alcholic liquors.
 
@@ -6050,10 +5378,7 @@ This concludes ‘Treatment of poison’ included in Bhudeb Mookerjee Rasa Jala 
 
 ## 179. Part 22 - How tuber-poison is to be procured
 
-
 Rasa Jala Nidhi, vol 3: Metals, Gems and other substances
-
-by Bhudeb Mookerjee | 1938 | 47,185 words | ISBN-10: 8170305829 | ISBN-13: 9788170305828
 
 This third volume of the Rasa-jala-nidhi deals with purification techniques of the Seven Metals (sapta-dhatu) and various Gems (ratna). It also deals with substances such as Alkalis (kshara), Salts (lavana), Poisions (visha) and Semi-poisions (upavisha) as well as various alcholic liquors.
 
@@ -6071,10 +5396,7 @@ This concludes ‘How tuber-poison is to be procured’ included in Bhudeb Mooke
 
 ## 180. Part 24 - Usage of poisons
 
-
 Rasa Jala Nidhi, vol 3: Metals, Gems and other substances
-
-by Bhudeb Mookerjee | 1938 | 47,185 words | ISBN-10: 8170305829 | ISBN-13: 9788170305828
 
 This third volume of the Rasa-jala-nidhi deals with purification techniques of the Seven Metals (sapta-dhatu) and various Gems (ratna). It also deals with substances such as Alkalis (kshara), Salts (lavana), Poisions (visha) and Semi-poisions (upavisha) as well as various alcholic liquors.
 
@@ -6144,10 +5466,7 @@ This concludes ‘Usage of poisons’ included in Bhudeb Mookerjee Rasa Jala Nid
 
 ## 181. Part 25 - Purification of serpent poison
 
-
 Rasa Jala Nidhi, vol 3: Metals, Gems and other substances
-
-by Bhudeb Mookerjee | 1938 | 47,185 words | ISBN-10: 8170305829 | ISBN-13: 9788170305828
 
 This third volume of the Rasa-jala-nidhi deals with purification techniques of the Seven Metals (sapta-dhatu) and various Gems (ratna). It also deals with substances such as Alkalis (kshara), Salts (lavana), Poisions (visha) and Semi-poisions (upavisha) as well as various alcholic liquors.
 
@@ -6175,10 +5494,7 @@ This concludes ‘Purification of serpent poison’ included in Bhudeb Mookerjee
 
 ## 182. Part 26 - Remedy of snake-bite
 
-
 Rasa Jala Nidhi, vol 3: Metals, Gems and other substances
-
-by Bhudeb Mookerjee | 1938 | 47,185 words | ISBN-10: 8170305829 | ISBN-13: 9788170305828
 
 This third volume of the Rasa-jala-nidhi deals with purification techniques of the Seven Metals (sapta-dhatu) and various Gems (ratna). It also deals with substances such as Alkalis (kshara), Salts (lavana), Poisions (visha) and Semi-poisions (upavisha) as well as various alcholic liquors.
 
@@ -6196,10 +5512,7 @@ This concludes ‘Remedy of snake-bite’ included in Bhudeb Mookerjee Rasa Jala
 
 ## 183. Part 23 - Purification of tuber poisons
 
-
 Rasa Jala Nidhi, vol 3: Metals, Gems and other substances
-
-by Bhudeb Mookerjee | 1938 | 47,185 words | ISBN-10: 8170305829 | ISBN-13: 9788170305828
 
 This third volume of the Rasa-jala-nidhi deals with purification techniques of the Seven Metals (sapta-dhatu) and various Gems (ratna). It also deals with substances such as Alkalis (kshara), Salts (lavana), Poisions (visha) and Semi-poisions (upavisha) as well as various alcholic liquors.
 
@@ -6227,10 +5540,7 @@ This concludes ‘Purification of tuber poisons’ included in Bhudeb Mookerjee 
 
 ## 184. Chapter XXXI - Upavisha (semi-poisons)
 
-
 Rasa Jala Nidhi, vol 3: Metals, Gems and other substances
-
-by Bhudeb Mookerjee | 1938 | 47,185 words | ISBN-10: 8170305829 | ISBN-13: 9788170305828
 
 This third volume of the Rasa-jala-nidhi deals with purification techniques of the Seven Metals (sapta-dhatu) and various Gems (ratna). It also deals with substances such as Alkalis (kshara), Salts (lavana), Poisions (visha) and Semi-poisions (upavisha) as well as various alcholic liquors.
 
@@ -6248,10 +5558,7 @@ This concludes ‘Upavisha (semi-poisons)’ included in Bhudeb Mookerjee Rasa J
 
 ## 185. Part 2 - Semi-poison (2): Arka
 
-
 Rasa Jala Nidhi, vol 3: Metals, Gems and other substances
-
-by Bhudeb Mookerjee | 1938 | 47,185 words | ISBN-10: 8170305829 | ISBN-13: 9788170305828
 
 This third volume of the Rasa-jala-nidhi deals with purification techniques of the Seven Metals (sapta-dhatu) and various Gems (ratna). It also deals with substances such as Alkalis (kshara), Salts (lavana), Poisions (visha) and Semi-poisions (upavisha) as well as various alcholic liquors.
 
@@ -6279,10 +5586,7 @@ This concludes ‘Semi-poison (2): Arka’ included in Bhudeb Mookerjee Rasa Jal
 
 ## 186. Part 3 - Semi-poison (3): Langali
 
-
 Rasa Jala Nidhi, vol 3: Metals, Gems and other substances
-
-by Bhudeb Mookerjee | 1938 | 47,185 words | ISBN-10: 8170305829 | ISBN-13: 9788170305828
 
 This third volume of the Rasa-jala-nidhi deals with purification techniques of the Seven Metals (sapta-dhatu) and various Gems (ratna). It also deals with substances such as Alkalis (kshara), Salts (lavana), Poisions (visha) and Semi-poisions (upavisha) as well as various alcholic liquors.
 
@@ -6304,10 +5608,7 @@ This concludes ‘Semi-poison (3): Langali’ included in Bhudeb Mookerjee Rasa 
 
 ## 187. Part 1 - Semi-poison (1): Snuhi
 
-
 Rasa Jala Nidhi, vol 3: Metals, Gems and other substances
-
-by Bhudeb Mookerjee | 1938 | 47,185 words | ISBN-10: 8170305829 | ISBN-13: 9788170305828
 
 This third volume of the Rasa-jala-nidhi deals with purification techniques of the Seven Metals (sapta-dhatu) and various Gems (ratna). It also deals with substances such as Alkalis (kshara), Salts (lavana), Poisions (visha) and Semi-poisions (upavisha) as well as various alcholic liquors.
 
@@ -6339,10 +5640,7 @@ This concludes ‘Semi-poison (1): Snuhi’ included in Bhudeb Mookerjee Rasa Ja
 
 ## 188. Part 4 - Semi-poison (4): Gunja
 
-
 Rasa Jala Nidhi, vol 3: Metals, Gems and other substances
-
-by Bhudeb Mookerjee | 1938 | 47,185 words | ISBN-10: 8170305829 | ISBN-13: 9788170305828
 
 This third volume of the Rasa-jala-nidhi deals with purification techniques of the Seven Metals (sapta-dhatu) and various Gems (ratna). It also deals with substances such as Alkalis (kshara), Salts (lavana), Poisions (visha) and Semi-poisions (upavisha) as well as various alcholic liquors.
 
@@ -6366,10 +5664,7 @@ This concludes ‘Semi-poison (4): Gunja’ included in Bhudeb Mookerjee Rasa Ja
 
 ## 189. Part 5 - Semi-poison (5): Karavira or Karabira
 
-
 Rasa Jala Nidhi, vol 3: Metals, Gems and other substances
-
-by Bhudeb Mookerjee | 1938 | 47,185 words | ISBN-10: 8170305829 | ISBN-13: 9788170305828
 
 This third volume of the Rasa-jala-nidhi deals with purification techniques of the Seven Metals (sapta-dhatu) and various Gems (ratna). It also deals with substances such as Alkalis (kshara), Salts (lavana), Poisions (visha) and Semi-poisions (upavisha) as well as various alcholic liquors.
 
@@ -6399,10 +5694,7 @@ This concludes ‘Semi-poison (5): Karavira or Karabira’ included in Bhudeb Mo
 
 ## 190. Part 7 - Semi-poison (7): Dhattura or Dhustura (strammonium)
 
-
 Rasa Jala Nidhi, vol 3: Metals, Gems and other substances
-
-by Bhudeb Mookerjee | 1938 | 47,185 words | ISBN-10: 8170305829 | ISBN-13: 9788170305828
 
 This third volume of the Rasa-jala-nidhi deals with purification techniques of the Seven Metals (sapta-dhatu) and various Gems (ratna). It also deals with substances such as Alkalis (kshara), Salts (lavana), Poisions (visha) and Semi-poisions (upavisha) as well as various alcholic liquors.
 
@@ -6436,10 +5728,7 @@ This concludes ‘Semi-poison (7): Dhattura or Dhustura (strammonium)’ include
 
 ## 191. Part 8 - Semi-poison (8): Jayapala (croton seeds)
 
-
 Rasa Jala Nidhi, vol 3: Metals, Gems and other substances
-
-by Bhudeb Mookerjee | 1938 | 47,185 words | ISBN-10: 8170305829 | ISBN-13: 9788170305828
 
 This third volume of the Rasa-jala-nidhi deals with purification techniques of the Seven Metals (sapta-dhatu) and various Gems (ratna). It also deals with substances such as Alkalis (kshara), Salts (lavana), Poisions (visha) and Semi-poisions (upavisha) as well as various alcholic liquors.
 
@@ -6477,10 +5766,7 @@ This concludes ‘Semi-poison (8): Jayapala (croton seeds)’ included in Bhudeb
 
 ## 192. Part 9 - Semi-poison (9): Bhallataka
 
-
 Rasa Jala Nidhi, vol 3: Metals, Gems and other substances
-
-by Bhudeb Mookerjee | 1938 | 47,185 words | ISBN-10: 8170305829 | ISBN-13: 9788170305828
 
 This third volume of the Rasa-jala-nidhi deals with purification techniques of the Seven Metals (sapta-dhatu) and various Gems (ratna). It also deals with substances such as Alkalis (kshara), Salts (lavana), Poisions (visha) and Semi-poisions (upavisha) as well as various alcholic liquors.
 
@@ -6520,10 +5806,7 @@ This concludes ‘Semi-poison (9): Bhallataka’ included in Bhudeb Mookerjee Ra
 
 ## 193. Part 10 - Semi-poison (10): Nirvisa
 
-
 Rasa Jala Nidhi, vol 3: Metals, Gems and other substances
-
-by Bhudeb Mookerjee | 1938 | 47,185 words | ISBN-10: 8170305829 | ISBN-13: 9788170305828
 
 This third volume of the Rasa-jala-nidhi deals with purification techniques of the Seven Metals (sapta-dhatu) and various Gems (ratna). It also deals with substances such as Alkalis (kshara), Salts (lavana), Poisions (visha) and Semi-poisions (upavisha) as well as various alcholic liquors.
 
@@ -6543,10 +5826,7 @@ This concludes ‘Semi-poison (10): Nirvisa’ included in Bhudeb Mookerjee Rasa
 
 ## 194. Part 11 - Semi-poison (11): Ativisha
 
-
 Rasa Jala Nidhi, vol 3: Metals, Gems and other substances
-
-by Bhudeb Mookerjee | 1938 | 47,185 words | ISBN-10: 8170305829 | ISBN-13: 9788170305828
 
 This third volume of the Rasa-jala-nidhi deals with purification techniques of the Seven Metals (sapta-dhatu) and various Gems (ratna). It also deals with substances such as Alkalis (kshara), Salts (lavana), Poisions (visha) and Semi-poisions (upavisha) as well as various alcholic liquors.
 
@@ -6564,10 +5844,7 @@ This concludes ‘Semi-poison (11): Ativisha’ included in Bhudeb Mookerjee Ras
 
 ## 195. Part 6 - Semi-poison (6): Visha-musti (kuchila)
 
-
 Rasa Jala Nidhi, vol 3: Metals, Gems and other substances
-
-by Bhudeb Mookerjee | 1938 | 47,185 words | ISBN-10: 8170305829 | ISBN-13: 9788170305828
 
 This third volume of the Rasa-jala-nidhi deals with purification techniques of the Seven Metals (sapta-dhatu) and various Gems (ratna). It also deals with substances such as Alkalis (kshara), Salts (lavana), Poisions (visha) and Semi-poisions (upavisha) as well as various alcholic liquors.
 
@@ -6593,10 +5870,7 @@ This concludes ‘Semi-poison (6): Visha-musti (kuchila)’ included in Bhudeb M
 
 ## 196. Part 15 - Tuber Poison (15): Granthi
 
-
 Rasa Jala Nidhi, vol 3: Metals, Gems and other substances
-
-by Bhudeb Mookerjee | 1938 | 47,185 words | ISBN-10: 8170305829 | ISBN-13: 9788170305828
 
 This third volume of the Rasa-jala-nidhi deals with purification techniques of the Seven Metals (sapta-dhatu) and various Gems (ratna). It also deals with substances such as Alkalis (kshara), Salts (lavana), Poisions (visha) and Semi-poisions (upavisha) as well as various alcholic liquors.
 
@@ -6614,10 +5888,7 @@ This concludes ‘Tuber Poison (15): Granthi’ included in Bhudeb Mookerjee Ras
 
 ## 197. Part 12 - Semi-poison (12): Ahiphena (opium)
 
-
 Rasa Jala Nidhi, vol 3: Metals, Gems and other substances
-
-by Bhudeb Mookerjee | 1938 | 47,185 words | ISBN-10: 8170305829 | ISBN-13: 9788170305828
 
 This third volume of the Rasa-jala-nidhi deals with purification techniques of the Seven Metals (sapta-dhatu) and various Gems (ratna). It also deals with substances such as Alkalis (kshara), Salts (lavana), Poisions (visha) and Semi-poisions (upavisha) as well as various alcholic liquors.
 
@@ -6649,10 +5920,7 @@ This concludes ‘Semi-poison (12): Ahiphena (opium)’ included in Bhudeb Mooke
 
 ## 198. Part 13 - Semi-poison (13): Jaya (or bhang, bhanga, Cannabis sativa)
 
-
 Rasa Jala Nidhi, vol 3: Metals, Gems and other substances
-
-by Bhudeb Mookerjee | 1938 | 47,185 words | ISBN-10: 8170305829 | ISBN-13: 9788170305828
 
 This third volume of the Rasa-jala-nidhi deals with purification techniques of the Seven Metals (sapta-dhatu) and various Gems (ratna). It also deals with substances such as Alkalis (kshara), Salts (lavana), Poisions (visha) and Semi-poisions (upavisha) as well as various alcholic liquors.
 
@@ -6686,10 +5954,7 @@ This concludes ‘Semi-poison (13): Jaya (or bhang, bhanga, Cannabis sativa)’ 
 
 ## 199. Part 14 - Ganja (Cannabis indica)
 
-
 Rasa Jala Nidhi, vol 3: Metals, Gems and other substances
-
-by Bhudeb Mookerjee | 1938 | 47,185 words | ISBN-10: 8170305829 | ISBN-13: 9788170305828
 
 This third volume of the Rasa-jala-nidhi deals with purification techniques of the Seven Metals (sapta-dhatu) and various Gems (ratna). It also deals with substances such as Alkalis (kshara), Salts (lavana), Poisions (visha) and Semi-poisions (upavisha) as well as various alcholic liquors.
 
@@ -6717,10 +5982,7 @@ This concludes ‘Ganja (Cannabis indica)’ included in Bhudeb Mookerjee Rasa J
 
 ## 200. Part 17 - Purification of Katuki and various other seeds
 
-
 Rasa Jala Nidhi, vol 3: Metals, Gems and other substances
-
-by Bhudeb Mookerjee | 1938 | 47,185 words | ISBN-10: 8170305829 | ISBN-13: 9788170305828
 
 This third volume of the Rasa-jala-nidhi deals with purification techniques of the Seven Metals (sapta-dhatu) and various Gems (ratna). It also deals with substances such as Alkalis (kshara), Salts (lavana), Poisions (visha) and Semi-poisions (upavisha) as well as various alcholic liquors.
 
@@ -6740,10 +6002,7 @@ This concludes ‘Purification of Katuki and various other seeds’ included in 
 
 ## 201. Part 15 - Purification of Vriddha-dara seeds
 
-
 Rasa Jala Nidhi, vol 3: Metals, Gems and other substances
-
-by Bhudeb Mookerjee | 1938 | 47,185 words | ISBN-10: 8170305829 | ISBN-13: 9788170305828
 
 This third volume of the Rasa-jala-nidhi deals with purification techniques of the Seven Metals (sapta-dhatu) and various Gems (ratna). It also deals with substances such as Alkalis (kshara), Salts (lavana), Poisions (visha) and Semi-poisions (upavisha) as well as various alcholic liquors.
 
@@ -6761,10 +6020,7 @@ This concludes ‘Purification of Vriddha-dara seeds’ included in Bhudeb Mooke
 
 ## 202. Part 19 - Purification of Leeches
 
-
 Rasa Jala Nidhi, vol 3: Metals, Gems and other substances
-
-by Bhudeb Mookerjee | 1938 | 47,185 words | ISBN-10: 8170305829 | ISBN-13: 9788170305828
 
 This third volume of the Rasa-jala-nidhi deals with purification techniques of the Seven Metals (sapta-dhatu) and various Gems (ratna). It also deals with substances such as Alkalis (kshara), Salts (lavana), Poisions (visha) and Semi-poisions (upavisha) as well as various alcholic liquors.
 
@@ -6784,10 +6040,7 @@ This concludes ‘Purification of Leeches’ included in Bhudeb Mookerjee Rasa J
 
 ## 203. Part 18 - Purification of Guggulu
 
-
 Rasa Jala Nidhi, vol 3: Metals, Gems and other substances
-
-by Bhudeb Mookerjee | 1938 | 47,185 words | ISBN-10: 8170305829 | ISBN-13: 9788170305828
 
 This third volume of the Rasa-jala-nidhi deals with purification techniques of the Seven Metals (sapta-dhatu) and various Gems (ratna). It also deals with substances such as Alkalis (kshara), Salts (lavana), Poisions (visha) and Semi-poisions (upavisha) as well as various alcholic liquors.
 
@@ -6815,17 +6068,11 @@ This concludes ‘Purification of Guggulu’ included in Bhudeb Mookerjee Rasa J
 
 ## 204. Part 1 - Extraction of oil from seeds of any kind
 
-
 Rasa Jala Nidhi, vol 3: Metals, Gems and other substances
-
-by Bhudeb Mookerjee | 1938 | 47,185 words | ISBN-10: 8170305829 | ISBN-13: 9788170305828
 
 This third volume of the Rasa-jala-nidhi deals with purification techniques of the Seven Metals (sapta-dhatu) and various Gems (ratna). It also deals with substances such as Alkalis (kshara), Salts (lavana), Poisions (visha) and Semi-poisions (upavisha) as well as various alcholic liquors.
 
 The Rasa-jala-nidhi (“the ocean of Iatrochemistry, or, che...
-
-Go directly to: 
-Footnotes.
 
 Part 1 - Extraction of oil from seeds of any kind
 
@@ -6851,10 +6098,6 @@ Seeds of ankolla, pestled with kanji, are to be kept one night, and then made in
 
 Oil can thus be extracted from all sorts of seed.
 
-Footnotes and references:
-
-[back to top]
-
 [1]:
 
 Ripe, according to another text
@@ -6867,10 +6110,7 @@ This concludes ‘Extraction of oil from seeds of any kind’ included in Bhudeb
 
 ## 205. Part 2 - Extraction of oil from seeds of Ankola or Ankolla
 
-
 Rasa Jala Nidhi, vol 3: Metals, Gems and other substances
-
-by Bhudeb Mookerjee | 1938 | 47,185 words | ISBN-10: 8170305829 | ISBN-13: 9788170305828
 
 This third volume of the Rasa-jala-nidhi deals with purification techniques of the Seven Metals (sapta-dhatu) and various Gems (ratna). It also deals with substances such as Alkalis (kshara), Salts (lavana), Poisions (visha) and Semi-poisions (upavisha) as well as various alcholic liquors.
 
@@ -6896,10 +6136,7 @@ This concludes ‘Extraction of oil from seeds of Ankola or Ankolla’ included 
 
 ## 206. Part 3 - Extraction of oil from seeds of Ankota and Bakuchi
 
-
 Rasa Jala Nidhi, vol 3: Metals, Gems and other substances
-
-by Bhudeb Mookerjee | 1938 | 47,185 words | ISBN-10: 8170305829 | ISBN-13: 9788170305828
 
 This third volume of the Rasa-jala-nidhi deals with purification techniques of the Seven Metals (sapta-dhatu) and various Gems (ratna). It also deals with substances such as Alkalis (kshara), Salts (lavana), Poisions (visha) and Semi-poisions (upavisha) as well as various alcholic liquors.
 
@@ -6919,10 +6156,7 @@ This concludes ‘Extraction of oil from seeds of Ankota and Bakuchi’ included
 
 ## 207. Chapter XXXII - Extraction of oil from seeds
 
-
 Rasa Jala Nidhi, vol 3: Metals, Gems and other substances
-
-by Bhudeb Mookerjee | 1938 | 47,185 words | ISBN-10: 8170305829 | ISBN-13: 9788170305828
 
 This third volume of the Rasa-jala-nidhi deals with purification techniques of the Seven Metals (sapta-dhatu) and various Gems (ratna). It also deals with substances such as Alkalis (kshara), Salts (lavana), Poisions (visha) and Semi-poisions (upavisha) as well as various alcholic liquors.
 
@@ -6940,10 +6174,7 @@ This concludes ‘Extraction of oil from seeds’ included in Bhudeb Mookerjee R
 
 ## 208. Part 4 - Extraction of oil from seeds of Katu-tumbi
 
-
 Rasa Jala Nidhi, vol 3: Metals, Gems and other substances
-
-by Bhudeb Mookerjee | 1938 | 47,185 words | ISBN-10: 8170305829 | ISBN-13: 9788170305828
 
 This third volume of the Rasa-jala-nidhi deals with purification techniques of the Seven Metals (sapta-dhatu) and various Gems (ratna). It also deals with substances such as Alkalis (kshara), Salts (lavana), Poisions (visha) and Semi-poisions (upavisha) as well as various alcholic liquors.
 
@@ -6961,10 +6192,7 @@ This concludes ‘Extraction of oil from seeds of Katu-tumbi’ included in Bhud
 
 ## 209. Part 5 - Extraction of oil from seeds of Gunja and Karanja
 
-
 Rasa Jala Nidhi, vol 3: Metals, Gems and other substances
-
-by Bhudeb Mookerjee | 1938 | 47,185 words | ISBN-10: 8170305829 | ISBN-13: 9788170305828
 
 This third volume of the Rasa-jala-nidhi deals with purification techniques of the Seven Metals (sapta-dhatu) and various Gems (ratna). It also deals with substances such as Alkalis (kshara), Salts (lavana), Poisions (visha) and Semi-poisions (upavisha) as well as various alcholic liquors.
 
@@ -6988,10 +6216,7 @@ This concludes ‘Extraction of oil from seeds of Gunja and Karanja’ included 
 
 ## 210. Part 6 - Extraction of oil from seeds of Pashana
 
-
 Rasa Jala Nidhi, vol 3: Metals, Gems and other substances
-
-by Bhudeb Mookerjee | 1938 | 47,185 words | ISBN-10: 8170305829 | ISBN-13: 9788170305828
 
 This third volume of the Rasa-jala-nidhi deals with purification techniques of the Seven Metals (sapta-dhatu) and various Gems (ratna). It also deals with substances such as Alkalis (kshara), Salts (lavana), Poisions (visha) and Semi-poisions (upavisha) as well as various alcholic liquors.
 
@@ -7009,10 +6234,7 @@ This concludes ‘Extraction of oil from seeds of Pashana’ included in Bhudeb 
 
 ## 211. Part 8 - Extraction of oil from seeds of Putranjiba and Agasti
 
-
 Rasa Jala Nidhi, vol 3: Metals, Gems and other substances
-
-by Bhudeb Mookerjee | 1938 | 47,185 words | ISBN-10: 8170305829 | ISBN-13: 9788170305828
 
 This third volume of the Rasa-jala-nidhi deals with purification techniques of the Seven Metals (sapta-dhatu) and various Gems (ratna). It also deals with substances such as Alkalis (kshara), Salts (lavana), Poisions (visha) and Semi-poisions (upavisha) as well as various alcholic liquors.
 
@@ -7030,10 +6252,7 @@ This concludes ‘Extraction of oil from seeds of Putranjiba and Agasti’ inclu
 
 ## 212. Part 9 - Extraction of oil from seeds of Shami
 
-
 Rasa Jala Nidhi, vol 3: Metals, Gems and other substances
-
-by Bhudeb Mookerjee | 1938 | 47,185 words | ISBN-10: 8170305829 | ISBN-13: 9788170305828
 
 This third volume of the Rasa-jala-nidhi deals with purification techniques of the Seven Metals (sapta-dhatu) and various Gems (ratna). It also deals with substances such as Alkalis (kshara), Salts (lavana), Poisions (visha) and Semi-poisions (upavisha) as well as various alcholic liquors.
 
@@ -7051,10 +6270,7 @@ This concludes ‘Extraction of oil from seeds of Shami’ included in Bhudeb Mo
 
 ## 213. Chapter XXXIII - Spirituous liquors (Sandhana or Samdhana)
 
-
 Rasa Jala Nidhi, vol 3: Metals, Gems and other substances
-
-by Bhudeb Mookerjee | 1938 | 47,185 words | ISBN-10: 8170305829 | ISBN-13: 9788170305828
 
 This third volume of the Rasa-jala-nidhi deals with purification techniques of the Seven Metals (sapta-dhatu) and various Gems (ratna). It also deals with substances such as Alkalis (kshara), Salts (lavana), Poisions (visha) and Semi-poisions (upavisha) as well as various alcholic liquors.
 
@@ -7072,10 +6288,7 @@ This concludes ‘Spirituous liquors (Sandhana or Samdhana)’ included in Bhude
 
 ## 214. Part 7 - Extraction of oil from seeds of Jyotismati
 
-
 Rasa Jala Nidhi, vol 3: Metals, Gems and other substances
-
-by Bhudeb Mookerjee | 1938 | 47,185 words | ISBN-10: 8170305829 | ISBN-13: 9788170305828
 
 This third volume of the Rasa-jala-nidhi deals with purification techniques of the Seven Metals (sapta-dhatu) and various Gems (ratna). It also deals with substances such as Alkalis (kshara), Salts (lavana), Poisions (visha) and Semi-poisions (upavisha) as well as various alcholic liquors.
 
@@ -7093,10 +6306,7 @@ This concludes ‘Extraction of oil from seeds of Jyotismati’ included in Bhud
 
 ## 215. Part 1 - Characteristics of Sandhana or Samdhana (liquors)
 
-
 Rasa Jala Nidhi, vol 3: Metals, Gems and other substances
-
-by Bhudeb Mookerjee | 1938 | 47,185 words | ISBN-10: 8170305829 | ISBN-13: 9788170305828
 
 This third volume of the Rasa-jala-nidhi deals with purification techniques of the Seven Metals (sapta-dhatu) and various Gems (ratna). It also deals with substances such as Alkalis (kshara), Salts (lavana), Poisions (visha) and Semi-poisions (upavisha) as well as various alcholic liquors.
 
@@ -7128,10 +6338,7 @@ This concludes ‘Characteristics of Sandhana or Samdhana (liquors)’ included 
 
 ## 216. Part 2 - Alcoholic liquors (1): Gaudi
 
-
 Rasa Jala Nidhi, vol 3: Metals, Gems and other substances
-
-by Bhudeb Mookerjee | 1938 | 47,185 words | ISBN-10: 8170305829 | ISBN-13: 9788170305828
 
 This third volume of the Rasa-jala-nidhi deals with purification techniques of the Seven Metals (sapta-dhatu) and various Gems (ratna). It also deals with substances such as Alkalis (kshara), Salts (lavana), Poisions (visha) and Semi-poisions (upavisha) as well as various alcholic liquors.
 
@@ -7149,10 +6356,7 @@ This concludes ‘Alcoholic liquors (1): Gaudi’ included in Bhudeb Mookerjee R
 
 ## 217. Part 3 - Alcoholic liquors (2): Madhvi
 
-
 Rasa Jala Nidhi, vol 3: Metals, Gems and other substances
-
-by Bhudeb Mookerjee | 1938 | 47,185 words | ISBN-10: 8170305829 | ISBN-13: 9788170305828
 
 This third volume of the Rasa-jala-nidhi deals with purification techniques of the Seven Metals (sapta-dhatu) and various Gems (ratna). It also deals with substances such as Alkalis (kshara), Salts (lavana), Poisions (visha) and Semi-poisions (upavisha) as well as various alcholic liquors.
 
@@ -7170,10 +6374,7 @@ This concludes ‘Alcoholic liquors (2): Madhvi’ included in Bhudeb Mookerjee 
 
 ## 218. Part 4 - Alcoholic liquors (3): Paisti
 
-
 Rasa Jala Nidhi, vol 3: Metals, Gems and other substances
-
-by Bhudeb Mookerjee | 1938 | 47,185 words | ISBN-10: 8170305829 | ISBN-13: 9788170305828
 
 This third volume of the Rasa-jala-nidhi deals with purification techniques of the Seven Metals (sapta-dhatu) and various Gems (ratna). It also deals with substances such as Alkalis (kshara), Salts (lavana), Poisions (visha) and Semi-poisions (upavisha) as well as various alcholic liquors.
 
@@ -7191,10 +6392,7 @@ This concludes ‘Alcoholic liquors (3): Paisti’ included in Bhudeb Mookerjee 
 
 ## 219. Part 7 - Alcoholic liquors (6): Madhuki
 
-
 Rasa Jala Nidhi, vol 3: Metals, Gems and other substances
-
-by Bhudeb Mookerjee | 1938 | 47,185 words | ISBN-10: 8170305829 | ISBN-13: 9788170305828
 
 This third volume of the Rasa-jala-nidhi deals with purification techniques of the Seven Metals (sapta-dhatu) and various Gems (ratna). It also deals with substances such as Alkalis (kshara), Salts (lavana), Poisions (visha) and Semi-poisions (upavisha) as well as various alcholic liquors.
 
@@ -7212,10 +6410,7 @@ This concludes ‘Alcoholic liquors (6): Madhuki’ included in Bhudeb Mookerjee
 
 ## 220. Part 5 - Alcoholic liquors (4): Kadamvari or Kadambari
 
-
 Rasa Jala Nidhi, vol 3: Metals, Gems and other substances
-
-by Bhudeb Mookerjee | 1938 | 47,185 words | ISBN-10: 8170305829 | ISBN-13: 9788170305828
 
 This third volume of the Rasa-jala-nidhi deals with purification techniques of the Seven Metals (sapta-dhatu) and various Gems (ratna). It also deals with substances such as Alkalis (kshara), Salts (lavana), Poisions (visha) and Semi-poisions (upavisha) as well as various alcholic liquors.
 
@@ -7233,10 +6428,7 @@ This concludes ‘Alcoholic liquors (4): Kadamvari or Kadambari’ included in B
 
 ## 221. Part 6 - Alcoholic liquors (5): Varuni
 
-
 Rasa Jala Nidhi, vol 3: Metals, Gems and other substances
-
-by Bhudeb Mookerjee | 1938 | 47,185 words | ISBN-10: 8170305829 | ISBN-13: 9788170305828
 
 This third volume of the Rasa-jala-nidhi deals with purification techniques of the Seven Metals (sapta-dhatu) and various Gems (ratna). It also deals with substances such as Alkalis (kshara), Salts (lavana), Poisions (visha) and Semi-poisions (upavisha) as well as various alcholic liquors.
 
@@ -7254,10 +6446,7 @@ This concludes ‘Alcoholic liquors (5): Varuni’ included in Bhudeb Mookerjee 
 
 ## 222. Part 9 - Alcoholic liquors (8): Mardvika
 
-
 Rasa Jala Nidhi, vol 3: Metals, Gems and other substances
-
-by Bhudeb Mookerjee | 1938 | 47,185 words | ISBN-10: 8170305829 | ISBN-13: 9788170305828
 
 This third volume of the Rasa-jala-nidhi deals with purification techniques of the Seven Metals (sapta-dhatu) and various Gems (ratna). It also deals with substances such as Alkalis (kshara), Salts (lavana), Poisions (visha) and Semi-poisions (upavisha) as well as various alcholic liquors.
 
@@ -7277,10 +6466,7 @@ This concludes ‘Alcoholic liquors (8): Mardvika’ included in Bhudeb Mookerje
 
 ## 223. Part 8 - Alcoholic liquors (7): Maireyi
 
-
 Rasa Jala Nidhi, vol 3: Metals, Gems and other substances
-
-by Bhudeb Mookerjee | 1938 | 47,185 words | ISBN-10: 8170305829 | ISBN-13: 9788170305828
 
 This third volume of the Rasa-jala-nidhi deals with purification techniques of the Seven Metals (sapta-dhatu) and various Gems (ratna). It also deals with substances such as Alkalis (kshara), Salts (lavana), Poisions (visha) and Semi-poisions (upavisha) as well as various alcholic liquors.
 
@@ -7298,10 +6484,7 @@ This concludes ‘Alcoholic liquors (7): Maireyi’ included in Bhudeb Mookerjee
 
 ## 224. Part 11 - Properties of wine in general
 
-
 Rasa Jala Nidhi, vol 3: Metals, Gems and other substances
-
-by Bhudeb Mookerjee | 1938 | 47,185 words | ISBN-10: 8170305829 | ISBN-13: 9788170305828
 
 This third volume of the Rasa-jala-nidhi deals with purification techniques of the Seven Metals (sapta-dhatu) and various Gems (ratna). It also deals with substances such as Alkalis (kshara), Salts (lavana), Poisions (visha) and Semi-poisions (upavisha) as well as various alcholic liquors.
 
@@ -7323,10 +6506,7 @@ This concludes ‘Properties of wine in general’ included in Bhudeb Mookerjee 
 
 ## 225. Part 12 - Fermented non-alcoholics (1-2): Asava and Arista
 
-
 Rasa Jala Nidhi, vol 3: Metals, Gems and other substances
-
-by Bhudeb Mookerjee | 1938 | 47,185 words | ISBN-10: 8170305829 | ISBN-13: 9788170305828
 
 This third volume of the Rasa-jala-nidhi deals with purification techniques of the Seven Metals (sapta-dhatu) and various Gems (ratna). It also deals with substances such as Alkalis (kshara), Salts (lavana), Poisions (visha) and Semi-poisions (upavisha) as well as various alcholic liquors.
 
@@ -7354,10 +6534,7 @@ This concludes ‘Fermented non-alcoholics (1-2): Asava and Arista’ included i
 
 ## 226. Part 10 - Different parts of undistilled wine
 
-
 Rasa Jala Nidhi, vol 3: Metals, Gems and other substances
-
-by Bhudeb Mookerjee | 1938 | 47,185 words | ISBN-10: 8170305829 | ISBN-13: 9788170305828
 
 This third volume of the Rasa-jala-nidhi deals with purification techniques of the Seven Metals (sapta-dhatu) and various Gems (ratna). It also deals with substances such as Alkalis (kshara), Salts (lavana), Poisions (visha) and Semi-poisions (upavisha) as well as various alcholic liquors.
 
@@ -7375,10 +6552,7 @@ This concludes ‘Different parts of undistilled wine’ included in Bhudeb Mook
 
 ## 227. Part 13 - Fermented non-alcoholics (3): Sidhu (a kind of vinegar)
 
-
 Rasa Jala Nidhi, vol 3: Metals, Gems and other substances
-
-by Bhudeb Mookerjee | 1938 | 47,185 words | ISBN-10: 8170305829 | ISBN-13: 9788170305828
 
 This third volume of the Rasa-jala-nidhi deals with purification techniques of the Seven Metals (sapta-dhatu) and various Gems (ratna). It also deals with substances such as Alkalis (kshara), Salts (lavana), Poisions (visha) and Semi-poisions (upavisha) as well as various alcholic liquors.
 
@@ -7398,10 +6572,7 @@ This concludes ‘Fermented non-alcoholics (3): Sidhu (a kind of vinegar)’ inc
 
 ## 228. Part 14 - Fermented non-alcoholics (4): Sukta
 
-
 Rasa Jala Nidhi, vol 3: Metals, Gems and other substances
-
-by Bhudeb Mookerjee | 1938 | 47,185 words | ISBN-10: 8170305829 | ISBN-13: 9788170305828
 
 This third volume of the Rasa-jala-nidhi deals with purification techniques of the Seven Metals (sapta-dhatu) and various Gems (ratna). It also deals with substances such as Alkalis (kshara), Salts (lavana), Poisions (visha) and Semi-poisions (upavisha) as well as various alcholic liquors.
 
@@ -7419,10 +6590,7 @@ This concludes ‘Fermented non-alcoholics (4): Sukta’ included in Bhudeb Mook
 
 ## 229. Part 16 - Fermented non-alcoholics (6): Kanji
 
-
 Rasa Jala Nidhi, vol 3: Metals, Gems and other substances
-
-by Bhudeb Mookerjee | 1938 | 47,185 words | ISBN-10: 8170305829 | ISBN-13: 9788170305828
 
 This third volume of the Rasa-jala-nidhi deals with purification techniques of the Seven Metals (sapta-dhatu) and various Gems (ratna). It also deals with substances such as Alkalis (kshara), Salts (lavana), Poisions (visha) and Semi-poisions (upavisha) as well as various alcholic liquors.
 
@@ -7446,10 +6614,7 @@ This concludes ‘Fermented non-alcoholics (6): Kanji’ included in Bhudeb Mook
 
 ## 230. Part 18 - Fermented non-alcoholics (8): Chukra
 
-
 Rasa Jala Nidhi, vol 3: Metals, Gems and other substances
-
-by Bhudeb Mookerjee | 1938 | 47,185 words | ISBN-10: 8170305829 | ISBN-13: 9788170305828
 
 This third volume of the Rasa-jala-nidhi deals with purification techniques of the Seven Metals (sapta-dhatu) and various Gems (ratna). It also deals with substances such as Alkalis (kshara), Salts (lavana), Poisions (visha) and Semi-poisions (upavisha) as well as various alcholic liquors.
 
@@ -7467,10 +6632,7 @@ This concludes ‘Fermented non-alcoholics (8): Chukra’ included in Bhudeb Moo
 
 ## 231. Part 17 - Fermented non-alcoholics (7): Gura-shukta
 
-
 Rasa Jala Nidhi, vol 3: Metals, Gems and other substances
-
-by Bhudeb Mookerjee | 1938 | 47,185 words | ISBN-10: 8170305829 | ISBN-13: 9788170305828
 
 This third volume of the Rasa-jala-nidhi deals with purification techniques of the Seven Metals (sapta-dhatu) and various Gems (ratna). It also deals with substances such as Alkalis (kshara), Salts (lavana), Poisions (visha) and Semi-poisions (upavisha) as well as various alcholic liquors.
 
@@ -7490,10 +6652,7 @@ This concludes ‘Fermented non-alcoholics (7): Gura-shukta’ included in Bhude
 
 ## 232. Part 15 - Fermented non-alcoholics (5): Dhanyamla
 
-
 Rasa Jala Nidhi, vol 3: Metals, Gems and other substances
-
-by Bhudeb Mookerjee | 1938 | 47,185 words | ISBN-10: 8170305829 | ISBN-13: 9788170305828
 
 This third volume of the Rasa-jala-nidhi deals with purification techniques of the Seven Metals (sapta-dhatu) and various Gems (ratna). It also deals with substances such as Alkalis (kshara), Salts (lavana), Poisions (visha) and Semi-poisions (upavisha) as well as various alcholic liquors.
 
@@ -7513,10 +6672,7 @@ This concludes ‘Fermented non-alcoholics (5): Dhanyamla’ included in Bhudeb 
 
 ## 233. Part 19 - Fermented non-alcoholics (9-10): Tushambu and Sauvira
 
-
 Rasa Jala Nidhi, vol 3: Metals, Gems and other substances
-
-by Bhudeb Mookerjee | 1938 | 47,185 words | ISBN-10: 8170305829 | ISBN-13: 9788170305828
 
 This third volume of the Rasa-jala-nidhi deals with purification techniques of the Seven Metals (sapta-dhatu) and various Gems (ratna). It also deals with substances such as Alkalis (kshara), Salts (lavana), Poisions (visha) and Semi-poisions (upavisha) as well as various alcholic liquors.
 
@@ -7534,10 +6690,7 @@ This concludes ‘Fermented non-alcoholics (9-10): Tushambu and Sauvira’ inclu
 
 ## 234. Part 20 - Fermented non-alcoholics (11): Aranala
 
-
 Rasa Jala Nidhi, vol 3: Metals, Gems and other substances
-
-by Bhudeb Mookerjee | 1938 | 47,185 words | ISBN-10: 8170305829 | ISBN-13: 9788170305828
 
 This third volume of the Rasa-jala-nidhi deals with purification techniques of the Seven Metals (sapta-dhatu) and various Gems (ratna). It also deals with substances such as Alkalis (kshara), Salts (lavana), Poisions (visha) and Semi-poisions (upavisha) as well as various alcholic liquors.
 
@@ -7557,10 +6710,7 @@ This concludes ‘Fermented non-alcoholics (11): Aranala’ included in Bhudeb M
 
 ## 235. Part 21 - Fermented non-alcoholics (12): Shindaki
 
-
 Rasa Jala Nidhi, vol 3: Metals, Gems and other substances
-
-by Bhudeb Mookerjee | 1938 | 47,185 words | ISBN-10: 8170305829 | ISBN-13: 9788170305828
 
 This third volume of the Rasa-jala-nidhi deals with purification techniques of the Seven Metals (sapta-dhatu) and various Gems (ratna). It also deals with substances such as Alkalis (kshara), Salts (lavana), Poisions (visha) and Semi-poisions (upavisha) as well as various alcholic liquors.
 
@@ -7578,10 +6728,7 @@ This concludes ‘Fermented non-alcoholics (12): Shindaki’ included in Bhudeb 
 
 ## 236. Part 1 - Sulva-naga (copper-lead)
 
-
 Rasa Jala Nidhi, vol 3: Metals, Gems and other substances
-
-by Bhudeb Mookerjee | 1938 | 47,185 words | ISBN-10: 8170305829 | ISBN-13: 9788170305828
 
 This third volume of the Rasa-jala-nidhi deals with purification techniques of the Seven Metals (sapta-dhatu) and various Gems (ratna). It also deals with substances such as Alkalis (kshara), Salts (lavana), Poisions (visha) and Semi-poisions (upavisha) as well as various alcholic liquors.
 
@@ -7601,10 +6748,7 @@ This concludes ‘Sulva-naga (copper-lead)’ included in Bhudeb Mookerjee Rasa 
 
 ## 237. Part 2 - Vara-loha (extraction of excellent metal)
 
-
 Rasa Jala Nidhi, vol 3: Metals, Gems and other substances
-
-by Bhudeb Mookerjee | 1938 | 47,185 words | ISBN-10: 8170305829 | ISBN-13: 9788170305828
 
 This third volume of the Rasa-jala-nidhi deals with purification techniques of the Seven Metals (sapta-dhatu) and various Gems (ratna). It also deals with substances such as Alkalis (kshara), Salts (lavana), Poisions (visha) and Semi-poisions (upavisha) as well as various alcholic liquors.
 
@@ -7622,10 +6766,7 @@ This concludes ‘Vara-loha (extraction of excellent metal)’ included in Bhude
 
 ## 238. Part 16 - Purification of Nimba seeds
 
-
 Rasa Jala Nidhi, vol 3: Metals, Gems and other substances
-
-by Bhudeb Mookerjee | 1938 | 47,185 words | ISBN-10: 8170305829 | ISBN-13: 9788170305828
 
 This third volume of the Rasa-jala-nidhi deals with purification techniques of the Seven Metals (sapta-dhatu) and various Gems (ratna). It also deals with substances such as Alkalis (kshara), Salts (lavana), Poisions (visha) and Semi-poisions (upavisha) as well as various alcholic liquors.
 
@@ -7643,10 +6784,7 @@ This concludes ‘Purification of Nimba seeds’ included in Bhudeb Mookerjee Ra
 
 ## 239. Chapter XXXIV - Paribhasa (definitions)
 
-
 Rasa Jala Nidhi, vol 3: Metals, Gems and other substances
-
-by Bhudeb Mookerjee | 1938 | 47,185 words | ISBN-10: 8170305829 | ISBN-13: 9788170305828
 
 This third volume of the Rasa-jala-nidhi deals with purification techniques of the Seven Metals (sapta-dhatu) and various Gems (ratna). It also deals with substances such as Alkalis (kshara), Salts (lavana), Poisions (visha) and Semi-poisions (upavisha) as well as various alcholic liquors.
 
@@ -7664,10 +6802,7 @@ This concludes ‘Paribhasa (definitions)’ included in Bhudeb Mookerjee Rasa J
 
 ## 240. Part 3 - Copper extracted from Bell-metal
 
-
 Rasa Jala Nidhi, vol 3: Metals, Gems and other substances
-
-by Bhudeb Mookerjee | 1938 | 47,185 words | ISBN-10: 8170305829 | ISBN-13: 9788170305828
 
 This third volume of the Rasa-jala-nidhi deals with purification techniques of the Seven Metals (sapta-dhatu) and various Gems (ratna). It also deals with substances such as Alkalis (kshara), Salts (lavana), Poisions (visha) and Semi-poisions (upavisha) as well as various alcholic liquors.
 
@@ -7685,10 +6820,7 @@ This concludes ‘Copper extracted from Bell-metal’ included in Bhudeb Mookerj
 
 ## 241. Part 4 - Vara-naga (extraction of excellent lead)
 
-
 Rasa Jala Nidhi, vol 3: Metals, Gems and other substances
-
-by Bhudeb Mookerjee | 1938 | 47,185 words | ISBN-10: 8170305829 | ISBN-13: 9788170305828
 
 This third volume of the Rasa-jala-nidhi deals with purification techniques of the Seven Metals (sapta-dhatu) and various Gems (ratna). It also deals with substances such as Alkalis (kshara), Salts (lavana), Poisions (visha) and Semi-poisions (upavisha) as well as various alcholic liquors.
 
@@ -7706,10 +6838,7 @@ This concludes ‘Vara-naga (extraction of excellent lead)’ included in Bhudeb
 
 ## 242. Part 5 - Patangi-raga and Chullaka-raga
 
-
 Rasa Jala Nidhi, vol 3: Metals, Gems and other substances
-
-by Bhudeb Mookerjee | 1938 | 47,185 words | ISBN-10: 8170305829 | ISBN-13: 9788170305828
 
 This third volume of the Rasa-jala-nidhi deals with purification techniques of the Seven Metals (sapta-dhatu) and various Gems (ratna). It also deals with substances such as Alkalis (kshara), Salts (lavana), Poisions (visha) and Semi-poisions (upavisha) as well as various alcholic liquors.
 
@@ -7727,10 +6856,7 @@ This concludes ‘Patangi-raga and Chullaka-raga’ included in Bhudeb Mookerjee
 
 ## 243. Introduction to Metals (dhatu)
 
-
 Rasa Jala Nidhi, vol 3: Metals, Gems and other substances
-
-by Bhudeb Mookerjee | 1938 | 47,185 words | ISBN-10: 8170305829 | ISBN-13: 9788170305828
 
 This third volume of the Rasa-jala-nidhi deals with purification techniques of the Seven Metals (sapta-dhatu) and various Gems (ratna). It also deals with substances such as Alkalis (kshara), Salts (lavana), Poisions (visha) and Semi-poisions (upavisha) as well as various alcholic liquors.
 
@@ -7754,10 +6880,7 @@ This concludes ‘Introduction to Metals (dhatu)’ included in Bhudeb Mookerjee
 
 ## 244. Part 9 - Svanga-shitala and Bahis-shitala
 
-
 Rasa Jala Nidhi, vol 3: Metals, Gems and other substances
-
-by Bhudeb Mookerjee | 1938 | 47,185 words | ISBN-10: 8170305829 | ISBN-13: 9788170305828
 
 This third volume of the Rasa-jala-nidhi deals with purification techniques of the Seven Metals (sapta-dhatu) and various Gems (ratna). It also deals with substances such as Alkalis (kshara), Salts (lavana), Poisions (visha) and Semi-poisions (upavisha) as well as various alcholic liquors.
 
@@ -7777,10 +6900,7 @@ This concludes ‘Svanga-shitala and Bahis-shitala’ included in Bhudeb Mookerj
 
 ## 245. Part 8 - Suddhavarta and Vijavarta
 
-
 Rasa Jala Nidhi, vol 3: Metals, Gems and other substances
-
-by Bhudeb Mookerjee | 1938 | 47,185 words | ISBN-10: 8170305829 | ISBN-13: 9788170305828
 
 This third volume of the Rasa-jala-nidhi deals with purification techniques of the Seven Metals (sapta-dhatu) and various Gems (ratna). It also deals with substances such as Alkalis (kshara), Salts (lavana), Poisions (visha) and Semi-poisions (upavisha) as well as various alcholic liquors.
 
@@ -7802,10 +6922,7 @@ This concludes ‘Suddhavarta and Vijavarta’ included in Bhudeb Mookerjee Rasa
 
 ## 246. Part 10 - Names of well-known chemists
 
-
 Rasa Jala Nidhi, vol 3: Metals, Gems and other substances
-
-by Bhudeb Mookerjee | 1938 | 47,185 words | ISBN-10: 8170305829 | ISBN-13: 9788170305828
 
 This third volume of the Rasa-jala-nidhi deals with purification techniques of the Seven Metals (sapta-dhatu) and various Gems (ratna). It also deals with substances such as Alkalis (kshara), Salts (lavana), Poisions (visha) and Semi-poisions (upavisha) as well as various alcholic liquors.
 
@@ -7823,10 +6940,7 @@ This concludes ‘Names of well-known chemists’ included in Bhudeb Mookerjee R
 
 ## 247. Part 7 - Abhisheka and Nirbapa
 
-
 Rasa Jala Nidhi, vol 3: Metals, Gems and other substances
-
-by Bhudeb Mookerjee | 1938 | 47,185 words | ISBN-10: 8170305829 | ISBN-13: 9788170305828
 
 This third volume of the Rasa-jala-nidhi deals with purification techniques of the Seven Metals (sapta-dhatu) and various Gems (ratna). It also deals with substances such as Alkalis (kshara), Salts (lavana), Poisions (visha) and Semi-poisions (upavisha) as well as various alcholic liquors.
 
@@ -7846,10 +6960,7 @@ This concludes ‘Abhisheka and Nirbapa’ included in Bhudeb Mookerjee Rasa Jal
 
 ## 248. Part 6 - Abapa
 
-
 Rasa Jala Nidhi, vol 3: Metals, Gems and other substances
-
-by Bhudeb Mookerjee | 1938 | 47,185 words | ISBN-10: 8170305829 | ISBN-13: 9788170305828
 
 This third volume of the Rasa-jala-nidhi deals with purification techniques of the Seven Metals (sapta-dhatu) and various Gems (ratna). It also deals with substances such as Alkalis (kshara), Salts (lavana), Poisions (visha) and Semi-poisions (upavisha) as well as various alcholic liquors.
 
@@ -7867,10 +6978,7 @@ This concludes ‘Abapa’ included in Bhudeb Mookerjee Rasa Jala Nidhi, vol 3: 
 
 ## 249. Introduction to Alkalis (kshara)
 
-
 Rasa Jala Nidhi, vol 3: Metals, Gems and other substances
-
-by Bhudeb Mookerjee | 1938 | 47,185 words | ISBN-10: 8170305829 | ISBN-13: 9788170305828
 
 This third volume of the Rasa-jala-nidhi deals with purification techniques of the Seven Metals (sapta-dhatu) and various Gems (ratna). It also deals with substances such as Alkalis (kshara), Salts (lavana), Poisions (visha) and Semi-poisions (upavisha) as well as various alcholic liquors.
 
@@ -7932,10 +7040,7 @@ This concludes ‘Introduction to Alkalis (kshara)’ included in Bhudeb Mookerj
 
 ## 250. Chapter XVIII - Gems (6): Gomeda (zercon)
 
-
 Rasa Jala Nidhi, vol 3: Metals, Gems and other substances
-
-by Bhudeb Mookerjee | 1938 | 47,185 words | ISBN-10: 8170305829 | ISBN-13: 9788170305828
 
 This third volume of the Rasa-jala-nidhi deals with purification techniques of the Seven Metals (sapta-dhatu) and various Gems (ratna). It also deals with substances such as Alkalis (kshara), Salts (lavana), Poisions (visha) and Semi-poisions (upavisha) as well as various alcholic liquors.
 

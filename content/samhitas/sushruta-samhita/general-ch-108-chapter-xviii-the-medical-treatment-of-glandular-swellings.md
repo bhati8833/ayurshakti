@@ -20,17 +20,11 @@ This chapter from **Sushruta Samhita (Chikitsasthana)** represents the classical
 
 ---
 
-
 Sushruta Samhita, volume 4: Cikitsasthana
-
-by Kaviraj Kunja Lal Bhishagratna | 1911 | 123,229 words
 
 This current book, the Chikitsa-sthana (english translation), deals with therapeutics, surgical emergencies, geriatrics, aphrodisiacs and various other subjects.
 
 The Sushruta Samhita is the most representative work of the Hindu system of medicine. It embraces all that can possibly appertain to the science of medicine. Susruta-samhita is recognized...
-
-Go directly to: 
-Footnotes.
 
 Chapter XVIII - The medical treatment of Glandular Swellings
 
@@ -105,10 +99,6 @@ In a case of a Medoja goitre (due to the deranged fat), the patient should be fi
 As an alternative, the Goitre (Gala ganda) should be opened, its fatty contents fully removed and the wound then sutured. Or it should be cauterised with the application of heated animal marrow, clarified butter, lard, or honey; after which it should be lubricated with clarified butter and honey (mixed together), and a pulverised compound of Kasisa, Tuttha, and Gorocanay should be applied to it; or after lubricating it with oil, it should be dusted with the ashes of cow- dung and of Shala-sara. Daily washings with the decoction of Triphala, hard bandaging and a diet of barley, prove efficacious (in cases of goitre). 40.
 
 Thus ends the Eighteenth Chapter of the Chikitsita Sthana in the Sushruta Samhita, which deals with the medical treatment of Glands, Scrofula, Tumour and Goitre.
-
-Footnotes and references:
-
-[back to top]
 
 [1]:
 

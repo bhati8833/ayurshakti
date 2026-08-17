@@ -20,17 +20,11 @@ This chapter from **Sushruta Samhita (Uttaratantra)** represents the classical s
 
 ---
 
-
 Sushruta Samhita, Volume 6: Uttara-tantra
-
-by Kaviraj Kunja Lal Bhishagratna | 1916 | 113,078 words
 
 This current book, the Uttara-tantra (english translation) is the supplementary part of the Sushrutasamhita and deals various subjects such as diseases of the eye, treatment of fever, diarrhea, diseases resulting from superhuman influences, insanity, rules of health etc.
 
 The Sushruta Samhita is the most representative work of the Hindu system of m...
-
-Go directly to: 
-Footnotes.
 
 Chapter XLVI - Symptoms and Treatment of Fainting fits (Murccha)
 
@@ -69,10 +63,6 @@ Treatment:—
 The patient should be tried to be roused up with the application of strong eye-salves (Anjana), unguents and inhalation of smoke (Dhuma) or by pricking needles into his finger-nails or by discoursing sweet words and music in his hearing or by shaking his limbs roughly or by rubbing his skin with the fruits of Atma-gupta creepers. An attack of the present disease not amenable to the above remedies but attended with, salivation, laboured breathing, retention of stool and urine and distension of the abdomen should be given up as irremediable. Strong emetics and purgatives should be exhibited after the return of consciousness and diet should consist of light articles of fare. Shilajatu 236 mixed with Tri-phala, Citraka, Shunthi, etc. should be employed in combination with sugar and continued for a month. Matured clarified butter should be used in particular. Medicinal compounds remedial to any case of fever originated by the Dosha in the case may be as well prescribed in any case of Murccha; and a case due to the action of poisom should be remedied with the antitoxine remedies (mentioned in the Kalpa Sthana). 13—14.
 
 Thus ends the forty-sixth chapter of the Uttara-Tantra in the Sushruta Samhita which deals with the (symptoms and) treatment of Murccha.
-
-Footnotes and references:
-
-[back to top]
 
 [1]:
 

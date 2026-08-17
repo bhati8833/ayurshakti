@@ -20,15 +20,9 @@ This chapter from **Sushruta Samhita (Sutrasthana)** represents the classical su
 
 ---
 
-
 Sushruta Samhita, volume 1: Sutrasthana
 
-by Kaviraj Kunja Lal Bhishagratna | 1907 | 148,756 words
-
 This current book, the Sutra-sthana (english translation), is the first part of this voluminous medical work. It contains a large summary of the knowledge envelopig the medical aspects of Ayurveda. Descriptions of diseases, various diets and drugs, the duties of a surgeon, surgical procedures, medical training; these are only some of the numerous s...
-
-Go directly to: 
-Footnotes.
 
 Chapter XXV - Eight kinds of surgical operations
 
@@ -99,10 +93,6 @@ The evils, which attend the oblique insertion of a surgical instrument, have bee
 The patient, who may mistrust his own parents, sons and relations, should repose an implicit faith in his own physician, and put his own life into his hands without the least apprehension of danger; hence a physician should protect his patient as his own begotten child. A surgical case may yield to a single incision, or may require two, three, four or more than that number to effect a cure. By doing good to humanity with his professional skill, a physician achieves glory, and acquires the plaudits of the good and the wise in this life, and shall live in Paradise in the next.
 
 Thus ends the twenty-fifth Chapter of the Sutrasthana in the Sushruta Samhita which treats of the eight forms of Surgical operations.
-
-Footnotes and references:
-
-[back to top]
 
 [1]:
 

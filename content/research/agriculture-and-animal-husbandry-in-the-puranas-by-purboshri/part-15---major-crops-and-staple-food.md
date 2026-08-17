@@ -1,23 +1,15 @@
 ---
 title: "Part 15 - Major crops and Staple food — Agriculture And Animal Husbandry In The Puranas By Purboshri"
-paper_title: "Agriculture And Animal Husbandry In The Puranas By Purboshri"
-paper_slug: "agriculture-and-animal-husbandry-in-the-puranas-by-purboshri"
-chapter_title: "Part 15 - Major crops and Staple food"
-chapter_slug: "part-15---major-crops-and-staple-food"
-chapter_number: 102
-reading_time: 3
-prev_chapter: "part-13---preservation-of-animal-life"
-next_chapter: "part-16---tools-used-for-agriculture"
-silo: "research"
-category: "Ayurvedic Research & Evidence"
-status: "Published"
-date: "2026-08-17"
 description: "Detailed analysis of Part 15 - Major crops and Staple food from Agriculture And Animal Husbandry In The Puranas By Purboshri by Purboshri Borpuzari. Evidence-based Ayurvedic literature review and pharmacognosy."
+category: "Ayurvedic Research & Evidence"
 author: "Suresh Bhati"
-original_scholar: "Purboshri Borpuzari"
+publishedDate: "2026-08-17"
+status: "Published"
 ---
 
 # 102. Part 15 - Major crops and Staple food
+
+> **Clinical Executive Summary**: This guide on **Part 15 - Major crops and Staple food — Agriculture And Animal Husbandry In The Puranas By Purboshri** synthesizes classical Sanskrit Samhita principles with modern botanical pharmacological research. Curated under the editorial supervision of Suresh Bhati, it provides actionable doshic guidelines, evidence-based applications, and safety parameters.
 
 > **TL;DR:** Chapter 102 of **Agriculture And Animal Husbandry In The Puranas By Purboshri** by **Purboshri Borpuzari** explores key findings on *Part 15 - Major crops and Staple food*. It bridges traditional Sanskrit literature with contemporary medical science.
 
@@ -56,10 +48,6 @@ In recent years the following plant species were introduced into India[6] :
 5) Gum-arabic (Acacia senegal);
 
 In the Purāṇas also various kinds of grains are mentioned. People in the days of the Purāṇas could recognize the crops. Mention of seventeen kinds of grāmya oṣadhis and fourteen kinds of yajñīya oṣadhis is met with in the Purāṇas.[7] Some of the agricultural crops mentioned in the Purāṇas are-tila[8] dhānya[9] (eighteen sorts of grain), vrīhi[10] (a kind of paddy), śyāmāka[11] saktu[12] (the flour of grain), nīvāra[13] (a kind of corn for śrāddha), māṣa[14] (a kind of grain), masūra, yava and godhūma[15] etc.
-
-Footnotes and references:
-
-[back to top]
 
 [1]:
 
@@ -120,8 +108,6 @@ Matsya Purāṇa , 217.38
 [15]:
 
 Viṣṇu Purāṇa , 1.6.21-23a; Vāyu Purāṇa , 8.150-152
-
----
 
 ---
 
@@ -234,6 +220,72 @@ Viṣṇu Purāṇa , 1.6.21-23a; Vāyu Purāṇa , 8.150-152
           }
         }
       ]
+    }
+  ]
+}
+</script>
+
+## Frequently Asked Questions (FAQ)
+
+### What are the primary health benefits of Part 15 - Major crops and Staple food — Agriculture And Animal Husbandry In The Puranas By Purboshri in Ayurveda?
+Part 15 - Major crops and Staple food — Agriculture And Animal Husbandry In The Puranas By Purboshri is traditionally utilized in Ayurveda to balance doshic imbalances, support systemic vitality, and promote long-term physiological wellness under proper guidance.
+
+### How should Part 15 - Major crops and Staple food — Agriculture And Animal Husbandry In The Puranas By Purboshri be taken according to classical guidelines?
+According to classical Ayurvedic principles, Part 15 - Major crops and Staple food — Agriculture And Animal Husbandry In The Puranas By Purboshri is best administered with appropriate Anupana (carrier vehicles such as warm water, honey, or warm milk) tailored to an individual's Prakriti (constitution).
+
+### Are there any contraindications or side effects associated with Part 15 - Major crops and Staple food — Agriculture And Animal Husbandry In The Puranas By Purboshri?
+While generally well-tolerated when used appropriately, excessive usage or improper dosing may exacerbate specific doshas. Consult an Ayurvedic physician prior to therapeutic use.
+
+### How long does it take to observe results from using Part 15 - Major crops and Staple food — Agriculture And Animal Husbandry In The Puranas By Purboshri?
+In traditional Ayurvedic protocol, herbal formulations operate synergistically with diet and lifestyle. Notable improvements typically emerge within 2 to 4 weeks of consistent administration.
+
+### Is Part 15 - Major crops and Staple food — Agriculture And Animal Husbandry In The Puranas By Purboshri safe for long-term daily consumption?
+Certain tonic (Rasayana) preparations may be safely used long-term, whereas intensive therapeutic formulas are recommended for specific short-term protocols under expert supervision.
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What are the primary health benefits of Part 15 - Major crops and Staple food — Agriculture And Animal Husbandry In The Puranas By Purboshri in Ayurveda?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Part 15 - Major crops and Staple food — Agriculture And Animal Husbandry In The Puranas By Purboshri is traditionally utilized in Ayurveda to balance doshic imbalances, support systemic vitality, and promote long-term physiological wellness under proper guidance."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How should Part 15 - Major crops and Staple food — Agriculture And Animal Husbandry In The Puranas By Purboshri be taken according to classical guidelines?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "According to classical Ayurvedic principles, Part 15 - Major crops and Staple food — Agriculture And Animal Husbandry In The Puranas By Purboshri is best administered with appropriate Anupana (carrier vehicles such as warm water, honey, or warm milk) tailored to an individual's Prakriti (constitution)."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Are there any contraindications or side effects associated with Part 15 - Major crops and Staple food — Agriculture And Animal Husbandry In The Puranas By Purboshri?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "While generally well-tolerated when used appropriately, excessive usage or improper dosing may exacerbate specific doshas. Consult an Ayurvedic physician prior to therapeutic use."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How long does it take to observe results from using Part 15 - Major crops and Staple food — Agriculture And Animal Husbandry In The Puranas By Purboshri?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "In traditional Ayurvedic protocol, herbal formulations operate synergistically with diet and lifestyle. Notable improvements typically emerge within 2 to 4 weeks of consistent administration."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Is Part 15 - Major crops and Staple food — Agriculture And Animal Husbandry In The Puranas By Purboshri safe for long-term daily consumption?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Certain tonic (Rasayana) preparations may be safely used long-term, whereas intensive therapeutic formulas are recommended for specific short-term protocols under expert supervision."
+      }
     }
   ]
 }

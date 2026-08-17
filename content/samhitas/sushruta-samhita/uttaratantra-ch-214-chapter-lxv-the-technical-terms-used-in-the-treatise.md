@@ -20,17 +20,11 @@ This chapter from **Sushruta Samhita (Uttaratantra)** represents the classical s
 
 ---
 
-
 Sushruta Samhita, Volume 6: Uttara-tantra
-
-by Kaviraj Kunja Lal Bhishagratna | 1916 | 113,078 words
 
 This current book, the Uttara-tantra (english translation) is the supplementary part of the Sushrutasamhita and deals various subjects such as diseases of the eye, treatment of fever, diarrhea, diseases resulting from superhuman influences, insanity, rules of health etc.
 
 The Sushruta Samhita is the most representative work of the Hindu system of m...
-
-Go directly to: 
-Footnotes.
 
 Chapter LXV - The Technical terms used in the treatise
 
@@ -191,10 +185,6 @@ but of these four kinds, two kinds only (viz., Anna and Paniya) have been mentio
 Here have been fully described by me the thirty-two technical terms for the investigation into the essence of this Tantra (work). The intelligent man who is fully conversant with these technical terms—which work like lights, as it were,—is to be regarded as the greatest physician and to be held in great esteem.—This is what the Sage Dhanvantari says. 38.
 
 Thus ends the sixty-fifth chapter of the Uttara-Tantra in the Sushruta-Samhita which deals with the technical terms used in this work
-
-Footnotes and references:
-
-[back to top]
 
 [1]:
 

@@ -20,17 +20,11 @@ This chapter from **Sushruta Samhita (Uttaratantra)** represents the classical s
 
 ---
 
-
 Sushruta Samhita, Volume 6: Uttara-tantra
-
-by Kaviraj Kunja Lal Bhishagratna | 1916 | 113,078 words
 
 This current book, the Uttara-tantra (english translation) is the supplementary part of the Sushrutasamhita and deals various subjects such as diseases of the eye, treatment of fever, diarrhea, diseases resulting from superhuman influences, insanity, rules of health etc.
 
 The Sushruta Samhita is the most representative work of the Hindu system of m...
-
-Go directly to: 
-Footnotes.
 
 Chapter XXIX - Therapeutics of an attack by Skandapasmara
 
@@ -44,13 +38,7 @@ The physician (or the votary officiating for him) should worship the presiding d
 
 “O thou, the trusted and beloved friend of the god Skanda, O Skandapasmara, O thou ugly-faced one whom the world knows by the epithet of Visakha, may good befall this child in distress.” 2.
 
-“O thou, the trusted and beloved friend of the god Skanda, O Skandapasmara, O thou ugly-faced one whom the world knows by the epithet of Visakha, may good befall this child in distress.” 2.
-
 Thus ends the twenty-ninth chapter of the Uttara-Tantra in the Sushruta Samhita which deals with the Therapeutics of an attack by Skandapasmara.
-
-Footnotes and references:
-
-[back to top]
 
 [1]:
 

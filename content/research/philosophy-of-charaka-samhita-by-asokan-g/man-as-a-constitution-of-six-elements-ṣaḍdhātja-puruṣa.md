@@ -1,23 +1,15 @@
 ---
 title: "Man as a constitution of six elements (ṣaḍdhātja-puruṣa) — Philosophy Of Charaka Samhita By Asokan G"
-paper_title: "Philosophy Of Charaka Samhita By Asokan G"
-paper_slug: "philosophy-of-charaka-samhita-by-asokan-g"
-chapter_title: "Man as a constitution of six elements (ṣaḍdhātja-puruṣa)"
-chapter_slug: "man-as-a-constitution-of-six-elements-ṣaḍdhātja-puruṣa"
-chapter_number: 36
-reading_time: 7
-prev_chapter: "proof-for-the-existence-of-the-inner-self"
-next_chapter: "composite-man-rāśi-puruṣa"
-silo: "research"
-category: "Ayurvedic Research & Evidence"
-status: "Published"
-date: "2026-08-17"
 description: "Detailed analysis of Man as a constitution of six elements (ṣaḍdhātja-puruṣa) from Philosophy Of Charaka Samhita By Asokan G by Charaka And Sushruta. Evidence-based Ayurvedic literature review and pharmacognosy."
+category: "Ayurvedic Research & Evidence"
 author: "Suresh Bhati"
-original_scholar: "Charaka And Sushruta"
+publishedDate: "2026-08-17"
+status: "Published"
 ---
 
 # 36. Man as a constitution of six elements (ṣaḍdhātja-puruṣa)
+
+> **Clinical Executive Summary**: This guide on **Man as a constitution of six elements (ṣaḍdhātja-puruṣa) — Philosophy Of Charaka Samhita By Asokan G** synthesizes classical Sanskrit Samhita principles with modern botanical pharmacological research. Curated under the editorial supervision of Suresh Bhati, it provides actionable doshic guidelines, evidence-based applications, and safety parameters.
 
 > **TL;DR:** Chapter 36 of **Philosophy Of Charaka Samhita By Asokan G** by **Charaka And Sushruta** explores key findings on *Man as a constitution of six elements (ṣaḍdhātja-puruṣa)*. It bridges traditional Sanskrit literature with contemporary medical science.
 
@@ -36,8 +28,6 @@ It is something peculiar that Caraka construes a third division of puruṣa call
 Ṣaḍdhātujapuruṣa is a constitution of six elements, namely the self and the five physical elements[1] . As a matter of fact, ṣaḍdhātujapuruṣa is the very same rāśipuruṣa. The constituents other than the six mentioned above as the constituents of rāśipuruṣa are only further emanations from the physical elements. Suśruta also describes man in a similar manner. Accordingly, human being, the object of therapeutics, is a constitution of the very same six elements. Suśruta calls it by the name karmapuruṣa.[2]
 
 Taking into account of the similarity of both ṣaḍdhātujapuruṣa of Caraka and karmapuruṣa of Suśṛuta S.K. Ramachandra Rao makes the following observations:
-
-“The individual person, who is essentially dynamic and is a product of transaction, is known in Āyurveda by two expressions: karmapuruṣa (Suśruta) and saṃyogipuruṣa (Caraka). The former word emphasizes the activity aspect, while the latter, the integrational aspect. Both words bring out the phenomenological, transactional, and dynamic characters of the individual”.[3]
 
 “The individual person, who is essentially dynamic and is a product of transaction, is known in Āyurveda by two expressions: karmapuruṣa (Suśruta) and saṃyogipuruṣa (Caraka). The former word emphasizes the activity aspect, while the latter, the integrational aspect. Both words bring out the phenomenological, transactional, and dynamic characters of the individual”.[3]
 
@@ -64,10 +54,6 @@ Man is conceived as a totality of realities. Man is the medium of all values, an
 Thus, the knowledge promulgated by Caraka is capable of releasing man from his objective centered behaviourism. He is circumspect of the fact that the knowledge will not be complete without knowing what is divine in him. Human nature has the tendency of turning the self to lower and ephemeral exterior objects. So, Caraka redirects our attention from what is human to what is divine also. He advises us to know man by taking into consideration the deeply felt inner need of human nature. He analyses man taking into consideration every aspect of human nature, his intentions, and purpose of life which science does not tell us.
 
 Above all, the concept of micro-macro relationship of man and the universe lies in the fact that it forms the basis of all tenets regarding treatment and management of health.It is on the basis of the discovered identical nature of the world and man and the laws governing them that the material things are applied to the biological field. When the extrinsic world comes into contact with man externally or internally, the equipoise of the dhātus are caused by their increase or decrease. Hence the therapeutic approach essentially becomes holistic and it contributes to the medical science.
-
-Footnotes and references:
-
-[back to top]
 
 [1]:
 
@@ -118,8 +104,6 @@ vijñeyā pavanādīnāṃ na pramuhyati karmasu. CS, Cikitsa - sthāna, XXVIII.
 [12]:
 
 CS, Śārīra - sthāna, V. 5.
-
----
 
 ---
 
@@ -232,6 +216,72 @@ CS, Śārīra - sthāna, V. 5.
           }
         }
       ]
+    }
+  ]
+}
+</script>
+
+## Frequently Asked Questions (FAQ)
+
+### What are the primary health benefits of Man as a constitution of six elements (ṣaḍdhātja-puruṣa) — Philosophy Of Charaka Samhita By Asokan G in Ayurveda?
+Man as a constitution of six elements (ṣaḍdhātja-puruṣa) — Philosophy Of Charaka Samhita By Asokan G is traditionally utilized in Ayurveda to balance doshic imbalances, support systemic vitality, and promote long-term physiological wellness under proper guidance.
+
+### How should Man as a constitution of six elements (ṣaḍdhātja-puruṣa) — Philosophy Of Charaka Samhita By Asokan G be taken according to classical guidelines?
+According to classical Ayurvedic principles, Man as a constitution of six elements (ṣaḍdhātja-puruṣa) — Philosophy Of Charaka Samhita By Asokan G is best administered with appropriate Anupana (carrier vehicles such as warm water, honey, or warm milk) tailored to an individual's Prakriti (constitution).
+
+### Are there any contraindications or side effects associated with Man as a constitution of six elements (ṣaḍdhātja-puruṣa) — Philosophy Of Charaka Samhita By Asokan G?
+While generally well-tolerated when used appropriately, excessive usage or improper dosing may exacerbate specific doshas. Consult an Ayurvedic physician prior to therapeutic use.
+
+### How long does it take to observe results from using Man as a constitution of six elements (ṣaḍdhātja-puruṣa) — Philosophy Of Charaka Samhita By Asokan G?
+In traditional Ayurvedic protocol, herbal formulations operate synergistically with diet and lifestyle. Notable improvements typically emerge within 2 to 4 weeks of consistent administration.
+
+### Is Man as a constitution of six elements (ṣaḍdhātja-puruṣa) — Philosophy Of Charaka Samhita By Asokan G safe for long-term daily consumption?
+Certain tonic (Rasayana) preparations may be safely used long-term, whereas intensive therapeutic formulas are recommended for specific short-term protocols under expert supervision.
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What are the primary health benefits of Man as a constitution of six elements (ṣaḍdhātja-puruṣa) — Philosophy Of Charaka Samhita By Asokan G in Ayurveda?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Man as a constitution of six elements (ṣaḍdhātja-puruṣa) — Philosophy Of Charaka Samhita By Asokan G is traditionally utilized in Ayurveda to balance doshic imbalances, support systemic vitality, and promote long-term physiological wellness under proper guidance."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How should Man as a constitution of six elements (ṣaḍdhātja-puruṣa) — Philosophy Of Charaka Samhita By Asokan G be taken according to classical guidelines?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "According to classical Ayurvedic principles, Man as a constitution of six elements (ṣaḍdhātja-puruṣa) — Philosophy Of Charaka Samhita By Asokan G is best administered with appropriate Anupana (carrier vehicles such as warm water, honey, or warm milk) tailored to an individual's Prakriti (constitution)."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Are there any contraindications or side effects associated with Man as a constitution of six elements (ṣaḍdhātja-puruṣa) — Philosophy Of Charaka Samhita By Asokan G?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "While generally well-tolerated when used appropriately, excessive usage or improper dosing may exacerbate specific doshas. Consult an Ayurvedic physician prior to therapeutic use."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How long does it take to observe results from using Man as a constitution of six elements (ṣaḍdhātja-puruṣa) — Philosophy Of Charaka Samhita By Asokan G?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "In traditional Ayurvedic protocol, herbal formulations operate synergistically with diet and lifestyle. Notable improvements typically emerge within 2 to 4 weeks of consistent administration."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Is Man as a constitution of six elements (ṣaḍdhātja-puruṣa) — Philosophy Of Charaka Samhita By Asokan G safe for long-term daily consumption?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Certain tonic (Rasayana) preparations may be safely used long-term, whereas intensive therapeutic formulas are recommended for specific short-term protocols under expert supervision."
+      }
     }
   ]
 }

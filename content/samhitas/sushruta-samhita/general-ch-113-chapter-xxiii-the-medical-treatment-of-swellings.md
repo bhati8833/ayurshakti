@@ -20,17 +20,11 @@ This chapter from **Sushruta Samhita (Chikitsasthana)** represents the classical
 
 ---
 
-
 Sushruta Samhita, volume 4: Cikitsasthana
-
-by Kaviraj Kunja Lal Bhishagratna | 1911 | 123,229 words
 
 This current book, the Chikitsa-sthana (english translation), deals with therapeutics, surgical emergencies, geriatrics, aphrodisiacs and various other subjects.
 
 The Sushruta Samhita is the most representative work of the Hindu system of medicine. It embraces all that can possibly appertain to the science of medicine. Susruta-samhita is recognized...
-
-Go directly to: 
-Footnotes.
 
 Chapter XXIII - The medical treatment of swellings
 
@@ -75,10 +69,6 @@ Memorable Verse:—
 A patient wishing to get rid of an attack of Shopha (edematous swelling) should refrain from taking all sorts of cakes, acid substances, liquor, clay, salts, oil, clarified butter,[7] water, heavy and indigestible articles of food, sleep in the day time, the flesh of animals other than that of the animals of the Jangala group and from visiting the bed of any woman. 17.
 
 Thus ends the Twenty-third Chapter in the Chikitsita Sthana of the Sushruta Samhita which deals with the medical treatment of Shopha.
-
-Footnotes and references:
-
-[back to top]
 
 [1]:
 

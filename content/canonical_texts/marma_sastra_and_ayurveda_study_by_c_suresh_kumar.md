@@ -9,19 +9,11 @@ date: "2026-08-17"
 description: "presents a comprehensive study of Marmas with special reference to Ayurvedic and Tamil Marma Sastras in relation to its applied anatomy."
 ---
 
-**Author / Source:** by C. Suresh Kumar
-
-
-**Total Chapters/Sections:** 77
-
 ---
 
 ## 1. Summary
 
-
 Marma-sastra and Ayurveda (study)
-
-by C. Suresh Kumar | 1999 | 41,313 words
 
 This essay represents a comprehensive study of Marmas with special reference to Ayurvedic and Tamil Marma Sastras in relation to its applied anatomy. The study reflects on the holistic approach of ancient Indian medicine, contrasting it with Western scientific methods, while highlighting the importance of integrating human and environmental aspects...
 
@@ -35,10 +27,7 @@ SUMMARY The thesis entitled A comprehensive study of marmas with special referen
 
 ## 2. Part 1 - Introduction
 
-
 Marma-sastra and Ayurveda (study)
-
-by C. Suresh Kumar | 1999 | 41,313 words
 
 This essay represents a comprehensive study of Marmas with special reference to Ayurvedic and Tamil Marma Sastras in relation to its applied anatomy. The study reflects on the holistic approach of ancient Indian medicine, contrasting it with Western scientific methods, while highlighting the importance of integrating human and environmental aspects...
 
@@ -50,10 +39,7 @@ Part 1 - Introduction
 
 ## 3. Preface
 
-
 Marma-sastra and Ayurveda (study)
-
-by C. Suresh Kumar | 1999 | 41,313 words
 
 This essay represents a comprehensive study of Marmas with special reference to Ayurvedic and Tamil Marma Sastras in relation to its applied anatomy. The study reflects on the holistic approach of ancient Indian medicine, contrasting it with Western scientific methods, while highlighting the importance of integrating human and environmental aspects...
 
@@ -81,10 +67,7 @@ and Kulayana marma system restrict presentation of information in totality makin
 
 ## 4. Acknowledgement
 
-
 Marma-sastra and Ayurveda (study)
-
-by C. Suresh Kumar | 1999 | 41,313 words
 
 This essay represents a comprehensive study of Marmas with special reference to Ayurvedic and Tamil Marma Sastras in relation to its applied anatomy. The study reflects on the holistic approach of ancient Indian medicine, contrasting it with Western scientific methods, while highlighting the importance of integrating human and environmental aspects...
 
@@ -100,10 +83,7 @@ I am thankful to Mr. Joy Abraham, Mr. Shibu and Miss. Chithra whose effort for t
 
 ## 5. Introduction to Marmabhighata Samprapti (injured marmas)
 
-
 Marma-sastra and Ayurveda (study)
-
-by C. Suresh Kumar | 1999 | 41,313 words
 
 This essay represents a comprehensive study of Marmas with special reference to Ayurvedic and Tamil Marma Sastras in relation to its applied anatomy. The study reflects on the holistic approach of ancient Indian medicine, contrasting it with Western scientific methods, while highlighting the importance of integrating human and environmental aspects...
 
@@ -131,10 +111,7 @@ Kurpara Apanga Oorvi Lohitha Apalapa Sthapani Shringataka Amsa Nabhi Vasthi Oorv
 
 ## 6. An outline of Tamil Marma Sastra and Varmas
 
-
 Marma-sastra and Ayurveda (study)
-
-by C. Suresh Kumar | 1999 | 41,313 words
 
 This essay represents a comprehensive study of Marmas with special reference to Ayurvedic and Tamil Marma Sastras in relation to its applied anatomy. The study reflects on the holistic approach of ancient Indian medicine, contrasting it with Western scientific methods, while highlighting the importance of integrating human and environmental aspects...
 
@@ -160,10 +137,7 @@ III. General Signs and symptoms Mathirai i. The eye balls roll ii. The black pup
 
 ## 7. Adangal (techniques to relieve injured Marmas/Varmas)
 
-
 Marma-sastra and Ayurveda (study)
-
-by C. Suresh Kumar | 1999 | 41,313 words
 
 This essay represents a comprehensive study of Marmas with special reference to Ayurvedic and Tamil Marma Sastras in relation to its applied anatomy. The study reflects on the holistic approach of ancient Indian medicine, contrasting it with Western scientific methods, while highlighting the importance of integrating human and environmental aspects...
 
@@ -183,10 +157,7 @@ shaking them. Seriya attisurukki is also stimulated similarly by massaging over 
 
 ## 8. The Kulabhyasa or Kulayana Marma System
 
-
 Marma-sastra and Ayurveda (study)
-
-by C. Suresh Kumar | 1999 | 41,313 words
 
 This essay represents a comprehensive study of Marmas with special reference to Ayurvedic and Tamil Marma Sastras in relation to its applied anatomy. The study reflects on the holistic approach of ancient Indian medicine, contrasting it with Western scientific methods, while highlighting the importance of integrating human and environmental aspects...
 
@@ -218,10 +189,7 @@ Kaikazhappan Phanam Raktamthuppi Noolvalippan Swasamadappan Vayupodi Kaithalarpa
 
 ## 9. Introduction to Marma
 
-
 Marma-sastra and Ayurveda (study)
-
-by C. Suresh Kumar | 1999 | 41,313 words
 
 This essay represents a comprehensive study of Marmas with special reference to Ayurvedic and Tamil Marma Sastras in relation to its applied anatomy. The study reflects on the holistic approach of ancient Indian medicine, contrasting it with Western scientific methods, while highlighting the importance of integrating human and environmental aspects...
 
@@ -253,10 +221,7 @@ With the aid of certain highly developed camera to study halo - it is under stud
 
 ## 10. Classification of Marmas (Introduction)
 
-
 Marma-sastra and Ayurveda (study)
-
-by C. Suresh Kumar | 1999 | 41,313 words
 
 This essay represents a comprehensive study of Marmas with special reference to Ayurvedic and Tamil Marma Sastras in relation to its applied anatomy. The study reflects on the holistic approach of ancient Indian medicine, contrasting it with Western scientific methods, while highlighting the importance of integrating human and environmental aspects...
 
@@ -278,10 +243,7 @@ seen devoid of these structures like mamsa, sira. Otherwise srothas are a part a
 
 ## 11. The Concept of Amritakala
 
-
 Marma-sastra and Ayurveda (study)
-
-by C. Suresh Kumar | 1999 | 41,313 words
 
 This essay represents a comprehensive study of Marmas with special reference to Ayurvedic and Tamil Marma Sastras in relation to its applied anatomy. The study reflects on the holistic approach of ancient Indian medicine, contrasting it with Western scientific methods, while highlighting the importance of integrating human and environmental aspects...
 
@@ -321,10 +283,7 @@ Thundai thatti varmam Muttu varmam Manthira kalam Sundikai kalam Kuthira mukha K
 
 ## 12. Significance of Mamsa Marma
 
-
 Marma-sastra and Ayurveda (study)
-
-by C. Suresh Kumar | 1999 | 41,313 words
 
 This essay represents a comprehensive study of Marmas with special reference to Ayurvedic and Tamil Marma Sastras in relation to its applied anatomy. The study reflects on the holistic approach of ancient Indian medicine, contrasting it with Western scientific methods, while highlighting the importance of integrating human and environmental aspects...
 
@@ -338,10 +297,7 @@ Table No. IV-a Vaghbata Sushrutha Indravasthi 4 Indravasthi 4 Talahrudaya 4 Tala
 
 ## 13. Significance of Sira Marma
 
-
 Marma-sastra and Ayurveda (study)
-
-by C. Suresh Kumar | 1999 | 41,313 words
 
 This essay represents a comprehensive study of Marmas with special reference to Ayurvedic and Tamil Marma Sastras in relation to its applied anatomy. The study reflects on the holistic approach of ancient Indian medicine, contrasting it with Western scientific methods, while highlighting the importance of integrating human and environmental aspects...
 
@@ -355,10 +311,7 @@ Vaghbata 1. Brihathi 2. Mathruka Table No.IV-b Sushrutha 2 1. Neela 2 8 2 3. Nee
 
 ## 14. Significance of Snayu Marma
 
-
 Marma-sastra and Ayurveda (study)
-
-by C. Suresh Kumar | 1999 | 41,313 words
 
 This essay represents a comprehensive study of Marmas with special reference to Ayurvedic and Tamil Marma Sastras in relation to its applied anatomy. The study reflects on the holistic approach of ancient Indian medicine, contrasting it with Western scientific methods, while highlighting the importance of integrating human and environmental aspects...
 
@@ -372,10 +325,7 @@ Table No.IV-e Vaghbata Sushrutha Ani 4 Ani 4 Kurcha 4 Vitapa 2 Kurchasira 4 Kaks
 
 ## 15. Panchabhautik Composition of Marma
 
-
 Marma-sastra and Ayurveda (study)
-
-by C. Suresh Kumar | 1999 | 41,313 words
 
 This essay represents a comprehensive study of Marmas with special reference to Ayurvedic and Tamil Marma Sastras in relation to its applied anatomy. The study reflects on the holistic approach of ancient Indian medicine, contrasting it with Western scientific methods, while highlighting the importance of integrating human and environmental aspects...
 
@@ -395,10 +345,7 @@ Table No. V-d 1. Gulpha 2 2. Manibandha 2 3. Koorchasira 4 Total 8 1. 2. 3.
 
 ## 16. Significance of Sandhi Marma
 
-
 Marma-sastra and Ayurveda (study)
-
-by C. Suresh Kumar | 1999 | 41,313 words
 
 This essay represents a comprehensive study of Marmas with special reference to Ayurvedic and Tamil Marma Sastras in relation to its applied anatomy. The study reflects on the holistic approach of ancient Indian medicine, contrasting it with Western scientific methods, while highlighting the importance of integrating human and environmental aspects...
 
@@ -412,10 +359,7 @@ provision of intervening arrangements permitting some degree of torsion, angulat
 
 ## 17. Significance of Dhamani Marma
 
-
 Marma-sastra and Ayurveda (study)
-
-by C. Suresh Kumar | 1999 | 41,313 words
 
 This essay represents a comprehensive study of Marmas with special reference to Ayurvedic and Tamil Marma Sastras in relation to its applied anatomy. The study reflects on the holistic approach of ancient Indian medicine, contrasting it with Western scientific methods, while highlighting the importance of integrating human and environmental aspects...
 
@@ -433,10 +377,7 @@ Difference of opinion 27 According to Susruta, Guda marma is included as mamsa m
 
 ## 18. Significance of Asti Marma
 
-
 Marma-sastra and Ayurveda (study)
-
-by C. Suresh Kumar | 1999 | 41,313 words
 
 This essay represents a comprehensive study of Marmas with special reference to Ayurvedic and Tamil Marma Sastras in relation to its applied anatomy. The study reflects on the holistic approach of ancient Indian medicine, contrasting it with Western scientific methods, while highlighting the importance of integrating human and environmental aspects...
 
@@ -448,10 +389,7 @@ Significance of Asti Marma
 
 ## 19. Tridosha and Triguna aspect of Marma
 
-
 Marma-sastra and Ayurveda (study)
-
-by C. Suresh Kumar | 1999 | 41,313 words
 
 This essay represents a comprehensive study of Marmas with special reference to Ayurvedic and Tamil Marma Sastras in relation to its applied anatomy. The study reflects on the holistic approach of ancient Indian medicine, contrasting it with Western scientific methods, while highlighting the importance of integrating human and environmental aspects...
 
@@ -465,10 +403,7 @@ the above description is not correct because even when the bony marma is injured
 
 ## 20. Prognosis of Partial Injury of Marma
 
-
 Marma-sastra and Ayurveda (study)
-
-by C. Suresh Kumar | 1999 | 41,313 words
 
 This essay represents a comprehensive study of Marmas with special reference to Ayurvedic and Tamil Marma Sastras in relation to its applied anatomy. The study reflects on the holistic approach of ancient Indian medicine, contrasting it with Western scientific methods, while highlighting the importance of integrating human and environmental aspects...
 
@@ -480,10 +415,7 @@ Any injury at the periphery of a sadya pranahara marma would kill the patient af
 
 ## 21. Classification according to Tamil Varma Shastra
 
-
 Marma-sastra and Ayurveda (study)
-
-by C. Suresh Kumar | 1999 | 41,313 words
 
 This essay represents a comprehensive study of Marmas with special reference to Ayurvedic and Tamil Marma Sastras in relation to its applied anatomy. The study reflects on the holistic approach of ancient Indian medicine, contrasting it with Western scientific methods, while highlighting the importance of integrating human and environmental aspects...
 
@@ -507,10 +439,7 @@ upper extremities there are 11 varmams and 24 in the lower extremities.
 
 ## 22. Structure of Marma
 
-
 Marma-sastra and Ayurveda (study)
-
-by C. Suresh Kumar | 1999 | 41,313 words
 
 This essay represents a comprehensive study of Marmas with special reference to Ayurvedic and Tamil Marma Sastras in relation to its applied anatomy. The study reflects on the holistic approach of ancient Indian medicine, contrasting it with Western scientific methods, while highlighting the importance of integrating human and environmental aspects...
 
@@ -524,10 +453,7 @@ spokes/ petals starting from the centre and reaching the periphery. The grievous
 
 ## 23. Classification of Thodu Varmam
 
-
 Marma-sastra and Ayurveda (study)
-
-by C. Suresh Kumar | 1999 | 41,313 words
 
 This essay represents a comprehensive study of Marmas with special reference to Ayurvedic and Tamil Marma Sastras in relation to its applied anatomy. The study reflects on the holistic approach of ancient Indian medicine, contrasting it with Western scientific methods, while highlighting the importance of integrating human and environmental aspects...
 
@@ -545,10 +471,7 @@ Chest Table No. XII-c 1. Thrisankhupuspam 1 2. Thilakuzhi I 3. Raktamthuppi 4 4.
 
 ## 24. Padu Varmam (vital life centres)
 
-
 Marma-sastra and Ayurveda (study)
-
-by C. Suresh Kumar | 1999 | 41,313 words
 
 This essay represents a comprehensive study of Marmas with special reference to Ayurvedic and Tamil Marma Sastras in relation to its applied anatomy. The study reflects on the holistic approach of ancient Indian medicine, contrasting it with Western scientific methods, while highlighting the importance of integrating human and environmental aspects...
 
@@ -564,10 +487,7 @@ Measurement of impact Life centres 1. Thilartha Kala 2. Nakshathira Kala 3. Sevi
 
 ## 25. Classification of Marma according to Parimana
 
-
 Marma-sastra and Ayurveda (study)
-
-by C. Suresh Kumar | 1999 | 41,313 words
 
 This essay represents a comprehensive study of Marmas with special reference to Ayurvedic and Tamil Marma Sastras in relation to its applied anatomy. The study reflects on the holistic approach of ancient Indian medicine, contrasting it with Western scientific methods, while highlighting the importance of integrating human and environmental aspects...
 
@@ -583,10 +503,7 @@ Thrayangula mana marma 1. Janu Table No. VI-d 2 2. Koorpara Total 04 21 Panithal
 
 ## 26. Part 2 - Study of Marmas
 
-
 Marma-sastra and Ayurveda (study)
-
-by C. Suresh Kumar | 1999 | 41,313 words
 
 This essay represents a comprehensive study of Marmas with special reference to Ayurvedic and Tamil Marma Sastras in relation to its applied anatomy. The study reflects on the holistic approach of ancient Indian medicine, contrasting it with Western scientific methods, while highlighting the importance of integrating human and environmental aspects...
 
@@ -598,10 +515,7 @@ Part 2 - Study of Marmas
 
 ## 27. The Concept of Trimarmiya
 
-
 Marma-sastra and Ayurveda (study)
-
-by C. Suresh Kumar | 1999 | 41,313 words
 
 This essay represents a comprehensive study of Marmas with special reference to Ayurvedic and Tamil Marma Sastras in relation to its applied anatomy. The study reflects on the holistic approach of ancient Indian medicine, contrasting it with Western scientific methods, while highlighting the importance of integrating human and environmental aspects...
 
@@ -623,10 +537,7 @@ nbh nh Place of life. f. Place of sleep. g. Place of memory. h. Place of nerve. 
 
 ## 28. Marmas of the Head and Neck (introduction)
 
-
 Marma-sastra and Ayurveda (study)
-
-by C. Suresh Kumar | 1999 | 41,313 words
 
 This essay represents a comprehensive study of Marmas with special reference to Ayurvedic and Tamil Marma Sastras in relation to its applied anatomy. The study reflects on the holistic approach of ancient Indian medicine, contrasting it with Western scientific methods, while highlighting the importance of integrating human and environmental aspects...
 
@@ -644,10 +555,7 @@ Table No. XIV Sira Marma 15 Dhamani Marma 06 Sandhi Marma 10 Snayu Marma 04 Asth
 
 ## 29. Study of Nila and Manya Marma
 
-
 Marma-sastra and Ayurveda (study)
-
-by C. Suresh Kumar | 1999 | 41,313 words
 
 This essay represents a comprehensive study of Marmas with special reference to Ayurvedic and Tamil Marma Sastras in relation to its applied anatomy. The study reflects on the holistic approach of ancient Indian medicine, contrasting it with Western scientific methods, while highlighting the importance of integrating human and environmental aspects...
 
@@ -669,10 +577,7 @@ these varmas. However with the available data, the following varmas are taken in
 
 ## 30. Study of Avarta Marma
 
-
 Marma-sastra and Ayurveda (study)
-
-by C. Suresh Kumar | 1999 | 41,313 words
 
 This essay represents a comprehensive study of Marmas with special reference to Ayurvedic and Tamil Marma Sastras in relation to its applied anatomy. The study reflects on the holistic approach of ancient Indian medicine, contrasting it with Western scientific methods, while highlighting the importance of integrating human and environmental aspects...
 
@@ -692,10 +597,7 @@ external injury and also superficial treatment no doubt influence the underlying
 
 ## 31. Study of Krikatika Marma
 
-
 Marma-sastra and Ayurveda (study)
-
-by C. Suresh Kumar | 1999 | 41,313 words
 
 This essay represents a comprehensive study of Marmas with special reference to Ayurvedic and Tamil Marma Sastras in relation to its applied anatomy. The study reflects on the holistic approach of ancient Indian medicine, contrasting it with Western scientific methods, while highlighting the importance of integrating human and environmental aspects...
 
@@ -713,10 +615,7 @@ The afflicted person is carefully lifted with his legs, bent and kept together a
 
 ## 32. Study of Matruka Marma
 
-
 Marma-sastra and Ayurveda (study)
-
-by C. Suresh Kumar | 1999 | 41,313 words
 
 This essay represents a comprehensive study of Marmas with special reference to Ayurvedic and Tamil Marma Sastras in relation to its applied anatomy. The study reflects on the holistic approach of ancient Indian medicine, contrasting it with Western scientific methods, while highlighting the importance of integrating human and environmental aspects...
 
@@ -734,10 +633,7 @@ As this is a sira marma and causes sudden death, this marma will invariably be b
 
 ## 33. Study of Vidhura Marma
 
-
 Marma-sastra and Ayurveda (study)
-
-by C. Suresh Kumar | 1999 | 41,313 words
 
 This essay represents a comprehensive study of Marmas with special reference to Ayurvedic and Tamil Marma Sastras in relation to its applied anatomy. The study reflects on the holistic approach of ancient Indian medicine, contrasting it with Western scientific methods, while highlighting the importance of integrating human and environmental aspects...
 
@@ -755,10 +651,7 @@ Tamil varma sastra Urakkakalam is the varma which can be correlated with Vidhura
 
 ## 34. Study of Sankha Marma
 
-
 Marma-sastra and Ayurveda (study)
-
-by C. Suresh Kumar | 1999 | 41,313 words
 
 This essay represents a comprehensive study of Marmas with special reference to Ayurvedic and Tamil Marma Sastras in relation to its applied anatomy. The study reflects on the holistic approach of ancient Indian medicine, contrasting it with Western scientific methods, while highlighting the importance of integrating human and environmental aspects...
 
@@ -778,10 +671,7 @@ eyeball. If injured the patient loses his consciousness and become blind. He wil
 
 ## 35. Study of Apanga Marma
 
-
 Marma-sastra and Ayurveda (study)
-
-by C. Suresh Kumar | 1999 | 41,313 words
 
 This essay represents a comprehensive study of Marmas with special reference to Ayurvedic and Tamil Marma Sastras in relation to its applied anatomy. The study reflects on the holistic approach of ancient Indian medicine, contrasting it with Western scientific methods, while highlighting the importance of integrating human and environmental aspects...
 
@@ -799,10 +689,7 @@ The position of this marma is near the mookadappan marma and if injured the pati
 
 ## 36. Study of Sthapani Marma
 
-
 Marma-sastra and Ayurveda (study)
-
-by C. Suresh Kumar | 1999 | 41,313 words
 
 This essay represents a comprehensive study of Marmas with special reference to Ayurvedic and Tamil Marma Sastras in relation to its applied anatomy. The study reflects on the holistic approach of ancient Indian medicine, contrasting it with Western scientific methods, while highlighting the importance of integrating human and environmental aspects...
 
@@ -822,10 +709,7 @@ kapala sadvyathah panca somantasniyagdhvagah bhramonmada manonai| stesu vidhenu 
 
 ## 37. Study of Shringataka Marma
 
-
 Marma-sastra and Ayurveda (study)
-
-by C. Suresh Kumar | 1999 | 41,313 words
 
 This essay represents a comprehensive study of Marmas with special reference to Ayurvedic and Tamil Marma Sastras in relation to its applied anatomy. The study reflects on the holistic approach of ancient Indian medicine, contrasting it with Western scientific methods, while highlighting the importance of integrating human and environmental aspects...
 
@@ -843,10 +727,7 @@ Tamil varma sastra Patchi varma is situated 1.5 cms. below the centre of the eye
 
 ## 38. Study of Simanta Marma
 
-
 Marma-sastra and Ayurveda (study)
-
-by C. Suresh Kumar | 1999 | 41,313 words
 
 This essay represents a comprehensive study of Marmas with special reference to Ayurvedic and Tamil Marma Sastras in relation to its applied anatomy. The study reflects on the holistic approach of ancient Indian medicine, contrasting it with Western scientific methods, while highlighting the importance of integrating human and environmental aspects...
 
@@ -864,10 +745,7 @@ life-centre. The patient will lose the power of senses after seizures. Even if h
 
 ## 39. Study of Utkshepa Marma
 
-
 Marma-sastra and Ayurveda (study)
-
-by C. Suresh Kumar | 1999 | 41,313 words
 
 This essay represents a comprehensive study of Marmas with special reference to Ayurvedic and Tamil Marma Sastras in relation to its applied anatomy. The study reflects on the holistic approach of ancient Indian medicine, contrasting it with Western scientific methods, while highlighting the importance of integrating human and environmental aspects...
 
@@ -883,10 +761,7 @@ Discussion If the foreign body/ dart is extracted immediately, the above artery 
 
 ## 40. Appendix 1: Various other Varmas
 
-
 Marma-sastra and Ayurveda (study)
-
-by C. Suresh Kumar | 1999 | 41,313 words
 
 This essay represents a comprehensive study of Marmas with special reference to Ayurvedic and Tamil Marma Sastras in relation to its applied anatomy. The study reflects on the holistic approach of ancient Indian medicine, contrasting it with Western scientific methods, while highlighting the importance of integrating human and environmental aspects...
 
@@ -906,10 +781,7 @@ groove at the posterior part of the neck. Otherwise this site will develop oedem
 
 ## 41. Study of Guda Marma
 
-
 Marma-sastra and Ayurveda (study)
-
-by C. Suresh Kumar | 1999 | 41,313 words
 
 This essay represents a comprehensive study of Marmas with special reference to Ayurvedic and Tamil Marma Sastras in relation to its applied anatomy. The study reflects on the holistic approach of ancient Indian medicine, contrasting it with Western scientific methods, while highlighting the importance of integrating human and environmental aspects...
 
@@ -929,10 +801,7 @@ into consideration. This is the area where the filum terminale ends. So any inju
 
 ## 42. Udara and Uras Marmas (introduction)
 
-
 Marma-sastra and Ayurveda (study)
-
-by C. Suresh Kumar | 1999 | 41,313 words
 
 This essay represents a comprehensive study of Marmas with special reference to Ayurvedic and Tamil Marma Sastras in relation to its applied anatomy. The study reflects on the holistic approach of ancient Indian medicine, contrasting it with Western scientific methods, while highlighting the importance of integrating human and environmental aspects...
 
@@ -944,10 +813,7 @@ UDARAM AND URAS Table No. XVIII Sl. Name Asraya Prognosis No. Extend No. 1. Nabh
 
 ## 43. Study of Vasti Marma
 
-
 Marma-sastra and Ayurveda (study)
-
-by C. Suresh Kumar | 1999 | 41,313 words
 
 This essay represents a comprehensive study of Marmas with special reference to Ayurvedic and Tamil Marma Sastras in relation to its applied anatomy. The study reflects on the holistic approach of ancient Indian medicine, contrasting it with Western scientific methods, while highlighting the importance of integrating human and environmental aspects...
 
@@ -965,10 +831,7 @@ Cure can be achieved if treated within a span of 27 nazhigai (10 hours and 30 mi
 
 ## 44. Study of Sthanamula Marma
 
-
 Marma-sastra and Ayurveda (study)
-
-by C. Suresh Kumar | 1999 | 41,313 words
 
 This essay represents a comprehensive study of Marmas with special reference to Ayurvedic and Tamil Marma Sastras in relation to its applied anatomy. The study reflects on the holistic approach of ancient Indian medicine, contrasting it with Western scientific methods, while highlighting the importance of integrating human and environmental aspects...
 
@@ -986,10 +849,7 @@ diaphragm. This may kill the patient by developing cardiac arrhythmias. If he su
 
 ## 45. Study of Sthanarohita Marma
 
-
 Marma-sastra and Ayurveda (study)
-
-by C. Suresh Kumar | 1999 | 41,313 words
 
 This essay represents a comprehensive study of Marmas with special reference to Ayurvedic and Tamil Marma Sastras in relation to its applied anatomy. The study reflects on the holistic approach of ancient Indian medicine, contrasting it with Western scientific methods, while highlighting the importance of integrating human and environmental aspects...
 
@@ -1007,10 +867,7 @@ There are four marmas seen two angulas above the sthana two angulas below the st
 
 ## 46. Study of Nabhi Marma
 
-
 Marma-sastra and Ayurveda (study)
-
-by C. Suresh Kumar | 1999 | 41,313 words
 
 This essay represents a comprehensive study of Marmas with special reference to Ayurvedic and Tamil Marma Sastras in relation to its applied anatomy. The study reflects on the holistic approach of ancient Indian medicine, contrasting it with Western scientific methods, while highlighting the importance of integrating human and environmental aspects...
 
@@ -1028,10 +885,7 @@ it can cause instant death due to shock and haemorrhage. The deep injury may als
 
 ## 47. Study of Hridaya Marma
 
-
 Marma-sastra and Ayurveda (study)
-
-by C. Suresh Kumar | 1999 | 41,313 words
 
 This essay represents a comprehensive study of Marmas with special reference to Ayurvedic and Tamil Marma Sastras in relation to its applied anatomy. The study reflects on the holistic approach of ancient Indian medicine, contrasting it with Western scientific methods, while highlighting the importance of integrating human and environmental aspects...
 
@@ -1053,10 +907,7 @@ a distance of 31 cms and less than 31 cms if hit by three fingers. The injured p
 
 ## 48. Study of Apalapa Marma
 
-
 Marma-sastra and Ayurveda (study)
-
-by C. Suresh Kumar | 1999 | 41,313 words
 
 This essay represents a comprehensive study of Marmas with special reference to Ayurvedic and Tamil Marma Sastras in relation to its applied anatomy. The study reflects on the holistic approach of ancient Indian medicine, contrasting it with Western scientific methods, while highlighting the importance of integrating human and environmental aspects...
 
@@ -1076,10 +927,7 @@ Lohitha is seen two angula below the Poonellu (I rib). If injured the patient fa
 
 ## 49. Study of Apastambha Marma
 
-
 Marma-sastra and Ayurveda (study)
-
-by C. Suresh Kumar | 1999 | 41,313 words
 
 This essay represents a comprehensive study of Marmas with special reference to Ayurvedic and Tamil Marma Sastras in relation to its applied anatomy. The study reflects on the holistic approach of ancient Indian medicine, contrasting it with Western scientific methods, while highlighting the importance of integrating human and environmental aspects...
 
@@ -1097,10 +945,7 @@ blood in the pleura or adjacent structures. Similarly injury in any of the air c
 
 ## 50. Appendix 2: Various other Varmams
 
-
 Marma-sastra and Ayurveda (study)
-
-by C. Suresh Kumar | 1999 | 41,313 words
 
 This essay represents a comprehensive study of Marmas with special reference to Ayurvedic and Tamil Marma Sastras in relation to its applied anatomy. The study reflects on the holistic approach of ancient Indian medicine, contrasting it with Western scientific methods, while highlighting the importance of integrating human and environmental aspects...
 
@@ -1126,10 +971,7 @@ Involuntary discharge of semen will be the symptom of this varma disorder. Antha
 
 ## 51. Study of Katikataruna Marma
 
-
 Marma-sastra and Ayurveda (study)
-
-by C. Suresh Kumar | 1999 | 41,313 words
 
 This essay represents a comprehensive study of Marmas with special reference to Ayurvedic and Tamil Marma Sastras in relation to its applied anatomy. The study reflects on the holistic approach of ancient Indian medicine, contrasting it with Western scientific methods, while highlighting the importance of integrating human and environmental aspects...
 
@@ -1145,10 +987,7 @@ It is suitable to consider the marma near the upper margin of pelvic bone which 
 
 ## 52. Study of Nitamba Marma
 
-
 Marma-sastra and Ayurveda (study)
-
-by C. Suresh Kumar | 1999 | 41,313 words
 
 This essay represents a comprehensive study of Marmas with special reference to Ayurvedic and Tamil Marma Sastras in relation to its applied anatomy. The study reflects on the holistic approach of ancient Indian medicine, contrasting it with Western scientific methods, while highlighting the importance of integrating human and environmental aspects...
 
@@ -1164,10 +1003,7 @@ above the Sroni instead of 'upon' (Upari) the Shroni Palaka) Nitamba literally r
 
 ## 53. Marmas in the Back (introduction)
 
-
 Marma-sastra and Ayurveda (study)
-
-by C. Suresh Kumar | 1999 | 41,313 words
 
 This essay represents a comprehensive study of Marmas with special reference to Ayurvedic and Tamil Marma Sastras in relation to its applied anatomy. The study reflects on the holistic approach of ancient Indian medicine, contrasting it with Western scientific methods, while highlighting the importance of integrating human and environmental aspects...
 
@@ -1179,10 +1015,7 @@ MARMAS IN THE BACK Table No. XIX Sl. Name Asraya Prognosis No. Extend No. 1. Kat
 
 ## 54. Study of Kukundara Marma
 
-
 Marma-sastra and Ayurveda (study)
-
-by C. Suresh Kumar | 1999 | 41,313 words
 
 This essay represents a comprehensive study of Marmas with special reference to Ayurvedic and Tamil Marma Sastras in relation to its applied anatomy. The study reflects on the holistic approach of ancient Indian medicine, contrasting it with Western scientific methods, while highlighting the importance of integrating human and environmental aspects...
 
@@ -1200,10 +1033,7 @@ Start remedial measures immediately. Internal medicines should be started only a
 
 ## 55. Study of Amsaphalaka Marma
 
-
 Marma-sastra and Ayurveda (study)
-
-by C. Suresh Kumar | 1999 | 41,313 words
 
 This essay represents a comprehensive study of Marmas with special reference to Ayurvedic and Tamil Marma Sastras in relation to its applied anatomy. The study reflects on the holistic approach of ancient Indian medicine, contrasting it with Western scientific methods, while highlighting the importance of integrating human and environmental aspects...
 
@@ -1221,10 +1051,7 @@ Menmai varma is seen four fingers below the arali varmam. Polyuria,diffuse whole
 
 ## 56. Study of Brihati Marma
 
-
 Marma-sastra and Ayurveda (study)
-
-by C. Suresh Kumar | 1999 | 41,313 words
 
 This essay represents a comprehensive study of Marmas with special reference to Ayurvedic and Tamil Marma Sastras in relation to its applied anatomy. The study reflects on the holistic approach of ancient Indian medicine, contrasting it with Western scientific methods, while highlighting the importance of integrating human and environmental aspects...
 
@@ -1240,10 +1067,7 @@ Tamil varma sastra Azhal varma is five fingers below the arasa varma close to th
 
 ## 57. Study of Parsvasandhi Marma
 
-
 Marma-sastra and Ayurveda (study)
-
-by C. Suresh Kumar | 1999 | 41,313 words
 
 This essay represents a comprehensive study of Marmas with special reference to Ayurvedic and Tamil Marma Sastras in relation to its applied anatomy. The study reflects on the holistic approach of ancient Indian medicine, contrasting it with Western scientific methods, while highlighting the importance of integrating human and environmental aspects...
 
@@ -1259,10 +1083,7 @@ Tamil varma sastra Cheriya atti surukki is situated half angula distance from th
 
 ## 58. Marmas of the Extremities (introduction)
 
-
 Marma-sastra and Ayurveda (study)
-
-by C. Suresh Kumar | 1999 | 41,313 words
 
 This essay represents a comprehensive study of Marmas with special reference to Ayurvedic and Tamil Marma Sastras in relation to its applied anatomy. The study reflects on the holistic approach of ancient Indian medicine, contrasting it with Western scientific methods, while highlighting the importance of integrating human and environmental aspects...
 
@@ -1276,10 +1097,7 @@ Upper limb varma points at a glance as per Varma Suttiram. 0 Antai varma 0 Kiray
 
 ## 59. Appendix 3: Various other Varmam
 
-
 Marma-sastra and Ayurveda (study)
-
-by C. Suresh Kumar | 1999 | 41,313 words
 
 This essay represents a comprehensive study of Marmas with special reference to Ayurvedic and Tamil Marma Sastras in relation to its applied anatomy. The study reflects on the holistic approach of ancient Indian medicine, contrasting it with Western scientific methods, while highlighting the importance of integrating human and environmental aspects...
 
@@ -1301,10 +1119,7 @@ seen later. Irritation at the thoracic region will arise due to gastritis and ch
 
 ## 60. Study of Amsa Marma
 
-
 Marma-sastra and Ayurveda (study)
-
-by C. Suresh Kumar | 1999 | 41,313 words
 
 This essay represents a comprehensive study of Marmas with special reference to Ayurvedic and Tamil Marma Sastras in relation to its applied anatomy. The study reflects on the holistic approach of ancient Indian medicine, contrasting it with Western scientific methods, while highlighting the importance of integrating human and environmental aspects...
 
@@ -1324,10 +1139,7 @@ brought to consciousness by manipulating the same area just two angulas below th
 
 ## 61. Study of Ksipra Marma
 
-
 Marma-sastra and Ayurveda (study)
-
-by C. Suresh Kumar | 1999 | 41,313 words
 
 This essay represents a comprehensive study of Marmas with special reference to Ayurvedic and Tamil Marma Sastras in relation to its applied anatomy. The study reflects on the holistic approach of ancient Indian medicine, contrasting it with Western scientific methods, while highlighting the importance of integrating human and environmental aspects...
 
@@ -1349,10 +1161,7 @@ Tamil varma sastra In Tamil literature it is termed as cuttu varma. This lies on
 
 ## 62. Study of Talahridaya Marma
 
-
 Marma-sastra and Ayurveda (study)
-
-by C. Suresh Kumar | 1999 | 41,313 words
 
 This essay represents a comprehensive study of Marmas with special reference to Ayurvedic and Tamil Marma Sastras in relation to its applied anatomy. The study reflects on the holistic approach of ancient Indian medicine, contrasting it with Western scientific methods, while highlighting the importance of integrating human and environmental aspects...
 
@@ -1372,10 +1181,7 @@ Gray in his book has also mentioned the same "the wounds of the palmar arches ar
 
 ## 63. Study of Kurcha Marma
 
-
 Marma-sastra and Ayurveda (study)
-
-by C. Suresh Kumar | 1999 | 41,313 words
 
 This essay represents a comprehensive study of Marmas with special reference to Ayurvedic and Tamil Marma Sastras in relation to its applied anatomy. The study reflects on the holistic approach of ancient Indian medicine, contrasting it with Western scientific methods, while highlighting the importance of integrating human and environmental aspects...
 
@@ -1395,10 +1201,7 @@ Discussion ☐ Interrosseus Muscle If injured the pain will be greater. The panc
 
 ## 64. Study of Kurchashira Marma
 
-
 Marma-sastra and Ayurveda (study)
-
-by C. Suresh Kumar | 1999 | 41,313 words
 
 This essay represents a comprehensive study of Marmas with special reference to Ayurvedic and Tamil Marma Sastras in relation to its applied anatomy. The study reflects on the holistic approach of ancient Indian medicine, contrasting it with Western scientific methods, while highlighting the importance of integrating human and environmental aspects...
 
@@ -1418,10 +1221,7 @@ Tamil varma sastra Similar description is is available in Odimuri 41 That Paccha
 
 ## 65. Study of Ani Marma
 
-
 Marma-sastra and Ayurveda (study)
-
-by C. Suresh Kumar | 1999 | 41,313 words
 
 This essay represents a comprehensive study of Marmas with special reference to Ayurvedic and Tamil Marma Sastras in relation to its applied anatomy. The study reflects on the holistic approach of ancient Indian medicine, contrasting it with Western scientific methods, while highlighting the importance of integrating human and environmental aspects...
 
@@ -1441,10 +1241,7 @@ Nadathalarpan is situated four inches above the knees on the side of each thighs
 
 ## 66. Study of Indravasti Marma
 
-
 Marma-sastra and Ayurveda (study)
-
-by C. Suresh Kumar | 1999 | 41,313 words
 
 This essay represents a comprehensive study of Marmas with special reference to Ayurvedic and Tamil Marma Sastras in relation to its applied anatomy. The study reflects on the holistic approach of ancient Indian medicine, contrasting it with Western scientific methods, while highlighting the importance of integrating human and environmental aspects...
 
@@ -1464,10 +1261,7 @@ Discussion Basti used here probably refer to the The region of the marma organ u
 
 ## 67. Study of Manibandha or Gulpha Marma
 
-
 Marma-sastra and Ayurveda (study)
-
-by C. Suresh Kumar | 1999 | 41,313 words
 
 This essay represents a comprehensive study of Marmas with special reference to Ayurvedic and Tamil Marma Sastras in relation to its applied anatomy. The study reflects on the holistic approach of ancient Indian medicine, contrasting it with Western scientific methods, while highlighting the importance of integrating human and environmental aspects...
 
@@ -1489,10 +1283,7 @@ Tamil varma sastra In Tamil also this is named as Manipantha varma. This varma i
 
 ## 68. Study of Kurpara or Janu Marma
 
-
 Marma-sastra and Ayurveda (study)
-
-by C. Suresh Kumar | 1999 | 41,313 words
 
 This essay represents a comprehensive study of Marmas with special reference to Ayurvedic and Tamil Marma Sastras in relation to its applied anatomy. The study reflects on the holistic approach of ancient Indian medicine, contrasting it with Western scientific methods, while highlighting the importance of integrating human and environmental aspects...
 
@@ -1508,10 +1299,7 @@ Anatomical Structures corresponding to this marma ☐ Contents of Cubital Fossa 
 
 ## 69. Study of Kaksadhara or Vitapa Marma
 
-
 Marma-sastra and Ayurveda (study)
-
-by C. Suresh Kumar | 1999 | 41,313 words
 
 This essay represents a comprehensive study of Marmas with special reference to Ayurvedic and Tamil Marma Sastras in relation to its applied anatomy. The study reflects on the holistic approach of ancient Indian medicine, contrasting it with Western scientific methods, while highlighting the importance of integrating human and environmental aspects...
 
@@ -1533,10 +1321,7 @@ Odukku Valippan are three in number. The position of this marma is in the middle
 
 ## 70. Study of Bahvi or Urvi Marma
 
-
 Marma-sastra and Ayurveda (study)
-
-by C. Suresh Kumar | 1999 | 41,313 words
 
 This essay represents a comprehensive study of Marmas with special reference to Ayurvedic and Tamil Marma Sastras in relation to its applied anatomy. The study reflects on the holistic approach of ancient Indian medicine, contrasting it with Western scientific methods, while highlighting the importance of integrating human and environmental aspects...
 
@@ -1554,10 +1339,7 @@ Discussion ☐ Ischial part of adductor magnus ☐ Profundus femoris artery Uppe
 
 ## 71. Study of Lohitaksha Marma
 
-
 Marma-sastra and Ayurveda (study)
-
-by C. Suresh Kumar | 1999 | 41,313 words
 
 This essay represents a comprehensive study of Marmas with special reference to Ayurvedic and Tamil Marma Sastras in relation to its applied anatomy. The study reflects on the holistic approach of ancient Indian medicine, contrasting it with Western scientific methods, while highlighting the importance of integrating human and environmental aspects...
 
@@ -1577,10 +1359,7 @@ Lohitaksha, According to the text the injury causes pakshaghata. Here the author
 
 ## 72. Conclusion
 
-
 Marma-sastra and Ayurveda (study)
-
-by C. Suresh Kumar | 1999 | 41,313 words
 
 This essay represents a comprehensive study of Marmas with special reference to Ayurvedic and Tamil Marma Sastras in relation to its applied anatomy. The study reflects on the holistic approach of ancient Indian medicine, contrasting it with Western scientific methods, while highlighting the importance of integrating human and environmental aspects...
 
@@ -1600,10 +1379,7 @@ with mystery. The need of this hour is to, make consolidated efforts to revive, 
 
 ## 73. Appendix 1 - Marma and Shad Chakras
 
-
 Marma-sastra and Ayurveda (study)
-
-by C. Suresh Kumar | 1999 | 41,313 words
 
 This essay represents a comprehensive study of Marmas with special reference to Ayurvedic and Tamil Marma Sastras in relation to its applied anatomy. The study reflects on the holistic approach of ancient Indian medicine, contrasting it with Western scientific methods, while highlighting the importance of integrating human and environmental aspects...
 
@@ -1625,10 +1401,7 @@ Bija (Seed) Color Bija Petal Sound Loka (Plane) Tatva (Element) Color of Tatva R
 
 ## 74. Appendix 2 - Names of Paduvarma in various Texts
 
-
 Marma-sastra and Ayurveda (study)
-
-by C. Suresh Kumar | 1999 | 41,313 words
 
 This essay represents a comprehensive study of Marmas with special reference to Ayurvedic and Tamil Marma Sastras in relation to its applied anatomy. The study reflects on the holistic approach of ancient Indian medicine, contrasting it with Western scientific methods, while highlighting the importance of integrating human and environmental aspects...
 
@@ -1644,10 +1417,7 @@ Thodu Varma Varma Suthiram Varma Varma Varma Kannadi Peerangi Suthram V.P 1. Ang
 
 ## 75. Appendix 4: Various other Varmam
 
-
 Marma-sastra and Ayurveda (study)
-
-by C. Suresh Kumar | 1999 | 41,313 words
 
 This essay represents a comprehensive study of Marmas with special reference to Ayurvedic and Tamil Marma Sastras in relation to its applied anatomy. The study reflects on the holistic approach of ancient Indian medicine, contrasting it with Western scientific methods, while highlighting the importance of integrating human and environmental aspects...
 
@@ -1661,10 +1431,7 @@ Kaal Sundotiri varma is two angula above the big toe and otherwise termed as Vid
 
 ## 76. Appendix 4 - Table of weights and measures described in Ayurvedic Classics
 
-
 Marma-sastra and Ayurveda (study)
-
-by C. Suresh Kumar | 1999 | 41,313 words
 
 This essay represents a comprehensive study of Marmas with special reference to Ayurvedic and Tamil Marma Sastras in relation to its applied anatomy. The study reflects on the holistic approach of ancient Indian medicine, contrasting it with Western scientific methods, while highlighting the importance of integrating human and environmental aspects...
 
@@ -1678,10 +1445,7 @@ In the case of liquids, the metric equivalents would be the corresponding litre 
 
 ## 77. Appendix 3 - Research work done on Marma in various Universities and Institutes
 
-
 Marma-sastra and Ayurveda (study)
-
-by C. Suresh Kumar | 1999 | 41,313 words
 
 This essay represents a comprehensive study of Marmas with special reference to Ayurvedic and Tamil Marma Sastras in relation to its applied anatomy. The study reflects on the holistic approach of ancient Indian medicine, contrasting it with Western scientific methods, while highlighting the importance of integrating human and environmental aspects...
 

@@ -20,17 +20,11 @@ This chapter from **Sushruta Samhita (Uttaratantra)** represents the classical s
 
 ---
 
-
 Sushruta Samhita, Volume 6: Uttara-tantra
-
-by Kaviraj Kunja Lal Bhishagratna | 1916 | 113,078 words
 
 This current book, the Uttara-tantra (english translation) is the supplementary part of the Sushrutasamhita and deals various subjects such as diseases of the eye, treatment of fever, diarrhea, diseases resulting from superhuman influences, insanity, rules of health etc.
 
 The Sushruta Samhita is the most representative work of the Hindu system of m...
-
-Go directly to: 
-Footnotes.
 
 Chapter XI - Treatment of Shleshma Ophthalmia
 
@@ -55,10 +49,6 @@ Kashisha (Sulphate of iron), Samudra[7], Rasanjana and buds of Jati flowers past
 A single application as an Anjana of the compound composed of excellent Nadeya (Saindhava)[8] salt, white pipper[9] and Nepala-jata, (Realgar-lit., that which is produced in Nepala) taken in equal parts and pasted together with the expressed juice of Matulanga, would alleviate the itching sensation (Kandu) in the eyes. Similarly a compound of Shringa-vera, Deva-daru, Musta, Saindhava salt and buds of Jati flowers pasted together with wine and used as an Anjana would prove efficacious in a case of swelling (Sopha) and itching sensation of the eyes. The above eye-diseases should be judiciously treated in accordance with the principles laid down in the treatment of the cases of Abhi-shyanda and Adhi-mantha. 10.
 
 Thus ends the eleventh chapter of the Uttara-Tantra in the Sushruta Samhita which treats of the curative treatment of Shleshmabhishyanda.
-
-Footnotes and references:
-
-[back to top]
 
 [1]:
 

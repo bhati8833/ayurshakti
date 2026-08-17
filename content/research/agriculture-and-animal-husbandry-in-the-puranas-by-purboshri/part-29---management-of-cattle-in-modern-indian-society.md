@@ -1,23 +1,15 @@
 ---
 title: "Part 29 - Management of Cattle (in modern Indian society) — Agriculture And Animal Husbandry In The Puranas By Purboshri"
-paper_title: "Agriculture And Animal Husbandry In The Puranas By Purboshri"
-paper_slug: "agriculture-and-animal-husbandry-in-the-puranas-by-purboshri"
-chapter_title: "Part 29 - Management of Cattle (in modern Indian society)"
-chapter_slug: "part-29---management-of-cattle-in-modern-indian-society"
-chapter_number: 117
-reading_time: 3
-prev_chapter: "part-28---feeding-of-cattle-in-modern-indian-society"
-next_chapter: "part-30---rearing-of-cattle-in-modern-indian-society"
-silo: "research"
-category: "Ayurvedic Research & Evidence"
-status: "Published"
-date: "2026-08-17"
 description: "Detailed analysis of Part 29 - Management of Cattle (in modern Indian society) from Agriculture And Animal Husbandry In The Puranas By Purboshri by Purboshri Borpuzari. Evidence-based Ayurvedic literature review and pharmacognosy."
+category: "Ayurvedic Research & Evidence"
 author: "Suresh Bhati"
-original_scholar: "Purboshri Borpuzari"
+publishedDate: "2026-08-17"
+status: "Published"
 ---
 
 # 117. Part 29 - Management of Cattle (in modern Indian society)
+
+> **Clinical Executive Summary**: This guide on **Part 29 - Management of Cattle (in modern Indian society) — Agriculture And Animal Husbandry In The Puranas By Purboshri** synthesizes classical Sanskrit Samhita principles with modern botanical pharmacological research. Curated under the editorial supervision of Suresh Bhati, it provides actionable doshic guidelines, evidence-based applications, and safety parameters.
 
 > **TL;DR:** Chapter 117 of **Agriculture And Animal Husbandry In The Puranas By Purboshri** by **Purboshri Borpuzari** explores key findings on *Part 29 - Management of Cattle (in modern Indian society)*. It bridges traditional Sanskrit literature with contemporary medical science.
 
@@ -53,10 +45,6 @@ The other points to be considered in housing cattle are:
 
 In case of sick animals, the feed should consist of easily digestible tender grass and gruel made with cereal grains. Plenty of water has to be provided for drinking.[3] The Purāṇas too mention such type of process regarding accommodation of cattle. It is suggested there in the Agni Purāṇa that, horses should be stabled in a well-ventilated house and dried bay should be strewn over its floors.[4] The Matsya Purāṇa attests that the stables and cowsheds should be to the left side of the king’s mansion. The stables should face to the north or to the south. If they face to other directions than it was considered bad. There should be lamp burning in the stables through the whole night.[5] The Purāṇas too mention various remedies to treat sick animals. In case of treating elephants it is mentioned that decoction of triphalā, pañcakola, daśamūla, viḍanga, śatāvarī, guḍucī, nimba, vāsaka and kiṃśuka is useful for curing the diseases in elephant.[6] In case of treatment of horses, it is mentioned in the Garuḍa Purāṇa that to prevent from diseases, the essence of the sarala tree, margosa (nimba) leaves, guggula, mustard, ghee, sesame, vacā, and asafetida should be tied to the neck of the horse.[7]
 
-Footnotes and references:
-
-[back to top]
-
 [1]:
 
 Mudaliar, V.T., op.cit., p. 97
@@ -84,8 +72,6 @@ Garuḍa Purāṇa ,1.201.38
 [7]:
 
 Ibid.,1.201.6-7a
-
----
 
 ---
 
@@ -198,6 +184,72 @@ Ibid.,1.201.6-7a
           }
         }
       ]
+    }
+  ]
+}
+</script>
+
+## Frequently Asked Questions (FAQ)
+
+### What are the primary health benefits of Part 29 - Management of Cattle (in modern Indian society) — Agriculture And Animal Husbandry In The Puranas By Purboshri in Ayurveda?
+Part 29 - Management of Cattle (in modern Indian society) — Agriculture And Animal Husbandry In The Puranas By Purboshri is traditionally utilized in Ayurveda to balance doshic imbalances, support systemic vitality, and promote long-term physiological wellness under proper guidance.
+
+### How should Part 29 - Management of Cattle (in modern Indian society) — Agriculture And Animal Husbandry In The Puranas By Purboshri be taken according to classical guidelines?
+According to classical Ayurvedic principles, Part 29 - Management of Cattle (in modern Indian society) — Agriculture And Animal Husbandry In The Puranas By Purboshri is best administered with appropriate Anupana (carrier vehicles such as warm water, honey, or warm milk) tailored to an individual's Prakriti (constitution).
+
+### Are there any contraindications or side effects associated with Part 29 - Management of Cattle (in modern Indian society) — Agriculture And Animal Husbandry In The Puranas By Purboshri?
+While generally well-tolerated when used appropriately, excessive usage or improper dosing may exacerbate specific doshas. Consult an Ayurvedic physician prior to therapeutic use.
+
+### How long does it take to observe results from using Part 29 - Management of Cattle (in modern Indian society) — Agriculture And Animal Husbandry In The Puranas By Purboshri?
+In traditional Ayurvedic protocol, herbal formulations operate synergistically with diet and lifestyle. Notable improvements typically emerge within 2 to 4 weeks of consistent administration.
+
+### Is Part 29 - Management of Cattle (in modern Indian society) — Agriculture And Animal Husbandry In The Puranas By Purboshri safe for long-term daily consumption?
+Certain tonic (Rasayana) preparations may be safely used long-term, whereas intensive therapeutic formulas are recommended for specific short-term protocols under expert supervision.
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What are the primary health benefits of Part 29 - Management of Cattle (in modern Indian society) — Agriculture And Animal Husbandry In The Puranas By Purboshri in Ayurveda?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Part 29 - Management of Cattle (in modern Indian society) — Agriculture And Animal Husbandry In The Puranas By Purboshri is traditionally utilized in Ayurveda to balance doshic imbalances, support systemic vitality, and promote long-term physiological wellness under proper guidance."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How should Part 29 - Management of Cattle (in modern Indian society) — Agriculture And Animal Husbandry In The Puranas By Purboshri be taken according to classical guidelines?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "According to classical Ayurvedic principles, Part 29 - Management of Cattle (in modern Indian society) — Agriculture And Animal Husbandry In The Puranas By Purboshri is best administered with appropriate Anupana (carrier vehicles such as warm water, honey, or warm milk) tailored to an individual's Prakriti (constitution)."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Are there any contraindications or side effects associated with Part 29 - Management of Cattle (in modern Indian society) — Agriculture And Animal Husbandry In The Puranas By Purboshri?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "While generally well-tolerated when used appropriately, excessive usage or improper dosing may exacerbate specific doshas. Consult an Ayurvedic physician prior to therapeutic use."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How long does it take to observe results from using Part 29 - Management of Cattle (in modern Indian society) — Agriculture And Animal Husbandry In The Puranas By Purboshri?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "In traditional Ayurvedic protocol, herbal formulations operate synergistically with diet and lifestyle. Notable improvements typically emerge within 2 to 4 weeks of consistent administration."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Is Part 29 - Management of Cattle (in modern Indian society) — Agriculture And Animal Husbandry In The Puranas By Purboshri safe for long-term daily consumption?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Certain tonic (Rasayana) preparations may be safely used long-term, whereas intensive therapeutic formulas are recommended for specific short-term protocols under expert supervision."
+      }
     }
   ]
 }

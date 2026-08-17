@@ -20,17 +20,11 @@ This chapter from **Sushruta Samhita (Uttaratantra)** represents the classical s
 
 ---
 
-
 Sushruta Samhita, Volume 6: Uttara-tantra
-
-by Kaviraj Kunja Lal Bhishagratna | 1916 | 113,078 words
 
 This current book, the Uttara-tantra (english translation) is the supplementary part of the Sushrutasamhita and deals various subjects such as diseases of the eye, treatment of fever, diarrhea, diseases resulting from superhuman influences, insanity, rules of health etc.
 
 The Sushruta Samhita is the most representative work of the Hindu system of m...
-
-Go directly to: 
-Footnotes.
 
 Chapter VII - Pathology of the diseases of the Pupil
 
@@ -85,10 +79,6 @@ Besides the above, there are two more forms of Linga-nasha of traumatic origin, 
 We have thus finished describing separately the diagnostic traits of the seventy-six forms of disease which affect the organ of vision. We shall hereafter separately deal with the nature of the medical treatment to be pursued in each case. 25.
 
 Thus ends the seventh chapter of the Uttara-Tantra in the Sushruta Samhita which treats of the pathology of the diseases peculiar to the pupil of the eye.
-
-Footnotes and references:
-
-[back to top]
 
 [1]:
 

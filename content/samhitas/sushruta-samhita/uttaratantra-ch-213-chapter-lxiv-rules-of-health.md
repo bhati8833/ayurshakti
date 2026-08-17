@@ -20,17 +20,11 @@ This chapter from **Sushruta Samhita (Uttaratantra)** represents the classical s
 
 ---
 
-
 Sushruta Samhita, Volume 6: Uttara-tantra
-
-by Kaviraj Kunja Lal Bhishagratna | 1916 | 113,078 words
 
 This current book, the Uttara-tantra (english translation) is the supplementary part of the Sushrutasamhita and deals various subjects such as diseases of the eye, treatment of fever, diarrhea, diseases resulting from superhuman influences, insanity, rules of health etc.
 
 The Sushruta Samhita is the most representative work of the Hindu system of m...
-
-Go directly to: 
-Footnotes.
 
 Chapter LXIV - Rules of Health
 
@@ -97,10 +91,6 @@ Proper time for taking food:—
 The proper time for giving diet to a patient is when he gets free stool, urine and eructations, and feels his body and sense-organs light and free, when he gets free actions of the heart as well as natural courses of his bodily (Apana) Vayu, when he feels hungry (D. R. feels easy) and has got relish for food and when his Kukshi (belly) becomes light (i. e. when his belly appears to be empty on account of hunger). 34.
 
 Thus ends the sixty-fourth chapter in the Uttara-tantra of the Sushruta-Samhita which deals with the Rules of Hygiene.
-
-Footnotes and references:
-
-[back to top]
 
 [1]:
 

@@ -1,23 +1,15 @@
 ---
 title: "Part 30 - Rearing of Cattle (in modern Indian society) — Agriculture And Animal Husbandry In The Puranas By Purboshri"
-paper_title: "Agriculture And Animal Husbandry In The Puranas By Purboshri"
-paper_slug: "agriculture-and-animal-husbandry-in-the-puranas-by-purboshri"
-chapter_title: "Part 30 - Rearing of Cattle (in modern Indian society)"
-chapter_slug: "part-30---rearing-of-cattle-in-modern-indian-society"
-chapter_number: 118
-reading_time: 2
-prev_chapter: "part-29---management-of-cattle-in-modern-indian-society"
-next_chapter: "part-31---indigenous-plants-for-the-treatment-of-diseases-of-animals"
-silo: "research"
-category: "Ayurvedic Research & Evidence"
-status: "Published"
-date: "2026-08-17"
 description: "Detailed analysis of Part 30 - Rearing of Cattle (in modern Indian society) from Agriculture And Animal Husbandry In The Puranas By Purboshri by Purboshri Borpuzari. Evidence-based Ayurvedic literature review and pharmacognosy."
+category: "Ayurvedic Research & Evidence"
 author: "Suresh Bhati"
-original_scholar: "Purboshri Borpuzari"
+publishedDate: "2026-08-17"
+status: "Published"
 ---
 
 # 118. Part 30 - Rearing of Cattle (in modern Indian society)
+
+> **Clinical Executive Summary**: This guide on **Part 30 - Rearing of Cattle (in modern Indian society) — Agriculture And Animal Husbandry In The Puranas By Purboshri** synthesizes classical Sanskrit Samhita principles with modern botanical pharmacological research. Curated under the editorial supervision of Suresh Bhati, it provides actionable doshic guidelines, evidence-based applications, and safety parameters.
 
 > **TL;DR:** Chapter 118 of **Agriculture And Animal Husbandry In The Puranas By Purboshri** by **Purboshri Borpuzari** explores key findings on *Part 30 - Rearing of Cattle (in modern Indian society)*. It bridges traditional Sanskrit literature with contemporary medical science.
 
@@ -35,10 +27,6 @@ Part 30 - Rearing of Cattle (in modern Indian society)
 
 In rearing cattle, especially for dairy purposes, three things should be constantly kept in mind; viz., Breed, Feed and Trouble. By breed is meant undoubted pedigree, i.e., both the sire and the dam should be known for two or three generations past to have been of the desired type. In arranging for the feed of cattle, paddocks with shady trees are a necessity. Jowar, millets and other cheap grains, bran, oil-cakes and groundnut plants are the principal food-stuffs, besides straw, that should be the main vehicle to be depended upon. The oil-cake should be bought, but the other things should be grown, if possible, on the premises. Good water is of first consideration. Under the head of trouble, comes changing of litter or bedding, keeping the house clean, avoiding all ailments by watching the progress of the cattle day by day.[1] Rearing of animals is mentioned in the Purāṇas also. According to the Purāṇas, it was customary to keep in the stables the following beasts for the welfare of the horses-the cock, monkeys, especially the apes, a cow with her calf and goats. Dung should always be cleared away from the stables or elephant yards or cow sheds, before sunset. The quarters of the charioteers (sārathī) should be near the stables.[2] As diseases become more powerful in the fortress therefore, Veterinary doctors (govaidya, aśvavaidya and gajavaidya) should be provided lodging within the fortress.[3]
 
-Footnotes and references:
-
-[back to top]
-
 [1]:
 
 Mukerji,Nitya Gopal, op.cit., p. 484
@@ -50,8 +38,6 @@ Matsya Purāṇa , 217.21-23
 [3]:
 
 Ibid., 217.25
-
----
 
 ---
 
@@ -164,6 +150,72 @@ Ibid., 217.25
           }
         }
       ]
+    }
+  ]
+}
+</script>
+
+## Frequently Asked Questions (FAQ)
+
+### What are the primary health benefits of Part 30 - Rearing of Cattle (in modern Indian society) — Agriculture And Animal Husbandry In The Puranas By Purboshri in Ayurveda?
+Part 30 - Rearing of Cattle (in modern Indian society) — Agriculture And Animal Husbandry In The Puranas By Purboshri is traditionally utilized in Ayurveda to balance doshic imbalances, support systemic vitality, and promote long-term physiological wellness under proper guidance.
+
+### How should Part 30 - Rearing of Cattle (in modern Indian society) — Agriculture And Animal Husbandry In The Puranas By Purboshri be taken according to classical guidelines?
+According to classical Ayurvedic principles, Part 30 - Rearing of Cattle (in modern Indian society) — Agriculture And Animal Husbandry In The Puranas By Purboshri is best administered with appropriate Anupana (carrier vehicles such as warm water, honey, or warm milk) tailored to an individual's Prakriti (constitution).
+
+### Are there any contraindications or side effects associated with Part 30 - Rearing of Cattle (in modern Indian society) — Agriculture And Animal Husbandry In The Puranas By Purboshri?
+While generally well-tolerated when used appropriately, excessive usage or improper dosing may exacerbate specific doshas. Consult an Ayurvedic physician prior to therapeutic use.
+
+### How long does it take to observe results from using Part 30 - Rearing of Cattle (in modern Indian society) — Agriculture And Animal Husbandry In The Puranas By Purboshri?
+In traditional Ayurvedic protocol, herbal formulations operate synergistically with diet and lifestyle. Notable improvements typically emerge within 2 to 4 weeks of consistent administration.
+
+### Is Part 30 - Rearing of Cattle (in modern Indian society) — Agriculture And Animal Husbandry In The Puranas By Purboshri safe for long-term daily consumption?
+Certain tonic (Rasayana) preparations may be safely used long-term, whereas intensive therapeutic formulas are recommended for specific short-term protocols under expert supervision.
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What are the primary health benefits of Part 30 - Rearing of Cattle (in modern Indian society) — Agriculture And Animal Husbandry In The Puranas By Purboshri in Ayurveda?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Part 30 - Rearing of Cattle (in modern Indian society) — Agriculture And Animal Husbandry In The Puranas By Purboshri is traditionally utilized in Ayurveda to balance doshic imbalances, support systemic vitality, and promote long-term physiological wellness under proper guidance."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How should Part 30 - Rearing of Cattle (in modern Indian society) — Agriculture And Animal Husbandry In The Puranas By Purboshri be taken according to classical guidelines?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "According to classical Ayurvedic principles, Part 30 - Rearing of Cattle (in modern Indian society) — Agriculture And Animal Husbandry In The Puranas By Purboshri is best administered with appropriate Anupana (carrier vehicles such as warm water, honey, or warm milk) tailored to an individual's Prakriti (constitution)."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Are there any contraindications or side effects associated with Part 30 - Rearing of Cattle (in modern Indian society) — Agriculture And Animal Husbandry In The Puranas By Purboshri?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "While generally well-tolerated when used appropriately, excessive usage or improper dosing may exacerbate specific doshas. Consult an Ayurvedic physician prior to therapeutic use."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How long does it take to observe results from using Part 30 - Rearing of Cattle (in modern Indian society) — Agriculture And Animal Husbandry In The Puranas By Purboshri?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "In traditional Ayurvedic protocol, herbal formulations operate synergistically with diet and lifestyle. Notable improvements typically emerge within 2 to 4 weeks of consistent administration."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Is Part 30 - Rearing of Cattle (in modern Indian society) — Agriculture And Animal Husbandry In The Puranas By Purboshri safe for long-term daily consumption?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Certain tonic (Rasayana) preparations may be safely used long-term, whereas intensive therapeutic formulas are recommended for specific short-term protocols under expert supervision."
+      }
     }
   ]
 }

@@ -9,19 +9,11 @@ date: "2026-08-17"
 description: "Samhita is the most representative work of the Hindu system of medicine."
 ---
 
-**Author / Source:** by Kaviraj Kunja Lal Bhishagratna
-
-
-**Total Chapters/Sections:** 21
-
 ---
 
 ## 1. Plate I
 
-
 Sushruta Samhita, volume 2: Nidanasthana
-
-by Kaviraj Kunja Lal Bhishagratna | 1911 | 37,609 words
 
 This current book, the Nidana-sthana (english translation), is the second part of this voluminous medical work. It deals with diseases: their prognosis, their cause, their symptoms and their pathogenesis (development of the disease).
 
@@ -37,10 +29,7 @@ Right: Vital points (marmas) in the arm (outer side).
 
 ## 2. Title Page
 
-
 Sushruta Samhita, volume 2: Nidanasthana
-
-by Kaviraj Kunja Lal Bhishagratna | 1911 | 37,609 words
 
 This current book, the Nidana-sthana (english translation), is the second part of this voluminous medical work. It deals with diseases: their prognosis, their cause, their symptoms and their pathogenesis (development of the disease).
 
@@ -81,17 +70,11 @@ No. 10, KASHI GHOSE’S LANE.
 
 ## 3. Preface
 
-
 Sushruta Samhita, volume 2: Nidanasthana
-
-by Kaviraj Kunja Lal Bhishagratna | 1911 | 37,609 words
 
 This current book, the Nidana-sthana (english translation), is the second part of this voluminous medical work. It deals with diseases: their prognosis, their cause, their symptoms and their pathogenesis (development of the disease).
 
 The Sushruta Samhita is the most representative work of the Hindu system of medicine. It embraces all that can poss...
-
-Go directly to: 
-Footnotes.
 
 Preface
 
@@ -117,17 +100,13 @@ Besides this, we have been actuated by the hope of drawing the direct attention 
 
 Here we must not stop without expressing our sincere and hearty thanks to our learned and valued friends Kaviraj Jogindranath Sen, M.A., Vidyabhusana, Kaviraj Jnanendranath Sen, B.A., Kaviratna and Professor Satyendranath Sen, M. A., Vidyavagisa, who have rendered us material help in the publication of this volume. We must freely admit that but for the active and continued co-operation of the above-named gentlemen we could not have brought out this volume so promptly and successfully. Our thanks are also due to Dr. S. Sanyal, B.Sc., L.M.S. for his kind help, to Dr. S. N. Goswami, B.A., L.M.S. for his kindly supplying us with materials for writing the Introduction, and to our readers for their kind encouragement.
 
-In conclusion, we implore our readers to excuse the errors of omission and commission which are inevitable in the execution of such a huge work, more especially when the author is encumbered with the responsible duties of his profession involving, as they do, the life and death of persons entrusted to his care.
+In summary, we implore our readers to excuse the errors of omission and commission which are inevitable in the execution of such a huge work, more especially when the author is encumbered with the responsible duties of his profession involving, as they do, the life and death of persons entrusted to his care.
 
 10, Kashi Ghoshe’s Lane, 
 Calcutta. 
 November , 1911.
 
 Kunja Lal Bhishagratna.
-
-Footnotes and references:
-
-[back to top]
 
 [1]:
 
@@ -143,10 +122,7 @@ Thus:—
 
 ## 4. Plate II
 
-
 Sushruta Samhita, volume 2: Nidanasthana
-
-by Kaviraj Kunja Lal Bhishagratna | 1911 | 37,609 words
 
 This current book, the Nidana-sthana (english translation), is the second part of this voluminous medical work. It deals with diseases: their prognosis, their cause, their symptoms and their pathogenesis (development of the disease).
 
@@ -162,27 +138,17 @@ Right: Vital points (marmas) in the back of the thigh and the leg.
 
 ## 5. Introduction
 
-
 Sushruta Samhita, volume 2: Nidanasthana
-
-by Kaviraj Kunja Lal Bhishagratna | 1911 | 37,609 words
 
 This current book, the Nidana-sthana (english translation), is the second part of this voluminous medical work. It deals with diseases: their prognosis, their cause, their symptoms and their pathogenesis (development of the disease).
 
 The Sushruta Samhita is the most representative work of the Hindu system of medicine. It embraces all that can poss...
-
-Go directly to: 
-Footnotes.
 
 Introduction
 
 In the introduction of the first volume of our translation of the Susruta-Samhita we have attempted to place before the public a correct interpretation of Vayu, Pitta and Kapha, the falsely so-called humours of the body[1] and it is a great pleasure to us, that our pronouncement has been very kindly accepted. In the introduction of the present volume we would draw the attention of the readers to the fact that Ayurveda is not at all an encyclopedic work,—an Encyclopedia of the Indian system of Medicine in all its departments, but it is the Science of Life entire.
 
 Though it is customary and convenient to group apart such phenomena as are termed mental and such of them as are exhibited by men in society, under the heads of Psychology and Sociology, yet it must be allowed that there are no absolute demarcations in Nature, corresponding to them, and so in the entire Science of Life, psychology and sociology are inseparably linked with Anatomy and Physiology, nay, more, with Pathology and Hygiene and above all with Treatment. In short the Biological Sciences must deal with whatever phenomena are manifested by living matter in whatever condition it is placed. Life in health (sukhayuḥ) as well as Life in disease (duḥkhayuḥ), therefore, fall within the scope of Biology—even life exhibited by man in Society (hitahitaṃ) is not exempted from it.
-
-hitāhitaṃ mukhaṃ duḥkhamāyustasya hitāhitam | 
-mānañca tacca yatroktamāyurvedaḥ sa ucyate || 
-      caraka, shlokasthan, १ ma adhyaya |
 
 hitāhitaṃ mukhaṃ duḥkhamāyustasya hitāhitam | 
 mānañca tacca yatroktamāyurvedaḥ sa ucyate || 
@@ -203,8 +169,6 @@ The scientific ear, ever unsatisfied with these grammatical eruditions, has ulti
 From whatever standpoint we look to the question, we find there are grounds to lead any one to pronounce in our favour and to come to the conclusion at which we now venture to arrive. Besides these two important facts, we now cite the following passage as a strong internal evidence in favour of our view. Maharshi Punarvasu, after giving us a short table of the principal structures of the human body, remarks that even this reference is considered by many as superfluous, on the ground, that an acquaintance with the molecular construction of an organism is quite sufficient to help us as a reliable guide to treatment.
 
 The passage referred to is quoted below:—
-
-“eke tadubhayamapi na vikalpayante prakṛtibhāvāccharirasya |”
 
 “eke tadubhayamapi na vikalpayante prakṛtibhāvāccharirasya |”
 
@@ -259,9 +223,6 @@ He says
 śarirendriyasatvātmasaṃyogo dhāri jivitam | 
 nityagaścānubaddhaśca paryāyairāyurucyate ||
 
-śarirendriyasatvātmasaṃyogo dhāri jivitam | 
-nityagaścānubaddhaśca paryāyairāyurucyate ||
-
 In another place the same definition is repeated with a slight modification and in this he enumerates cetananuvṛttiḥ, (consciousness) as the most distinctive characteristic of Ayus. According to this definition, sharirendriyasatvatmasaṃyogaḥ and cetananuvṛttiḥ refer to an organised living body; nityagaḥ and anuvandhaḥ are identical with processes of breaking down and building up of the organism without destroying its identity. The idea of continuous adjustment is included also in these two words.
 
 So we find, the definition of Ayus, as sugessted by Punarvasu, includes more than what is proposed in Mr. Herbert Spencer’s definition of Life.  The words and jivita,as explained by the great annotator Chakrapani, represent two more distinct phases of Life, the first bearing upon the cistence(existence?) in the system of a preventive factor of putrefaction, the second poiting(pointing?) to the agent or agents hat adjit(?) the internal relations by deli(?)catetouches, which professor Mic(????) Foster speaks of as “continuously passing from protoplas(???) protoplasm and compared with which the nervous imp(???) (which are perhaps electrical in nature(???) are rosser and coarser shocks.” N(???) this last epithet, viz., “civitaṃ,” as explained by Chakrapani—“(?) jivayati praṇan”—furnishes us with a clue to(?) determine what Ayus (ayuḥ) actually means.
@@ -271,8 +232,6 @@ Our Sacred Upanishads now come forwards to our relief and tell us, in the first 
 From the above short tab we come to know that the agent that adjusts the intern, relations to external relations, is Ayus and that Ayus is Lift and that Life is a motion of the great etherial fluid which is known in Sanskrit as “kha(kha?)” and that “vayuraṃ (?) kh(??)” is the sum of all the various energies—biological and abiological—which under the name of heat, light, electricity or consciousness, etc., manifest themselves both in the Physical as well as in the Metaphysical
 
 world, and that Prana (praṇaḥ) is another name of the same force that, in acting on an aggregated living body, divides itself into five distinct forces, viz., Prana, Apana, Samana, Udana, and Vyana, and subserves the functions of correlation (vayuḥ) and sustentation (pittaṃ) and controls oxidation (shleṣma). So Prana continuously helps to adjust, like the main-spring of a watch, the internal relations to the external relations. We are indebted to the master mind of Sankara for his able exposition of the functions of this main-spring, that is, of the etherial vibrations (vayupraṇaḥ) as transformed into the vital force in an organised body. We quote below what he says about it in his celeberated commentary on the Vedanta Darsana.
-
-vāyurevā'yamadhyātmamāpannaḥ pañcavyūho viśeṣātmanā'vatiṣṭhamānaḥ prāṇo nāma bhaṇyate na tattvāntaraṃ nā'pi vāyumātram | ataścobhe api bhedābhedaśruti na virudhyete |२|४|?|
 
 vāyurevā'yamadhyātmamāpannaḥ pañcavyūho viśeṣātmanā'vatiṣṭhamānaḥ prāṇo nāma bhaṇyate na tattvāntaraṃ nā'pi vāyumātram | ataścobhe api bhedābhedaśruti na virudhyete |२|४|?|
 
@@ -296,11 +255,7 @@ Thus we read in the Shastras:—
 
 “A woman, though at a distance, conceives a child of the shape of the person she loves ardently and thinks of at the time. Just as a tree that grows is not different from the parent tree whether we plant a branch or sow a seed, so the main features of the child partake of the features of its father, though there might be slight changes due to the soil.”
 
-“A woman, though at a distance, conceives a child of the shape of the person she loves ardently and thinks of at the time. Just as a tree that grows is not different from the parent tree whether we plant a branch or sow a seed, so the main features of the child partake of the features of its father, though there might be slight changes due to the soil.”
-
 The subtle soul co-operates with the Manas (the mind); the mind co-operates with the senses; the senses perceive objects all this takes place in little or no time. The above is the connection between the soul and objects around us. What is there which the mind cannot comprehend? Therefore, wherever the mind enters, the soul follows it.
-
-“The soul being subtle, whenever it enters another soul, requires some time and an effort of the mind to know the latter. The soul, which intensely meditates on an object, assumes the shape of that object.” etc, etc.
 
 “The soul being subtle, whenever it enters another soul, requires some time and an effort of the mind to know the latter. The soul, which intensely meditates on an object, assumes the shape of that object.” etc, etc.
 
@@ -330,15 +285,9 @@ A dispassionate examination of these facts (and such as can be multiplied to any
 
 Lastly it is our prayer, that if Western Medical Science was ever anywise, directly or indirectly, benefited by the ancient Medical Science of the Hindus, it is but meet and fair that the former should come forward to render all possible aid to her parent Science, and that as it is almost dying now for want of aid and succour we look hopefully to our present benign Government in whose power lies the means of its complete regeneration.
 
-Footnotes and references:
-
-[back to top]
-
 [1]:
 
 Berdoe says:—
-
-“What is known as the Humoral Pathology formed the most essential part of the system of the Dogmatics. Humoral Pathology explains all diseases as caused by the mixture of the four cardinal humours, viz., the blood, bile, mucus or phlegm and water. Hippocrates first leaned towards it, but it was Plato who devoloped it. The stomach is the common source of all these humours. When diseases develop, they attract humours. The source of the bile is the liver, of the mucus the head, of the water the spleen. Bile causes catarrhs and rheumatism, dropsy depends on the spleen.”
 
 “What is known as the Humoral Pathology formed the most essential part of the system of the Dogmatics. Humoral Pathology explains all diseases as caused by the mixture of the four cardinal humours, viz., the blood, bile, mucus or phlegm and water. Hippocrates first leaned towards it, but it was Plato who devoloped it. The stomach is the common source of all these humours. When diseases develop, they attract humours. The source of the bile is the liver, of the mucus the head, of the water the spleen. Bile causes catarrhs and rheumatism, dropsy depends on the spleen.”
 
@@ -358,17 +307,11 @@ Vide—Baraha Mihir’s Brihat Samhita Book, II. Chapter lxxv Verses 1-3.
 
 ## 6. Chapter I - Diagnosis of diseases of nervous system
 
-
 Sushruta Samhita, volume 2: Nidanasthana
-
-by Kaviraj Kunja Lal Bhishagratna | 1911 | 37,609 words
 
 This current book, the Nidana-sthana (english translation), is the second part of this voluminous medical work. It deals with diseases: their prognosis, their cause, their symptoms and their pathogenesis (development of the disease).
 
 The Sushruta Samhita is the most representative work of the Hindu system of medicine. It embraces all that can poss...
-
-Go directly to: 
-Footnotes.
 
 Chapter I - Diagnosis of diseases of nervous system
 
@@ -518,10 +461,6 @@ A knotty stone-like tumour (Granthi) of considerable density, whether fixed or m
 
 Thus ends the first Chapter of the Nidana Sthana in the Sushruta Samhita, which treats of the Nidana of the diseases of the nervous system.
 
-Footnotes and references:
-
-[back to top]
-
 [1]:
 
 The term Nidana, usually translated as Pathology, is meant to include factors, which fall within the respective provinces of Pathology, Ætiology, Symptomology and Pathognomy as well. For the meaning and functions of Vayu see Introduction vol. I. pp. xli.—xlii.
@@ -570,17 +509,11 @@ The Ansa-shosha is due to the single action of the enraged Vayu, while Ava-vahuk
 
 ## 7. Chapter III - Diagnosis of urinary calculus
 
-
 Sushruta Samhita, volume 2: Nidanasthana
-
-by Kaviraj Kunja Lal Bhishagratna | 1911 | 37,609 words
 
 This current book, the Nidana-sthana (english translation), is the second part of this voluminous medical work. It deals with diseases: their prognosis, their cause, their symptoms and their pathogenesis (development of the disease).
 
 The Sushruta Samhita is the most representative work of the Hindu system of medicine. It embraces all that can poss...
-
-Go directly to: 
-Footnotes.
 
 Chapter III - Diagnosis of urinary calculus
 
@@ -634,10 +567,6 @@ The Vayu in the bladder, coursing in its natural downward direction, helps the f
 
 Thus ends the third Chapter of the Nidana Sthana in the Sushruta Samhita which treats of the Nidana of urinary calculi.
 
-Footnotes and references:
-
-[back to top]
-
 [1]:
 
 Stool and urine can be voided only with the greatest straining.
@@ -658,17 +587,11 @@ From the kidneys.
 
 ## 8. Chapter II - Diagnosis of haemorrhoids
 
-
 Sushruta Samhita, volume 2: Nidanasthana
-
-by Kaviraj Kunja Lal Bhishagratna | 1911 | 37,609 words
 
 This current book, the Nidana-sthana (english translation), is the second part of this voluminous medical work. It deals with diseases: their prognosis, their cause, their symptoms and their pathogenesis (development of the disease).
 
 The Sushruta Samhita is the most representative work of the Hindu system of medicine. It embraces all that can poss...
-
-Go directly to: 
-Footnotes.
 
 Chapter II - Diagnosis of haemorrhoids
 
@@ -754,10 +677,6 @@ A case of piles due to the concerted action of the three deranged Doshas of the 
 
 Thus ends the second Chapter of the Nidanasthana in the Sushruta Samhita which deals with the Nidana of piles.
 
-Footnotes and references:
-
-[back to top]
-
 [1]:
 
 According to others, Carmakilas may crop up on the skin of any part of the body.
@@ -770,10 +689,7 @@ Such as (1) the one due to the concerted action of the deranged Pitta and Kapha,
 
 ## 9. Chapter IV - Diagnosis of anal fistula
 
-
 Sushruta Samhita, volume 2: Nidanasthana
-
-by Kaviraj Kunja Lal Bhishagratna | 1911 | 37,609 words
 
 This current book, the Nidana-sthana (english translation), is the second part of this voluminous medical work. It deals with diseases: their prognosis, their cause, their symptoms and their pathogenesis (development of the disease).
 
@@ -819,17 +735,11 @@ Thus ends the fourth Chapter of the Nidana Sthana in the Sushruta Samhita, which
 
 ## 10. Chapter V - Diagnosis of leprosy and other skin diseases
 
-
 Sushruta Samhita, volume 2: Nidanasthana
-
-by Kaviraj Kunja Lal Bhishagratna | 1911 | 37,609 words
 
 This current book, the Nidana-sthana (english translation), is the second part of this voluminous medical work. It deals with diseases: their prognosis, their cause, their symptoms and their pathogenesis (development of the disease).
 
 The Sushruta Samhita is the most representative work of the Hindu system of medicine. It embraces all that can poss...
-
-Go directly to: 
-Footnotes.
 
 Chapter V - Diagnosis of leprosy and other skin diseases
 
@@ -927,10 +837,6 @@ Kushtha (Leprosy) is a highly contagious disease; the contagion being usually co
 
 Thus ends the fifth Chapter of the Nidanasthana in the Sushruta Samhita which treats of the Nidana of cutaneous affections (Kushtha).
 
-Footnotes and references:
-
-[back to top]
-
 [1]:
 
 Certain authorities hold that, all types of Kushtha (cutaneous affections) to be of parasitic origin. The Garuda Purana avers that, the parasites, which infest the external principles of the body, are the primary causes of cutaneous affections—Kushthaika-hetavontarjah shlemshaja vahya-sambhavah. Ch. CLXIXV. 4.
@@ -943,17 +849,11 @@ A case of Kushtha has its primary seat in the blood and skin (of the patient), i
 
 ## 11. Chapter VII - Diagnosis of enlargement of the abdomen
 
-
 Sushruta Samhita, volume 2: Nidanasthana
-
-by Kaviraj Kunja Lal Bhishagratna | 1911 | 37,609 words
 
 This current book, the Nidana-sthana (english translation), is the second part of this voluminous medical work. It deals with diseases: their prognosis, their cause, their symptoms and their pathogenesis (development of the disease).
 
 The Sushruta Samhita is the most representative work of the Hindu system of medicine. It embraces all that can poss...
-
-Go directly to: 
-Footnotes.
 
 Chapter VII - Diagnosis of enlargement of the abdomen
 
@@ -1007,10 +907,6 @@ All cases of Udara after the lapse of considerable time develop into those of as
 
 Thus ends the seventh Chapter of the Nidana Sthana in the Sushruta Samhita which treats of the Nidana of Udara.
 
-Footnotes and references:
-
-[back to top]
-
 [1]:
 
 These include purgative, emitic, Asthapana and Anuvasana measures.
@@ -1023,17 +919,11 @@ Dropsical swelling of the abdomen with tympanites due to the constriction of the
 
 ## 12. Chapter VI - Diagnosis of diabetes
 
-
 Sushruta Samhita, volume 2: Nidanasthana
-
-by Kaviraj Kunja Lal Bhishagratna | 1911 | 37,609 words
 
 This current book, the Nidana-sthana (english translation), is the second part of this voluminous medical work. It deals with diseases: their prognosis, their cause, their symptoms and their pathogenesis (development of the disease).
 
 The Sushruta Samhita is the most representative work of the Hindu system of medicine. It embraces all that can poss...
-
-Go directly to: 
-Footnotes.
 
 Chapter VI - Diagnosis of diabetes
 
@@ -1111,10 +1001,6 @@ For English equivalents of the different types of Prameha compare:—Cystitis (A
 
 Thus ends the sixth Chapter of the Nidana Sthana in the Sushruta Samhita, which treats of the Nidana of Prameha.
 
-Footnotes and references:
-
-[back to top]
-
 [1]:
 
 The particle “ca” in the text denotes other virus or morbific matter. Dallana.
@@ -1139,17 +1025,11 @@ Charaka has included it within Kshaudra Meha and Madhu Meha.
 
 ## 13. Chapter IX - Diagnosis of abscess
 
-
 Sushruta Samhita, volume 2: Nidanasthana
-
-by Kaviraj Kunja Lal Bhishagratna | 1911 | 37,609 words
 
 This current book, the Nidana-sthana (english translation), is the second part of this voluminous medical work. It deals with diseases: their prognosis, their cause, their symptoms and their pathogenesis (development of the disease).
 
 The Sushruta Samhita is the most representative work of the Hindu system of medicine. It embraces all that can poss...
-
-Go directly to: 
-Footnotes.
 
 Chapter IX - Diagnosis of abscess
 
@@ -1217,10 +1097,6 @@ A case of an internal abscess suppurating about the heart, bladder or umbilicus 
 
 Thus ends the ninth Chapter of the Nidanasthana in the Sushruta Spinbita which treats of the etiology of abscess.
 
-Footnotes and references:
-
-[back to top]
-
 [1]:
 
 A Gulma according to Sushruta does not suppurate, but the sanskrit term “Api” (also) contemplates instances in which a Gulma may suppurate as in the case where it has got its basis in the deranged flesh ?te? of the locality. Charaka asserts that retarded digestion of the ingested food followed by digestionary acid reaction, colic pain, insomnia with fever and a non-relish for food and a sense of oppression, etc. are the symptoms which indicate that suppuration has set in a Gulma, and he advises that it (Gulma) should be treated with poultices, etc.
@@ -1229,10 +1105,7 @@ A Gulma according to Sushruta does not suppurate, but the sanskrit term “Api�
 
 ## 14. Chapter VIII - Diagnosis of foetal obstruction
 
-
 Sushruta Samhita, volume 2: Nidanasthana
-
-by Kaviraj Kunja Lal Bhishagratna | 1911 | 37,609 words
 
 This current book, the Nidana-sthana (english translation), is the second part of this voluminous medical work. It deals with diseases: their prognosis, their cause, their symptoms and their pathogenesis (development of the disease).
 
@@ -1302,17 +1175,11 @@ Thus ends the eighth Chapter of the Nidana Sthana in the Sushruta Samhita, which
 
 ## 15. Chapter X - Diagnosis of erysipelas, sinus and mammae
 
-
 Sushruta Samhita, volume 2: Nidanasthana
-
-by Kaviraj Kunja Lal Bhishagratna | 1911 | 37,609 words
 
 This current book, the Nidana-sthana (english translation), is the second part of this voluminous medical work. It deals with diseases: their prognosis, their cause, their symptoms and their pathogenesis (development of the disease).
 
 The Sushruta Samhita is the most representative work of the Hindu system of medicine. It embraces all that can poss...
-
-Go directly to: 
-Footnotes.
 
 Chapter X - Diagnosis of erysipelas, sinus and mammae
 
@@ -1380,10 +1247,6 @@ The bodily Doshas having recourse to the breasts of a woman whether filled with 
 
 Thus ends the tenth Chapter of the Nidana Sthana in the Sushruta Samhita which treats of the etiology and symptoms of Erysipelas, Sinus and mammary abscesses.
 
-Footnotes and references:
-
-[back to top]
-
 [1]:
 
 Or through the extreme augmentation of all the three doshas in the ulcer (Sadyah-kshata-Vrana) according to others.
@@ -1404,17 +1267,11 @@ The particle “Ca” in the text indicates that the colour may turn blue or pin
 
 ## 16. Chapter XI - Diagnosis of glands, scrofula, tumors and goitre
 
-
 Sushruta Samhita, volume 2: Nidanasthana
-
-by Kaviraj Kunja Lal Bhishagratna | 1911 | 37,609 words
 
 This current book, the Nidana-sthana (english translation), is the second part of this voluminous medical work. It deals with diseases: their prognosis, their cause, their symptoms and their pathogenesis (development of the disease).
 
 The Sushruta Samhita is the most representative work of the Hindu system of medicine. It embraces all that can poss...
-
-Go directly to: 
-Footnotes.
 
 Chapter XI - Diagnosis of glands, scrofula, tumors and goitre
 
@@ -1478,10 +1335,6 @@ A pendent swelling whether large or small and occurring about the region of the 
 
 Thus ends the eleventh Chapter of the Nidana Sthana in the Susruta Samhita which treats of the Nidana of Granthi, Scrofula, etc.
 
-Footnotes and references:
-
-[back to top]
-
 [1]:
 
 In several editions an additional line is to be found running as men well conversant with symptoms (of Granthis) recognise a type of Granthi due to the action of the deranged flesh and blood, which exhibits symptoms identical with those of a tumour (Mansjra’srayam charvuda laskhanena (lakshanena?) tulyam hi drishtamath lakskanajanih). But Jejjata has rejected it as of questionable authority.
@@ -1504,17 +1357,11 @@ Although all types of Arvuda have their origin in the deranged flesh and blood, 
 
 ## 17. Chapter XII - Diagnosis of hernia, tumours, elephantiasis, etc.
 
-
 Sushruta Samhita, volume 2: Nidanasthana
-
-by Kaviraj Kunja Lal Bhishagratna | 1911 | 37,609 words
 
 This current book, the Nidana-sthana (english translation), is the second part of this voluminous medical work. It deals with diseases: their prognosis, their cause, their symptoms and their pathogenesis (development of the disease).
 
 The Sushruta Samhita is the most representative work of the Hindu system of medicine. It embraces all that can poss...
-
-Go directly to: 
-Footnotes.
 
 Chapter XII - Diagnosis of hernia, tumours, elephantiasis, etc.
 
@@ -1580,10 +1427,6 @@ The disease is usually found to be confined to the legs and hands of men but cas
 
 Thus ends the twelfth Chapter of the Nidanastbana in the Sushruta Samhita which treats of the Nidana of scrotal tumours, hernia, Upa- dansha and elephantiasis.
 
-Footnotes and references:
-
-[back to top]
-
 [1]:
 
 Upadansha is not syphilis whole to whole. Certain types of Upadansha such as the Raktaja and Sannipatika types which entail the destruction of the organs concerned exhibit certain symptoms which are common to syphilis as well. The secondary eruptions and tertiary symptoms of syphilis are not mentioned by the Ayurvedic Rishis who used to treat it only with vegetable medicines and this fact intimates the probability that the secondary and tertiary symptoms of syphilis might not arise by their efficient and able treatment from the very beginning, preventing the absorption of the poison into the system. The practice of ablution, so common among the Hindus, might be taken into consideration as one of the important preventive factors. Maharshi Charaka has comprised it within the chapter on ‘Senile Impotency’.—Ed.
@@ -1592,17 +1435,11 @@ Upadansha is not syphilis whole to whole. Certain types of Upadansha such as the
 
 ## 18. Chapter XIV - Diagnosis of diseases of the penis
 
-
 Sushruta Samhita, volume 2: Nidanasthana
-
-by Kaviraj Kunja Lal Bhishagratna | 1911 | 37,609 words
 
 This current book, the Nidana-sthana (english translation), is the second part of this voluminous medical work. It deals with diseases: their prognosis, their cause, their symptoms and their pathogenesis (development of the disease).
 
 The Sushruta Samhita is the most representative work of the Hindu system of medicine. It embraces all that can poss...
-
-Go directly to: 
-Footnotes.
 
 Chapter XIV - Diagnosis of diseases of the penis
 
@@ -1668,10 +1505,6 @@ Of the above enumerated malignant diseases of the penis, those known as Mansarvu
 
 Thus ends the fourteenth Chapter of the Nidana Sthana in the Sushruta Samhita which treats of Nidana of different types of Shukadohsa.
 
-Footnotes and references:
-
-[back to top]
-
 [1]:
 
 According to Dallana it is due to the action of Vayu and blood.
@@ -1680,17 +1513,11 @@ According to Dallana it is due to the action of Vayu and blood.
 
 ## 19. Chapter XV - Diagnosis of fractures-dislocations
 
-
 Sushruta Samhita, volume 2: Nidanasthana
-
-by Kaviraj Kunja Lal Bhishagratna | 1911 | 37,609 words
 
 This current book, the Nidana-sthana (english translation), is the second part of this voluminous medical work. It deals with diseases: their prognosis, their cause, their symptoms and their pathogenesis (development of the disease).
 
 The Sushruta Samhita is the most representative work of the Hindu system of medicine. It embraces all that can poss...
-
-Go directly to: 
-Footnotes.
 
 Chapter XV - Diagnosis of fractures-dislocations
 
@@ -1754,10 +1581,6 @@ A bending of a gristle or cartilage (Taruna) is called its fracture. A Nalaka (l
 
 Thus ends the fifteenth Chapter of the Nidana Sthana in the Sushruta samhita which treats of the Nidana of dislocations and fractures.
 
-Footnotes and references:
-
-[back to top]
-
 [1]:
 
 The word Adito may be taken into the sense of congenital malformation which is beyond remedy.
@@ -1770,17 +1593,11 @@ The presence of the particle ‘ca’ denotes Valya-asthi.
 
 ## 20. Chapter XIII - Diagnosis of minor diseases
 
-
 Sushruta Samhita, volume 2: Nidanasthana
-
-by Kaviraj Kunja Lal Bhishagratna | 1911 | 37,609 words
 
 This current book, the Nidana-sthana (english translation), is the second part of this voluminous medical work. It deals with diseases: their prognosis, their cause, their symptoms and their pathogenesis (development of the disease).
 
 The Sushruta Samhita is the most representative work of the Hindu system of medicine. It embraces all that can poss...
-
-Go directly to: 
-Footnotes.
 
 Chapter XIII - Diagnosis of minor diseases
 
@@ -1984,10 +1801,6 @@ Guda-Bhransha:—A prolapse or falling out of the anus (due to the Vayu) in a we
 
 Thus ends the thirteenth Chapter of the Nidana Sthana in the Sushruta Samhita which treats of the Nidana of minor ailments.
 
-Footnotes and references:
-
-[back to top]
-
 [1]:
 
 Brahmadeva comprising Garddavika, Irvellika, Gandkapidika and Tilakalaka in the list reads it as consisting of thirty-four different species. Jejjata does not hold the four forms of disease commencing with Garddavika, etc. as included within the list. Gayadasa, finding them included in all the recensions reads Garddabhika, etc. as included within the list of Kshudra Roga, and Pama etc. as included within the list of Kshudra Kushtha.
@@ -2024,17 +1837,11 @@ According to others the spot goes by the name of Nilika, if it is black-coloured
 
 ## 21. Chapter XVI - Diagnosis of diseases of mouth
 
-
 Sushruta Samhita, volume 2: Nidanasthana
-
-by Kaviraj Kunja Lal Bhishagratna | 1911 | 37,609 words
 
 This current book, the Nidana-sthana (english translation), is the second part of this voluminous medical work. It deals with diseases: their prognosis, their cause, their symptoms and their pathogenesis (development of the disease).
 
 The Sushruta Samhita is the most representative work of the Hindu system of medicine. It embraces all that can poss...
-
-Go directly to: 
-Footnotes.
 
 Chapter XVI - Diagnosis of diseases of mouth
 
@@ -2291,10 +2098,6 @@ The blood-origined Raktaja type is nothing but a modification of the Pittaja one
 Thus ends the sixteenth Chapter of the Nidana Sthana in the Sushruta Samhita which treats of the Nidana of the diseases of the mouth.
 
 Here ends the Nidana Sthana.
-
-Footnotes and references:
-
-[back to top]
 
 [1]:
 

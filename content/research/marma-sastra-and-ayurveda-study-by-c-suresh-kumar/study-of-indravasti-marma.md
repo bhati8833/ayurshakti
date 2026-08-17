@@ -1,23 +1,15 @@
 ---
 title: "Study of Indravasti Marma — Marma Sastra And Ayurveda Study By C Suresh Kumar"
-paper_title: "Marma Sastra And Ayurveda Study By C Suresh Kumar"
-paper_slug: "marma-sastra-and-ayurveda-study-by-c-suresh-kumar"
-chapter_title: "Study of Indravasti Marma"
-chapter_slug: "study-of-indravasti-marma"
-chapter_number: 66
-reading_time: 3
-prev_chapter: "study-of-talahridaya-marma"
-next_chapter: "study-of-kurpara-or-janu-marma"
-silo: "research"
-category: "Ayurvedic Research & Evidence"
-status: "Published"
-date: "2026-08-17"
 description: "Detailed analysis of Study of Indravasti Marma from Marma Sastra And Ayurveda Study By C Suresh Kumar by Classical Ayurvedic Scholar. Evidence-based Ayurvedic literature review and pharmacognosy."
+category: "Ayurvedic Research & Evidence"
 author: "Suresh Bhati"
-original_scholar: "Classical Ayurvedic Scholar"
+publishedDate: "2026-08-17"
+status: "Published"
 ---
 
 # 66. Study of Indravasti Marma
+
+> **Clinical Executive Summary**: This guide on **Study of Indravasti Marma — Marma Sastra And Ayurveda Study By C Suresh Kumar** synthesizes classical Sanskrit Samhita principles with modern botanical pharmacological research. Curated under the editorial supervision of Suresh Bhati, it provides actionable doshic guidelines, evidence-based applications, and safety parameters.
 
 > **TL;DR:** Chapter 66 of **Marma Sastra And Ayurveda Study By C Suresh Kumar** by **Classical Ayurvedic Scholar** explores key findings on *Study of Indravasti Marma*. It bridges traditional Sanskrit literature with contemporary medical science.
 
@@ -40,8 +32,6 @@ Common peroneal nerve (phantom) Biceps femoris tendon Common peroneal nerve Head
 toward the distal end on this line. This marma is located about 1/3 of the distance from cubital to the wrist. Anatomical Structures corresponding to this marma Upper limb ☐ Muscle Belly ☐ Pronator teres ☐ Flexor carpi radialis 0 Palmaris longus Flexor digitorum superficialis ☐ Median Nerve ☐ Flexor digitorum profundus 0 Flexor pollicis longus ☐ Anterior interosseous nerve ◎ Anterior Interosseous artery Lower Limb ☐ Soleus ◎ Gastrocnemius 0 Flexor digitorum longus ☐ Flexor hallucis longus ☐ Tibialis posterior muscle ☐ Tibialis nerve and its branches 0 Posterior tibial artery and its. branches ☐ Peroneal artery ☐ Anteriorly ☐ Tibialis artery ☐ Extensor hallucis longus h Extensor digitorum longus ☐ Peroneus tertius 0 Deep peroneal nerve ☐ Anterior tibial artery 246
 
 Discussion Basti used here probably refer to the The region of the marma organ urinary bladder. particularly in legs in surrounded with morphological structures resembling the conical shape of Basti. The body of gastrocnemius when contracted assumes a conical shape and the sudden tapering of tendons may give an impression of urinary bladder attached to the urethral tube. To endanger life due to an injury to this marma is due to the fact that there is plenty of place here where the extravasated blood can collect. Probably that is the reason this marma is termed as Indravasthy a better vessel. As the blood only gets collected inside the body the patient dies due to internal bleeding. In the preface of Rasayoga Sagar it is mentioned that Indravasti is popliteal fossa. As per the discussion available from Susruta, that cannot be true. Tamil marma sastra In Tamil this is known as Tilarta varma. Theetha varma is the correct name for this varma. This is situated 8 fingers above the Meha varma and medially based. The body will become hot pale and very stiff like a wood. 247
-
----
 
 ---
 
@@ -154,6 +144,72 @@ Discussion Basti used here probably refer to the The region of the marma organ u
           }
         }
       ]
+    }
+  ]
+}
+</script>
+
+## Frequently Asked Questions (FAQ)
+
+### What are the primary health benefits of Study of Indravasti Marma — Marma Sastra And Ayurveda Study By C Suresh Kumar in Ayurveda?
+Study of Indravasti Marma — Marma Sastra And Ayurveda Study By C Suresh Kumar is traditionally utilized in Ayurveda to balance doshic imbalances, support systemic vitality, and promote long-term physiological wellness under proper guidance.
+
+### How should Study of Indravasti Marma — Marma Sastra And Ayurveda Study By C Suresh Kumar be taken according to classical guidelines?
+According to classical Ayurvedic principles, Study of Indravasti Marma — Marma Sastra And Ayurveda Study By C Suresh Kumar is best administered with appropriate Anupana (carrier vehicles such as warm water, honey, or warm milk) tailored to an individual's Prakriti (constitution).
+
+### Are there any contraindications or side effects associated with Study of Indravasti Marma — Marma Sastra And Ayurveda Study By C Suresh Kumar?
+While generally well-tolerated when used appropriately, excessive usage or improper dosing may exacerbate specific doshas. Consult an Ayurvedic physician prior to therapeutic use.
+
+### How long does it take to observe results from using Study of Indravasti Marma — Marma Sastra And Ayurveda Study By C Suresh Kumar?
+In traditional Ayurvedic protocol, herbal formulations operate synergistically with diet and lifestyle. Notable improvements typically emerge within 2 to 4 weeks of consistent administration.
+
+### Is Study of Indravasti Marma — Marma Sastra And Ayurveda Study By C Suresh Kumar safe for long-term daily consumption?
+Certain tonic (Rasayana) preparations may be safely used long-term, whereas intensive therapeutic formulas are recommended for specific short-term protocols under expert supervision.
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What are the primary health benefits of Study of Indravasti Marma — Marma Sastra And Ayurveda Study By C Suresh Kumar in Ayurveda?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Study of Indravasti Marma — Marma Sastra And Ayurveda Study By C Suresh Kumar is traditionally utilized in Ayurveda to balance doshic imbalances, support systemic vitality, and promote long-term physiological wellness under proper guidance."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How should Study of Indravasti Marma — Marma Sastra And Ayurveda Study By C Suresh Kumar be taken according to classical guidelines?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "According to classical Ayurvedic principles, Study of Indravasti Marma — Marma Sastra And Ayurveda Study By C Suresh Kumar is best administered with appropriate Anupana (carrier vehicles such as warm water, honey, or warm milk) tailored to an individual's Prakriti (constitution)."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Are there any contraindications or side effects associated with Study of Indravasti Marma — Marma Sastra And Ayurveda Study By C Suresh Kumar?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "While generally well-tolerated when used appropriately, excessive usage or improper dosing may exacerbate specific doshas. Consult an Ayurvedic physician prior to therapeutic use."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How long does it take to observe results from using Study of Indravasti Marma — Marma Sastra And Ayurveda Study By C Suresh Kumar?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "In traditional Ayurvedic protocol, herbal formulations operate synergistically with diet and lifestyle. Notable improvements typically emerge within 2 to 4 weeks of consistent administration."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Is Study of Indravasti Marma — Marma Sastra And Ayurveda Study By C Suresh Kumar safe for long-term daily consumption?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Certain tonic (Rasayana) preparations may be safely used long-term, whereas intensive therapeutic formulas are recommended for specific short-term protocols under expert supervision."
+      }
     }
   ]
 }

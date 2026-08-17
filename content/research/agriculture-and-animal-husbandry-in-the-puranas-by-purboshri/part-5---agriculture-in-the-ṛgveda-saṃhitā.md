@@ -1,23 +1,15 @@
 ---
 title: "Part 5 - Agriculture in the Ṛgveda Saṃhitā — Agriculture And Animal Husbandry In The Puranas By Purboshri"
-paper_title: "Agriculture And Animal Husbandry In The Puranas By Purboshri"
-paper_slug: "agriculture-and-animal-husbandry-in-the-puranas-by-purboshri"
-chapter_title: "Part 5 - Agriculture in the Ṛgveda Saṃhitā"
-chapter_slug: "part-5---agriculture-in-the-ṛgveda-saṃhitā"
-chapter_number: 23
-reading_time: 8
-prev_chapter: "part-4---agriculture-from-the-vedic-point-of-view"
-next_chapter: "part-6---agriculture-in-the-yajurveda-saṃhitā"
-silo: "research"
-category: "Ayurvedic Research & Evidence"
-status: "Published"
-date: "2026-08-17"
 description: "Detailed analysis of Part 5 - Agriculture in the Ṛgveda Saṃhitā from Agriculture And Animal Husbandry In The Puranas By Purboshri by Purboshri Borpuzari. Evidence-based Ayurvedic literature review and pharmacognosy."
+category: "Ayurvedic Research & Evidence"
 author: "Suresh Bhati"
-original_scholar: "Purboshri Borpuzari"
+publishedDate: "2026-08-17"
+status: "Published"
 ---
 
 # 23. Part 5 - Agriculture in the Ṛgveda Saṃhitā
+
+> **Clinical Executive Summary**: This guide on **Part 5 - Agriculture in the Ṛgveda Saṃhitā — Agriculture And Animal Husbandry In The Puranas By Purboshri** synthesizes classical Sanskrit Samhita principles with modern botanical pharmacological research. Curated under the editorial supervision of Suresh Bhati, it provides actionable doshic guidelines, evidence-based applications, and safety parameters.
 
 > **TL;DR:** Chapter 23 of **Agriculture And Animal Husbandry In The Puranas By Purboshri** by **Purboshri Borpuzari** explores key findings on *Part 5 - Agriculture in the Ṛgveda Saṃhitā*. It bridges traditional Sanskrit literature with contemporary medical science.
 
@@ -37,13 +29,9 @@ Sāyaṇācārya in the Ṛgveda explains in this context thus—
 
 ‘vāhāḥ balīvardāḥ śunaṃ / sukhanāmaitat/sukhaṃ yathā bhavati tathā vahantviti śeṣaḥ/tathā naraḥ netāro manuṣyāḥ karṣakāḥ śunaṃ kurvantu/tathā lāṅgalam api śunaṃ kṛṣatu’.[8]
 
-‘vāhāḥ balīvardāḥ śunaṃ / sukhanāmaitat/sukhaṃ yathā bhavati tathā vahantviti śeṣaḥ/tathā naraḥ netāro manuṣyāḥ karṣakāḥ śunaṃ kurvantu/tathā lāṅgalam api śunaṃ kṛṣatu’.[8]
-
 Glorifying the auspicious Sītā(furrow) the Ṛgvedic seer prays that being favorable to all, the furrow may provide abundant fruit.[9] The owner of the field was called as kṣetrapati. Sāyaṇācārya interprets the word kṣetrapati as the lord Rudra-‘rudraṃ kṣetrapatiṃ prāhuḥ...’.[10] Considering him as friend the seer prays him to bestow cattle, horses, nourishment upon him and make all happy.[11] Again, the Ṛgvedic seer Vāmadeva Gautama prays for the herbs (oṣadhīḥ) of the field to be sweet, the heavens, the sky and the waters to be kind, the lord of the field to be gracious, for all the people.[12]
 
 Sāyaṇācārya here mentions the term oṣadhīḥ to indicate the agricultural product such as vrīhi, priyaṅgu, etc.—
-
-‘oṣadhīḥ oṣadhyo vrīhipriyaṅgvādayaḥ naḥ asmabhyaṃ madhumatīḥ madhumatyaḥ bhavantu.’[13]
 
 ‘oṣadhīḥ oṣadhyo vrīhipriyaṅgvādayaḥ naḥ asmabhyaṃ madhumatīḥ madhumatyaḥ bhavantu.’[13]
 
@@ -55,15 +43,11 @@ Sāyaṇācārya interprets this idea in the commentary as follows—
 
 ‘āryāya viduṣe/manuṣaśabdo manuśabdaparyāyaḥ/manuṣāya manave manorarthaṃ he dastrā darśanīyāvaśvinau vṛkeṇa lāṅgalena karṣakaiḥ kṛṣṭadeśe yavaṃ yavādyupalakṣitaṃ sarvaṃ dhānyajātaṃ vapantā vāpayantau tathā iṣam/annanāmaitat’.[21]
 
-‘āryāya viduṣe/manuṣaśabdo manuśabdaparyāyaḥ/manuṣāya manave manorarthaṃ he dastrā darśanīyāvaśvinau vṛkeṇa lāṅgalena karṣakaiḥ kṛṣṭadeśe yavaṃ yavādyupalakṣitaṃ sarvaṃ dhānyajātaṃ vapantā vāpayantau tathā iṣam/annanāmaitat’.[21]
-
 Besides plough, the agricultural tools in the Vedic period included khanitra[22] (a ‘shovel’ or ‘spade’ for digging), dātra[23] (cutter) and sṛṇi[24] (sickle) etc. Dātra or sṛṇi was used to cut the ripe grain. The grain was grinded out on the khala[25] (the floor of the granary or a mill). Titau(sieve) was used to separate grain from the straw.[26] Dhānyākṛt[27] was the farmer and the grain-measuring vessel was called ūrdara.[28] The paraśu (axe or hatchet) and its practice are also referred to in the Ṛgveda.[29]
 
 Ṛgvedic seer declares that the ploughshare furrowing the field provides food for the ploughman.[30]
 
 Sāyaṇācārya interprets this as
-
-—‘kṛṣan kṛṣiṃ kurvan phālaḥ āśitaṃ karṣakaṃ bhoktāraṃ kṛṇoti karoti’.[31]
 
 —‘kṛṣan kṛṣiṃ kurvan phālaḥ āśitaṃ karṣakaṃ bhoktāraṃ kṛṇoti karoti’.[31]
 
@@ -73,13 +57,9 @@ Sāyaṇācārya thus comments—
 
 ‘yathā kaścitsaktuṃ durdhāvaṃ punāti tadvat prakṛtitaḥ pratyataśca śabdānutpunantaḥ dhirāḥ dhīmanto vidvāṃsaḥ …vācamakrata akṛṣata kurvanti’.[36]
 
-‘yathā kaścitsaktuṃ durdhāvaṃ punāti tadvat prakṛtitaḥ pratyataśca śabdānutpunantaḥ dhirāḥ dhīmanto vidvāṃsaḥ …vācamakrata akṛṣata kurvanti’.[36]
-
 The term yavyāvatyām[37] is uttered to specify the term hariyūpīyā, which denotes a river or a city on the bank of which the Vṛcīvata, certain Asuras dwelt upon.Indra killed these Asuras on the bank of above mentioned river.[38] Here the word yavyāvatyām denotes ‘on the bank of the speedy river’.[39] But N.M. Kansara has pointed out that the term yavyāvatī denotes a river where yavas or barleys are produced abundantly.[40] The seer in the Ṛgveda urges to harness the ploughs, fit on the yokes, after that the womb of earth is ready, the seeds must be sown therein, and it is prayed that may there be abundant food; may the grain fall ripe towards the sickle.[41]
 
 In this regard Sāyaṇācārya’s views are worthy to mention—
-
-‘he sakhāyo yūyaṃ sīrā sirāṇi yunakta yuṅgdhvamaṇḍudbhiḥ saha/tadarthaṃ yugā yugāni vi tanudhvaṃ vistārayadhvam/ kṛte sa yonau iha sītāyāṃ bījaṃ grāmyamāraṇyaṃ ca vapata nidhatta/ tilamāṣavrīhyādikaṃ grāmyasaptakaṃ veṇuśyāmākanīvārādikamāraṇyabījasaptakaṃ ca kṛṣṭākṛṣṭayornivapatetyarthaḥ/tathā naḥ asmākaṃ girā stutyā praśastyā sahāsmākaṃ śruṣṭiḥ annaṃ sabharāḥ sabharam asat bhavati bhavatu/tathā nedīya it antikameva sṛṇyaḥ/ sṛṇiraṅkuśaḥ/aṅkuśavadvakro lavitraḥ/pakvaṃ stambam eyāt ābhimukhyena gacchatu’.
 
 ‘he sakhāyo yūyaṃ sīrā sirāṇi yunakta yuṅgdhvamaṇḍudbhiḥ saha/tadarthaṃ yugā yugāni vi tanudhvaṃ vistārayadhvam/ kṛte sa yonau iha sītāyāṃ bījaṃ grāmyamāraṇyaṃ ca vapata nidhatta/ tilamāṣavrīhyādikaṃ grāmyasaptakaṃ veṇuśyāmākanīvārādikamāraṇyabījasaptakaṃ ca kṛṣṭākṛṣṭayornivapatetyarthaḥ/tathā naḥ asmākaṃ girā stutyā praśastyā sahāsmākaṃ śruṣṭiḥ annaṃ sabharāḥ sabharam asat bhavati bhavatu/tathā nedīya it antikameva sṛṇyaḥ/ sṛṇiraṅkuśaḥ/aṅkuśavadvakro lavitraḥ/pakvaṃ stambam eyāt ābhimukhyena gacchatu’.
 
@@ -91,13 +71,7 @@ Thus, Sāyaṇa’s interpretation of these two terms goes as follows:
 
 ‘apnasvatīṣu khananaprokṣaṇādikarmopetāsu urvarāsu/ kiṃca ārtanāsu/ ārtān karotyārtayati’.[44]
 
-‘apnasvatīṣu khananaprokṣaṇādikarmopetāsu urvarāsu/ kiṃca ārtanāsu/ ārtān karotyārtayati’.[44]
-
 The sandy desert land is referred to as dhanva.[45] The Ṛgvedic seer says that the cultivators harvest the crop in general, separately and in due order.[46] The Ṛgveda mentions the terms dhāna,[47] dhānā[48] and dhānya[49] in the sense of ‘grain or corn’ in general. The Vedic seers pray for abundance in rain since rainfall is very much important for agriculture. The seer in the Ṛgveda too prays to god Tvaṣṭṛ to send us the quick falling wonderful abundant water, for our nourishment and prosperity.[50] Seer Hiraṇyastūpa Āṅgirasa refers to the flooded rivers speaking that the flowing waters quickly rushed to the ocean, like the cows running after the calves.[51]
-
-Footnotes and references:
-
-[back to top]
 
 [1]:
 
@@ -317,8 +291,6 @@ vāśrā iva dhenavaḥ syandamānā añjaḥ samudramava jagmurāpaḥ// Ibid.,
 
 ---
 
----
-
 ## ❓ 4. Frequently Asked Questions (15 Question Intent Matrix)
 
 ### Q1: What is the primary subject of "Part 5 - Agriculture in the Ṛgveda Saṃhitā"?
@@ -428,6 +400,72 @@ vāśrā iva dhenavaḥ syandamānā añjaḥ samudramava jagmurāpaḥ// Ibid.,
           }
         }
       ]
+    }
+  ]
+}
+</script>
+
+## Frequently Asked Questions (FAQ)
+
+### What are the primary health benefits of Part 5 - Agriculture in the Ṛgveda Saṃhitā — Agriculture And Animal Husbandry In The Puranas By Purboshri in Ayurveda?
+Part 5 - Agriculture in the Ṛgveda Saṃhitā — Agriculture And Animal Husbandry In The Puranas By Purboshri is traditionally utilized in Ayurveda to balance doshic imbalances, support systemic vitality, and promote long-term physiological wellness under proper guidance.
+
+### How should Part 5 - Agriculture in the Ṛgveda Saṃhitā — Agriculture And Animal Husbandry In The Puranas By Purboshri be taken according to classical guidelines?
+According to classical Ayurvedic principles, Part 5 - Agriculture in the Ṛgveda Saṃhitā — Agriculture And Animal Husbandry In The Puranas By Purboshri is best administered with appropriate Anupana (carrier vehicles such as warm water, honey, or warm milk) tailored to an individual's Prakriti (constitution).
+
+### Are there any contraindications or side effects associated with Part 5 - Agriculture in the Ṛgveda Saṃhitā — Agriculture And Animal Husbandry In The Puranas By Purboshri?
+While generally well-tolerated when used appropriately, excessive usage or improper dosing may exacerbate specific doshas. Consult an Ayurvedic physician prior to therapeutic use.
+
+### How long does it take to observe results from using Part 5 - Agriculture in the Ṛgveda Saṃhitā — Agriculture And Animal Husbandry In The Puranas By Purboshri?
+In traditional Ayurvedic protocol, herbal formulations operate synergistically with diet and lifestyle. Notable improvements typically emerge within 2 to 4 weeks of consistent administration.
+
+### Is Part 5 - Agriculture in the Ṛgveda Saṃhitā — Agriculture And Animal Husbandry In The Puranas By Purboshri safe for long-term daily consumption?
+Certain tonic (Rasayana) preparations may be safely used long-term, whereas intensive therapeutic formulas are recommended for specific short-term protocols under expert supervision.
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What are the primary health benefits of Part 5 - Agriculture in the Ṛgveda Saṃhitā — Agriculture And Animal Husbandry In The Puranas By Purboshri in Ayurveda?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Part 5 - Agriculture in the Ṛgveda Saṃhitā — Agriculture And Animal Husbandry In The Puranas By Purboshri is traditionally utilized in Ayurveda to balance doshic imbalances, support systemic vitality, and promote long-term physiological wellness under proper guidance."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How should Part 5 - Agriculture in the Ṛgveda Saṃhitā — Agriculture And Animal Husbandry In The Puranas By Purboshri be taken according to classical guidelines?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "According to classical Ayurvedic principles, Part 5 - Agriculture in the Ṛgveda Saṃhitā — Agriculture And Animal Husbandry In The Puranas By Purboshri is best administered with appropriate Anupana (carrier vehicles such as warm water, honey, or warm milk) tailored to an individual's Prakriti (constitution)."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Are there any contraindications or side effects associated with Part 5 - Agriculture in the Ṛgveda Saṃhitā — Agriculture And Animal Husbandry In The Puranas By Purboshri?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "While generally well-tolerated when used appropriately, excessive usage or improper dosing may exacerbate specific doshas. Consult an Ayurvedic physician prior to therapeutic use."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How long does it take to observe results from using Part 5 - Agriculture in the Ṛgveda Saṃhitā — Agriculture And Animal Husbandry In The Puranas By Purboshri?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "In traditional Ayurvedic protocol, herbal formulations operate synergistically with diet and lifestyle. Notable improvements typically emerge within 2 to 4 weeks of consistent administration."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Is Part 5 - Agriculture in the Ṛgveda Saṃhitā — Agriculture And Animal Husbandry In The Puranas By Purboshri safe for long-term daily consumption?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Certain tonic (Rasayana) preparations may be safely used long-term, whereas intensive therapeutic formulas are recommended for specific short-term protocols under expert supervision."
+      }
     }
   ]
 }

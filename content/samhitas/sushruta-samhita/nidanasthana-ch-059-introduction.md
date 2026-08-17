@@ -20,27 +20,17 @@ This chapter from **Sushruta Samhita (Nidanasthana)** represents the classical s
 
 ---
 
-
 Sushruta Samhita, volume 2: Nidanasthana
-
-by Kaviraj Kunja Lal Bhishagratna | 1911 | 37,609 words
 
 This current book, the Nidana-sthana (english translation), is the second part of this voluminous medical work. It deals with diseases: their prognosis, their cause, their symptoms and their pathogenesis (development of the disease).
 
 The Sushruta Samhita is the most representative work of the Hindu system of medicine. It embraces all that can poss...
-
-Go directly to: 
-Footnotes.
 
 Introduction
 
 In the introduction of the first volume of our translation of the Susruta-Samhita we have attempted to place before the public a correct interpretation of Vayu, Pitta and Kapha, the falsely so-called humours of the body[1] and it is a great pleasure to us, that our pronouncement has been very kindly accepted. In the introduction of the present volume we would draw the attention of the readers to the fact that Ayurveda is not at all an encyclopedic work,—an Encyclopedia of the Indian system of Medicine in all its departments, but it is the Science of Life entire.
 
 Though it is customary and convenient to group apart such phenomena as are termed mental and such of them as are exhibited by men in society, under the heads of Psychology and Sociology, yet it must be allowed that there are no absolute demarcations in Nature, corresponding to them, and so in the entire Science of Life, psychology and sociology are inseparably linked with Anatomy and Physiology, nay, more, with Pathology and Hygiene and above all with Treatment. In short the Biological Sciences must deal with whatever phenomena are manifested by living matter in whatever condition it is placed. Life in health (sukhayuḥ) as well as Life in disease (duḥkhayuḥ), therefore, fall within the scope of Biology—even life exhibited by man in Society (hitahitaṃ) is not exempted from it.
-
-hitāhitaṃ mukhaṃ duḥkhamāyustasya hitāhitam | 
-mānañca tacca yatroktamāyurvedaḥ sa ucyate || 
-      caraka, shlokasthan, १ ma adhyaya |
 
 hitāhitaṃ mukhaṃ duḥkhamāyustasya hitāhitam | 
 mānañca tacca yatroktamāyurvedaḥ sa ucyate || 
@@ -61,8 +51,6 @@ The scientific ear, ever unsatisfied with these grammatical eruditions, has ulti
 From whatever standpoint we look to the question, we find there are grounds to lead any one to pronounce in our favour and to come to the conclusion at which we now venture to arrive. Besides these two important facts, we now cite the following passage as a strong internal evidence in favour of our view. Maharshi Punarvasu, after giving us a short table of the principal structures of the human body, remarks that even this reference is considered by many as superfluous, on the ground, that an acquaintance with the molecular construction of an organism is quite sufficient to help us as a reliable guide to treatment.
 
 The passage referred to is quoted below:—
-
-“eke tadubhayamapi na vikalpayante prakṛtibhāvāccharirasya |”
 
 “eke tadubhayamapi na vikalpayante prakṛtibhāvāccharirasya |”
 
@@ -117,9 +105,6 @@ He says
 śarirendriyasatvātmasaṃyogo dhāri jivitam | 
 nityagaścānubaddhaśca paryāyairāyurucyate ||
 
-śarirendriyasatvātmasaṃyogo dhāri jivitam | 
-nityagaścānubaddhaśca paryāyairāyurucyate ||
-
 In another place the same definition is repeated with a slight modification and in this he enumerates cetananuvṛttiḥ, (consciousness) as the most distinctive characteristic of Ayus. According to this definition, sharirendriyasatvatmasaṃyogaḥ and cetananuvṛttiḥ refer to an organised living body; nityagaḥ and anuvandhaḥ are identical with processes of breaking down and building up of the organism without destroying its identity. The idea of continuous adjustment is included also in these two words.
 
 So we find, the definition of Ayus, as sugessted by Punarvasu, includes more than what is proposed in Mr. Herbert Spencer’s definition of Life.  The words and jivita,as explained by the great annotator Chakrapani, represent two more distinct phases of Life, the first bearing upon the cistence(existence?) in the system of a preventive factor of putrefaction, the second poiting(pointing?) to the agent or agents hat adjit(?) the internal relations by deli(?)catetouches, which professor Mic(????) Foster speaks of as “continuously passing from protoplas(???) protoplasm and compared with which the nervous imp(???) (which are perhaps electrical in nature(???) are rosser and coarser shocks.” N(???) this last epithet, viz., “civitaṃ,” as explained by Chakrapani—“(?) jivayati praṇan”—furnishes us with a clue to(?) determine what Ayus (ayuḥ) actually means.
@@ -129,8 +114,6 @@ Our Sacred Upanishads now come forwards to our relief and tell us, in the first 
 From the above short tab we come to know that the agent that adjusts the intern, relations to external relations, is Ayus and that Ayus is Lift and that Life is a motion of the great etherial fluid which is known in Sanskrit as “kha(kha?)” and that “vayuraṃ (?) kh(??)” is the sum of all the various energies—biological and abiological—which under the name of heat, light, electricity or consciousness, etc., manifest themselves both in the Physical as well as in the Metaphysical
 
 world, and that Prana (praṇaḥ) is another name of the same force that, in acting on an aggregated living body, divides itself into five distinct forces, viz., Prana, Apana, Samana, Udana, and Vyana, and subserves the functions of correlation (vayuḥ) and sustentation (pittaṃ) and controls oxidation (shleṣma). So Prana continuously helps to adjust, like the main-spring of a watch, the internal relations to the external relations. We are indebted to the master mind of Sankara for his able exposition of the functions of this main-spring, that is, of the etherial vibrations (vayupraṇaḥ) as transformed into the vital force in an organised body. We quote below what he says about it in his celeberated commentary on the Vedanta Darsana.
-
-vāyurevā'yamadhyātmamāpannaḥ pañcavyūho viśeṣātmanā'vatiṣṭhamānaḥ prāṇo nāma bhaṇyate na tattvāntaraṃ nā'pi vāyumātram | ataścobhe api bhedābhedaśruti na virudhyete |२|४|?|
 
 vāyurevā'yamadhyātmamāpannaḥ pañcavyūho viśeṣātmanā'vatiṣṭhamānaḥ prāṇo nāma bhaṇyate na tattvāntaraṃ nā'pi vāyumātram | ataścobhe api bhedābhedaśruti na virudhyete |२|४|?|
 
@@ -154,11 +137,7 @@ Thus we read in the Shastras:—
 
 “A woman, though at a distance, conceives a child of the shape of the person she loves ardently and thinks of at the time. Just as a tree that grows is not different from the parent tree whether we plant a branch or sow a seed, so the main features of the child partake of the features of its father, though there might be slight changes due to the soil.”
 
-“A woman, though at a distance, conceives a child of the shape of the person she loves ardently and thinks of at the time. Just as a tree that grows is not different from the parent tree whether we plant a branch or sow a seed, so the main features of the child partake of the features of its father, though there might be slight changes due to the soil.”
-
 The subtle soul co-operates with the Manas (the mind); the mind co-operates with the senses; the senses perceive objects all this takes place in little or no time. The above is the connection between the soul and objects around us. What is there which the mind cannot comprehend? Therefore, wherever the mind enters, the soul follows it.
-
-“The soul being subtle, whenever it enters another soul, requires some time and an effort of the mind to know the latter. The soul, which intensely meditates on an object, assumes the shape of that object.” etc, etc.
 
 “The soul being subtle, whenever it enters another soul, requires some time and an effort of the mind to know the latter. The soul, which intensely meditates on an object, assumes the shape of that object.” etc, etc.
 
@@ -188,15 +167,9 @@ A dispassionate examination of these facts (and such as can be multiplied to any
 
 Lastly it is our prayer, that if Western Medical Science was ever anywise, directly or indirectly, benefited by the ancient Medical Science of the Hindus, it is but meet and fair that the former should come forward to render all possible aid to her parent Science, and that as it is almost dying now for want of aid and succour we look hopefully to our present benign Government in whose power lies the means of its complete regeneration.
 
-Footnotes and references:
-
-[back to top]
-
 [1]:
 
 Berdoe says:—
-
-“What is known as the Humoral Pathology formed the most essential part of the system of the Dogmatics. Humoral Pathology explains all diseases as caused by the mixture of the four cardinal humours, viz., the blood, bile, mucus or phlegm and water. Hippocrates first leaned towards it, but it was Plato who devoloped it. The stomach is the common source of all these humours. When diseases develop, they attract humours. The source of the bile is the liver, of the mucus the head, of the water the spleen. Bile causes catarrhs and rheumatism, dropsy depends on the spleen.”
 
 “What is known as the Humoral Pathology formed the most essential part of the system of the Dogmatics. Humoral Pathology explains all diseases as caused by the mixture of the four cardinal humours, viz., the blood, bile, mucus or phlegm and water. Hippocrates first leaned towards it, but it was Plato who devoloped it. The stomach is the common source of all these humours. When diseases develop, they attract humours. The source of the bile is the liver, of the mucus the head, of the water the spleen. Bile causes catarrhs and rheumatism, dropsy depends on the spleen.”
 

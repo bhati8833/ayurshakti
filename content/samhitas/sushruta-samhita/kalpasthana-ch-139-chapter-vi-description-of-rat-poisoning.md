@@ -20,17 +20,11 @@ This chapter from **Sushruta Samhita (Kalpasthana)** represents the classical su
 
 ---
 
-
 Sushruta Samhita, Volume 5: Kalpasthana
-
-by Kaviraj Kunja Lal Bhishagratna | 1911 | 24,963 words
 
 This current book, the Kalpa-sthana (english translation), deals with the nature of poisons, the management of poisons, toxicology and various other subjects.
 
 The Sushruta Samhita is the most representative work of the Hindu system of medicine. It embraces all that can possibly appertain to the science of medicine. Susruta-samhita is recognized as...
-
-Go directly to: 
-Footnotes.
 
 Chapter VI - Description of rat-poisoning
 
@@ -97,10 +91,6 @@ The person in whom the poison (of a rabid dog or jackal, etc.) is spontaneously 
 The poison of a (rabid) dog, etc., lies in the teeth and tends to aggravate the Pitta and the Vayu and hence the patient bitten by such animals is found to imitate their cries and nature. A patient afflicted with such poison cannot be saved even with the greatest care. The seat of a scratch made by the nails or teeth of any of those animals should be rubbed (and the poisoned blood should be let out). It should then be sprinkled over with tepid oil, since the poison in this case aggravates only the Vayu of the system. 9–10
 
 Thus ends the sixth Chapter of the Kalpa-sthana in the Sushruta Samhita which deals with the symptoms and treatments of rat-poison.
-
-Footnotes and references:
-
-[back to top]
 
 [1]:
 

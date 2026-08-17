@@ -18,7 +18,6 @@ Language and terminology form the backbone of traditional Indian medicine. Every
 
 ---
 
-
 ### Key Sanskrit Terms starting with 'W' (Sample Preview)
 The following is an excerpt of classical Sanskrit terms starting with letter **W**:
 
@@ -44,7 +43,6 @@ The following is an excerpt of classical Sanskrit terms starting with letter **W
 </ul>
 
 *Browse all 17 authenticated terms under Letter W in the searchable directory above.*
-
 
 ---
 

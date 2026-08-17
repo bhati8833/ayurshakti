@@ -20,17 +20,11 @@ This chapter from **Sushruta Samhita (Uttaratantra)** represents the classical s
 
 ---
 
-
 Sushruta Samhita, Volume 6: Uttara-tantra
-
-by Kaviraj Kunja Lal Bhishagratna | 1916 | 113,078 words
 
 This current book, the Uttara-tantra (english translation) is the supplementary part of the Sushrutasamhita and deals various subjects such as diseases of the eye, treatment of fever, diarrhea, diseases resulting from superhuman influences, insanity, rules of health etc.
 
 The Sushruta Samhita is the most representative work of the Hindu system of m...
-
-Go directly to: 
-Footnotes.
 
 Chapter XXVIII - Therapeutics of an attack by Skanda-graha
 
@@ -51,10 +45,6 @@ Mantras:—
 The body of the child should be guarded by a careful physician against the influence of the malignant Grahas by reciting every day a Mantra which runs as follows:—“May Skanda, the eternal and changeless deity who is the receptacle of all sorts of energies produced by austerities, fame, valour, or organic combination (vital energy), be propitious to thee. May the almighty Guha protect thee from all evils—Guha who is the commander-in-chief both of the army of the gods and of the Grahas and is the destroyer of the enemies of the army of the gods (in which rank he has been installed, lit. wedded, with the suffrage of all the gods). May he who is the begotten son of the supreme deity—the god of the gods and who acknowledges severally the exalted motherhood of Ganga, Uma and the Krittikas, give thee health and comfort. May the beautiful god who pierced with a single shaft right through the heart of the mountain Krauncha and who is effulgent with the red rays of his own divine person smeared with the paste of red sandal-wood and decked with the garland of red flowers, protect thee from all perils.” 7.
 
 Thus ends the twenty-eighth chapter of the Uttara-Tantra in the Sushruta Samhita which deals with the Therapeutics of Skanda-Graha.
-
-Footnotes and references:
-
-[back to top]
 
 [1]:
 

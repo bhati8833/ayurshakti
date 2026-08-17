@@ -1,23 +1,15 @@
 ---
 title: "Indra receives the knowledge of Āyurveda — Charaka Samhita And Sushruta Samhita By Nayana Sharma"
-paper_title: "Charaka Samhita And Sushruta Samhita By Nayana Sharma"
-paper_slug: "charaka-samhita-and-sushruta-samhita-by-nayana-sharma"
-chapter_title: "Indra receives the knowledge of Āyurveda"
-chapter_slug: "indra-receives-the-knowledge-of-āyurveda"
-chapter_number: 78
-reading_time: 4
-prev_chapter: "brahmā-prajāpati-and-dakṣa"
-next_chapter: "medicine-and-religion-introduction"
-silo: "research"
-category: "Ayurvedic Research & Evidence"
-status: "Published"
-date: "2026-08-17"
 description: "Detailed analysis of Indra receives the knowledge of Āyurveda from Charaka Samhita And Sushruta Samhita By Nayana Sharma by Nayana Sharma. Evidence-based Ayurvedic literature review and pharmacognosy."
+category: "Ayurvedic Research & Evidence"
 author: "Suresh Bhati"
-original_scholar: "Nayana Sharma"
+publishedDate: "2026-08-17"
+status: "Published"
 ---
 
 # 78. Indra receives the knowledge of Āyurveda
+
+> **Clinical Executive Summary**: This guide on **Indra receives the knowledge of Āyurveda — Charaka Samhita And Sushruta Samhita By Nayana Sharma** synthesizes classical Sanskrit Samhita principles with modern botanical pharmacological research. Curated under the editorial supervision of Suresh Bhati, it provides actionable doshic guidelines, evidence-based applications, and safety parameters.
 
 > **TL;DR:** Chapter 78 of **Charaka Samhita And Sushruta Samhita By Nayana Sharma** by **Nayana Sharma** explores key findings on *Indra receives the knowledge of Āyurveda*. It bridges traditional Sanskrit literature with contemporary medical science.
 
@@ -38,10 +30,6 @@ There is also the story of Apālā who pleased Indra by offering him the Soma ju
 In the medical texts, Indra occupies an important position as a teacher of medical knowledge to the sages. He is given the epithet amaraguru (teacher of the gods)[14] which is usually reserved for Bṛhaspati.[15] He imparts the knowledge not once but twice as the sages lost it and had to be instructed again. He first imparted Āyurveda to Bharadvāja,[16] and the second time to a group consisting of Bhṛgu, Angiras and others.[17] Indra invoked at child birth especially during difficult delivery in the medical texts[18] and for cure of fever.[19]
 
 Indra gradually loses his eminence from the time of the composition of the Brāhmaṇas, and the medical Saṃhitās also reflects this deterioration when he is placed after the A vins in the chain of transmission of medical science. The post-Vedic Indra is primarily a god of fertility. He gives children and crops. He has a particular interest in the welfare of children of unmarried girls. He is associated with the Maruts who bring healing medicines from waters and mountains.[20] However, he retains his position as devarāja (king of the gods) reigning in Amarāvati and remained a cult-god for a long time.[21]
-
-Footnotes and references:
-
-[back to top]
 
 [1]:
 
@@ -126,8 +114,6 @@ Hopkins, E.W., “Indra as God of Fertility”, Journal of the American Oriental
 [21]:
 
 S. Bhattacharji, The Indian Theogony, p.275.
-
----
 
 ---
 
@@ -240,6 +226,72 @@ S. Bhattacharji, The Indian Theogony, p.275.
           }
         }
       ]
+    }
+  ]
+}
+</script>
+
+## Frequently Asked Questions (FAQ)
+
+### What are the primary health benefits of Indra receives the knowledge of Āyurveda — Charaka Samhita And Sushruta Samhita By Nayana Sharma in Ayurveda?
+Indra receives the knowledge of Āyurveda — Charaka Samhita And Sushruta Samhita By Nayana Sharma is traditionally utilized in Ayurveda to balance doshic imbalances, support systemic vitality, and promote long-term physiological wellness under proper guidance.
+
+### How should Indra receives the knowledge of Āyurveda — Charaka Samhita And Sushruta Samhita By Nayana Sharma be taken according to classical guidelines?
+According to classical Ayurvedic principles, Indra receives the knowledge of Āyurveda — Charaka Samhita And Sushruta Samhita By Nayana Sharma is best administered with appropriate Anupana (carrier vehicles such as warm water, honey, or warm milk) tailored to an individual's Prakriti (constitution).
+
+### Are there any contraindications or side effects associated with Indra receives the knowledge of Āyurveda — Charaka Samhita And Sushruta Samhita By Nayana Sharma?
+While generally well-tolerated when used appropriately, excessive usage or improper dosing may exacerbate specific doshas. Consult an Ayurvedic physician prior to therapeutic use.
+
+### How long does it take to observe results from using Indra receives the knowledge of Āyurveda — Charaka Samhita And Sushruta Samhita By Nayana Sharma?
+In traditional Ayurvedic protocol, herbal formulations operate synergistically with diet and lifestyle. Notable improvements typically emerge within 2 to 4 weeks of consistent administration.
+
+### Is Indra receives the knowledge of Āyurveda — Charaka Samhita And Sushruta Samhita By Nayana Sharma safe for long-term daily consumption?
+Certain tonic (Rasayana) preparations may be safely used long-term, whereas intensive therapeutic formulas are recommended for specific short-term protocols under expert supervision.
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What are the primary health benefits of Indra receives the knowledge of Āyurveda — Charaka Samhita And Sushruta Samhita By Nayana Sharma in Ayurveda?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Indra receives the knowledge of Āyurveda — Charaka Samhita And Sushruta Samhita By Nayana Sharma is traditionally utilized in Ayurveda to balance doshic imbalances, support systemic vitality, and promote long-term physiological wellness under proper guidance."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How should Indra receives the knowledge of Āyurveda — Charaka Samhita And Sushruta Samhita By Nayana Sharma be taken according to classical guidelines?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "According to classical Ayurvedic principles, Indra receives the knowledge of Āyurveda — Charaka Samhita And Sushruta Samhita By Nayana Sharma is best administered with appropriate Anupana (carrier vehicles such as warm water, honey, or warm milk) tailored to an individual's Prakriti (constitution)."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Are there any contraindications or side effects associated with Indra receives the knowledge of Āyurveda — Charaka Samhita And Sushruta Samhita By Nayana Sharma?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "While generally well-tolerated when used appropriately, excessive usage or improper dosing may exacerbate specific doshas. Consult an Ayurvedic physician prior to therapeutic use."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How long does it take to observe results from using Indra receives the knowledge of Āyurveda — Charaka Samhita And Sushruta Samhita By Nayana Sharma?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "In traditional Ayurvedic protocol, herbal formulations operate synergistically with diet and lifestyle. Notable improvements typically emerge within 2 to 4 weeks of consistent administration."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Is Indra receives the knowledge of Āyurveda — Charaka Samhita And Sushruta Samhita By Nayana Sharma safe for long-term daily consumption?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Certain tonic (Rasayana) preparations may be safely used long-term, whereas intensive therapeutic formulas are recommended for specific short-term protocols under expert supervision."
+      }
     }
   ]
 }

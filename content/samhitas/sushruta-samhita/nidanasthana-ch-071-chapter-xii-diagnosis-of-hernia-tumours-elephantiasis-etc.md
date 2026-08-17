@@ -20,17 +20,11 @@ This chapter from **Sushruta Samhita (Nidanasthana)** represents the classical s
 
 ---
 
-
 Sushruta Samhita, volume 2: Nidanasthana
-
-by Kaviraj Kunja Lal Bhishagratna | 1911 | 37,609 words
 
 This current book, the Nidana-sthana (english translation), is the second part of this voluminous medical work. It deals with diseases: their prognosis, their cause, their symptoms and their pathogenesis (development of the disease).
 
 The Sushruta Samhita is the most representative work of the Hindu system of medicine. It embraces all that can poss...
-
-Go directly to: 
-Footnotes.
 
 Chapter XII - Diagnosis of hernia, tumours, elephantiasis, etc.
 
@@ -95,10 +89,6 @@ A preponderance of the deranged Kapha marks the three types of the disease, in a
 The disease is usually found to be confined to the legs and hands of men but cases are on record in which it has extended to the ear, nose, lips and the regions of the eyes. (Penis—Madhaba-Nidana). 20.
 
 Thus ends the twelfth Chapter of the Nidanastbana in the Sushruta Samhita which treats of the Nidana of scrotal tumours, hernia, Upa- dansha and elephantiasis.
-
-Footnotes and references:
-
-[back to top]
 
 [1]:
 

@@ -9,24 +9,13 @@ date: "2026-08-17"
 description: "samhita, ascribed to the great celebrity Charaka, has got three strata."
 ---
 
-**Author / Source:** by Asokan. G
-
-
-**Total Chapters/Sections:** 98
-
 ---
 
 ## 1. Introduction
 
-
 Philosophy of Charaka-samhita
 
-by Asokan. G | 2008 | 88,742 words
-
 Ayurveda, represented by Charaka and Sushruta, stands first among the sciences of Indian intellectual tradition. The Charaka-samhita, ascribed to the great celebrity Charaka, has got three strata. (1) The first stratum is the original work composed by Agnivesha, the foremost of the six disciples of Punarvasu Atreya. He accomplished the work by coll...
-
-Go directly to: 
-Footnotes.
 
 Introduction
 
@@ -37,10 +26,6 @@ The question presupposes the notion that science is distinct from philosophy. Ph
 So it is essential to give a reasonable or at least a satisfactory answer to the above-mentioned queries, even though such questions are the outcome of utilitarian thoughts. Such an answer would also prove the historicity of Carakasaṃhitā.
 
 A retrospective introspection of the evolution of human thought reveals that “man began by dealing wholesale with the world, indulging in speculations about the general nature and behaviour of the universe without separating scientific and philosophic fields and methods of investigation from one another”.[1] Gradually persuaded by increasing human needs and directed to different groups of events, the spirit of universal enquiry was subdivided into specialized investigations. Thus, in the West, special sciences like Astronomy, Medicine, and Logic slowly originated at a fairly early date and steadily became independent and self supporting.[2] This shows that the Western sciences have their roots in the early philosophical thoughts, but got isolated from them in course of time.
-
-Footnotes and references:
-
-[back to top]
 
 [1]:
 
@@ -54,25 +39,15 @@ Physics and Chemistry did not take firm independent root until after the Renaiss
 
 ## 2. Higher and lower knowledge
 
-
 Philosophy of Charaka-samhita
 
-by Asokan. G | 2008 | 88,742 words
-
 Ayurveda, represented by Charaka and Sushruta, stands first among the sciences of Indian intellectual tradition. The Charaka-samhita, ascribed to the great celebrity Charaka, has got three strata. (1) The first stratum is the original work composed by Agnivesha, the foremost of the six disciples of Punarvasu Atreya. He accomplished the work by coll...
-
-Go directly to: 
-Footnotes.
 
 Higher and lower knowledge
 
 Summary: The distinction of knowledge in Indian tradition—higher and lower knowledge (parā-vidyā and aparā-vidyā).
 
 The Indian tradition of knowledge which began with emphasis on intuition in the Vedic age flowered in the philosophies and sciences of the classical age.[1] In the Upaniṣads, we find an important distinction between parā vidyā and aparā vidyā or higher knowledge and lower knowledge,[2] and also avidyā and vidyā or false knowledge and true knowledge.[3] “These two types of knowledge differ from each other in their objects, their consequences as well as in methods of acquisition”.[4] With regard to acquisition, the higher knowledge is said to be direct and intuitive, while the lower knowledge has different accredited means like perception, and inference.[5] The knowledge of the immutable (akṣara) highest essence is called higher knowledge (parā vidyā).[6] It was valued, for it leads to liberation. The Upaniṣads and Darśanas come under the purview of parā vidyā. The empirical or phenomenal knowledge is called lower knowledge (aparā vidyā). They are all discursive and the truth they aim at is pragmatic (vyāvahārika). Such pragmatic knowledge is rational and corrigible. All sciences fall under aparā vidyā. It enables one to know the objective world, means and ends, and virtues and vices, which can lead to prosperity and heaven. “This distinction between a spiritually liberating transcendental knowledge and practically useful intellectual knowledge has remained a permanently accepted distinction within the Indian tradition”.[7]
-
-Footnotes and references:
-
-[back to top]
 
 [1]:
 
@@ -106,15 +81,9 @@ FIC, p. 229.
 
 ## 3. Indian sciences (the eighteen disciplines)
 
-
 Philosophy of Charaka-samhita
 
-by Asokan. G | 2008 | 88,742 words
-
 Ayurveda, represented by Charaka and Sushruta, stands first among the sciences of Indian intellectual tradition. The Charaka-samhita, ascribed to the great celebrity Charaka, has got three strata. (1) The first stratum is the original work composed by Agnivesha, the foremost of the six disciples of Punarvasu Atreya. He accomplished the work by coll...
-
-Go directly to: 
-Footnotes.
 
 Indian sciences (the eighteen disciplines)
 
@@ -160,10 +129,6 @@ Arthaśāstra.[1]
 
 It should be noted in this context that Śankarācārya includes all the four Vedas within the lower knowledge (aparā vidyā) while maintaining at the same time that the Upaniṣads, the last part of the Vedas, impart knowledge of the Brahman. According to his followers, the empirical knowledge (viṣayavidyā) or the ritualistic part of the Vedas, which is not directly related to the knowledge of the Brahman, is referred to by Śankarācārya as lower knowledge.[2] This shows that there developed philosophy on the one side and the sciences on the other side distinctly in India. The science of life thus developed came to be called Āyurveda.
 
-Footnotes and references:
-
-[back to top]
-
 [1]:
 
 “Introduction”, HSPCIC, Vol. III, Part-3, p. 4. Muṇḍaka Upaniṣad.., speaks of only the four Vedas and six ancillary disciplines (Vedāṅgas) as aparā vidyā. Muṇḍaka Upaniṣad.., I, 5. For more details see Nyāyakośa., pp. 752 - 53.
@@ -176,15 +141,9 @@ Amita Chatterjee, “Aparā vidyā -- A Reconstruction Towards an Objective Phen
 
 ## 4. Darśanas (philosophical speculations)
 
-
 Philosophy of Charaka-samhita
 
-by Asokan. G | 2008 | 88,742 words
-
 Ayurveda, represented by Charaka and Sushruta, stands first among the sciences of Indian intellectual tradition. The Charaka-samhita, ascribed to the great celebrity Charaka, has got three strata. (1) The first stratum is the original work composed by Agnivesha, the foremost of the six disciples of Punarvasu Atreya. He accomplished the work by coll...
-
-Go directly to: 
-Footnotes.
 
 Darśanas (philosophical speculations)
 
@@ -195,10 +154,6 @@ The usual way of explaining the word Darśana is to point out that, in the Vedas
 Sāyaṇa Mādhava, who speaks of sixteen Darśanas, classifies them into two groups namely Vedic (āstika) and Non-Vedic (nāstika).[6] The āstika Darśanas are those which accept the authority of the Vedas.[7] They prescribe methods for realizing the self and in that sense they are self-centric philosophical schools. The present list of six systems, namely Sāṃkhya, Yoga, Nyāya, Vaiśeṣika, Pūrvamīmāṃsā, and Uttaramīmāṃsā (Vedānta) form this group.[8]
 
 Though there are differences between these systems, the basic factors that impelled the philosophers to make such an enquiry are common. The fundamental cause of the enquiry is the realization of the fact that the sum total of everyone's life in this world is painful and that this pain is due to attachment caused by ignorance. The endeavor of the philosophers was to find out a way to root out pain eternally.[9] In order to achieve the end, they formulated a fourfold enquiry. The four common factors that became the subject of their investigation are (1) attachment (bandha), (2) cause of attachment (bandhakāraṇa), (3) freedom (mokṣa) and (4) cause of freedom (mokṣakāraṇa). Thus, the Indian Darśanas which focused on the above mentioned aspects are really philosophical systems which made systematic speculations on man and universe with the aim of realising the highest truth for transforming and spiritualizing human life.
-
-Footnotes and references:
-
-[back to top]
 
 [1]:
 
@@ -240,10 +195,7 @@ heyaṃ dukhamanāgataṃ, Y. Su, II. 16; atha trividhaduḥkhātyantanivṛttir
 
 ## 5. Chapter 1 - Introduction
 
-
 Philosophy of Charaka-samhita
-
-by Asokan. G | 2008 | 88,742 words
 
 Ayurveda, represented by Charaka and Sushruta, stands first among the sciences of Indian intellectual tradition. The Charaka-samhita, ascribed to the great celebrity Charaka, has got three strata. (1) The first stratum is the original work composed by Agnivesha, the foremost of the six disciples of Punarvasu Atreya. He accomplished the work by coll...
 
@@ -255,15 +207,9 @@ Chapter 1 - Introduction
 
 ## 6. Ill-fate of Āyurveda and other sciences
 
-
 Philosophy of Charaka-samhita
 
-by Asokan. G | 2008 | 88,742 words
-
 Ayurveda, represented by Charaka and Sushruta, stands first among the sciences of Indian intellectual tradition. The Charaka-samhita, ascribed to the great celebrity Charaka, has got three strata. (1) The first stratum is the original work composed by Agnivesha, the foremost of the six disciples of Punarvasu Atreya. He accomplished the work by coll...
-
-Go directly to: 
-Footnotes.
 
 Ill-fate of Āyurveda and other sciences
 
@@ -274,10 +220,6 @@ One of the main reasons was that parā vidyā was considered as the most celebra
 In the later period, during the colonial rule, the direct presence of the Europeans by and large influenced the science and technology in India as in other Asian counties. The homogenizing impact of science and technology of Western origin continued in our country even when other countries like Japan and China have escaped the negative effects of colonial subjugation, retaining their self identity. Another important reason is that English education not only strengthened the hegemonic impact of the language on all branches of learning but also pushed Sanskrit and Sanskrit education to the background. The scientific knowledge in its cultural context could not be acquired unless the classical language like Sanskrit could be studied in depth.[4] More over, “the writings of the English educated historians of science and of the scientists themselves show little or no notable sign of their familiarity with the rich tradition or the development of science in India”.[5]
 
 Even though projects are being carried out to free ourselves from this intellectual bondage, at least some people believe that the theme of Āyurveda is not completely tenable and is not in any way considered as an authentic system of knowledge. This is because the knowledge imparted by the Western sciences is considered the most prestigious, for it is honoured for its practical utility and its usefulness in our day-to-day life. This has led to the belief that the theoretical explanations of Western sciences are factual, logical, and reliable while those of Indian sciences are illogical and dogmatic. But such notions are false and have no relevance.
-
-Footnotes and references:
-
-[back to top]
 
 [1]:
 
@@ -303,10 +245,7 @@ Ibid.
 
 ## 7. Preface
 
-
 Philosophy of Charaka-samhita
-
-by Asokan. G | 2008 | 88,742 words
 
 Ayurveda, represented by Charaka and Sushruta, stands first among the sciences of Indian intellectual tradition. The Charaka-samhita, ascribed to the great celebrity Charaka, has got three strata. (1) The first stratum is the original work composed by Agnivesha, the foremost of the six disciples of Punarvasu Atreya. He accomplished the work by coll...
 
@@ -328,15 +267,9 @@ The next chapter describes the Self as the foundational cause of the Universe. A
 
 ## 8. Comprehensiveness of philosophical consciousness
 
-
 Philosophy of Charaka-samhita
 
-by Asokan. G | 2008 | 88,742 words
-
 Ayurveda, represented by Charaka and Sushruta, stands first among the sciences of Indian intellectual tradition. The Charaka-samhita, ascribed to the great celebrity Charaka, has got three strata. (1) The first stratum is the original work composed by Agnivesha, the foremost of the six disciples of Punarvasu Atreya. He accomplished the work by coll...
-
-Go directly to: 
-Footnotes.
 
 Comprehensiveness of philosophical consciousness
 
@@ -344,15 +277,9 @@ All this has been stated to show the methodological inadequacy of sciences. The 
 
 “The distinguishing features of the methods of philosophy are those of: (1) impartial and critical of beliefs (religious or otherwise), propositions and conclusions (scientific or otherwise) and speculations on all the fundamentals of enquiry (2) application of logical rigor in relating to the fundamental process of the world and the underlying assumptions of thought and knowledge in an attempt to arrive at the most indubitable universal and essential conclusions, which even though not verifiable, may be yet rationally incorrigible”.[7]
 
-“The distinguishing features of the methods of philosophy are those of: (1) impartial and critical of beliefs (religious or otherwise), propositions and conclusions (scientific or otherwise) and speculations on all the fundamentals of enquiry (2) application of logical rigor in relating to the fundamental process of the world and the underlying assumptions of thought and knowledge in an attempt to arrive at the most indubitable universal and essential conclusions, which even though not verifiable, may be yet rationally incorrigible”.[7]
-
 The philosophical illumination or wisdom thus achieved should be distinguished from the knowledge in the form of information that we imbibe from different scientific pursuits.
 
 The task of philosophical reasoning is to decipher the essential structures underlying the phenomena. Here one thing is to be remembered as some thing important. That is, reason is not partial to the transcendental; it is equally responsible to the empirical also, for there cannot be any empirical without a corresponding trans-empirical. In essence philosophy is the enquiry of the meaning and significance of human existence, temporal, and supra-temporal. Philosophy can argue for the compatibility of both the phenomenal and the transcendental.
-
-Footnotes and references:
-
-[back to top]
 
 [1]:
 
@@ -386,10 +313,7 @@ Kireet Joshi, “Philosophical Consciousness and Scientific Knowledge: Problems 
 
 ## 9. Chapter 2 - Fundamental Categories
 
-
 Philosophy of Charaka-samhita
-
-by Asokan. G | 2008 | 88,742 words
 
 Ayurveda, represented by Charaka and Sushruta, stands first among the sciences of Indian intellectual tradition. The Charaka-samhita, ascribed to the great celebrity Charaka, has got three strata. (1) The first stratum is the original work composed by Agnivesha, the foremost of the six disciples of Punarvasu Atreya. He accomplished the work by coll...
 
@@ -401,23 +325,15 @@ Chapter 2 - Fundamental Categories
 
 ## 10. Methodological inadequacy of modern sciences
 
-
 Philosophy of Charaka-samhita
 
-by Asokan. G | 2008 | 88,742 words
-
 Ayurveda, represented by Charaka and Sushruta, stands first among the sciences of Indian intellectual tradition. The Charaka-samhita, ascribed to the great celebrity Charaka, has got three strata. (1) The first stratum is the original work composed by Agnivesha, the foremost of the six disciples of Punarvasu Atreya. He accomplished the work by coll...
-
-Go directly to: 
-Footnotes.
 
 Methodological inadequacy of modern sciences
 
 The notion that scientific knowledge is the best form of knowledge is wrong for various reasons.[1] The Western sciences, which jerked away from philosophy with its specialized investigations, got estranged themselves from the general nature and behaviour of the universe and from the transcendental objectives of life. In the closing decade of the last century the Western scientists were persuaded to say that their theories were probable explanations. They admit that a theory is simply a hypothesis[2] that has been tested often enough to convince scientists that it is probably correct. They speak of the acceptance of a theory, confidence in a theory, and probability of its correctness but never the proof of its correctness. If proof means the establishment of an eternal and absolute truth, then proof has no place in natural sciences. A theory is always open to disproof.[3]
 
 In fact, the mechanical view of nature often creates crisis in science. In 1910 Max Plank wrote, noting the existence of a crisis in physics:
-
-“No physical theorem is at present beyond doubt, all and every physical truth is considered disputable. It often seems almost as if theoretical physics is about to be plunged again into chaos”.[4]
 
 “No physical theorem is at present beyond doubt, all and every physical truth is considered disputable. It often seems almost as if theoretical physics is about to be plunged again into chaos”.[4]
 
@@ -432,10 +348,6 @@ Subjectivity and objectivity are the two poles implicit in knowledge. They are t
 The extrinsic explanation of man without knowing the inner self fails to understand the real nature of man and the universe and their interrelationship. Human science identifies man with his immediate physical and physiological identity, forgetting his deeper and far reaching spiritual identity. These external institutional human sciences are methodologically inadequate.[16] Science deprives man of his inner being, his search for the meaning of his life out there in the world.[17]
 
 Modern medicine is also not an exception to what has been stated above. Like any other science, modern medicine has the tendency to discard or reject the whole notion of life force, and this is rooted in a philosophical perspective of empiricism and analysis. Hence modern medicine seeks to reduce the art of healing to the psychochemical manipulation of the body as directly as possible.[18]
-
-Footnotes and references:
-
-[back to top]
 
 [1]:
 
@@ -513,23 +425,15 @@ FIC, 243.
 
 ## 11. Substance (dravya) [in Charaka philosophy]
 
-
 Philosophy of Charaka-samhita
 
-by Asokan. G | 2008 | 88,742 words
-
 Ayurveda, represented by Charaka and Sushruta, stands first among the sciences of Indian intellectual tradition. The Charaka-samhita, ascribed to the great celebrity Charaka, has got three strata. (1) The first stratum is the original work composed by Agnivesha, the foremost of the six disciples of Punarvasu Atreya. He accomplished the work by coll...
-
-Go directly to: 
-Footnotes.
 
 Substance (dravya) [in Charaka philosophy]
 
 Since the early days of Western Indology, in particular since Colebrooke’s pioneering studies in Indian philosophy, the Sanskrit word dravya has usually been rendered as “substance”[1] In a recent critical review of the problem of substance, it is stated that “substance is the oldest topic of philosophical enquiry and it is also one of the most entangled”.[2] For Aristotle “substance is the fundamental category. Without it, without things to have quality or relation or to act or to be acted upon - the others (other categories) are meaningless”.[3] A recent dictionary of philosophy says that substance of a thing may be its essence or that which makes it what it is. This will ensure that the substance of a thing is that which remains through change in its properties.[4] In an encyclopaedia of philosophy, six notions of substance have been distinguished: “(1) the concrete individual, (2) a core of essential properties, (3) what is capable of independent existence, (4) a centre of change, (5) a substratum, and (6) a logical subject”.[5] Another encyclopedia says: “In MATAPHYSICS, substance is the unchanging underlying reality of a thing; it is contrasted with those aspects of a thing (its accidents) which change”.[6]
 
 Wilhelm Halbfass says:
-
-“In the history of European thought the concept of substance covers, indeed, the entire semantic range from concrete empirical things to bear particulars and basic substrates. In applying the word ‘substance’ to the Indian philosophical tradition and in using it as a translation of dravya, it is important to be aware of the question and ambiguities with which it has associated”.[7]
 
 “In the history of European thought the concept of substance covers, indeed, the entire semantic range from concrete empirical things to bear particulars and basic substrates. In applying the word ‘substance’ to the Indian philosophical tradition and in using it as a translation of dravya, it is important to be aware of the question and ambiguities with which it has associated”.[7]
 
@@ -556,10 +460,6 @@ The uniqueness of this definition is that it reveals a structure in which there 
 In spite of the basic differences between Caraka and Suśruta with regard to “being” and “becoming”, Suśruta who has been conversant with the above mentioned nature of substance reiterates the same definition[30] and adds that substance is eternal and qualities are ephemeral.[31] Thus, according to him, substance is that which remains in and through all changes. Placing primacy on dravya, Bhadanta Nāgārjuna enumerates six entities as the basis of disease and health, and conspicuously asserts that substance is the substratum of the five.[32] The other entities in the sequel are taste (rasa), quality (guṇa), potency (vīrya), vipāka and action (karma).[33]
 
 Caraka enumerates nine substances namely, ākāśa, air (vāyuḥ), fire (agni), water (ap) earth (pṛthivī), self (ātmā), mind (manas), time (kāla), and space (dik).[34] This classification is also akin to the classification in the Vaiśeṣika philosophy.[35] Almost all except the Bhāṭṭamīmāṃsakas do accept this classification.[36] These substances are heterogeneous in sense. Among these nine substances the first five namely, ākāśa, air, fire, water and earth form one group and are called physical or material substances (bhūtas). The remaining four are non-material substances. The material substances constitute the physical world. Among the non-material substances mind and self are differentiated from the rest and Caraka calles them spiritual substances (adhyātmadravyas).[37] Mind represents the psychological world and self represents the spiritual world. Thus, the schemata of substance reveal the physical, the psychological, and the spiritual world and also the space time continuum.
-
-Footnotes and references:
-
-[back to top]
 
 [1]:
 
@@ -713,15 +613,9 @@ CS, Su, VIII. 13.
 
 ## 12. The importance of the philosophy of Carakasaṃhitā
 
-
 Philosophy of Charaka-samhita
 
-by Asokan. G | 2008 | 88,742 words
-
 Ayurveda, represented by Charaka and Sushruta, stands first among the sciences of Indian intellectual tradition. The Charaka-samhita, ascribed to the great celebrity Charaka, has got three strata. (1) The first stratum is the original work composed by Agnivesha, the foremost of the six disciples of Punarvasu Atreya. He accomplished the work by coll...
-
-Go directly to: 
-Footnotes.
 
 The importance of the philosophy of Carakasaṃhitā
 
@@ -742,10 +636,6 @@ Caraka presents a categorial scheme and discusses in detail the philosophical su
 The discussion of the methodology of thought and expression is also significant. Caraka gives a precise and elaborate description of the different ways of knowing integrating observation, reasoning, testimony, and intuition. He himself patterns data by experience, reasoning, testimony, and intuition without giving undue importance to any one of them which may lead to distortion of the quest for knowledge or which may be reduced to empirical commonsense, abstract speculation, dogmatism or superstition. Natural phenomena reached by both experience and intuitive speculative thought are equally recognized as valid.
 
 Thus, Carakasaṃhitā is not a treatise on an incoherent area of unconnected discipline which deals with the morbid science of disease in the Western style. On the other hand, it is a complete book which contains deliberations and insightful knowledge of the complex man and his environment for health and human perfection. Caraka construes man as a somatic being and spiritual being. Philosophical abstractions and scientific observations are found interlocked. In brief it is a synthesis of the subjective and the objective, the two cornerstones of epistemology. Hence the philosophical speculations of Carakasaṃhitā are of prime importance.
-
-Footnotes and references:
-
-[back to top]
 
 [1]:
 
@@ -771,15 +661,9 @@ R.C. Pradhan, “Structure of Philosophical Knowledge: In Defence of the Metaphy
 
 ## 13. Attribute (guṇa) [in Charaka philosophy]
 
-
 Philosophy of Charaka-samhita
 
-by Asokan. G | 2008 | 88,742 words
-
 Ayurveda, represented by Charaka and Sushruta, stands first among the sciences of Indian intellectual tradition. The Charaka-samhita, ascribed to the great celebrity Charaka, has got three strata. (1) The first stratum is the original work composed by Agnivesha, the foremost of the six disciples of Punarvasu Atreya. He accomplished the work by coll...
-
-Go directly to: 
-Footnotes.
 
 Attribute (guṇa) [in Charaka philosophy]
 
@@ -802,10 +686,6 @@ The Mīmaṃsakās are of the opinion that one attribute can exist in another at
 From the above description, it can be concluded that the definition of attribute given by Caraka is akin to that of Kaṇāda. Even though the term which means that, it does not become an independent cause in conjunction and disjunction is not found in the definition of Caraka, the expression niśceṣṭa serves the very same purpose with more perfection.[21]
 
 Later on, Praśastapāda defines attribute thus: qualities like colour are those which are endowed with the universal attributeness (guṇatva), exists in substances, and are devoid of further attributes and motion.[22] For Sivāditya, attribute is that which possesses attributeness.[23] Again, it is said that being endowed with the universal it is devoid of motion and is not a substantial cause.[24] Keśavamiśra who expresses more or less the same idea, makes it clear that guṇa is only an efficient cause (asamavāyikāraṇa).[25] Annabhaṃbhaṭṭa defines it thus: attribute is that which possesses universal and at the same time different from substances and motion, or it is that which possesses attributeness.[26] From the point of view of the Mīmāṃsakas, attribute is that which is distinct from motion, has subgenises and is excluded from the substantial causes (upādānakāraṇa).[27]
-
-Footnotes and references:
-
-[back to top]
 
 [1]:
 
@@ -919,15 +799,9 @@ karmaṇo vyatiriktatve satyāvāntarajātimān upādānatvanirmukto guṇo gu�
 
 ## 14. Specific attributes (vaiśeṣika-guṇas)
 
-
 Philosophy of Charaka-samhita
 
-by Asokan. G | 2008 | 88,742 words
-
 Ayurveda, represented by Charaka and Sushruta, stands first among the sciences of Indian intellectual tradition. The Charaka-samhita, ascribed to the great celebrity Charaka, has got three strata. (1) The first stratum is the original work composed by Agnivesha, the foremost of the six disciples of Punarvasu Atreya. He accomplished the work by coll...
-
-Go directly to: 
-Footnotes.
 
 Specific attributes (vaiśeṣika-guṇas)
 
@@ -958,10 +832,6 @@ Smell (gandha), Touch (sparṣa), and Sound (ṣabda)
 Smell, touch, and sound are the qualities which are apprehended by their respective senses. In Vaiśeṣika, smell is of two types: fragrant (surabhi) and noxious (asurabhi).[28] Both of them belong to earth. The Mīmāṃsakas add one more called ordinary (sādhāraṇa).[29] Similarly, for the Vaiśeṣika, touch is of three kinds: cold (sīta), hot (uṣṇa) and tepid (anuṣṇaśīta).[30] Cold touch belongs to water, hot touch to fire, and tepid which is neither cold nor hot to earth and air.[31] Mīmāṃsakas also accept these three divisions.[32]
 
 One of the most important things to be noted in this connection is that Caraka makes use of the theory of paka which is responsible for change in colour, taste, smell, and touch in ephemeral substances.[33] But he does not postulate a theory on it. It is in the Nyāya-Vaiśeṣikas that we meet with such a theory. Accordingly, the specific qualities, namely, colour, taste, smell, and touch inhering in earth are ephemeral and can sometimes be changed by the application of heat. There is a sharp difference of view in this matter between the Vaiśeṣikas and the Naiyāyikas. The Vaiśeṣikas, who hold the theory of pīlupāka, believe that the change of qualities are affected in the paramāṇus which form the parts of the whole like a jar, in accordance with the application of external heat. Naiyāyikas, who hold the theory of piṭharapāka, argue that the change takes place in the whole, that is, in the jar itself.[34]
-
-Footnotes and references:
-
-[back to top]
 
 [1]:
 
@@ -1103,15 +973,9 @@ For details see Praśastapādabhāṣya., pp. 257-260; TSA, p. 16-18; see also t
 
 ## 15. Enumeration of attributes (guṇa)
 
-
 Philosophy of Charaka-samhita
 
-by Asokan. G | 2008 | 88,742 words
-
 Ayurveda, represented by Charaka and Sushruta, stands first among the sciences of Indian intellectual tradition. The Charaka-samhita, ascribed to the great celebrity Charaka, has got three strata. (1) The first stratum is the original work composed by Agnivesha, the foremost of the six disciples of Punarvasu Atreya. He accomplished the work by coll...
-
-Go directly to: 
-Footnotes.
 
 Enumeration of attributes (guṇa)
 
@@ -1189,10 +1053,6 @@ Cakrapāṇi classifies whole list of attributes into specific attributes (vaiś
 
 So the gurvādi guṇās can be treated as general physical qualities.
 
-Footnotes and references:
-
-[back to top]
-
 [1]:
 
 rūparasagandhasparśāḥ saṃkhyā parimāṇāni pṛthaktvaṃ saṃyogavibhāgau paratvāparatve buddhayaḥ sukhadukhe icchādveṣau praytnāśca guṇāḥ. Vaiśeṣikadarśana., I. i. 6.
@@ -1237,15 +1097,9 @@ Mahābhārata mentions qualities of physical elements quiet similar to that of C
 
 ## 16. General attributes (sāmānya-guṇas)
 
-
 Philosophy of Charaka-samhita
 
-by Asokan. G | 2008 | 88,742 words
-
 Ayurveda, represented by Charaka and Sushruta, stands first among the sciences of Indian intellectual tradition. The Charaka-samhita, ascribed to the great celebrity Charaka, has got three strata. (1) The first stratum is the original work composed by Agnivesha, the foremost of the six disciples of Punarvasu Atreya. He accomplished the work by coll...
-
-Go directly to: 
-Footnotes.
 
 General attributes (sāmānya-guṇas)
 
@@ -1324,10 +1178,6 @@ Velocity resides in all the five finite substances. It causes a series of motion
 Abhyāsa
 
 Abhyāsa means habit due to constant practice.[39] Saṃskāra and abhyāsa are mutually related and they have high pharmacological value.
-
-Footnotes and references:
-
-[back to top]
 
 [1]:
 
@@ -1489,15 +1339,9 @@ bhāvābhyasanamabhyāsaḥ śīlanaṃ satatakriyā, CS, Su, XXVI. 34.
 
 ## 17. Spiritual attributes (ātma-guṇas)
 
-
 Philosophy of Charaka-samhita
 
-by Asokan. G | 2008 | 88,742 words
-
 Ayurveda, represented by Charaka and Sushruta, stands first among the sciences of Indian intellectual tradition. The Charaka-samhita, ascribed to the great celebrity Charaka, has got three strata. (1) The first stratum is the original work composed by Agnivesha, the foremost of the six disciples of Punarvasu Atreya. He accomplished the work by coll...
-
-Go directly to: 
-Footnotes.
 
 Spiritual attributes (ātma-guṇas)
 
@@ -1528,10 +1372,6 @@ These attributes are again described (in a different order) as being produced in
 Thus, Caraka's list of attributes is a large one which contains fortyone attributes. From the above description it is clear that though the majority of terms used are those used by Kaṇāda, they are mostly different in sense. In fact, Caraka has given his own schemata in order to suit the purpose of Āyurveda.
 
 The knowledge of the attributes, particularly the general physical attributes and rasa have a vital role in determining the physical, chemicophysical and pharmacological properties of substances and in ascertaining etiology, symptomatology and treatment of diseases. The essential knowledge in this respect is that of vīrya, vipāka, and prabhāva. The theory of rasa has deeper reaches in Āyurveda and it is not possible to describe them in detail here since it is beyond the scope of the present study.
-
-Footnotes and references:
-
-[back to top]
 
 [1]:
 
@@ -1573,15 +1413,9 @@ buddhyādayo bhāvanāntā ātmaguṇāḥ, Nyāyakandalī on Praśastapādabhā
 
 ## 18. Twenty general physical attributes
 
-
 Philosophy of Charaka-samhita
 
-by Asokan. G | 2008 | 88,742 words
-
 Ayurveda, represented by Charaka and Sushruta, stands first among the sciences of Indian intellectual tradition. The Charaka-samhita, ascribed to the great celebrity Charaka, has got three strata. (1) The first stratum is the original work composed by Agnivesha, the foremost of the six disciples of Punarvasu Atreya. He accomplished the work by coll...
-
-Go directly to: 
-Footnotes.
 
 Twenty general physical attributes
 
@@ -1636,10 +1470,6 @@ Among the twenty attributes guru, śīta, uṣṇa, snigdha, and drava are the o
 Dravatva is the attribute which causes the motion of flowing.[11] It is of two types: natural (sāṃsiddhika) and artificial (naimittika) Natural is the specific quality of water and artificial is the general quality of earth.[12]
 
 Annaṃbhaṭṭa refers to laghutva and argues that it is nothing but negation of gurutva. Similarly, mṛdutva and kaṭhinatva are said as determining the relative compactness associated with conjunction of the component parts of the effect.[13]
-
-Footnotes and references:
-
-[back to top]
 
 [1]:
 
@@ -1697,15 +1527,9 @@ TSA, p. 5.
 
 ## 19. Action (karma) [in Charaka philosophy]
 
-
 Philosophy of Charaka-samhita
 
-by Asokan. G | 2008 | 88,742 words
-
 Ayurveda, represented by Charaka and Sushruta, stands first among the sciences of Indian intellectual tradition. The Charaka-samhita, ascribed to the great celebrity Charaka, has got three strata. (1) The first stratum is the original work composed by Agnivesha, the foremost of the six disciples of Punarvasu Atreya. He accomplished the work by coll...
-
-Go directly to: 
-Footnotes.
 
 Action (karma) [in Charaka philosophy]
 
@@ -1746,10 +1570,6 @@ Here the last one called is meant to include any motion not designated by the ot
 Praśastapāda comprehending all the five divisions gives a generic definition: All the five kinds of action beginning with utskṣepaṇa belong to a class of karmatva (the universal of karma). He elaborates it in the following way: action belongs to a single substance, is momentary, inheres in corporeal substances, is devoid of qualities, is caused by weight, volition, and conjunction or disjunction and is destroyed by its effect. It is an independent cause of conjunction and disjunction and is conceived as an intimate cause (asamavāyikāraṇa). It produces effects in its substratum and other substrates. It does not bring forth actions of the same class and does not create substance.[10] One significant thing to be noted in this connection is that he differentiates volitional acts from other kinds of motion. He calls all the five types of actions related to the body and the things connected with the body as conscious (satpratyaya) and all other motions as unconscious (asatpratyaya).[11]
 
 Now it is very clear that the motif of Nyāya-Vaiśeṣika is motion and that of Caraka is action. Probably Caraka has sought to give therapeutic connotation for the category karma, presumably with a view to assimilating them in the medical tradition.
-
-Footnotes and references:
-
-[back to top]
 
 [1]:
 
@@ -1799,23 +1619,15 @@ For details see Ibid., pp. 713 - 725.
 
 ## 20. Inherence (samavāya) [in Charaka philosophy]
 
-
 Philosophy of Charaka-samhita
 
-by Asokan. G | 2008 | 88,742 words
-
 Ayurveda, represented by Charaka and Sushruta, stands first among the sciences of Indian intellectual tradition. The Charaka-samhita, ascribed to the great celebrity Charaka, has got three strata. (1) The first stratum is the original work composed by Agnivesha, the foremost of the six disciples of Punarvasu Atreya. He accomplished the work by coll...
-
-Go directly to: 
-Footnotes.
 
 Inherence (samavāya) [in Charaka philosophy]
 
 Now let us recall the peculiar function of inherence (samavāya), the sixth and final category. The word samavāya is derived from the root “ay” by prefixing “sam” and “av” and by suffixing “ghañ”. It is found to be used in Pāṇini's Aṣṭādhyāyī[1] and Mīmāṃsā-Sūtra[2] in the sense of aggregation. In Vyākaraṇa-Mahābhāṣya it is juxtaposed with vyavaya. There vyavāya signifies separateness and samavāya, coming together. One of the examples cited by Patañjali is that Ministers are not free as far as their relation of samavāya is concerned and are free as far as their vyavāya is concerned.[3] Based on similar observations, Harsh Narain states that aggregation is both external, that is, caused by external pressure and internal, that is caused by internal necessity. Their phenomenon of external aggregation gave rise to the concept of conjunction as a quality, while that of internal aggregation, to the concept of inherence.[4]
 
 In the present context, as has been discerned through the doctrine of categories to know things as a conglomeration of various entities, there arises a question as to what holds the categories together and connects them to a unit. It is not possible to consider conjunction (saṃyoga) as the relation, for it is a quality which has been defined as a union of things not formerly united.[5]
-
-“It had been recognized that conjunction originates only through movement of things which connects themselves with one another and is abrogated again through the separation of things. But this does not hold true in the case of categories. There is, therefore, no union of earlier separated things, for they only occur together”.[6]
 
 “It had been recognized that conjunction originates only through movement of things which connects themselves with one another and is abrogated again through the separation of things. But this does not hold true in the case of categories. There is, therefore, no union of earlier separated things, for they only occur together”.[6]
 
@@ -1842,10 +1654,6 @@ Candrakānta Tarkālaṅkāra defines inherence as complete combination (saṃyo
 The Sāṃkhyas, the Bhaṭṭamīmāṃsakas, and the Vedāntins do not accept inherence as a separate category. The Prābhākaras and the modern Naiyāyikas consider inherence as eternal and varied.[28]
 
 It was Caraka who was the first to construe inherence as an ontological category just as universal. As far as Kaṇāda is concerned, only substance, quality, and action have ontological existence. That is why he called them by the name artha. In addition to that it was Caraka who first gave a definition distinguishing it from saṃyoga. It is saṃyoga that represent individual instances of conjunction. He has clearly stated that it is eternal and will not be destroyed by the behaviour of the related tentities. So it was Caraka who was the first construe inherence as eternal.
-
-Footnotes and references:
-
-[back to top]
 
 [1]:
 
@@ -1963,15 +1771,9 @@ Nyāyakośa., pp. 961-62; CSP, p. 263.
 
 ## 21. Universal (sāmānya) and Particularity (viśeṣa) [in Charaka philosophy]
 
-
 Philosophy of Charaka-samhita
 
-by Asokan. G | 2008 | 88,742 words
-
 Ayurveda, represented by Charaka and Sushruta, stands first among the sciences of Indian intellectual tradition. The Charaka-samhita, ascribed to the great celebrity Charaka, has got three strata. (1) The first stratum is the original work composed by Agnivesha, the foremost of the six disciples of Punarvasu Atreya. He accomplished the work by coll...
-
-Go directly to: 
-Footnotes.
 
 Universal (sāmānya) and Particularity (viśeṣa) [in Charaka philosophy]
 
@@ -2029,8 +1831,6 @@ It is on the basis of this paradigm shift that Caraka gives a pragmatic orientat
 
 “In the Vaiśeṣika system the word sāmānya means a class concept; but here it means the concrete things which have similar constituents or characteristics; and viśeṣa which means in Vaiśeṣika, ultimate specific properties differentiating one atom from another, means in Caraka concrete things dissimilar and opposite constituents or characteristics”.[43]
 
-“In the Vaiśeṣika system the word sāmānya means a class concept; but here it means the concrete things which have similar constituents or characteristics; and viśeṣa which means in Vaiśeṣika, ultimate specific properties differentiating one atom from another, means in Caraka concrete things dissimilar and opposite constituents or characteristics”.[43]
-
 Though the statement is confusing, the point that sāmānya and viśeṣa are not conceptual is quiet evident. Vinayaka Jayananda Thakkar also expresses the very same idea. He says that ekatvakara means not only the unification at the conceptual level but also at the practical level in such a way that, universals brings about the equipoise of the dhātus from the point of view of treatment.[44] Unless they have an ontological existence, they would not have a practical relevance.
 
 The crux of the paradigm shift is that Caraka assumes a dichotomic function of the said property at the objective level which in turn gives a more logical and scientific orientation to Āyurveda. It is on the basis of this dichotomic function of the “universal particularities” that he evolves the theory of increase (vṛddhi) and decrease (hrāsa) of the entities of the physical world. In other words, it is the final determinant of the equilibrium of man and nature. In Āyurvedic context it is applied as the cardinal principle of treatment.
@@ -2082,10 +1882,6 @@ Now, from the facts furnished above we can conclude that what Caraka has done is
 Kaṇāda provided the initial doctrine of the ultimate universal, “universal particularity” and ultimate particularity in a conceptualistic way. Caraka has sorted out the “universal particularity” after excluding the ultimate universal “being” (sattā) which is of the widest extension and the ultimate particularity (antyaviśeṣa) which is of the smallest extension. Further, they are recognized as intrinsic, non-accidental entities inhering in substances, qualities and motions functioning as causal determinants or causal delimiters of increase and decrease. In essence, it is construed as the causal determinant of equipoise.
 
 This was actually a shift in perspective. It was a shift which made possible the actualization of a philosophical abstraction to a pragmatic orientation which gave Āyurveda a scientific temper and made it move. But it was not without exceptions. Certain lapses are found to affect the negative and positive invariable relation between increase and universal. Cakrapāṇi, by attributing specific power (prabhāva) and absence of obstruction, has tried to remove such imperfections taking into consideration some of the later developments in the Nyāya - Vaiśeṣika system of philosophy.
-
-Footnotes and references:
-
-[back to top]
 
 [1]:
 
@@ -2403,15 +2199,9 @@ Kiraṇāvalī of Udayanācārya., p. 321; See NSMK. pp. 46 - 48.
 
 ## 22. Fundamental Categories (padārtha or tattva) [in Charaka philosophy]
 
-
 Philosophy of Charaka-samhita
 
-by Asokan. G | 2008 | 88,742 words
-
 Ayurveda, represented by Charaka and Sushruta, stands first among the sciences of Indian intellectual tradition. The Charaka-samhita, ascribed to the great celebrity Charaka, has got three strata. (1) The first stratum is the original work composed by Agnivesha, the foremost of the six disciples of Punarvasu Atreya. He accomplished the work by coll...
-
-Go directly to: 
-Footnotes.
 
 Fundamental Categories (padārtha or tattva) [in Charaka philosophy]
 
@@ -2484,10 +2274,6 @@ Carakasaṃhitā is a treaty on Āyurveda and as such the entities enumerated in
 It is true that the Carakasaṃhitā indiscriminately deals with the world en masse, its general nature and behaviour and nature of occurrences of particular events, without separating scientific and philosophical fields and methods of investigation from one another. In that sense they are ontological categories. But, the thing is that its metaphysical conceptions are based on the speculations of the early monistic Sāṃkhya and not on the pluralistic Vaiśeṣika. So the categories enumerated should not be confused with the padārthas of Vaiśeṣika-sūtra.[42] The doctrinal thesis regarding “being and becoming” are different. However, we shall have occasion to know it in detail again and again in the forthcoming chapters. The six entities enumerated by Caraka have their own signification and their scope co-exists mainly with the empirical realities.
 
 Thus, it can be concluded that the categories, though presuppose the Vaiśeṣika-sūtra, are in no way a reiteration, but they are the categories fundamental to Āyurveda.
-
-Footnotes and references:
-
-[back to top]
 
 [1]:
 
@@ -2661,10 +2447,7 @@ Caraka does not use the term padārtha or any such general term for the categori
 
 ## 23. Chapter 3 - Fundamental Theories
 
-
 Philosophy of Charaka-samhita
-
-by Asokan. G | 2008 | 88,742 words
 
 Ayurveda, represented by Charaka and Sushruta, stands first among the sciences of Indian intellectual tradition. The Charaka-samhita, ascribed to the great celebrity Charaka, has got three strata. (1) The first stratum is the original work composed by Agnivesha, the foremost of the six disciples of Punarvasu Atreya. He accomplished the work by coll...
 
@@ -2676,25 +2459,15 @@ Chapter 3 - Fundamental Theories
 
 ## 24. Fundamental Theories [in Charaka philosophy]
 
-
 Philosophy of Charaka-samhita
 
-by Asokan. G | 2008 | 88,742 words
-
 Ayurveda, represented by Charaka and Sushruta, stands first among the sciences of Indian intellectual tradition. The Charaka-samhita, ascribed to the great celebrity Charaka, has got three strata. (1) The first stratum is the original work composed by Agnivesha, the foremost of the six disciples of Punarvasu Atreya. He accomplished the work by coll...
-
-Go directly to: 
-Footnotes.
 
 Fundamental Theories [in Charaka philosophy]
 
 Cosmology, the theory of five physical elements (pañcabhūtasiddhānta), and the theory of “three faults”[1] (tridoṣasiddhānta) are the most important fundamental theories of Āyurveda.
 
 A real understanding of man and the world presupposes the knowledge of the world constituents. Without ascertaining their real nature, their role in world construction, and also the recurrent events of origin and destruction, it is not possible to arrive at a true or at least satisfactory conclusion regarding their role in human existence. This is most essential in Āyurveda because the coceptualisation and practice of therapeutics solely depend on the theoretical concepts of world constitution. Āyurveda is scientifically established on the foundation of the theory of five physical elements,[2] the edifice being the theory of three faults. Āyurveda explains the physiological and psychological aspects of human existence and formulates the theories for the protection and promotion of health on their basis. It is with this view that Caraka describes how the world is constructed and by what being it is peopled. The pañcabhūta theory essentially explains the structure of things, on which the particular qualities and properties are based.[3] Āyurveda tries to understand the pharmacology, pathology, human physiology, medicine and therapeutics on the basis of the pañcabhūta doctrine.[4] The theory of the three faults (tridoṣasiddhānta) is a biological interpretation of the pañcabhūtasiddhānta. So, it is essential to have a thorough knowledge of the fundamental theories of cosmology, the five physical elements (pañcabhūtas), and the three faults (tridoṣa). Time and space, the two substances, also share importance in therapeutucs. So they are also discussed in this chapter.
-
-Footnotes and references:
-
-[back to top]
 
 [1]:
 
@@ -2716,15 +2489,9 @@ see editors note, Rasavaiśeṣika-sūtra of Bhadantanāgarjuna., p. 1.
 
 ## 25. Cosmology [in Charaka philosophy]
 
-
 Philosophy of Charaka-samhita
 
-by Asokan. G | 2008 | 88,742 words
-
 Ayurveda, represented by Charaka and Sushruta, stands first among the sciences of Indian intellectual tradition. The Charaka-samhita, ascribed to the great celebrity Charaka, has got three strata. (1) The first stratum is the original work composed by Agnivesha, the foremost of the six disciples of Punarvasu Atreya. He accomplished the work by coll...
-
-Go directly to: 
-Footnotes.
 
 Cosmology [in Charaka philosophy]
 
@@ -2781,10 +2548,6 @@ The differences can be summed up as follows.
 7. The sense organs are conceived as evolutes of modified “I consciousness” in the classical Sāṃkhya while they are considered as the evolutes of their respective gross elements (bhautika).
 
 It may be useful to offer the charts of both the classical Sāṃkhya and Carakasaṃhitā which would give an apparent view of the materials presented to make a comparison.
-
-Footnotes and references:
-
-[back to top]
 
 [1]:
 
@@ -2950,15 +2713,9 @@ Caraka has used the word “paramāṇu”. But it is not in the sense of ultima
 
 ## 26. The theory of five physical substances (pañcabhūta-siddhānta)
 
-
 Philosophy of Charaka-samhita
 
-by Asokan. G | 2008 | 88,742 words
-
 Ayurveda, represented by Charaka and Sushruta, stands first among the sciences of Indian intellectual tradition. The Charaka-samhita, ascribed to the great celebrity Charaka, has got three strata. (1) The first stratum is the original work composed by Agnivesha, the foremost of the six disciples of Punarvasu Atreya. He accomplished the work by coll...
-
-Go directly to: 
-Footnotes.
 
 The theory of five physical substances (pañcabhūta-siddhānta)
 
@@ -2973,8 +2730,6 @@ In Suśruta the evolution of gross elements (mahābhūtas) is described in a qui
 The Vedāntins proposes an arithmetical formula in the process of mutual involvement of the “simple subtle physical elements” (apancikkrtabhūta/tanmatra).[12] According to them gross elements are produced by the combination of the subtle elements particularly possesed of the ingredient tamas. The process by which they evolve is also called pañcīkaraṇa.[13] The theory of pañcīkaraṇa presuposes the idea that, the preponderant mahābhūta gets 50% share in the composition while the remaining four 12½% each.[14]
 
 Referring to this, Dr. B. N. Seal says:
-
-“Like the Vedāntists, Caraka held that each of the gross bhūtas (mahābhūtas) is a particular ultra chemical compound of five original subtle bhūtas. In this sense, every substance is pentabhautic, but for purposes of chemical anaysis and synthesis, that is considered with reference to the mahābhūtas, all substancess in their chemical constitution belong to one or other of the following classes: monobhautic, bibhautic, tribhautic, tetrabhautic, and pentabatic. Further these compounds combine to form more complex substances gradually giving rise to organic substances and products.”[15]
 
 “Like the Vedāntists, Caraka held that each of the gross bhūtas (mahābhūtas) is a particular ultra chemical compound of five original subtle bhūtas. In this sense, every substance is pentabhautic, but for purposes of chemical anaysis and synthesis, that is considered with reference to the mahābhūtas, all substancess in their chemical constitution belong to one or other of the following classes: monobhautic, bibhautic, tribhautic, tetrabhautic, and pentabatic. Further these compounds combine to form more complex substances gradually giving rise to organic substances and products.”[15]
 
@@ -3017,10 +2772,6 @@ Air: Light (laghu), cold (śīta), dry (rūkṣa), rough (khara), non-slimy (vi�
 This enumeration is reiterated by Suśruta[36] and Vāgbhaṭa.[37]
 
 The pañcabhūta siddhānta of Caraka has got its own originality and in no way it can be equated with the concepts in other systems of thought. The idea of the successive emanation of the gross elements, the enumeration of the specific qualities sensible to touch and also the general physical qualities and the conception of the minerals like gold as earthly substance instead of fiery are some of the important salient features which add to the novelty.
-
-Footnotes and references:
-
-[back to top]
 
 [1]:
 
@@ -3175,15 +2926,9 @@ Aṣṭāṅgasaṅgraha of Vāgbhaṭa., XVII. p. 238
 
 ## 27. Time and space [in Charaka philosophy]
 
-
 Philosophy of Charaka-samhita
 
-by Asokan. G | 2008 | 88,742 words
-
 Ayurveda, represented by Charaka and Sushruta, stands first among the sciences of Indian intellectual tradition. The Charaka-samhita, ascribed to the great celebrity Charaka, has got three strata. (1) The first stratum is the original work composed by Agnivesha, the foremost of the six disciples of Punarvasu Atreya. He accomplished the work by coll...
-
-Go directly to: 
-Footnotes.
 
 Time and space [in Charaka philosophy]
 
@@ -3202,10 +2947,6 @@ In this connection, it is to be noted that Ayurveda has again postulated the con
 Space
 
 Space, in Nyāya-Vaiśeṣika, is construed as the cause of the notions such as east and west.[15] In Caraka, dik refers to deśa or habitate which determines the characteristics of substances due to procreation and extend of drugs or their acclimatization to the region.[16] For instance drugs which grow in the Himalayas are very efficatious and those in deserts are light. Such habitats are classified into three: (i) jāṅgala, (2) anūpa, and (3) sadhāraṇa.[17] Carak gives a vast description for identifying these three habitates. In Aśṭāṅgahṛdaya, it is stated that jāṅgala habitates are those which are predominated by vāta; Anūpa habitats are those predominated by kapha, and the sādhāraṇa are those which have thee equipoise of the doṣās.[18] The description of time and space thus made by Caraka is purely for the treatment and maintenance of health and not from the point of view of metaphysical enquiry.
-
-Footnotes and references:
-
-[back to top]
 
 [1]:
 
@@ -3283,15 +3024,9 @@ Aṣṭāṅgahṛdaya of Vāgbhaṭa., Su, I. 23.
 
 ## 28. World Construction (Sāṃkhya and Caraka)
 
-
 Philosophy of Charaka-samhita
 
-by Asokan. G | 2008 | 88,742 words
-
 Ayurveda, represented by Charaka and Sushruta, stands first among the sciences of Indian intellectual tradition. The Charaka-samhita, ascribed to the great celebrity Charaka, has got three strata. (1) The first stratum is the original work composed by Agnivesha, the foremost of the six disciples of Punarvasu Atreya. He accomplished the work by coll...
-
-Go directly to: 
-Footnotes.
 
 World Construction (Sāṃkhya and Caraka)
 
@@ -3306,8 +3041,6 @@ Eleven sense capacities (ekadaśendriyāṇi) — five subtle elements (pañcata
 
 Five sense capacities of cognition (buddhīndriyās)
 
-Five sense capacities of cognition (buddhīndriyās)
-
 hearing (śrotra) — sound (śabda)
 
 touch (tvak) — touch (sparśa)
@@ -3319,8 +3052,6 @@ tasting (rasana) — taste (rasa)
 smelling (ghrāṇa) — smell (gandha)
 
 Mind (both sense capacity and action capacity) — Five Gross Elements (pañcamahābhūtas)
-
-Five action capacities (karmendriyās)
 
 Five action capacities (karmendriyās)
 
@@ -3349,8 +3080,6 @@ Ten sense capacities (daśendriyāṇi) — Mind (manas) — Five objects of se
 
 Five sense capacities of cognition (jñānendriyāṇi)
 
-Five sense capacities of cognition (jñānendriyāṇi)
-
 1. hearing (śrotra) — sound (śabda)
 
 touching (tvak) — touch (sparśa)
@@ -3360,8 +3089,6 @@ seeing (cakṣu) — colour (rūpa)
 tasting (rasana) — taste (rasa)
 
 smelling (ghrāṇa) — smell (gandha)
-
-Five sense capacities of a action (karmendriyāṇi)
 
 Five sense capacities of a action (karmendriyāṇi)
 
@@ -3388,10 +3115,6 @@ Dasgupta who makes a penetrating analysis of the origin and significance of the 
 Another notable aspect of the Caraka-Sāṃkhya is that it shows considerable similarity with the Sāṃkhya speculation found in the twelfth canto of the Buddhacarita of Aśvaghoṣa where Arāda the former teacher of the Buddha is to offer it. Suffice to say that both Caraka and Aśvaghoṣa classify all the twenty-four entities into two groups. The first group comprises of avyakta, mahat, ahaṃkāra and the five gross elements under the name prakṛti and the second group consists of ten sense organs, the mind and the five objects of senses.[18] Similar to that of Caraka, the Buddhacarita also does not include the doctrine of guṇas in the classical sense. Avyakta is accepted as the ultimate ground of everything. The tanmātras are also not mentioned in the Buddhacarita. The plurality of puruṣa also is not accepted. Both of them speak of the field (kṣetra) and field knower (kṣetrajña).[19] With slight variations both of them enumerate and define the cause of miseries in the same way. Accordingly, delusion (moha), desire (iccha), hatred (dveṣa), and volition (karma) as the root cause of each and every action result in miseries by way of generating “I consciousness” (ahaṃkāra), attachment (saṅga), doubt (saṃśaya), vanity (abhisaṃplava), selfish dispositions(abhyavapādta), eroneous knowledge (vipratyaya) lack of discrimination (aviśeṣa) and adherence to rituals, priesthood, and begging. All these eight factors obstruct one to transcend his worldly existence.[20] Taking this into consideration, Larson states that all the three, that is, Caraka, Pañcaśikha and Aśvaghoṣa, are influenced by a common Sāṃkhya-yoga tradition.[21]
 
 Anyway there can be no doubt that the Carakasāṃkhya represents one of the earliest available expositions of Sāṃkhya. What Caraka gives in his exposition is of natural cosmological-psychological character. Its centerpiece is the conception of the inner self as the field knower (kṣetrajña) and the psycho-somatic complex as the field (kṣetra) for the whole of therapeutics hinges on it.
-
-Footnotes and references:
-
-[back to top]
 
 [1]:
 
@@ -3489,10 +3212,7 @@ JJL, p.107.
 
 ## 29. Chapter 4 - Self (Puruṣa)
 
-
 Philosophy of Charaka-samhita
-
-by Asokan. G | 2008 | 88,742 words
 
 Ayurveda, represented by Charaka and Sushruta, stands first among the sciences of Indian intellectual tradition. The Charaka-samhita, ascribed to the great celebrity Charaka, has got three strata. (1) The first stratum is the original work composed by Agnivesha, the foremost of the six disciples of Punarvasu Atreya. He accomplished the work by coll...
 
@@ -3504,15 +3224,9 @@ Chapter 4 - Self (Puruṣa)
 
 ## 30. Self (Puruṣa) [in Charaka philosophy]
 
-
 Philosophy of Charaka-samhita
 
-by Asokan. G | 2008 | 88,742 words
-
 Ayurveda, represented by Charaka and Sushruta, stands first among the sciences of Indian intellectual tradition. The Charaka-samhita, ascribed to the great celebrity Charaka, has got three strata. (1) The first stratum is the original work composed by Agnivesha, the foremost of the six disciples of Punarvasu Atreya. He accomplished the work by coll...
-
-Go directly to: 
-Footnotes.
 
 Self (Puruṣa) [in Charaka philosophy]
 
@@ -3553,10 +3267,6 @@ cetanādhātupuruṣa,
 caturviṃśatikapuruṣa,
 
 ṣaḍdhātujapuruṣa.
-
-Footnotes and references:
-
-[back to top]
 
 [1]:
 
@@ -3658,15 +3368,9 @@ In CS the word puruṣa is used in the sense of human being, male, inner self an
 
 ## 31. The theory of three faults (tridoṣa-siddhānta)
 
-
 Philosophy of Charaka-samhita
 
-by Asokan. G | 2008 | 88,742 words
-
 Ayurveda, represented by Charaka and Sushruta, stands first among the sciences of Indian intellectual tradition. The Charaka-samhita, ascribed to the great celebrity Charaka, has got three strata. (1) The first stratum is the original work composed by Agnivesha, the foremost of the six disciples of Punarvasu Atreya. He accomplished the work by coll...
-
-Go directly to: 
-Footnotes.
 
 The theory of three faults (tridoṣa-siddhānta)
 
@@ -3697,10 +3401,6 @@ When vāta, pitta and kapha become deficient or excess in quantity (prakupita) t
 We know that the doṣa are mutually contradictory in character. Normally, when two contradictory elements combine, they generally get destroyed as in the case of fire and water. Cakrapāṇi, pointing out this example, suggests that there is the possibility for the question as to how the doṣas with contradictory character can combine and then he himself settles the query. He says that mutual contradiction is to be determined by their own action and not merely by citing other illustrations. Even in the cited example itself, though water and fire are contradictory to each other they do no obstruct the combination of the five mahābhūtas. Similarly, the sour taste is found to be caused by the domination of the combined qualities of water and fire. This would not be possible if the mutually contradictory elements do not combine together. Finally he ascertains that it is because of the presence of the specific characteristic of prabhāva, the doṣas with contradictory nature combine together. As for as the specific characteristic of prabhāva is concerned, he says that it is caused by adṛṣṭa[23] for adṛṣṭa is capable of causing miseries.[24]
 
 Another thing to be noted in this connection is that when there is a disease due to the predominance of a doṣa (caused by extraneous factors) corresponding to the predominant doṣa in one's constitution from his birth, the newly collected doṣa produces morbidity in accordance with the working of the predominating doṣa of his constitution. But his original constitutional doṣa (prākṛti) is never increased or decreased due to the predominance of a doṣa by any kind of disease. They always remain the same operating in their physiological functions. The constitutional doṣa (prākṛti) and the accumulated doṣa due to extraneous factors (vaikṛti) are different. The increase and decrease of doṣas have a separate course of action in diseases and there is no interchange between the latter collections or deficiency of doṣas and constitutional doṣas.[25] The actual fact regarding the relation of the constitutional doṣa and the accrued or deficient doṣa has been further pointed out by Cakrapāṇi. That is a doṣa will be aggravated in a system in which the corresponding constitutional doṣa is predominant and a doṣa will lose its strength to a great extend in a system in which the corresponding constitutional doṣa is not predominant.[26]
-
-Footnotes and references:
-
-[back to top]
 
 [1]:
 
@@ -3810,10 +3510,7 @@ samānaṃ hi prakṛtiṃ prāpya doṣaḥ pravṛddhabalo bhavati, asamāna�
 
 ## 32. Chapter 5 - The Complete Man
 
-
 Philosophy of Charaka-samhita
-
-by Asokan. G | 2008 | 88,742 words
 
 Ayurveda, represented by Charaka and Sushruta, stands first among the sciences of Indian intellectual tradition. The Charaka-samhita, ascribed to the great celebrity Charaka, has got three strata. (1) The first stratum is the original work composed by Agnivesha, the foremost of the six disciples of Punarvasu Atreya. He accomplished the work by coll...
 
@@ -3825,15 +3522,9 @@ Chapter 5 - The Complete Man
 
 ## 33. The locations, qualities, and the functions of the doṣas
 
-
 Philosophy of Charaka-samhita
 
-by Asokan. G | 2008 | 88,742 words
-
 Ayurveda, represented by Charaka and Sushruta, stands first among the sciences of Indian intellectual tradition. The Charaka-samhita, ascribed to the great celebrity Charaka, has got three strata. (1) The first stratum is the original work composed by Agnivesha, the foremost of the six disciples of Punarvasu Atreya. He accomplished the work by coll...
-
-Go directly to: 
-Footnotes.
 
 The locations, qualities, and the functions of the doṣas
 
@@ -3874,10 +3565,6 @@ Kapha sweet, sour, and saline. — pungent, bitter, and astringent.[22]
 S.K. Ramachandra suggests that vāta, pitta, and kapha are charectarised by the three modes: rajas, sattva, and tamas.[23] Similarly Dwarakanath says that, at the functional level, vāta is primarily rajastic, pitta is predominently sāttvic and kapha is mainly tāmasic.[24] All these reflect the attempts to associate the tridoṣasiddhānta with the triguṇa theory. But such a correspondence of the thridoṣa to the triguṇa, cannot be explained on the basis of the Carakasaṃhitā because Caraka does not postulate such a triguṇa theory as we see in Suśrutasaṃhitā or in classical Sāṃkhya. Probably such an attempt to co-ordinate tridoṣa with triguṇa might have been due to the influence of the idea in Suśrutasaṃhitā. There it is stated that ākaśa is predominantly sāttvik, vayu is primarily rajastic, fire is sāttvic as well as rajastic, water is primarly both tāmasic and sāttvic and earth is tāmasic.[25] “Somehow, the reference of such a correspondence is seen to occur first in the Dalhaṇa's commentary on the Suśrutasaṃhitā”.[26] However, it is misleading, since, on Samkhya terms kapha, vata and pitta are primarily related to the functioning of the gross, material body. Hence they are the products of gross physical elements. This would make all the three predominantly tamasic in nature'.[27] The state of affairs becomes more intricate, since, according to classical Sāṃkhya the divine realm is mainly sattvic, the human realm is predominantly rajastic and plant realm or the immobile beings is primarily tamasic.[28] So the subject matter of Āyurveda, that is health and harmony, is always working within a system that is predominantly rajastic in nature. “Nevertheless, as an internal system of differentiation working with the broader cosmological scheme of Sāmkhya school, pitta does not correspond to sattva as vāta to rajas and kapha to tamas”.[29]
 
 All these have been stated only to inform that the theory of the three doṣas has been formulated on the concrete basis of the concept of pañcabhūtas. In fact, it is a biological interpretation of the pañcabhūtasiddhānta. However, the description of the physiological and pathological aspects of tridoṣa in detail is beyond the scope of this work.
-
-Footnotes and references:
-
-[back to top]
 
 [1]:
 
@@ -4001,15 +3688,9 @@ IHBT, p.170.
 
 ## 34. Man as a constitution of six elements (ṣaḍdhātja-puruṣa)
 
-
 Philosophy of Charaka-samhita
 
-by Asokan. G | 2008 | 88,742 words
-
 Ayurveda, represented by Charaka and Sushruta, stands first among the sciences of Indian intellectual tradition. The Charaka-samhita, ascribed to the great celebrity Charaka, has got three strata. (1) The first stratum is the original work composed by Agnivesha, the foremost of the six disciples of Punarvasu Atreya. He accomplished the work by coll...
-
-Go directly to: 
-Footnotes.
 
 Man as a constitution of six elements (ṣaḍdhātja-puruṣa)
 
@@ -4018,8 +3699,6 @@ It is something peculiar that Caraka construes a third division of puruṣa call
 Ṣaḍdhātujapuruṣa is a constitution of six elements, namely the self and the five physical elements[1] . As a matter of fact, ṣaḍdhātujapuruṣa is the very same rāśipuruṣa. The constituents other than the six mentioned above as the constituents of rāśipuruṣa are only further emanations from the physical elements. Suśruta also describes man in a similar manner. Accordingly, human being, the object of therapeutics, is a constitution of the very same six elements. Suśruta calls it by the name karmapuruṣa.[2]
 
 Taking into account of the similarity of both ṣaḍdhātujapuruṣa of Caraka and karmapuruṣa of Suśṛuta S.K. Ramachandra Rao makes the following observations:
-
-“The individual person, who is essentially dynamic and is a product of transaction, is known in Āyurveda by two expressions: karmapuruṣa (Suśruta) and saṃyogipuruṣa (Caraka). The former word emphasizes the activity aspect, while the latter, the integrational aspect. Both words bring out the phenomenological, transactional, and dynamic characters of the individual”.[3]
 
 “The individual person, who is essentially dynamic and is a product of transaction, is known in Āyurveda by two expressions: karmapuruṣa (Suśruta) and saṃyogipuruṣa (Caraka). The former word emphasizes the activity aspect, while the latter, the integrational aspect. Both words bring out the phenomenological, transactional, and dynamic characters of the individual”.[3]
 
@@ -4046,10 +3725,6 @@ Man is conceived as a totality of realities. Man is the medium of all values, an
 Thus, the knowledge promulgated by Caraka is capable of releasing man from his objective centered behaviourism. He is circumspect of the fact that the knowledge will not be complete without knowing what is divine in him. Human nature has the tendency of turning the self to lower and ephemeral exterior objects. So, Caraka redirects our attention from what is human to what is divine also. He advises us to know man by taking into consideration the deeply felt inner need of human nature. He analyses man taking into consideration every aspect of human nature, his intentions, and purpose of life which science does not tell us.
 
 Above all, the concept of micro-macro relationship of man and the universe lies in the fact that it forms the basis of all tenets regarding treatment and management of health.It is on the basis of the discovered identical nature of the world and man and the laws governing them that the material things are applied to the biological field. When the extrinsic world comes into contact with man externally or internally, the equipoise of the dhātus are caused by their increase or decrease. Hence the therapeutic approach essentially becomes holistic and it contributes to the medical science.
-
-Footnotes and references:
-
-[back to top]
 
 [1]:
 
@@ -4105,15 +3780,9 @@ CS, Śārīra - sthāna, V. 5.
 
 ## 35. Composite man (rāśi-puruṣa)
 
-
 Philosophy of Charaka-samhita
 
-by Asokan. G | 2008 | 88,742 words
-
 Ayurveda, represented by Charaka and Sushruta, stands first among the sciences of Indian intellectual tradition. The Charaka-samhita, ascribed to the great celebrity Charaka, has got three strata. (1) The first stratum is the original work composed by Agnivesha, the foremost of the six disciples of Punarvasu Atreya. He accomplished the work by coll...
-
-Go directly to: 
-Footnotes.
 
 Composite man (rāśi-puruṣa)
 
@@ -4124,10 +3793,6 @@ Pulinbihari Chakravarti opines that it is better to treat composite man (rāśip
 The inner self (antarātmā), as has been stated earlier, is conscious. The empirical consciousness or knowledge is called buddhi. This consciousness becomes active when there is the contact with the instruments of knowledge.[14] The self renders the other constituents organised, integrated, and sentient. It is the supreme upholder or the one who bears all the entities that constitute the rāśipuruṣa to form a phenomenological unity making it enlivened.[15] The body and the instruments of knowledge are in a fleeting flux. So there should be a permanent entity to act and enjoy the fruit of its actions. Otherwise the doer won't enjoy the fruits of their actions.[16] This substantial cause is nothing but the inner self. Being eternal, it is able to unite itself with its past and future experiences. If the self were not static and eternal, it could not unite itself with all its past experiences. Though ubiquitous, apprehension of the objective world is restricted to the objects with which the sense organs can establish tactile contact.[17] This is due to the limitation caused by the adjuncts, namely body and sense organs. The individual self is called by a peculiar term “field knower” (kṣetrajña) and the psycho-somatic complex including the objects of senses as “field” (kṣetra).[18] In fact, everything other than the self is a field wherein the body, mind, “I consciousness”, senses, and the elements operate as forces. All dimensions of experience are to be located in this field and are explained as due to the operation of the field forces.[19]
 
 The inner self is not different in distinct individual organisms. But it is one and the same unchanging higher “Self” (paramātmā). The difference is due the peculiarities of the stationed adjunct (upādhi), that is, the psychosomatic complex. The actions and experiences like pleasure and pain also differ according to this difference.[20] The experiences are owned by the inner self. Since the body- mind- sense complex is illumined by the consciousness of the inner self (antarātmā), they serve as sites of all experiences, desire, and the like.[21] Pleasure, pain and all their ramifications arise only when there occurs the self-mind - sense - object contact.[22] The entire body-mind complex becomes aglow with consciousness of the inner self. Thus, the phenomenal self becomes aware of the world outside and feelings within, because of the involvements of sense organs and mind.[23]
-
-Footnotes and references:
-
-[back to top]
 
 [1]:
 
@@ -4225,15 +3890,9 @@ DO, p. 24.
 
 ## 36. The Foundational “Self” (cetanādhātu)
 
-
 Philosophy of Charaka-samhita
 
-by Asokan. G | 2008 | 88,742 words
-
 Ayurveda, represented by Charaka and Sushruta, stands first among the sciences of Indian intellectual tradition. The Charaka-samhita, ascribed to the great celebrity Charaka, has got three strata. (1) The first stratum is the original work composed by Agnivesha, the foremost of the six disciples of Punarvasu Atreya. He accomplished the work by coll...
-
-Go directly to: 
-Footnotes.
 
 The Foundational “Self” (cetanādhātu)
 
@@ -4286,10 +3945,6 @@ In classical Sāṃkhya, the self is referred to by the word puruṣa. Unlike Ca
 Puruṣa or Brahman, as construed by Caraka, is the all pervading essence, that is, the essence which permeated the object in all its form and changes. Accordingly, the omniscient and omnipotent Brahman is the source or the foundational cause from which occur the birth, continuance, growth, transformation, decay, and death. But it should not be equated with the concept of Brahman in Advaita-Vedānta, for it considers this world as illusion (maya).[51] For Caraka, the world is not an illusion (māya) but a reality. Puruṣa is the ultimate “being”. In the Vedāntic terminology puruṣa is simultaneously the substantial and the efficient cause or "abhinnanimittopadanakaraṇa' of the world. The origin of the world is a result of evolution (pariṇāma) and not vivarta as has been postulated by the Advaita-Vedāntins. The basic difference between evolution and vivarta is that the former is a real transition while the latter is an unreal one.76 Accordingly, for Caraka the relation between the universal “Self” and the world can be "identity in difference' (bhedābheda).[52]
 
 Thus Caraka, though agrees with the Vedāntins who call it Brahman, says that the foundational principle of unity differs in his vision regarding its real nature. According to him, cetanādhātu-puruṣa or Brahman is not pure consciousness nor without consciousness, but conscious. The peculiar way of the description of the conscious puruṣa as the foundation of the world of diversity and the origin of the world as a real manifestation of the “unmanifest” differentiates Caraka's concept of “Self” from the conceptions of “Self” in other philosophical systems.
-
-Footnotes and references:
-
-[back to top]
 
 [1]:
 
@@ -4505,15 +4160,9 @@ Bhaskarācārya, the commentator of Brahmasūtra., has promulgated the philosoph
 
 ## 37. Proof for the existence of the inner self
 
-
 Philosophy of Charaka-samhita
 
-by Asokan. G | 2008 | 88,742 words
-
 Ayurveda, represented by Charaka and Sushruta, stands first among the sciences of Indian intellectual tradition. The Charaka-samhita, ascribed to the great celebrity Charaka, has got three strata. (1) The first stratum is the original work composed by Agnivesha, the foremost of the six disciples of Punarvasu Atreya. He accomplished the work by coll...
-
-Go directly to: 
-Footnotes.
 
 Proof for the existence of the inner self
 
@@ -4522,10 +4171,6 @@ If the foundational “Self” is beyond thought and cognition, Caraka holds tha
 Caraka, further, gives a long list of signs as proofs for the existence of self: (1) The ascending and the descending life breath (prāṇāpānau), (2) twinkling of the eye (nimeṣādyāḥ), (3) life (jīvanaṃ), (4) movement of the mind (manaso gatiḥ), (5) shift from sense to sense in cognition and action (indriyāntarasancāraḥ), (6) mobility and stability (preraṇaṃ dhāranaṃ) (7) journey to the other world in dream (deśāntaragatiḥ svapne), (8) anticipation of death (pañcatvagrahaṇaṃ) (9) recognition of an object by the left eye that has been perceived by the right eye (dṛṣṭasya dakṣiṇenākṣṇā savyenāvagama), and (10) desire (icchā), avertion (dveśaḥ), pleasure (sukha), pain (duḥkha), volition (prayatna), consciousness (cetana), stability (dhṛti), knowledge (buddhi), memory (smṛti) as well as “I consciousness” (ahaṃkāra).[1]
 
 The most striking point in this respect is that the indicators mentioned above are employed by both Kaṇāda in his Vaiśeṣika-sūtra[2] and Akṣapāda in his Nyāya-sūtra[3] to establish the existence of the inner self with certain minor differences. Both of them mainly avoid the indicators of the journey to the other world and anticipation of death. However, things like the journey to the otherworld and anticipation of death cannot be taken into consideration as proofs for the existence of the self, for such things are to be established by further reasoning. Signs like desire, aversion, volition, pleasure, and pain are the commonly accepted proofs.
-
-Footnotes and references:
-
-[back to top]
 
 [1]:
 
@@ -4543,15 +4188,9 @@ icchādveṣapraytnasukhaduḥkhajñānanyātmno liṅgamiti, Nyāyasūtra.,I. i
 
 ## 38. Mind [in Charaka philosophy]
 
-
 Philosophy of Charaka-samhita
 
-by Asokan. G | 2008 | 88,742 words
-
 Ayurveda, represented by Charaka and Sushruta, stands first among the sciences of Indian intellectual tradition. The Charaka-samhita, ascribed to the great celebrity Charaka, has got three strata. (1) The first stratum is the original work composed by Agnivesha, the foremost of the six disciples of Punarvasu Atreya. He accomplished the work by coll...
-
-Go directly to: 
-Footnotes.
 
 Mind [in Charaka philosophy]
 
@@ -4612,10 +4251,6 @@ It is a fact that every mental state influences the bodily condition, which in t
 But, as a matter of fact, there is no difficulty in explaining the interaction between the bodily states and the internal states because the conscious self, the radiated mind, and the body are in contact with each other and together they form the body-mind self complex. Actually, in final analysis, mind is not spiritual. It is a unity of sattva, rajas and tamas which are subject to change. Self is the real unchanging spiritual substance for it is the substratum of consciousness. Mind is called spiritual in the sense that it is being radiated by the consciousness of the self. Above all, Caraka does not consider mind and matter as ontologically different and irreducible. On the contrary, he accepts a unity at the ontological level for both mind and body are the manifestations of the unmanifest. Both the mind and the body emerge from the unmanifest and merge into the same. So there is no problem in assuming the psycho-somatic interaction.
 
 The account of mind given by Caraka is mainly based on the analysis in the light of his metaphysical as well as anatomical and physiological conceptions. If we look at the above description, it can be seen that his theoretical conception of mind contains some of the ideas found in other systems. For instance, he agrees with the Nyāya- Vaiśeṣikawith regard to the atomic and unifunctional nature of mind. But he does not accept their psychophysical dualism according to which mind and matter are ontologically different. Similarly, in consonance with the Sāṃkhyas, he conceives mind as a thinker providing ground for one's personal identity. But he does not accept the medium dimension proposed by the Sāṃkhyas. In addition to that Caraka do not accept the simultaneity of cognition. It is also significant to note that the assumption in no way agrees with that of the Mīmāṃsakas. The main contradiction is that Caraka considers mind as atomic and mobile or fickle, while it is static and all-pervading for the Mīmāṃsakas. However, the assumption of the Mīmāṃsakas are not reliable, for if we accept an all-pervading static mind, then we will be forced to admit the contact of the mind with all the sense organs at a time and there would be a variety of simultaneous perceptions. Also, such a contact will continue uninterrupted and there would be no sleep.
-
-Footnotes and references:
-
-[back to top]
 
 [1]:
 
@@ -4945,10 +4580,7 @@ Raghunātha Śiromaṇi justify the non-simultanity of cognitions on the basis o
 
 ## 39. Chapter 6 - Source of Knowledge (pramāṇa)
 
-
 Philosophy of Charaka-samhita
-
-by Asokan. G | 2008 | 88,742 words
 
 Ayurveda, represented by Charaka and Sushruta, stands first among the sciences of Indian intellectual tradition. The Charaka-samhita, ascribed to the great celebrity Charaka, has got three strata. (1) The first stratum is the original work composed by Agnivesha, the foremost of the six disciples of Punarvasu Atreya. He accomplished the work by coll...
 
@@ -4960,15 +4592,9 @@ Chapter 6 - Source of Knowledge (pramāṇa)
 
 ## 40. Body (śarīra) [in Charaka philosophy]
 
-
 Philosophy of Charaka-samhita
 
-by Asokan. G | 2008 | 88,742 words
-
 Ayurveda, represented by Charaka and Sushruta, stands first among the sciences of Indian intellectual tradition. The Charaka-samhita, ascribed to the great celebrity Charaka, has got three strata. (1) The first stratum is the original work composed by Agnivesha, the foremost of the six disciples of Punarvasu Atreya. He accomplished the work by coll...
-
-Go directly to: 
-Footnotes.
 
 Body (śarīra) [in Charaka philosophy]
 
@@ -5003,10 +4629,6 @@ The Yoga view is that there is no need of such an intermediate subtle body. For 
 The Nyāya-Vaiśeṣikas also do not accept such a subtle body. The Vedāntins also speak of a subtle body.Accordingly, the transmigrating subtle body (liṅgaśarīra) is constituted by the five sense capacities of action, the five sense capacities of cogntion, the fine particles of the five physical elements (apañcīkṛtabhūtas), the five divisions of the internal air (prāṇa, apāna, udāna, vyāna, and samāna), intellect, ignorance (avidā), desire, and action.{GL_NOTE::} Vijñānabhikṣu says that the subtle body is a tapering like thing no bigger than a thumb and that it pervades the whole body just like a flame that pervades the whole room.{GL_NOTE::}
 
 Though the classical Sāṃkhyas and the Vedāntins accept a subtle body as Caraka, there is a difference in their conceptions. In Carakasaṃhitā, “I consciousness”, and the ten sense capacities are not recognized as constituents of the subtle body. But in the Sāṃkhya and the Vedānta philosophy they are also recognized as the constituents of the subtle body.
-
-Footnotes and references:
-
-[back to top]
 
 [1]:
 
@@ -5108,15 +4730,9 @@ yugapajjñānānutpattirmanaso liṅgaṃ, Nyāyasūtra., I. i. 16.
 
 ## 41. Knowledge (pramāṇa) [in Charaka philosophy]
 
-
 Philosophy of Charaka-samhita
 
-by Asokan. G | 2008 | 88,742 words
-
 Ayurveda, represented by Charaka and Sushruta, stands first among the sciences of Indian intellectual tradition. The Charaka-samhita, ascribed to the great celebrity Charaka, has got three strata. (1) The first stratum is the original work composed by Agnivesha, the foremost of the six disciples of Punarvasu Atreya. He accomplished the work by coll...
-
-Go directly to: 
-Footnotes.
 
 Knowledge (pramāṇa) [in Charaka philosophy]
 
@@ -5149,10 +4765,6 @@ Quite similar to the Naiyāyikas, the Bhāṭṭas define it as the instrument o
 Even though various thinkers have given their own definitions, all of them agree to the point that pramāṇas are sources of valid knowledge leading to effective activity.[19] The pramāṇas accepted by the different schools of thought are as follows: The Cārvākas admit only perception as a source of valid knowledge.[20] The Buddhists[21] and Vaiśeṣikas,[22] admit two, perception and inference; the Sāṃkhyas[23] three: perception, inference, and verbal testimony; the Naiyāyikas[24] four: perception, inference, analogy, and verbal testimony as sources of valid knowledge; the Prābhākaras[25] recognize a fifth one also, namely presumption (arthāpatti); the Bhāṭṭas[26] and the Vedāntins[27] admit one more, non-apprehension (abhāva); the Paurāṇikas[28] again adds two more, probability (saṃbhava) and tradition (aitihya).
 
 As far as Āyurveda is concerned, it has got a high pragmatic value. It makes use of the pramāṇas in diagnosis of diseases and applying therapeutic measures as has been exemplified in Carakasaṃhitā. After grasping the characteristic features of the disease from scriptural testimony, the physician examines the diseased by direct observation and inference and arrives at a conclusion regarding the disease.One who is skillful in operating this procedure seldom fails to act properly as a physician.[29]
-
-Footnotes and references:
-
-[back to top]
 
 [1]:
 
@@ -5274,15 +4886,9 @@ For details see CS, Vimāna - sthāna, IV. 5-12.
 
 ## 42. Sense capacities [in Charaka philosophy]
 
-
 Philosophy of Charaka-samhita
 
-by Asokan. G | 2008 | 88,742 words
-
 Ayurveda, represented by Charaka and Sushruta, stands first among the sciences of Indian intellectual tradition. The Charaka-samhita, ascribed to the great celebrity Charaka, has got three strata. (1) The first stratum is the original work composed by Agnivesha, the foremost of the six disciples of Punarvasu Atreya. He accomplished the work by coll...
-
-Go directly to: 
-Footnotes.
 
 Sense capacities [in Charaka philosophy]
 
@@ -5337,10 +4943,6 @@ According to Carak, firstly, the cognitive sense capacities are capable of produ
 The peculiarity of the description of sense capacities as having both the nature of the physical nature and pervasive nature (vibhutva) reveals that it is a synthesis of the concepts of the Sāṃkhyas who hold that the sense capacities are evolutes of “I-consciousness” and pervasive, and of the Nyāya- Vaiśeṣikas who hold that sense capacities are physical. The synthesis has enabled Caraka to account for the prāpyakāritva nature of the sense capacities. Prāpyakāritva is the characteristic of the sense capacities to apprehend the object by coming into direct contact with them,[38] The Nyāya- Vaiśeṣikas agree with the Sāṃkhyas in holding that the sense capacities are prāpyakāritva. But they refuse to accept them as the evolutes of “I-consciousness” and their pervasive nature.[39] However, the Jainas and the Buddhists do not consider all the sense capacities as prāpyakāri. The Buddhists regard the sense capacities of smell, taste, and touch as prāpyakāri and the sense capacities of vision and hearing as aprāpyakāri. They apprehend their objects at a distance with out reaching them.[40] The Jainas regard the visual sense capacity as aprāpyakāri and all other capacities as prāpyakāri. The visual organ perceives its objects at a distance with the help of light with out getting at it.[41]
 
 Caraka holds that the organ of touch pervades all the sense capacities and also the mind.[42] No sensation is possible with out the contact of the sense organ of touch. So perception is possible only if objects fall with in the range of touch. Thus, the sense of touch is conterminous with all the senses. The most conspicuous aspect of this theory is that the sense of touch is in perpetual relation with the mind while the mind in turn pervades and governs the sense of touch. So, even though the sense of touch pervades all the senses, there is no chance of simultaneous perception because it occurs only where the atomic mind is active.[43] Skin is only the end organ of touch and consists of six layers.[44] Akṣapāda refers to a similar theory which considers that the sense of touch is the only sense organ and refutes it.[45] This is further reiterated by Jayantabhaṭṭa.[46] At the same time, the later Nyāya- Vaiśeṣikas believe that the sense of touch pervades the whole body.[47] They also consider that the contact mind with the sense of touch as a general condition for cognition.[48] The sense perceptions are all determinate and at the same time momentary in nature. [49] However, we cannot set aside the view point of Caraka that the sense capacities are physical as well as pervading because it is not a mere hypothesis but an inferential knowledge based on empirical analysis.
-
-Footnotes and references:
-
-[back to top]
 
 [1]:
 
@@ -5542,15 +5144,9 @@ CS, Su, VIII. 12.
 
 ## 43. Verbal Testimony (śabda) [in Charaka philosophy]
 
-
 Philosophy of Charaka-samhita
 
-by Asokan. G | 2008 | 88,742 words
-
 Ayurveda, represented by Charaka and Sushruta, stands first among the sciences of Indian intellectual tradition. The Charaka-samhita, ascribed to the great celebrity Charaka, has got three strata. (1) The first stratum is the original work composed by Agnivesha, the foremost of the six disciples of Punarvasu Atreya. He accomplished the work by coll...
-
-Go directly to: 
-Footnotes.
 
 Verbal Testimony (śabda) [in Charaka philosophy]
 
@@ -5563,10 +5159,6 @@ Caraka primarily accepts Vedas as authoritative scriptures (āptāgama). He incl
 Akṣapāda describes verbal testimony as the assertion of a worthy person (āpta) which is further followed by the later thinkers.[9] With regard to the question as to who an āpta is, Vātsyāyana says that he is one who operates through the direct and intuitive knowledge of things. Quite different from the Mīmāṃsakas, the Naiyāyikas consider that the knowledge derived from the Vedas is valid, since they are the utterances of īśvara. He adds that āptas need not be sages. Even foreigners (mlecchas) can be āptas.[10] It is relevant to note that the Nyāya-sūtra refers to two divisions of verbal testimony, namely dṛṣṭārtha and adṛṣṭārtha.[11]
 
 The Bhāṭṭa Mīmāṃsakas describe verbal testimony in the following way: When the words of a sentence are heard there arises the recollection of the meaning of the words. The recollection gives rise to sense of the sentence, which is not in contact.[12] They give a different division of verbal testimony namely human (pauruṣeya) and superhuman (apauruṣeya). The first is the words of reliable persons and the second is the Vedic scriptures.[13] The Prābhākara Mīmāṃsakas, at the same time, recognize only the Vedic scriptures as verbal cognition.[14] The reason is that though the words of a man lead to the inference of the intention of the speaker they do not convey themselves the meaning of the sentence because their capacity is made blunt by doubt.[15] Kaṇāda asserts that the cognition derived from verbal testimony is a variety of inference and it is attested by his followers. In classical Sāṃkhya, reliable authority (āptāgama) is verbal testimony (śabda).[16] The Vedāntins, similar to that of the Prābhākara Mīmāṃsakas, consider only the Vedic scriptures as authority. At the same time, Caraka, in coherence with the Sāṃkhya, Nyāya, and some other systems, consider the  articulations of trustworthy persons as authority.
-
-Footnotes and references:
-
-[back to top]
 
 [1]:
 
@@ -5637,15 +5229,9 @@ Sāṃkhyakārikā, 6.
 
 ## 44. Perception (pratyakṣa) [in Charaka philosophy]
 
-
 Philosophy of Charaka-samhita
 
-by Asokan. G | 2008 | 88,742 words
-
 Ayurveda, represented by Charaka and Sushruta, stands first among the sciences of Indian intellectual tradition. The Charaka-samhita, ascribed to the great celebrity Charaka, has got three strata. (1) The first stratum is the original work composed by Agnivesha, the foremost of the six disciples of Punarvasu Atreya. He accomplished the work by coll...
-
-Go directly to: 
-Footnotes.
 
 Perception (pratyakṣa) [in Charaka philosophy]
 
@@ -5702,10 +5288,6 @@ But Caraka obviates this contradiction of dualism. In Caraka's thesis, puruṣa 
 Caraka conceives the perceptual process as psychophysical from a realistic point of view. But he does not maintain that the object perceived is directly apprehended by one's sense capacities or mind. In cognizing an object all that is directly known by the senses is its qualities. Caraka says that the contact of the sense organs with the object is made possible by the identical nature (tat svabhāvāt) of the proto-physical element in the sense organ and the object, and also the pervasive nature (vibhutva) which is typical of the sense organs.[37] The conditions namely the identical nature of the predominating element of the sense-organ and the object, and the pervasive nature of the sense organ, which are described as the pre-requisites for perception are some thing peculiar to Caraka. The objects are immediately presented to the senses. They form the “sense-data”. Sensations mean the awareness of sense-data.
 
 Apprehension of truth or the fact arises when all the necessary conditions are fulfilled. Otherwise, invalid cognition in the form of an error, doubt or disbelief results.[38] For correct sense perception the sense organs must be free from obstructions. It may be significant to note that the Carakasaṃhitā, quite similar to that of the Sāṃkhyas, refers to certain obstacles to perception. They are over proximity, over distance, barrier, inadequate functioning of sense organs, lack of attention, confusion with other similar objects, overcome by stronger luminaries, and subtleness.[39]
-
-Footnotes and references:
-
-[back to top]
 
 [1]:
 
@@ -5869,15 +5451,9 @@ satāṃ ca rūpāṇāmatisannikarṣādativiprakarṣādāvaraṇāt, karaṇa
 
 ## 45. Heuristic reasoning (yukti) [in Charaka philosophy]
 
-
 Philosophy of Charaka-samhita
 
-by Asokan. G | 2008 | 88,742 words
-
 Ayurveda, represented by Charaka and Sushruta, stands first among the sciences of Indian intellectual tradition. The Charaka-samhita, ascribed to the great celebrity Charaka, has got three strata. (1) The first stratum is the original work composed by Agnivesha, the foremost of the six disciples of Punarvasu Atreya. He accomplished the work by coll...
-
-Go directly to: 
-Footnotes.
 
 Heuristic reasoning (yukti) [in Charaka philosophy]
 
@@ -5888,10 +5464,6 @@ P.V Sarma points out that “this is an attempt to undermine its importance due 
 Cakrapāṇi, further, cites the Buddhist logicians Śāntarakṣita (annotated by Kamalaśila) who refutes Caraka’s view of yukti. Referring to Caraka, Śāntarakṣita says that, yukti consists in the observation that, since, “when this is there, that happens”, and, since, “when this is not there, that does not happen”. Hence “this is the cause of that”. Those who conceive yukti as an independent source of knowledge may argue that, this is not a case of inference. But yukti is a different source knowledge for in this case there is no proposition equivalent to the proposition with an example to prove it.[6] Interpreting this viewpoint, Kamalaśila expresses the view that there is no other idea than cause-effect notion (kārya-kāraṇatā) in the conception of “that happens when this is there”, (tadbhāva-bhāvitā) and if any particular example is suggested, then that would demand another example, and after that another and it will end in regressus ad infinitum (anavasthā). That is why Caraka consider it as a separate source of knowledge.[7] Thus, construing Caraka's conception of yukti, they refute it. They point out that there is no separate cognitive process which links up the relation of “this is there, that happens” with the cause and effect relation, because both these convey the same concept. The cause and effect relation is the same as “this is there, that happens” and so yukti is not different from anumāna.
 
 Cakrapāṇi, though opines that yukti is anumāna, does not agree with śāntarakṣita and Kamalaśila. He points out that their criticisms are all beside the point, for yukti according to Caraka, is not the deriving of cause and effect from “this is there that happens”. It is drawing up of a conclusion as a result of series of reasoning.[8] However, we can concede that Caraka's idea of yukti is the logic of probability. That is, when from a number of events, circumstances or observations one comes to regard a particular judgment as probable, it is called yukti and it is different from inference or any other accepted pramāṇa.[9]
-
-Footnotes and references:
-
-[back to top]
 
 [1]:
 
@@ -5933,15 +5505,9 @@ HIPS, Vol. II, p.376, F. Notes.
 
 ## 46. Other sources of knowledge referred to in Carakasaṃhitā
 
-
 Philosophy of Charaka-samhita
 
-by Asokan. G | 2008 | 88,742 words
-
 Ayurveda, represented by Charaka and Sushruta, stands first among the sciences of Indian intellectual tradition. The Charaka-samhita, ascribed to the great celebrity Charaka, has got three strata. (1) The first stratum is the original work composed by Agnivesha, the foremost of the six disciples of Punarvasu Atreya. He accomplished the work by coll...
-
-Go directly to: 
-Footnotes.
 
 Other sources of knowledge referred to in Carakasaṃhitā
 
@@ -5966,10 +5532,6 @@ Probability is being defined as the cognition of that from which something origi
 In the philosophical systems saṃbhava is seen to have been given a more refined definition. There it is treated in the nature of inclusion. Thus saṃbhava consists in cognizing the existence of a thing from that of another thing in which it is included. For instance, the cognition of the measure of an āḍhaka from that of droṇa of which it is one fourth part. Here, in a sense, the former gives rise to the cognition of the latter and so Akṣapāda includes it in inference.[16]
 
 It is an accepted fact that epistemology is the main concern of philosophy and not science. Most particularly, it is not customary to a practical science like the science of medicine to deal with the methods of knowing, thinking, and expressing. But, it is quite contrary to this conception that we see in Carakasaṃhitā a detailed account of almost all the sources of knowledge that are being discussed in the classical darśanic realm. This is not the only thing. The uniqueness of Carakasaṃhitā, in this matter, lies in the fact that it is the earliest book which codifies almost all different sources of knowledge dealt with in various philosophical systems. ceṣṭa and anupalabdhi are the only two pramāṇas which are not found discussed in the Carakasaṃhitā. Another important thing is the recognition of yukti as a separate source of knowledge. Probably, it is the only book that deals with such a source of knowledge revealing the idea of logic of probability. From this, we can conclude that the Carakasaṃhitā is not only a compendium limited to the discussion of maintenance of positive health and cure but extends its attention to theoretical thinking. Caraka had great concern for deriving a proper methodology for theoretical formulations. Carakasaṃhitā has played a significant role in the formative stage of the history of epistemological and logical reflection in India.
-
-Footnotes and references:
-
-[back to top]
 
 [1]:
 
@@ -6039,15 +5601,9 @@ Nyāya-Bhāṣya of Vātsyāyana., p.166.
 
 ## 47. Inference (anumāna) [in Charaka philosophy]
 
-
 Philosophy of Charaka-samhita
 
-by Asokan. G | 2008 | 88,742 words
-
 Ayurveda, represented by Charaka and Sushruta, stands first among the sciences of Indian intellectual tradition. The Charaka-samhita, ascribed to the great celebrity Charaka, has got three strata. (1) The first stratum is the original work composed by Agnivesha, the foremost of the six disciples of Punarvasu Atreya. He accomplished the work by coll...
-
-Go directly to: 
-Footnotes.
 
 Inference (anumāna) [in Charaka philosophy]
 
@@ -6126,10 +5682,6 @@ production of fruit from the seed respectively.[26]
 Cakrapāṇi, commenting on the dictum in conformity with the divisions in the Nyāya-sūtra, says that, the first one represents the inference based on general correlation, second one the inference of the cause from the effect, and the third one the effect from the cause. They are also interpreted in relation to time as stated by Caraka himself. Thus, the example for the inference based on general correlation (inference of fire from smoke) is also related to the present. Sexual intercourse from pregnancy, the example of inference of the cause from effect, is related to the past. The production of fruit from seed which is an example of the inference of the effect from the cause is related to the future.[27]
 
 In the therapeutic context, five kinds of signs (liṅgas) are suggested for inferring diseases which are beyond perception. They are hetu, pūrvarūpa, rūpa, upaśaya, and saṃprāpti. A physician must be conversant with the concomitance of these five types of signs with the diseases prior to the diagnosis of a disease in order to arrive at right judgements.[28] Similarly, a long list of inferences that have greater value in determining the psychosomatic conditions is also given. The inference of digestive fire from the power of digestion, strength from the capacity for exercise, conditions of senses from their capacity to perceive, existence of mind from the perception of specific objects in the presence of all other senses and their respective objects, and rajoguṇa from attachment to woman are some of them. Caraka does not conspicuously differentiate svārthānaumāna and parārthānumāna as we see in the later Nyāya-Vaiśeṣika system. Yet he categorically explains parāthānumāna under the name sthapana.[29]
-
-Footnotes and references:
-
-[back to top]
 
 [1]:
 
@@ -6252,10 +5804,7 @@ see infra, p. 296.
 
 ## 48. Chapter 7 - Logic and Dialectical Speculations
 
-
 Philosophy of Charaka-samhita
-
-by Asokan. G | 2008 | 88,742 words
 
 Ayurveda, represented by Charaka and Sushruta, stands first among the sciences of Indian intellectual tradition. The Charaka-samhita, ascribed to the great celebrity Charaka, has got three strata. (1) The first stratum is the original work composed by Agnivesha, the foremost of the six disciples of Punarvasu Atreya. He accomplished the work by coll...
 
@@ -6267,15 +5816,9 @@ Chapter 7 - Logic and Dialectical Speculations
 
 ## 49. Dialectical terms [in Charaka philosophy]
 
-
 Philosophy of Charaka-samhita
 
-by Asokan. G | 2008 | 88,742 words
-
 Ayurveda, represented by Charaka and Sushruta, stands first among the sciences of Indian intellectual tradition. The Charaka-samhita, ascribed to the great celebrity Charaka, has got three strata. (1) The first stratum is the original work composed by Agnivesha, the foremost of the six disciples of Punarvasu Atreya. He accomplished the work by coll...
-
-Go directly to: 
-Footnotes.
 
 Dialectical terms [in Charaka philosophy]
 
@@ -6373,10 +5916,6 @@ point of defeat (nigrahasthāna).[1]
 
 These terms cover almost all the topics of logic and dialectics. But they are not arranged in a systematic way as we see in the Nyāya-sūtra. The first category vāda, refers to the unbiased discussion which aims at discerning how things really are and all the other categories are its related items in one way or the other. The six fundamental categories and all kinds of the source of knowledge included in the enumeration were explained earlier in detail. So their description is excluded in the present chapter. A rearrangement is also made here for the convenience of description.
 
-Footnotes and references:
-
-[back to top]
-
 [1]:
 
 CS, vi, VIII. 27.
@@ -6385,15 +5924,9 @@ CS, vi, VIII. 27.
 
 ## 50. Dialectical terms (1): Debate (vāda)
 
-
 Philosophy of Charaka-samhita
 
-by Asokan. G | 2008 | 88,742 words
-
 Ayurveda, represented by Charaka and Sushruta, stands first among the sciences of Indian intellectual tradition. The Charaka-samhita, ascribed to the great celebrity Charaka, has got three strata. (1) The first stratum is the original work composed by Agnivesha, the foremost of the six disciples of Punarvasu Atreya. He accomplished the work by coll...
-
-Go directly to: 
-Footnotes.
 
 Dialectical terms (1): Debate (vāda)
 
@@ -6428,10 +5961,6 @@ application (upanaya),
 conclusion (nigamana).
 
 The procedure of establishing a thesis in debate by the subsequent four members of the syllogism is called sthāpana. Refutation and establishment of the antithesis by antagonistic members of syllogism is named pratiṣṭāpana.
-
-Footnotes and references:
-
-[back to top]
 
 [1]:
 
@@ -6481,15 +6010,9 @@ Ibid.
 
 ## 51. The Indian art of debate according to the Carakasaṃhitā
 
-
 Philosophy of Charaka-samhita
 
-by Asokan. G | 2008 | 88,742 words
-
 Ayurveda, represented by Charaka and Sushruta, stands first among the sciences of Indian intellectual tradition. The Charaka-samhita, ascribed to the great celebrity Charaka, has got three strata. (1) The first stratum is the original work composed by Agnivesha, the foremost of the six disciples of Punarvasu Atreya. He accomplished the work by coll...
-
-Go directly to: 
-Footnotes.
 
 The Indian art of debate according to the Carakasaṃhitā
 
@@ -6522,10 +6045,6 @@ The strategies (vādopāya)to be adopted in the debate
 It is not sensible to enter into a debate in a hostile council even if it consists of the learned or the ignorant. But one can enter into a discussion with the ignorant that is friendly or indifferent even if they neither possess blazing fame, erudition, wisdom, and eloquence nor are held in high esteem by reputed persons. When one gets engaged in a debate with such opponents, he should use difficult sentences composed of complicated aphorisms. Assuming a cheerful countenance and ridiculing the opponent, one should engage the assembly without giving an opportunity for the opponent to speak. If the opponent says some unusual word, he should be immediately told that such a word is never used or that his proposition failed. If he further challenges, he must be stopped by ridiculing him.[9]
 
 In brief, Caraka gives a conspicuous and diplomatic description of the nature and function of a debating council, taking into consideration the divergent attitudes and dispositions of the participants. The instructions about the procedures that are to be adopted by the disputant are suggestive of how they would be helpful in the successful functioning of the Pariṣads in engendering faultless and precise knowledge. When compared with a hostile discussion, a friendly discussion is an unbiased one. On the contrary, a hostile discussion always aims at either ones own victory or the defeat of the opponent. The most important aspect of a colloquy is that it reflects a secular outlook. Its goalpost is true knowledge that contributes to human betterment and happiness. So Caraka does not emphasize religion and family status of the participants. The two main things that he insists are intellectual ability and moral strength.
-
-Footnotes and references:
-
-[back to top]
 
 [1]:
 
@@ -6567,15 +6086,9 @@ Loc. cit., F. Note, 2.
 
 ## 52. Dialectical terms (2): Demonstration (sthāpanā)
 
-
 Philosophy of Charaka-samhita
 
-by Asokan. G | 2008 | 88,742 words
-
 Ayurveda, represented by Charaka and Sushruta, stands first among the sciences of Indian intellectual tradition. The Charaka-samhita, ascribed to the great celebrity Charaka, has got three strata. (1) The first stratum is the original work composed by Agnivesha, the foremost of the six disciples of Punarvasu Atreya. He accomplished the work by coll...
-
-Go directly to: 
-Footnotes.
 
 Dialectical terms (2): Demonstration (sthāpanā)
 
@@ -6594,10 +6107,6 @@ Application (upanaya) — the self is eternal like the “nonproduct” ākāśa
 Conclusion (nigamana) — therefore, is eternal.
 
 This five- member syllogism is referred to by the category avayava in the Nyāya-sūtra.[3] Vātsyāyana calls it “the great nyāya”.[4] However, Kaṇāda does not speak of the five member syllogism. But later on, almost all the thinkers of the Nyāya-Vaiśeṣika system accepted it, and it came to be called “inference for others” (parārthānumāna).[5] It is also called by the appellation “nyāya”.[6] Vātsyāyana mentions certain schools of thought which admit a ten-member syllogism by including jijñāsa, saṃśaya, śakyaprāpti, prayojana and samśayavyudāsa.[7] The Mīmāṃsakas accept the first three members;[8] the Vedāntins three—either the first or the last three,[9] and the Buddhists two: example (udāharaṇa) and application (upanaya).[10]
-
-Footnotes and references:
-
-[back to top]
 
 [1]:
 
@@ -6643,23 +6152,13 @@ bauddhāstūdāharṇopanayākhyamavayavadvayaṃ manyante Sarva-Darśana-Saṃg
 
 ## 53. Dialectical terms (4): Proposition (pratijñā)
 
-
 Philosophy of Charaka-samhita
 
-by Asokan. G | 2008 | 88,742 words
-
 Ayurveda, represented by Charaka and Sushruta, stands first among the sciences of Indian intellectual tradition. The Charaka-samhita, ascribed to the great celebrity Charaka, has got three strata. (1) The first stratum is the original work composed by Agnivesha, the foremost of the six disciples of Punarvasu Atreya. He accomplished the work by coll...
-
-Go directly to: 
-Footnotes.
 
 Dialectical terms (4): Proposition (pratijñā)
 
 Proposition is the declaration of a thing that is to be proved.[1] This is further attested by Akṣapāda.[2] Vātsyāyana says that it is the pronouncement of an “object qualified by a property” which is to be ascertained.[3] Praśastapāda defines it as an assertion of what is to be proved by means of inference and should be devoid of contradiction.[4]
-
-Footnotes and references:
-
-[back to top]
 
 [1]:
 
@@ -6681,15 +6180,9 @@ tatrānumeyodeśo avirodhī pratijñā. Praśastapādabhāṣya., p. 566.
 
 ## 54. Dialectical terms (5): Reason (hetu)
 
-
 Philosophy of Charaka-samhita
 
-by Asokan. G | 2008 | 88,742 words
-
 Ayurveda, represented by Charaka and Sushruta, stands first among the sciences of Indian intellectual tradition. The Charaka-samhita, ascribed to the great celebrity Charaka, has got three strata. (1) The first stratum is the original work composed by Agnivesha, the foremost of the six disciples of Punarvasu Atreya. He accomplished the work by coll...
-
-Go directly to: 
-Footnotes.
 
 Dialectical terms (5): Reason (hetu)
 
@@ -6702,10 +6195,6 @@ Kaṇāda, who considers it as instrumental cause of inference, uses apadeśa (d
 According to the Buddhists, valid reason must fulfill three conditions such as, existence of “major term” (sādhya) in the minor term (pakṣa), existence in the locus where the presence of the major term has been ascertained (sapakṣātvaṃ), and non-existence in the locus where the nonexistence of the major term is decidedly known (vipakṣāsatvaṃ).[9]
 
 In brief reason helps to prove what is to be proved. In other words, inferential knowledge owes to the knowledge of reason. It has got an important place among the members of syllogism because inferential cognition mainly depends on it.
-
-Footnotes and references:
-
-[back to top]
 
 [1]:
 
@@ -6747,15 +6236,9 @@ tatra svārthaṃ trirūpalliṅgādyadanumīyate jñānaṃ tadanumānaṃ, Ny�
 
 ## 55. Dialectical terms (3): Counter syllogistic reasoning (pratiṣṭāpana)
 
-
 Philosophy of Charaka-samhita
 
-by Asokan. G | 2008 | 88,742 words
-
 Ayurveda, represented by Charaka and Sushruta, stands first among the sciences of Indian intellectual tradition. The Charaka-samhita, ascribed to the great celebrity Charaka, has got three strata. (1) The first stratum is the original work composed by Agnivesha, the foremost of the six disciples of Punarvasu Atreya. He accomplished the work by coll...
-
-Go directly to: 
-Footnotes.
 
 Dialectical terms (3): Counter syllogistic reasoning (pratiṣṭāpana)
 
@@ -6773,10 +6256,6 @@ Application — the self is perceivable like the pitcher
 
 Conclusion — therefore, is ephemeral.
 
-Footnotes and references:
-
-[back to top]
-
 [1]:
 
 CS, Vimāna - sthāna, VIII. 32.
@@ -6785,23 +6264,13 @@ CS, Vimāna - sthāna, VIII. 32.
 
 ## 56. Dialectical terms (8): Conclusion (nigamana)
 
-
 Philosophy of Charaka-samhita
-
-by Asokan. G | 2008 | 88,742 words
 
 Ayurveda, represented by Charaka and Sushruta, stands first among the sciences of Indian intellectual tradition. The Charaka-samhita, ascribed to the great celebrity Charaka, has got three strata. (1) The first stratum is the original work composed by Agnivesha, the foremost of the six disciples of Punarvasu Atreya. He accomplished the work by coll...
 
-Go directly to: 
-Footnotes.
-
 Dialectical terms (8): Conclusion (nigamana)
 
-In the case of conclusion also Caraka does not give any definition. From the nomenclature of the example it can be inferred that his conception does not materially differ from its concept in the Nyāya-sūtra which holds that conclusion serves the purpose of excluding contradicting suggestions against the establishment of that which is to be proved.[1] Akṣapāda defines it as the restatement of the proposition after stating the reason.[2] Praśastapāda calls it by the term pratyāmnāya. He also holds that it is the reiteration of the proposition.[3] According to the most perfected definition given by Gangeśopādhyāya, conclusion is a sentence that generates the verbal cognition referring to the presence of the major term (sādhya) in the minor term (pakṣa) of inference, which fact is arrived at by the cognition of the presence of reason in the minor term of inference.[4] In conclusion, Caraka gives an outline of the five member syllogistic expression that gives rise to the verbal cognition conductive to the rise of inferential cognition which was further clearly and judiciously accounted by the Naiyāyikas.
-
-Footnotes and references:
-
-[back to top]
+In the case of conclusion also Caraka does not give any definition. From the nomenclature of the example it can be inferred that his conception does not materially differ from its concept in the Nyāya-sūtra which holds that conclusion serves the purpose of excluding contradicting suggestions against the establishment of that which is to be proved.[1] Akṣapāda defines it as the restatement of the proposition after stating the reason.[2] Praśastapāda calls it by the term pratyāmnāya. He also holds that it is the reiteration of the proposition.[3] According to the most perfected definition given by Gangeśopādhyāya, conclusion is a sentence that generates the verbal cognition referring to the presence of the major term (sādhya) in the minor term (pakṣa) of inference, which fact is arrived at by the cognition of the presence of reason in the minor term of inference.[4] In summary, Caraka gives an outline of the five member syllogistic expression that gives rise to the verbal cognition conductive to the rise of inferential cognition which was further clearly and judiciously accounted by the Naiyāyikas.
 
 [1]:
 
@@ -6823,23 +6292,13 @@ taccanumitihetuliṅgaparāmarśaprayojakaśābdajñānakāraṇa vyāptipakṣa
 
 ## 57. Dialectical terms (7): Application (upanaya)
 
-
 Philosophy of Charaka-samhita
 
-by Asokan. G | 2008 | 88,742 words
-
 Ayurveda, represented by Charaka and Sushruta, stands first among the sciences of Indian intellectual tradition. The Charaka-samhita, ascribed to the great celebrity Charaka, has got three strata. (1) The first stratum is the original work composed by Agnivesha, the foremost of the six disciples of Punarvasu Atreya. He accomplished the work by coll...
-
-Go directly to: 
-Footnotes.
 
 Dialectical terms (7): Application (upanaya)
 
 Application (upanaya) is the fourth member of the syllogism. Caraka does not give a definition of application beyond exemplifying it. We can conclude from the given illustration that application is a statement showing that the minor term (pakṣa) of inference has the reason of inference which is invariably related to the thing that is sought to be established. It is in conformity with this that Akṣapāda defines application as wrapping up with reference to the example of what is to be proved in the form of “as being so” or “as being not so”.[1] This is further attested by Praśastapāda who calls it anusandheya.[2]
-
-Footnotes and references:
-
-[back to top]
 
 [1]:
 
@@ -6853,25 +6312,15 @@ nidarsane'numeyasāmānyena saha dṛṣṭasya liṅgasāmanyamanumeye'nvayaman
 
 ## 58. Dialectical terms (9): False rejoinder (uttara)
 
-
 Philosophy of Charaka-samhita
 
-by Asokan. G | 2008 | 88,742 words
-
 Ayurveda, represented by Charaka and Sushruta, stands first among the sciences of Indian intellectual tradition. The Charaka-samhita, ascribed to the great celebrity Charaka, has got three strata. (1) The first stratum is the original work composed by Agnivesha, the foremost of the six disciples of Punarvasu Atreya. He accomplished the work by coll...
-
-Go directly to: 
-Footnotes.
 
 Dialectical terms (9): False rejoinder (uttara)
 
 False Rejoinder is the opposition that occurs in a counterdemonstration. It is being defined as an attempt of the opposition to upset the endeavor to establish a thesis by showing a dissimilarity of the reason where a similarity of the subject of the thesis with the example is stated or by showing the similarity of the reason where the dissimilarity of the subject of the thesis with the example is stated.[1] Thus, when it is said that diseases are caused by factors having identical properties, for instance cold fever is caused by factors having identical properties such as snow and chilly air, the contention is that effects are dissimilar from their causes because burning and heating sensation and inflammation of organs of the body are caused by exposure to snow and cold wind.[2]
 
 The category named jāti of the Nyāya-sūtras serves the very same purpose of uttara in debate.[3] There, it is defined as a sophistical refutation of an argument based on similarity or dissimilarity.[4] Akṣapāda enumerates twenty-four kinds of futile rejoinders[5] which Caraka was unaware of. If this elaborate list had been known to Caraka, he would not have passed them with out referring to them.[6]
-
-Footnotes and references:
-
-[back to top]
 
 [1]:
 
@@ -6901,15 +6350,9 @@ HIPS, Vol. II. p. 382-83.
 
 ## 59. Dialectical terms (6): Example: (dṛṣṭānta)
 
-
 Philosophy of Charaka-samhita
 
-by Asokan. G | 2008 | 88,742 words
-
 Ayurveda, represented by Charaka and Sushruta, stands first among the sciences of Indian intellectual tradition. The Charaka-samhita, ascribed to the great celebrity Charaka, has got three strata. (1) The first stratum is the original work composed by Agnivesha, the foremost of the six disciples of Punarvasu Atreya. He accomplished the work by coll...
-
-Go directly to: 
-Footnotes.
 
 Dialectical terms (6): Example: (dṛṣṭānta)
 
@@ -6918,10 +6361,6 @@ An example is the third statement setting forth an illustration. It is being def
 In syllogism, an example has to serve the purpose of demonstrating the presence of invariable concomitance (vyāpti) of what is to be proved -the major term (sādhya) and what proves it—the middle term (hetu). Taking into account of this fact, a two fold definition is given in the Nyāya-sūtra. The first one, in coherence with Caraka, gives the general characteristics most wanted of an example to be cited as an illustration,[2] while the second one depicts its role as a member of syllogism. In a syllogism, an example serves the means of the demonstration of the attribute in question through the generic nature of the attribute as shown by the example, or through the dissimilarity to what is to be established.[3] Vātsyāyana further clarifies that an example illustrates the relation of invariable concomitance of the thing that is to be proved or the major term (sādhya) and the sign or the middle term (hetu).[4] To be precise, the basic difference between the Carakasaṃhitā and Nyāya-sūtra is that demonstration of invariable concomitance (vyāpti) is not clearly expressed in the syllogism of the former while it is performed by the example in the latter.[5]
 
 Praśastapāda, who presupposes the ascertainment of the invariable concomitance of the major term (sādhya) and the middle term (sādhana) in the example, divides example into two: positive example (sādharmya nidarśana) and negative example (vaidharmya nidarśana) on the basis of the similarity and dissimilarity.[6] He also explains fake examples (nidarśanābhāsa), where the example adduced is inadequate to substantiate the concomitance of the minor term and the major term.[7]
-
-Footnotes and references:
-
-[back to top]
 
 [1]:
 
@@ -6955,15 +6394,9 @@ Praśastapādabhāṣya., pp.600-603.
 
 ## 60. Dialectical terms (11): Doubt (saṃśaya)
 
-
 Philosophy of Charaka-samhita
 
-by Asokan. G | 2008 | 88,742 words
-
 Ayurveda, represented by Charaka and Sushruta, stands first among the sciences of Indian intellectual tradition. The Charaka-samhita, ascribed to the great celebrity Charaka, has got three strata. (1) The first stratum is the original work composed by Agnivesha, the foremost of the six disciples of Punarvasu Atreya. He accomplished the work by coll...
-
-Go directly to: 
-Footnotes.
 
 Dialectical terms (11): Doubt (saṃśaya)
 
@@ -6974,10 +6407,6 @@ Akṣapāda gives third priority to doubt in his categorial scheme, because it i
 Vātsyāyana says that there is no need of applying the nyāya to an object which is unknown or which has been ascertained. It is only when there exists doubt regarding an object there occurs the need of examination by the instrument of knowledge called nyāya.[3] Further he explains the five causes of doubt. Accordingly, the doubt arising from the perception of common charactereristcs of many objects in a single object (samānadharmopapatti) is the first one . The doubt occurring from the apprehension of properties of homogeneous and heterogeneous things in a substratum (anekadhrmopapatti) is the second. The third originates from the knowledge of contradictory views (vipratipatti). Doubt taking place from the irregularity of cognition (upalabdhyavyavasthā), and doubt cropping up from irregularity of non-cognition (anupalabdyavyavastha) are the fourth and fifth respectively.[4] Doubt, according to Kaṇāda, is an erroneous cognition that originates from the perception of the common characteristics of many objects in a thing followed by the recollection of the specific characteristics of such objects.[5] To Praśastapāda, doubt is an indefinite cognition in the form of “either this or that”. It arises from the recollection of the peculiarities of the two objects consequent on the perception of an object having the similarities of those objects whose distinct characteristics have formerly been cognized.[6] Sivāditya conceives doubt as indefinite cognition[7] and includes false assumption (ūha) and error (anadhyavasāya) in it.[8]
 
 If we look at the whole explanations, we can see that doubt is an erroneous cognition which originates from uncertainty because of attributing contradictory characteristics to an object. Thus, in essence, all the later explanations make no difference with the explanation given in the Carakasaṃhitā. In fact, if Caraka explained the nature of doubt, Akṣapāda and others focused on its cause.
-
-Footnotes and references:
-
-[back to top]
 
 [1]:
 
@@ -7015,25 +6444,15 @@ anavadhāraṇaṃ jñānaṃ saṃśayaḥ, Saptapadārthi of Śivāditya., p. 
 
 ## 61. Dialectical terms (13): Inconclusive reason (savyabhicāra)
 
-
 Philosophy of Charaka-samhita
 
-by Asokan. G | 2008 | 88,742 words
-
 Ayurveda, represented by Charaka and Sushruta, stands first among the sciences of Indian intellectual tradition. The Charaka-samhita, ascribed to the great celebrity Charaka, has got three strata. (1) The first stratum is the original work composed by Agnivesha, the foremost of the six disciples of Punarvasu Atreya. He accomplished the work by coll...
-
-Go directly to: 
-Footnotes.
 
 Dialectical terms (13): Inconclusive reason (savyabhicāra)
 
 A cause must be consistently concomitant with the effect. If it is inconsistent, it cannot be accepted as a cause. This “inconsistency” is called inconclusiveness.[1] For example, when a medicine is prescribed for a particular disease, the medicine suggested may or may not be suited to cure the disease. Hence, the medicine which is stated as the cause has no invariable concomitance with the effect. Savybhicāra is treated as a division of fallacies of reason by Akṣapāda. He calls it anaikāntika.[2] When a reason or the middle term (hetu) stated is found to be concomitant with neither the major term (sādhya) only nor the negation of the major term only, but with both, then it is said to be tainted by indecision.[3] Such a reason has the tendency to prove both the major term and its negation due to its connection with both the major term and its negation. Hence it raises doubt about the major term. Taking note of this nature Kaṇāda calls it “the doubtful” (sandigdha).[4] Annaṃbhaṭṭa, Viśvanātha and others call it by the name savyabhicāra itself and classifies it into three, namely general (sādhāraṇa), peculiar (asādhāraṇa), and non-exclusive (anupasaṃhāri).[5]
 
 Whatever might be the division, the lack of invariable concomitance leading to inconclusiveness is the key concept of savyabhicāra. Hence the knowledge of savyabhicāra has got a prominent role in ascertaining accurate reason.
-
-Footnotes and references:
-
-[back to top]
 
 [1]:
 
@@ -7059,15 +6478,9 @@ savyabhicāro'naikāntikaḥ. sa trividhaḥ sādhāraṇasādhāraṇanupasaṃ
 
 ## 62. Dialectical terms (10): Tenet (siddhānta)
 
-
 Philosophy of Charaka-samhita
 
-by Asokan. G | 2008 | 88,742 words
-
 Ayurveda, represented by Charaka and Sushruta, stands first among the sciences of Indian intellectual tradition. The Charaka-samhita, ascribed to the great celebrity Charaka, has got three strata. (1) The first stratum is the original work composed by Agnivesha, the foremost of the six disciples of Punarvasu Atreya. He accomplished the work by coll...
-
-Go directly to: 
-Footnotes.
 
 Dialectical terms (10): Tenet (siddhānta)
 
@@ -7090,10 +6503,6 @@ Example: If it is established that liberated self does not enjoy the fruit of ka
 Example: Sometimes substance is accepted as the most important; on some other occasions quality is accepted as the chief one; and at times potency is accepted as the most important one.[7]
 
 Akṣapāda, who shares almost the very same view of Caraka, defines tenet as a postulation resting on either the authority of a certain school, hypothesis, or implication.[8] Then he classifies it into four as the above.[9] Udyotakara defines tenet as a conviction with regard to the exact nature of a thing.[10] Keśavamiśra defines it as something which is authoritatively settled true.[11] The conception of both Caraka and Akṣapāda regarding tenet is one and the same.
-
-Footnotes and references:
-
-[back to top]
 
 [1]:
 
@@ -7143,23 +6552,13 @@ prāmāṇikatvena abhyupagato'rthaḥ sidhdhāntaḥ, Tarkabhāṣa of Keśavam
 
 ## 63. Dialectical terms (12): Purpose (prayojana)
 
-
 Philosophy of Charaka-samhita
 
-by Asokan. G | 2008 | 88,742 words
-
 Ayurveda, represented by Charaka and Sushruta, stands first among the sciences of Indian intellectual tradition. The Charaka-samhita, ascribed to the great celebrity Charaka, has got three strata. (1) The first stratum is the original work composed by Agnivesha, the foremost of the six disciples of Punarvasu Atreya. He accomplished the work by coll...
-
-Go directly to: 
-Footnotes.
 
 Dialectical terms (12): Purpose (prayojana)
 
 Every voluntary action is motivated. Every one acts to obtain the desired object or to avoid an undesirable object.[1] Purpose is that for which an action is begun.[2] It is the motivating object of an action[3] or it is that which goads one in to action.[4]
-
-Footnotes and references:
-
-[back to top]
 
 [1]:
 
@@ -7181,23 +6580,13 @@ yena prayuktaḥ pravartate tat prayojanaṃ,Vātsyāyana on ibid., N. Bh, p. 6.
 
 ## 64. Dialectical terms (15): Determination (vyavasāya)
 
-
 Philosophy of Charaka-samhita
 
-by Asokan. G | 2008 | 88,742 words
-
 Ayurveda, represented by Charaka and Sushruta, stands first among the sciences of Indian intellectual tradition. The Charaka-samhita, ascribed to the great celebrity Charaka, has got three strata. (1) The first stratum is the original work composed by Agnivesha, the foremost of the six disciples of Punarvasu Atreya. He accomplished the work by coll...
-
-Go directly to: 
-Footnotes.
 
 Dialectical terms (15): Determination (vyavasāya)
 
 Vyavasāya means determinate cognition in the form of “this is a disease due to predominance of vāyu” or “this is the particular medicine for a particular disease”.[1] Akṣapāda uses this term in the definition of perception in order to characterize it as determinate.[2]
-
-Footnotes and references:
-
-[back to top]
 
 [1]:
 
@@ -7211,23 +6600,13 @@ Nyāyasūtra., I. i. 4
 
 ## 65. Dialectical terms (14): Investigation (jijñāsā)
 
-
 Philosophy of Charaka-samhita
 
-by Asokan. G | 2008 | 88,742 words
-
 Ayurveda, represented by Charaka and Sushruta, stands first among the sciences of Indian intellectual tradition. The Charaka-samhita, ascribed to the great celebrity Charaka, has got three strata. (1) The first stratum is the original work composed by Agnivesha, the foremost of the six disciples of Punarvasu Atreya. He accomplished the work by coll...
-
-Go directly to: 
-Footnotes.
 
 Dialectical terms (14): Investigation (jijñāsā)
 
 Investigation (jijñāsā) means a deliberate examination (parīkṣā). For instance, a medicine is prescribed for a disease only after a proper examination.[1] Akṣapāda does not refer to jijñāsā in his categorical discussion. But Vātsyāyana uses it in a different sense. He considers it as one of the five factors which initiate discussion.[2]
-
-Footnotes and references:
-
-[back to top]
 
 [1]:
 
@@ -7241,25 +6620,15 @@ For details see Vātsyāyana on Nyāyasūtra., I. i. 32, Nyāya-Bhāṣya of Vā
 
 ## 66. Dialectical terms (17): Infallible statement (ananuyojya)
 
-
 Philosophy of Charaka-samhita
 
-by Asokan. G | 2008 | 88,742 words
-
 Ayurveda, represented by Charaka and Sushruta, stands first among the sciences of Indian intellectual tradition. The Charaka-samhita, ascribed to the great celebrity Charaka, has got three strata. (1) The first stratum is the original work composed by Agnivesha, the foremost of the six disciples of Punarvasu Atreya. He accomplished the work by coll...
-
-Go directly to: 
-Footnotes.
 
 Dialectical terms (17): Infallible statement (ananuyojya)
 
 An infallible statement (ananuyojya) is just the opposite of an imperfect statement.
 
 Example: The given disease is incurable.[1] It is a perfect and reliable statement.
-
-Footnotes and references:
-
-[back to top]
 
 [1]:
 
@@ -7269,25 +6638,15 @@ Ibid., 51.
 
 ## 67. Dialectical terms (16): Imperfect statement (anuyojya)
 
-
 Philosophy of Charaka-samhita
 
-by Asokan. G | 2008 | 88,742 words
-
 Ayurveda, represented by Charaka and Sushruta, stands first among the sciences of Indian intellectual tradition. The Charaka-samhita, ascribed to the great celebrity Charaka, has got three strata. (1) The first stratum is the original work composed by Agnivesha, the foremost of the six disciples of Punarvasu Atreya. He accomplished the work by coll...
-
-Go directly to: 
-Footnotes.
 
 Dialectical terms (16): Imperfect statement (anuyojya)
 
 An imperfect statement (anuyojya) is a faulty assertion in the form of making only general statements leaving out essential details in such contexts where it is needed.
 
 Example: Some one makes a statement that a given disease is curable by elimination therapy instead of saying that it is curable by emetic or purgation therapy.[1]
-
-Footnotes and references:
-
-[back to top]
 
 [1]:
 
@@ -7297,15 +6656,9 @@ CS, Vimāna - sthāna, VIII. 50.
 
 ## 68. Dialectical terms (20): Defective statement (vākyadoṣa)
 
-
 Philosophy of Charaka-samhita
 
-by Asokan. G | 2008 | 88,742 words
-
 Ayurveda, represented by Charaka and Sushruta, stands first among the sciences of Indian intellectual tradition. The Charaka-samhita, ascribed to the great celebrity Charaka, has got three strata. (1) The first stratum is the original work composed by Agnivesha, the foremost of the six disciples of Punarvasu Atreya. He accomplished the work by coll...
-
-Go directly to: 
-Footnotes.
 
 Dialectical terms (20): Defective statement (vākyadoṣa)
 
@@ -7363,10 +6716,6 @@ against tenets concerning liberation in spiritual tradition.
 
 Thus, the assertion that a therapy has four constituents is a statement against the recognized tenet of Āyurveda. Similarly, the statement that animals should not be killed in rituals is contradictory to the established tenet of the ritual tradition and the statement regarding violence towards living beings is against the spiritual tradition.
 
-Footnotes and references:
-
-[back to top]
-
 [1]:
 
 vākyadoṣo nāma yathā khalvasminnarthe nyūnaṃ, adhikaṃ, anarthakaṃ, apārthakaṃ, viruddhaṃ ceti; Ibid., 54.
@@ -7415,25 +6764,15 @@ viruddhaṃ nāma yaddṛṣṭāntasiddhāntasamayairviruddhaṃ; CS, Vimāna-s
 
 ## 69. Dialectical terms (18-19): Question (anuyoga) and counter question (pratyanuyoga)
 
-
 Philosophy of Charaka-samhita
 
-by Asokan. G | 2008 | 88,742 words
-
 Ayurveda, represented by Charaka and Sushruta, stands first among the sciences of Indian intellectual tradition. The Charaka-samhita, ascribed to the great celebrity Charaka, has got three strata. (1) The first stratum is the original work composed by Agnivesha, the foremost of the six disciples of Punarvasu Atreya. He accomplished the work by coll...
-
-Go directly to: 
-Footnotes.
 
 Dialectical terms (18-19): Question (anuyoga) and counter question (pratyanuyoga)
 
 A question (anuyoga) is a query advanced by a learned person to another in a debate on the basis of the thesis that he puts forward.
 
 Example: When one scholar makes the assertion “puruṣa is eternal” the another scholar asks “What is the reason?”.[1] If a question like “why do you ask such a question?” ensues as a response from the first person, then it is called a counter question.[2]
-
-Footnotes and references:
-
-[back to top]
 
 [1]:
 
@@ -7447,15 +6786,9 @@ Ibid., 53.
 
 ## 70. Dialectical terms (22): Quibble (chala)
 
-
 Philosophy of Charaka-samhita
 
-by Asokan. G | 2008 | 88,742 words
-
 Ayurveda, represented by Charaka and Sushruta, stands first among the sciences of Indian intellectual tradition. The Charaka-samhita, ascribed to the great celebrity Charaka, has got three strata. (1) The first stratum is the original work composed by Agnivesha, the foremost of the six disciples of Punarvasu Atreya. He accomplished the work by coll...
-
-Go directly to: 
-Footnotes.
 
 Dialectical terms (22): Quibble (chala)
 
@@ -7486,10 +6819,6 @@ Vātsyāyana also cites a similar example.[11]
 3. Figurative quibble (upacāracchala):
 
 Akṣapāda adds one more division called figurative quibble (upacāracchala) as a third division. Accordingly, upacāracchala consists in discarding one's statement as senseless by taking its primary sense where the secondary sense is intended.[12] It is notable that Akṣapāda himself raises the objection that vākcchala is upacāracchala itself because alteration in meaning is a common feature in both the cases.[13] Further, he himself clears out the objection by pointing out that there exists specific differences between the two beyond their minor similarities.[14] Referring to this, Dasgupta suggests that the objection raised reveals his disagreement with the classification given in Carakasaṃhitā.[15] However, Akṣapāda is found to be very weak to establish his argument. The hair splitting specific difference that he claims for them to have is not convincing.
-
-Footnotes and references:
-
-[back to top]
 
 [1]:
 
@@ -7555,23 +6884,13 @@ HIPS, Vol. II. p.386.
 
 ## 71. Dialectical terms (21): Excellent assertion (vākyapraśaṃsā)
 
-
 Philosophy of Charaka-samhita
 
-by Asokan. G | 2008 | 88,742 words
-
 Ayurveda, represented by Charaka and Sushruta, stands first among the sciences of Indian intellectual tradition. The Charaka-samhita, ascribed to the great celebrity Charaka, has got three strata. (1) The first stratum is the original work composed by Agnivesha, the foremost of the six disciples of Punarvasu Atreya. He accomplished the work by coll...
-
-Go directly to: 
-Footnotes.
 
 Dialectical terms (21): Excellent assertion (vākyapraśaṃsā)
 
 An excellent assertion (vākyapraśaṃsā) is a brilliant statement which is free from the aforesaid defects of inadequacy, redundancy, meaninglessness, incoherence, contradiction and is well expressive of the sense.[1] It is to be noted here that Akṣapāda does not refer to vākyapraśaṃsā though he deals with the four divisions of vākyadoṣas under the category nigrahasthāna.
-
-Footnotes and references:
-
-[back to top]
 
 [1]:
 
@@ -7581,25 +6900,15 @@ Ibid., 55.
 
 ## 72. Dialectical terms (24): Illogical order (atītakāla)
 
-
 Philosophy of Charaka-samhita
 
-by Asokan. G | 2008 | 88,742 words
-
 Ayurveda, represented by Charaka and Sushruta, stands first among the sciences of Indian intellectual tradition. The Charaka-samhita, ascribed to the great celebrity Charaka, has got three strata. (1) The first stratum is the original work composed by Agnivesha, the foremost of the six disciples of Punarvasu Atreya. He accomplished the work by coll...
-
-Go directly to: 
-Footnotes.
 
 Dialectical terms (24): Illogical order (atītakāla)
 
 Illogical order (atītakāla) is a fallacy which occurs when something which should be stated first in the order of priority is stated later or when there is an occasion for a point of defeat if one keeps silence in due time and applies it afterwards to some other point breaking the logical sequence.[1]
 
 The first part of the explanation given for atītakāla corresponds to a division of point of defeat (nigrahasthāna) called aprāptakāla of the Nyāyasūtra. There, it is being defined as the making of an alteration in the sequence of a syllogism.[2] The common feature in both the cases is the illogical sequence of the members of syllogism and so they cannot convey any connected meaning. Taking account of this fact, Cakrapāṇi cites an example pertaining to syllogism in which the proposition which should be said first is stated last and the conclusion which should be said last is stated first.[3] But it is to be noted that the second part of the definition given by Caraka vindicates that he does not restrict the alteration to the sequence of the members of syllogism but also to other points breaking logical sequence on occasions of points of defeat.
-
-Footnotes and references:
-
-[back to top]
 
 [1]:
 
@@ -7617,25 +6926,15 @@ See Cakrapāṇi on CS,Vimāna-sthāna, VIII. 58.
 
 ## 73. Dialectical terms (26): Resolve (parihāra)
 
-
 Philosophy of Charaka-samhita
 
-by Asokan. G | 2008 | 88,742 words
-
 Ayurveda, represented by Charaka and Sushruta, stands first among the sciences of Indian intellectual tradition. The Charaka-samhita, ascribed to the great celebrity Charaka, has got three strata. (1) The first stratum is the original work composed by Agnivesha, the foremost of the six disciples of Punarvasu Atreya. He accomplished the work by coll...
-
-Go directly to: 
-Footnotes.
 
 Dialectical terms (26): Resolve (parihāra)
 
 Resolve (parihāra) is the resolution given as reply to the objections raised by pointing out the fallacies of reason by the opponent.[1]
 
 For instance, the following is the resolution given in reply to the objection raised against establishing that the self is eternal. “The self is eternal. It shows signs as long as it remains in the body and when it leaves the body there will be no signs in the body even if it is there. Therefore, the self is different form the body and is eternal”.[2]
-
-Footnotes and references:
-
-[back to top]
 
 [1]:
 
@@ -7649,15 +6948,9 @@ Ibid.
 
 ## 74. Dialectical terms (23): Fallacies of reason (ahetu)
 
-
 Philosophy of Charaka-samhita
 
-by Asokan. G | 2008 | 88,742 words
-
 Ayurveda, represented by Charaka and Sushruta, stands first among the sciences of Indian intellectual tradition. The Charaka-samhita, ascribed to the great celebrity Charaka, has got three strata. (1) The first stratum is the original work composed by Agnivesha, the foremost of the six disciples of Punarvasu Atreya. He accomplished the work by coll...
-
-Go directly to: 
-Footnotes.
 
 Dialectical terms (23): Fallacies of reason (ahetu)
 
@@ -7704,10 +6997,6 @@ In Nyāyas-sūtra, saṃśayasama is regarded as a false rejoinder. There, saṃ
 3. Equalizing the major term (varṇyasama):
 
 If the example cited to confirm a major term is an unproved one and makes no difference to the major term, it is called varṇyasama. For instance, when it is stated that intellect is ephemeral like sound since intellect is untouchable like the latter, the ephemeral nature of sound remains as much in need of a proof as the intellect for its confirmation. Hence, the proposition intellect is eternal also remains unproved on the basis of the example “sound”.[17] This fallacy of reason is similar to the false rejoinder called sādhyasama of the Nyāyasūtra. Revealing this idea, Jayantabhaṭṭa describes sādhyasama as the equalising nature of the example and the major term in respect of provability.[18]
-
-Footnotes and references:
-
-[back to top]
 
 [1]:
 
@@ -7785,23 +7074,13 @@ ubhayorapi sādhyadṛṣṭāntayoḥ sadhytvāpādanena pratyavasthānaṃ sā
 
 ## 75. Dialectical terms (25): Criticism (upālaṃbha)
 
-
 Philosophy of Charaka-samhita
 
-by Asokan. G | 2008 | 88,742 words
-
 Ayurveda, represented by Charaka and Sushruta, stands first among the sciences of Indian intellectual tradition. The Charaka-samhita, ascribed to the great celebrity Charaka, has got three strata. (1) The first stratum is the original work composed by Agnivesha, the foremost of the six disciples of Punarvasu Atreya. He accomplished the work by coll...
-
-Go directly to: 
-Footnotes.
 
 Dialectical terms (25): Criticism (upālaṃbha)
 
 Criticism (upālaṃbha) denotes the act of pointing out the fallacies of reason in a debate.[1]
-
-Footnotes and references:
-
-[back to top]
 
 [1]:
 
@@ -7811,23 +7090,13 @@ upālaṃbho nāma hetordoṣavacanaṃ. CS,Vimāna - sthāna, VIII. 59.
 
 ## 76. Dialectical terms (28): Confessional retort (abhyanujñā)
 
-
 Philosophy of Charaka-samhita
 
-by Asokan. G | 2008 | 88,742 words
-
 Ayurveda, represented by Charaka and Sushruta, stands first among the sciences of Indian intellectual tradition. The Charaka-samhita, ascribed to the great celebrity Charaka, has got three strata. (1) The first stratum is the original work composed by Agnivesha, the foremost of the six disciples of Punarvasu Atreya. He accomplished the work by coll...
-
-Go directly to: 
-Footnotes.
 
 Dialectical terms (28): Confessional retort (abhyanujñā)
 
 A confessional retort (abhynujñā) consists in charging the opponent with a defect by admitting the defect in oneself.[1] This corresponds to the point of defeat called matānujñā of Nyāya-sūtra.[2]
-
-Footnotes and references:
-
-[back to top]
 
 [1]:
 
@@ -7841,23 +7110,13 @@ svapakṣe doṣābhyupagamāt parapakṣe doṣaprasaṅgo matānujñā, Nyāya
 
 ## 77. Dialectical terms (29): Dodging with a wrong reason (hetvantara)
 
-
 Philosophy of Charaka-samhita
 
-by Asokan. G | 2008 | 88,742 words
-
 Ayurveda, represented by Charaka and Sushruta, stands first among the sciences of Indian intellectual tradition. The Charaka-samhita, ascribed to the great celebrity Charaka, has got three strata. (1) The first stratum is the original work composed by Agnivesha, the foremost of the six disciples of Punarvasu Atreya. He accomplished the work by coll...
-
-Go directly to: 
-Footnotes.
 
 Dialectical terms (29): Dodging with a wrong reason (hetvantara)
 
 If the disputant dodges a genuine reason by giving a wrong reason, it is called hetvantara.[1] The Nyāya-sūtra describes it in a different way from this. There, it consists in investing the reason with a particular character, when the reason of general character is opposed.[2]
-
-Footnotes and references:
-
-[back to top]
 
 [1]:
 
@@ -7871,25 +7130,15 @@ aviśeṣoktau hetau pratiṣiddhe viśeṣamicchato hetvantaraṃ. Nyāyasūtra
 
 ## 78. Dialectical terms (27): Violating the proposition (pratijñāhāni)
 
-
 Philosophy of Charaka-samhita
 
-by Asokan. G | 2008 | 88,742 words
-
 Ayurveda, represented by Charaka and Sushruta, stands first among the sciences of Indian intellectual tradition. The Charaka-samhita, ascribed to the great celebrity Charaka, has got three strata. (1) The first stratum is the original work composed by Agnivesha, the foremost of the six disciples of Punarvasu Atreya. He accomplished the work by coll...
-
-Go directly to: 
-Footnotes.
 
 Dialectical terms (27): Violating the proposition (pratijñāhāni)
 
 When one is forced to forsake his preposition due to the attack of the opponent, it is called violating the proposition.[1] For instance, when one begins with his assertion that the self is eternal, but being contradicted by the opponent by a counter thesis that the self is ephemeral, he is forced to give up his original proposition that the self is eternal.
 
 A quite different definition of pratijñāhāni is given by Akṣapāda who considers it as a division of the point of defeat. Accordingly, violating the proposition occurs when one admits in his example that there is the character of a counter example.[2] A person says that sound is ephemeral because it is perceptible by a sense capacity like a jar and the opponent refutes it by saying that sound is eternal because it is perceptible by a sense organ like a genus which is eternal. Then the disputant replies that if a perceptible genus is eternal, a jar also must be eternal. Here the disputant admits that in his example jar, there is the character of eternity which is a property of genus, the counter example. Thus, he denies the ephemeral nature of a jar proposed by him and admits its eternity which is the character of a counter example and hurts the disputant's proposition.[3] Even though the definition given by Caraka is different from the definition given in Nyāya-sūtra, he agrees with the core point that the disputant has to forsake his original thesis. As such, it can be treated as a point of defeat.
-
-Footnotes and references:
-
-[back to top]
 
 [1]:
 
@@ -7907,15 +7156,9 @@ see Vātsyāyana on ibid, Nyāya-Bhāṣya of Vātsyāyana., p. 448-49.
 
 ## 79. Ten technical debate terms [in Charaka philosophy]
 
-
 Philosophy of Charaka-samhita
 
-by Asokan. G | 2008 | 88,742 words
-
 Ayurveda, represented by Charaka and Sushruta, stands first among the sciences of Indian intellectual tradition. The Charaka-samhita, ascribed to the great celebrity Charaka, has got three strata. (1) The first stratum is the original work composed by Agnivesha, the foremost of the six disciples of Punarvasu Atreya. He accomplished the work by coll...
-
-Go directly to: 
-Footnotes.
 
 Ten technical debate terms [in Charaka philosophy]
 
@@ -7953,10 +7196,6 @@ Caraka recognizes pratijñāhāni, abhyanujñā, kālatītavacana, ahetu, nyūna
 
 The fallacy of reason prakāraṇasama and saṃśāyasama given in Caraka and the Nyāya-sūtras are different. Varṇyasama of the Saṃhitā corresponds to the false rejoinder sādhyasama in the Nyāya-sūtra. Jijñāsa, vavasāya. anuyojya, ananuyojya,, anuyoga, pratyanuyoga, vākyapraśaṃsā, upalaṃbhah, parihāra discussed in Caraka are not given catagorial importance in the Nyāya-sūtras.
 
-Footnotes and references:
-
-[back to top]
-
 [1]:
 
 CS, Vimāna - sthāna, VIII. 83. Many of the terms described in this group have got specific implications in other disciplines. That is why Caraka says that these terms are described in their technical sense as applied in Āyruveda.
@@ -7973,23 +7212,13 @@ Ibid., 65.
 
 ## 80. Dialectical terms (31): Points of defeat (nigrahasthāna)
 
-
 Philosophy of Charaka-samhita
 
-by Asokan. G | 2008 | 88,742 words
-
 Ayurveda, represented by Charaka and Sushruta, stands first among the sciences of Indian intellectual tradition. The Charaka-samhita, ascribed to the great celebrity Charaka, has got three strata. (1) The first stratum is the original work composed by Agnivesha, the foremost of the six disciples of Punarvasu Atreya. He accomplished the work by coll...
-
-Go directly to: 
-Footnotes.
 
 Dialectical terms (31): Points of defeat (nigrahasthāna)
 
 Points of defeat are the grounds of defeat. Caraka says that it occurs when an argument of the disputant is not understood by the assembly constituted by learned members. Caraka has already discussed the various types of points of defeat in the course of his discussion. The Nyāya-sūtra describes it as the inability to refute an opponent's thesis or to establish one's own thesis refuted by the opponent.[1] Twenty-two kinds of such nigrahasthānas are enumerated in the Nyāya-sūtra.[2]
-
-Footnotes and references:
-
-[back to top]
 
 [1]:
 
@@ -8003,25 +7232,15 @@ pratijñāhāniḥ pratijñāntaraṃ pratijñāvirodhaḥ pratijñāsaṃnyāso
 
 ## 81. Dialectical terms (30): Offering irrelevant statement (arthāntara)
 
-
 Philosophy of Charaka-samhita
 
-by Asokan. G | 2008 | 88,742 words
-
 Ayurveda, represented by Charaka and Sushruta, stands first among the sciences of Indian intellectual tradition. The Charaka-samhita, ascribed to the great celebrity Charaka, has got three strata. (1) The first stratum is the original work composed by Agnivesha, the foremost of the six disciples of Punarvasu Atreya. He accomplished the work by coll...
-
-Go directly to: 
-Footnotes.
 
 Dialectical terms (30): Offering irrelevant statement (arthāntara)
 
 Offering irrelevant statement (arthāntara) consists in setting aside the relevant topic and introducing the irrelevant one.[1]
 
 Example: When the disputant is expected to give the-definition of fever, he gives the definition of diabetes (prameha).This is also given in the Nyāya-sūtra.[2]
-
-Footnotes and references:
-
-[back to top]
 
 [1]:
 
@@ -8035,15 +7254,9 @@ prakṛtādarthādapratisambandhārthamarthāntaraṃ. Nyāyasūtra., V. ii. 7.
 
 ## 82. The historicity of logic and dialectical speculations of Carakasaṃhitā
 
-
 Philosophy of Charaka-samhita
 
-by Asokan. G | 2008 | 88,742 words
-
 Ayurveda, represented by Charaka and Sushruta, stands first among the sciences of Indian intellectual tradition. The Charaka-samhita, ascribed to the great celebrity Charaka, has got three strata. (1) The first stratum is the original work composed by Agnivesha, the foremost of the six disciples of Punarvasu Atreya. He accomplished the work by coll...
-
-Go directly to: 
-Footnotes.
 
 The historicity of logic and dialectical speculations of Carakasaṃhitā
 
@@ -8074,10 +7287,6 @@ There are sufficient internal and external evidences to prove that Carakasaṃhi
 The most reasonable conclusion that can be drawn from the foregoing facts is that Caraka gives a methodology of right thinking and the details of system of logic and dialectics practically complete and more or less consistent. Yet it has not attained the nature of a full-fledged system. Caraka addresses logic and dialectical problems not in isolation but as a second step in the hierarchy of education. In fact, his main objective was not to propound a cut and dry system of the science of reasoning and theory of knowledge but to give a complete picture of honest and value oriented medical education. Caraka expresses his views on all cognate and interdependent questions on the theory of knowledge so that it would facilitate the medical realm for clearing doubts and absurdities of what has been apprehended and thereby updating the medical knowledge. The momentous thing that is to be remembered is that there is none other than the Carakasaṃhitā in Āyurveda which gives such a detailed account of the science of reasoning. Perhaps there are shortcomings and imperfections. It is the one and the only earliest book which elaborates the nature of debating council, divisions of debate, strategies to be adopted in the debate and the dialectical terms including the fundamental categories that constitute the universe. Above all, the Carakasaṃhitā itself stands as an icon of the methodology of thought and expression. On the contrary, the available Nyāya-sūtras does not speak about the nature of the council or the strategies that is to be taken up in a debate. Based on the similarity and differences described above, we can understand that, among the sixteen categories of the Nyāya-sūtra, all the fifteen except the category prameya (which deals metaphysics) are the extricated and modified forms of the dialectical terms enumerated by Caraka. Even if we accept the argument of Vidyabhusana for argument there is sufficient evidence to substantiate the fact that Caraka's account of the method of debate has happened some three centuries before Akṣapāda.
 
 The novelty of the Nyāya-sūtra is that it has developed a well knit theory of epistemology and logic and it led to the acceleration of the dialectical interaction of the various philosophical systems. In fact, its influence has been greater in other philosophical systems and thereby assumed the status of a newly constructed philosophical system. Thus, it has eclipsed what has been explained in Carakasaṃhitā and henceforth became the sole standard of posterity. The Nyāya system as an independent philosophical school took the lead in applying it for metaphysical discussions. Thus, it became an inevitable part of other philosophical systems also. So, from the existing data we can concede that the earliest available work which has pioneered to codify a methodology of rational thought is Carakasaṃhitā.
-
-Footnotes and references:
-
-[back to top]
 
 [1]:
 
@@ -8199,10 +7408,7 @@ yadakṣapādapravaro munīnāṃ śamāya śāstraṃ jagado jagāda, Nyāya-V�
 
 ## 83. Chapter 8 - Ethics
 
-
 Philosophy of Charaka-samhita
-
-by Asokan. G | 2008 | 88,742 words
 
 Ayurveda, represented by Charaka and Sushruta, stands first among the sciences of Indian intellectual tradition. The Charaka-samhita, ascribed to the great celebrity Charaka, has got three strata. (1) The first stratum is the original work composed by Agnivesha, the foremost of the six disciples of Punarvasu Atreya. He accomplished the work by coll...
 
@@ -8214,10 +7420,7 @@ Chapter 8 - Ethics
 
 ## 84. Introduction (ethics according to Charaka philosophy)
 
-
 Philosophy of Charaka-samhita
-
-by Asokan. G | 2008 | 88,742 words
 
 Ayurveda, represented by Charaka and Sushruta, stands first among the sciences of Indian intellectual tradition. The Charaka-samhita, ascribed to the great celebrity Charaka, has got three strata. (1) The first stratum is the original work composed by Agnivesha, the foremost of the six disciples of Punarvasu Atreya. He accomplished the work by coll...
 
@@ -8231,15 +7434,9 @@ Beyond our expectations Caraka depicts its moral outlook. It is not a stereotype
 
 ## 85. Moral outlook of Caraka
 
-
 Philosophy of Charaka-samhita
 
-by Asokan. G | 2008 | 88,742 words
-
 Ayurveda, represented by Charaka and Sushruta, stands first among the sciences of Indian intellectual tradition. The Charaka-samhita, ascribed to the great celebrity Charaka, has got three strata. (1) The first stratum is the original work composed by Agnivesha, the foremost of the six disciples of Punarvasu Atreya. He accomplished the work by coll...
-
-Go directly to: 
-Footnotes.
 
 Moral outlook of Caraka
 
@@ -8249,10 +7446,6 @@ Caraka adopts a rational attitude. Through the words of Ātreya he declares that
 
 If “social morality” is predominantly the morality of doing, and individual morality is the morality of “being”, we see the culmination of both in the moral conceptions of Caraka. He pays equal importance to worldly life and liberation. Mundane life is construed as a way to attain the spiritual optimum. In other words, it is a synthesis of the world- and- life-affirming moral conceptions of Vedic- tradition.
 
-Footnotes and references:
-
-[back to top]
-
 [1]:
 
 CS, Su, XI. 27.
@@ -8261,25 +7454,15 @@ CS, Su, XI. 27.
 
 ## 86. Spiritual basis of moral conception
 
-
 Philosophy of Charaka-samhita
 
-by Asokan. G | 2008 | 88,742 words
-
 Ayurveda, represented by Charaka and Sushruta, stands first among the sciences of Indian intellectual tradition. The Charaka-samhita, ascribed to the great celebrity Charaka, has got three strata. (1) The first stratum is the original work composed by Agnivesha, the foremost of the six disciples of Punarvasu Atreya. He accomplished the work by coll...
-
-Go directly to: 
-Footnotes.
 
 Spiritual basis of moral conception
 
 In consonance with the Vedic thought, Caraka believes that the ultimate reality is the very essence of the universe as well as an inner self of man and it sets for him a spiritual goal of “complete freedom” from all forms of suffering as higher than any other goal to which his mundane inclinations lead to. The moral conception underpinned is based on the belief of the unity of everything at the transcendent level. The basic postulates of the mortality of the self, the law of action (karma), rebirth or transmigration, and liberation are being discussed with due importance in Caraka. In this sense, its moral conceptions are directed towards the attainment of individual liberation (mokṣa.). But it cannot be interpreted as self-centric forthe reason that it never tolerated the idea of pessimistic sentiments denouncing the world and exalting world renunciation as a way of getting liberated from transmigratory existence by following the way of mendicants.[1]
 
 Caraka believes in the world of suffering. But he does not ask to reject the socio-moral obligations for the sake of liberation. His ethical outlook is not life-negating. On the other hand, he puts forth a moral outlook which is fully world-and-life affirming. Caraka was circumspect of the realty that all activities of human-beings are directed towards the achievement of happiness.[2] Even though Caraka speaks of the four “aims of life”, namely righteousness (dharma), material prosperity (artha), desires (kāma), and liberation (mokṣa),[3] he emphasizes the first three which can be construed more subtly perhaps as attitudes or orientations[4] than the final aim of life—liberation (mokṣa). He says that one should discard unwholesome attitudes and adopt wholesome ones in regard to righteousness (dharma), material prosperity (artha), and desire (kāma), for no happiness or pain can occur without these three factors.[5] It vindicates that his prime concern is mundane life and happiness. A happy man is one who is free from all vices such as physical violence, adultery, theft, and persecution. Such a person can only relish the fruits of dharma, artha, and kāma.[6]
-
-Footnotes and references:
-
-[back to top]
 
 [1]:
 
@@ -8309,15 +7492,9 @@ Ibid, 28-30.
 
 ## 87. Analytical devices (tantrayukis)
 
-
 Philosophy of Charaka-samhita
 
-by Asokan. G | 2008 | 88,742 words
-
 Ayurveda, represented by Charaka and Sushruta, stands first among the sciences of Indian intellectual tradition. The Charaka-samhita, ascribed to the great celebrity Charaka, has got three strata. (1) The first stratum is the original work composed by Agnivesha, the foremost of the six disciples of Punarvasu Atreya. He accomplished the work by coll...
-
-Go directly to: 
-Footnotes.
 
 Analytical devices (tantrayukis)
 
@@ -8427,10 +7604,6 @@ hetu.[14]
 
 Suśruta enumerates only thirty-two tantrayuktis.[15]
 
-Footnotes and references:
-
-[back to top]
-
 [1]:
 
 KFL, p. 28
@@ -8495,15 +7668,9 @@ Suśrutasaṃhitā of Suśruta., Uttara - tantra, IXV. 3.
 
 ## 88. Moral prescriptions for healthy and happy life
 
-
 Philosophy of Charaka-samhita
 
-by Asokan. G | 2008 | 88,742 words
-
 Ayurveda, represented by Charaka and Sushruta, stands first among the sciences of Indian intellectual tradition. The Charaka-samhita, ascribed to the great celebrity Charaka, has got three strata. (1) The first stratum is the original work composed by Agnivesha, the foremost of the six disciples of Punarvasu Atreya. He accomplished the work by coll...
-
-Go directly to: 
-Footnotes.
 
 Moral prescriptions for healthy and happy life
 
@@ -8514,10 +7681,6 @@ One should avoid such sinful persons in character, speech, and mind as well as t
 It is essential to maintain the balance of both mind and sense organs. For this one has to perform one's noble acts with utmost care. Caraka says that one should respect gods, cows, brahmins, preceptors (gurus), and elderly. One ought to help other persons, saints, and great teachers (acāryas). One should offer auspicious amulets, wear good herbs, bath twice, and clean all the pores of the body and feet, and cut hair, beard, and nail three times in a fortnight. One should wear good apparel, should be pleasant, apply scent, comb the hair, oil the head, ears, nose, and feet and smoke. One should perform sacrifices, and pay offerings to the departed ancestors. One should be self controlled and virtuous. One should be envious of another person's efficiency, but should not be jealous of the fruits of such efficiency. One should be firm in decision, fearless, susceptible to the feelings of shame, be intelligent, energetic, skilful, merciful, virtuous, and a believer (āstika). One should devote oneself to teachers who are modest, intelligent, learned, noble, aged, and spiritually perfect. One should acquit oneself as well as display good manners. One should avoid going to impure and untidy places. One should be compassionate to all beings and should root out attachment and antipathy.[4]
 
 It may not be improper to refer to Caraka's opinion of social hierarchy. In connection with the description of practices that is to be followed for the procreation of the desired child he describes the due rites that should be performed by women belonging to each varṇa, namely brāhmin, kṣatriya and vaiśya. He also reminds us that a śūdra woman should offer only obeiscence to the gods, fire, brāhmins, preceptors, and those who have attained perfection.[5] This shows that Caraka did not dishonour the social hierarchy. But it does not in any way harm his humanitarian conceptions. It is not because of sectarian thoughts that he refers to such customs, but because he believed in the potency of one's karma to ordain for him pleasure and pain according to the good or bad actions one does. So the assumption of inequality of men is sought to be justified on the basis of the law of karma which traces these inequalities of the present life to the actions of different selves in their past lives.
-
-Footnotes and references:
-
-[back to top]
 
 [1]:
 
@@ -8543,21 +7706,13 @@ See, CS, Śārīra - sthāna, VIII. 10-14.
 
 ## 89. General outlook of morality
 
-
 Philosophy of Charaka-samhita
 
-by Asokan. G | 2008 | 88,742 words
-
 Ayurveda, represented by Charaka and Sushruta, stands first among the sciences of Indian intellectual tradition. The Charaka-samhita, ascribed to the great celebrity Charaka, has got three strata. (1) The first stratum is the original work composed by Agnivesha, the foremost of the six disciples of Punarvasu Atreya. He accomplished the work by coll...
-
-Go directly to: 
-Footnotes.
 
 General outlook of morality
 
 First of all, let us have a brief description of the conception of ethics in general and in Indian tradition in particular before going into the details of the ethical conceptions of Caraka. It would be helpful to understand the relevance and importance of Caraka in this respect.
-
-“Morality means conscious living within the frame of certain principles of conduct laid down by those regarded as authorities. In general, therefore, the moral institution of life or moral point of view consists in the awareness of an important distinction between what is and what ought to be. For man should live not merely in the light of what is but also what ought to be. To be more specific it is the awareness of living based on a distinction between our animal demands and the demands of the higher faculties of human worthy of the distinctive nature of man”.[1]
 
 “Morality means conscious living within the frame of certain principles of conduct laid down by those regarded as authorities. In general, therefore, the moral institution of life or moral point of view consists in the awareness of an important distinction between what is and what ought to be. For man should live not merely in the light of what is but also what ought to be. To be more specific it is the awareness of living based on a distinction between our animal demands and the demands of the higher faculties of human worthy of the distinctive nature of man”.[1]
 
@@ -8592,10 +7747,6 @@ Of them, virtues are the first kind of actions since they lead to liberation.[21
 Similarly, in the philosophy, merit (dharma) and demerit (adharma) are the qualities of the self and they are not the objective act which is prompted by the self. There is no merit or demerit in the action itself. It is always the intention which causes merit and demerit.[22] The Nyāya-Vaiśeṣikas say that actions are caused by volition (prayatna). Śaṅkaramiśra defines karma as action (pravṛtti) and inaction (nivṛtti) for acquiring the beneficial and avoiding the non-beneficial and that such actions and inactions are produced by peculiar type of volitions springing from the mental dispositions of desire and aversion.[23] So, according to the Nyāya - Vaiśeṣika, it is the intention that determines whether an action is right or wrong.
 
 Thus, we see a transition in the concept of ethics in the philosophical systems. Karma was given a new interpretation. In spite of the differences in their world outlook, they were more or less unanimous in reinterpreting karma. If karma formerly stood for ritual action and social duties, the new meaning it acquired was action prompted by intention. Thus, intention became absolutely essential for constituting rightness and wrongness, and naturally the purification of mind attained prime position in ethical conceptions. In spite of the differences, all are unanimous in the basic postulation of ultimate values. All of them accept the ethical values of exclusion of envy, hatred, covetousness, wickedness, and the practice of humility, charity, love, greatfulness, sympathy, and self sacrifice.
-
-Footnotes and references:
-
-[back to top]
 
 [1]:
 
@@ -8693,25 +7844,15 @@ CS, Śārīra - sthāna, V. 9 iccādveṣajanite pravṛttinivṛttī prayatnavi
 
 ## 90. Medical ethics [in Charaka philosophy]
 
-
 Philosophy of Charaka-samhita
 
-by Asokan. G | 2008 | 88,742 words
-
 Ayurveda, represented by Charaka and Sushruta, stands first among the sciences of Indian intellectual tradition. The Charaka-samhita, ascribed to the great celebrity Charaka, has got three strata. (1) The first stratum is the original work composed by Agnivesha, the foremost of the six disciples of Punarvasu Atreya. He accomplished the work by coll...
-
-Go directly to: 
-Footnotes.
 
 Medical ethics [in Charaka philosophy]
 
 The most striking aspect of Caraka’s ethics is that he was highly conscious of the moral obligations of medical professionals to society. He cautions them to keep the moral standards intact. He says that a physician should always be a great humanist. He must primarily possess knowledge, imagination, comprehension, memory, resourcefulness and promptness;[1] must be prudent, must have self-restraint, and must be endowed with presence of mind.[2] A physician must also have a clear knowledge of drugs and their applications. Even a deadly poison can become an excellent drug if properly administered and, on the contrary, if it is not properly administered, it will be a deadly poison. So, if the physician is not competent in these aspects, his prescription would be nothing but poison, a weapon, fire or a thunderbolt to his patient, for it kills him.[3] He also warns that even a talk with a physician who is an impostor devoid of vitruous acts will be the messenger of death.[4]
 
 He repeatedly insists on the quality of the head and the heart and the need to be careful about giving quarter to quacks, imposters and charlatans. It is better to die rather than to be treated by a quack physician.[5] Such physicians who take away the life instead of diseases are called rogābhisāras.[6] The physician should show compassion towards the ailing, should have devotion to patients who can be cured, but be detached from the dying patients.[7] Genuine physicians are saviours of life (prāṇābhisāras).[8]
-
-Footnotes and references:
-
-[back to top]
 
 [1]:
 
@@ -8749,15 +7890,9 @@ tasmācchastre'rthavijñāne pravṛttau karmadarśane bhiṣak catuṣṭaye yu
 
 ## 91. Theory of karma
 
-
 Philosophy of Charaka-samhita
 
-by Asokan. G | 2008 | 88,742 words
-
 Ayurveda, represented by Charaka and Sushruta, stands first among the sciences of Indian intellectual tradition. The Charaka-samhita, ascribed to the great celebrity Charaka, has got three strata. (1) The first stratum is the original work composed by Agnivesha, the foremost of the six disciples of Punarvasu Atreya. He accomplished the work by coll...
-
-Go directly to: 
-Footnotes.
 
 Theory of karma
 
@@ -8784,10 +7919,6 @@ Craving arises from erroneous knowledge of objects in the pursuit of happiness. 
 It is one’s knowledge that determines the way of life. One is able to retain one's identity as long as one retains one's power of discrimination between right and wrong. The discriminative and judgmental capacity of a person depends on wisdom (prajñā) which consists in apprehension (dhī), fortitude (dhṛti), and memory (smṛti). If the instruments of knowledge, most particularly the inner instruments, are disciplined and integrated, there comes in wisdom, the cause of wholesome volitional acts, that gives rise to happiness. So Caraka construes volitional transgression (prajñāparādha) due to the degeneration or derangement of intelligence (dhī), fortitude (dhṛti), and memory (smṛti)[18] as one of the root causes of all sufferings. All the mental defects such as malice, despair, fear, anger, vanity, and hatred are also considered as volitional transgression.[19] So, annihilation of volitional transgression, control of sense organs, precise memory and accurate knowledge of place and time, self awareness, and good conduct will promote wholesome actions.[20]
 
 The conceptions of these three fundamental motives as the basic instincts of all actions and the classification of karma into daiva and pauruṣa are something peculiar to Caraka and it differentiates Carakasaṃhitā from all other systems of Indian philosophy. Probably it is the daiva that determines one's basic instincts and so it can be equated with the unseen (adṛṣṭa / dharma and adharma) in the Vaiśeṣika - sūtra.
-
-Footnotes and references:
-
-[back to top]
 
 [1]:
 
@@ -8873,15 +8004,9 @@ tyāgaḥ prajñāparādhānāmindriyopaśamaḥ smṛtiḥ deśakālātmavi-jñ
 
 ## 92. Liberation (mokṣa) as the ultimate moral end
 
-
 Philosophy of Charaka-samhita
 
-by Asokan. G | 2008 | 88,742 words
-
 Ayurveda, represented by Charaka and Sushruta, stands first among the sciences of Indian intellectual tradition. The Charaka-samhita, ascribed to the great celebrity Charaka, has got three strata. (1) The first stratum is the original work composed by Agnivesha, the foremost of the six disciples of Punarvasu Atreya. He accomplished the work by coll...
-
-Go directly to: 
-Footnotes.
 
 Liberation (mokṣa) as the ultimate moral end
 
@@ -8898,10 +8023,6 @@ Experiences are in the form of happiness and pain. They are all sufferings, for 
 All kinds of positive actions are sinful.[7] The positive actions originate from prjñāparādha which springs from desire and aversion engendered by erroneous knowledge and such a person is engulfed in egoistic feelings (ahaṃkāra), vocal, mental, and physical actions (saṅga), doubt (saṃśaya), vanity (abhisaṃplava), selfish dispositions (abhyavapāta), erroneous knowledge in the form of a beneficial thing as harmful (vipratyaya), lack of distinction between conscious and unconscious elements, nature and its modification, attachment and detachment (aviśeṣa), and performance of rituals, priesthood and begging. (anupāya).[8] Again, volitional transgression (prjñāparādha) is due to the derangement of apprehension (dhī), fortitude (dhṛti), and memory (smṛit).[9] The derangement of intellect (dhībhraṃśa) means wrong apprehension like the apprehension of an eternal entity as ephemeral, a beneficial thing as non-beneficial. The correct apprehension is the cognition of a thing as it is. The derangement of fortitude (dhṛtibhraṃśa) is the unrestrained mental urge to do harm to worldly objects. The control of mind is called fortitude. Similarly, the derangement of memory (smṛtibhraṃśa) is the erroneous apprehension due to the envelopment of rajas and tamas.[10]
 
 This vindicates that if ignorance, that is, if the derangement of intellect, fortitude, and memory are totally eradicated, volitional transgression can be eliminated, and if volitional transgression is eliminated positive actions can be relinquished. Then again if positive actions cease, the vicious circle of craving and suffering in the form of experiences can be completely rooted out. So the primary thing is to eradicate ignorance. Caraka says that a person with pure mind and who practices yoga acquires true knowledge and eliminates ignorance. Thus, one is able to see things “the way they really are”. This insight will help one to renounce everything, thereby all cravings and suffering can be eradicated and ultimate freedom can be attained.[11]
-
-Footnotes and references:
-
-[back to top]
 
 [1]:
 
@@ -8951,15 +8072,9 @@ Ibid., V. 16-18.
 
 ## 93. Means conducive to liberation
 
-
 Philosophy of Charaka-samhita
 
-by Asokan. G | 2008 | 88,742 words
-
 Ayurveda, represented by Charaka and Sushruta, stands first among the sciences of Indian intellectual tradition. The Charaka-samhita, ascribed to the great celebrity Charaka, has got three strata. (1) The first stratum is the original work composed by Agnivesha, the foremost of the six disciples of Punarvasu Atreya. He accomplished the work by coll...
-
-Go directly to: 
-Footnotes.
 
 Means conducive to liberation
 
@@ -8970,10 +8085,6 @@ Unless the impurities like desire aversion and attachment are removed by right e
 Fundamentally speaking, the way to liberation is the acceleration of intelligence, fortitude, and memory of ultimate reality. The continuity of the psychosomatic relation will be destroyed when these three factors engender human perfection.[4] Among these three factors, the memory of transcendent reality occupies the prominent place.[5] The causal factors that lead to memory are apprehension of cause and form, similarity, difference, indulgence of mind, recurrence of cognition, repetitive hearing and recollection of all former experiences.[6] The main factors that catalyze one's memory capacity are devotion to the nobles, abstinence from the wicked; observance of vows and fasts, apprehension of Dharmaśāstras and performance of duties in accordance with its rules, inclination to live in solitude, detachment from the worldly objects, right apprehension, supreme fortitude, desisting from new activities, annihilation of the past actions, extermination of egoistic dispositions, fear of attachment, serenity of mind and consciousness, and meditation.[7] To be precise, it is the recollection of the ultimate reality that leads one to ultimate liberation from sufferings.[8]
 
 If the ultimate freedom is implicit in the transcendental knowledge, the psychosomatic spiritual endeavour that brings about the condition of quiescence is called Yoga.[9] Yoga is the awakening of a man into the freedom of the self. Yoga is a self impelled and self initiated effort by which man ascents from the lower to the higher existence.[10] Meditative contemplation or the exploration of the deeper reaches of consciousness of a Yogin is marked by the purity of mind that gives rise to the eight kinds of divine strength and powers.Those powers are (1) the capacity of the self to enter the body of others, (2) the capacity for cognition of mental objects, (3) doing things at will, (4) supernatural vision, (5) supernatural audition, (6) miraculous memory, (7) extraordinary brilliance, and (8)the state of unawareness when desired.[11]
-
-Footnotes and references:
-
-[back to top]
 
 [1]:
 
@@ -9023,15 +8134,9 @@ CS, Śārīra - sthāna, I. 140-141.
 
 ## 94. Compassion as the crowning principle of morality
 
-
 Philosophy of Charaka-samhita
 
-by Asokan. G | 2008 | 88,742 words
-
 Ayurveda, represented by Charaka and Sushruta, stands first among the sciences of Indian intellectual tradition. The Charaka-samhita, ascribed to the great celebrity Charaka, has got three strata. (1) The first stratum is the original work composed by Agnivesha, the foremost of the six disciples of Punarvasu Atreya. He accomplished the work by coll...
-
-Go directly to: 
-Footnotes.
 
 Compassion as the crowning principle of morality
 
@@ -9044,10 +8149,6 @@ So, if we look at the whole picture, the ethical conceptions of Caraka have got 
 The institution of morality has for its basic concern the regulation of man's lower inclinations and the promotion of the higher ones in realization of his aspiration as a man. It is in such a concern that the transition of “is” to “ought” is involved. Not only is the conduct to other members of the society emphasized, but his behaviour to himself is stressed with equal importance. Purification of mind and control of sense organs and subordination of lower impulses to the higher ones through a proper understanding of his inner nature and through the observance of some practical discipline which are indispensable for the attainment of higher values of life are repeatedly reminded of.
 
 Even though Caraka gives lengthy moral prescriptions, he does not consider ethics as a mere study of morals. On the contrary, it is the acknowledgement of human responsibility to the sentient beings of the world. Caraka’s ethical system conceives man as an all comprehensive concept. Man is not considered as a limited being. On the contrary, he is regarded as the universal link between all humans and non-human animals. His ethical system is allied to the affirmation of both man and the world as natural. It combines in it both the “world view” and “life view”.
-
-Footnotes and references:
-
-[back to top]
 
 [1]:
 
@@ -9073,23 +8174,13 @@ Albert Sheweitzer was a contemperory altruist of the West, who decided to make h
 
 ## 95. Nature of freedom
 
-
 Philosophy of Charaka-samhita
 
-by Asokan. G | 2008 | 88,742 words
-
 Ayurveda, represented by Charaka and Sushruta, stands first among the sciences of Indian intellectual tradition. The Charaka-samhita, ascribed to the great celebrity Charaka, has got three strata. (1) The first stratum is the original work composed by Agnivesha, the foremost of the six disciples of Punarvasu Atreya. He accomplished the work by coll...
-
-Go directly to: 
-Footnotes.
 
 Nature of freedom
 
 Liberation is a transformation from the negative states of unpleasant experiences to a positive state. It is the state of quiescence (praśānta) and immutability (akśara). It is called the Brahman.[1] This optimum can be attained only by complete renouncement. In the final stage of renunciation (caramasanyāsa) all sense-bound experiences including all determinate and specific cognitions are completely relinquished.[2] One ultimately identifies oneself with the Brahman. Self awareness ceases and finally the phenomenal existence itself ceases with out leaving behind any identifying mark.[3] In the liberated state, all volitions get destroyed due to the absence of rajas and tamas. Thus, one is finally and irrecoverably liberated from the ties of the phenomenal world, from rebirth.[4]
-
-Footnotes and references:
-
-[back to top]
 
 [1]:
 
@@ -9111,25 +8202,15 @@ mokṣo rajastamo'bhāvāt balavatkarmasaṅkṣayāt viyogaḥ sarvasaṃyogair
 
 ## 96. Way of life to liberation [in Charaka philosophy]
 
-
 Philosophy of Charaka-samhita
 
-by Asokan. G | 2008 | 88,742 words
-
 Ayurveda, represented by Charaka and Sushruta, stands first among the sciences of Indian intellectual tradition. The Charaka-samhita, ascribed to the great celebrity Charaka, has got three strata. (1) The first stratum is the original work composed by Agnivesha, the foremost of the six disciples of Punarvasu Atreya. He accomplished the work by coll...
-
-Go directly to: 
-Footnotes.
 
 Way of life to liberation [in Charaka philosophy]
 
 Living in accordance with, but not quite tied up by the laws of nature, man, through his moral disposition and continuous efforts, is capable of realizing freedom. So Caraka further dictates elaborately the systematic and disciplined life of devotion.
 
 The seeker of liberation who has seen the futility of mundane life should approach a preceptor whose teaching he should put into practice. Thus, he should study the Dharmaśāstras, and mould his conduct and perform duties in compliance with the scriptures. He should be devotional to the noble and refrain from the wicked; should speak that which is conducive to the wellbeing of all living-beings and the speech should be gentle, reasonable, and pertinent. He should regard all living creatures as himself. He should avoid remembering, thinking about, desiring and talking with women. He should relinquish all belongings. He should wear a loin cloth and an ochrecoloured, garment and a case of needles for mending it. He should also carry a pot of water for cleaning, a mendicant's staff as a sign of his order of life, and a bowl for collecting alms. He should take food only once a day in order to keep his life and may substitute natural food accessible in the forest for cooked food. He may take rest on a bed improvised with dry leaves and weeds with out making it a usual habit. He may keep a wooden arm rest as an aid in meditation. He should live in the forest, but not in a roofed house. He should control desire and aversion and avoid drowsiness, sleep, and laziness. He should treat occasions of honouring, praise, criticism and insult as equal and should endure hunger thirst, fatigue, strain, cold, heat, wind, rain, pleasure, and pain. He should not be stimulated by grief, depression, self conceit, affliction, and arrogance. He should look on ego as the cause of suffering and view the micro-macro relationship of him to the universe. He should never hesitate to practice yoga. He must restrain all sense organs, the mind, and self. He should constantly resolve that the entities that constitute different parts of the body are the dhātus, should realize that anything that has a cause is miserable and ephemeral and all activities tainted with evil. He should regard complete renunciation as real happiness.[1] Eventually, such a disciplined life enables one to weaken and destroy ignorance, desire, and aversion underlying physiological urge to do positive acts and promotes one's cognitive capacities, fortitude, and memory and thereby free oneself from the ties of the phenomenal world. The way of life as has been suggested is nothing but the life of a monk (sanyāsin), which asks for complete renunciation.
-
-Footnotes and references:
-
-[back to top]
 
 [1]:
 
@@ -9139,15 +8220,9 @@ CS, Śārīra - sthāna, V.12. Loc. cit., F. Note 89.
 
 ## 97. Concept of liberation in other philosophical systems
 
-
 Philosophy of Charaka-samhita
 
-by Asokan. G | 2008 | 88,742 words
-
 Ayurveda, represented by Charaka and Sushruta, stands first among the sciences of Indian intellectual tradition. The Charaka-samhita, ascribed to the great celebrity Charaka, has got three strata. (1) The first stratum is the original work composed by Agnivesha, the foremost of the six disciples of Punarvasu Atreya. He accomplished the work by coll...
-
-Go directly to: 
-Footnotes.
 
 Concept of liberation in other philosophical systems
 
@@ -9164,10 +8239,6 @@ Jainism recognizes deliverance as the freedom of the self from kārmic matter wh
 If we look at the various view points described above, it can be understood that Caraka agrees with all the philosophical systems on the basic issues regarding freedom. He recognizes the phenomenal life as one of suffering and freedom from suffering as the goal of spiritual endeavour. He is of the opinion that the vision or insight into the reality of things will dispel one's illusion and ignorance and thus one can be liberated eternally and irrecoverably from all negative aspects of phenomenal existence by psycho-somatic spiritual endeavour.
 
 Liberation has two aspects: (1) the liberating process and (2) the state of being liberated. The liberating process is a negative one which involves the eradication of suffering, and being liberated, by contrast, is a positive state. Emphasizing the negative phase of eradication, Caraka calls it by the epithets nirvāṇa and nivṛtti which echo the Buddhists, the Sāṃkhya-Yoga and the Nyāya- Vaiśeṣika. At the same time, with regard to the final state of freedom he agrees with the Vedāntins who hold that freedom is the attainment of oneness with the Brahman.
-
-Footnotes and references:
-
-[back to top]
 
 [1]:
 
@@ -9265,10 +8336,7 @@ ACJ, p. 4.
 
 ## 98. Chapter 9 - Conclusion
 
-
 Philosophy of Charaka-samhita
-
-by Asokan. G | 2008 | 88,742 words
 
 Ayurveda, represented by Charaka and Sushruta, stands first among the sciences of Indian intellectual tradition. The Charaka-samhita, ascribed to the great celebrity Charaka, has got three strata. (1) The first stratum is the original work composed by Agnivesha, the foremost of the six disciples of Punarvasu Atreya. He accomplished the work by coll...
 

@@ -18,7 +18,6 @@ Language and terminology form the backbone of traditional Indian medicine. Every
 
 ---
 
-
 ### Key Sanskrit Terms starting with 'P' (Sample Preview)
 The following is an excerpt of classical Sanskrit terms starting with letter **P**:
 
@@ -57,7 +56,6 @@ The following is an excerpt of classical Sanskrit terms starting with letter **P
 </ul>
 
 *Browse all 2,023 authenticated terms under Letter P in the searchable directory above.*
-
 
 ---
 

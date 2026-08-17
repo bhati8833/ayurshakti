@@ -20,17 +20,11 @@ This chapter from **Sushruta Samhita (Kalpasthana)** represents the classical su
 
 ---
 
-
 Sushruta Samhita, Volume 5: Kalpasthana
-
-by Kaviraj Kunja Lal Bhishagratna | 1911 | 24,963 words
 
 This current book, the Kalpa-sthana (english translation), deals with the nature of poisons, the management of poisons, toxicology and various other subjects.
 
 The Sushruta Samhita is the most representative work of the Hindu system of medicine. It embraces all that can possibly appertain to the science of medicine. Susruta-samhita is recognized as...
-
-Go directly to: 
-Footnotes.
 
 Chapter II - Description of Sthavara (vegetable and mineral) poisons
 
@@ -113,10 +107,6 @@ Prognosis:—
 A case of Dushi-Visha poisoning in a prudent and judicious person, and of recent growth is easily cured, while palliation is the only relief that can be offered in a case of more than a year’s standing. In an enfeebled and intemperate patient, it should be considered as incurable. 30.
 
 Thus ends the sceond Chapter of the Kalpa Sthana in the Sushruta Samhita which treats of the Sthavara and jangama poisons.
-
-Footnotes and references:
-
-[back to top]
 
 [1]:
 

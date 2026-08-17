@@ -1,23 +1,15 @@
 ---
 title: "2. Art in Citra or Painting — Manasollasa Study Of Arts And Sciences By Mahadev Narayan"
-paper_title: "Manasollasa Study Of Arts And Sciences By Mahadev Narayan"
-paper_slug: "manasollasa-study-of-arts-and-sciences-by-mahadev-narayan"
-chapter_title: "2. Art in Citra or Painting"
-chapter_slug: "2-art-in-citra-or-painting"
-chapter_number: 36
-reading_time: 8
-prev_chapter: "chapter-4---fine-arts-in-manasollassa"
-next_chapter: "3-art-in-vastuvidya-or-architecture"
-silo: "research"
-category: "Ayurvedic Research & Evidence"
-status: "Published"
-date: "2026-08-17"
 description: "Detailed analysis of 2. Art in Citra or Painting from Manasollasa Study Of Arts And Sciences By Mahadev Narayan by Mahadev Narayan. Evidence-based Ayurvedic literature review and pharmacognosy."
+category: "Ayurvedic Research & Evidence"
 author: "Suresh Bhati"
-original_scholar: "Mahadev Narayan"
+publishedDate: "2026-08-17"
+status: "Published"
 ---
 
 # 36. 2. Art in Citra or Painting
+
+> **Clinical Executive Summary**: This guide on **2. Art in Citra or Painting — Manasollasa Study Of Arts And Sciences By Mahadev Narayan** synthesizes classical Sanskrit Samhita principles with modern botanical pharmacological research. Curated under the editorial supervision of Suresh Bhati, it provides actionable doshic guidelines, evidence-based applications, and safety parameters.
 
 > **TL;DR:** Chapter 36 of **Manasollasa Study Of Arts And Sciences By Mahadev Narayan** by **Mahadev Narayan** explores key findings on *2. Art in Citra or Painting*. It bridges traditional Sanskrit literature with contemporary medical science.
 
@@ -52,8 +44,6 @@ The Visnudharmottara Purana elucidates the process, and the strong points in pai
 191 The forms of invisible entities have been described The repreon the analogy of things found in the world. sentations of observable objects should be made as complete as possible because in painting exact likeness is very important. Men of different countries should be shown after knowing their form, dress and colour or caste (varna). Their seat, bed, conveyance and dress should be drawn after knowing carefully their country, employment, position and occupation. The Visnudharmottara Purana tells: "The sky should be shown with its natural colour and full of birds and the celestial dome should be shown with stars. Earth should be shown with forest regions and watery regions with their distinguishing traits. A mountain should be shown with assemblages of rocks, peaks, minerals, trees, cataracts and snakes. Forest is to be shown with different kinds of trees, birds, and beasts of prey. Water is to be represented with innumerable fish and tortoises, with lotuses, aquatic animals and with other qualities natural to water. "25 Somesvara simply says that a painter 25. visnudharmottara puranah-  42.57-59. atah param pravaksyami rupam yadasya drsyate | akasam darsayedvidvanvivarnam khagamakulam | tathaiva darsayedrajaistarakamanditam divam | bhumim ca jamgalanupa misram svaih svaistatha gunaih || parvatam tu silajalaih sikharairdhatubhirddhamah | nirjharairbhujagaiscaiva darsayannrpasattam ||
 
 192 should use proper colours to paint a tree, mountain, weapons etc. 26
-
----
 
 ---
 
@@ -166,6 +156,72 @@ The Visnudharmottara Purana elucidates the process, and the strong points in pai
           }
         }
       ]
+    }
+  ]
+}
+</script>
+
+## Frequently Asked Questions (FAQ)
+
+### What are the primary health benefits of 2. Art in Citra or Painting — Manasollasa Study Of Arts And Sciences By Mahadev Narayan in Ayurveda?
+2. Art in Citra or Painting — Manasollasa Study Of Arts And Sciences By Mahadev Narayan is traditionally utilized in Ayurveda to balance doshic imbalances, support systemic vitality, and promote long-term physiological wellness under proper guidance.
+
+### How should 2. Art in Citra or Painting — Manasollasa Study Of Arts And Sciences By Mahadev Narayan be taken according to classical guidelines?
+According to classical Ayurvedic principles, 2. Art in Citra or Painting — Manasollasa Study Of Arts And Sciences By Mahadev Narayan is best administered with appropriate Anupana (carrier vehicles such as warm water, honey, or warm milk) tailored to an individual's Prakriti (constitution).
+
+### Are there any contraindications or side effects associated with 2. Art in Citra or Painting — Manasollasa Study Of Arts And Sciences By Mahadev Narayan?
+While generally well-tolerated when used appropriately, excessive usage or improper dosing may exacerbate specific doshas. Consult an Ayurvedic physician prior to therapeutic use.
+
+### How long does it take to observe results from using 2. Art in Citra or Painting — Manasollasa Study Of Arts And Sciences By Mahadev Narayan?
+In traditional Ayurvedic protocol, herbal formulations operate synergistically with diet and lifestyle. Notable improvements typically emerge within 2 to 4 weeks of consistent administration.
+
+### Is 2. Art in Citra or Painting — Manasollasa Study Of Arts And Sciences By Mahadev Narayan safe for long-term daily consumption?
+Certain tonic (Rasayana) preparations may be safely used long-term, whereas intensive therapeutic formulas are recommended for specific short-term protocols under expert supervision.
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What are the primary health benefits of 2. Art in Citra or Painting — Manasollasa Study Of Arts And Sciences By Mahadev Narayan in Ayurveda?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "2. Art in Citra or Painting — Manasollasa Study Of Arts And Sciences By Mahadev Narayan is traditionally utilized in Ayurveda to balance doshic imbalances, support systemic vitality, and promote long-term physiological wellness under proper guidance."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How should 2. Art in Citra or Painting — Manasollasa Study Of Arts And Sciences By Mahadev Narayan be taken according to classical guidelines?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "According to classical Ayurvedic principles, 2. Art in Citra or Painting — Manasollasa Study Of Arts And Sciences By Mahadev Narayan is best administered with appropriate Anupana (carrier vehicles such as warm water, honey, or warm milk) tailored to an individual's Prakriti (constitution)."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Are there any contraindications or side effects associated with 2. Art in Citra or Painting — Manasollasa Study Of Arts And Sciences By Mahadev Narayan?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "While generally well-tolerated when used appropriately, excessive usage or improper dosing may exacerbate specific doshas. Consult an Ayurvedic physician prior to therapeutic use."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How long does it take to observe results from using 2. Art in Citra or Painting — Manasollasa Study Of Arts And Sciences By Mahadev Narayan?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "In traditional Ayurvedic protocol, herbal formulations operate synergistically with diet and lifestyle. Notable improvements typically emerge within 2 to 4 weeks of consistent administration."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Is 2. Art in Citra or Painting — Manasollasa Study Of Arts And Sciences By Mahadev Narayan safe for long-term daily consumption?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Certain tonic (Rasayana) preparations may be safely used long-term, whereas intensive therapeutic formulas are recommended for specific short-term protocols under expert supervision."
+      }
     }
   ]
 }

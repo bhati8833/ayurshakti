@@ -20,17 +20,11 @@ This chapter from **Sushruta Samhita (Chikitsasthana)** represents the classical
 
 ---
 
-
 Sushruta Samhita, volume 4: Cikitsasthana
-
-by Kaviraj Kunja Lal Bhishagratna | 1911 | 123,229 words
 
 This current book, the Chikitsa-sthana (english translation), deals with therapeutics, surgical emergencies, geriatrics, aphrodisiacs and various other subjects.
 
 The Sushruta Samhita is the most representative work of the Hindu system of medicine. It embraces all that can possibly appertain to the science of medicine. Susruta-samhita is recognized...
-
-Go directly to: 
-Footnotes.
 
 Chapter XXX - Elixirs (rasayana) to remove mental and physical distress
 
@@ -68,8 +62,6 @@ The first seven of the all-healing Oshadi plants enumerated above should be cull
 
 “We appease thee with the holy energy and dignity of Mahendra, Rama, Krishna and of the Brahmanas and of cows. Exert your beneficial virtues for the good of mankind”.
 
-“We appease thee with the holy energy and dignity of Mahendra, Rama, Krishna and of the Brahmanas and of cows. Exert your beneficial virtues for the good of mankind”.
-
 The intelligent one should consecrate all these Oshadhis with this Mantra. The lazy, the impious, the ungrateful and the unbelieving invariably fail to see and secure the Soma plants, or the drugs possessed of similar virtues. The gods after having drunk the celestial ambrosia to their fill cast the residue to the Somas and kindred plants as well as to the moon, the lord of the Oshadhis. 10-A.
 
 Their habitats:—
@@ -85,10 +77,6 @@ The Soma as well all the other Oshadhi plants may be had on (the summits of) the
 These ambrosial plants (as well as other drugs) are to be sought in the rivers, the holy forests and hermitages, as well as in lakes and on hills, since this world is a bed of gems and is known to hold priceless treasures in all places. 11.
 
 Thus ends the Thirtieth Chapter of the Chikitsita Sthana in the Sushruta Samhita which deals with the tonic remedies which have the power of removing the mental and physical distresses.
-
-Footnotes and references:
-
-[back to top]
 
 [1]:
 

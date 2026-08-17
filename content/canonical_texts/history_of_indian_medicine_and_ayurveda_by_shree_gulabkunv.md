@@ -9,19 +9,11 @@ date: "2026-08-17"
 description: "presents the introductory pages of the Charaka Samhita composed of six large sections dealing with every facet of Medicine in ancient India in a Socio-Historical context."
 ---
 
-**Author / Source:** by Shree Gulabkunverba Ayurvedic Society
-
-
-**Total Chapters/Sections:** 81
-
 ---
 
 ## 1. Part 1 - The History of Medicine in India
 
-
 History of Indian Medicine (and Ayurveda)
-
-by Shree Gulabkunverba Ayurvedic Society | 1949 | 162,724 words | ISBN-13: 9788176370813
 
 The History of Indian medicine and Ayurveda (i.e., the science of life) represents the introductory pages of the Charaka Samhita composed of six large sections dealing with every facet of Medicine in ancient India in a Socio-Historical context. Caraka is regarded as one of the pioneers in the field of scientific healthcare.
 
@@ -35,10 +27,7 @@ Part 1 - The History of Medicine in India
 
 ## 2. Chapter 3 - The Story of Bharadvaja
 
-
 History of Indian Medicine (and Ayurveda)
-
-by Shree Gulabkunverba Ayurvedic Society | 1949 | 162,724 words | ISBN-13: 9788176370813
 
 The History of Indian medicine and Ayurveda (i.e., the science of life) represents the introductory pages of the Charaka Samhita composed of six large sections dealing with every facet of Medicine in ancient India in a Socio-Historical context. Caraka is regarded as one of the pioneers in the field of scientific healthcare.
 
@@ -54,13 +43,9 @@ The Gopatha Brahmana says that while all the three Vedas form one wing of the bi
 
 [Gopathabrāhmaṇa 3.2]
 
-[Gopathabrāhmaṇa 3.2]
-
 We thus see that this Atharva-veda was held in high esteem and its promulgators were naturally regarded as the leaders of thought and practical wisdom.
 
 This Atharva-veda is both religious and secular m its range of subjects and scope of practice. Not only was it sung and represented at the performance of the sacrifice which was the nucleus of Vedic religion and worship, but its coteries were the ones considered duly qualified to be the priests and advisers to kings and entitled to perform the auspicious ceremonies for happiness and health (śāntikapauṣṭika) and of coronation of kings.
-
-[...]
 
 [...]
 
@@ -116,8 +101,6 @@ In this connection it is necessary to refer to another part of the Caraka Samhit
 
 [Ca Ci 1/4-4]
 
-[Ca Ci 1/4-4]
-
 Which means that Bhrigu, Angira and other sages approached Indra in the Himalayan region, desiring to find a remedy for the ills born of d welling in towns and villages. They receive the desired knowledge from Indra. There is no mention of Bharadvaja in this context as receiving Ayurveda from Indra; but there is the name of Atri among the galaxy of sages. The learned commentator Cakrapani comes to the reader’s rescue and explains that this refers to a later occasion than the one described in the opening chapter of the book and that in the meanwhile the science of healing had fallen into neglect and that the sages mentioned above approached Indra again for instruction. The explanation sounds quite plausible considering the fact that no two obviously conflicting versions could have been embodied in the same text by its authors or compilers and subsequent redactors; and a supposition like the one suggested by the learned commentator seems quite justifiable and to have been intended by the authors. The latter reference is evidently limited only to the science of Rasayana,
 
 As regards the evidence of the other two Samhitas referred to, we shall first examine the Sushruta Samhita. There is no mention of Bharadvaja having received the science from Indra or having imparted it to Dhanvantari, the king of Kashi Dhanvantari claims to have received it from Indra directly, as may be seen from the table given before. Yet in contradiction to what we see in the Sushruta Samhita itself, we find from the Taittiriya Brahmana and the Mahabharata that Bharadvaja was the priest (Purohita) of three generations of the Kings of Kashi i.e. Dhanvantari,, Sudasa (Sudāsa) and Pratardana. He is thus said to have lived through three lives. Divodasa must have owed his knowledge to his preceptor and priest Bharadvaja.
@@ -126,13 +109,9 @@ The Harivamsha describes Bharadvaja as the teacher of the medical science to Dha
 
 [Ha. Vaṃ. 29.26-27]
 
-[Ha. Vaṃ. 29.26-27]
-
 Evidently, as Divodasa was regarded as the earthly incarnation of God Dhanvantari, the original God of medicine, he claims to have received the science directly from Indra, the king of the Gods. Thus alone can we explain the absence of any mention, in the Sushruta Samhita, of Bharadvaja as the preceptor of Dhanvantari or Divodasa. The compiler of each treatise, perhaps, desired to make the particular preceptor in question supreme above all others We see this tendency in other treatises too. In the Kashyapa Samhita, Kashyapa and not Bharadvaja is the recipient of the Science from Indra-
 
 Again, in the Harita Samhita—Harita is a disciple of Atreya along with Agnivesha, Bhela and others—we have a confirmation of the story of Bharadvaja as the teacher of Atreya and other sages.
-
-[Hārītasaṃhitā...]
 
 [Hārītasaṃhitā...]
 
@@ -149,11 +128,7 @@ Perhaps it is these and such other conflicting narratives that have made some sc
 
 [...]
 
-[...]
-
 A much later writer on medicine, Bhavamishra, of the sixteenth century, has three differing versions of the story of Ayurveda. Evidently he contents himself by stating the actual versions then current in books and among the scholars of the science. He firstly narrates the story as told by Vagbhata wherein Atreya, as the leader of a group of sages, receives his instruction from Indra.
-
-[Bhāvaprakāśa Pū. 1]
 
 [Bhāvaprakāśa Pū. 1]
 
@@ -161,11 +136,7 @@ In the second story, he depicts Atreya as approaching Indra, by himself, out of 
 
 [Bhāvaprakāśa Pū. 1]
 
-[Bhāvaprakāśa Pū. 1]
-
 According to the third story, once it happened that many sages met together on the slopes of the Himalayas. The first to arrive was the best among sages, Bharadvaja. Then all the sages that congregated, unanimously chose and besought Bharadwaja to repair to Indra and bring down the Ayurveda.
-
-[Bhāvaprakāśa Pū. 1]
 
 [Bhāvaprakāśa Pū. 1]
 
@@ -192,15 +163,11 @@ The story of his birth in this connection is worth narrating. According to the V
 
 [Bhāga. Skandha. 9? bha. 20]
 
-[Bhāga. Skandha. 9? bha. 20]
-
 Thus the strange tale of an instance of superfetation hangs about this great personage of ancient times, one of the greatest leaders of men at the very dawn of Aryan history in India. Prometheus-like in stature and benevolence, wise as behoves the son of Brihaspati, the teacher of the gods, he strode the earth like a prophet, bringing the fire from the sun, the healing wisdom from the king of the immortals, and opened up the pathway leading to heaven which may mean the “Brahma-vidya” or the institution of sacrifice that opens up the path leading to the Gods. Prophet, sage and prince, this dynamic leader was the contemporary of three generations of humanity, counsellor and teacher to the kings of Kashi, revered leader and compeer of the greatest of sages, he might also be one of the seven orginal sages that exist from the beginning of each cycle of Manvantara. Cakrapani, the commentator is of the view that he is only a descendant of the orginal sage of that name
 
 With this great personage, half legendary and half historical, half divine and half human, striding the snowy heights of the Himalayas in the early dawn of history, footing the path to the home of the king of the immortals, ‘looking larger than human on these frozen hills’, the history of Ayurveda begins. He remains for ever the bringer of the healing light, the father of the science of Medicine on Earth.
 
 The Various Bharadvajas
-
-“The first and the foremost famous vedic poet of this period was Bharadvaja Vajineya (Bharadvāja Vajineya). He was a contemporary of Divodasa, Prastoka Saranjaya (?) and Abhyavartin Cayamana (Cyamāna) and consequently of Dasharatha. His sons were Garga and Payu (Pāyu). Rama Dasharathi repaired to his hermitage on his way back from Lanka. He was the Purohita of Divodasa, gave Pratardana Daivodasi (Daivodāsī) his kingdom and Ksattrashri Pratardani (Kṣattraśrī Pratardanī) was his Yajamana. He was one of the Risis of the Vedic age, who prohibited the slaughter of cows in sacrifices simply out of gratitude to the bovine race which showers on mankind kindness in the form of milk. Bharadvaja loved the cows so very deeply that he did not hesitate to identify them with Indra, his deity”.
 
 “The first and the foremost famous vedic poet of this period was Bharadvaja Vajineya (Bharadvāja Vajineya). He was a contemporary of Divodasa, Prastoka Saranjaya (?) and Abhyavartin Cayamana (Cyamāna) and consequently of Dasharatha. His sons were Garga and Payu (Pāyu). Rama Dasharathi repaired to his hermitage on his way back from Lanka. He was the Purohita of Divodasa, gave Pratardana Daivodasi (Daivodāsī) his kingdom and Ksattrashri Pratardani (Kṣattraśrī Pratardanī) was his Yajamana. He was one of the Risis of the Vedic age, who prohibited the slaughter of cows in sacrifices simply out of gratitude to the bovine race which showers on mankind kindness in the form of milk. Bharadvaja loved the cows so very deeply that he did not hesitate to identify them with Indra, his deity”.
 
@@ -291,16 +258,13 @@ It is necessary to mention, while yet on this subject, that there are a few work
 
 The following recipes bear the name of Bharadvaja: Brihat Phalaghrita (bṛhatphalaghṛta) [...] and Phalaghrita (phalaghṛta) [...]
 
-In conclusion, it is necessary to repeat that the great mass and variety of evidence that we have reviewed, leave no doubt regarding the existence and accomplishments of this great sage and father of medicine. There must have been lesser persons bearing his name who have played some part in the history of the cultural evolution of the Indo-aryan people; but the proto-type, the Bharadvaja that brought down the science of medicine and opened up the way to the court of Indra, is from all accounts, the real hero and originator of the Science of Medicine and of Life, known as Ayurveda. No account of the evolution of Medicine in India can afford to ignore this hallowed name, if it should be faithful to the inscribed chronicles of racial history. It is only after a full cognizance of his greatness and significance that we can pass on to consider the lives and achievements of other teachers and propagators of medicine, in the land of the Aryas.
+In summary, it is necessary to repeat that the great mass and variety of evidence that we have reviewed, leave no doubt regarding the existence and accomplishments of this great sage and father of medicine. There must have been lesser persons bearing his name who have played some part in the history of the cultural evolution of the Indo-aryan people; but the proto-type, the Bharadvaja that brought down the science of medicine and opened up the way to the court of Indra, is from all accounts, the real hero and originator of the Science of Medicine and of Life, known as Ayurveda. No account of the evolution of Medicine in India can afford to ignore this hallowed name, if it should be faithful to the inscribed chronicles of racial history. It is only after a full cognizance of his greatness and significance that we can pass on to consider the lives and achievements of other teachers and propagators of medicine, in the land of the Aryas.
 
 ---
 
 ## 3. Chapter 1 - The history of Medicine in India (Introduction)
 
-
 History of Indian Medicine (and Ayurveda)
-
-by Shree Gulabkunverba Ayurvedic Society | 1949 | 162,724 words | ISBN-13: 9788176370813
 
 The History of Indian medicine and Ayurveda (i.e., the science of life) represents the introductory pages of the Charaka Samhita composed of six large sections dealing with every facet of Medicine in ancient India in a Socio-Historical context. Caraka is regarded as one of the pioneers in the field of scientific healthcare.
 
@@ -315,8 +279,6 @@ The answer, to our great regret, is in the negative. The causes for such a condi
 The difficulties met with in any attempt at writing a regular history of the evolution of medicine in India have been fully considered by Castiglioni in his great volume of History of Medicine, in the chapter dealing with Persian and Indian medicine. To most authoritative historians of India, nothing is certain before 326 B.C., the invasion of Alexander, or at any rate before the seventh century B.C., i.e., the time of the Buddha. It is admitted by historians that much of the material such as inscriptions, stone-tablets and the relics in excavations still await unravelling by expert investigators, while the sole source left to them at present is the evidence of literary and religious texts of the Vedas, the Brahmanas, the Puranas and of lay literature.
 
 There are peculiar obstacles in the way of ascertaining the chronology, names and biographical details of persons that have played important roles in the evolution of the history of India in general and of her medicine in particular. Max Muller writes with reference to History of philosophy in India thus and this applies to the history of medicine with equal force.
-
-“From the actual works themselves written by the poets, philosophers and scientists of India, very little material is to be had pertaining to the life and work of the author. Most often even the name has to be learnt from the colophons or such other appendages to the original, contributed by the editors, commentators and such others. The difficulties in computing the dates are augmented by the prevalence of different eras in vogue in the various parts of India”.
 
 “From the actual works themselves written by the poets, philosophers and scientists of India, very little material is to be had pertaining to the life and work of the author. Most often even the name has to be learnt from the colophons or such other appendages to the original, contributed by the editors, commentators and such others. The difficulties in computing the dates are augmented by the prevalence of different eras in vogue in the various parts of India”.
 
@@ -447,10 +409,7 @@ Of this we shall have to speak later in this volume, Suffice it to know now that
 
 ## 4. Chapter 2 - The Story of Ayurveda
 
-
 History of Indian Medicine (and Ayurveda)
-
-by Shree Gulabkunverba Ayurvedic Society | 1949 | 162,724 words | ISBN-13: 9788176370813
 
 The History of Indian medicine and Ayurveda (i.e., the science of life) represents the introductory pages of the Charaka Samhita composed of six large sections dealing with every facet of Medicine in ancient India in a Socio-Historical context. Caraka is regarded as one of the pioneers in the field of scientific healthcare.
 
@@ -550,10 +509,7 @@ Viewing the career of Ayurveda as a terrestrial science according to the Caraka 
 
 ## 5. Chapter 5 - The Story of Agnivesha
 
-
 History of Indian Medicine (and Ayurveda)
-
-by Shree Gulabkunverba Ayurvedic Society | 1949 | 162,724 words | ISBN-13: 9788176370813
 
 The History of Indian medicine and Ayurveda (i.e., the science of life) represents the introductory pages of the Charaka Samhita composed of six large sections dealing with every facet of Medicine in ancient India in a Socio-Historical context. Caraka is regarded as one of the pioneers in the field of scientific healthcare.
 
@@ -588,13 +544,9 @@ In (Mādhavanidāna) chapter 44 on fractures we find:
 
 [...]
 
-[...]
-
 Agnivesha is referred to by his synonyms in Caraka Samhita.
 
 In Siddhisthana (Siddhisthāna) 12th chapter, verse 53 Agnivesha is referred to as Vahnivesha:
-
-[...]
 
 [...]
 
@@ -602,11 +554,7 @@ The Commentator Cakrapani while beginning the benedictory verse refers to Agnive
 
 [...]
 
-[...]
-
 The Agnivesha-tantra originally consisted of 12000 verses.
-
-[Carakasaṃhitā Siddhisthāna 12.52-53]
 
 [Carakasaṃhitā Siddhisthāna 12.52-53]
 
@@ -652,19 +600,13 @@ That the Agnivesha-tantra did exist upto and well after Vagbhata is amply suppor
 
 [Aṣṭāṅgasaṃgraha Uttarasthāna 50]
 
-[Aṣṭāṅgasaṃgraha Uttarasthāna 50]
-
 [Aṣṭāṅgahṛdayasaṃhitā Nidānasthāna 2.62]
 
 Jejjata, a pupil of Vagbhata quotes from Agnivesha-tantra the following verses. These verses are not found lu the Caraka Samhita and hence he must have quoted these from the original Agnivesa-tantra which must have been available in his days.
 
 [...]
 
-[...]
-
 Tisata (Tīsaṭa), son of Vagbhata in his Cikitsa-Kalika (Cikitsa-Kalikā) mentions Agnivesha as a distinct authority showing that Agnivesha-tantra existed in his time.
-
-[Ci. Ka. śloka 2]
 
 [Ci. Ka. śloka 2]
 
@@ -684,21 +626,15 @@ The following recipe of Vasadya Ghrita (Vāsadya Ghṛta) is quoted by Shodhala 
 
 [...]
 
-[...]
-
 Shodbala flourished in the 12th Century A.D. and this shows that Agnivesha-tantra was available even then.
 
 Kanthadatta (Kaṇṭhadatta) the commentator on Vrinda’s Siddhayoga who flourished in the 13th century A. D. says:
 
 [...]
 
-[...]
-
 These verses are also not found in the Caraka Samhita and hence it can be presumed that they have been taken directly from the Agnivesha-tantra itself.
 
 Shivadasa Sen who flourished in the 15th century A. D. says in his Tattva-candrika (Tattvacandrikā):
-
-[...]
 
 [...]
 
@@ -751,10 +687,7 @@ To Bharadvaja we pay our homage as the first mortal who undertook the hazardous 
 
 ## 6. Chapter 4 - The Story of Atreya
 
-
 History of Indian Medicine (and Ayurveda)
-
-by Shree Gulabkunverba Ayurvedic Society | 1949 | 162,724 words | ISBN-13: 9788176370813
 
 The History of Indian medicine and Ayurveda (i.e., the science of life) represents the introductory pages of the Charaka Samhita composed of six large sections dealing with every facet of Medicine in ancient India in a Socio-Historical context. Caraka is regarded as one of the pioneers in the field of scientific healthcare.
 
@@ -763,8 +696,6 @@ As an important final a...
 Chapter 4 - The Story of Atreya
 
 The great teacher of Kaya-cikitsita (kāyacikitsita) or medicine is Krishna Atreya according to the Mahabharata.
-
-[Mahā. Śā. Pa. a-210.21]
 
 [Mahā. Śā. Pa. a-210.21]
 
@@ -794,8 +725,6 @@ The qualifications or merits that entitle one to this honour are set forth thus.
 
 “He is to be known as ‘Bhagawan’ who is possessed of the knowledge of creation and dissolution of the world and of the birth and death of creatures as also of science both material and spiritual.”
 
-“He is to be known as ‘Bhagawan’ who is possessed of the knowledge of creation and dissolution of the world and of the birth and death of creatures as also of science both material and spiritual.”
-
 Atreya was thus among the elite of the sages, adept in all the sciences and mature in spiritual wisdom and a teacher specially of the science of medicine. Though versed in all the eight branches of the Science of Life he devoted this treatise entirely to medicine and referred his disciples to other teachers and treatises when resort to surgical and other special procedures were in demand.
 
 [Carakasaṃhitā Cikitsāsthāna 5.44]
@@ -812,8 +741,6 @@ Atreya was thus among the elite of the sages, adept in all the sciences and matu
 “We do not attempt to expatiate on them here, as that belongs to the province of specialists.”
 
 Thus Atreya is a specialist in Medicine (‘Kāya-Cikitsā’) and specially therapeutics and a popular verse in vogue assigns excellence in each department of medicine to each one of the four expert teachers and writers on the medical science.
-
-“Madhava is unrivalled in diagnosis, Vagbhata in general principles of medicine, Sushruta in surgery and Caraka in therapeutics.”
 
 “Madhava is unrivalled in diagnosis, Vagbhata in general principles of medicine, Sushruta in surgery and Caraka in therapeutics.”
 
@@ -850,8 +777,6 @@ Also thus in Kashyapa Samhita (kāśyapasaṃhitā):—
 
 [...]
 
-[...]
-
 (2) ‘Atreya’ and ‘Punarvasu’ words are used as synonyms at the end of the chapters thus:
 
 In Caraka Samhita—
@@ -870,11 +795,7 @@ There occur also in the Astanga Sangraha of Vagbhata—[Aṣṭāṅgasaṃgraha
 
 [Aṣṭāṅgahṛdayasaṃhitā Sūtrasthāna 1-3]
 
-[Aṣṭāṅgahṛdayasaṃhitā Sūtrasthāna 1-3]
-
 (3) ‘Punarvasu’ is used as a substitute of Atreya at the beginning of a chapter—
-
-[Carakasaṃhitā Sūtrasthāna 25-3]
 
 [Carakasaṃhitā Sūtrasthāna 25-3]
 
@@ -928,13 +849,9 @@ Bhela, being a disciple of Atreya along with Agnivesha and others, refers to Atr
 
 [... Bhelasaṃhitā Sūtrasthāna 98]
 
-[... Bhelasaṃhitā Sūtrasthāna 98]
-
 There is a tantra or a treatise on Shalakya (śālākya) or ‘Surgery of the supra-clavicular parts of the body’ ascribed to Krishna Atreya. On this ground some are led to believe that there existed two persons of this name.
 
 Shrikantha Datta (Śrīkaṇṭhadatta) in his commentary on Vrinda’s Siddhayoga states—
-
-[...]
 
 [...]
 
@@ -951,8 +868,6 @@ We are left to conjecture the derivations of this name for him, It may be, he is
 Thus we have the great sage Atreya, the teacher of medicine and preceptor to Agnivesha, Bhela and other disciples, bearing other names of Krishna Atreya, Punarvasu and Candrabhagi as all these names are applied to him in the Caraka Samhita as well as in the Bhela and Kashyapa Samhita and are supported by references to him in other books like the Mahabharata in similar contexts.
 
 Beginning of the chapter:
-
-[Carakasaṃhitā Sūtrasthāna 13]
 
 [Carakasaṃhitā Sūtrasthāna 13]
 
@@ -1019,8 +934,6 @@ The study of the contemporaries of Atreya in order to attempt to fix their dates
 
 (a) [Carakasaṃhitā Sūtrasthāna 1-12]
 
-(a) [Carakasaṃhitā Sūtrasthāna 1-12]
-
 Marica and Kashyapa are mentioned as Risis who attended the Himalayan conference in company with Atreya.
 
 (b) [Carakasaṃhitā Sūtrasthāna 12.9]
@@ -1034,13 +947,9 @@ Here, as seen in the above passage, Atreya, Marici and Varyovida meet in the sam
 
 [Carakasaṃhitā Śārīrasthāna 6.21]
 
-[Carakasaṃhitā Śārīrasthāna 6.21]
-
 Here Marici Kashypa (Mārīci Kaśyapa) is quoted by Atreya as the propounder of the theory that the spirit is unthinkable it is not the object of direct observation.
 
 The references pertaining of Varyovida are as follows.
-
-(a)[...]
 
 (a)[...]
 
@@ -1048,11 +957,7 @@ Here Varyovida is mentioned as the authority on Vata or Vayu and he is in discus
 
 (b)[Carakasaṃhitā Sūtrasthāna 25.12-12]
 
-(b)[Carakasaṃhitā Sūtrasthāna 25.12-12]
-
 Here we see him as the propounder of the theory of the nutrient fluid being the source of both—man and disease (rasaja vyādhayaḥ and rasajaḥ puruṣaḥ). He is the contemporary of Atreya as well as of Nimi of Videha.
-
-[Carakasaṃhitā Sūtrasthāna 26.4-5]
 
 [Carakasaṃhitā Sūtrasthāna 26.4-5]
 
@@ -1064,19 +969,13 @@ The contemporaneity of Atreya, Kashyapa and Varyovida is supported by Kashyapa S
 
 [????? Sū. 28.2]
 
-[????? Sū. 28.2]
-
 Varyovida and Nimi propound their own theories about the classification of disease and the presiding Rishi Kashyapa gives the final authoritative decision in the matter.
-
-[Kāśyapasaṃhitā Siddhisthāna 1.11-12-13]
 
 [Kāśyapasaṃhitā Siddhisthāna 1.11-12-13]
 
 In this assembly Atreya Punarvasu, Bhela, and Kashyapa meet together Atreya Punarvasu and Bhela give their own theory and Kashyapa the master preceptor on Pediatrics, gives his decisive opinion on the subject.
 
 These references from Kashyapa Samhita also support the fact that Marici Kashyapa, Punarvasu Atreya, Varyovida and Bhela were contemporaries and the Bhela Samhita corroborates the contemporaneity of Atreya and Kashyapa,
-
-[...]
 
 [...]
 
@@ -1090,8 +989,6 @@ In trying to fix the date of Atreya, internal evidence of the text will greatly 
 “The professors of general medicine i.e Ayurveda, speak of three hundred and sixty bones but books on surgical science Shalya-tantra (Śalya-tantra) know only of three hundred.”
 
 The commentator Dalhana says here:
-
-“‘Veda’ is used to signify Ayurveda and not the four sacred Vedas.”
 
 “‘Veda’ is used to signify Ayurveda and not the four sacred Vedas.”
 
@@ -1200,8 +1097,6 @@ He warns against clinging to an argument ([pakṣasaṃśraya?]) also.
 
 [Carakasaṃhitā Sūtrasthāna 25.26-27]
 
-[Carakasaṃhitā Sūtrasthāna 25.26-27]
-
 The spirit of reverence with which his disciples approach him as he is seated amidst sages and scholars including occasionally the learned rulers of neighbouring kingdoms or foreign scholars and the finality his discussions acquire in the discussions among these sages and scholars, and also the shifting scene of such assemblies from the northern Himalayas to the eastern part like Kailasa and the southern plains of Kampilya are indubitable indications of the popularity, wisdom and supremacy among his contemporaries, of Atreya as a teacher of medicine.
 
 Besides, for us the significance lies in the stamp of methodical and scientific exposition, he imparted to the mass of medical lore that perhaps lay till then in amorphous heap of drugs and data. The stage of rational or scientific medicine began with Atreya. Though the concept of the three controlling forces of the body as of the universe is contained in the Vedic literature, it is to Atreya that medicine owes its full elaboration of the Tridosha (Tridoṣa) concept in a consistent method and based on a logic of elemental combinations and physico-chemical transmutations. With the theory of taste and its influences on metabolic and physiological functions and its application in therapeutics, the concept of the Rasa, Guna (guṇa), Virya (vīrya) and Vipaka (vipāka) and Prabhava (prabhāva) of drugs, Medicine passes from the empirical stage to a scientific stage, based and supported on bio-physical and bio-chemical concepts.
@@ -1234,10 +1129,7 @@ His attachment to reason and the happy results flowing from scientific understan
 
 ## 7. Chapter 6 - The Story of Caraka
 
-
 History of Indian Medicine (and Ayurveda)
-
-by Shree Gulabkunverba Ayurvedic Society | 1949 | 162,724 words | ISBN-13: 9788176370813
 
 The History of Indian medicine and Ayurveda (i.e., the science of life) represents the introductory pages of the Charaka Samhita composed of six large sections dealing with every facet of Medicine in ancient India in a Socio-Historical context. Caraka is regarded as one of the pioneers in the field of scientific healthcare.
 
@@ -1253,11 +1145,7 @@ Shanti-rakshita refers to Caraka in relation to ‘yukti’ or co-ordination as 
 
 [...]
 
-[...]
-
 During the seventh, eighth and the ninth centuries when Arabic scholarship was at its highest and Islam spread in the west till it reached the shores of the Atlantic, Caraka was a revered authority in the Saracan and Latin world of science and scholarship. Alberuni says “they (the Hindus) have a book called by the name of its author, i.e. Caraka which they consider as the best of their whole literature on medicine. According to their belief Caraka was a Rishi in the last Dvapara-yuga when his name was Agnivesha, but afterwards he was called Caraka i.e the intelligent one” (Alberuni’s India by E.C. Sachin). Jayanta Bhatta in his work on logic called Nyaya-manjari (Nyāyamañjarī) refers to Caraka as an example of those authoritative wise men who have the whole of time-space in their ken.
-
-[... Jayantabhaṭṭa Nyāyamañjarī]
 
 [... Jayantabhaṭṭa Nyāyamañjarī]
 
@@ -1277,15 +1165,11 @@ Caraka, as we may gather from the internal evidence of the work, is aware of the
 
 [Carakasaṃhitā Cikitsāsthāna 30.316]
 
-[Carakasaṃhitā Cikitsāsthāna 30.316]
-
 He knows their habits and dietetic pecularities. During the days of the Magadha empire, India loomed large among the nations of the world. Her wealth, her arts and sciences received international admiration. Conquerors, adventurers, Savants and pilgrims turned their eyes towards India in quest of her wealth, knowledge and holiness. The philosophers of the Nyaya and Vaisheshika schools expounded their theories of reality, of substance and quality. The Sankhyas formulated their theory of evolution of the world by the interaction of matter and consciousness (Prakriti—prakṛti and Purusa—puruṣa) and established the scientific postulate on which positive sciences could be built.
 
 The popular religion still retained the devotion to Vedic gods and rites and the Atharvavedic rituals e. g Santipaustika, Bali, Mangala and Homa are prescribed in the Caraka Samhita as aids to somatic medicine. All these circumstances point persuasively to a time when there was a ferment and upsurge of ancient Vedic thought and ritual and when India was the meeting ground of the world’s peoples and their thought. It is to such a period, that we are inclined to hold Caraka, the redactor belongs, i.e. about the second century B.C.
 
 It is not possible to know with any, degree of precision who Caraka was or his parentage, when and where he lived and redacted the work, whether this was the pergonal name of the author or of a school to which he belonged or a title he assumed for himself or which was conferred on him by his contemporaries. With the field thus open for the exercise of fertile fancy, several theories have become current regarding the identity and the time of this famous redactor. Before we examine any of these, it is necessary to remember that the book itself affords no clue to the nature and time or other circumstances of the redactor. There is just a bare mention of his name in the colophon of each chapter as the redactor of the treatise compiled by Agnivesha.
-
-[ityagniveśakṛte tantre carakapratisaṃskṛte]
 
 [ityagniveśakṛte tantre carakapratisaṃskṛte]
 
@@ -1299,11 +1183,7 @@ Except giving him an epithet of Atibuddhi (the highly intelligent) he never trou
 
 [Carakasaṃhitā Siddhisthāna 12.38]
 
-[Carakasaṃhitā Siddhisthāna 12.38]
-
 We derive no help even from Vagbhata, who based his work on these two ancient compilations of Caraka and Sushruta. He only mentions that these two are preferred to the works of Bhela and other sages, by virtue of their excellence, and hence excellence and not the mere authorship of a Rishi, is deemed the recommendation for a work.
-
-[Aṣṭāṅgahṛdayasaṃhitā Uttarasthāna 40.88]
 
 [Aṣṭāṅgahṛdayasaṃhitā Uttarasthāna 40.88]
 
@@ -1335,8 +1215,6 @@ Jayanta Bhatta too refers to him with great respect thus in his Nyaya Manjari:
 
 “Caraka and others, are the perceivers of the efficacy of substances in their combinations and singleness relative to the variations of clime, Season, the individual characteristics and stage”.
 
-“Caraka and others, are the perceivers of the efficacy of substances in their combinations and singleness relative to the variations of clime, Season, the individual characteristics and stage”.
-
 In this connection some scholars have propounded that Caraka is anterior even to Panini as in one of the Sutras of the latter he refers to the name Caraka ([...]). But the Caraka referred to in that Sutra is prefixed by the word Katha (kaṭha) and as it is with reference to the discussion of Carana Vyuha (Caraṇavyūha), a vedic text, the person referred to must be a seer of the Vedic hymns or some ancient sage of his line of descent. The Caraka branch of the Samhita is available in print now. In another Sutra (5.1.144) of Panini ([...]) Caraka referred to is in connection with significince of the vedic intonation. It is more reasonable to conclude that the name is of the person of the Vedic line and not of the medical Caraka who must be of post-vedic time. Vishvarupacarya in hte commentary on the Yanjnavalkya smriti cites a passage like “thus say the Carakas” ([...]). Though the context is entirely medical, for the passage is in connection with the knowledge of the Ashvinis in the medical science and states that honey in exigencies may be considered not incompatible with Brahmacarya, yet as there is a citation of the Vajasaneyas or the followers of Sama-veda in line with the Caraka, it is clear that Caraka here refers to the Caraka school of the Veda.
 
 According to the Kashika Vritti (Kāśikāvṛtti—another commentary on the Veda), Vaishampayana (a disciple of Vyāsa and the receiver of Yajurveda from him) was known as Caraka and his school of Veda as the Caraka school.
@@ -1351,8 +1229,6 @@ According to the Kashika Vritti (Kāśikāvṛtti—another commentary on the Ve
 In the white Yajurveda in the 30th Chapter, 18th hymn in the context of human sacrifice (puruṣamedha) there is found a chant saying to the wicked teacher Caraka (“...”). Mr. Mishra, who comments on this in Hindi says that the teacher Caraka referred to is the medical teacher Caraka. Some are of opinion that Caraka, on this baste, is a very ancient person. But what ground is there to interpret that word to mean the name of a particular individual? Mahidhara (Mahīdhara) interprets it as meaning the ‘Guru off the Carakas’ (“carakaṇāmācārya?”) i.e. the followers of the Caraka school of Veda. But in the context in which the word is found, to think that the Caraka branch of the Veda is referred to, does not seem relevant. There is basis to think that there is reference in the passage in question to various persons belonging to particular classes and occupations for whom oblations are offered and not to the follower of any particular branch of Veda or to individual persons by name. In that very hymn are seen men of low character and gamblers and other wicked people offered oblations for the propitiation of similar evil gods. Therefore this Carakacarya who is given offerings in the name of one evil god should necessarily be a low and sinful person. The authors of the Jnanakosha (jñānakośa) are of the opinion that this word refers to the teacher of the Caraka school of Veda and that this context denotes a denunciation of the Caraka school. But in the Shatapatha Brahmana, though there are numerous occurrences of the word Caraka, the references are only to the peculiar usages of that branch and never any denunciation of it is meant. Even in the Taittiriya Brahmana there occurs the expression ‘To the sinful Caraka’ (“duṣkṛtāya carakācāryam?”). There Sayana interprets it as meaning the teacher of the art of walking on bamboo poles, a kind of dance-teacher. There is no reference to the teacher of the Caraka school of Veda. As any spirit of denunciation does dot seem relevant to the, usage of the word in the ‘Taittiriya Samhita’ to which belongs the Caraka school itself, the interpretation offered by Sayana seems to be applicable here too as meaning some person belonging to a low trade. In the same sense in which the word has. been used in the Naisadhiya carita (Naiṣadhīya-carita), wherein Caraka is used to mean a spy, a secret walker, here too Carakacarya may mean the head of the spies. Then the relevancy of the context, the presence of the sinful man and the offering of things in the name of an evil god, all these agree completely. Dayananda Swami, the author of a commentary on the Yajurveda interprets the word as meaning the teacher of the caters or gluttons. This may be according to the meaning of the verb ‘car’ to eat.
 
 Some scholars have held, on the basis of statements made by Nagesha and Cakrapanidatta supported by Vijnanabbikshu, Bboja, Bhavamishra and others, that Caraka was identical with Patanjali, the author of the Vyakarana Mahabhashya, the commentary on Panini.
-
-[...]
 
 [...]
 
@@ -1378,11 +1254,7 @@ The theory of Caraka being Patanjali, the latter only the author of the commenta
 
 [Vijñānabhikṣu Yogavārttikā-rambha]
 
-[Vijñānabhikṣu Yogavārttikā-rambha]
-
 Cakrapani in his commentary on Caraka begins by making salutation to the snake-king whom he identifies with Patanjali and Caraka.
-
-[...]
 
 [...]
 
@@ -1390,11 +1262,7 @@ This is because there is a tradition that Patanjali also made a compilation of t
 
 [Rāmbhadradīkṣita Patañjalicarita]
 
-[Rāmbhadradīkṣita Patañjalicarita]
-
 Nagesa Bhatta also is of the same opinion, for when giving the definition of Apta, he quotes the passages from Caraka and says “thus spake Patanjali in the Caraka Samhita,” taking Caraka to be identical with Patanjali.
-
-[Nāgeśabhaṭṭa...]
 
 [Nāgeśabhaṭṭa...]
 
@@ -1402,11 +1270,7 @@ Bhavamishra who must have been acquainted with the tradition of identifying the 
 
 [Bhāva Prakāśa 1. A.]
 
-[Bhāva Prakāśa 1. A.]
-
 Swami Kumara identifies Caraka with the authors of the Mahabhasya and the Yoga-sutras. In his commentary on Caraka he says:
-
-[Svāmikumāra Caraka-pañcikā-ṭīkā-pārambha...]
 
 [Svāmikumāra Caraka-pañcikā-ṭīkā-pārambha...]
 
@@ -1429,10 +1293,7 @@ The neglected and worn out texts were gathered again, systematized, restored and
 
 ## 8. Chapter 7 - The Story of Dridhabala
 
-
 History of Indian Medicine (and Ayurveda)
-
-by Shree Gulabkunverba Ayurvedic Society | 1949 | 162,724 words | ISBN-13: 9788176370813
 
 The History of Indian medicine and Ayurveda (i.e., the science of life) represents the introductory pages of the Charaka Samhita composed of six large sections dealing with every facet of Medicine in ancient India in a Socio-Historical context. Caraka is regarded as one of the pioneers in the field of scientific healthcare.
 
@@ -1462,8 +1323,6 @@ Thus we are on more definite grounds in the case of Dridhabala but in identifyin
 In India any confluence of streams is as a sacred place of pilgrimage and as a consequence we find several such places which go by the name of Pancanada.
 
 (1) According to Hoernle one such place seems to have existed in Kashmir near the confluence of the rivers Jhelum (Vitastā) and Sindhu. This place is now indicated by the modern village of Pantzinor or five channels, which lies close to what was the original site of that confluence before its change to the present site, in the latter half of the 9th century in the reign of King Avantivarman, Pandit Jiyalalji Vaidya of Kashmir says—
-
-“Pancanadapura, now known as Panjnor is situated about 7 miles to the north of Shrinagar, the capital of Kashmir not far away from the confluence of the five streams, known as the Trigama, Vitasta (the Jhelum), the Sindhu (Indus), the Ksirabhavani and Ancara”
 
 “Pancanadapura, now known as Panjnor is situated about 7 miles to the north of Shrinagar, the capital of Kashmir not far away from the confluence of the five streams, known as the Trigama, Vitasta (the Jhelum), the Sindhu (Indus), the Ksirabhavani and Ancara”
 
@@ -1510,8 +1369,6 @@ Vijayaraksita, the commentator on Madhava-nidana (Mādhavanidāna) quotes Nos 26
 Now, out of these 17 chapters under investigation, we can definitely ascribe five chapters viz. 15th, 16th, 17th, 22nd and 23rd of the ‘A’ order or 19th, 20th, 21st. 24th and 25th of the ‘B’ order to Dridhabala as they are cited by later medical authors as emanating from Dridhabala’s pen.
 
 Arunadatta (Aruṇadatta) the commentator on Astangahidaya, quotes Dridhabala ascribing the 15th chapter (19th of the ‘B’ order) to Dridhabala.
-
-[...]
 
 [...]
 
@@ -1569,10 +1426,7 @@ In some chapters, we find that there are some verses which though running concur
 
 ## 9. Chapter 8 - Caraka Samhita—A Redacted Treatise
 
-
 History of Indian Medicine (and Ayurveda)
-
-by Shree Gulabkunverba Ayurvedic Society | 1949 | 162,724 words | ISBN-13: 9788176370813
 
 The History of Indian medicine and Ayurveda (i.e., the science of life) represents the introductory pages of the Charaka Samhita composed of six large sections dealing with every facet of Medicine in ancient India in a Socio-Historical context. Caraka is regarded as one of the pioneers in the field of scientific healthcare.
 
@@ -1581,8 +1435,6 @@ As an important final a...
 Chapter 8 - Caraka Samhita—A Redacted Treatise
 
 We find that 79 chapters of Caraka Samhita end with the following sentence:—
-
-[agniveśakṛte tantre carakapratisaṃskṛte]
 
 [agniveśakṛte tantre carakapratisaṃskṛte]
 
@@ -1604,8 +1456,6 @@ These 41 chapters are distributed in the different sections as under—
 12 in the section on Success in Treatment.
 
 Out of these, one chapter i.e. the 25th chapter in the section on Therapeutics ends as follows—
-
-[agniveśakṛte tantre carakapratisaṃskṛte dṛḍhabalasaṃpūrite]
 
 [agniveśakṛte tantre carakapratisaṃskṛte dṛḍhabalasaṃpūrite]
 
@@ -1731,10 +1581,7 @@ Thus Caraka, although he is a redactor only, there is much that he has added as 
 
 ## 10. Chapter 9 - Commentators of Caraka Samhita
 
-
 History of Indian Medicine (and Ayurveda)
-
-by Shree Gulabkunverba Ayurvedic Society | 1949 | 162,724 words | ISBN-13: 9788176370813
 
 The History of Indian medicine and Ayurveda (i.e., the science of life) represents the introductory pages of the Charaka Samhita composed of six large sections dealing with every facet of Medicine in ancient India in a Socio-Historical context. Caraka is regarded as one of the pioneers in the field of scientific healthcare.
 
@@ -1787,8 +1634,6 @@ The verse just quoted throws an interesting light on the period of Bhattara Hari
 
 [...]
 
-[...]
-
 Now Candrata was the grandson of Vagbhata and son of Tisata.
 
 Jejjata was the pupil of Vagbhata and naturally his contemporary. We find that Jejjata has quoted Bhattara Haricandra.
@@ -1811,8 +1656,6 @@ Very little is known about this commentator of Caraka Samhita. All we know about
 Shivadasa Sen’s commentary on Caraka Samhita is known as Tattva-candrika (Tattvacandrikā) Only a portion of it (Sūtra 1-27) is available. The manuscript belongs to the Bombay Royal Asiatic Society Library.
 
 Regarding his history, all we can gather is that he was born in the Vaidya guild, his father’s name was Ananta Sen, his birth place was Malancika (Mālañcikā), a village in Bengal and that the then ruler of Gauda Bengal was Barbaka Saha who ruled over Bengal from 1456 to 1474 A.D.
-
-[...]
 
 [...]
 
@@ -1850,8 +1693,6 @@ We learn from his own statements at the end of his Ayurveda-dipika (Āyurvedadī
 
 [...]
 
-[...]
-
 Thus the period of this most popular of Caraka commentators is easily fixed. He was a native of Bengal. This statement is supported by many references internal as well as external.
 
 Jayadeva says—
@@ -1873,16 +1714,11 @@ Besides his unrivalled commentary on Caraka three other works are ascribed to hi
 
 [Dravyaguṇasaṃgraha]
 
-[Dravyaguṇasaṃgraha]
-
 ---
 
 ## 11. Chapter 10 - The Pupils of Atreya
 
-
 History of Indian Medicine (and Ayurveda)
-
-by Shree Gulabkunverba Ayurvedic Society | 1949 | 162,724 words | ISBN-13: 9788176370813
 
 The History of Indian medicine and Ayurveda (i.e., the science of life) represents the introductory pages of the Charaka Samhita composed of six large sections dealing with every facet of Medicine in ancient India in a Socio-Historical context. Caraka is regarded as one of the pioneers in the field of scientific healthcare.
 
@@ -1894,15 +1730,11 @@ We learn from Caraka Samhita that Maharsi Atreya had six pupils.
 
 [Carakasaṃhitā Sūtrasthāna 1.31]
 
-[Carakasaṃhitā Sūtrasthāna 1.31]
-
 All these received instruction from their Guru Atreya and each wrote a treatise on medicine. All these treatises were submitted to a committee of Rishis for examination.
 
 1. Agnivesha:
 
 The treatise of Agnivesha was found to be the best among all these six and hence it was authorised to be the universal textbook.
-
-[...]
 
 [...]
 
@@ -1913,8 +1745,6 @@ We have already dwelt upon Agnivesha, the foremost pupil of Atreya.
 Agnivesha and Bhela studied at the same mister’s feet and hence we find great similarity in their works. But Bhela Samhita is more concise and there is more prose in it than in his distinguished co-student’s treatice. The Bhela Samhita as handed down to us seems to be of quite old composition Unfortunately the treatise is incomplete and mutilated. Here and there portions are missing and the text is full of scribe’s errors.
 
 The book is considered to be old even by Vagbhata and is spoken of reverentially by him.
-
-[Aṣṭāṅgahṛdayasaṃhitā 6.4?]
 
 [Aṣṭāṅgahṛdayasaṃhitā 6.4?]
 
@@ -1932,11 +1762,7 @@ The following verses from Bhela Samhita are indicative of many things.
 
 [Bhela—annapānarakṣīyam]
 
-[Bhela—annapānarakṣīyam]
-
 These lines have been of great value to the medical historian as they are helpful in proving the identity of Candrabhagi and Punarvasu. They are also significant of the great progress of the science of poison and the king being in constant fear of being poisoned. The verses mention the name of the ruler and his country and also the status of the court physician and the desire of the king to learn the science.
-
-[...]
 
 [...]
 
@@ -1962,8 +1788,6 @@ In the same chapter he gives an interesting description of the countries and the
 [... 1-7]
 
 Bhela described eight varieties of sudation.
-
-[...]
 
 [...]
 
@@ -1998,8 +1822,6 @@ In Shatapatha Brahmana he is described as the propounder of Brahma-vidya. He is 
 The word Jatukarna as such means bat-eared. We do not know whether our Jatukarna had ears like a bat or whether it was just a proper noun without any relation to its derivation.
 
 Jatukarna is also known as Jatukarna and is quoted in many famous medical works.
-
-[Vyākhyā Kusumāvali 1-2]
 
 [Vyākhyā Kusumāvali 1-2]
 
@@ -2054,17 +1876,11 @@ We give below a few specimen quotations from him found in other medical works of
 
 [Suśruta ...]
 
-[Suśruta ...]
-
 Dalhana while commenting on Sushruta Samhita says:
 
 [...]
 
-[...]
-
 (Ṣaṭśabda) is used to signify the six treatises on medicine as composed by Agnivesha, Bhela, Jatukarna, Harita, Ksarapani and Parashara.
-
-[Kaśyapa ...]
 
 [Kaśyapa ...]
 
@@ -2092,17 +1908,11 @@ The other commentator of Vagbhata, Hemadri, in his commentary Ayurveda- rasayana
 
 [...]
 
-[...]
-
 Cakrapani quotes him as under in his commentary Ayurveda-dipika (Āyurvedadīpikā):
 
 [...]
 
-[...]
-
 Sivadasa in his Vyakhya-kusumavali quotes him in several places
-
-[... 1-2]
 
 [... 1-2]
 
@@ -2174,10 +1984,7 @@ Thus we find that the galaxy of Atreya’s disciples had each one of them to his
 
 ## 12. Part 2-3 - Medical Institutions in Ancient India
 
-
 History of Indian Medicine (and Ayurveda)
-
-by Shree Gulabkunverba Ayurvedic Society | 1949 | 162,724 words | ISBN-13: 9788176370813
 
 The History of Indian medicine and Ayurveda (i.e., the science of life) represents the introductory pages of the Charaka Samhita composed of six large sections dealing with every facet of Medicine in ancient India in a Socio-Historical context. Caraka is regarded as one of the pioneers in the field of scientific healthcare.
 
@@ -2191,10 +1998,7 @@ Part 2-3 - Medical Institutions in Ancient India
 
 ## 13. Chapter 1 - Universal Education in Ancient India
 
-
 History of Indian Medicine (and Ayurveda)
-
-by Shree Gulabkunverba Ayurvedic Society | 1949 | 162,724 words | ISBN-13: 9788176370813
 
 The History of Indian medicine and Ayurveda (i.e., the science of life) represents the introductory pages of the Charaka Samhita composed of six large sections dealing with every facet of Medicine in ancient India in a Socio-Historical context. Caraka is regarded as one of the pioneers in the field of scientific healthcare.
 
@@ -2262,8 +2066,6 @@ This fact of universal education and righteous living is amply borne out by the 
 
 “In my dominion, no villain, no drunkard, none who neglected his religious rites, none uneducated, no man incontinent and gay as libertine, no worman who was unchaste, existed”.
 
-“In my dominion, no villain, no drunkard, none who neglected his religious rites, none uneducated, no man incontinent and gay as libertine, no worman who was unchaste, existed”.
-
 As a matter of fact it was considered the religious duty of every father to educate his son.
 
 The Brihadaranyaka Upanisad lays down that:
@@ -2283,10 +2085,7 @@ This glorious state continued at least up to the seventh century A. D. and not o
 
 ## 14. Chapter 3 - Selection of the System and Branch of Study by the Medical Student
 
-
 History of Indian Medicine (and Ayurveda)
-
-by Shree Gulabkunverba Ayurvedic Society | 1949 | 162,724 words | ISBN-13: 9788176370813
 
 The History of Indian medicine and Ayurveda (i.e., the science of life) represents the introductory pages of the Charaka Samhita composed of six large sections dealing with every facet of Medicine in ancient India in a Socio-Historical context. Caraka is regarded as one of the pioneers in the field of scientific healthcare.
 
@@ -2322,10 +2121,7 @@ Above all, the student was to be inspired by a realistic and practical spirit. H
 
 ## 15. Chapter 2 - The Purpose of the Study of Medicine
 
-
 History of Indian Medicine (and Ayurveda)
-
-by Shree Gulabkunverba Ayurvedic Society | 1949 | 162,724 words | ISBN-13: 9788176370813
 
 The History of Indian medicine and Ayurveda (i.e., the science of life) represents the introductory pages of the Charaka Samhita composed of six large sections dealing with every facet of Medicine in ancient India in a Socio-Historical context. Caraka is regarded as one of the pioneers in the field of scientific healthcare.
 
@@ -2397,10 +2193,7 @@ All these three classes of medical practitioners, though motivated by different 
 
 ## 16. Chapter 5 - Admission to Studies
 
-
 History of Indian Medicine (and Ayurveda)
-
-by Shree Gulabkunverba Ayurvedic Society | 1949 | 162,724 words | ISBN-13: 9788176370813
 
 The History of Indian medicine and Ayurveda (i.e., the science of life) represents the introductory pages of the Charaka Samhita composed of six large sections dealing with every facet of Medicine in ancient India in a Socio-Historical context. Caraka is regarded as one of the pioneers in the field of scientific healthcare.
 
@@ -2475,8 +2268,6 @@ of a student cannot be over-emphasised. The life of one who is following the pur
 
 “Keep thou thy chariots, thy dancing girls and singing; I will have none of them”.
 
-“Keep thou thy chariots, thy dancing girls and singing; I will have none of them”.
-
 It is then and then only that the great king of the the Dead considered him worthy of being taught, saying:—
 
 [...]
@@ -2490,10 +2281,7 @@ It is then and then only that the great king of the the Dead considered him wort
 
 ## 17. Chapter 4 - Text Books of Medicine
 
-
 History of Indian Medicine (and Ayurveda)
-
-by Shree Gulabkunverba Ayurvedic Society | 1949 | 162,724 words | ISBN-13: 9788176370813
 
 The History of Indian medicine and Ayurveda (i.e., the science of life) represents the introductory pages of the Charaka Samhita composed of six large sections dealing with every facet of Medicine in ancient India in a Socio-Historical context. Caraka is regarded as one of the pioneers in the field of scientific healthcare.
 
@@ -3019,10 +2807,7 @@ The qualities specified for a good text book are described in Caraka (Vide this 
 
 ## 18. Chapter 6 - The Oath of Initiation
 
-
 History of Indian Medicine (and Ayurveda)
-
-by Shree Gulabkunverba Ayurvedic Society | 1949 | 162,724 words | ISBN-13: 9788176370813
 
 The History of Indian medicine and Ayurveda (i.e., the science of life) represents the introductory pages of the Charaka Samhita composed of six large sections dealing with every facet of Medicine in ancient India in a Socio-Historical context. Caraka is regarded as one of the pioneers in the field of scientific healthcare.
 
@@ -3137,10 +2922,7 @@ During the student life, special emphasis is laid on celibacy, abstinence from m
 
 ## 19. Chapter 8 - Qualities of the Teacher
 
-
 History of Indian Medicine (and Ayurveda)
-
-by Shree Gulabkunverba Ayurvedic Society | 1949 | 162,724 words | ISBN-13: 9788176370813
 
 The History of Indian medicine and Ayurveda (i.e., the science of life) represents the introductory pages of the Charaka Samhita composed of six large sections dealing with every facet of Medicine in ancient India in a Socio-Historical context. Caraka is regarded as one of the pioneers in the field of scientific healthcare.
 
@@ -3164,8 +2946,6 @@ Lastly, the teacher may not withhold from his pupils any aspect or recondite doc
 Such a vow is worth introducing into the present system of education.
 
 The Smritikaustubha (Smṛtikaustubha) narrates how a teacher was condemned to be a mango tree in his next existence for his failure to impart Vedic knowledge.
-
-[...]
 
 [...]
 
@@ -3206,10 +2986,7 @@ Avyāvṛtta—Of undistracted mind.
 
 ## 20. Chapter 9 - The Students Life and Discipline
 
-
 History of Indian Medicine (and Ayurveda)
-
-by Shree Gulabkunverba Ayurvedic Society | 1949 | 162,724 words | ISBN-13: 9788176370813
 
 The History of Indian medicine and Ayurveda (i.e., the science of life) represents the introductory pages of the Charaka Samhita composed of six large sections dealing with every facet of Medicine in ancient India in a Socio-Historical context. Caraka is regarded as one of the pioneers in the field of scientific healthcare.
 
@@ -3546,10 +3323,7 @@ Whenever there was inclement weather such as lightning, thunder-storms, when the
 
 ## 21. Chapter 7 - The Qualities required in the Student for Admission to Medical Studies
 
-
 History of Indian Medicine (and Ayurveda)
-
-by Shree Gulabkunverba Ayurvedic Society | 1949 | 162,724 words | ISBN-13: 9788176370813
 
 The History of Indian medicine and Ayurveda (i.e., the science of life) represents the introductory pages of the Charaka Samhita composed of six large sections dealing with every facet of Medicine in ancient India in a Socio-Historical context. Caraka is regarded as one of the pioneers in the field of scientific healthcare.
 
@@ -3628,10 +3402,7 @@ Dambha-mātsarya-nirmukta—Free from bluster and envy;
 
 ## 22. Chapter 12 - Examination, Registration and Convocation
 
-
 History of Indian Medicine (and Ayurveda)
-
-by Shree Gulabkunverba Ayurvedic Society | 1949 | 162,724 words | ISBN-13: 9788176370813
 
 The History of Indian medicine and Ayurveda (i.e., the science of life) represents the introductory pages of the Charaka Samhita composed of six large sections dealing with every facet of Medicine in ancient India in a Socio-Historical context. Caraka is regarded as one of the pioneers in the field of scientific healthcare.
 
@@ -3653,13 +3424,9 @@ According to the Tibeten tales, Atreya said to his pupils,
 
 “Go to the pine hill and fetch from it that which is no remedy.”
 
-“Go to the pine hill and fetch from it that which is no remedy.”
-
 The pupils went there and each of them brought back that which he thought was no remedy. But Jivaka reflected that there was scarcely anything which is not a remedy for some or other ailment, so he brought with him only a knot from a reed and a piece of stone. He also took with him a pot which a shepherd girl whom he had cured, had given him.
 
 When they all returned to Atreya, each of them showed what he had brought with him Atreya said,
-
-“Oh sons of Brahmans, this one is of use in such and such an illness and the others in other illnesses”
 
 “Oh sons of Brahmans, this one is of use in such and such an illness and the others in other illnesses”
 
@@ -3676,8 +3443,6 @@ When Jivaka was asked what he had brought, he said,
 “If a man is stung by a scorpion, he can be fumigated with the reed knot and healed with leavening pot and with the piece of stone can a pot of curdled milk be broken at harvest time”.
 
 The truth of this story is confirmed when we refer to Caraka Samhita. It is said in the 12th passage of the 26th chapter of Sutrasthana:
-
-“In the light of this knowledge there is in the world no substance that may not be used as medicine in this or that manner for this or that purpose”.
 
 “In the light of this knowledge there is in the world no substance that may not be used as medicine in this or that manner for this or that purpose”.
 
@@ -3757,8 +3522,6 @@ Shukracarya lays down positively that without the permission of the king no phys
 
 [Śukranīti 1-3, 4]
 
-[Śukranīti 1-3, 4]
-
 Even the veterinary surgeon had to appear before the king for registration and then be allowed to practice.
 
 The Convocation or Samavartana Ceremony
@@ -3813,10 +3576,7 @@ From the above oaths we learn that the following points were stressed upon. The 
 
 ## 23. Chapter 11 - Institutions and Universities
 
-
 History of Indian Medicine (and Ayurveda)
-
-by Shree Gulabkunverba Ayurvedic Society | 1949 | 162,724 words | ISBN-13: 9788176370813
 
 The History of Indian medicine and Ayurveda (i.e., the science of life) represents the introductory pages of the Charaka Samhita composed of six large sections dealing with every facet of Medicine in ancient India in a Socio-Historical context. Caraka is regarded as one of the pioneers in the field of scientific healthcare.
 
@@ -3859,8 +3619,6 @@ Yuan Chwang states,
 
 “Those who bore the name of ‘Nalanda brother’ were all treated with respect wherever they went”.
 
-“Those who bore the name of ‘Nalanda brother’ were all treated with respect wherever they went”.
-
 Yuan Chwang supports the claim by stating that the students of Nalanda were looked upon as models.
 
 Taxila
@@ -3873,11 +3631,7 @@ Vincent Smith, in his history, says,
 
 “It was the leading seat of Hindu learning where crowds of pupils from all quarters were taught the three Vedas and the eighteen accomplishments. It was the fashion to send princes and the sons of the well-to-do Brahmanas on attaining the age of sixteen to complete their education at Taxila which may be properly described as a University town. The medical school there enjoyed a special reputation but all arts and sciences could be studied under the most eminent professors”.
 
-“It was the leading seat of Hindu learning where crowds of pupils from all quarters were taught the three Vedas and the eighteen accomplishments. It was the fashion to send princes and the sons of the well-to-do Brahmanas on attaining the age of sixteen to complete their education at Taxila which may be properly described as a University town. The medical school there enjoyed a special reputation but all arts and sciences could be studied under the most eminent professors”.
-
 Dr Hoernle says:—
-
-“According to another non-medical line of Indian tradition preserved in the Buddhist Jatakas or Folk-lore, there existed in India in the age of Buddha two great universities or seats of learning in which all sciences ([???] or sarvashilpani—sarvashilpa) or including medicine were taught by professors of world-wide renown ([???] or dishapramukhacarya). These two universities were Kashi or Benares in the east and still more famous Takshashila on the Jhelum river in the west. In the latter university, at the time of Buddha or shortly before it, the leading professor of medicine was Atreya. He accordingly should have flourished at some time in the sixth century B.C.”
 
 “According to another non-medical line of Indian tradition preserved in the Buddhist Jatakas or Folk-lore, there existed in India in the age of Buddha two great universities or seats of learning in which all sciences ([???] or sarvashilpani—sarvashilpa) or including medicine were taught by professors of world-wide renown ([???] or dishapramukhacarya). These two universities were Kashi or Benares in the east and still more famous Takshashila on the Jhelum river in the west. In the latter university, at the time of Buddha or shortly before it, the leading professor of medicine was Atreya. He accordingly should have flourished at some time in the sixth century B.C.”
 
@@ -3959,10 +3713,7 @@ This university flourished from 450 A.D. to 12th century A.D.
 
 ## 24. Chapter 13 - Completion of Study
 
-
 History of Indian Medicine (and Ayurveda)
-
-by Shree Gulabkunverba Ayurvedic Society | 1949 | 162,724 words | ISBN-13: 9788176370813
 
 The History of Indian medicine and Ayurveda (i.e., the science of life) represents the introductory pages of the Charaka Samhita composed of six large sections dealing with every facet of Medicine in ancient India in a Socio-Historical context. Caraka is regarded as one of the pioneers in the field of scientific healthcare.
 
@@ -4098,10 +3849,7 @@ Historical records show that a number of students from middle Asia, Persia, Assy
 
 ## 25. Chapter 10 - The Method of Theoretical and Practical Study
 
-
 History of Indian Medicine (and Ayurveda)
-
-by Shree Gulabkunverba Ayurvedic Society | 1949 | 162,724 words | ISBN-13: 9788176370813
 
 The History of Indian medicine and Ayurveda (i.e., the science of life) represents the introductory pages of the Charaka Samhita composed of six large sections dealing with every facet of Medicine in ancient India in a Socio-Historical context. Caraka is regarded as one of the pioneers in the field of scientific healthcare.
 
@@ -4338,11 +4086,7 @@ To illustrate to what extent the cultivation of memory power was carried out, Ma
 
 “Thus this view of the subject matter of learning necessarily moulded the methods and system under which it was to be imparted. Hence we find that the preliminary stage of learning was the learning by heart the sacred texts through indefinite repetition and rehearsal by both the teacher and the taught. This means that the cultivation of memory was accorded a most important place in the ancient system of education. The powers of verbal memory were accordingly developed to a degree almost incredible in modern times”.
 
-“Thus this view of the subject matter of learning necessarily moulded the methods and system under which it was to be imparted. Hence we find that the preliminary stage of learning was the learning by heart the sacred texts through indefinite repetition and rehearsal by both the teacher and the taught. This means that the cultivation of memory was accorded a most important place in the ancient system of education. The powers of verbal memory were accordingly developed to a degree almost incredible in modern times”.
-
 Again as Max Muller well puts it
-
-“We can form no opinion of the power of memory in a state of society so different from ours as the Indian Parisads are from our Universities Feats of memory such as we hear of now and then, show that our notions of the limits of that faculty are quite arbitrary. Our own memory has been systematically undermined for many generations. To speak of nothing else, one sheet of the Times newspaper every morning is quite sufficient to distract and unsettle the healthiest memory”.
 
 “We can form no opinion of the power of memory in a state of society so different from ours as the Indian Parisads are from our Universities Feats of memory such as we hear of now and then, show that our notions of the limits of that faculty are quite arbitrary. Our own memory has been systematically undermined for many generations. To speak of nothing else, one sheet of the Times newspaper every morning is quite sufficient to distract and unsettle the healthiest memory”.
 
@@ -4350,11 +4094,7 @@ As the same author has further stated in some of his writings, this dependence o
 
 “Even at the present day when manuscripts are neither scarce nor expensive, the young Brahmans, who learn the songs of the Veda, the Brahmanas and the Sutras, invariably learn them from oral tradition and know them by heart They spend year after year under the guidance of their teacher, learning a little, day after day, repeating what they have learnt as part of their daily devotion until at last they have mastered their subject and are able to become teachers in turn.”
 
-“Even at the present day when manuscripts are neither scarce nor expensive, the young Brahmans, who learn the songs of the Veda, the Brahmanas and the Sutras, invariably learn them from oral tradition and know them by heart They spend year after year under the guidance of their teacher, learning a little, day after day, repeating what they have learnt as part of their daily devotion until at last they have mastered their subject and are able to become teachers in turn.”
-
 Max Muller himself arranged to collect various readings for his edition of the Rigveda not from manuscripts, but from the oral tradition of Vaidik Srotriyas (śrotriyā—śrotriyas) who are fittingly described by the Indian Scholar, Mr Shanker Pandurang, who was entrusted with the work, in the following passage.
-
-“I am collecting a few of our walking Rigveda MSS. taking your text as basis”.
 
 “I am collecting a few of our walking Rigveda MSS. taking your text as basis”.
 
@@ -4368,17 +4108,9 @@ An Indian scholar informed Max Muller that even so late as the early “Seventie
 (4) The Grihya Sutras,
 (5-10) The six Vedangas
 
-(1) The Samhita or hymns,
-(2) The Brahmana;
-(3) The Aranyaka,
-(4) The Grihya Sutras,
-(5-10) The six Vedangas
-
 Max Muller calculates that these ten books contain nearlv 30,000 lines with each line reckoned as thirty-two syllables.
 
 According to his informant, this course was to be finished in eight years. Now:
-
-“A pupil studies everyday during the eight years except on the holidavs, the so-called Anadhyayas, non-reading days. There being 360 days in a lunar year, these eight years would give him 2S80 days From this 384 holidays have to be deducted, leaving him 2496 workdays during the eight years”.
 
 “A pupil studies everyday during the eight years except on the holidavs, the so-called Anadhyayas, non-reading days. There being 360 days in a lunar year, these eight years would give him 2S80 days From this 384 holidays have to be deducted, leaving him 2496 workdays during the eight years”.
 
@@ -4737,11 +4469,7 @@ The Brahmans’ sons, said,
 
 ‘O teacher, you are well pleased with him because he is a king’s sou, and you bestow instruction upon him, but none upon us’
 
-‘O teacher, you are well pleased with him because he is a king’s sou, and you bestow instruction upon him, but none upon us’
-
 He replied,
-
-‘That is not the case. Jivaka possesses great intelligence, and he is able to comprehend intuitively whatever I indicate to him.’
 
 ‘That is not the case. Jivaka possesses great intelligence, and he is able to comprehend intuitively whatever I indicate to him.’
 
@@ -4749,11 +4477,7 @@ They said,
 
 ‘O teacher, how do you know this?’
 
-‘O teacher, how do you know this?’
-
 He said to the Brahman’s sons,
-
-‘Go and ask the prices of various commodities, you ask of such a one and you ask of such another’
 
 ‘Go and ask the prices of various commodities, you ask of such a one and you ask of such another’
 
@@ -4763,13 +4487,9 @@ But then he said to himself,
 
 ‘Suppose the master asks the prices of other wares, what shall I be able to reply? I shall make myself acquainted with the prices of other commodities as’ well’
 
-‘Suppose the master asks the prices of other wares, what shall I be able to reply? I shall make myself acquainted with the prices of other commodities as’ well’
-
 When they had all returned to their teacher, they rendered an account of those things which they had been ordered to do.
 
 Then Atreya began to ask the prices of articles which he had not mentioned, saying to each of them:
-
-‘O Brahman’s son, what does this commodity cost?’
 
 ‘O Brahman’s son, what does this commodity cost?’
 
@@ -4892,10 +4612,7 @@ The physician therefore was required to be fully equipped for such clinical test
 
 ## 26. Chapter 14 - The Individual and Medicine
 
-
 History of Indian Medicine (and Ayurveda)
-
-by Shree Gulabkunverba Ayurvedic Society | 1949 | 162,724 words | ISBN-13: 9788176370813
 
 The History of Indian medicine and Ayurveda (i.e., the science of life) represents the introductory pages of the Charaka Samhita composed of six large sections dealing with every facet of Medicine in ancient India in a Socio-Historical context. Caraka is regarded as one of the pioneers in the field of scientific healthcare.
 
@@ -5036,10 +4753,7 @@ This relationship between the individual and medicine is therefore a vital one b
 
 ## 27. Chapter 15 - Village and Medicine
 
-
 History of Indian Medicine (and Ayurveda)
-
-by Shree Gulabkunverba Ayurvedic Society | 1949 | 162,724 words | ISBN-13: 9788176370813
 
 The History of Indian medicine and Ayurveda (i.e., the science of life) represents the introductory pages of the Charaka Samhita composed of six large sections dealing with every facet of Medicine in ancient India in a Socio-Historical context. Caraka is regarded as one of the pioneers in the field of scientific healthcare.
 
@@ -5066,8 +4780,6 @@ Kautilya in his Arthashastra defines a village as consisting of 100 families or 
 
 [...]
 
-[...]
-
 As to the requirements for happy living in a village, definite instructions and advice have been laid down by the ancients.
 
 Vagbhata in his Astangasangraha says that—
@@ -5080,8 +4792,6 @@ Vagbhata in his Astangasangraha says that—
 “A village should not be constructed where the country abounds in disease, where there is no physician, where there is no leader to guide and protect, where the number of irreligious people is great, and where the country is situated near a mountain.”
 
 He says that,
-
-“People should reside in a place which bears plenty of water, medicinal herbs, sacrificial sticks, flowers, grass and firewood, and which yields abundant food, where there is complete safety of property and person, where the out-skirts are beautiful and pleasing and lastly which is adorned by the presence of learned people”.
 
 “People should reside in a place which bears plenty of water, medicinal herbs, sacrificial sticks, flowers, grass and firewood, and which yields abundant food, where there is complete safety of property and person, where the out-skirts are beautiful and pleasing and lastly which is adorned by the presence of learned people”.
 
@@ -5234,10 +4944,7 @@ As for example:
 
 ## 28. Chapter 18 - Military Surgery
 
-
 History of Indian Medicine (and Ayurveda)
-
-by Shree Gulabkunverba Ayurvedic Society | 1949 | 162,724 words | ISBN-13: 9788176370813
 
 The History of Indian medicine and Ayurveda (i.e., the science of life) represents the introductory pages of the Charaka Samhita composed of six large sections dealing with every facet of Medicine in ancient India in a Socio-Historical context. Caraka is regarded as one of the pioneers in the field of scientific healthcare.
 
@@ -5485,18 +5192,13 @@ They offered to treat him. But the heroic Bhisma turned to Duryodhana, the king,
 
 “Give generous and befitting presents of money to these good surgeons and pay them due honor and send them away. For to me in this condition no treatmen is welcome. The greatest boon for a Ksatriya is death on the battlefield and I covet it. I must be allowed to die with these arrows on which I lie like on a bed. With them let me be cremated.”
 
-“Give generous and befitting presents of money to these good surgeons and pay them due honor and send them away. For to me in this condition no treatmen is welcome. The greatest boon for a Ksatriya is death on the battlefield and I covet it. I must be allowed to die with these arrows on which I lie like on a bed. With them let me be cremated.”
-
 Listening to this heroic utterance, all applauded and the surgeons left him to his glorious end.
 
 ---
 
 ## 29. Chapter 16 - Urban Medical Relief
 
-
 History of Indian Medicine (and Ayurveda)
-
-by Shree Gulabkunverba Ayurvedic Society | 1949 | 162,724 words | ISBN-13: 9788176370813
 
 The History of Indian medicine and Ayurveda (i.e., the science of life) represents the introductory pages of the Charaka Samhita composed of six large sections dealing with every facet of Medicine in ancient India in a Socio-Historical context. Caraka is regarded as one of the pioneers in the field of scientific healthcare.
 
@@ -5606,10 +5308,7 @@ Thus we see that even in that bygone age the medical profession was a popular on
 
 ## 30. Chapter 17 - The Royal Physician
 
-
 History of Indian Medicine (and Ayurveda)
-
-by Shree Gulabkunverba Ayurvedic Society | 1949 | 162,724 words | ISBN-13: 9788176370813
 
 The History of Indian medicine and Ayurveda (i.e., the science of life) represents the introductory pages of the Charaka Samhita composed of six large sections dealing with every facet of Medicine in ancient India in a Socio-Historical context. Caraka is regarded as one of the pioneers in the field of scientific healthcare.
 
@@ -5829,10 +5528,7 @@ Being such a royal physician, we may admit, demanded all the wisdom, caution and
 
 ## 31. Chapter 19 - Nursing
 
-
 History of Indian Medicine (and Ayurveda)
-
-by Shree Gulabkunverba Ayurvedic Society | 1949 | 162,724 words | ISBN-13: 9788176370813
 
 The History of Indian medicine and Ayurveda (i.e., the science of life) represents the introductory pages of the Charaka Samhita composed of six large sections dealing with every facet of Medicine in ancient India in a Socio-Historical context. Caraka is regarded as one of the pioneers in the field of scientific healthcare.
 
@@ -5843,8 +5539,6 @@ Chapter 19 - Nursing
 The quality of mercy is doubly blessed. It blesseth him that gives and him that receives Mercy is the younger sister of sympathy both being born of the humane spirit. The objective search for the origin of medicine may lead us to Hippocrates or Atreya, but the subjective search for the origin of medicine will always lead us to this subtle spirit of mercy or sympathy, the fountain source of inspiration and the origin of the medical science.
 
 Dr. Payne, the well known American Historian has well said,
-
-“The basis of medicine is sympathy and the desire to help others and whatever is done with this end, is called medicine”.
 
 “The basis of medicine is sympathy and the desire to help others and whatever is done with this end, is called medicine”.
 
@@ -5886,11 +5580,7 @@ The following extract from Kashyapa Samhita (Kāśyapasaṃhitā), bears ample t
 
 “After this should be secured a body of attendants of good behaviour, distinguished for purity and cleanliness of habits, possessed of cleverness and skill, endowed with kindness, competent to cook food and curries, clever in bathing or washing a patient, well conversant in rubbing or pressing the limbs, raising a patient or helping him to walk, well-skilled in making or cleaning beds, able to pound drugs, always ready, patient and skilful to wait upon one who is ailing and never unwilling to do what is commanded by the physician”.
 
-“After this should be secured a body of attendants of good behaviour, distinguished for purity and cleanliness of habits, possessed of cleverness and skill, endowed with kindness, competent to cook food and curries, clever in bathing or washing a patient, well conversant in rubbing or pressing the limbs, raising a patient or helping him to walk, well-skilled in making or cleaning beds, able to pound drugs, always ready, patient and skilful to wait upon one who is ailing and never unwilling to do what is commanded by the physician”.
-
 The qualities required in a female nurse are well enumerated in the following extract
-
-“To become a good nurse, a woman must possess considerable intelligence, good education, healthy physique, good manners, an even temper, a sympathetic temperament and deft [?? hands]?. To these she must add habits of observation, punctuality, obedience, cleanliness, a sense of proportion and a capacity for and habit of accurate statement. Training can only strengthen these qualities and habits. It cannot produce them.”
 
 “To become a good nurse, a woman must possess considerable intelligence, good education, healthy physique, good manners, an even temper, a sympathetic temperament and deft [?? hands]?. To these she must add habits of observation, punctuality, obedience, cleanliness, a sense of proportion and a capacity for and habit of accurate statement. Training can only strengthen these qualities and habits. It cannot produce them.”
 
@@ -5904,17 +5594,11 @@ There is a story that on the outbreak in Magadha of the five diseases of leprosy
 
 “Pray, Doctor, cure us and all that we possess shall be yours and we will be your slaves”.
 
-“Pray, Doctor, cure us and all that we possess shall be yours and we will be your slaves”.
-
 But the Doctor said.
 
 “I have too many duties, Sirs, and am too occupied I have to treat the Magadha King Seniya Bimbisara and the royal seraglio, and the fraternity of Bhikkhus with the Buddha at their head I cannot cure you”.
 
-“I have too many duties, Sirs, and am too occupied I have to treat the Magadha King Seniya Bimbisara and the royal seraglio, and the fraternity of Bhikkhus with the Buddha at their head I cannot cure you”.
-
 Now those people thought:
-
-“Indeed the precepts which these Shakyaputtiya Samanas keep and the life they live are commodious, they have good meals and lie down on beds protected from the wind. What if we were to embrace the religious life among the Sakyaputtiya Samanas, then the Bhikkhus will nurse us and Jivaka Komarabhachcha [Komarabhacca] will cure us.”
 
 “Indeed the precepts which these Shakyaputtiya Samanas keep and the life they live are commodious, they have good meals and lie down on beds protected from the wind. What if we were to embrace the religious life among the Sakyaputtiya Samanas, then the Bhikkhus will nurse us and Jivaka Komarabhachcha [Komarabhacca] will cure us.”
 
@@ -6058,10 +5742,7 @@ The institution revived on these lines will no doubt alleviate most of the suffe
 
 ## 32. Chapter 20 - Veterinary Science
 
-
 History of Indian Medicine (and Ayurveda)
-
-by Shree Gulabkunverba Ayurvedic Society | 1949 | 162,724 words | ISBN-13: 9788176370813
 
 The History of Indian medicine and Ayurveda (i.e., the science of life) represents the introductory pages of the Charaka Samhita composed of six large sections dealing with every facet of Medicine in ancient India in a Socio-Historical context. Caraka is regarded as one of the pioneers in the field of scientific healthcare.
 
@@ -6247,10 +5928,7 @@ With the ancients the animals were not mere useful servants, but they were treat
 
 ## 33. Chapter 21 - Hospitals and Equipment
 
-
 History of Indian Medicine (and Ayurveda)
-
-by Shree Gulabkunverba Ayurvedic Society | 1949 | 162,724 words | ISBN-13: 9788176370813
 
 The History of Indian medicine and Ayurveda (i.e., the science of life) represents the introductory pages of the Charaka Samhita composed of six large sections dealing with every facet of Medicine in ancient India in a Socio-Historical context. Caraka is regarded as one of the pioneers in the field of scientific healthcare.
 
@@ -6327,8 +6005,6 @@ The edict runs as follows:
 
 “Everywhere in the kingdom of the king Piyadasi, beloved of the gods, and also of the nations who live in the frontiers such as the Cholas, the Pandyas, the realms of Satyaputra and Keralaputra, as far as Tambapani and in the kingdom of Antiochus, king of the Greeks and of the kings who are his neighbours, everywhere the king Piyadasi, beloved of the gods, has provided hospitals of two sorts: hospitals for men and hospitals for animals.
 
-“Everywhere in the kingdom of the king Piyadasi, beloved of the gods, and also of the nations who live in the frontiers such as the Cholas, the Pandyas, the realms of Satyaputra and Keralaputra, as far as Tambapani and in the kingdom of Antiochus, king of the Greeks and of the kings who are his neighbours, everywhere the king Piyadasi, beloved of the gods, has provided hospitals of two sorts: hospitals for men and hospitals for animals.
-
 Wherever plants useful either for men or for animals were wanting they have been imported and planted. Wherever roots and fruits were wanting they have been imported and planted. And long public roads have been dug for the use of animals and men.”
 
 Descriptions of Chinese travellers who toured India in the 5th and 7th centuries fully corroborate the fact of hospitals being an established institution in India of those days
@@ -6337,11 +6013,7 @@ Fa hien (405-11-A D) who was a contemporary of Chandragupta Vikramaditya describ
 
 “The nobles and householders of this country have founded hospitals within the city to which the poor of all countries, the destitute, the cripple and the diseased may repair. They receive every kind of requisite help gratuitously. Physicians inspect their diseases, and according to their cases order them food and drink and medicines, or decoctions, everything in fact that may contribute to their ease. When cured, they depart at their convenience”.
 
-“The nobles and householders of this country have founded hospitals within the city to which the poor of all countries, the destitute, the cripple and the diseased may repair. They receive every kind of requisite help gratuitously. Physicians inspect their diseases, and according to their cases order them food and drink and medicines, or decoctions, everything in fact that may contribute to their ease. When cured, they depart at their convenience”.
-
 Vincent smith remarks:—
-
-“No such foundation was to be seen elsewhere in the world at this date, and its existence anticipating the deeds of modern Christian charity speaks well both for the character of the citizens who endowed it and for the genius of the great Asoka whose teaching bore such wholesome fruit many centuries after his decease. The earliest hospital in Europe, the Maison Dieu of Pans, is said to have been opened in the 7th century”.
 
 “No such foundation was to be seen elsewhere in the world at this date, and its existence anticipating the deeds of modern Christian charity speaks well both for the character of the citizens who endowed it and for the genius of the great Asoka whose teaching bore such wholesome fruit many centuries after his decease. The earliest hospital in Europe, the Maison Dieu of Pans, is said to have been opened in the 7th century”.
 
@@ -6353,11 +6025,7 @@ Speaking of the father of Bhikkhu Srutavimsatikoli, Huen Tsang says:
 
 “From his house to the snowy mountains, he had established a succession of rest-houses from which his servants continually went from one to the others Whatever valuable medicines were wanted they communicated the same to each other in order, and so procured them without loss of time, so rich was the family”.
 
-“From his house to the snowy mountains, he had established a succession of rest-houses from which his servants continually went from one to the others Whatever valuable medicines were wanted they communicated the same to each other in order, and so procured them without loss of time, so rich was the family”.
-
 In his account there is mention of charitable institutions called “Punyashalas” as common in India.
-
-“There were formerly in this country (Tsch-Kia-Takka) many houses of charity (goodness or happiness, Punyaśālās) for keeping the poor and the unfortunate. They provided for them medicines and food and clothing and necessaries so that travellers were never badly off”
 
 “There were formerly in this country (Tsch-Kia-Takka) many houses of charity (goodness or happiness, Punyaśālās) for keeping the poor and the unfortunate. They provided for them medicines and food and clothing and necessaries so that travellers were never badly off”
 
@@ -6365,11 +6033,7 @@ Again he says,
 
 “Benevolent kings have founded here (Mo-ti-pil-lo or Matipura) a ‘house of merit’ (Punyaśālā). This foundation is endowed with funds for procuring choice food and medicines, to bestow the charity on widows and bereaved persons, on orphans and the destitute”.
 
-“Benevolent kings have founded here (Mo-ti-pil-lo or Matipura) a ‘house of merit’ (Punyaśālā). This foundation is endowed with funds for procuring choice food and medicines, to bestow the charity on widows and bereaved persons, on orphans and the destitute”.
-
 A similar Punyashala or hospital was in K-ei-p-an-to (Kannandha). While describing Multan he says,
-
-“They have founded a house of mercy t happiness ), in which they provide food and drink an medicines for the poor and sick, affording succour and sustenance”.
 
 “They have founded a house of mercy t happiness ), in which they provide food and drink an medicines for the poor and sick, affording succour and sustenance”.
 
@@ -6377,17 +6041,11 @@ Of Shiladitya he says,
 
 “Every year is assembled the Shramanas from a countries and on the third and seventh days he bestowed on them in charity four things of alms viz, food, drink, medicine and clothing”.
 
-“Every year is assembled the Shramanas from a countries and on the third and seventh days he bestowed on them in charity four things of alms viz, food, drink, medicine and clothing”.
-
 Ceylonese records furnish a lot of information in how the kings took up the erection and maintenance of hospitals as their chief duty From Mahavamsha we gather that in 437 B.C. King Pandukabhya constructed a residence for the Ajivakas, a hall for the worshippers of Brahma, (another for those) of Shiva as well as a hospital.
 
 “Duttha Gamani feeling his earthly journey ending (161 B.C.) asked that records of his reign be read to him and among the last words the dying king heard was, ‘I have daily maintained at eighteen different places, hospitals provided with suitable diet and medicines prepared by physicians for the infirm.” (Robinson’s History of Ceylon)
 
-“Duttha Gamani feeling his earthly journey ending (161 B.C.) asked that records of his reign be read to him and among the last words the dying king heard was, ‘I have daily maintained at eighteen different places, hospitals provided with suitable diet and medicines prepared by physicians for the infirm.” (Robinson’s History of Ceylon)
-
 We quote below a few references from the Mahavamsha part II by L.C. Wijesinha Mudaliyar P 57 chapter XLIX. (King’s name Dappula III 827 A D.)
-
-“And being a man of great compassion he built a hospital for the city of Pullatthi and another at Pandaviya with a fruitful village attached thereto. He built hospitals for the halt and the blind in diverse places”
 
 “And being a man of great compassion he built a hospital for the city of Pullatthi and another at Pandaviya with a fruitful village attached thereto. He built hospitals for the halt and the blind in diverse places”
 
@@ -6633,10 +6291,7 @@ The high degree of specialization in hospital work, the special features like re
 
 ## 34. Chapter 22 - Pharmacy
 
-
 History of Indian Medicine (and Ayurveda)
-
-by Shree Gulabkunverba Ayurvedic Society | 1949 | 162,724 words | ISBN-13: 9788176370813
 
 The History of Indian medicine and Ayurveda (i.e., the science of life) represents the introductory pages of the Charaka Samhita composed of six large sections dealing with every facet of Medicine in ancient India in a Socio-Historical context. Caraka is regarded as one of the pioneers in the field of scientific healthcare.
 
@@ -6649,8 +6304,6 @@ Pharmacy and Pharmaceutics form a very important and substantial part of medicin
 1. Vedic period:
 
 Veda is spoken of as having six limbs, viz, phonetics, grammar, etymology, astrology, canons of ritual and prosody.
-
-[...]
 
 [...]
 
@@ -6871,8 +6524,6 @@ Drug action is fully described in Caraka. For instance in Caraka Samhita Vimana-
 
 “Long pepper, pungent though in taste, is sweet in postdigestion, heavy, neither overmuch unctuous nor overmuch hot, is deliquescent and esteemed as medicine. It is at once productive of beneficial and baneful effects. If administered in the proper time and measure, its action is at once beneficial. But if continued for over a long period, it results in morbid cumulative effect, as due to its heavy and deliquescent qualities it arouses Kapha. It aggravates Pitta on account of its hot property and is not able to allay Vata because of its meagreness of unctuous and hot qualities. Nevertheless it makes a good vehicle. In view of these considerations long pepper should not be used in excess”. (Vimāna 1.16).
 
-“Long pepper, pungent though in taste, is sweet in postdigestion, heavy, neither overmuch unctuous nor overmuch hot, is deliquescent and esteemed as medicine. It is at once productive of beneficial and baneful effects. If administered in the proper time and measure, its action is at once beneficial. But if continued for over a long period, it results in morbid cumulative effect, as due to its heavy and deliquescent qualities it arouses Kapha. It aggravates Pitta on account of its hot property and is not able to allay Vata because of its meagreness of unctuous and hot qualities. Nevertheless it makes a good vehicle. In view of these considerations long pepper should not be used in excess”. (Vimāna 1.16).
-
 Similar descriptions of salts and alkali are given. We find detailed actions and properties of various kinds of milk in Caraka Sutra-sthana chapter 1.105-113. A lengthy but apt description of actions of wines (madya) is given in Caraka Cikitsasthana chapter 24, verses 29 to 73.
 
 Speaking about the preparations as regards their properties and actions, Caraka says:
@@ -6905,8 +6556,6 @@ As laid down, the use of articles that are of antagonistic potency to the diseas
 In the modern method of writing a prescription the letter ‘R’, a symbol for ‘recipe’, is always found at the beginning; This sign or symbol is called superscription. As a matter of fact the symbol ‘R’ is the symbol of the planet ‘Jupiter’. Ayurveda enjoins on the patient to chant some sacred hymn while taking the medicine.
 
 The sacred hymn as given in Caraka, Kalpa-sthana I, 14 is as under:
-
-[...]
 
 [...]
 
@@ -7056,10 +6705,7 @@ The brief survey of ‘pharmacy’ as it was in theory and practice in ancient I
 
 ## 35. Chapter 23 - Fees, Presents and Remuneration to Medical Men
 
-
 History of Indian Medicine (and Ayurveda)
-
-by Shree Gulabkunverba Ayurvedic Society | 1949 | 162,724 words | ISBN-13: 9788176370813
 
 The History of Indian medicine and Ayurveda (i.e., the science of life) represents the introductory pages of the Charaka Samhita composed of six large sections dealing with every facet of Medicine in ancient India in a Socio-Historical context. Caraka is regarded as one of the pioneers in the field of scientific healthcare.
 
@@ -7172,10 +6818,7 @@ In short, according to Caraka, this science of Ayurveda wag promulgated for acqu
 
 ## 36. Chapter 25 - The Vaidya and Society
 
-
 History of Indian Medicine (and Ayurveda)
-
-by Shree Gulabkunverba Ayurvedic Society | 1949 | 162,724 words | ISBN-13: 9788176370813
 
 The History of Indian medicine and Ayurveda (i.e., the science of life) represents the introductory pages of the Charaka Samhita composed of six large sections dealing with every facet of Medicine in ancient India in a Socio-Historical context. Caraka is regarded as one of the pioneers in the field of scientific healthcare.
 
@@ -7243,8 +6886,6 @@ Manu lays down:
 “Those who earn their living by therapeutic service or from church property or meat dealing or by trade should be avoided in all religious as well as in obsequial ceremonies.”
 
 Again he says:
-
-“The food given by a therapeutist is just like pus, that by a harlot is like semen, that by a usurer is like fecal matter and that by a wine dealer is like refuse”
 
 “The food given by a therapeutist is just like pus, that by a harlot is like semen, that by a usurer is like fecal matter and that by a wine dealer is like refuse”
 
@@ -7321,10 +6962,7 @@ Let us repeat the noble lines from Vagbhata in praise of the supreme healer.
 
 ## 37. Chapter 24 - The Vaidyas (physician)
 
-
 History of Indian Medicine (and Ayurveda)
-
-by Shree Gulabkunverba Ayurvedic Society | 1949 | 162,724 words | ISBN-13: 9788176370813
 
 The History of Indian medicine and Ayurveda (i.e., the science of life) represents the introductory pages of the Charaka Samhita composed of six large sections dealing with every facet of Medicine in ancient India in a Socio-Historical context. Caraka is regarded as one of the pioneers in the field of scientific healthcare.
 
@@ -7369,8 +7007,6 @@ The verse in the Rigveda sings thus:
 The Atharvaveda is necessarily the source of the Ayurveda, for in it we find the preoccupation with the remedies for diseases, evil spirits and other ailments of man. There the physician is still the magic man priest and therapeutist rolled into one. But the various branches of medical aid have attained their distinctive ramifications. There is treatment by herbs, by organic body-juices, by incantations and we have surgical extractions and the countering of poisons
 
 Again here is a physician assuring his patient that he will procure all the remedies that mortal physicians are aquainted with.
-
-[Atharva. 8.7.26]
 
 [Atharva. 8.7.26]
 
@@ -7451,15 +7087,11 @@ The ideal, a part from the exigencies of the physician's profession as regards f
 
 [Carakasaṃhitā Vimānasthāna 1/4.56-62]
 
-[Carakasaṃhitā Vimānasthāna 1/4.56-62]
-
 The Vaidya besides these accomplishments was required also to be a good polemic. If he were to meet and be interrogated by a fellow of the profession on any point of theory and practice, he must be able to meet him in discussion and if the opponent persists in carping at him, he should deal with him severely and subdue him by reproaches and repulses in satirical terms.
 
 The Vaidya was enjoined to seek the aid of other members of his class in diagnosis of different cases and in the determining of prescriptions and their pharmaceutical preparation. He must not quarrel with the fellows of his profession. A general spirit of geniality and kindliness and a supreme ambition to advance the welfare of the people were demanded of him.
 
 Kashyapa says:—
-
-[Kāśyapasaṃhitā Vimānasthāna 8.8]
 
 [Kāśyapasaṃhitā Vimānasthāna 8.8]
 
@@ -7488,16 +7120,11 @@ Adam, a recent writer, writing upon the subject makes the following observation:
 
 “Looking then to the importance of general Prognostics, I have often wondered why this branch of Semeiology[?] is no longer cultivated, by the profession Did not the ancient physicians follow the best possible plan when they first described the general phenomena of diseased action and then applied them to particular cases? Surely they did right in first taking a comprehensive view of the whole subject described before attempting to examine the different parts of it in detail. This, in fact, constitutes the great superiority of the ancient savants over the modern, that the former possessed a much greater talent for apprehending general truths than the latter, who confine their attention to particular facts, and too much neglect the observation of general appearances. I trust no one will be offended if I venture to pronounce regarding the present condition of our professional literature, that (to borrow an illustration from the logic of Kant) it is altogether Cyclopic that is to say, it wants the eye of philosophy, for, although we have learned to examine particular objects with greater accuracy than our forefathers did, the sphere of our mental vision, so to speak, is more confined than theirs, and that cannot embrace the same enlarged views of general subjects. Surely then, we might gain a useful lesson by endeavouring to combine their more comprehensive views with our own more accurate and minute observation”.
 
-“Looking then to the importance of general Prognostics, I have often wondered why this branch of Semeiology[?] is no longer cultivated, by the profession Did not the ancient physicians follow the best possible plan when they first described the general phenomena of diseased action and then applied them to particular cases? Surely they did right in first taking a comprehensive view of the whole subject described before attempting to examine the different parts of it in detail. This, in fact, constitutes the great superiority of the ancient savants over the modern, that the former possessed a much greater talent for apprehending general truths than the latter, who confine their attention to particular facts, and too much neglect the observation of general appearances. I trust no one will be offended if I venture to pronounce regarding the present condition of our professional literature, that (to borrow an illustration from the logic of Kant) it is altogether Cyclopic that is to say, it wants the eye of philosophy, for, although we have learned to examine particular objects with greater accuracy than our forefathers did, the sphere of our mental vision, so to speak, is more confined than theirs, and that cannot embrace the same enlarged views of general subjects. Surely then, we might gain a useful lesson by endeavouring to combine their more comprehensive views with our own more accurate and minute observation”.
-
 ---
 
 ## 38. Chapter 26 - State and Medicine
 
-
 History of Indian Medicine (and Ayurveda)
-
-by Shree Gulabkunverba Ayurvedic Society | 1949 | 162,724 words | ISBN-13: 9788176370813
 
 The History of Indian medicine and Ayurveda (i.e., the science of life) represents the introductory pages of the Charaka Samhita composed of six large sections dealing with every facet of Medicine in ancient India in a Socio-Historical context. Caraka is regarded as one of the pioneers in the field of scientific healthcare.
 
@@ -7638,10 +7265,7 @@ Thus the first physician and his profession were highly regarded the and the sta
 
 ## 39. Part 4 - Some Aspects of Life in Caraka’s Times
 
-
 History of Indian Medicine (and Ayurveda)
-
-by Shree Gulabkunverba Ayurvedic Society | 1949 | 162,724 words | ISBN-13: 9788176370813
 
 The History of Indian medicine and Ayurveda (i.e., the science of life) represents the introductory pages of the Charaka Samhita composed of six large sections dealing with every facet of Medicine in ancient India in a Socio-Historical context. Caraka is regarded as one of the pioneers in the field of scientific healthcare.
 
@@ -7655,10 +7279,7 @@ Part 4 - Some Aspects of Life in Caraka’s Times
 
 ## 40. Chapter 1 - The Ceremonials observed in Childhood
 
-
 History of Indian Medicine (and Ayurveda)
-
-by Shree Gulabkunverba Ayurvedic Society | 1949 | 162,724 words | ISBN-13: 9788176370813
 
 The History of Indian medicine and Ayurveda (i.e., the science of life) represents the introductory pages of the Charaka Samhita composed of six large sections dealing with every facet of Medicine in ancient India in a Socio-Historical context. Caraka is regarded as one of the pioneers in the field of scientific healthcare.
 
@@ -7719,10 +7340,7 @@ This was an essential religious ceremony for both the male as well as the female
 
 ## 41. Introduction
 
-
 History of Indian Medicine (and Ayurveda)
-
-by Shree Gulabkunverba Ayurvedic Society | 1949 | 162,724 words | ISBN-13: 9788176370813
 
 The History of Indian medicine and Ayurveda (i.e., the science of life) represents the introductory pages of the Charaka Samhita composed of six large sections dealing with every facet of Medicine in ancient India in a Socio-Historical context. Caraka is regarded as one of the pioneers in the field of scientific healthcare.
 
@@ -7731,8 +7349,6 @@ As an important final a...
 Introduction
 
 It was the great German Poet-philosopher Goethe that said,
-
-“If you would understand an author, you must understand his age”.
 
 “If you would understand an author, you must understand his age”.
 
@@ -7746,10 +7362,7 @@ It needs the diligent and patient mind of the researcher to exhaustively investi
 
 ## 42. Chapter 2 - The Routine of Daily Life
 
-
 History of Indian Medicine (and Ayurveda)
-
-by Shree Gulabkunverba Ayurvedic Society | 1949 | 162,724 words | ISBN-13: 9788176370813
 
 The History of Indian medicine and Ayurveda (i.e., the science of life) represents the introductory pages of the Charaka Samhita composed of six large sections dealing with every facet of Medicine in ancient India in a Socio-Historical context. Caraka is regarded as one of the pioneers in the field of scientific healthcare.
 
@@ -7786,11 +7399,7 @@ The general rules laid down were to be applied with necessary modifications and 
 
 [Carakasaṃhitā Sūtrasthāna 7.39]
 
-[Carakasaṃhitā Sūtrasthāna 7.39]
-
 And so the regimen of conduct and food for the maintenance of health should be devised in accordance with his constitution.
-
-[Carakasaṃhitā Sūtrasthāna 7.41]
 
 [Carakasaṃhitā Sūtrasthāna 7.41]
 
@@ -7800,13 +7409,9 @@ Daily routine—The greatest importance is attached to diet which ought to be ta
 
 [...]
 
-[...]
-
 The detailed description of food and factors concerned with it will be given later on. Food is described and considered in the same way as the drug i.e. the materia medica of food is equally important with the materia medica of drugs.
 
 The following articles of diet have been recommended as wholesome and fit to be included in the daily diet:
-
-[Carakasaṃhitā Sūtrasthāna 5.12]
 
 [Carakasaṃhitā Sūtrasthāna 5.12]
 
@@ -7825,8 +7430,6 @@ There is an interesting classification of psychic and somatic urges of the body 
 These psychic urges requiring to be suppressed were grief, greed, fear, anger vanity, imprudence, jealousy, excessive attachment, malice and any activity of mind, speech or body which would hurt another creature, specially falsehood, theft, adultery and violence.
 
 Another important aict in Ayurveda is that unless the body is kept scrupulously clean and free from toxic or morbid material, the procedures for revitalizing and strengthening it, will not be efficacious as the dirty cloth will not take proper colour.
-
-[Carakasaṃhitā Śārīrasthāna 8.17]
 
 [Carakasaṃhitā Śārīrasthāna 8.17]
 
@@ -7864,8 +7467,6 @@ The universal, progressive and catholic spirit of Caraka becomes quite manifest 
 
 “Whatever ether observances there may be that are not spoken of here, provided they are good are always to be welcomed in the opinion of Atreya”.
 
-“Whatever ether observances there may be that are not spoken of here, provided they are good are always to be welcomed in the opinion of Atreya”.
-
 The Springs of activity or the pursuits of life derived their origin from the three goals which a man aspired to achieve. They were the pursuit of life, the pursuit of wealth and the pursuit of the other world (prāṇaiṣaṇā, dhanaiṣaṇā, paralokaiṣaṇā—Carakasaṃhitā Sūtrasthāna 11.3)
 
 From among these pursuits, the pursuit of life is given priority. This required main attention in the constant preservation of positive health and the immediate correcting whenever there is the slightest disturbance, of the bodily health.
@@ -7894,8 +7495,6 @@ Caraka taking up the question of the other world or the survival of the spirit e
 The concept of the other world (paraloka) is based on the concept of continuity of the soul, and the influences of action in past lives on future periods of life. This view of life taken at its face value would, it be thought, negative the necessity of any human effort or endeavour to counteract what is predestined as a result of previous actions.
 
 But here Caraka puts forward another theory where past deeds are classified into three categories, mild, moderate and strong or severe. Manly endeavour can counteract the mild type of Karma i.e. past deeds and can get over them safely, and thus justifies the necessity of therapeutic endeavours and activities of Ayurveda.
-
-[Carakasaṃhitā Vimānasthāna 3.33]
 
 [Carakasaṃhitā Vimānasthāna 3.33]
 
@@ -7932,10 +7531,7 @@ And here is a description of the action of this special course of Rasayana.
 
 ## 43. Chapter 27 - Quacks (Kuvaidya or Kuhaka)
 
-
 History of Indian Medicine (and Ayurveda)
-
-by Shree Gulabkunverba Ayurvedic Society | 1949 | 162,724 words | ISBN-13: 9788176370813
 
 The History of Indian medicine and Ayurveda (i.e., the science of life) represents the introductory pages of the Charaka Samhita composed of six large sections dealing with every facet of Medicine in ancient India in a Socio-Historical context. Caraka is regarded as one of the pioneers in the field of scientific healthcare.
 
@@ -8058,8 +7654,6 @@ It is interesting to note that the term applied to such a charlatan and ignorant
 
 kuhakah shastrahinah paramavishvasakarako mayavi |
 
-kuhakah shastrahinah paramavishvasakarako mayavi |
-
 The English synonyms like pretender, charlatan etc, are reflected in this definition of the quack.
 
 It is easy to infer the circumstances that gave rise to the abundance of quacks. The medical profession was among the professions held in great esteem in society. As we have already seen, the physician held, a high place in the society and was regarded as the guide and friend of the people. His emolumeuts in the profession were evidently considerable and aroused the envy of ambitious individuals who aspired for such a status but had not the equipment for it. Such naturally turned into quacks and acquiring the external accomplishments of manner, speech and professional catch phrases, imposed on the ignorant and gullible and made their fortunes. Such indeed are the quacks in every age, and the attention devoted by Caraka to them and their methods, and the passion with which he condemns their evil, are evidences of the prevalence in undesirable numbers of the members of this deceitful tribe
@@ -8091,10 +7685,7 @@ The institution of quackery flourishes wherever there is a rigorous standard dem
 
 ## 44. Chapter 3 - Dress and Clothing
 
-
 History of Indian Medicine (and Ayurveda)
-
-by Shree Gulabkunverba Ayurvedic Society | 1949 | 162,724 words | ISBN-13: 9788176370813
 
 The History of Indian medicine and Ayurveda (i.e., the science of life) represents the introductory pages of the Charaka Samhita composed of six large sections dealing with every facet of Medicine in ancient India in a Socio-Historical context. Caraka is regarded as one of the pioneers in the field of scientific healthcare.
 
@@ -8152,8 +7743,6 @@ The mendicant is expected to carry housewife for mending his blanket. As regards
 
 [Suśrutasaṃhitā Sūtrasthāna 3.54]
 
-[Suśrutasaṃhitā Sūtrasthāna 3.54]
-
 The following may be regarded as the general items of dress prevalent then
 
 Kaupīna—Underwear or the genital strip.
@@ -8180,18 +7769,13 @@ But cleanliness in dress and person was greatly valued and one is warned not to 
 
 [Carakasaṃhitā Sūtrasthāna 8.19]
 
-[Carakasaṃhitā Sūtrasthāna 8.19]
-
 Thus it is evident that a high degree of sanitary sense was prevalent then as regards the use of clothing, combined with an aesthetic appreciation of sartorial form and color
 
 ---
 
 ## 45. Chapter 4 - The Use of Wine
 
-
 History of Indian Medicine (and Ayurveda)
-
-by Shree Gulabkunverba Ayurvedic Society | 1949 | 162,724 words | ISBN-13: 9788176370813
 
 The History of Indian medicine and Ayurveda (i.e., the science of life) represents the introductory pages of the Charaka Samhita composed of six large sections dealing with every facet of Medicine in ancient India in a Socio-Historical context. Caraka is regarded as one of the pioneers in the field of scientific healthcare.
 
@@ -8247,11 +7831,7 @@ The Brahmacari who lived a life of celibacy and discipline in his preceptor’s 
 
 [Carakasaṃhitā Cikitsāsthāna 9.96]
 
-[Carakasaṃhitā Cikitsāsthāna 9.96]
-
 The therapeutic uses of wine were many and varied. Wine was also used as an anesthetic. It was used too in parturition and after-delivery.
-
-[Carakasaṃhitā Śārīrasthāna 8.31]
 
 [Carakasaṃhitā Śārīrasthāna 8.31]
 
@@ -8263,10 +7843,7 @@ Thus we may safely conclude that though the ideal of abstention from drink whs u
 
 ## 46. Chapter 5 - The Practice of Smoking
 
-
 History of Indian Medicine (and Ayurveda)
-
-by Shree Gulabkunverba Ayurvedic Society | 1949 | 162,724 words | ISBN-13: 9788176370813
 
 The History of Indian medicine and Ayurveda (i.e., the science of life) represents the introductory pages of the Charaka Samhita composed of six large sections dealing with every facet of Medicine in ancient India in a Socio-Historical context. Caraka is regarded as one of the pioneers in the field of scientific healthcare.
 
@@ -8329,10 +7906,7 @@ The ancient writers have paid full attention to the method of smoking through th
 
 ## 47. Chapter 6 - Company
 
-
 History of Indian Medicine (and Ayurveda)
-
-by Shree Gulabkunverba Ayurvedic Society | 1949 | 162,724 words | ISBN-13: 9788176370813
 
 The History of Indian medicine and Ayurveda (i.e., the science of life) represents the introductory pages of the Charaka Samhita composed of six large sections dealing with every facet of Medicine in ancient India in a Socio-Historical context. Caraka is regarded as one of the pioneers in the field of scientific healthcare.
 
@@ -8388,10 +7962,7 @@ The last citation but indirectly indicates the qualities of scholar’s company.
 
 ## 48. Chapter 7 - Marriage and Procreation
 
-
 History of Indian Medicine (and Ayurveda)
-
-by Shree Gulabkunverba Ayurvedic Society | 1949 | 162,724 words | ISBN-13: 9788176370813
 
 The History of Indian medicine and Ayurveda (i.e., the science of life) represents the introductory pages of the Charaka Samhita composed of six large sections dealing with every facet of Medicine in ancient India in a Socio-Historical context. Caraka is regarded as one of the pioneers in the field of scientific healthcare.
 
@@ -8505,10 +8076,7 @@ Let him wed a female free from bodily defects, who has an agreeable name, the (g
 
 ## 49. Chapter 10 - Woman in Caraka’s Times
 
-
 History of Indian Medicine (and Ayurveda)
-
-by Shree Gulabkunverba Ayurvedic Society | 1949 | 162,724 words | ISBN-13: 9788176370813
 
 The History of Indian medicine and Ayurveda (i.e., the science of life) represents the introductory pages of the Charaka Samhita composed of six large sections dealing with every facet of Medicine in ancient India in a Socio-Historical context. Caraka is regarded as one of the pioneers in the field of scientific healthcare.
 
@@ -8715,10 +8283,7 @@ Thus although the biological picture of a woman as given in medical texts of old
 
 ## 50. Chapter 8 - Treatment and the Status of the Patient
 
-
 History of Indian Medicine (and Ayurveda)
-
-by Shree Gulabkunverba Ayurvedic Society | 1949 | 162,724 words | ISBN-13: 9788176370813
 
 The History of Indian medicine and Ayurveda (i.e., the science of life) represents the introductory pages of the Charaka Samhita composed of six large sections dealing with every facet of Medicine in ancient India in a Socio-Historical context. Caraka is regarded as one of the pioneers in the field of scientific healthcare.
 
@@ -8730,13 +8295,9 @@ In ancient India the patronage to poets, Vaidyas and artists came from the arist
 
 [Carakasaṃhitā Sūtrasthāna 15.18-21, 23]
 
-[Carakasaṃhitā Sūtrasthāna 15.18-21, 23]
-
 The aristocratic methods of treatment in various conditions especially in burning sensation in the body (dāha) out-do any of the luxurious way of treatment known to the modern world. Vivid descriptions of lavish dinner and drink parties are found in the Caraka-samhita. The dominance and patronage of the aristocracy resulted in innumerable pharmaceutical preparations, the great advancement of the culinary science, hundreds of varieties of wine, fragrant preparations, and milk and sugar preparations suited to the service of this class.
 
 The love of art and display of riches permeated even medical practice and even the medical apparatuses used were ornamental
-
-[Carakasaṃhitā Siddhisthāna 3.7, 9.51?, 8.34, 44]
 
 [Carakasaṃhitā Siddhisthāna 3.7, 9.51?, 8.34, 44]
 
@@ -8744,11 +8305,7 @@ Delicateness of constitution was considered to be a result or a characteristic o
 
 [Carakasaṃhitā Kalpasthāna 7.25, 27, 32]
 
-[Carakasaṃhitā Kalpasthāna 7.25, 27, 32]
-
 The predominance of the rich was quite in consonance with the prevalent outlook of the people at the time. Wealth was considered one of the three great ambitions (eṣaṇā) of life. It stands next only to life (prāṇa) in order of importance. (Caraka Sutra XI.3)
-
-[Carakasaṃhitā Sūtrasthāna 11.5]
 
 [Carakasaṃhitā Sūtrasthāna 11.5]
 
@@ -8756,11 +8313,7 @@ The man devoid of money was considered miserable.
 
 [Carakasaṃhitā Sūtrasthāna 11.5]
 
-[Carakasaṃhitā Sūtrasthāna 11.5]
-
 The dual strictness of the rules of the state and the society often made the practising Vaidya hesitate or even refuse to treat a poor patient, not because he lacked in the humane quality of compassion, but because the Vaidya was doubtful of his suceess in treating such a patient as the poor patient could not afford to have all the required articles of medication and also attendants (upakaraṇa). Failure to cure a patient would bring blame or discredit upon the Vaidya, and it is in order to save himself from such a fact that the poor man is included in the category of persons who are not to be taken up for treatment
-
-[Carakasaṃhitā Vimānasthāna 3.45]
 
 [Carakasaṃhitā Vimānasthāna 3.45]
 
@@ -8779,10 +8332,7 @@ Thus in spite of the dominance of the aristocracy, the poor patients were not ne
 
 ## 51. Chapter 9 - Thu use of Ornaments
 
-
 History of Indian Medicine (and Ayurveda)
-
-by Shree Gulabkunverba Ayurvedic Society | 1949 | 162,724 words | ISBN-13: 9788176370813
 
 The History of Indian medicine and Ayurveda (i.e., the science of life) represents the introductory pages of the Charaka Samhita composed of six large sections dealing with every facet of Medicine in ancient India in a Socio-Historical context. Caraka is regarded as one of the pioneers in the field of scientific healthcare.
 
@@ -8803,11 +8353,7 @@ Besides the metal ornaments and jewels, people used to put on some special herbs
 
 [Carakasaṃhitā Śārīrasthāna 8.18]
 
-[Carakasaṃhitā Śārīrasthāna 8.18]
-
 Thus we find that the putting on of jewels (maṇidhāraṇa) as well as herbs were prescribed for children (kumāra) who had not yet attained adolescence.
-
-[Carakasaṃhitā Śārīrasthāna 8.62]
 
 [Carakasaṃhitā Śārīrasthāna 8.62]
 
@@ -8821,11 +8367,7 @@ It was enjoined upon a woman going to unite with her husband for procreation to 
 
 [Carakasaṃhitā Śārīrasthāna 8.9]
 
-[Carakasaṃhitā Śārīrasthāna 8.9]
-
 Similarly the mother taking the child for naming ceremony (nāmakaraṇa) was to put on light and variegated ornaments.
-
-[Carakasaṃhitā Śārīrasthāna 8.50]
 
 [Carakasaṃhitā Śārīrasthāna 8.50]
 
@@ -8833,11 +8375,7 @@ A wet-nurse was required to put on herbs (oṣadhi) when suckling was to begin.
 
 [Carakasaṃhitā Śārīrasthāna 8.58]
 
-[Carakasaṃhitā Śārīrasthāna 8.58]
-
 The decorative use of ornaments was not restricted to women only. At the time of sexual congress, ornaments were to be put on by both the parties. Even in daily routine of wholesome living both man and woman were exhorted to wear garlands and ornaments as they brought auspicious results.
-
-[Carakasaṃhitā Cikitsāsthāna 2/3, 24-25]
 
 [Carakasaṃhitā Cikitsāsthāna 2/3, 24-25]
 
@@ -8845,11 +8383,7 @@ Gems were believed to have very cooling effects and as such they were used as th
 
 [Carakasaṃhitā Cikitsāsthāna 3.265]
 
-[Carakasaṃhitā Cikitsāsthāna 3.265]
-
 Even applications of gems were made.
-
-[Carakasaṃhitā Cikitsāsthāna 4.106]
 
 [Carakasaṃhitā Cikitsāsthāna 4.106]
 
@@ -8857,11 +8391,7 @@ The therapeutic use of jewels did not end with such cooling properties they were
 
 [Carakasaṃhitā Cikitsāsthāna 8.179]
 
-[Carakasaṃhitā Cikitsāsthāna 8.179]
-
 The following gems and herbs were put on as a prophylactic measure against snake poison.
-
-[Carakasaṃhitā Cikitsāsthāna 23.252]
 
 [Carakasaṃhitā Cikitsāsthāna 23.252]
 
@@ -8869,11 +8399,7 @@ Besides these medico-cum-decorative uses of gems and ornaments we find reference
 
 [Carakasaṃhitā Cikitsāsthāna 24.22]
 
-[Carakasaṃhitā Cikitsāsthāna 24.22]
-
 Not only the participants in the revelry were required to be decorated, but the attendant women were also to present themselves gaily decorated in consonance with the spirit of gaiety.
-
-[Carakasaṃhitā Cikitsāsthāna 24.16-17]
 
 [Carakasaṃhitā Cikitsāsthāna 24.16-17]
 
@@ -8881,11 +8407,7 @@ Vessels used on such occasions were ornamental so that there may be no discordan
 
 [Carakasaṃhitā Cikitsāsthāna 24.15]
 
-[Carakasaṃhitā Cikitsāsthāna 24.15]
-
 But these gems, even in such drinking parties, contributed their mite towards mitigating the effects of drink Gems were believed to be cooling and refrigerant agents and as such they served the medical purpose also.
-
-[Carakasaṃhitā Cikitsāsthāna 24.153]
 
 [Carakasaṃhitā Cikitsāsthāna 24.153]
 
@@ -8893,24 +8415,7 @@ The vessels used for filling refrigerant medicines were made of rich metals and 
 
 [Carakasaṃhitā Cikitsāsthāna 24.154]
 
-[Carakasaṃhitā Cikitsāsthāna 24.154]
-
 From the various descriptions in Caraka Samhita we find that the following metals, gems, precious stones and other materials were in use during the period.
-
-Arka (Maṇiviśeṣa) - Cikitsāsthāna 7.85;
-Kanaka - Sūtrasthāna 5.18;
-Kāca - Cikitsāsthāna 17.125;
-Kāñcana - Cikitsāsthāna 1(4).59;
-Gajamauktika - Cikitsāsthāna 23.252;
-Garamaṇi - Cikitsāsthāna 23.252;
-Tāpya - Cikitsāsthāna 16.78;
-Tīkṣṇāyasa - Cikitsāsthāna 1(3).16;
-Marakata - Vimānasthāna 23.252.
-Rīti - Siddhisthāna 3.7;
-Varāṭaka - Cikitsāsthāna 26.224;
-Viṣamūṣikā - Cikitsāsthāna 23.362;
-Vaidūrya - Cikitsāsthāna 23.262;
-Sarpamaṇi - Cikitsāsthāna  23.262;
 
 Arka (Maṇiviśeṣa) - Cikitsāsthāna 7.85;
 Kanaka - Sūtrasthāna 5.18;
@@ -8933,10 +8438,7 @@ Besides these we come across references to (pravāla, vidruma, śaṅk?, śukti,
 
 ## 52. Chapter 11 - The Sense of Smell
 
-
 History of Indian Medicine (and Ayurveda)
-
-by Shree Gulabkunverba Ayurvedic Society | 1949 | 162,724 words | ISBN-13: 9788176370813
 
 The History of Indian medicine and Ayurveda (i.e., the science of life) represents the introductory pages of the Charaka Samhita composed of six large sections dealing with every facet of Medicine in ancient India in a Socio-Historical context. Caraka is regarded as one of the pioneers in the field of scientific healthcare.
 
@@ -9056,10 +8558,7 @@ Tropical countries are rich in fragrant plant products and hence we find that th
 
 ## 53. Chapter 12a - Routine observed during the Purificatory Procedures
 
-
 History of Indian Medicine (and Ayurveda)
-
-by Shree Gulabkunverba Ayurvedic Society | 1949 | 162,724 words | ISBN-13: 9788176370813
 
 The History of Indian medicine and Ayurveda (i.e., the science of life) represents the introductory pages of the Charaka Samhita composed of six large sections dealing with every facet of Medicine in ancient India in a Socio-Historical context. Caraka is regarded as one of the pioneers in the field of scientific healthcare.
 
@@ -9080,10 +8579,7 @@ The excerpts given below describe the various observances and regulations that a
 
 ## 54. Chapter 12b - Routine observed during Various Other Procedures
 
-
 History of Indian Medicine (and Ayurveda)
-
-by Shree Gulabkunverba Ayurvedic Society | 1949 | 162,724 words | ISBN-13: 9788176370813
 
 The History of Indian medicine and Ayurveda (i.e., the science of life) represents the introductory pages of the Charaka Samhita composed of six large sections dealing with every facet of Medicine in ancient India in a Socio-Historical context. Caraka is regarded as one of the pioneers in the field of scientific healthcare.
 
@@ -9176,10 +8672,7 @@ Going to Surgical Room. For Operation
 
 ## 55. Chapter 15 - Kampilya as a Centre of Learning
 
-
 History of Indian Medicine (and Ayurveda)
-
-by Shree Gulabkunverba Ayurvedic Society | 1949 | 162,724 words | ISBN-13: 9788176370813
 
 The History of Indian medicine and Ayurveda (i.e., the science of life) represents the introductory pages of the Charaka Samhita composed of six large sections dealing with every facet of Medicine in ancient India in a Socio-Historical context. Caraka is regarded as one of the pioneers in the field of scientific healthcare.
 
@@ -9277,13 +8770,9 @@ He mentions Sankashya (Sāṅkāśya) along with Kampilya. Probably Sankashya wa
 
 [... 4.2.121]
 
-[... 4.2.121]
-
 In the Mahidhara commentary of Brihajjataka we find an area of Kampilya referred to as Kapitthika. Thus Kampilya, Sankashya and Kapitthika are more or less the same place. The very place which was referred to as Sankashya by the Chinese traveller Fa-hi-en in the 7th century A.D. was referred to as Kapitthika by Hu-en-tsang, another Chinese traveller in the 8th century. Even today we have Sankisa (Sānkāśya) and Kathiya (Kapitthika), hardly twenty miles apart. This easily leads us to conclude that upto the 8th century of the Christian Era, Kampilya, though shorn of its greater glory, preserved its unity as one city.
 
 To the list of luminaries that Kampilya produced or attracted can be added the name of Maharsi Atreya, the propounder of the medical knowledge which has descended to us as Caraka Samhita, which makes a specific mention of Kampilya and Pancala.
-
-[Carakasaṃhitā Vimānasthāna 3.3]
 
 [Carakasaṃhitā Vimānasthāna 3.3]
 
@@ -9293,10 +8782,7 @@ The Samasa-pradhana method of Pancala was a reputed method in literature. The gr
 
 ## 56. Chapter 14 - Legends and Mantras
 
-
 History of Indian Medicine (and Ayurveda)
-
-by Shree Gulabkunverba Ayurvedic Society | 1949 | 162,724 words | ISBN-13: 9788176370813
 
 The History of Indian medicine and Ayurveda (i.e., the science of life) represents the introductory pages of the Charaka Samhita composed of six large sections dealing with every facet of Medicine in ancient India in a Socio-Historical context. Caraka is regarded as one of the pioneers in the field of scientific healthcare.
 
@@ -9315,8 +8801,6 @@ The mystical effect of mantras is still being made use of especially in snake po
 The legends in Caraka Samhita are interesting and we find that shorn of their Imaginative adornments, some of them appear to be literary versions of some scientific truth.
 
 The origin of fever is ascribed to the heat caused by the fire which poured from the anger of Rudra at the destruction of Daksa’s sacrifice of old. The destruction of the above sacrifice was also the cause of many other diseases. The description is interesting as there is a symbology in these mythical representations and legends. where are certain diseases ascribed to various causes. (Carakasaṃhitā Nidānasthāna 8.11)
-
-“It was during the destruction of the sacrifice of Daksa that Gulma first arose in the past as the result of the agitated bodily movements gone through by the assembled persons who in their panic ran helter skelter in all directions running, swimming, racing, flying jumping etc. Also at this time, the urinary and dermic disorders took their rise as the result of the oblations that were eaten, the insanities as the result of fear, alarm and grief, the epilepsies as the result of the pollution by various kinds of unclean beings. As regards the fever we have already described how it arose from the forehead of great God Shiva, from the heat induced by fever arose the disease Hemothermia. As for consumption it took its rise from the excessive sex indulgence of the lord of constellations i.e. the Moon”.
 
 “It was during the destruction of the sacrifice of Daksa that Gulma first arose in the past as the result of the agitated bodily movements gone through by the assembled persons who in their panic ran helter skelter in all directions running, swimming, racing, flying jumping etc. Also at this time, the urinary and dermic disorders took their rise as the result of the oblations that were eaten, the insanities as the result of fear, alarm and grief, the epilepsies as the result of the pollution by various kinds of unclean beings. As regards the fever we have already described how it arose from the forehead of great God Shiva, from the heat induced by fever arose the disease Hemothermia. As for consumption it took its rise from the excessive sex indulgence of the lord of constellations i.e. the Moon”.
 
@@ -9409,10 +8893,7 @@ Thus although we find traces of legends and charms in the scientific work, they 
 
 ## 57. Chapter 13 - Regulations of Society and State Regarding Treatment
 
-
 History of Indian Medicine (and Ayurveda)
-
-by Shree Gulabkunverba Ayurvedic Society | 1949 | 162,724 words | ISBN-13: 9788176370813
 
 The History of Indian medicine and Ayurveda (i.e., the science of life) represents the introductory pages of the Charaka Samhita composed of six large sections dealing with every facet of Medicine in ancient India in a Socio-Historical context. Caraka is regarded as one of the pioneers in the field of scientific healthcare.
 
@@ -9505,10 +8986,7 @@ Thus in keeping with the spirit of the age and the social conventions prevalent 
 
 ## 58. Chapter 16 - Various Schools of Thought in Caraka’s Times
 
-
 History of Indian Medicine (and Ayurveda)
-
-by Shree Gulabkunverba Ayurvedic Society | 1949 | 162,724 words | ISBN-13: 9788176370813
 
 The History of Indian medicine and Ayurveda (i.e., the science of life) represents the introductory pages of the Charaka Samhita composed of six large sections dealing with every facet of Medicine in ancient India in a Socio-Historical context. Caraka is regarded as one of the pioneers in the field of scientific healthcare.
 
@@ -9575,18 +9053,13 @@ The belief in rebirth or reincarnation is common to all schools of Indian though
 
 [Carakasaṃhitā Sūtrasthāna 11.30]
 
-[Carakasaṃhitā Sūtrasthāna 11.30]
-
 Naturally enough, the corollary is that if a soul can go out of the body and re-enter it in this very life and continue its sense of identity, it can do so within the bodies of its succeeding incarnations too.
 
 ---
 
 ## 59. Chapter 17 - The Final Renunciation
 
-
 History of Indian Medicine (and Ayurveda)
-
-by Shree Gulabkunverba Ayurvedic Society | 1949 | 162,724 words | ISBN-13: 9788176370813
 
 The History of Indian medicine and Ayurveda (i.e., the science of life) represents the introductory pages of the Charaka Samhita composed of six large sections dealing with every facet of Medicine in ancient India in a Socio-Historical context. Caraka is regarded as one of the pioneers in the field of scientific healthcare.
 
@@ -9624,10 +9097,7 @@ Again to bring about that final renunciation of individuality, the following pat
 
 ## 60. Chapter 18 - People and their Professions
 
-
 History of Indian Medicine (and Ayurveda)
-
-by Shree Gulabkunverba Ayurvedic Society | 1949 | 162,724 words | ISBN-13: 9788176370813
 
 The History of Indian medicine and Ayurveda (i.e., the science of life) represents the introductory pages of the Charaka Samhita composed of six large sections dealing with every facet of Medicine in ancient India in a Socio-Historical context. Caraka is regarded as one of the pioneers in the field of scientific healthcare.
 
@@ -9769,8 +9239,6 @@ He was to be satisfied with (namaskāra).
 
 [...]
 
-[...]
-
 Sushruta allows admission to (Śūdra) but (mantra) is not to be given. Kasyapa allows this but they have to be assistants only. Vagbhata revolts against the debarring of (Śūdra).
 
 (Brāhmaṇa, Kṣatriya, Vaiśya)—They held the position in the order of their enumeration.
@@ -9783,10 +9251,7 @@ Kashyapa describes that for subordinate medical work they should be allowed medi
 
 ## 61. Part 5 - The Philosophical Concepts in Caraka
 
-
 History of Indian Medicine (and Ayurveda)
-
-by Shree Gulabkunverba Ayurvedic Society | 1949 | 162,724 words | ISBN-13: 9788176370813
 
 The History of Indian medicine and Ayurveda (i.e., the science of life) represents the introductory pages of the Charaka Samhita composed of six large sections dealing with every facet of Medicine in ancient India in a Socio-Historical context. Caraka is regarded as one of the pioneers in the field of scientific healthcare.
 
@@ -9800,10 +9265,7 @@ Part 5 - The Philosophical Concepts in Caraka
 
 ## 62. Chapter 1 - The Beginning of Metaphysics and Medicine
 
-
 History of Indian Medicine (and Ayurveda)
-
-by Shree Gulabkunverba Ayurvedic Society | 1949 | 162,724 words | ISBN-13: 9788176370813
 
 The History of Indian medicine and Ayurveda (i.e., the science of life) represents the introductory pages of the Charaka Samhita composed of six large sections dealing with every facet of Medicine in ancient India in a Socio-Historical context. Caraka is regarded as one of the pioneers in the field of scientific healthcare.
 
@@ -9914,8 +9376,6 @@ The inferring of the unobserved from the observed is based on antecedent knowled
 
 “The inferring of the existence of fire in a place by the perception of smoke is an inferential knowledge of an unobserved thing in the present time. Similarly there is the inference of the sexual act of a woman in the past by observing her present state of pregnancy. And thirdly, there is the inference of the prospect of a good crop in the future judging by the nature of the seed sown, based on past experience of their relationship. Inference here is seen understood and defined in its most rudimentary form based on the law of association. The same inference is illustrated again while elaborating the technical terms used in learned disputation between physicians as well as in clinical investigations where inference is said to be reasoning based on correlation of cause and effect. One should infer the condition of the gastric fire by the power of digestion, the conditions of the patients vitality or strength by his capacity for exercise and the condition of his sense-organs by his perceptions of sound etc.”
 
-“The inferring of the existence of fire in a place by the perception of smoke is an inferential knowledge of an unobserved thing in the present time. Similarly there is the inference of the sexual act of a woman in the past by observing her present state of pregnancy. And thirdly, there is the inference of the prospect of a good crop in the future judging by the nature of the seed sown, based on past experience of their relationship. Inference here is seen understood and defined in its most rudimentary form based on the law of association. The same inference is illustrated again while elaborating the technical terms used in learned disputation between physicians as well as in clinical investigations where inference is said to be reasoning based on correlation of cause and effect. One should infer the condition of the gastric fire by the power of digestion, the conditions of the patients vitality or strength by his capacity for exercise and the condition of his sense-organs by his perceptions of sound etc.”
-
 Yukti (correlation)
 
 Lastly “Yukti” i.e., correlation of a set of causes or circumstances with an effect based on common-sense, is held to be another source of knowledge. This may also be called the law of probability for, as the example given shows, one can foresee an effect under a given set of circumstances, with a great degree of probability. By a combination of the factors of water, agricultural labour, seeds and the effects of season, there results the crop; or where there is a combination of the six elements constituting the living body, the embryo will take its rise. The combination of the lower and upper churning sticks and the act of churning brings out fire. ‘Yukti’ means a combination. So a combination or a set of circumstances or things being responsible for an effect is by itself a factor of knowledge, though the actual procedure of arriving at knowledge is by the same law of association that governs ‘inference’ One may call it a ‘compound inference’ as against the simple inference of a cause from an effect or vice versa From many and varied factors one result is inferred. Perhaps the application of this method was found particularly useful in therapeutic and pharmacological realms.
@@ -9946,13 +9406,9 @@ This is in accordance with the Nyaya school of philosophy which holds that the s
 
 [...]
 
-[...]
-
 But then it may be said that there need be no self beyond this combination of mind, intellect and senses.
 
 “It is not so,” says Vatsyayana;
-
-“It is indeed the knower that possesses the instruments of knowledge and gees with the eye, smells with the nose, touches with the organ of touch and recognises all these experiences with the mind and enables the knower to know these experiences. Hence is the mind called the factor of knowledge”.
 
 “It is indeed the knower that possesses the instruments of knowledge and gees with the eye, smells with the nose, touches with the organ of touch and recognises all these experiences with the mind and enables the knower to know these experiences. Hence is the mind called the factor of knowledge”.
 
@@ -10001,17 +9457,11 @@ These together with the sense-organs form the entire mechanism of knowledge in a
 
 ## 63. Chapter 2 - Reality—The Soul and the World of Things
 
-
 History of Indian Medicine (and Ayurveda)
-
-by Shree Gulabkunverba Ayurvedic Society | 1949 | 162,724 words | ISBN-13: 9788176370813
 
 The History of Indian medicine and Ayurveda (i.e., the science of life) represents the introductory pages of the Charaka Samhita composed of six large sections dealing with every facet of Medicine in ancient India in a Socio-Historical context. Caraka is regarded as one of the pioneers in the field of scientific healthcare.
 
 As an important final a...
-
-Go directly to: 
-Footnotes.
 
 Chapter 2 - Reality—The Soul and the World of Things
 
@@ -10020,8 +9470,6 @@ It is difficult to say that an unequivocal definition of reality or an expositio
 The explanation of the nature of Samanya and Vishesha as being causative of synthesis and analysis respectively, is followed up immediately by a restatement of the synthesis that Mau is the aggregate of mind, spirit and body, and is like a tripod. He is the conscious agent and forms the subject matter of this science. For his benefit has this science been promulgated”. (Sūtra I, 46-47)
 
 The totality of things existent has been described when Atreya declared that:
-
-“Ether etc. (the five proto-elements) self, mind, time and space are the sum total of things.[1] Things possessed of the senses are sentient or animate and things not possessed of the senses are insentient or innanimate”.
 
 “Ether etc. (the five proto-elements) self, mind, time and space are the sum total of things.[1] Things possessed of the senses are sentient or animate and things not possessed of the senses are insentient or innanimate”.
 
@@ -10069,10 +9517,6 @@ Thus the six categories of substance etc, are explained and this hexad is known 
 
 The Sankhya which includes these among its categories, refers them to an original cause of which they are evolutes. The categories that are twenty-five are thus ultimately reduced to two—the self and original nature or Prakrti known variously as Avyakta and Pradhana. In Caraka there is a sudden transition from the pluralism of the Nyaya-Vaisheshika to the Sankhya categories, again making a fundamental deviation from it betraying Vedantic inclination towards one common origin of all things. We shall note this tendency and transition presently.
 
-Footnotes and references:
-
-[back to top]
-
 [1]:
 
 Vaisheshika and Nyaya Sutras—“Substances are nine only earth, water, light, air, ether, time, directions, self and mind”.
@@ -10081,10 +9525,7 @@ Vaisheshika and Nyaya Sutras—“Substances are nine only earth, water, light, 
 
 ## 64. Chapter 5 - The Ethical Note in Ayurveda
 
-
 History of Indian Medicine (and Ayurveda)
-
-by Shree Gulabkunverba Ayurvedic Society | 1949 | 162,724 words | ISBN-13: 9788176370813
 
 The History of Indian medicine and Ayurveda (i.e., the science of life) represents the introductory pages of the Charaka Samhita composed of six large sections dealing with every facet of Medicine in ancient India in a Socio-Historical context. Caraka is regarded as one of the pioneers in the field of scientific healthcare.
 
@@ -10147,16 +9588,11 @@ Thus the good life is not only that which gives spiritual fulfilment and final l
 
 “That is named the Science of Life wherein are laid down the good and the bad life, the happy and the unhappy life, and what is wholesome and what unwholesome in relation to life, as also the measure of life”
 
-“That is named the Science of Life wherein are laid down the good and the bad life, the happy and the unhappy life, and what is wholesome and what unwholesome in relation to life, as also the measure of life”
-
 ---
 
 ## 65. Chapter 3 - What is Man?
 
-
 History of Indian Medicine (and Ayurveda)
-
-by Shree Gulabkunverba Ayurvedic Society | 1949 | 162,724 words | ISBN-13: 9788176370813
 
 The History of Indian medicine and Ayurveda (i.e., the science of life) represents the introductory pages of the Charaka Samhita composed of six large sections dealing with every facet of Medicine in ancient India in a Socio-Historical context. Caraka is regarded as one of the pioneers in the field of scientific healthcare.
 
@@ -10174,13 +9610,9 @@ Atreya are thus:
 
 “Into how many categories is man divided in view of the diversity of the elements (that compose him)? Wherefore is he said to be the cause? What is his origin? Is he ignorant or endowed with knowledge? Is he shown to be eternal or non-eternal? What is Prakriti (the primal matter)? What are the modifications? What is the mark of Purusa (the man)? The knowers of the self declare the spirit to be non-active, free, endowed with lordship all-pervading, infinite, the knower of the field and the witness likewise O, worshipful one! if the spirit is thus non-active, how, then, is activity predicated of him? And if it is free, how is it that it is born of undesirable wombs? If it is endowed with lordship, wherefore is it drawn perforce into suffering? And if it be all-pervading, why does it not experience the totality of sensations at once? And wherefore does the infinite one not perceive what is hidden behind a hill or a wall? There is also the doubt as to which is prior, the knower of the field or the field itself?”
 
-“Into how many categories is man divided in view of the diversity of the elements (that compose him)? Wherefore is he said to be the cause? What is his origin? Is he ignorant or endowed with knowledge? Is he shown to be eternal or non-eternal? What is Prakriti (the primal matter)? What are the modifications? What is the mark of Purusa (the man)? The knowers of the self declare the spirit to be non-active, free, endowed with lordship all-pervading, infinite, the knower of the field and the witness likewise O, worshipful one! if the spirit is thus non-active, how, then, is activity predicated of him? And if it is free, how is it that it is born of undesirable wombs? If it is endowed with lordship, wherefore is it drawn perforce into suffering? And if it be all-pervading, why does it not experience the totality of sensations at once? And wherefore does the infinite one not perceive what is hidden behind a hill or a wall? There is also the doubt as to which is prior, the knower of the field or the field itself?”
-
 In reply to this formidable list of questions Atreya propounds a philosophy in which are found the echoes of intermingled voices of the Sankhya and the Vedanta. After describing elaborately the nature and functions of the mind and the senses, there is a reaffirmation of man as the aggregate of twenty-four elements. “The supreme (spirit) combined with Buddhi, the ten organs of sense and of action, the mind and the five sense-objects is the aggregate of the twenty-four categories known as Man. The Buddhi here stands for the seven-fold Prakrti of man excepting the supreme the intellect, the ego and the five elements. This supreme is described again as the unmanifest (avyakta).
 
 It is in connection with the function of the mind that Abhava (abhāva) or non-existence is mentioned as one of the objects of knowledge. Though it is not included among the six categories of substance etc it is stated that the mind can recognise non-existence as in the case of the absence of contact with the sense of touch:
-
-“All these characteristics are perceived by the tactile sense; for the tangible together with its opposite is apprehended by the sense of touch”. (Sūtra 1-3).
 
 “All these characteristics are perceived by the tactile sense; for the tangible together with its opposite is apprehended by the sense of touch”. (Sūtra 1-3).
 
@@ -10346,8 +9778,6 @@ Punarvasu Atreya declares in significant words that this man resembles the unive
 
 “We have said generally that earth, water, light, air, ether and Brahma known as Avyakta are the six elements constituting man. The earth is represented in man by hardness, water by moisture, fire by heat, air by the vital breath, the ether by the interstices and the self by the indwelling spirit. Similar to the office of God in the world is the might of the individual soul in man. God’s greatness in the universe is seen as creator; in the body the souls greatness is seen as the mind. What Indra in in the universe the ego is in man; the Sun corresponds to the power of absorbing, Rudra to anger, the Moon to beneficence, the Vasus to pleasures, the two Ashvins [Ashvins] to lustre, the Maruts (winds) to enthusiasm, the Vishvedevah (universal Gods) to the sense organs and the sense-objects, darkness to delusion, light to knowledge, just as there is the act of creation in the universe, so also in man there is fertilization or the act of impregnation, corresponding to Kritayuga is the period of childhood; corresponding to Treta is youth; corresponding to Dvapara is old age; corresponding to Kali is infirmity and corresponding to the end of a world-cycle is death in man. In this manner by pursuing this analogy, O Agnivesha! you are to understand the unity of all those different members in the world and in man which we have left unmentioned here.”
 
-“We have said generally that earth, water, light, air, ether and Brahma known as Avyakta are the six elements constituting man. The earth is represented in man by hardness, water by moisture, fire by heat, air by the vital breath, the ether by the interstices and the self by the indwelling spirit. Similar to the office of God in the world is the might of the individual soul in man. God’s greatness in the universe is seen as creator; in the body the souls greatness is seen as the mind. What Indra in in the universe the ego is in man; the Sun corresponds to the power of absorbing, Rudra to anger, the Moon to beneficence, the Vasus to pleasures, the two Ashvins [Ashvins] to lustre, the Maruts (winds) to enthusiasm, the Vishvedevah (universal Gods) to the sense organs and the sense-objects, darkness to delusion, light to knowledge, just as there is the act of creation in the universe, so also in man there is fertilization or the act of impregnation, corresponding to Kritayuga is the period of childhood; corresponding to Treta is youth; corresponding to Dvapara is old age; corresponding to Kali is infirmity and corresponding to the end of a world-cycle is death in man. In this manner by pursuing this analogy, O Agnivesha! you are to understand the unity of all those different members in the world and in man which we have left unmentioned here.”
-
 And we may conclude that as the created elements return to their original essence in that hour of universal dissolution, so in his hour of final dissolution he returns to the original essence of the self and remains for ever in the Brahmic state known as liberation.
 
 That liberation is a state from which there is no fall back into life. It is said that owing to the non existence of the forces of Rajas and Tamas and the complete wearing away of all fruits of action, there is elimination of all the factors of aggregation. Hence it is called the state of non-return. (Śārīra I. 142).
@@ -10387,10 +9817,7 @@ In Atreya’s own words,
 
 ## 66. Part 6 - The Science of the Triumvirate (Tridosha) Pathogenesis
 
-
 History of Indian Medicine (and Ayurveda)
-
-by Shree Gulabkunverba Ayurvedic Society | 1949 | 162,724 words | ISBN-13: 9788176370813
 
 The History of Indian medicine and Ayurveda (i.e., the science of life) represents the introductory pages of the Charaka Samhita composed of six large sections dealing with every facet of Medicine in ancient India in a Socio-Historical context. Caraka is regarded as one of the pioneers in the field of scientific healthcare.
 
@@ -10404,10 +9831,7 @@ Part 6 - The Science of the Triumvirate (Tridosha) Pathogenesis
 
 ## 67. Chapter 1 - Background on the concept of Tridosha pathogenesis
 
-
 History of Indian Medicine (and Ayurveda)
-
-by Shree Gulabkunverba Ayurvedic Society | 1949 | 162,724 words | ISBN-13: 9788176370813
 
 The History of Indian medicine and Ayurveda (i.e., the science of life) represents the introductory pages of the Charaka Samhita composed of six large sections dealing with every facet of Medicine in ancient India in a Socio-Historical context. Caraka is regarded as one of the pioneers in the field of scientific healthcare.
 
@@ -10423,8 +9847,6 @@ Arturo Castiglioni, the great medical historian, describing this modern revival 
 
 “Such principles indicate the orientatation of Modern Medicine toward a neo-Hippocratism (a term introduced by the author in 1925), return to some of the classical principles of medical thought Modern medicine, today turns to a dynamic, synthetic and unitarian direction after a period in which a morphologic, analytical, localistic tendency dominated. It is a return to the classical concepts of the ancient sage of Cos, focussed on the well-being of the individual and the improvement of the race, seeking for the cause of the disease, its prevention and cure, both in the individual and in his environment. The study of the nature and the cause of disease is progressing more and more along the lines of an integrated physical, chemical, bacteriological, experimental and above all clinical methods, in which the study of economic and social conditions also are important. It is significant that the best type of clinician is learning and teaching how best to utilise all the weapons at hand in the laboratory as well as at the bedside to focus more efficiently on the one vital item, the study and treatment of the patient. The careful physician is convinced that no test, however important and decisive it may be, can take the place of a synthetic clinical opinion and the personal judgement of an intelligent and experienced clinician as to the condition of the patient and of the community.”
 
-“Such principles indicate the orientatation of Modern Medicine toward a neo-Hippocratism (a term introduced by the author in 1925), return to some of the classical principles of medical thought Modern medicine, today turns to a dynamic, synthetic and unitarian direction after a period in which a morphologic, analytical, localistic tendency dominated. It is a return to the classical concepts of the ancient sage of Cos, focussed on the well-being of the individual and the improvement of the race, seeking for the cause of the disease, its prevention and cure, both in the individual and in his environment. The study of the nature and the cause of disease is progressing more and more along the lines of an integrated physical, chemical, bacteriological, experimental and above all clinical methods, in which the study of economic and social conditions also are important. It is significant that the best type of clinician is learning and teaching how best to utilise all the weapons at hand in the laboratory as well as at the bedside to focus more efficiently on the one vital item, the study and treatment of the patient. The careful physician is convinced that no test, however important and decisive it may be, can take the place of a synthetic clinical opinion and the personal judgement of an intelligent and experienced clinician as to the condition of the patient and of the community.”
-
 At this junctre of an era of revival of the constitutional concept, not only in India but in the whole world, it will be certainly interesting and instructive to study the Tridosha doctrine. The Tridosha concept of Ayurveda is the earliest constitutional concept Its germ can be seen even in the Rigveda but it was systematised and evolved as a scientific concept during the golden period of Ayurveda in India. If the true connotation of the terms in which such a concept is embodied is fully understood against the background of its origin and growth, much needless argumentation and opposition based on misunderatanding will be eliminated.
 
 India, The Source
@@ -10435,11 +9857,7 @@ Dr. George Draper M D in the book ‘Human Constitution in Clincal Medicine’ m
 
 “Indeed in ancient India the school of Ayurvedic medicine gave instructions for evaluating a patient’s nature. Later, in the medical disciplines of Persia and still later in the teachings of Hippocrates, aimilar advice is given to the pupils of Aesculapius.”
 
-“Indeed in ancient India the school of Ayurvedic medicine gave instructions for evaluating a patient’s nature. Later, in the medical disciplines of Persia and still later in the teachings of Hippocrates, aimilar advice is given to the pupils of Aesculapius.”
-
 It is interesting to note that Castiglioni iu the ‘History of Medicine’ declares while giving a resume of the Ayurvedic system,
-
-“The Ayurvedic system, according to those who have studied it carefully and appreciate its value, is important for its fundamental teaching. The theory of Tridosha is a kind of humoral doctrine which even today or perhaps especially today affords great interest for students. It affirms the existence of three Dosas or essential principles which pervade all the tissues, secretions and excretions and determine health and disease”
 
 “The Ayurvedic system, according to those who have studied it carefully and appreciate its value, is important for its fundamental teaching. The theory of Tridosha is a kind of humoral doctrine which even today or perhaps especially today affords great interest for students. It affirms the existence of three Dosas or essential principles which pervade all the tissues, secretions and excretions and determine health and disease”
 
@@ -10507,8 +9925,6 @@ From the various definitions and explanations given of science it becomes clear 
 These are some of the dictionary meanings of the word “Science” In practical life and in the usage of common parlance too, we understand by scientific thought, speech or action, a systematic process of evolution wherein each succeeding part is derived from its preceding part by the inevitable compulsion of logic and which relation such parts will maintain at any time or place, given the attendant circumstances
 
 Karl Pearson in his “Grammar of Science” states,
-
-“The man who classifies facts of any kind whatever, who sees their mutual relations and describes their sequences is applying the scientific method and is a man of science”
 
 “The man who classifies facts of any kind whatever, who sees their mutual relations and describes their sequences is applying the scientific method and is a man of science”
 
@@ -10599,8 +10015,6 @@ Atreya reduces the universe to nine substances viz., the five proto-elements, th
 
 [Carakasaṃhitā Sūtrasthāna 1.48]
 
-[Carakasaṃhitā Sūtrasthāna 1.48]
-
 These combine to form the two main groups of things inanimate and animate.
 
 All physical substances are reduced to the five categories of proto-elements and each proto-element is ascribed certain specific qualities, the total number of all the qualities coming to twenty in number. Thus the body-substance, environmental factors necessary for life-process, causative or curative factors of diseases—all these were reduced to a specific number of qualities whose use or avoidance could be prescribed in an arithmetical ratio
@@ -10622,8 +10036,6 @@ The formula of physical matter cannot adequately explain the phenomena of the bi
 Specific Biological Terms
 
 But as the physical body forms a part of the biological living organism, the physical formula has to be co-ordinated with and incorporated into this triumvirate of biological organizations to evolve a specific biological formula of the triad of Vata, Pitta and Kapha. The five categories of physical matter are transformed into three by the method of earth and water being grouped into one, and air and ether being combined together, with the result that all the five physical proto-elements found place in the living organism being translated into the biological forces of Vata, Pitta and Kapha, i.e., air and ether being combined into Vata, fire turned into Pitta and water and earth combined into Kapha.
-
-[Aṣṭāṅgasaṃgraha A. 20.2]
 
 [Aṣṭāṅgasaṃgraha A. 20.2]
 
@@ -10655,10 +10067,7 @@ It is to these physician-philosophers of the golden age of India that we owe the
 
 ## 68. Chapter 2 - The Story of Life
 
-
 History of Indian Medicine (and Ayurveda)
-
-by Shree Gulabkunverba Ayurvedic Society | 1949 | 162,724 words | ISBN-13: 9788176370813
 
 The History of Indian medicine and Ayurveda (i.e., the science of life) represents the introductory pages of the Charaka Samhita composed of six large sections dealing with every facet of Medicine in ancient India in a Socio-Historical context. Caraka is regarded as one of the pioneers in the field of scientific healthcare.
 
@@ -10709,8 +10118,6 @@ Biocatalysis
 Whatever be the origin of life whether extrinsic of intrinsic to matter, the distinguishing mark of all the forms of life has been the power of organization.
 
 Lovatt Evans in his work on “Starling’s principles of human physiology” writes,
-
-“What are the fundamental phenomena which distinguish living things? Their dictiuctive feature is perhaps organization, and in the higher members this organization becomes more and more distinct. This greater complexity of organizations runs parallel with increasing range and power of adaptation, attained by the setting apart of special structures (organs) for the performance of definite functions”.
 
 “What are the fundamental phenomena which distinguish living things? Their dictiuctive feature is perhaps organization, and in the higher members this organization becomes more and more distinct. This greater complexity of organizations runs parallel with increasing range and power of adaptation, attained by the setting apart of special structures (organs) for the performance of definite functions”.
 
@@ -10768,10 +10175,7 @@ These fundamental phenomena are carried out by the following three integrative o
 
 ## 69. Chapter 4 - The Study of Environment
 
-
 History of Indian Medicine (and Ayurveda)
-
-by Shree Gulabkunverba Ayurvedic Society | 1949 | 162,724 words | ISBN-13: 9788176370813
 
 The History of Indian medicine and Ayurveda (i.e., the science of life) represents the introductory pages of the Charaka Samhita composed of six large sections dealing with every facet of Medicine in ancient India in a Socio-Historical context. Caraka is regarded as one of the pioneers in the field of scientific healthcare.
 
@@ -10812,10 +10216,7 @@ The above is true only in a general sense, for we find that reaction to environm
 
 ## 70. Chapter 3 - The Triumvirate of Organizations
 
-
 History of Indian Medicine (and Ayurveda)
-
-by Shree Gulabkunverba Ayurvedic Society | 1949 | 162,724 words | ISBN-13: 9788176370813
 
 The History of Indian medicine and Ayurveda (i.e., the science of life) represents the introductory pages of the Charaka Samhita composed of six large sections dealing with every facet of Medicine in ancient India in a Socio-Historical context. Caraka is regarded as one of the pioneers in the field of scientific healthcare.
 
@@ -10833,8 +10234,6 @@ In so many ways, the eye of intuition and revelation and that of science as well
 
 [Nārāyana Upanishad 1.1]
 
-[Nārāyana Upanishad 1.1]
-
 The matrix of the material pattern that life requires for its abiding and play is provided by water and by none else of the elements of this universe. That is the medium best suited for the vibrant throb of life and for the transmission of its impulses. The body of man and of all plant and animal life is the material ocean on which floats the immaterial spirit of life. This fluid matrix can be poured into vessels of various shapes and its consistency increased or lessened. And life has attempted all those shapes, patterns and the densities needed for its consummate expression and for the release of the dormant spiritual force and the latest product of such life’s enterprise is Man.
 
 Like a spider that has woven its web and has retired into its centre, so has life woven around itself the web of the human organism with its automatic devices of circulation and respiration, its autonomous nervous system and a part of the mind mechanically operating its gears and clutches, leaving the higher life at the centre to contemplate and design its course of further evolution. Thus, there is a whole complex system distributed in its outline under this threefold divisions of body-organization with the sole purpose of maintain ing a uniform and unchanging environment for life, an environment that contains in itself its power of accommodation and adjustment to exogenous as well as endogenous interferences. (Homeostasis of Cannon). This leaves the higher mind of man free to reflect and weave out his patterns of thought for spiritual fulfilment and for his creative imagery in art, literature and science, all calculated to expand the scope and variety of life expression. It is obvious that all the three aspects being component of an indivisible whole are vitally inter-related as integral parts, and changes in any one are bound to affect the rest. But for purposes of their specific knowledge the nature of each of these is to be referred to in terms of quantity or form, the degree of intensity and degree of tempo, respectively.
@@ -10842,8 +10241,6 @@ Like a spider that has woven its web and has retired into its centre, so has lif
 Modern anatomy and physiology have to their credit a long and persistent career of investigation and study of the human organism in all its complexity and minuteness and they have tracked down the secrets of the human structure and function to the microscopic cells and even beyond. It has, with great diligence, experimented on lower animals and ascertained with approximating certainty the probable human reactions under given circumstances and to given stimuli, this is an essential part of the equipment needed to understand the details of human dynamics but it is by no means all and exhaustive. Man is more and greater than the mere sum total of his body-organizations or cells.
 
 In R.G. Hoskin’s words
-
-“Medicine is now in a transitional phase. The ineptitude of regarding a man as a mere collection of interesting organs is becoming increasingly clear. The personality of their prossessor is more important than his organs no matter what fascinating pathological condition or secretory versatility they may disclose.”
 
 “Medicine is now in a transitional phase. The ineptitude of regarding a man as a mere collection of interesting organs is becoming increasingly clear. The personality of their prossessor is more important than his organs no matter what fascinating pathological condition or secretory versatility they may disclose.”
 
@@ -10875,8 +10272,6 @@ The Kapha and the Pitta are relatively static and need at every point of their e
 “Pitta is lame and so is Kapha and so also the bodyelements and the excretions. These, like a cloud, go wherever the Vata (wind) carries them”
 
 Claude Bernard states that:
-
-“vital force directs phenomena which it does not produce, and physical agencies produce (in living things) phenomena which they cannot direct”.
 
 “vital force directs phenomena which it does not produce, and physical agencies produce (in living things) phenomena which they cannot direct”.
 
@@ -10925,10 +10320,7 @@ These two groups of symptoms, psychic modifications and instinctive inclinations
 
 ## 71. Chapter 6 - Method of Nomenclature
 
-
 History of Indian Medicine (and Ayurveda)
-
-by Shree Gulabkunverba Ayurvedic Society | 1949 | 162,724 words | ISBN-13: 9788176370813
 
 The History of Indian medicine and Ayurveda (i.e., the science of life) represents the introductory pages of the Charaka Samhita composed of six large sections dealing with every facet of Medicine in ancient India in a Socio-Historical context. Caraka is regarded as one of the pioneers in the field of scientific healthcare.
 
@@ -11080,10 +10472,7 @@ Mala = The waste or toxic matter.
 
 ## 72. Chapter 7 - The Nature and Functions of the Body Triumvirate
 
-
 History of Indian Medicine (and Ayurveda)
-
-by Shree Gulabkunverba Ayurvedic Society | 1949 | 162,724 words | ISBN-13: 9788176370813
 
 The History of Indian medicine and Ayurveda (i.e., the science of life) represents the introductory pages of the Charaka Samhita composed of six large sections dealing with every facet of Medicine in ancient India in a Socio-Historical context. Caraka is regarded as one of the pioneers in the field of scientific healthcare.
 
@@ -11528,10 +10917,7 @@ How constitutional factors of the individual resist the incursion of harmful fac
 
 ## 73. Chapter 5 - The Study of Constitution
 
-
 History of Indian Medicine (and Ayurveda)
-
-by Shree Gulabkunverba Ayurvedic Society | 1949 | 162,724 words | ISBN-13: 9788176370813
 
 The History of Indian medicine and Ayurveda (i.e., the science of life) represents the introductory pages of the Charaka Samhita composed of six large sections dealing with every facet of Medicine in ancient India in a Socio-Historical context. Caraka is regarded as one of the pioneers in the field of scientific healthcare.
 
@@ -11542,8 +10928,6 @@ Chapter 5 - The Study of Constitution
 The outstanding fact of life is that no two individuals are exactly alike either in appearance or physical and mental aptitudes, abilities and gifts. This is because each person occupies a point in space-time different from that of every one else. This endows on each person at the very moment of his coming into being, a peculiar group of qualities and tendencies through the ‘genes’ Each person thus enters into life with a peculiar viewpoint, mode of reaction to environment and susceptibility to physical and psychic influences. That is why we find that though people live in a common environment no two of them react in identical fashion.
 
 The great physician Osler says,
-
-“No two persons react equally to incursion of injury. No two persons suffering from the same disease run exactly similar clinical courses”.
 
 “No two persons react equally to incursion of injury. No two persons suffering from the same disease run exactly similar clinical courses”.
 
@@ -11672,10 +11056,7 @@ Having now the full outline of this triumvirate of vitia that determine the tota
 
 ## 74. Chapter 8 - Imbalance Condition (Vaiṣamya)
 
-
 History of Indian Medicine (and Ayurveda)
-
-by Shree Gulabkunverba Ayurvedic Society | 1949 | 162,724 words | ISBN-13: 9788176370813
 
 The History of Indian medicine and Ayurveda (i.e., the science of life) represents the introductory pages of the Charaka Samhita composed of six large sections dealing with every facet of Medicine in ancient India in a Socio-Historical context. Caraka is regarded as one of the pioneers in the field of scientific healthcare.
 
@@ -11828,10 +11209,7 @@ That this Imbalance condition due to increase or decrease has greater importance
 
 ## 75. Chapter 9a - Vitiation Process (dosha-prakopa)
 
-
 History of Indian Medicine (and Ayurveda)
-
-by Shree Gulabkunverba Ayurvedic Society | 1949 | 162,724 words | ISBN-13: 9788176370813
 
 The History of Indian medicine and Ayurveda (i.e., the science of life) represents the introductory pages of the Charaka Samhita composed of six large sections dealing with every facet of Medicine in ancient India in a Socio-Historical context. Caraka is regarded as one of the pioneers in the field of scientific healthcare.
 
@@ -12328,10 +11706,7 @@ After the complete riddance from morbid matter, the treatment consists in supply
 
 ## 76. Chapter 10 - Importance of Knowledge of Constitution of the Body
 
-
 History of Indian Medicine (and Ayurveda)
-
-by Shree Gulabkunverba Ayurvedic Society | 1949 | 162,724 words | ISBN-13: 9788176370813
 
 The History of Indian medicine and Ayurveda (i.e., the science of life) represents the introductory pages of the Charaka Samhita composed of six large sections dealing with every facet of Medicine in ancient India in a Socio-Historical context. Caraka is regarded as one of the pioneers in the field of scientific healthcare.
 
@@ -12498,18 +11873,13 @@ The Soil
 
 “Many years ago I drew the parallel between infection in tuberculosis and the parable of the sower, which though now some what hackneyed illustrates in an effective way the importance of the nature of the ground upon which the seed falls. “Some seeds by the wayside and the fowls of the air came and devoured em up”. These are the bacilli scattered broadcast outside the body, an immense majority of which die. “Some fell upon stony places”. These are the bacilli that find lodgment in many of us, perhaps, with the production of a small focus, but nothing comes of it; they wither away “because they have no root”. “Some fell among thorns, and the thorns sprang up and choked them”. This represents the cases of tuberculosis, latent or active, in which the seed finds the soil suitable and grows, but the conditions are not favourable, as the thorns, representing the protecting force of the body, get the better in the struggle. “But others fell on good ground and sprang up and bore fruit an hundredfold”.
 
-“Many years ago I drew the parallel between infection in tuberculosis and the parable of the sower, which though now some what hackneyed illustrates in an effective way the importance of the nature of the ground upon which the seed falls. “Some seeds by the wayside and the fowls of the air came and devoured em up”. These are the bacilli scattered broadcast outside the body, an immense majority of which die. “Some fell upon stony places”. These are the bacilli that find lodgment in many of us, perhaps, with the production of a small focus, but nothing comes of it; they wither away “because they have no root”. “Some fell among thorns, and the thorns sprang up and choked them”. This represents the cases of tuberculosis, latent or active, in which the seed finds the soil suitable and grows, but the conditions are not favourable, as the thorns, representing the protecting force of the body, get the better in the struggle. “But others fell on good ground and sprang up and bore fruit an hundredfold”.
-
 This parallel which the author applied to the tuberculosis may be generalized for all disease conditions. The seed is the bacteria and the soil the body constitution.
 
 ---
 
 ## 77. Chapter 12 - Nosology and the Triumvirate
 
-
 History of Indian Medicine (and Ayurveda)
-
-by Shree Gulabkunverba Ayurvedic Society | 1949 | 162,724 words | ISBN-13: 9788176370813
 
 The History of Indian medicine and Ayurveda (i.e., the science of life) represents the introductory pages of the Charaka Samhita composed of six large sections dealing with every facet of Medicine in ancient India in a Socio-Historical context. Caraka is regarded as one of the pioneers in the field of scientific healthcare.
 
@@ -12551,13 +11921,9 @@ Yet in view of their special sites of localisation and affection, and the conseq
 
 [Suśrutasaṃhitā Sūtrasthāna 24.8]
 
-[Suśrutasaṃhitā Sūtrasthāna 24.8]
-
 The body consists of so many varieties of tissues, organs and structural and functional systems and of millions of cells each of which may be said to have its own separate life, that the pathological conditions affecting them in their individual or even combined forms would be innumerable. And so varied are the manifestations of each of these vitia and of their combined conditions that every degree of variation or proportion in their combination would require a special name, thus giving rise to an endless number of names.
 
 Expressing the impracticability of this, Caraka says,
-
-“When classified according to cause, pain, color, site, form and nomenclature, the number of these diseases becomes really countless”.
 
 “When classified according to cause, pain, color, site, form and nomenclature, the number of these diseases becomes really countless”.
 
@@ -12668,10 +12034,7 @@ The physician who after ascertaing [ascertaining?] all these three things, begin
 
 ## 78. Chapter 13 - Conclusion
 
-
 History of Indian Medicine (and Ayurveda)
-
-by Shree Gulabkunverba Ayurvedic Society | 1949 | 162,724 words | ISBN-13: 9788176370813
 
 The History of Indian medicine and Ayurveda (i.e., the science of life) represents the introductory pages of the Charaka Samhita composed of six large sections dealing with every facet of Medicine in ancient India in a Socio-Historical context. Caraka is regarded as one of the pioneers in the field of scientific healthcare.
 
@@ -12704,10 +12067,7 @@ An intimate and deep knowledge of Ayurveda will enable the practical clinician o
 
 ## 79. Chapter 11 - The Etiological Factors of Disease
 
-
 History of Indian Medicine (and Ayurveda)
-
-by Shree Gulabkunverba Ayurvedic Society | 1949 | 162,724 words | ISBN-13: 9788176370813
 
 The History of Indian medicine and Ayurveda (i.e., the science of life) represents the introductory pages of the Charaka Samhita composed of six large sections dealing with every facet of Medicine in ancient India in a Socio-Historical context. Caraka is regarded as one of the pioneers in the field of scientific healthcare.
 
@@ -12728,8 +12088,6 @@ Having its source in natural and supernatural agencies.
 This triad of etiological categories is in accordance with the Sankhya concept of the triad of the causes of all suffering Sushruta makes further subdivision from a practical point of view of this triad so as to make seven categories of disease in the light of their etiological factors.
 
 They are thus:—
-
-[Suśrutasaṃhitā Sūtrasthāna 24.4]
 
 [Suśrutasaṃhitā Sūtrasthāna 24.4]
 
@@ -12763,10 +12121,7 @@ These types of conditions may act either as exciting factors or as predisposing 
 
 ## 80. Chapter 9b - Pathological Conditions or Processes in Ayurveda
 
-
 History of Indian Medicine (and Ayurveda)
-
-by Shree Gulabkunverba Ayurvedic Society | 1949 | 162,724 words | ISBN-13: 9788176370813
 
 The History of Indian medicine and Ayurveda (i.e., the science of life) represents the introductory pages of the Charaka Samhita composed of six large sections dealing with every facet of Medicine in ancient India in a Socio-Historical context. Caraka is regarded as one of the pioneers in the field of scientific healthcare.
 
@@ -12930,10 +12285,7 @@ The eight censurable body conditions described therein are as follows.—Obesity
 
 ## 81. Chapter 14 - The Ideal of Health in Ayurveda
 
-
 History of Indian Medicine (and Ayurveda)
-
-by Shree Gulabkunverba Ayurvedic Society | 1949 | 162,724 words | ISBN-13: 9788176370813
 
 The History of Indian medicine and Ayurveda (i.e., the science of life) represents the introductory pages of the Charaka Samhita composed of six large sections dealing with every facet of Medicine in ancient India in a Socio-Historical context. Caraka is regarded as one of the pioneers in the field of scientific healthcare.
 

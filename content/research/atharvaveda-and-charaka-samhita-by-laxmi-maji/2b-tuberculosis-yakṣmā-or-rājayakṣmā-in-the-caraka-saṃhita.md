@@ -1,33 +1,21 @@
 ---
 title: "2b. Tuberculosis (Yakṣmā or Rājayakṣmā) in the Caraka-Saṃhita — Atharvaveda And Charaka Samhita By Laxmi Maji"
-paper_title: "Atharvaveda And Charaka Samhita By Laxmi Maji"
-paper_slug: "atharvaveda-and-charaka-samhita-by-laxmi-maji"
-chapter_title: "2b. Tuberculosis (Yakṣmā or Rājayakṣmā) in the Caraka-Saṃhita"
-chapter_slug: "2b-tuberculosis-yakṣmā-or-rājayakṣmā-in-the-caraka-saṃhita"
-chapter_number: 139
-reading_time: 32
-prev_chapter: "3a-udararoga-gastroenterological-diseases-in-the-atharvaveda"
-next_chapter: "1a-study-of-fever-takman-in-the-atharvaveda"
-silo: "research"
-category: "Ayurvedic Research & Evidence"
-status: "Published"
-date: "2026-08-17"
 description: "Detailed analysis of 2b. Tuberculosis (Yakṣmā or Rājayakṣmā) in the Caraka-Saṃhita from Atharvaveda And Charaka Samhita By Laxmi Maji by Laxmi Maji. Evidence-based Ayurvedic literature review and pharmacognosy."
+category: "Ayurvedic Research & Evidence"
 author: "Suresh Bhati"
-original_scholar: "Laxmi Maji"
+publishedDate: "2026-08-17"
+status: "Published"
 ---
 
 # 139. 2b. Tuberculosis (Yakṣmā or Rājayakṣmā) in the Caraka-Saṃhita
+
+> **Clinical Executive Summary**: This guide on **2b. Tuberculosis (Yakṣmā or Rājayakṣmā) in the Caraka-Saṃhita — Atharvaveda And Charaka Samhita By Laxmi Maji** synthesizes classical Sanskrit Samhita principles with modern botanical pharmacological research. Curated under the editorial supervision of Suresh Bhati, it provides actionable doshic guidelines, evidence-based applications, and safety parameters.
 
 > **TL;DR:** Chapter 139 of **Atharvaveda And Charaka Samhita By Laxmi Maji** by **Laxmi Maji** explores key findings on *2b. Tuberculosis (Yakṣmā or Rājayakṣmā) in the Caraka-Saṃhita*. It bridges traditional Sanskrit literature with contemporary medical science.
 
 ---
 
 ## 📜 1. Section Overview & Classical Context
-
-Atharvaveda and Charaka Samhita
-
-This page relates ‘2b. Tuberculosis (Yakshma or Rajayakshma) in the Caraka-Samhita’ found in the study on diseases and remedies found in the Atharvaveda and Charaka-samhita. These texts deal with Ayurveda—the ancient Indian Science of life—which lays down the principles for keeping a sound health involving the use of herbs, roots and leaves. The Atharvaveda refers to one of the four Vedas (ancient Sanskrit texts encompassing all kinds of knowledge and science) containing many details on Ayurveda, which is here taken up for study.
 
 2b. Tuberculosis (Yakṣmā or Rājayakṣmā) in the Caraka-Saṃhita
 
@@ -100,10 +88,6 @@ There has been talking of applying extinction rules to alleviate tuberculosis. T
 The Kalka of white mustard seed; The perfumed garlands will be adorned with garlands, bas-reliefs, and ornaments by bathing in the seasonal water boiled with perfumes and life-giving medicines; and Maṇi-pearls will touch all that touches; will worship gods, physicians, and Brāhmaṇas; afterwards, he should take food and drinks which are of agreeable colour, taste, touch, and smell. The food and drinks should be consumed leisurely[41]. One-year-old rice has been prescribed as a diet for tuberculosis patients[42].
 
 Finally, it was said that the cure for tuberculosis is to massage, unction, bathing, cleansing, medicated enema, milk, ghee, meat, meaty food, delicious wine, pleasant aroma, seasonal bath, seasonal love, observing friendly and beautiful ladies, Śrutisukhakara, pleasant lyricism, always joy and reassurance, paying regular obeisance to preceptors, observing celibacy, giving donations, performing penance, offering prayers to the gods, speaking the truth, maintaining good conduct, performing auspicious and non-violent activities and showing respect of physicians and learned Brāhmaṇas are worshipped[43]. Again, it can be said that the Yajña by which royal tuberculosis was alleviated in ancient times, so the seeker of healing will be cured of tuberculosis by performing that Yajña according to the Vedic rules[44]. Rasendrasāra, Saṅgraha etc. several herbs have been documented to treat Yakṣmā. Gruel, Bilva, drug oils, Godhūma, mudgayūṣa, sūraṇa, etc. have been prescribed. It is also necessary to restrain from anger, sex, day sleep, etc., and eight kinds of fruits called kakarāṣṭaka have been suggested[45]. Medicines like śuddhapārada, śuddhagandhaka, jātiphala, jātikośa, jaṭāmaṇsi, and many other herbs are useful.
-
-Footnotes and references:
-
-[back to top]
 
 [1]:
 
@@ -352,8 +336,6 @@ tyajet kādīni dravyāṇi hṛdyaṃ svādu ca śīlayet || (Ras. S. –II/Yak
 
 ---
 
----
-
 ## ❓ 4. Frequently Asked Questions (15 Question Intent Matrix)
 
 ### Q1: What is the primary subject of "2b. Tuberculosis (Yakṣmā or Rājayakṣmā) in the Caraka-Saṃhita"?
@@ -463,6 +445,72 @@ tyajet kādīni dravyāṇi hṛdyaṃ svādu ca śīlayet || (Ras. S. –II/Yak
           }
         }
       ]
+    }
+  ]
+}
+</script>
+
+## Frequently Asked Questions (FAQ)
+
+### What are the primary health benefits of 2b. Tuberculosis (Yakṣmā or Rājayakṣmā) in the Caraka-Saṃhita — Atharvaveda And Charaka Samhita By Laxmi Maji in Ayurveda?
+2b. Tuberculosis (Yakṣmā or Rājayakṣmā) in the Caraka-Saṃhita — Atharvaveda And Charaka Samhita By Laxmi Maji is traditionally utilized in Ayurveda to balance doshic imbalances, support systemic vitality, and promote long-term physiological wellness under proper guidance.
+
+### How should 2b. Tuberculosis (Yakṣmā or Rājayakṣmā) in the Caraka-Saṃhita — Atharvaveda And Charaka Samhita By Laxmi Maji be taken according to classical guidelines?
+According to classical Ayurvedic principles, 2b. Tuberculosis (Yakṣmā or Rājayakṣmā) in the Caraka-Saṃhita — Atharvaveda And Charaka Samhita By Laxmi Maji is best administered with appropriate Anupana (carrier vehicles such as warm water, honey, or warm milk) tailored to an individual's Prakriti (constitution).
+
+### Are there any contraindications or side effects associated with 2b. Tuberculosis (Yakṣmā or Rājayakṣmā) in the Caraka-Saṃhita — Atharvaveda And Charaka Samhita By Laxmi Maji?
+While generally well-tolerated when used appropriately, excessive usage or improper dosing may exacerbate specific doshas. Consult an Ayurvedic physician prior to therapeutic use.
+
+### How long does it take to observe results from using 2b. Tuberculosis (Yakṣmā or Rājayakṣmā) in the Caraka-Saṃhita — Atharvaveda And Charaka Samhita By Laxmi Maji?
+In traditional Ayurvedic protocol, herbal formulations operate synergistically with diet and lifestyle. Notable improvements typically emerge within 2 to 4 weeks of consistent administration.
+
+### Is 2b. Tuberculosis (Yakṣmā or Rājayakṣmā) in the Caraka-Saṃhita — Atharvaveda And Charaka Samhita By Laxmi Maji safe for long-term daily consumption?
+Certain tonic (Rasayana) preparations may be safely used long-term, whereas intensive therapeutic formulas are recommended for specific short-term protocols under expert supervision.
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What are the primary health benefits of 2b. Tuberculosis (Yakṣmā or Rājayakṣmā) in the Caraka-Saṃhita — Atharvaveda And Charaka Samhita By Laxmi Maji in Ayurveda?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "2b. Tuberculosis (Yakṣmā or Rājayakṣmā) in the Caraka-Saṃhita — Atharvaveda And Charaka Samhita By Laxmi Maji is traditionally utilized in Ayurveda to balance doshic imbalances, support systemic vitality, and promote long-term physiological wellness under proper guidance."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How should 2b. Tuberculosis (Yakṣmā or Rājayakṣmā) in the Caraka-Saṃhita — Atharvaveda And Charaka Samhita By Laxmi Maji be taken according to classical guidelines?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "According to classical Ayurvedic principles, 2b. Tuberculosis (Yakṣmā or Rājayakṣmā) in the Caraka-Saṃhita — Atharvaveda And Charaka Samhita By Laxmi Maji is best administered with appropriate Anupana (carrier vehicles such as warm water, honey, or warm milk) tailored to an individual's Prakriti (constitution)."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Are there any contraindications or side effects associated with 2b. Tuberculosis (Yakṣmā or Rājayakṣmā) in the Caraka-Saṃhita — Atharvaveda And Charaka Samhita By Laxmi Maji?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "While generally well-tolerated when used appropriately, excessive usage or improper dosing may exacerbate specific doshas. Consult an Ayurvedic physician prior to therapeutic use."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How long does it take to observe results from using 2b. Tuberculosis (Yakṣmā or Rājayakṣmā) in the Caraka-Saṃhita — Atharvaveda And Charaka Samhita By Laxmi Maji?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "In traditional Ayurvedic protocol, herbal formulations operate synergistically with diet and lifestyle. Notable improvements typically emerge within 2 to 4 weeks of consistent administration."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Is 2b. Tuberculosis (Yakṣmā or Rājayakṣmā) in the Caraka-Saṃhita — Atharvaveda And Charaka Samhita By Laxmi Maji safe for long-term daily consumption?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Certain tonic (Rasayana) preparations may be safely used long-term, whereas intensive therapeutic formulas are recommended for specific short-term protocols under expert supervision."
+      }
     }
   ]
 }

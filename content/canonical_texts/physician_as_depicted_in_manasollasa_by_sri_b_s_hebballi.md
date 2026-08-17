@@ -9,19 +9,11 @@ date: "2026-08-17"
 description: "explores the connection between mind and body health, emphasizing the influence of diet and actions."
 ---
 
-**Author / Source:** by Sri B. S. Hebballi
-
-
-**Total Chapters/Sections:** 40
-
 ---
 
 ## 1. Acknowledgement
 
-
 Physician as depicted in Manasollasa
-
-by Sri B. S. Hebballi | 2001 | 75,801 words
 
 This thesis critically evaluates the role of physicians in Ayurvedic literature, particularly in King Somesvara's Manasollasa. It explores the connection between mind and body health, emphasizing the influence of diet and actions....
 
@@ -33,10 +25,7 @@ In the completion of the present thesis I always got encouragement from my guide
 
 ## 2. Preface
 
-
 Physician as depicted in Manasollasa
-
-by Sri B. S. Hebballi | 2001 | 75,801 words
 
 This thesis critically evaluates the role of physicians in Ayurvedic literature, particularly in King Somesvara's Manasollasa. It explores the connection between mind and body health, emphasizing the influence of diet and actions....
 
@@ -52,10 +41,7 @@ quoted in the text of the thesis as found in the edition of Manasollasa, publish
 
 ## 3. Chapter 1 - Significance of Manasollasa and its relevance today
 
-
 Physician as depicted in Manasollasa
-
-by Sri B. S. Hebballi | 2001 | 75,801 words
 
 This thesis critically evaluates the role of physicians in Ayurvedic literature, particularly in King Somesvara's Manasollasa. It explores the connection between mind and body health, emphasizing the influence of diet and actions....
 
@@ -103,10 +89,7 @@ a state. They alone can ensure steady economic growth and make the country prosp
 
 ## 4. Chapter 4 - Ancient treatises on Indian medicine
 
-
 Physician as depicted in Manasollasa
-
-by Sri B. S. Hebballi | 2001 | 75,801 words
 
 This thesis critically evaluates the role of physicians in Ayurvedic literature, particularly in King Somesvara's Manasollasa. It explores the connection between mind and body health, emphasizing the influence of diet and actions....
 
@@ -118,10 +101,7 @@ Chapter 4 - Ancient treatises on Indian medicine
 
 ## 5. Chapter 3a - Basic concepts of Ayurveda (as explained in Manasollasa)
 
-
 Physician as depicted in Manasollasa
-
-by Sri B. S. Hebballi | 2001 | 75,801 words
 
 This thesis critically evaluates the role of physicians in Ayurvedic literature, particularly in King Somesvara's Manasollasa. It explores the connection between mind and body health, emphasizing the influence of diet and actions....
 
@@ -169,10 +149,7 @@ Ayurveda is the Veda of Ayus, . This science of life has come down from the earl
 
 ## 6. 1. Ancient Indian Medicine: Ayurveda's Foundations and Evolution
 
-
 Physician as depicted in Manasollasa
-
-by Sri B. S. Hebballi | 2001 | 75,801 words
 
 This thesis critically evaluates the role of physicians in Ayurvedic literature, particularly in King Somesvara's Manasollasa. It explores the connection between mind and body health, emphasizing the influence of diet and actions....
 
@@ -222,10 +199,7 @@ Chapter 4 ANCIENT TREATISES ON INDIAN MEDICINE (as referred to in Manasollasa) A
 
 ## 7. Chapter 2 - Importance of Physician in society
 
-
 Physician as depicted in Manasollasa
-
-by Sri B. S. Hebballi | 2001 | 75,801 words
 
 This thesis critically evaluates the role of physicians in Ayurvedic literature, particularly in King Somesvara's Manasollasa. It explores the connection between mind and body health, emphasizing the influence of diet and actions....
 
@@ -267,10 +241,7 @@ The significance and relevance of Manasollasa even today have been discussed in 
 
 ## 8. Chapter 3b - Sapta Dhatus (the seven dhatus)
 
-
 Physician as depicted in Manasollasa
-
-by Sri B. S. Hebballi | 2001 | 75,801 words
 
 This thesis critically evaluates the role of physicians in Ayurvedic literature, particularly in King Somesvara's Manasollasa. It explores the connection between mind and body health, emphasizing the influence of diet and actions....
 
@@ -308,10 +279,7 @@ These constitute the supporting structure of the body. They are: the primary pro
 
 ## 9. 2. Description of Diseases
 
-
 Physician as depicted in Manasollasa
-
-by Sri B. S. Hebballi | 2001 | 75,801 words
 
 This thesis critically evaluates the role of physicians in Ayurvedic literature, particularly in King Somesvara's Manasollasa. It explores the connection between mind and body health, emphasizing the influence of diet and actions....
 
@@ -327,10 +295,7 @@ Reason of Diseases—Man does not live in an absolutely germ-free atmosphere. Th
 
 ## 10. 3. Description of Jvara or Fever
 
-
 Physician as depicted in Manasollasa
-
-by Sri B. S. Hebballi | 2001 | 75,801 words
 
 This thesis critically evaluates the role of physicians in Ayurvedic literature, particularly in King Somesvara's Manasollasa. It explores the connection between mind and body health, emphasizing the influence of diet and actions....
 
@@ -364,10 +329,7 @@ Jvara or fever occupies the first place among physical ailments. So Somesvara's 
 
 ## 11. 1. Introduction (the concept of environment in Ayurveda)
 
-
 Physician as depicted in Manasollasa
-
-by Sri B. S. Hebballi | 2001 | 75,801 words
 
 This thesis critically evaluates the role of physicians in Ayurvedic literature, particularly in King Somesvara's Manasollasa. It explores the connection between mind and body health, emphasizing the influence of diet and actions....
 
@@ -391,10 +353,7 @@ Right from Vedic times, though scholars have been thinking in their own way, it 
 
 ## 12. 2. Creation of the Universe (according to Ayurveda)
 
-
 Physician as depicted in Manasollasa
-
-by Sri B. S. Hebballi | 2001 | 75,801 words
 
 This thesis critically evaluates the role of physicians in Ayurvedic literature, particularly in King Somesvara's Manasollasa. It explores the connection between mind and body health, emphasizing the influence of diet and actions....
 
@@ -420,10 +379,7 @@ Different philosophical thoughts of India are enshrined in the darsanas. These d
 
 ## 13. 4. Nidana-pancaka (Pathology or Investigation of Diseases)
 
-
 Physician as depicted in Manasollasa
-
-by Sri B. S. Hebballi | 2001 | 75,801 words
 
 This thesis critically evaluates the role of physicians in Ayurvedic literature, particularly in King Somesvara's Manasollasa. It explores the connection between mind and body health, emphasizing the influence of diet and actions....
 
@@ -447,10 +403,7 @@ In Ayurveda, the Methods of Investigation of Diseases are usually described unde
 
 ## 14. 5. Ayurvedic treatment
 
-
 Physician as depicted in Manasollasa
-
-by Sri B. S. Hebballi | 2001 | 75,801 words
 
 This thesis critically evaluates the role of physicians in Ayurvedic literature, particularly in King Somesvara's Manasollasa. It explores the connection between mind and body health, emphasizing the influence of diet and actions....
 
@@ -470,10 +423,7 @@ It must first be noted that the unique feature of Ayurvedic treatment rests on t
 
 ## 15. 5. Dinacarya (timetable for the healthy person)
 
-
 Physician as depicted in Manasollasa
-
-by Sri B. S. Hebballi | 2001 | 75,801 words
 
 This thesis critically evaluates the role of physicians in Ayurvedic literature, particularly in King Somesvara's Manasollasa. It explores the connection between mind and body health, emphasizing the influence of diet and actions....
 
@@ -511,10 +461,7 @@ The Manasollasa gives detailed description of dinacarya (or timetable for the he
 
 ## 16. 3. The concept of Dravy and Tridosha
 
-
 Physician as depicted in Manasollasa
-
-by Sri B. S. Hebballi | 2001 | 75,801 words
 
 This thesis critically evaluates the role of physicians in Ayurvedic literature, particularly in King Somesvara's Manasollasa. It explores the connection between mind and body health, emphasizing the influence of diet and actions....
 
@@ -554,10 +501,7 @@ Table Showing the relation between tridosas and age, part of the body, Meal, Day
 
 ## 17. 6. Code of General Ethics
 
-
 Physician as depicted in Manasollasa
-
-by Sri B. S. Hebballi | 2001 | 75,801 words
 
 This thesis critically evaluates the role of physicians in Ayurvedic literature, particularly in King Somesvara's Manasollasa. It explores the connection between mind and body health, emphasizing the influence of diet and actions....
 
@@ -573,10 +517,7 @@ Manasollasa gives detailed description about ethics for Kings as well as common 
 
 ## 18. 6. Clinical examination in Ayurveda
 
-
 Physician as depicted in Manasollasa
-
-by Sri B. S. Hebballi | 2001 | 75,801 words
 
 This thesis critically evaluates the role of physicians in Ayurvedic literature, particularly in King Somesvara's Manasollasa. It explores the connection between mind and body health, emphasizing the influence of diet and actions....
 
@@ -594,10 +535,7 @@ The clinical examination in Ayurveda is conducted with the knowledge given by I.
 
 ## 19. 4. Environmental factors and the body’s capacity for resistance
 
-
 Physician as depicted in Manasollasa
-
-by Sri B. S. Hebballi | 2001 | 75,801 words
 
 This thesis critically evaluates the role of physicians in Ayurvedic literature, particularly in King Somesvara's Manasollasa. It explores the connection between mind and body health, emphasizing the influence of diet and actions....
 
@@ -621,10 +559,7 @@ The environmental factors governing a living being are both external and interna
 
 ## 20. 7. General Conduct and Suitable Friends
 
-
 Physician as depicted in Manasollasa
-
-by Sri B. S. Hebballi | 2001 | 75,801 words
 
 This thesis critically evaluates the role of physicians in Ayurvedic literature, particularly in King Somesvara's Manasollasa. It explores the connection between mind and body health, emphasizing the influence of diet and actions....
 
@@ -640,10 +575,7 @@ One should not deviate from generally approved principles. One should not break 
 
 ## 21. 8. Three phases of Dosasthana
 
-
 Physician as depicted in Manasollasa
-
-by Sri B. S. Hebballi | 2001 | 75,801 words
 
 This thesis critically evaluates the role of physicians in Ayurvedic literature, particularly in King Somesvara's Manasollasa. It explores the connection between mind and body health, emphasizing the influence of diet and actions....
 
@@ -667,10 +599,7 @@ Three phases of dosasthana—vrddhi  and ksaya  and importance of dhatu  in the 
 
 ## 22. 9. Surgery in Ayurveda
 
-
 Physician as depicted in Manasollasa
-
-by Sri B. S. Hebballi | 2001 | 75,801 words
 
 This thesis critically evaluates the role of physicians in Ayurvedic literature, particularly in King Somesvara's Manasollasa. It explores the connection between mind and body health, emphasizing the influence of diet and actions....
 
@@ -690,10 +619,7 @@ It is an established fact that Surgical Science is known as a distinct branch of
 
 ## 23. 7. Salient features of Pancamahabhutas
 
-
 Physician as depicted in Manasollasa
-
-by Sri B. S. Hebballi | 2001 | 75,801 words
 
 This thesis critically evaluates the role of physicians in Ayurvedic literature, particularly in King Somesvara's Manasollasa. It explores the connection between mind and body health, emphasizing the influence of diet and actions....
 
@@ -719,10 +645,7 @@ This thesis critically evaluates the role of physicians in Ayurvedic literature,
 
 ## 24. 8. Ratricarya (conduct during night)
 
-
 Physician as depicted in Manasollasa
-
-by Sri B. S. Hebballi | 2001 | 75,801 words
 
 This thesis critically evaluates the role of physicians in Ayurvedic literature, particularly in King Somesvara's Manasollasa. It explores the connection between mind and body health, emphasizing the influence of diet and actions....
 
@@ -740,10 +663,7 @@ Sleep When the mind gets exhausted or becomes inactive and the sensory as well a
 
 ## 25. 11. Ecological conditions in Ayurveda
 
-
 Physician as depicted in Manasollasa
-
-by Sri B. S. Hebballi | 2001 | 75,801 words
 
 This thesis critically evaluates the role of physicians in Ayurvedic literature, particularly in King Somesvara's Manasollasa. It explores the connection between mind and body health, emphasizing the influence of diet and actions....
 
@@ -759,10 +679,7 @@ Ecological imbalance is a debatable topic at present all over the world. Exploit
 
 ## 26. Chapter 5 - The Environment in Manasollasa
 
-
 Physician as depicted in Manasollasa
-
-by Sri B. S. Hebballi | 2001 | 75,801 words
 
 This thesis critically evaluates the role of physicians in Ayurvedic literature, particularly in King Somesvara's Manasollasa. It explores the connection between mind and body health, emphasizing the influence of diet and actions....
 
@@ -772,10 +689,7 @@ Chapter 5 - The Environment in Manasollasa
 
 ## 27. 9. Ritucarya (conduct during different seasons)
 
-
 Physician as depicted in Manasollasa
-
-by Sri B. S. Hebballi | 2001 | 75,801 words
 
 This thesis critically evaluates the role of physicians in Ayurvedic literature, particularly in King Somesvara's Manasollasa. It explores the connection between mind and body health, emphasizing the influence of diet and actions....
 
@@ -801,10 +715,7 @@ The two Solstices: The year is divided into six seasons. The northward movement 
 
 ## 28. 10. Span of Life in Ayurveda
 
-
 Physician as depicted in Manasollasa
-
-by Sri B. S. Hebballi | 2001 | 75,801 words
 
 This thesis critically evaluates the role of physicians in Ayurvedic literature, particularly in King Somesvara's Manasollasa. It explores the connection between mind and body health, emphasizing the influence of diet and actions....
 
@@ -828,10 +739,7 @@ The span of life of the individual is divided into four parts. Upto the age of 2
 
 ## 29. Chapter 6 - Restoring normal physical and mental health
 
-
 Physician as depicted in Manasollasa
-
-by Sri B. S. Hebballi | 2001 | 75,801 words
 
 This thesis critically evaluates the role of physicians in Ayurvedic literature, particularly in King Somesvara's Manasollasa. It explores the connection between mind and body health, emphasizing the influence of diet and actions....
 
@@ -843,10 +751,7 @@ Chapter 6 - Restoring normal physical and mental health
 
 ## 30. 1. Introduction (rectifying the imbalance of dosas)
 
-
 Physician as depicted in Manasollasa
-
-by Sri B. S. Hebballi | 2001 | 75,801 words
 
 This thesis critically evaluates the role of physicians in Ayurvedic literature, particularly in King Somesvara's Manasollasa. It explores the connection between mind and body health, emphasizing the influence of diet and actions....
 
@@ -860,10 +765,7 @@ Chapter 6 RESTORING NORMAL PHYSICAL AND MENTAL HEALTH AS PROPOUNDED IN MANASOLLA
 
 ## 31. 2. The concept of Rasa (direct action of a drug)
 
-
 Physician as depicted in Manasollasa
-
-by Sri B. S. Hebballi | 2001 | 75,801 words
 
 This thesis critically evaluates the role of physicians in Ayurvedic literature, particularly in King Somesvara's Manasollasa. It explores the connection between mind and body health, emphasizing the influence of diet and actions....
 
@@ -889,10 +791,7 @@ According to Caraka such of the diets and regimens, as stand in contradistinctio
 
 ## 32. 6. Examination of Patients
 
-
 Physician as depicted in Manasollasa
-
-by Sri B. S. Hebballi | 2001 | 75,801 words
 
 This thesis critically evaluates the role of physicians in Ayurvedic literature, particularly in King Somesvara's Manasollasa. It explores the connection between mind and body health, emphasizing the influence of diet and actions....
 
@@ -912,10 +811,7 @@ To ascertain the exact nature of the disease, the Ayurvedic physician, for the m
 
 ## 33. 3. Quantity of food and digestion
 
-
 Physician as depicted in Manasollasa
-
-by Sri B. S. Hebballi | 2001 | 75,801 words
 
 This thesis critically evaluates the role of physicians in Ayurvedic literature, particularly in King Somesvara's Manasollasa. It explores the connection between mind and body health, emphasizing the influence of diet and actions....
 
@@ -947,10 +843,7 @@ According to Manasollasa - (1.19.149 to 153) the amount of food which, without d
 
 ## 34. 5. Characteristics of pseudo and feigned Physicians
 
-
 Physician as depicted in Manasollasa
-
-by Sri B. S. Hebballi | 2001 | 75,801 words
 
 This thesis critically evaluates the role of physicians in Ayurvedic literature, particularly in King Somesvara's Manasollasa. It explores the connection between mind and body health, emphasizing the influence of diet and actions....
 
@@ -964,10 +857,7 @@ According to Caraka pseudo and feigned physicians are those who move about from 
 
 ## 35. 7. Examination of Diseases
 
-
 Physician as depicted in Manasollasa
-
-by Sri B. S. Hebballi | 2001 | 75,801 words
 
 This thesis critically evaluates the role of physicians in Ayurvedic literature, particularly in King Somesvara's Manasollasa. It explores the connection between mind and body health, emphasizing the influence of diet and actions....
 
@@ -997,10 +887,7 @@ For proper treatment of a disease, it is essential to determine the exact nature
 
 ## 36. 4. Qualities of Physicians (in Ayurveda and Manasollasa)
 
-
 Physician as depicted in Manasollasa
-
-by Sri B. S. Hebballi | 2001 | 75,801 words
 
 This thesis critically evaluates the role of physicians in Ayurvedic literature, particularly in King Somesvara's Manasollasa. It explores the connection between mind and body health, emphasizing the influence of diet and actions....
 
@@ -1030,10 +917,7 @@ srute paryavadatatvam bahuso drstakarmata | daksyam saucamiti jneyam vaidye guna
 
 ## 37. 8. Food and Diet (in Ayurveda and Manasollasa)
 
-
 Physician as depicted in Manasollasa
-
-by Sri B. S. Hebballi | 2001 | 75,801 words
 
 This thesis critically evaluates the role of physicians in Ayurvedic literature, particularly in King Somesvara's Manasollasa. It explores the connection between mind and body health, emphasizing the influence of diet and actions....
 
@@ -1061,10 +945,7 @@ We know already that diet or food for satisfying hunger is one of the biological
 
 ## 38. Selected Bibliography
 
-
 Physician as depicted in Manasollasa
-
-by Sri B. S. Hebballi | 2001 | 75,801 words
 
 This thesis critically evaluates the role of physicians in Ayurvedic literature, particularly in King Somesvara's Manasollasa. It explores the connection between mind and body health, emphasizing the influence of diet and actions....
 
@@ -1088,10 +969,7 @@ SELECT BIBLIOGRAPHY I. English 1. Agnivesa (P.I.), Carakasamhita (with comm of C
 
 ## 39. Conclusion
 
-
 Physician as depicted in Manasollasa
-
-by Sri B. S. Hebballi | 2001 | 75,801 words
 
 This thesis critically evaluates the role of physicians in Ayurvedic literature, particularly in King Somesvara's Manasollasa. It explores the connection between mind and body health, emphasizing the influence of diet and actions....
 
@@ -1125,10 +1003,7 @@ Chapter 7 CONCLUSION 'aryavartah punyabhumih ' is not a mere slogan, but a reali
 
 ## 40. Appendix: Glossary of Selected Sanskrit Words
 
-
 Physician as depicted in Manasollasa
-
-by Sri B. S. Hebballi | 2001 | 75,801 words
 
 This thesis critically evaluates the role of physicians in Ayurvedic literature, particularly in King Somesvara's Manasollasa. It explores the connection between mind and body health, emphasizing the influence of diet and actions....
 

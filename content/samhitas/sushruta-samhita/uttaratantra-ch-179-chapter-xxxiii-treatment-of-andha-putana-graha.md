@@ -20,17 +20,11 @@ This chapter from **Sushruta Samhita (Uttaratantra)** represents the classical s
 
 ---
 
-
 Sushruta Samhita, Volume 6: Uttara-tantra
-
-by Kaviraj Kunja Lal Bhishagratna | 1916 | 113,078 words
 
 This current book, the Uttara-tantra (english translation) is the supplementary part of the Sushrutasamhita and deals various subjects such as diseases of the eye, treatment of fever, diarrhea, diseases resulting from superhuman influences, insanity, rules of health etc.
 
 The Sushruta Samhita is the most representative work of the Hindu system of m...
-
-Go directly to: 
-Footnotes.
 
 Chapter XXXIII - Treatment of Andha-putana-graha
 
@@ -46,13 +40,7 @@ The Mantra runs as follows:—
 
 “May the dreadful, brown-coloured, bald-headed, goddess Andha-putana, wearing a red-coloured garment be pleased to save this child.” 2.
 
-“May the dreadful, brown-coloured, bald-headed, goddess Andha-putana, wearing a red-coloured garment be pleased to save this child.” 2.
-
 Thus ends the thirty-third chapter in the Uttara-Tantra of the Sushruta Samhita which deals with the medical treatment of (an attack) by Andha-putana.
-
-Footnotes and references:
-
-[back to top]
 
 [1]:
 

@@ -20,17 +20,11 @@ This chapter from **Sushruta Samhita (Uttaratantra)** represents the classical s
 
 ---
 
-
 Sushruta Samhita, Volume 6: Uttara-tantra
-
-by Kaviraj Kunja Lal Bhishagratna | 1916 | 113,078 words
 
 This current book, the Uttara-tantra (english translation) is the supplementary part of the Sushrutasamhita and deals various subjects such as diseases of the eye, treatment of fever, diarrhea, diseases resulting from superhuman influences, insanity, rules of health etc.
 
 The Sushruta Samhita is the most representative work of the Hindu system of m...
-
-Go directly to: 
-Footnotes.
 
 Chapter XVIII - Preparations and medicinal measures for ocular affections in general
 
@@ -141,10 +135,6 @@ An Anjana should be prepared by collecting lampblack on a vessel made of Indian 
 One part each of Haritaki, Yashti-madhu with sixteen parts of Marica should be pounded and pasted together with cold water. It should then be made into Vartis and would be efficacious in all sorts of ocular affections. An experienced physician may with care and discretion prepare Pindanjanas with the drugs antidotal to the specific Dosha or Doshas involved in the case, in the manner of preparing the Rasa-kriya preparations. 50–51.
 
 Thus ends the eighteenth chapter of the Uttara-Tantra in the Sushruta Samhita whieh deals with the preparations and uses of the medicinal measures to be used in different ocular affections.
-
-Footnotes and references:
-
-[back to top]
 
 [1]:
 

@@ -9,19 +9,11 @@ date: "2026-08-17"
 description: "examines the evolutio."
 ---
 
-**Author / Source:** by Sulekha Biswas
-
-
-**Total Chapters/Sections:** 113
-
 ---
 
 ## 1. Abstract
 
-
 Minerals and Metals in Sanskrit literature
-
-by Sulekha Biswas | 1990 | 69,848 words
 
 This essay studies the presence of Minerals and Metals in Sanskrit literature over three millennia, from the Rigveda to Rasaratna-Samuccaya. It establishes that ancient Indians were knowledgeable about various minerals and metallurgy prior to the Harappan era, with literary references starting in the Rgveda. The thesis further examines the evolutio...
 
@@ -37,10 +29,7 @@ Taxila. Kautiliya Arthasastra describes the Mauryan political economy, the emerg
 
 ## 2. Acknowledgement
 
-
 Minerals and Metals in Sanskrit literature
-
-by Sulekha Biswas | 1990 | 69,848 words
 
 This essay studies the presence of Minerals and Metals in Sanskrit literature over three millennia, from the Rigveda to Rasaratna-Samuccaya. It establishes that ancient Indians were knowledgeable about various minerals and metallurgy prior to the Harappan era, with literary references starting in the Rgveda. The thesis further examines the evolutio...
 
@@ -52,10 +41,7 @@ I am grateful to the Kanpur University for allowing me to submit thesis for doct
 
 ## 3. Chapter 2 - Minerals and Metals in the Rigveda
 
-
 Minerals and Metals in Sanskrit literature
-
-by Sulekha Biswas | 1990 | 69,848 words
 
 This essay studies the presence of Minerals and Metals in Sanskrit literature over three millennia, from the Rigveda to Rasaratna-Samuccaya. It establishes that ancient Indians were knowledgeable about various minerals and metallurgy prior to the Harappan era, with literary references starting in the Rgveda. The thesis further examines the evolutio...
 
@@ -67,10 +53,7 @@ Chapter 2 - Minerals and Metals in the Rigveda
 
 ## 4. 1. Introduction to the Rigveda
 
-
 Minerals and Metals in Sanskrit literature
-
-by Sulekha Biswas | 1990 | 69,848 words
 
 This essay studies the presence of Minerals and Metals in Sanskrit literature over three millennia, from the Rigveda to Rasaratna-Samuccaya. It establishes that ancient Indians were knowledgeable about various minerals and metallurgy prior to the Harappan era, with literary references starting in the Rgveda. The thesis further examines the evolutio...
 
@@ -86,10 +69,7 @@ II-3 Panis or Harappan traders. The Rgvedic war was basically a civil war fought
 
 ## 5. 2. Transition from the Neolithic to the Chalcolithic Age
 
-
 Minerals and Metals in Sanskrit literature
-
-by Sulekha Biswas | 1990 | 69,848 words
 
 This essay studies the presence of Minerals and Metals in Sanskrit literature over three millennia, from the Rigveda to Rasaratna-Samuccaya. It establishes that ancient Indians were knowledgeable about various minerals and metallurgy prior to the Harappan era, with literary references starting in the Rgveda. The thesis further examines the evolutio...
 
@@ -103,10 +83,7 @@ II-4 recorded here that in the Pre-Harappan stratum of Kalibangan, chalcedony an
 
 ## 6. Introduction to Minerals and Metals in Sanskrit literatures
 
-
 Minerals and Metals in Sanskrit literature
-
-by Sulekha Biswas | 1990 | 69,848 words
 
 This essay studies the presence of Minerals and Metals in Sanskrit literature over three millennia, from the Rigveda to Rasaratna-Samuccaya. It establishes that ancient Indians were knowledgeable about various minerals and metallurgy prior to the Harappan era, with literary references starting in the Rgveda. The thesis further examines the evolutio...
 
@@ -124,10 +101,7 @@ I-4 (a) correlation of the literary evidences with the archaeological data and o
 
 ## 7. 3. Fire in Metallurgy
 
-
 Minerals and Metals in Sanskrit literature
-
-by Sulekha Biswas | 1990 | 69,848 words
 
 This essay studies the presence of Minerals and Metals in Sanskrit literature over three millennia, from the Rigveda to Rasaratna-Samuccaya. It establishes that ancient Indians were knowledgeable about various minerals and metallurgy prior to the Harappan era, with literary references starting in the Rgveda. The thesis further examines the evolutio...
 
@@ -143,10 +117,7 @@ II-6 The metallic gem thus obtained by the smelting or melting process was known
 
 ## 8. 4. The Meaning of Ayas
 
-
 Minerals and Metals in Sanskrit literature
-
-by Sulekha Biswas | 1990 | 69,848 words
 
 This essay studies the presence of Minerals and Metals in Sanskrit literature over three millennia, from the Rigveda to Rasaratna-Samuccaya. It establishes that ancient Indians were knowledgeable about various minerals and metallurgy prior to the Harappan era, with literary references starting in the Rgveda. The thesis further examines the evolutio...
 
@@ -160,10 +131,7 @@ II-7 and its alloys. In the subsequent Vedic literature, copper was mentioned as
 
 ## 9. 5. Some Metallic Objects
 
-
 Minerals and Metals in Sanskrit literature
-
-by Sulekha Biswas | 1990 | 69,848 words
 
 This essay studies the presence of Minerals and Metals in Sanskrit literature over three millennia, from the Rigveda to Rasaratna-Samuccaya. It establishes that ancient Indians were knowledgeable about various minerals and metallurgy prior to the Harappan era, with literary references starting in the Rgveda. The thesis further examines the evolutio...
 
@@ -179,10 +147,7 @@ II-9 (some metallic) pitchers (ahava, kalasa and kumbha) and some muscial instru
 
 ## 10. Chapter 3 - Minerals and Metals in the Vedic literature after Rigveda
 
-
 Minerals and Metals in Sanskrit literature
-
-by Sulekha Biswas | 1990 | 69,848 words
 
 This essay studies the presence of Minerals and Metals in Sanskrit literature over three millennia, from the Rigveda to Rasaratna-Samuccaya. It establishes that ancient Indians were knowledgeable about various minerals and metallurgy prior to the Harappan era, with literary references starting in the Rgveda. The thesis further examines the evolutio...
 
@@ -194,10 +159,7 @@ Chapter 3 - Minerals and Metals in the Vedic literature after Rigveda
 
 ## 11. 7. Concluding Remarks and References
 
-
 Minerals and Metals in Sanskrit literature
-
-by Sulekha Biswas | 1990 | 69,848 words
 
 This essay studies the presence of Minerals and Metals in Sanskrit literature over three millennia, from the Rigveda to Rasaratna-Samuccaya. It establishes that ancient Indians were knowledgeable about various minerals and metallurgy prior to the Harappan era, with literary references starting in the Rgveda. The thesis further examines the evolutio...
 
@@ -215,10 +177,7 @@ II-15 Stein, Aurel, 1942, A Survey of Ancient Sites along the Lost Sarasvati Riv
 
 ## 12. 6. Ornaments and Gems in the Rigveda
 
-
 Minerals and Metals in Sanskrit literature
-
-by Sulekha Biswas | 1990 | 69,848 words
 
 This essay studies the presence of Minerals and Metals in Sanskrit literature over three millennia, from the Rigveda to Rasaratna-Samuccaya. It establishes that ancient Indians were knowledgeable about various minerals and metallurgy prior to the Harappan era, with literary references starting in the Rgveda. The thesis further examines the evolutio...
 
@@ -234,10 +193,7 @@ II-11 The latter reference alludes to golden ear-ring and a necklace made of gem
 
 ## 13. 2. Minerals and Metals
 
-
 Minerals and Metals in Sanskrit literature
-
-by Sulekha Biswas | 1990 | 69,848 words
 
 This essay studies the presence of Minerals and Metals in Sanskrit literature over three millennia, from the Rigveda to Rasaratna-Samuccaya. It establishes that ancient Indians were knowledgeable about various minerals and metallurgy prior to the Harappan era, with literary references starting in the Rgveda. The thesis further examines the evolutio...
 
@@ -253,10 +209,7 @@ III-5 by roasting or smelting was well recognised, and agni or fire was qualifie
 
 ## 14. 1. Introduction to Vedic literature after Rigveda
 
-
 Minerals and Metals in Sanskrit literature
-
-by Sulekha Biswas | 1990 | 69,848 words
 
 This essay studies the presence of Minerals and Metals in Sanskrit literature over three millennia, from the Rigveda to Rasaratna-Samuccaya. It establishes that ancient Indians were knowledgeable about various minerals and metallurgy prior to the Harappan era, with literary references starting in the Rgveda. The thesis further examines the evolutio...
 
@@ -272,10 +225,7 @@ III-3 universe was only space. atmosphere and then water. Gradually it condensed
 
 ## 15. 3. Different Kinds of Ayas
 
-
 Minerals and Metals in Sanskrit literature
-
-by Sulekha Biswas | 1990 | 69,848 words
 
 This essay studies the presence of Minerals and Metals in Sanskrit literature over three millennia, from the Rigveda to Rasaratna-Samuccaya. It establishes that ancient Indians were knowledgeable about various minerals and metallurgy prior to the Harappan era, with literary references starting in the Rgveda. The thesis further examines the evolutio...
 
@@ -291,10 +241,7 @@ III-7 'One would join gold with the help of borax (lavana), silver with the help
 
 ## 16. 4. On Trapu or Tin
 
-
 Minerals and Metals in Sanskrit literature
-
-by Sulekha Biswas | 1990 | 69,848 words
 
 This essay studies the presence of Minerals and Metals in Sanskrit literature over three millennia, from the Rigveda to Rasaratna-Samuccaya. It establishes that ancient Indians were knowledgeable about various minerals and metallurgy prior to the Harappan era, with literary references starting in the Rgveda. The thesis further examines the evolutio...
 
@@ -308,10 +255,7 @@ III-8 Firstly, the word Kastira was used in the Indian literature during the per
 
 ## 17. 6. Ornamental and Barter Metals
 
-
 Minerals and Metals in Sanskrit literature
-
-by Sulekha Biswas | 1990 | 69,848 words
 
 This essay studies the presence of Minerals and Metals in Sanskrit literature over three millennia, from the Rigveda to Rasaratna-Samuccaya. It establishes that ancient Indians were knowledgeable about various minerals and metallurgy prior to the Harappan era, with literary references starting in the Rgveda. The thesis further examines the evolutio...
 
@@ -329,10 +273,7 @@ III-12 According to the Vedic Index, mana in Vedic literature. was a measure of 
 
 ## 18. 7. Iron Implements
 
-
 Minerals and Metals in Sanskrit literature
-
-by Sulekha Biswas | 1990 | 69,848 words
 
 This essay studies the presence of Minerals and Metals in Sanskrit literature over three millennia, from the Rigveda to Rasaratna-Samuccaya. It establishes that ancient Indians were knowledgeable about various minerals and metallurgy prior to the Harappan era, with literary references starting in the Rgveda. The thesis further examines the evolutio...
 
@@ -344,10 +285,7 @@ India entered the iron age after the Rgvedic era. Many metallic implements, prob
 
 ## 19. 5. On Lead
 
-
 Minerals and Metals in Sanskrit literature
-
-by Sulekha Biswas | 1990 | 69,848 words
 
 This essay studies the presence of Minerals and Metals in Sanskrit literature over three millennia, from the Rigveda to Rasaratna-Samuccaya. It establishes that ancient Indians were knowledgeable about various minerals and metallurgy prior to the Harappan era, with literary references starting in the Rgveda. The thesis further examines the evolutio...
 
@@ -359,10 +297,7 @@ On account of its low melting point (327°C and low latent heat of fusion (6 cal
 
 ## 20. 9. Mani in the Vedic Literature
 
-
 Minerals and Metals in Sanskrit literature
-
-by Sulekha Biswas | 1990 | 69,848 words
 
 This essay studies the presence of Minerals and Metals in Sanskrit literature over three millennia, from the Rigveda to Rasaratna-Samuccaya. It establishes that ancient Indians were knowledgeable about various minerals and metallurgy prior to the Harappan era, with literary references starting in the Rgveda. The thesis further examines the evolutio...
 
@@ -376,10 +311,7 @@ III-18 the origin of sankha and Krsana, as well as their uses as mani and supern
 
 ## 21. 8. Potteries and other Inorganic Materials
 
-
 Minerals and Metals in Sanskrit literature
-
-by Sulekha Biswas | 1990 | 69,848 words
 
 This essay studies the presence of Minerals and Metals in Sanskrit literature over three millennia, from the Rigveda to Rasaratna-Samuccaya. It establishes that ancient Indians were knowledgeable about various minerals and metallurgy prior to the Harappan era, with literary references starting in the Rgveda. The thesis further examines the evolutio...
 
@@ -395,10 +327,7 @@ III-16 nature and yet imparts salty taste to the entire mass of water: saindhava
 
 ## 22. Chapter 4 - Materials and Concepts in Panini’s Ashtadhyayi
 
-
 Minerals and Metals in Sanskrit literature
-
-by Sulekha Biswas | 1990 | 69,848 words
 
 This essay studies the presence of Minerals and Metals in Sanskrit literature over three millennia, from the Rigveda to Rasaratna-Samuccaya. It establishes that ancient Indians were knowledgeable about various minerals and metallurgy prior to the Harappan era, with literary references starting in the Rgveda. The thesis further examines the evolutio...
 
@@ -410,10 +339,7 @@ Chapter 4 - Materials and Concepts in Panini’s Ashtadhyayi
 
 ## 23. 3. Extractive Metallurgy
 
-
 Minerals and Metals in Sanskrit literature
-
-by Sulekha Biswas | 1990 | 69,848 words
 
 This essay studies the presence of Minerals and Metals in Sanskrit literature over three millennia, from the Rigveda to Rasaratna-Samuccaya. It establishes that ancient Indians were knowledgeable about various minerals and metallurgy prior to the Harappan era, with literary references starting in the Rgveda. The thesis further examines the evolutio...
 
@@ -427,10 +353,7 @@ IV-4 pipe and pair of bellows with nozzles have been found in the Parthian strat
 
 ## 24. 10. Concluding Remarks and References
 
-
 Minerals and Metals in Sanskrit literature
-
-by Sulekha Biswas | 1990 | 69,848 words
 
 This essay studies the presence of Minerals and Metals in Sanskrit literature over three millennia, from the Rigveda to Rasaratna-Samuccaya. It establishes that ancient Indians were knowledgeable about various minerals and metallurgy prior to the Harappan era, with literary references starting in the Rgveda. The thesis further examines the evolutio...
 
@@ -454,10 +377,7 @@ III-24 Macdonell, A. A. and Keith, A. B., 1912, 1958, Vedic Index of Names and S
 
 ## 25. 2. Mine and Mineral Engineering
 
-
 Minerals and Metals in Sanskrit literature
-
-by Sulekha Biswas | 1990 | 69,848 words
 
 This essay studies the presence of Minerals and Metals in Sanskrit literature over three millennia, from the Rigveda to Rasaratna-Samuccaya. It establishes that ancient Indians were knowledgeable about various minerals and metallurgy prior to the Harappan era, with literary references starting in the Rgveda. The thesis further examines the evolutio...
 
@@ -471,10 +391,7 @@ IV-3 Utilisation of big-size rocks containing specific minerals involved size-re
 
 ## 26. 1. Introduction to Panini’s Ashtadhyayi
 
-
 Minerals and Metals in Sanskrit literature
-
-by Sulekha Biswas | 1990 | 69,848 words
 
 This essay studies the presence of Minerals and Metals in Sanskrit literature over three millennia, from the Rigveda to Rasaratna-Samuccaya. It establishes that ancient Indians were knowledgeable about various minerals and metallurgy prior to the Harappan era, with literary references starting in the Rgveda. The thesis further examines the evolutio...
 
@@ -488,10 +405,7 @@ IV-2 by Panini himself. We may conclude that Panini lived around 500 B.C. near t
 
 ## 27. 4. Minerals and Metals (in the Ashtadhyayi)
 
-
 Minerals and Metals in Sanskrit literature
-
-by Sulekha Biswas | 1990 | 69,848 words
 
 This essay studies the presence of Minerals and Metals in Sanskrit literature over three millennia, from the Rigveda to Rasaratna-Samuccaya. It establishes that ancient Indians were knowledgeable about various minerals and metallurgy prior to the Harappan era, with literary references starting in the Rgveda. The thesis further examines the evolutio...
 
@@ -509,10 +423,7 @@ IV-7 time. Whether Kamsa meant brass (copper-zinc alloy) also, is not known. Pos
 
 ## 28. 7. Concept of Unit Operations
 
-
 Minerals and Metals in Sanskrit literature
-
-by Sulekha Biswas | 1990 | 69,848 words
 
 This essay studies the presence of Minerals and Metals in Sanskrit literature over three millennia, from the Rigveda to Rasaratna-Samuccaya. It establishes that ancient Indians were knowledgeable about various minerals and metallurgy prior to the Harappan era, with literary references starting in the Rgveda. The thesis further examines the evolutio...
 
@@ -532,10 +443,7 @@ IV-15 Wire-mesh, fibre-mesh or cloth was used as a filtering medium. Such a step
 
 ## 29. 6. Shatamana to Karshapana
 
-
 Minerals and Metals in Sanskrit literature
-
-by Sulekha Biswas | 1990 | 69,848 words
 
 This essay studies the presence of Minerals and Metals in Sanskrit literature over three millennia, from the Rigveda to Rasaratna-Samuccaya. It establishes that ancient Indians were knowledgeable about various minerals and metallurgy prior to the Harappan era, with literary references starting in the Rgveda. The thesis further examines the evolutio...
 
@@ -553,10 +461,7 @@ IV-11 We have mentioned Panini's explanation as to how the word raupva for silve
 
 ## 30. 5. Gold and Coins (in the Ashtadhyayi)
 
-
 Minerals and Metals in Sanskrit literature
-
-by Sulekha Biswas | 1990 | 69,848 words
 
 This essay studies the presence of Minerals and Metals in Sanskrit literature over three millennia, from the Rigveda to Rasaratna-Samuccaya. It establishes that ancient Indians were knowledgeable about various minerals and metallurgy prior to the Harappan era, with literary references starting in the Rgveda. The thesis further examines the evolutio...
 
@@ -570,10 +475,7 @@ IV-8 referred to several derivative terms based on niska: dviniska (two niska or
 
 ## 31. 9. References
 
-
 Minerals and Metals in Sanskrit literature
-
-by Sulekha Biswas | 1990 | 69,848 words
 
 This essay studies the presence of Minerals and Metals in Sanskrit literature over three millennia, from the Rigveda to Rasaratna-Samuccaya. It establishes that ancient Indians were knowledgeable about various minerals and metallurgy prior to the Harappan era, with literary references starting in the Rgveda. The thesis further examines the evolutio...
 
@@ -585,10 +487,7 @@ Agrawala, V.S., 1953, India as known to Panini, University of Lucknow. Allchin, 
 
 ## 32. 8. Technical Concepts in Ashtadhyavi
 
-
 Minerals and Metals in Sanskrit literature
-
-by Sulekha Biswas | 1990 | 69,848 words
 
 This essay studies the presence of Minerals and Metals in Sanskrit literature over three millennia, from the Rigveda to Rasaratna-Samuccaya. It establishes that ancient Indians were knowledgeable about various minerals and metallurgy prior to the Harappan era, with literary references starting in the Rgveda. The thesis further examines the evolutio...
 
@@ -602,10 +501,7 @@ IV-16 The Rasa-Sastras of the Post-Christian era adopted the word sattva to mean
 
 ## 33. Chapter 5 - Minerals and Metals in Kautiliya Arthashastra
 
-
 Minerals and Metals in Sanskrit literature
-
-by Sulekha Biswas | 1990 | 69,848 words
 
 This essay studies the presence of Minerals and Metals in Sanskrit literature over three millennia, from the Rigveda to Rasaratna-Samuccaya. It establishes that ancient Indians were knowledgeable about various minerals and metallurgy prior to the Harappan era, with literary references starting in the Rgveda. The thesis further examines the evolutio...
 
@@ -617,10 +513,7 @@ Chapter 5 - Minerals and Metals in Kautiliya Arthashastra
 
 ## 34. 3. Indian Topography of the Mineral Resources
 
-
 Minerals and Metals in Sanskrit literature
-
-by Sulekha Biswas | 1990 | 69,848 words
 
 This essay studies the presence of Minerals and Metals in Sanskrit literature over three millennia, from the Rigveda to Rasaratna-Samuccaya. It establishes that ancient Indians were knowledgeable about various minerals and metallurgy prior to the Harappan era, with literary references starting in the Rgveda. The thesis further examines the evolutio...
 
@@ -634,10 +527,7 @@ V-5 the east viz, Anga and Kalinga (Assam and Orissa) (2.2.15). Gems and pearls 
 
 ## 35. 2. Mines and Metals in the Society
 
-
 Minerals and Metals in Sanskrit literature
-
-by Sulekha Biswas | 1990 | 69,848 words
 
 This essay studies the presence of Minerals and Metals in Sanskrit literature over three millennia, from the Rigveda to Rasaratna-Samuccaya. It establishes that ancient Indians were knowledgeable about various minerals and metallurgy prior to the Harappan era, with literary references starting in the Rgveda. The thesis further examines the evolutio...
 
@@ -651,10 +541,7 @@ V-4 have primordial importance. It has been stated more explicitly (7.14.25) tha
 
 ## 36. 1. Introduction to Kautiliya Arthashastra
 
-
 Minerals and Metals in Sanskrit literature
-
-by Sulekha Biswas | 1990 | 69,848 words
 
 This essay studies the presence of Minerals and Metals in Sanskrit literature over three millennia, from the Rigveda to Rasaratna-Samuccaya. It establishes that ancient Indians were knowledgeable about various minerals and metallurgy prior to the Harappan era, with literary references starting in the Rgveda. The thesis further examines the evolutio...
 
@@ -670,10 +557,7 @@ V-3 of men. From the word vrtti is obviously derived vartta, the three-fold econ
 
 ## 37. 5. Gem Minerals mentioned in the Arthashastra
 
-
 Minerals and Metals in Sanskrit literature
-
-by Sulekha Biswas | 1990 | 69,848 words
 
 This essay studies the presence of Minerals and Metals in Sanskrit literature over three millennia, from the Rigveda to Rasaratna-Samuccaya. It establishes that ancient Indians were knowledgeable about various minerals and metallurgy prior to the Harappan era, with literary references starting in the Rgveda. The thesis further examines the evolutio...
 
@@ -697,10 +581,7 @@ V-12 and hematite on the fringe?), sasyaka blue copper sulphate, ahi cchatraka f
 
 ## 38. 6. Non-gem Minerals and Materials mentioned in the Arthashastra
 
-
 Minerals and Metals in Sanskrit literature
-
-by Sulekha Biswas | 1990 | 69,848 words
 
 This essay studies the presence of Minerals and Metals in Sanskrit literature over three millennia, from the Rigveda to Rasaratna-Samuccaya. It establishes that ancient Indians were knowledgeable about various minerals and metallurgy prior to the Harappan era, with literary references starting in the Rgveda. The thesis further examines the evolutio...
 
@@ -716,10 +597,7 @@ V-14 of great commercial importance were metallic ores from which useful metals 
 
 ## 39. 4. The Director of Mines and his Duties
 
-
 Minerals and Metals in Sanskrit literature
-
-by Sulekha Biswas | 1990 | 69,848 words
 
 This essay studies the presence of Minerals and Metals in Sanskrit literature over three millennia, from the Rigveda to Rasaratna-Samuccaya. It establishes that ancient Indians were knowledgeable about various minerals and metallurgy prior to the Harappan era, with literary references starting in the Rgveda. The thesis further examines the evolutio...
 
@@ -733,10 +611,7 @@ V-6 The Arthasastra advised the Director of Mines to concentrate on the more acc
 
 ## 40. 7. Metallic Ores mentioned in the Arthashastra
 
-
 Minerals and Metals in Sanskrit literature
-
-by Sulekha Biswas | 1990 | 69,848 words
 
 This essay studies the presence of Minerals and Metals in Sanskrit literature over three millennia, from the Rigveda to Rasaratna-Samuccaya. It establishes that ancient Indians were knowledgeable about various minerals and metallurgy prior to the Harappan era, with literary references starting in the Rgveda. The thesis further examines the evolutio...
 
@@ -756,10 +631,7 @@ V-18 in metal-content' (2.12.7). This phenomenon is due to the fact that in most
 
 ## 41. 8. Precious Metals: Gold, Silver and their Alloys
 
-
 Minerals and Metals in Sanskrit literature
-
-by Sulekha Biswas | 1990 | 69,848 words
 
 This essay studies the presence of Minerals and Metals in Sanskrit literature over three millennia, from the Rigveda to Rasaratna-Samuccaya. It establishes that ancient Indians were knowledgeable about various minerals and metallurgy prior to the Harappan era, with literary references starting in the Rgveda. The thesis further examines the evolutio...
 
@@ -775,10 +647,7 @@ V-20 A firm and a removable enclosing (petaka) was made in cases of plating, coa
 
 ## 42. 9. The process of Minting Coins
 
-
 Minerals and Metals in Sanskrit literature
-
-by Sulekha Biswas | 1990 | 69,848 words
 
 This essay studies the presence of Minerals and Metals in Sanskrit literature over three millennia, from the Rigveda to Rasaratna-Samuccaya. It establishes that ancient Indians were knowledgeable about various minerals and metallurgy prior to the Harappan era, with literary references starting in the Rgveda. The thesis further examines the evolutio...
 
@@ -792,10 +661,7 @@ V-21 The Mint Master of laksanadhyaksah was supposed to supervise minting (2.12.
 
 ## 43. 11. On Vaikrintaka, Vritta and Tikshna
 
-
 Minerals and Metals in Sanskrit literature
-
-by Sulekha Biswas | 1990 | 69,848 words
 
 This essay studies the presence of Minerals and Metals in Sanskrit literature over three millennia, from the Rigveda to Rasaratna-Samuccaya. It establishes that ancient Indians were knowledgeable about various minerals and metallurgy prior to the Harappan era, with literary references starting in the Rgveda. The thesis further examines the evolutio...
 
@@ -809,10 +675,7 @@ V-23 evidently the Vedic name for pig or wrought iron; thus, the three (tu ri 2.
 
 ## 44. 14. Concluding Remarks and References
 
-
 Minerals and Metals in Sanskrit literature
-
-by Sulekha Biswas | 1990 | 69,848 words
 
 This essay studies the presence of Minerals and Metals in Sanskrit literature over three millennia, from the Rigveda to Rasaratna-Samuccaya. It establishes that ancient Indians were knowledgeable about various minerals and metallurgy prior to the Harappan era, with literary references starting in the Rgveda. The thesis further examines the evolutio...
 
@@ -834,10 +697,7 @@ V-31 Roy, S.K., 1946, Glimpses into India's Heritage in Geology, Mining and Meta
 
 ## 45. 12. Iron and Steel Armoury
 
-
 Minerals and Metals in Sanskrit literature
-
-by Sulekha Biswas | 1990 | 69,848 words
 
 This essay studies the presence of Minerals and Metals in Sanskrit literature over three millennia, from the Rigveda to Rasaratna-Samuccaya. It establishes that ancient Indians were knowledgeable about various minerals and metallurgy prior to the Harappan era, with literary references starting in the Rgveda. The thesis further examines the evolutio...
 
@@ -853,10 +713,7 @@ V-25 Since casting of iron needed high temperature, and was not invented in anci
 
 ## 46. 13. Tula mana desa kala Pautavam
 
-
 Minerals and Metals in Sanskrit literature
-
-by Sulekha Biswas | 1990 | 69,848 words
 
 This essay studies the presence of Minerals and Metals in Sanskrit literature over three millennia, from the Rigveda to Rasaratna-Samuccaya. It establishes that ancient Indians were knowledgeable about various minerals and metallurgy prior to the Harappan era, with literary references starting in the Rgveda. The thesis further examines the evolutio...
 
@@ -870,10 +727,7 @@ V-26 Standard weights were made of iron or metallic stone from Magadha or Mekala
 
 ## 47. 10. The Lohadhyaksha (the Director of Metals)
 
-
 Minerals and Metals in Sanskrit literature
-
-by Sulekha Biswas | 1990 | 69,848 words
 
 This essay studies the presence of Minerals and Metals in Sanskrit literature over three millennia, from the Rigveda to Rasaratna-Samuccaya. It establishes that ancient Indians were knowledgeable about various minerals and metallurgy prior to the Harappan era, with literary references starting in the Rgveda. The thesis further examines the evolutio...
 
@@ -887,10 +741,7 @@ V-22 had always been known in India as trapu. The other name Kastira came into v
 
 ## 48. Chapter 6 - Minerals and Metals in the Indian Epics
 
-
 Minerals and Metals in Sanskrit literature
-
-by Sulekha Biswas | 1990 | 69,848 words
 
 This essay studies the presence of Minerals and Metals in Sanskrit literature over three millennia, from the Rigveda to Rasaratna-Samuccaya. It establishes that ancient Indians were knowledgeable about various minerals and metallurgy prior to the Harappan era, with literary references starting in the Rgveda. The thesis further examines the evolutio...
 
@@ -904,10 +755,7 @@ Chapter 6 - Minerals and Metals in the Indian Epics
 
 ## 49. 1. The Background of the Mahabharata Epic Story
 
-
 Minerals and Metals in Sanskrit literature
-
-by Sulekha Biswas | 1990 | 69,848 words
 
 This essay studies the presence of Minerals and Metals in Sanskrit literature over three millennia, from the Rigveda to Rasaratna-Samuccaya. It establishes that ancient Indians were knowledgeable about various minerals and metallurgy prior to the Harappan era, with literary references starting in the Rgveda. The thesis further examines the evolutio...
 
@@ -923,10 +771,7 @@ VI-3 by Lord Krishna. Underwater expedition has shown fortification wall of lime
 
 ## 50. 2. The Mahabharata in the Light of the Archaeological Evidences
 
-
 Minerals and Metals in Sanskrit literature
-
-by Sulekha Biswas | 1990 | 69,848 words
 
 This essay studies the presence of Minerals and Metals in Sanskrit literature over three millennia, from the Rigveda to Rasaratna-Samuccaya. It establishes that ancient Indians were knowledgeable about various minerals and metallurgy prior to the Harappan era, with literary references starting in the Rgveda. The thesis further examines the evolutio...
 
@@ -942,10 +787,7 @@ VI-5 during the in Bhagwanpura and Hastinpura OCP and early PGW era. As a matter
 
 ## 51. 5. The Mahabharata—Post-Christian Era Additions
 
-
 Minerals and Metals in Sanskrit literature
-
-by Sulekha Biswas | 1990 | 69,848 words
 
 This essay studies the presence of Minerals and Metals in Sanskrit literature over three millennia, from the Rigveda to Rasaratna-Samuccaya. It establishes that ancient Indians were knowledgeable about various minerals and metallurgy prior to the Harappan era, with literary references starting in the Rgveda. The thesis further examines the evolutio...
 
@@ -959,10 +801,7 @@ VI-13 in yellow, was likened to a mani encased in gold (5.92.52; 12.45.14) atasi
 
 ## 52. 6. Background of the Ramayana
 
-
 Minerals and Metals in Sanskrit literature
-
-by Sulekha Biswas | 1990 | 69,848 words
 
 This essay studies the presence of Minerals and Metals in Sanskrit literature over three millennia, from the Rigveda to Rasaratna-Samuccaya. It establishes that ancient Indians were knowledgeable about various minerals and metallurgy prior to the Harappan era, with literary references starting in the Rgveda. The thesis further examines the evolutio...
 
@@ -974,10 +813,7 @@ The above discussion on the Mahabharata clearly shows that its references to the
 
 ## 53. 4. Metals in the Mahabharata
 
-
 Minerals and Metals in Sanskrit literature
-
-by Sulekha Biswas | 1990 | 69,848 words
 
 This essay studies the presence of Minerals and Metals in Sanskrit literature over three millennia, from the Rigveda to Rasaratna-Samuccaya. It establishes that ancient Indians were knowledgeable about various minerals and metallurgy prior to the Harappan era, with literary references starting in the Rgveda. The thesis further examines the evolutio...
 
@@ -991,10 +827,7 @@ VI-12 as milking and drinking vessels (2.45.26; 2.49.3; 15.34.13-14). Sometimes 
 
 ## 54. 3. The Mahabharata—500-100 B.C. Additions
 
-
 Minerals and Metals in Sanskrit literature
-
-by Sulekha Biswas | 1990 | 69,848 words
 
 This essay studies the presence of Minerals and Metals in Sanskrit literature over three millennia, from the Rigveda to Rasaratna-Samuccaya. It establishes that ancient Indians were knowledgeable about various minerals and metallurgy prior to the Harappan era, with literary references starting in the Rgveda. The thesis further examines the evolutio...
 
@@ -1016,10 +849,7 @@ VImuch earlier before the first century A. D. (when Panna mine was exploited), t
 
 ## 55. 8. References
 
-
 Minerals and Metals in Sanskrit literature
-
-by Sulekha Biswas | 1990 | 69,848 words
 
 This essay studies the presence of Minerals and Metals in Sanskrit literature over three millennia, from the Rigveda to Rasaratna-Samuccaya. It establishes that ancient Indians were knowledgeable about various minerals and metallurgy prior to the Harappan era, with literary references starting in the Rgveda. The thesis further examines the evolutio...
 
@@ -1033,10 +863,7 @@ Ramayana of Valmiki, Ed. Raghuvira, Banaras, 1951. Rao, S.R., 1982, The Decipher
 
 ## 56. 7. The Buddhist Literature Sources (regarding the two epics)
 
-
 Minerals and Metals in Sanskrit literature
-
-by Sulekha Biswas | 1990 | 69,848 words
 
 This essay studies the presence of Minerals and Metals in Sanskrit literature over three millennia, from the Rigveda to Rasaratna-Samuccaya. It establishes that ancient Indians were knowledgeable about various minerals and metallurgy prior to the Harappan era, with literary references starting in the Rgveda. The thesis further examines the evolutio...
 
@@ -1050,10 +877,7 @@ VI-15 The Buddhist literature mentioned seven kinds of jewels or ratna suvanna (
 
 ## 57. Chapter 7 - A millennium of Ratnashastra (gemmology) literature in India
 
-
 Minerals and Metals in Sanskrit literature
-
-by Sulekha Biswas | 1990 | 69,848 words
 
 This essay studies the presence of Minerals and Metals in Sanskrit literature over three millennia, from the Rigveda to Rasaratna-Samuccaya. It establishes that ancient Indians were knowledgeable about various minerals and metallurgy prior to the Harappan era, with literary references starting in the Rgveda. The thesis further examines the evolutio...
 
@@ -1065,10 +889,7 @@ Chapter 7 - A millennium of Ratnashastra (gemmology) literature in India
 
 ## 58. 1. Introduction to Ratna-shastra (gemmology) literature
 
-
 Minerals and Metals in Sanskrit literature
-
-by Sulekha Biswas | 1990 | 69,848 words
 
 This essay studies the presence of Minerals and Metals in Sanskrit literature over three millennia, from the Rigveda to Rasaratna-Samuccaya. It establishes that ancient Indians were knowledgeable about various minerals and metallurgy prior to the Harappan era, with literary references starting in the Rgveda. The thesis further examines the evolutio...
 
@@ -1084,10 +905,7 @@ VII-3 TABLE VII - 1 SOME INDIAN TEXTS CONTAINING REFERENCES TO GEMMOLOGY (RATNAS
 
 ## 59. 4.1. Description of Diamonds (Vajra)
 
-
 Minerals and Metals in Sanskrit literature
-
-by Sulekha Biswas | 1990 | 69,848 words
 
 This essay studies the presence of Minerals and Metals in Sanskrit literature over three millennia, from the Rigveda to Rasaratna-Samuccaya. It establishes that ancient Indians were knowledgeable about various minerals and metallurgy prior to the Harappan era, with literary references starting in the Rgveda. The thesis further examines the evolutio...
 
@@ -1107,10 +925,7 @@ VII-13 specific gravity was recognised as an important consideration. Agastimata
 
 ## 60. 3. The Scope of Ratna-shastra (Gemmology)
 
-
 Minerals and Metals in Sanskrit literature
-
-by Sulekha Biswas | 1990 | 69,848 words
 
 This essay studies the presence of Minerals and Metals in Sanskrit literature over three millennia, from the Rigveda to Rasaratna-Samuccaya. It establishes that ancient Indians were knowledgeable about various minerals and metallurgy prior to the Harappan era, with literary references starting in the Rgveda. The thesis further examines the evolutio...
 
@@ -1124,10 +939,7 @@ The theory of origin (utpatti) of the gems was shrouded. in the extravagant emph
 
 ## 61. 4.2. Description of Corundum, Ruby and Sapphire
 
-
 Minerals and Metals in Sanskrit literature
-
-by Sulekha Biswas | 1990 | 69,848 words
 
 This essay studies the presence of Minerals and Metals in Sanskrit literature over three millennia, from the Rigveda to Rasaratna-Samuccaya. It establishes that ancient Indians were knowledgeable about various minerals and metallurgy prior to the Harappan era, with literary references starting in the Rgveda. The thesis further examines the evolutio...
 
@@ -1151,10 +963,7 @@ VII-18 indranila was mentioned by Kautilya as sravanmadhva (AS 2.11.31) which ha
 
 ## 62. 2. Categorisation of Gems (Ratna)
 
-
 Minerals and Metals in Sanskrit literature
-
-by Sulekha Biswas | 1990 | 69,848 words
 
 This essay studies the presence of Minerals and Metals in Sanskrit literature over three millennia, from the Rigveda to Rasaratna-Samuccaya. It establishes that ancient Indians were knowledgeable about various minerals and metallurgy prior to the Harappan era, with literary references starting in the Rgveda. The thesis further examines the evolutio...
 
@@ -1176,10 +985,7 @@ Name English Sanskrit Lapis Lazuli/ Ultra- -marine/Rajavarta/ Lajhward (Glass ha
 
 ## 63. 4.5. Description of Topaz (Pushparaga)
 
-
 Minerals and Metals in Sanskrit literature
-
-by Sulekha Biswas | 1990 | 69,848 words
 
 This essay studies the presence of Minerals and Metals in Sanskrit literature over three millennia, from the Rigveda to Rasaratna-Samuccaya. It establishes that ancient Indians were knowledgeable about various minerals and metallurgy prior to the Harappan era, with literary references starting in the Rgveda. The thesis further examines the evolutio...
 
@@ -1195,10 +1001,7 @@ VII-30 name. Pliny confused the nomenclature by calling this not-so-hard yellow 
 
 ## 64. 4.3. Gem Minerals Containing Beryllium
 
-
 Minerals and Metals in Sanskrit literature
-
-by Sulekha Biswas | 1990 | 69,848 words
 
 This essay studies the presence of Minerals and Metals in Sanskrit literature over three millennia, from the Rigveda to Rasaratna-Samuccaya. It establishes that ancient Indians were knowledgeable about various minerals and metallurgy prior to the Harappan era, with literary references starting in the Rgveda. The thesis further examines the evolutio...
 
@@ -1220,10 +1023,7 @@ VII-22 represent golden beryl, a gem softer than chrysoberyl but occurring with 
 
 ## 65. 4.7. Description of Quartz
 
-
 Minerals and Metals in Sanskrit literature
-
-by Sulekha Biswas | 1990 | 69,848 words
 
 This essay studies the presence of Minerals and Metals in Sanskrit literature over three millennia, from the Rigveda to Rasaratna-Samuccaya. It establishes that ancient Indians were knowledgeable about various minerals and metallurgy prior to the Harappan era, with literary references starting in the Rgveda. The thesis further examines the evolutio...
 
@@ -1245,10 +1045,7 @@ VII-41 bhisma with rock-crystal, whereas Samma (1984:70) thinks that 'it is prob
 
 ## 66. 4.4. Description of Vaidurya and Marakata
 
-
 Minerals and Metals in Sanskrit literature
-
-by Sulekha Biswas | 1990 | 69,848 words
 
 This essay studies the presence of Minerals and Metals in Sanskrit literature over three millennia, from the Rigveda to Rasaratna-Samuccaya. It establishes that ancient Indians were knowledgeable about various minerals and metallurgy prior to the Harappan era, with literary references starting in the Rgveda. The thesis further examines the evolutio...
 
@@ -1274,10 +1071,7 @@ VII-28.E Skanda Purana categorised the emeralds as those with quality and those 
 
 ## 67. 4.8. Chalcedony Group of Gems
 
-
 Minerals and Metals in Sanskrit literature
-
-by Sulekha Biswas | 1990 | 69,848 words
 
 This essay studies the presence of Minerals and Metals in Sanskrit literature over three millennia, from the Rigveda to Rasaratna-Samuccaya. It establishes that ancient Indians were knowledgeable about various minerals and metallurgy prior to the Harappan era, with literary references starting in the Rgveda. The thesis further examines the evolutio...
 
@@ -1303,10 +1097,7 @@ VII-47 Tagore (1879: 512-513) has quoted a Sanskrit text in which jyotirasa has 
 
 ## 68. 4.6. Description of Zircon, Garnet and Tourmaline
 
-
 Minerals and Metals in Sanskrit literature
-
-by Sulekha Biswas | 1990 | 69,848 words
 
 This essay studies the presence of Minerals and Metals in Sanskrit literature over three millennia, from the Rigveda to Rasaratna-Samuccaya. It establishes that ancient Indians were knowledgeable about various minerals and metallurgy prior to the Harappan era, with literary references starting in the Rgveda. The thesis further examines the evolutio...
 
@@ -1334,10 +1125,7 @@ VII-37 been quoted before. On the other hand, the text of Rasa-RatnaSamuccaya ha
 
 ## 69. 4.9. Description of Jade
 
-
 Minerals and Metals in Sanskrit literature
-
-by Sulekha Biswas | 1990 | 69,848 words
 
 This essay studies the presence of Minerals and Metals in Sanskrit literature over three millennia, from the Rigveda to Rasaratna-Samuccaya. It establishes that ancient Indians were knowledgeable about various minerals and metallurgy prior to the Harappan era, with literary references starting in the Rgveda. The thesis further examines the evolutio...
 
@@ -1353,10 +1141,7 @@ VII-48 due to iron and manganese. Apple-green or emerald green jadeite is so col
 
 ## 70. 4.12. Description of Coral (Pravala or Vidruma)
 
-
 Minerals and Metals in Sanskrit literature
-
-by Sulekha Biswas | 1990 | 69,848 words
 
 This essay studies the presence of Minerals and Metals in Sanskrit literature over three millennia, from the Rigveda to Rasaratna-Samuccaya. It establishes that ancient Indians were knowledgeable about various minerals and metallurgy prior to the Harappan era, with literary references starting in the Rgveda. The thesis further examines the evolutio...
 
@@ -1378,10 +1163,7 @@ VII-61 Coral beads have been used by the religious people of India as rosaries t
 
 ## 71. 4.11. Two Softer Blue Gems of the Ancient World
 
-
 Minerals and Metals in Sanskrit literature
-
-by Sulekha Biswas | 1990 | 69,848 words
 
 This essay studies the presence of Minerals and Metals in Sanskrit literature over three millennia, from the Rigveda to Rasaratna-Samuccaya. It establishes that ancient Indians were knowledgeable about various minerals and metallurgy prior to the Harappan era, with literary references starting in the Rgveda. The thesis further examines the evolutio...
 
@@ -1405,10 +1187,7 @@ VII-57 A very striking fact is that Arthasastra, otherwise more or less complete
 
 ## 72. 4.10. Feldspar Group of Gems
 
-
 Minerals and Metals in Sanskrit literature
-
-by Sulekha Biswas | 1990 | 69,848 words
 
 This essay studies the presence of Minerals and Metals in Sanskrit literature over three millennia, from the Rigveda to Rasaratna-Samuccaya. It establishes that ancient Indians were knowledgeable about various minerals and metallurgy prior to the Harappan era, with literary references starting in the Rgveda. The thesis further examines the evolutio...
 
@@ -1426,10 +1205,7 @@ VII-51 We may briefly comment on fine yellowd sh-green or golden yellow Chrysoli
 
 ## 73. 4.14. The Oyster Pearl (Shukti-mukta)
 
-
 Minerals and Metals in Sanskrit literature
-
-by Sulekha Biswas | 1990 | 69,848 words
 
 This essay studies the presence of Minerals and Metals in Sanskrit literature over three millennia, from the Rigveda to Rasaratna-Samuccaya. It establishes that ancient Indians were knowledgeable about various minerals and metallurgy prior to the Harappan era, with literary references starting in the Rgveda. The thesis further examines the evolutio...
 
@@ -1451,10 +1227,7 @@ VII-71 Like diamond, ruby etc., pearls were also classified into four 'castes': 
 
 ## 74. 4.13. Description of Pearl (Mukta)
 
-
 Minerals and Metals in Sanskrit literature
-
-by Sulekha Biswas | 1990 | 69,848 words
 
 This essay studies the presence of Minerals and Metals in Sanskrit literature over three millennia, from the Rigveda to Rasaratna-Samuccaya. It establishes that ancient Indians were knowledgeable about various minerals and metallurgy prior to the Harappan era, with literary references starting in the Rgveda. The thesis further examines the evolutio...
 
@@ -1480,10 +1253,7 @@ VII-67 flash of a polished sword' (Ratna-pariksha 62, Agastimata 92-93). Varaham
 
 ## 75. 5. The ancient Pearl Market in India
 
-
 Minerals and Metals in Sanskrit literature
-
-by Sulekha Biswas | 1990 | 69,848 words
 
 This essay studies the presence of Minerals and Metals in Sanskrit literature over three millennia, from the Rigveda to Rasaratna-Samuccaya. It establishes that ancient Indians were knowledgeable about various minerals and metallurgy prior to the Harappan era, with literary references starting in the Rgveda. The thesis further examines the evolutio...
 
@@ -1503,10 +1273,7 @@ VII-75 504 strings and 2 cubits made it vijayachhanda, the same name having been
 
 ## 76. 7. Concluding Remarks and References
 
-
 Minerals and Metals in Sanskrit literature
-
-by Sulekha Biswas | 1990 | 69,848 words
 
 This essay studies the presence of Minerals and Metals in Sanskrit literature over three millennia, from the Rigveda to Rasaratna-Samuccaya. It establishes that ancient Indians were knowledgeable about various minerals and metallurgy prior to the Harappan era, with literary references starting in the Rgveda. The thesis further examines the evolutio...
 
@@ -1530,10 +1297,7 @@ VII-82 Shi lappadikaram (The Ankle Bracelet) by Prince Ilango Adigal, translated
 
 ## 77. 6. Origin of Pearls: The Mythological Theory
 
-
 Minerals and Metals in Sanskrit literature
-
-by Sulekha Biswas | 1990 | 69,848 words
 
 This essay studies the presence of Minerals and Metals in Sanskrit literature over three millennia, from the Rigveda to Rasaratna-Samuccaya. It establishes that ancient Indians were knowledgeable about various minerals and metallurgy prior to the Harappan era, with literary references starting in the Rgveda. The thesis further examines the evolutio...
 
@@ -1547,10 +1311,7 @@ VII-76 The best pearls which (originated and still) orginate in water drops fall
 
 ## 78. 1. Introduction to ancient Indian alchemy and Atomism
 
-
 Minerals and Metals in Sanskrit literature
-
-by Sulekha Biswas | 1990 | 69,848 words
 
 This essay studies the presence of Minerals and Metals in Sanskrit literature over three millennia, from the Rigveda to Rasaratna-Samuccaya. It establishes that ancient Indians were knowledgeable about various minerals and metallurgy prior to the Harappan era, with literary references starting in the Rgveda. The thesis further examines the evolutio...
 
@@ -1568,10 +1329,7 @@ VIII-4 the Indian expertise on minerals and metals remained isolated from the th
 
 ## 79. 3. Minerals and Metals according to Yajnavalkya and Patanjali
 
-
 Minerals and Metals in Sanskrit literature
-
-by Sulekha Biswas | 1990 | 69,848 words
 
 This essay studies the presence of Minerals and Metals in Sanskrit literature over three millennia, from the Rigveda to Rasaratna-Samuccaya. It establishes that ancient Indians were knowledgeable about various minerals and metallurgy prior to the Harappan era, with literary references starting in the Rgveda. The thesis further examines the evolutio...
 
@@ -1585,10 +1343,7 @@ VIII-9 Patanjali wrote on metallurgy and his Lohasastra has been partially quote
 
 ## 80. Chapter 8 - Non-gem Minerals and Metals in Rasa-shastra
 
-
 Minerals and Metals in Sanskrit literature
-
-by Sulekha Biswas | 1990 | 69,848 words
 
 This essay studies the presence of Minerals and Metals in Sanskrit literature over three millennia, from the Rigveda to Rasaratna-Samuccaya. It establishes that ancient Indians were knowledgeable about various minerals and metallurgy prior to the Harappan era, with literary references starting in the Rgveda. The thesis further examines the evolutio...
 
@@ -1602,10 +1357,7 @@ Chapter 8 - Non-gem Minerals and Metals in Rasa-shastra
 
 ## 81. 4. Patanjali’s Successor: Nagarjuna (the alchemist)
 
-
 Minerals and Metals in Sanskrit literature
-
-by Sulekha Biswas | 1990 | 69,848 words
 
 This essay studies the presence of Minerals and Metals in Sanskrit literature over three millennia, from the Rigveda to Rasaratna-Samuccaya. It establishes that ancient Indians were knowledgeable about various minerals and metallurgy prior to the Harappan era, with literary references starting in the Rgveda. The thesis further examines the evolutio...
 
@@ -1625,10 +1377,7 @@ VIII-13 In his Rasa-Ratnakara, Nagarjuna dwelt on several other topics related t
 
 ## 82. 2. Introduction to the Samhitas of Charaka and Sushruta
 
-
 Minerals and Metals in Sanskrit literature
-
-by Sulekha Biswas | 1990 | 69,848 words
 
 This essay studies the presence of Minerals and Metals in Sanskrit literature over three millennia, from the Rigveda to Rasaratna-Samuccaya. It establishes that ancient Indians were knowledgeable about various minerals and metallurgy prior to the Harappan era, with literary references starting in the Rgveda. The thesis further examines the evolutio...
 
@@ -1646,10 +1395,7 @@ VIII-7 Caraka Samhita is based on an earlier work of Agnivesa, whose teacher Atr
 
 ## 83. 5. Materials discussed in the Yavanajataka
 
-
 Minerals and Metals in Sanskrit literature
-
-by Sulekha Biswas | 1990 | 69,848 words
 
 This essay studies the presence of Minerals and Metals in Sanskrit literature over three millennia, from the Rigveda to Rasaratna-Samuccaya. It establishes that ancient Indians were knowledgeable about various minerals and metallurgy prior to the Harappan era, with literary references starting in the Rgveda. The thesis further examines the evolutio...
 
@@ -1665,10 +1411,7 @@ VIII-1 Some of the dull materials or adhamya dhatu listed were: manahsila (red a
 
 ## 84. 6. Minerals and Metals in the Gupta Era Literatures
 
-
 Minerals and Metals in Sanskrit literature
-
-by Sulekha Biswas | 1990 | 69,848 words
 
 This essay studies the presence of Minerals and Metals in Sanskrit literature over three millennia, from the Rigveda to Rasaratna-Samuccaya. It establishes that ancient Indians were knowledgeable about various minerals and metallurgy prior to the Harappan era, with literary references starting in the Rgveda. The thesis further examines the evolutio...
 
@@ -1682,10 +1425,7 @@ VIIIWe may recall that at the turn of the Christian era, the Roman traders and w
 
 ## 85. 8. Non-gem materials in the Varahamihira’s Brihatsamhita
 
-
 Minerals and Metals in Sanskrit literature
-
-by Sulekha Biswas | 1990 | 69,848 words
 
 This essay studies the presence of Minerals and Metals in Sanskrit literature over three millennia, from the Rigveda to Rasaratna-Samuccaya. It establishes that ancient Indians were knowledgeable about various minerals and metallurgy prior to the Harappan era, with literary references starting in the Rgveda. The thesis further examines the evolutio...
 
@@ -1705,10 +1445,7 @@ VIII-24 The Padartha-dharma-samgraha of Prasastapada was probably composed in th
 
 ## 86. 7. Materials discussed in the Angavijja and Amarakosha
 
-
 Minerals and Metals in Sanskrit literature
-
-by Sulekha Biswas | 1990 | 69,848 words
 
 This essay studies the presence of Minerals and Metals in Sanskrit literature over three millennia, from the Rigveda to Rasaratna-Samuccaya. It establishes that ancient Indians were knowledgeable about various minerals and metallurgy prior to the Harappan era, with literary references starting in the Rgveda. The thesis further examines the evolutio...
 
@@ -1726,10 +1463,7 @@ VIII-20 was made in the Gupta era. Tin had a new name vanga (Bengal); it is sign
 
 ## 87. 10. Texts of the Tantric Alchemy Period (7th-13th Century A.D.)
 
-
 Minerals and Metals in Sanskrit literature
-
-by Sulekha Biswas | 1990 | 69,848 words
 
 This essay studies the presence of Minerals and Metals in Sanskrit literature over three millennia, from the Rigveda to Rasaratna-Samuccaya. It establishes that ancient Indians were knowledgeable about various minerals and metallurgy prior to the Harappan era, with literary references starting in the Rgveda. The thesis further examines the evolutio...
 
@@ -1749,10 +1483,7 @@ VIII-33 dealt, in its eighth chapter, with the examination of the earth and the 
 
 ## 88. 11. Rasarnava—A Brahminical Tantra
 
-
 Minerals and Metals in Sanskrit literature
-
-by Sulekha Biswas | 1990 | 69,848 words
 
 This essay studies the presence of Minerals and Metals in Sanskrit literature over three millennia, from the Rigveda to Rasaratna-Samuccaya. It establishes that ancient Indians were knowledgeable about various minerals and metallurgy prior to the Harappan era, with literary references starting in the Rgveda. The thesis further examines the evolutio...
 
@@ -1768,10 +1499,7 @@ VIII-35 Zinc ore (rasaka) was stated to impart gold-like colour to copper as wel
 
 ## 89. 9. Introduction to the Rasa-shastra texts
 
-
 Minerals and Metals in Sanskrit literature
-
-by Sulekha Biswas | 1990 | 69,848 words
 
 This essay studies the presence of Minerals and Metals in Sanskrit literature over three millennia, from the Rigveda to Rasaratna-Samuccaya. It establishes that ancient Indians were knowledgeable about various minerals and metallurgy prior to the Harappan era, with literary references starting in the Rgveda. The thesis further examines the evolutio...
 
@@ -1793,10 +1521,7 @@ VIII-29 of - 1300 1600 A.D. period has been labelled as the era of Indian Iatro-
 
 ## 90. 13. References
 
-
 Minerals and Metals in Sanskrit literature
-
-by Sulekha Biswas | 1990 | 69,848 words
 
 This essay studies the presence of Minerals and Metals in Sanskrit literature over three millennia, from the Rigveda to Rasaratna-Samuccaya. It establishes that ancient Indians were knowledgeable about various minerals and metallurgy prior to the Harappan era, with literary references starting in the Rgveda. The thesis further examines the evolutio...
 
@@ -1818,10 +1543,7 @@ VIII-44 Sikdar, J.C., 1970, Jaina Atomic Theory, in Indian Journal of History of
 
 ## 91. Chapter 9 - The Rasaratna-samuccaya—a pinnacle in the Indian iatro-chemistry
 
-
 Minerals and Metals in Sanskrit literature
-
-by Sulekha Biswas | 1990 | 69,848 words
 
 This essay studies the presence of Minerals and Metals in Sanskrit literature over three millennia, from the Rigveda to Rasaratna-Samuccaya. It establishes that ancient Indians were knowledgeable about various minerals and metallurgy prior to the Harappan era, with literary references starting in the Rgveda. The thesis further examines the evolutio...
 
@@ -1833,10 +1555,7 @@ Chapter 9 - The Rasaratna-samuccaya—a pinnacle in the Indian iatro-chemistry
 
 ## 92. 12. Iatro-Chemical Texts
 
-
 Minerals and Metals in Sanskrit literature
-
-by Sulekha Biswas | 1990 | 69,848 words
 
 This essay studies the presence of Minerals and Metals in Sanskrit literature over three millennia, from the Rigveda to Rasaratna-Samuccaya. It establishes that ancient Indians were knowledgeable about various minerals and metallurgy prior to the Harappan era, with literary references starting in the Rgveda. The thesis further examines the evolutio...
 
@@ -1852,10 +1571,7 @@ VIII-38 Rasakalpa mentioned maharasas, uparasas and rasas. . It referred to chul
 
 ## 93. 3. Decsription of the Eight Maharasas
 
-
 Minerals and Metals in Sanskrit literature
-
-by Sulekha Biswas | 1990 | 69,848 words
 
 This essay studies the presence of Minerals and Metals in Sanskrit literature over three millennia, from the Rigveda to Rasaratna-Samuccaya. It establishes that ancient Indians were knowledgeable about various minerals and metallurgy prior to the Harappan era, with literary references starting in the Rgveda. The thesis further examines the evolutio...
 
@@ -1873,10 +1589,7 @@ IX-8 Capala was defined as a material which melts quickly like vanga or tin when
 
 ## 94. 2. Gem Minerals discussed in the Rasaratna-samuccaya
 
-
 Minerals and Metals in Sanskrit literature
-
-by Sulekha Biswas | 1990 | 69,848 words
 
 This essay studies the presence of Minerals and Metals in Sanskrit literature over three millennia, from the Rigveda to Rasaratna-Samuccaya. It establishes that ancient Indians were knowledgeable about various minerals and metallurgy prior to the Harappan era, with literary references starting in the Rgveda. The thesis further examines the evolutio...
 
@@ -1890,10 +1603,7 @@ IX-5 Vaikranta has been described (Rasaratna-samuccaya 2.53-2.60) as 'possessing
 
 ## 95. 1. Technical Terms in the Rasaratna-samuccaya
 
-
 Minerals and Metals in Sanskrit literature
-
-by Sulekha Biswas | 1990 | 69,848 words
 
 This essay studies the presence of Minerals and Metals in Sanskrit literature over three millennia, from the Rigveda to Rasaratna-Samuccaya. It establishes that ancient Indians were knowledgeable about various minerals and metallurgy prior to the Harappan era, with literary references starting in the Rgveda. The thesis further examines the evolutio...
 
@@ -1913,10 +1623,7 @@ IX-4 and Rasaratna-samuccaya contains a wide-ranging list of implements A equipm
 
 ## 96. 4. Decsription of the Uparasa Materials
 
-
 Minerals and Metals in Sanskrit literature
-
-by Sulekha Biswas | 1990 | 69,848 words
 
 This essay studies the presence of Minerals and Metals in Sanskrit literature over three millennia, from the Rigveda to Rasaratna-Samuccaya. It establishes that ancient Indians were knowledgeable about various minerals and metallurgy prior to the Harappan era, with literary references starting in the Rgveda. The thesis further examines the evolutio...
 
@@ -1936,10 +1643,7 @@ IX-12 Somadeva etc., cannot escape, just like a man bound with an ardent love of
 
 ## 97. 5. A Note on some Salts and Natural Products
 
-
 Minerals and Metals in Sanskrit literature
-
-by Sulekha Biswas | 1990 | 69,848 words
 
 This essay studies the presence of Minerals and Metals in Sanskrit literature over three millennia, from the Rigveda to Rasaratna-Samuccaya. It establishes that ancient Indians were knowledgeable about various minerals and metallurgy prior to the Harappan era, with literary references starting in the Rgveda. The thesis further examines the evolutio...
 
@@ -1955,10 +1659,7 @@ IX-14 from rocks and mines. Several nineteenth century literatures described the
 
 ## 98. 6. Metals and Alloys discussed in Rasaratna-samuccaya
 
-
 Minerals and Metals in Sanskrit literature
-
-by Sulekha Biswas | 1990 | 69,848 words
 
 This essay studies the presence of Minerals and Metals in Sanskrit literature over three millennia, from the Rigveda to Rasaratna-Samuccaya. It establishes that ancient Indians were knowledgeable about various minerals and metallurgy prior to the Harappan era, with literary references starting in the Rgveda. The thesis further examines the evolutio...
 
@@ -1976,10 +1677,7 @@ IX-17 Vartaloha has been described as kamsya arka riti loha ahinanam tat vartalo
 
 ## 99. 9. Some Tentative Interpretations (of the Rasaratna-samuccaya)
 
-
 Minerals and Metals in Sanskrit literature
-
-by Sulekha Biswas | 1990 | 69,848 words
 
 This essay studies the presence of Minerals and Metals in Sanskrit literature over three millennia, from the Rigveda to Rasaratna-Samuccaya. It establishes that ancient Indians were knowledgeable about various minerals and metallurgy prior to the Harappan era, with literary references starting in the Rgveda. The thesis further examines the evolutio...
 
@@ -2005,10 +1703,7 @@ RASARATNASAMUCHCHAYA IX-30 prathayah munda ' toca ca kanta ca viprakaramayah smr
 
 ## 100. 10. References
 
-
 Minerals and Metals in Sanskrit literature
-
-by Sulekha Biswas | 1990 | 69,848 words
 
 This essay studies the presence of Minerals and Metals in Sanskrit literature over three millennia, from the Rigveda to Rasaratna-Samuccaya. It establishes that ancient Indians were knowledgeable about various minerals and metallurgy prior to the Harappan era, with literary references starting in the Rgveda. The thesis further examines the evolutio...
 
@@ -2020,10 +1715,7 @@ Biswas, Arun Kumar, 1987, Rasaratnasamuccaya and Mineral Processing State-off-ar
 
 ## 101. 8. Ferrous Materials discussed in Rasaratna-samuccaya
 
-
 Minerals and Metals in Sanskrit literature
-
-by Sulekha Biswas | 1990 | 69,848 words
 
 This essay studies the presence of Minerals and Metals in Sanskrit literature over three millennia, from the Rigveda to Rasaratna-Samuccaya. It establishes that ancient Indians were knowledgeable about various minerals and metallurgy prior to the Harappan era, with literary references starting in the Rgveda. The thesis further examines the evolutio...
 
@@ -2041,10 +1733,7 @@ IX-23 organo-leptic compounds, as gandham himgum vyajitaca tiktatam nimbakalkah 
 
 ## 102. 1. Archaeology and History
 
-
 Minerals and Metals in Sanskrit literature
-
-by Sulekha Biswas | 1990 | 69,848 words
 
 This essay studies the presence of Minerals and Metals in Sanskrit literature over three millennia, from the Rigveda to Rasaratna-Samuccaya. It establishes that ancient Indians were knowledgeable about various minerals and metallurgy prior to the Harappan era, with literary references starting in the Rgveda. The thesis further examines the evolutio...
 
@@ -2062,10 +1751,7 @@ X-4 ferrous metallurgy, the use of mineral-based medicines and the technological
 
 ## 103. 2. Scientific, Concepts Related to Material Science
 
-
 Minerals and Metals in Sanskrit literature
-
-by Sulekha Biswas | 1990 | 69,848 words
 
 This essay studies the presence of Minerals and Metals in Sanskrit literature over three millennia, from the Rigveda to Rasaratna-Samuccaya. It establishes that ancient Indians were knowledgeable about various minerals and metallurgy prior to the Harappan era, with literary references starting in the Rgveda. The thesis further examines the evolutio...
 
@@ -2079,10 +1765,7 @@ X-5 variety of gems is caused by the characteristic qualities of the earth, and 
 
 ## 104. Chapter 10 - Concluding Remarks
 
-
 Minerals and Metals in Sanskrit literature
-
-by Sulekha Biswas | 1990 | 69,848 words
 
 This essay studies the presence of Minerals and Metals in Sanskrit literature over three millennia, from the Rigveda to Rasaratna-Samuccaya. It establishes that ancient Indians were knowledgeable about various minerals and metallurgy prior to the Harappan era, with literary references starting in the Rgveda. The thesis further examines the evolutio...
 
@@ -2094,10 +1777,7 @@ Chapter 10 - Concluding Remarks
 
 ## 105. 4. Concluding Remarks and References
 
-
 Minerals and Metals in Sanskrit literature
-
-by Sulekha Biswas | 1990 | 69,848 words
 
 This essay studies the presence of Minerals and Metals in Sanskrit literature over three millennia, from the Rigveda to Rasaratna-Samuccaya. It establishes that ancient Indians were knowledgeable about various minerals and metallurgy prior to the Harappan era, with literary references starting in the Rgveda. The thesis further examines the evolutio...
 
@@ -2113,10 +1793,7 @@ X-16 Chattopadhyaya, Debiprasad, 1986, History of Science and Technology in Anci
 
 ## 106. 3. Scientific Attitude in Ancient India
 
-
 Minerals and Metals in Sanskrit literature
-
-by Sulekha Biswas | 1990 | 69,848 words
 
 This essay studies the presence of Minerals and Metals in Sanskrit literature over three millennia, from the Rigveda to Rasaratna-Samuccaya. It establishes that ancient Indians were knowledgeable about various minerals and metallurgy prior to the Harappan era, with literary references starting in the Rgveda. The thesis further examines the evolutio...
 
@@ -2142,10 +1819,7 @@ X-13 'I have performed the aforesaid experiments with my own hands and have seen
 
 ## 107. Appendix B (2) - Technical terms in the other Vedic literatures
 
-
 Minerals and Metals in Sanskrit literature
-
-by Sulekha Biswas | 1990 | 69,848 words
 
 This essay studies the presence of Minerals and Metals in Sanskrit literature over three millennia, from the Rigveda to Rasaratna-Samuccaya. It establishes that ancient Indians were knowledgeable about various minerals and metallurgy prior to the Harappan era, with literary references starting in the Rgveda. The thesis further examines the evolutio...
 
@@ -2161,10 +1835,7 @@ BHASTRA leather bag or bellow BHUTAVIDYA physics MEHAJA silver RAKTIKA 1/100 of 
 
 ## 108. 7. Rasa and Rasaka according to Rasaratna-samuccaya
 
-
 Minerals and Metals in Sanskrit literature
-
-by Sulekha Biswas | 1990 | 69,848 words
 
 This essay studies the presence of Minerals and Metals in Sanskrit literature over three millennia, from the Rigveda to Rasaratna-Samuccaya. It establishes that ancient Indians were knowledgeable about various minerals and metallurgy prior to the Harappan era, with literary references starting in the Rgveda. The thesis further examines the evolutio...
 
@@ -2182,10 +1853,7 @@ IX-20 A good variety of ritika or riti was stated to be heavy, soft, yellow, res
 
 ## 109. Appendix A - Scientific information on the Minerals used
 
-
 Minerals and Metals in Sanskrit literature
-
-by Sulekha Biswas | 1990 | 69,848 words
 
 This essay studies the presence of Minerals and Metals in Sanskrit literature over three millennia, from the Rigveda to Rasaratna-Samuccaya. It establishes that ancient Indians were knowledgeable about various minerals and metallurgy prior to the Harappan era, with literary references starting in the Rgveda. The thesis further examines the evolutio...
 
@@ -2237,10 +1905,7 @@ A-20 Jargon Jargon is a name given to the colourless or smoky zircons of Sri Lan
 
 ## 110. Appendix D - Technical words in Kautiliya Arthashastra
 
-
 Minerals and Metals in Sanskrit literature
-
-by Sulekha Biswas | 1990 | 69,848 words
 
 This essay studies the presence of Minerals and Metals in Sanskrit literature over three millennia, from the Rigveda to Rasaratna-Samuccaya. It establishes that ancient Indians were knowledgeable about various minerals and metallurgy prior to the Harappan era, with literary references starting in the Rgveda. The thesis further examines the evolutio...
 
@@ -2272,10 +1937,7 @@ D.11 SAUVARCALA borax 2.15.15 SAUVARNIKA the state goldsmith 2.13.2; 2.14.1 and 
 
 ## 111. Appendix B (1) - Words related to Minerals and Metal in the Rigveda
 
-
 Minerals and Metals in Sanskrit literature
-
-by Sulekha Biswas | 1990 | 69,848 words
 
 This essay studies the presence of Minerals and Metals in Sanskrit literature over three millennia, from the Rigveda to Rasaratna-Samuccaya. It establishes that ancient Indians were knowledgeable about various minerals and metallurgy prior to the Harappan era, with literary references starting in the Rgveda. The thesis further examines the evolutio...
 
@@ -2303,10 +1965,7 @@ B-9 HI RANYA 1.22.5, 1.33.8, 1.43.5, 1.122.2, 1.162.16, 2.33.9, 3.34.9, 4.17.11,
 
 ## 112. Appendix C - Technical terms mentioned in Panini’s Ashtadhyayi
 
-
 Minerals and Metals in Sanskrit literature
-
-by Sulekha Biswas | 1990 | 69,848 words
 
 This essay studies the presence of Minerals and Metals in Sanskrit literature over three millennia, from the Rigveda to Rasaratna-Samuccaya. It establishes that ancient Indians were knowledgeable about various minerals and metallurgy prior to the Harappan era, with literary references starting in the Rgveda. The thesis further examines the evolutio...
 
@@ -2358,10 +2017,7 @@ C-20 SAMBANDHA SARA SALVA binding or joining together core, pith, solid interior
 
 ## 113. Appendix E - Technical words in the post-Christian era Indian literature
 
-
 Minerals and Metals in Sanskrit literature
-
-by Sulekha Biswas | 1990 | 69,848 words
 
 This essay studies the presence of Minerals and Metals in Sanskrit literature over three millennia, from the Rigveda to Rasaratna-Samuccaya. It establishes that ancient Indians were knowledgeable about various minerals and metallurgy prior to the Harappan era, with literary references starting in the Rgveda. The thesis further examines the evolutio...
 

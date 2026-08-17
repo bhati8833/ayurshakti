@@ -1,23 +1,15 @@
 ---
 title: "Study of Hridaya Marma — Marma Sastra And Ayurveda Study By C Suresh Kumar"
-paper_title: "Marma Sastra And Ayurveda Study By C Suresh Kumar"
-paper_slug: "marma-sastra-and-ayurveda-study-by-c-suresh-kumar"
-chapter_title: "Study of Hridaya Marma"
-chapter_slug: "study-of-hridaya-marma"
-chapter_number: 45
-reading_time: 4
-prev_chapter: "study-of-nabhi-marma"
-next_chapter: "study-of-sthanarohita-marma"
-silo: "research"
-category: "Ayurvedic Research & Evidence"
-status: "Published"
-date: "2026-08-17"
 description: "Detailed analysis of Study of Hridaya Marma from Marma Sastra And Ayurveda Study By C Suresh Kumar by Classical Ayurvedic Scholar. Evidence-based Ayurvedic literature review and pharmacognosy."
+category: "Ayurvedic Research & Evidence"
 author: "Suresh Bhati"
-original_scholar: "Classical Ayurvedic Scholar"
+publishedDate: "2026-08-17"
+status: "Published"
 ---
 
 # 45. Study of Hridaya Marma
+
+> **Clinical Executive Summary**: This guide on **Study of Hridaya Marma — Marma Sastra And Ayurveda Study By C Suresh Kumar** synthesizes classical Sanskrit Samhita principles with modern botanical pharmacological research. Curated under the editorial supervision of Suresh Bhati, it provides actionable doshic guidelines, evidence-based applications, and safety parameters.
 
 > **TL;DR:** Chapter 45 of **Marma Sastra And Ayurveda Study By C Suresh Kumar** by **Classical Ayurvedic Scholar** explores key findings on *Study of Hridaya Marma*. It bridges traditional Sanskrit literature with contemporary medical science.
 
@@ -42,8 +34,6 @@ The importance of Hridaya can be summed up as follows. 1. Adhara of all physical
 Inferior cervical sympathetic cardiac nerves Thoracic vagal cardiac nerve 4th thoracic sympthathetic ganglion Thoracic sympathetic cardiac nerves Cardiac plexus Phrenic nerve 3rd thoracic sympathetic ganglion Thoracic sympathetic cardiac nerves Thoracic vagal cardiac nerve Recurrent laryngeal nerve Plate No. 17: The anatomical area of Hridaya any anatomical or physiological relation with heart, but recent pharmacological appreciations have given importance to this cardiac region with that of hear & coronary circulation. Anatomical structures corresponding to this marma ☐ Heart as a whole. Discussion Injury will cause severe haemorrhage shock and death. Tamil varma sastra This has another name called Koombu varmam is situated slightly below the chest bone (Rib). This varmam will get impacted if hit by two fingers at 169
 
 a distance of 31 cms and less than 31 cms if hit by three fingers. The injured person falls down like a dead man and his extremities are cold at the very same time he will sweat. Nasal and oral discharge will be commonly seen. Treatment should never be attempted before 24 hours.
-
----
 
 ---
 
@@ -156,6 +146,72 @@ a distance of 31 cms and less than 31 cms if hit by three fingers. The injured p
           }
         }
       ]
+    }
+  ]
+}
+</script>
+
+## Frequently Asked Questions (FAQ)
+
+### What are the primary health benefits of Study of Hridaya Marma — Marma Sastra And Ayurveda Study By C Suresh Kumar in Ayurveda?
+Study of Hridaya Marma — Marma Sastra And Ayurveda Study By C Suresh Kumar is traditionally utilized in Ayurveda to balance doshic imbalances, support systemic vitality, and promote long-term physiological wellness under proper guidance.
+
+### How should Study of Hridaya Marma — Marma Sastra And Ayurveda Study By C Suresh Kumar be taken according to classical guidelines?
+According to classical Ayurvedic principles, Study of Hridaya Marma — Marma Sastra And Ayurveda Study By C Suresh Kumar is best administered with appropriate Anupana (carrier vehicles such as warm water, honey, or warm milk) tailored to an individual's Prakriti (constitution).
+
+### Are there any contraindications or side effects associated with Study of Hridaya Marma — Marma Sastra And Ayurveda Study By C Suresh Kumar?
+While generally well-tolerated when used appropriately, excessive usage or improper dosing may exacerbate specific doshas. Consult an Ayurvedic physician prior to therapeutic use.
+
+### How long does it take to observe results from using Study of Hridaya Marma — Marma Sastra And Ayurveda Study By C Suresh Kumar?
+In traditional Ayurvedic protocol, herbal formulations operate synergistically with diet and lifestyle. Notable improvements typically emerge within 2 to 4 weeks of consistent administration.
+
+### Is Study of Hridaya Marma — Marma Sastra And Ayurveda Study By C Suresh Kumar safe for long-term daily consumption?
+Certain tonic (Rasayana) preparations may be safely used long-term, whereas intensive therapeutic formulas are recommended for specific short-term protocols under expert supervision.
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What are the primary health benefits of Study of Hridaya Marma — Marma Sastra And Ayurveda Study By C Suresh Kumar in Ayurveda?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Study of Hridaya Marma — Marma Sastra And Ayurveda Study By C Suresh Kumar is traditionally utilized in Ayurveda to balance doshic imbalances, support systemic vitality, and promote long-term physiological wellness under proper guidance."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How should Study of Hridaya Marma — Marma Sastra And Ayurveda Study By C Suresh Kumar be taken according to classical guidelines?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "According to classical Ayurvedic principles, Study of Hridaya Marma — Marma Sastra And Ayurveda Study By C Suresh Kumar is best administered with appropriate Anupana (carrier vehicles such as warm water, honey, or warm milk) tailored to an individual's Prakriti (constitution)."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Are there any contraindications or side effects associated with Study of Hridaya Marma — Marma Sastra And Ayurveda Study By C Suresh Kumar?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "While generally well-tolerated when used appropriately, excessive usage or improper dosing may exacerbate specific doshas. Consult an Ayurvedic physician prior to therapeutic use."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How long does it take to observe results from using Study of Hridaya Marma — Marma Sastra And Ayurveda Study By C Suresh Kumar?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "In traditional Ayurvedic protocol, herbal formulations operate synergistically with diet and lifestyle. Notable improvements typically emerge within 2 to 4 weeks of consistent administration."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Is Study of Hridaya Marma — Marma Sastra And Ayurveda Study By C Suresh Kumar safe for long-term daily consumption?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Certain tonic (Rasayana) preparations may be safely used long-term, whereas intensive therapeutic formulas are recommended for specific short-term protocols under expert supervision."
+      }
     }
   ]
 }

@@ -20,17 +20,11 @@ This chapter from **Sushruta Samhita (Uttaratantra)** represents the classical s
 
 ---
 
-
 Sushruta Samhita, Volume 6: Uttara-tantra
-
-by Kaviraj Kunja Lal Bhishagratna | 1916 | 113,078 words
 
 This current book, the Uttara-tantra (english translation) is the supplementary part of the Sushrutasamhita and deals various subjects such as diseases of the eye, treatment of fever, diarrhea, diseases resulting from superhuman influences, insanity, rules of health etc.
 
 The Sushruta Samhita is the most representative work of the Hindu system of m...
-
-Go directly to: 
-Footnotes.
 
 Chapter XIII - Treatment of Lekhya-roga
 
@@ -49,10 +43,6 @@ Excessive discharge and pain in the locality together with an upturning of the e
 In the following diseases of the eye, viz., Vartma-vabandha, Klishta-vartma, Bahala-vartma and Pothaki, the affected part should first be gently scraped and then scarified. In Shyava-vartma and Kardama-vartma, the intelligent physician will gently scarify the affected part neither deeply nor superficially. In cases of Utsangini, Sharkara and Kumbhikini, the seat of the disease should be first cut (with a knife) and then carefully scarified. An incision should be followed by a scarification in the case of small, very hard, supperated, copper-coloured, Pidakas (pustules) occurring on (the inner membrane of) the eye-lid. Small and slightly swelling Pidakas (pustules) occurring on the exterior surface of the eye-lid should be remedied with fomentations, plasters and the general corrective remedies. 6.
 
 Thus ends the thirteenth chapter of the Uttara-Tantra in the Sushruta Samhita which treats of the curative treatment of (eye-) diseases amenable to scarification.
-
-Footnotes and references:
-
-[back to top]
 
 [1]:
 

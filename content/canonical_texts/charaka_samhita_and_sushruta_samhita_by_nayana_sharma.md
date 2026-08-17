@@ -9,19 +9,11 @@ date: "2026-08-17"
 description: "study on the Charaka Samhita and the Sushruta Samhita, both important and authentic Sanskrit texts belonging to Ayurveda: the ancient Indian science of medicine and nature."
 ---
 
-**Author / Source:** by Nayana Sharma
-
-
-**Total Chapters/Sections:** 95
-
 ---
 
 ## 1. Abstract
 
-
 Charaka Samhita and Sushruta Samhita
-
-by Nayana Sharma | 2015 | 139,725 words
 
 This page relates ‘Abstract’ of the study on the Charaka Samhita and the Sushruta Samhita, both important and authentic Sanskrit texts belonging to Ayurveda: the ancient Indian science of medicine and nature. The text anaylsis its medical and social aspects, and various topics such as diseases and health-care, the physician, their training and specialisation, interaction with society, educational training, etc.
 
@@ -41,10 +33,7 @@ Our texts reveal an open-minded perception of society. Friendliness and compassi
 
 ## 2. Preface
 
-
 Charaka Samhita and Sushruta Samhita
-
-by Nayana Sharma | 2015 | 139,725 words
 
 This page relates ‘Preface’ of the study on the Charaka Samhita and the Sushruta Samhita, both important and authentic Sanskrit texts belonging to Ayurveda: the ancient Indian science of medicine and nature. The text anaylsis its medical and social aspects, and various topics such as diseases and health-care, the physician, their training and specialisation, interaction with society, educational training, etc.
 
@@ -66,10 +55,7 @@ Nayana Sharma
 
 ## 3. Chapter 1
 
-
 Charaka Samhita and Sushruta Samhita
-
-by Nayana Sharma | 2015 | 139,725 words
 
 This page relates ‘Chapter 1’ of the study on the Charaka Samhita and the Sushruta Samhita, both important and authentic Sanskrit texts belonging to Ayurveda: the ancient Indian science of medicine and nature. The text anaylsis its medical and social aspects, and various topics such as diseases and health-care, the physician, their training and specialisation, interaction with society, educational training, etc.
 
@@ -81,15 +67,9 @@ Chapter 1
 
 ## 4. The Saṃhitās (Introduction)
 
-
 Charaka Samhita and Sushruta Samhita
 
-by Nayana Sharma | 2015 | 139,725 words
-
 This page relates ‘Samhitas (Introduction)’ of the study on the Charaka Samhita and the Sushruta Samhita, both important and authentic Sanskrit texts belonging to Ayurveda: the ancient Indian science of medicine and nature. The text anaylsis its medical and social aspects, and various topics such as diseases and health-care, the physician, their training and specialisation, interaction with society, educational training, etc.
-
-Go directly to: 
-Footnotes.
 
 The Saṃhitās (Introduction)
 
@@ -214,10 +194,6 @@ Certain cultural indicators also point to a later date for Suśruta Saṃhitā:
 2. Reference to the worship of Kṛṣṇa[72] and Rāma[73] can be understood as evidence of the existence of the Vāsudev sect that is assigned to the 1st -4th centuries CE.[74]
 
 On the basis of the above evidence occurring in Suśruta one may conclude that it is a work later than Caraka in its extant form.
-
-Footnotes and references:
-
-[back to top]
 
 [1]:
 
@@ -519,23 +495,13 @@ P.V. Sharma, Introduction to Acharya Jadavji Trikamji and Acharya Narayanram “
 
 ## 5. The identity of Agniveśa
 
-
 Charaka Samhita and Sushruta Samhita
 
-by Nayana Sharma | 2015 | 139,725 words
-
 This page relates ‘identity of Agnivesha’ of the study on the Charaka Samhita and the Sushruta Samhita, both important and authentic Sanskrit texts belonging to Ayurveda: the ancient Indian science of medicine and nature. The text anaylsis its medical and social aspects, and various topics such as diseases and health-care, the physician, their training and specialisation, interaction with society, educational training, etc.
-
-Go directly to: 
-Footnotes.
 
 The identity of Agniveśa
 
 The historical identity of Agniveśa is also shrouded in uncertainty. The foremost among Ātreya’s students, is said to have been the son of Agni, the god of fire.[1] He is also known as Vahniveśa[2] and Hutāśaveśa;[3] he is quoted by the name Hutāśa in Madhava’s Nidāna.[4] Both the names have the same literal meaning of Agniveśa or “one with fire garment.” Hence, according to Chattopadhyaya, Agniveśa could have been used as a descriptive epithet rather than as a proper name of an individual authority.[5] The original Agniveśa-tantra which is now non-extant was in existence for a long time as later writers like Vāgbhaṭa (who mentions Agniveśa as one of his sources), Jejjaṭa (a pupil of Vāgbhaṭa), Tisaṭa (son of Vāgbhaṭa), Cakrapāṇidatta (in the 11th century) and others including Sivadāsa-Sen (15th century), who have quoted verses from it.[6] Thus, it is argued that the original text was available to Dṛḍhabala as well-only a certain portion of the redacted text of Caraka was not available.[7]
-
-Footnotes and references:
-
-[back to top]
 
 [1]:
 
@@ -569,15 +535,9 @@ Gulabkunverba, The Caraka Saṃhitā, Vol. I, p.71.
 
 ## 6. Introduction to ancient Indian medicine
 
-
 Charaka Samhita and Sushruta Samhita
 
-by Nayana Sharma | 2015 | 139,725 words
-
 This page relates ‘Introduction to ancient Indian medicine’ of the study on the Charaka Samhita and the Sushruta Samhita, both important and authentic Sanskrit texts belonging to Ayurveda: the ancient Indian science of medicine and nature. The text anaylsis its medical and social aspects, and various topics such as diseases and health-care, the physician, their training and specialisation, interaction with society, educational training, etc.
-
-Go directly to: 
-Footnotes.
 
 Introduction to ancient Indian medicine
 
@@ -640,10 +600,6 @@ The sixth chapter, “Environmental Issues and Hygiene”, is a study of the dis
 The eighth chapter is “Religion and Medicine”. The composition of the medical compendia marks the shift from magico-religious to empirico-rational medicine as disease is now explained in terms of its aetiology. Yet some of the earlier elements could not be entirely done away with. We have attempted to identify some of the elements of magical treatment in the treatises. The role of the principal deities mentioned in the texts in their proper contexts has been studied. We have tried to analyse how Brahmā who occupies the cardinal position in the origin of Āyurveda, loses his pre-eminence in the practice of medicine to Śiva and Viṣnu. The ninth chapter, “Surgery: Pre-operative and Post-operative Care”, is an attempt to understand the surgeon’s practical training and his psyche, the perception of surgery, preparation of the patient, the people involved in the recovery process, and the notion of infection.
 
 We are aware of the shortcoming in methodological analysis presented by our primary sources as it not possible to assign a definite time frame to the thesis. The medical Saṃhitās were a growing body of literature that underwent additions and redactions with expansion of medical knowledge. Despite this inadequacy this genre of literary works provides a very distinctive lens for investigating the social dimensions of ancient Indian medicine.
-
-Footnotes and references:
-
-[back to top]
 
 [1]:
 
@@ -941,15 +897,9 @@ S. Das, Medical Heritage of Early India: An Anthology, Kolkata, 2014.
 
 ## 7. The Question of Authorship
 
-
 Charaka Samhita and Sushruta Samhita
 
-by Nayana Sharma | 2015 | 139,725 words
-
 This page relates ‘Question of Authorship’ of the study on the Charaka Samhita and the Sushruta Samhita, both important and authentic Sanskrit texts belonging to Ayurveda: the ancient Indian science of medicine and nature. The text anaylsis its medical and social aspects, and various topics such as diseases and health-care, the physician, their training and specialisation, interaction with society, educational training, etc.
-
-Go directly to: 
-Footnotes.
 
 The Question of Authorship
 
@@ -966,10 +916,6 @@ One the earliest scholars to draw attention to the layers in the Suśruta-Saṃh
 The isolation of these textual layers and determination of their chronology has proved to be difficult. The problem of chronology is further compounded by the indeterminate historicity of the personalities involved in the composition and revision of the treatises. There is precious little biographical information of the authors in the treatises. According to Caraka’s compendium the first human to receive the knowledge of medical science from the gods was the sage Bharadvāja. He volunteered on behalf of the ṛṣis to take lessons in Āyurveda from Indra.[20] On his return he taught the same to the other sages[21] earning him the title of “the Indian Prometheus” from some modern day writers.[22] Scholars have pointed out that the name is well known in the Vedas and the epics. Bharadvāja is the composer of some Ṛgvedic hymns. In the Mahābhārata, he is the father of Droṇa, the preceptor of the Pāṇḍavas who lived at Haridwār, though in the Rāmāyaṇa, his hermitage is said to have been located at Prayāg.[23] Two medical books, a Tantra, and another by the title, Bhāradājīyam, are attributed to him.[24] A Bharadvāja also appears in the Saṃhitā as a participant in various medical symposia.[25] He is given the title Kumāraśiras.[26] This latter Bharadvāja is evidently different from the sage who went to Indra’s abode as his theories are invariably overturned by Ātreya in the symposia. Besides, though not explicitly mentioned in the Caraka Saṃhitā, Punarvasu Ātreya was probably one of the students of Bharadvāja.[27] It is indeed surprising that no attempt is made by the authors of the treatise to distinguish between the two personalities by providing biographical information.
 
 There is in fact also a correlation between Bharadvāja and the teacher of Suśruta. Bharadvāja was known to be the priest of three generations of the king of Kāśī, i.e., Dhanvantari, Sudāsa and Pratardana. Therefore, it is suggested that Divodāsa must have owed his knowledge to his priest and preceptor.[28] The Harivaṃsa, in fact, identifies him as the teacher of Dhanvantari[29] though such evidence is not forthcoming from the Suśruta Saṃhitā.
-
-Footnotes and references:
-
-[back to top]
 
 [1]:
 
@@ -1091,15 +1037,9 @@ Gulabkunverba, The Caraka Saṃhitā, Vol. I, p.35.
 
 ## 8. The Identity of Ātreya
 
-
 Charaka Samhita and Sushruta Samhita
 
-by Nayana Sharma | 2015 | 139,725 words
-
 This page relates ‘Identity of Atreya’ of the study on the Charaka Samhita and the Sushruta Samhita, both important and authentic Sanskrit texts belonging to Ayurveda: the ancient Indian science of medicine and nature. The text anaylsis its medical and social aspects, and various topics such as diseases and health-care, the physician, their training and specialisation, interaction with society, educational training, etc.
-
-Go directly to: 
-Footnotes.
 
 The Identity of Ātreya
 
@@ -1110,10 +1050,6 @@ In the Caraka Saṃhitā, he is described as the foremost among physicians (vi�
 A scholar by the name of Bhikṣu Ātreya is known in the treatise[25] but he appears to belong to a non-Vedic tradition.[26] The preceptor of the famous physician of Bimbisāra’s time, Jīvaka, was Ātreya of Takṣaśilā who specialised in surgery, from whom Jīvaka learnt the skill of skull-opening.[27] Thus, this Ātreya belonged to a different medical school. Besides, Punarvasu Ātreya is nowhere shown to be associated with Takṣaśilā but is shown to be sojourning on the banks of the Gaṅgā[28] or in the Himālayan environs.[29]
 
 It is difficult to identify Bharadvāja and Ātreya of Caraka Saṃhitā as historical personalities. They are in all likely to be mythical names[30] selected for their revered position in the Vedas. Filliozat also draws our attention to the position of Atri as one of those “Ancients” by whom human beings traced their link with the gods. The composers of the legend of transmission could find no better suitable personage as he was not only the intermediary between gods and men but also the special ward of the divine physicians and of the instructor god. However by virtue of representing Agni, he could not be placed as the first human who learnt medicine from the gods, and therefore, his descendant was chosen for the same.[31]
-
-Footnotes and references:
-
-[back to top]
 
 [1]:
 
@@ -1243,15 +1179,9 @@ Filliozat, The Classical Doctrine of Indian Medicine, p. 7.
 
 ## 9. The identity of Caraka
 
-
 Charaka Samhita and Sushruta Samhita
 
-by Nayana Sharma | 2015 | 139,725 words
-
 This page relates ‘identity of Caraka’ of the study on the Charaka Samhita and the Sushruta Samhita, both important and authentic Sanskrit texts belonging to Ayurveda: the ancient Indian science of medicine and nature. The text anaylsis its medical and social aspects, and various topics such as diseases and health-care, the physician, their training and specialisation, interaction with society, educational training, etc.
-
-Go directly to: 
-Footnotes.
 
 The identity of Caraka
 
@@ -1268,10 +1198,6 @@ The overwhelming evidence for wandering mendicant medical practitioners notwiths
 Though it the name of Caraka appears only in the colophons at the end of the chapters and not in the main body of the text, there is no doubt that he was considered a great medical authority by later scholars like Vijayarakṣita (13th century), Vācaspati and Śivadāsa in the 14th -15th centuries, and so on.[27] Eminent physicians were called Caraka by way of compliment and so Vāgbhaṭa was given the title, Caraka of Sind or Sindhicara.[28]
 
 Other than the question of the identity of Caraka, another issue that has perplexed historians is the change of the title of treatise from Agniveśa-tantra to Caraka Saṃhitā. The treatises of Suśruta and Kāśyapa despite undergoing redaction did not see a similar alteration. Sharma argues that Caraka did not just retouch the original text but completely recast it giving it a complete new shape and form. However, it gained acceptability only after some centuries for the Navanītaka refers to Agniveśa but not to Caraka.[29] The redacted treatise was only partially available to Dṛḍhabala which may imply it did not gain wide currency in medical circles.[30]
-
-Footnotes and references:
-
-[back to top]
 
 [1]:
 
@@ -1397,15 +1323,9 @@ G.J. Meulenbeld, History of Indian Medical Literature, Vol.1A, p. 109.
 
 ## 10. The Date of Caraka Saṃhitā
 
-
 Charaka Samhita and Sushruta Samhita
 
-by Nayana Sharma | 2015 | 139,725 words
-
 This page relates ‘Date of Caraka Samhita’ of the study on the Charaka Samhita and the Sushruta Samhita, both important and authentic Sanskrit texts belonging to Ayurveda: the ancient Indian science of medicine and nature. The text anaylsis its medical and social aspects, and various topics such as diseases and health-care, the physician, their training and specialisation, interaction with society, educational training, etc.
-
-Go directly to: 
-Footnotes.
 
 The Date of Caraka Saṃhitā
 
@@ -1414,10 +1334,6 @@ With the confusion over the authorship, it is hardly surprising that the date of
 R.K. Sharma and Vaidya Bhagwan Dash assign the text of Agniveśa to 2000 years B.C. and Caraka’s redaction to the 7th century B.C. The final redaction by Dṛḍhabala took place in the 4th century A.D.[3] P.V. Sharma assigns Caraka Saṃhitā to the period between 7th century BC and the 2nd century B.C. on various grounds: (i) the philosophical evidence points to a pre-200 A.D. date; (ii) the Yājñavalkya Smṛti has borrowed certain features from Caraka, such the monthly development of the foetus, etc.; (iii) the influence of Buddhism in the treatise on the basis of the use of words like khuḍḍaka, khuḍḍikā and jentaka; the references to tṛṣṇā as the root cause of pain,[4] to prajñā in causation of disease and vedanā[5] for misery.
 
 Meulenbeld suggests that the author called Caraka [Charaka] cannot have lived later than A.D. 150-200 and not much earlier than 100 B.C.[6] Dṛḍhabala has been placed earlier than Vāgbhaṭa who has been dated to the 6th century CE as the latter was familiar with the treatise. Dṛḍhabala is believed to belong to the 4th century CE. Therefore the final redaction must have taken place in the first 2-3 centuries CE. In fact, certain terms occurring in the text point to a later date for Caraka. The term pākhaṇḍa[7] occurring in the text is taken to indicate Kāpālikas. The presence of Kāpālikas is also known in Suśruta from the terms kāpālabhūmi[8] and asitāmbara,[9] that is, person wearing black clothes. Ḍalhaṇa interprets the term pākhaṇḍa[10] as members of this sect. This Purāṇic Śaivite sect is known to have emerged during the Gupta period. Besides, there Caraka prescribes the chanting of Viṣṇusahasranāma as a remedial measure for the patients of fever.[11] According to V.S. Agrawal (Kādambari Ek Sāṃskritika Adhyayana), Viṣṇusahasranāma is the creation of the Gupta period.[12] Even Suśruta does not prescribe it; generally veneration of Śiva is advised in fever.
-
-Footnotes and references:
-
-[back to top]
 
 [1]:
 
@@ -1471,15 +1387,9 @@ P.V. Sharma, “Caraka” in P.V. Sharma (Ed.), History of Medicine in India fro
 
 ## 11. The Social Orientation of the medical compendia
 
-
 Charaka Samhita and Sushruta Samhita
 
-by Nayana Sharma | 2015 | 139,725 words
-
 This page relates ‘Social Orientation of the medical compendia’ of the study on the Charaka Samhita and the Sushruta Samhita, both important and authentic Sanskrit texts belonging to Ayurveda: the ancient Indian science of medicine and nature. The text anaylsis its medical and social aspects, and various topics such as diseases and health-care, the physician, their training and specialisation, interaction with society, educational training, etc.
-
-Go directly to: 
-Footnotes.
 
 The Social Orientation of the medical compendia
 
@@ -1490,10 +1400,6 @@ Of the four - Ṛk, Yajus, Sāman and Atharvan –Vedas, physicians owe their lo
 The presence of brāhmaṇas well versed in the Atharvaveda (brāhmaṇāścātharvavedavidaḥ) is enjoined at the time of childbirth[7] and in the nursery for the protection of the newborn.[8] Veneration to the gods, brāhmaṇas and cows, and daily offering of oblations to the sacred fire and observance of sandhyā at dawn and dusk are enjoined upon all as part of social ethics by Caraka.[9] The initiation of the medical student takes place in the presence of priests and ceremony itself is a prototype of the Upaṇiṣadic observance.[10]
 
 However, we notice that perspective of the Suśruta Saṃhitā is probably in some ways less brahmanical. The admission of śūdras to the medical profession is clearly acceptable to the surgical school. Criticism of the gods and brāhmaṇas are proscribed but prior to that, the text says, one should refrain from the use of harsh words against the king.[11] It is also significant that in the Caraka Saṃhitā, it is an assembly of sages who decide to seek the knowledge of Āyurveda when the advent of disease began to curtail longevity of those engaged in sacred studies. Consequently they are prevented from pursuing their religious vows, brahmacarya, fasting and penance.[12] It is in this background that the enlightened sages delegate Bharadvāja to approach Indra to acquire the knowledge of longevity.[13] The inclusion of the names of at least fifty sages whose names occur in Vedic literature is also an attempt to emphasise the association of Āyurveda with the Vedas as well as attempt to seek legitimacy for this science. In the Suśruta Saṃhitā too, it is the distress brought on by disease that impell Suśruta and his fellow pupils to learn the science of Āyurveda from Dhanvantari. The suffering of the helpless people troubled the minds of Suśruta who wished to bring relief to them.[14] The issue of disease as an impediment to sacred studies or pursuit of religious vows is not significant here; rather it is the physical and mental distress of people that provides the backdrop to the beginning of the study of medicine.
-
-Footnotes and references:
-
-[back to top]
 
 [1]:
 
@@ -1555,15 +1461,9 @@ Suśruta Saṃhitā Sūtrasthāna 1.4.
 
 ## 12. The authors and redactors of the Suśruta Saṃhitā and its date
 
-
 Charaka Samhita and Sushruta Samhita
 
-by Nayana Sharma | 2015 | 139,725 words
-
 This page relates ‘authors and redactors of the Sushruta Samhita and its date’ of the study on the Charaka Samhita and the Sushruta Samhita, both important and authentic Sanskrit texts belonging to Ayurveda: the ancient Indian science of medicine and nature. The text anaylsis its medical and social aspects, and various topics such as diseases and health-care, the physician, their training and specialisation, interaction with society, educational training, etc.
-
-Go directly to: 
-Footnotes.
 
 The authors and redactors of the Suśruta Saṃhitā and its date
 
@@ -1613,16 +1513,9 @@ While that may well be the case, we may look at a particular verse in the Suśru
 aupadhenavaurabhraṃ sauśrutaṃ pauṣkalāvatam.
 śeṣāṇāṃ śalyatantrāṇāṃ mūlānyetāni nirdiśet.[48]
 
-aupadhenavaurabhraṃ sauśrutaṃ pauṣkalāvatam.
-śeṣāṇāṃ śalyatantrāṇāṃ mūlānyetāni nirdiśet.[48]
-
 The treatises of Upadhenava, Urabhra, Suśruta and Puṣkalāvata are known to be the basis of the other books on surgery.
 
 It is hardly likely that Suśruta, the author, is referring to his own treatise but to the older work of Suśruta. It is also noteworthy along with the other three names Suśruta is also a proper name here.
-
-Footnotes and references:
-
-[back to top]
 
 [1]:
 
@@ -1820,10 +1713,7 @@ Suśruta Saṃhitā Sūtrasthāna 4.9.
 
 ## 13. Chapter 2
 
-
 Charaka Samhita and Sushruta Samhita
-
-by Nayana Sharma | 2015 | 139,725 words
 
 This page relates ‘Chapter 2’ of the study on the Charaka Samhita and the Sushruta Samhita, both important and authentic Sanskrit texts belonging to Ayurveda: the ancient Indian science of medicine and nature. The text anaylsis its medical and social aspects, and various topics such as diseases and health-care, the physician, their training and specialisation, interaction with society, educational training, etc.
 
@@ -1835,15 +1725,9 @@ Chapter 2
 
 ## 14. Multiplicity of Textual Strata
 
-
 Charaka Samhita and Sushruta Samhita
 
-by Nayana Sharma | 2015 | 139,725 words
-
 This page relates ‘Multiplicity of Textual Strata’ of the study on the Charaka Samhita and the Sushruta Samhita, both important and authentic Sanskrit texts belonging to Ayurveda: the ancient Indian science of medicine and nature. The text anaylsis its medical and social aspects, and various topics such as diseases and health-care, the physician, their training and specialisation, interaction with society, educational training, etc.
-
-Go directly to: 
-Footnotes.
 
 Multiplicity of Textual Strata
 
@@ -1875,10 +1759,6 @@ A few interpolations in the Suśruta Saṃhitā too may be indicated. Both the t
 The nature of management of children’s diseases is seems to be at variance with the treatment of other afflictions for they are all ascribed to malevolent beings (grahas) and not to the imbalance of doṣas.[43] The text recommends various offerings of food substances including cooked and uncooked meat for the appeasement of the grahas-a feature not noticed in other sections of the work. Finally the discussion of internal diseases like fever, diarrhoea, consumption, etc. in last section of the compendium is also a later addition for they are not present in the eight major diseases enumerated in the Nidāna-sthāna. We may conjecture that this was necessitated by the complications arising from surgical procedures and their understanding became fundamental for the surgeon.
 
 The presence of several textual layers makes the task of determination of time of composition of the treatises rather complex. The term Saṃhitā itself indicates that the treatises are compilations. It is necessary to take up a critical study of the extant manuscripts as has been accomplished by V.S. Sukhthankar for the Mahābhārata which unfortunately we have not been able to take up.
-
-Footnotes and references:
-
-[back to top]
 
 [1]:
 
@@ -2056,10 +1936,7 @@ Suśruta Saṃhitā Uttaratantra 27-36.
 
 ## 15. The Medical Profession (Introduction)
 
-
 Charaka Samhita and Sushruta Samhita
-
-by Nayana Sharma | 2015 | 139,725 words
 
 This page relates ‘Medical Profession (Introduction)’ of the study on the Charaka Samhita and the Sushruta Samhita, both important and authentic Sanskrit texts belonging to Ayurveda: the ancient Indian science of medicine and nature. The text anaylsis its medical and social aspects, and various topics such as diseases and health-care, the physician, their training and specialisation, interaction with society, educational training, etc.
 
@@ -2073,15 +1950,9 @@ We begin this chapter with a brief overview of references to healers in the Ṛg
 
 ## 16. The physician in the Vedas
 
-
 Charaka Samhita and Sushruta Samhita
 
-by Nayana Sharma | 2015 | 139,725 words
-
 This page relates ‘physician in the Vedas’ of the study on the Charaka Samhita and the Sushruta Samhita, both important and authentic Sanskrit texts belonging to Ayurveda: the ancient Indian science of medicine and nature. The text anaylsis its medical and social aspects, and various topics such as diseases and health-care, the physician, their training and specialisation, interaction with society, educational training, etc.
-
-Go directly to: 
-Footnotes.
 
 The physician in the Vedas
 
@@ -2101,10 +1972,6 @@ He who hath store of Herbs at hand like Kings amid a crowd of men,—Physician i
 In his commentary to the Ṛgveda, Sāyaṇa considers vipraḥ to be a wise Brāhmaṇa (prājñaḥ brāhmaṇaḥ); again in the Taittirīya Saṃhitā, he explains the term as “the wise man who is skilled in the production of the juices (of herbs) and strengths”.[3] Zysk suggests that such a person may be called a “healer” or a “shaker” based on the etymology of the word, i.e., vipra is derived from the root vip, “to shake”.[4] However, the term “vipra” is generally understood to have the following meanings -inspired, wise, learned (especially in theology), a sage, seer, singer, poet, a brāhmaṇa, etc.[5] Zysk also points out that the word “bhiṣak” is replaced with “kavī” in the Maitrāyaṇī Saṃhitā which suggests that the healer is a chanter, i.e., one who is skilled in the use of words.[6] M. Monier-Williams lists several meanings of “kavi”: gifted with insight, intelligent, knowing, enlightened, wise, sensible, prudent, skilful, sage, singer, poet, etc.,[7] but chanter is not mentioned. “Kavi” in the Atharvaveda probably refers to one who composes the hymns and is not just a chanter. It is interesting to note that physicians in the eastern part of the country are addressed as “kavirāja”. On the basis of the evidence from the Vedic corpora, we may conclude that the Vedic bhiṣak was considered to be one who possessed skill in the preparation and application of medicinal herbs as well as knowledge and mastery of the recitation of charms and incantations.[8]
 
 The existence of medical practitioners and a fairly elaborate materia medica in the Atharvaveda (II.9.3) may be inferred from the reference to hundreds of physicians (śataṃ hy asya bhiṣajaḥ) and thousands of plants (sahasram uta vīrudhaḥ).[9] Yet treatment of disease in this phase is not entirely drug reliant but based principally on amulets and incantations. According to the Atharvaveda, what can be achieved by the plant drugs, can be effected by binding an amulet with the particular charm of this verse.[10] The pronouncement that the Atharvan who binds the amulet is the best of all good doctors,[11] leads us to understand that charms and sorcery were an essential element of the physician’s repertoire. Kutumbiah describes the Atharvan as the priest-physician.[12] He had access to the king as an adviser, and combined the roles of the physician, priest, sorcerer and adviser to the king.[13] It is probable that the hymns of the Atharvaveda indicate two kinds of healers: the Atharvan who relied on charms and the lay healer who prescribed medicinal drugs.[14]
-
-Footnotes and references:
-
-[back to top]
 
 [1]:
 
@@ -2166,15 +2033,9 @@ S.N. Dasgupta, A History of Indian Philosophy, Vol. II, p.294; P. Kutumbiah, p. 
 
 ## 17. The Royal Physician
 
-
 Charaka Samhita and Sushruta Samhita
 
-by Nayana Sharma | 2015 | 139,725 words
-
 This page relates ‘Royal Physician’ of the study on the Charaka Samhita and the Sushruta Samhita, both important and authentic Sanskrit texts belonging to Ayurveda: the ancient Indian science of medicine and nature. The text anaylsis its medical and social aspects, and various topics such as diseases and health-care, the physician, their training and specialisation, interaction with society, educational training, etc.
-
-Go directly to: 
-Footnotes.
 
 The Royal Physician
 
@@ -2185,10 +2046,6 @@ Caraka says one who possesses the four-fold knowledge regarding cause, diagnosis
 Suśruta, understandably, holds surgical skills and knowledge of difficult procedures, such as reconstructive surgery of the nose and the harelip[6] and removal of foreign bodies from the tissues, indispensable for one aspiring to be the court physician. In fact, the surgeon should be knowledgeable about the two types of śalyas (alien objects), their five methods of entry, their sites of location in the skin, and other tissues and their management.[7] Any extraneous body or substance lodged in the body that causes pain is a type of śalyas. We may imagine that members of the royal family would return from the battlefield with embedded arrows, darts, spears or such metal or wood splinters, and the physicians had to frequently attend to such cases. Other than surgical interventions, one of the important duties of the royal physician is to be ever vigilant to protect his sovereign against threats of poisoning not just enemies, but even from hostile kinsmen seeking an opportunity to settle scores. There is also the fear that a wife may administer some preparations to win the love of her husband which can have toxic effects or someone may send a viṣa-kanyā or poison-girls.[8] Therefore, Suśruta says the king ought to be always protected by the physician against poisoning.[9] The royal physician also has the duty of protecting his sovereign and the army by being vigilant against enemy attempts to poison the pastures, water bodies, edible items and the atmosphere when they make incursions into the country.[10] Suśruta devotes eight chapters of his work in the Kalpa-sthāna section to Toxicology.
 
 There is some textual and epigraphic evidence on the royal physician. Five Buddhist cave inscriptions from Pitalkhora refer to the visit and donations of the family of a royal physician, rājaveja or rāja-vaidya, Magila.[11] We know from the Harṣacarita that the position was a hereditary one.[12] This position being of considerable importance it will not be wrong to surmise that only trustworthy persons would have been appointed.
-
-Footnotes and references:
-
-[back to top]
 
 [1]:
 
@@ -2242,15 +2099,9 @@ Harṣacarita, p.144.
 
 ## 18. The Physician in the Caraka and Suśruta Saṃhitās
 
-
 Charaka Samhita and Sushruta Samhita
 
-by Nayana Sharma | 2015 | 139,725 words
-
 This page relates ‘Physician in the Caraka and Sushruta Samhitas’ of the study on the Charaka Samhita and the Sushruta Samhita, both important and authentic Sanskrit texts belonging to Ayurveda: the ancient Indian science of medicine and nature. The text anaylsis its medical and social aspects, and various topics such as diseases and health-care, the physician, their training and specialisation, interaction with society, educational training, etc.
-
-Go directly to: 
-Footnotes.
 
 The Physician in the Caraka and Suśruta Saṃhitās
 
@@ -2297,10 +2148,6 @@ The primacy of reasoning or yukti in this medical school is not surprising when 
 While the attributes discussed so far is more in the nature of what is desirable for a physician, the requisites that render him eligible to practice are much more fundamental. Suśruta tells us that the prospective practitioner after having studied the subject (adhigatatantreṇa) and having acquired knowledge of the science from the teacher (upāsitatantrārthena), having observed the procedures himself (dṛṣṭakarmanā) and performed them experimentally (kṛtayogyena), and having developed the capability of quoting the texts meaningfully (śāstraṃ nigadatā) must obtain the permission of the king (rājanujñātena).[43]
 
 This is a direct confirmation of the system of registration of medical practitioners which must have existed at the time of compilation of the text. The permission or license to practice must have been given after the aspirant underwent an examination for evaluating his knowledge of the subject at the completion of his studies. Caraka does not mention the necessity of obtaining state permission but does speak of the need to regulate the profession.[44] The necessity of some system of administrative supervision is alluded to and the king is held accountable for the ease and impunity with which the doctors of death (rogāṇāmabhisara) roam in society.[45] This possibly implies that the system of registration of medical practitioners may have not have existed in Caraka’s time but came to be established later. The system of registration is advocated by the author of the Arthaśāstra as the city-superintendent is directed to undertake a census of individuals according to caste, family-name and occupation.[46] The objective of such a practice would be to weed out the quacks, and besides, for the medical practitioners, the receipt of license from the highest authority of the land confers the profession with recognition and respect.
-
-Footnotes and references:
-
-[back to top]
 
 [1]:
 
@@ -2490,10 +2337,7 @@ R.P.Kangle (Ed.), The Kautilya Arthaśāstra: An English Translation with Critic
 
 ## 19. Superintendent of the Royal Kitchen
 
-
 Charaka Samhita and Sushruta Samhita
-
-by Nayana Sharma | 2015 | 139,725 words
 
 This page relates ‘Superintendent of the Royal Kitchen’ of the study on the Charaka Samhita and the Sushruta Samhita, both important and authentic Sanskrit texts belonging to Ayurveda: the ancient Indian science of medicine and nature. The text anaylsis its medical and social aspects, and various topics such as diseases and health-care, the physician, their training and specialisation, interaction with society, educational training, etc.
 
@@ -2509,15 +2353,9 @@ The Arthaśāstra, however, makes no reference to the physician attached to the 
 
 ## 20. Quackery: The “Fraudulent” Medical Practitioners
 
-
 Charaka Samhita and Sushruta Samhita
 
-by Nayana Sharma | 2015 | 139,725 words
-
 This page relates ‘Quackery: The “Fraudulent” Medical Practitioners’ of the study on the Charaka Samhita and the Sushruta Samhita, both important and authentic Sanskrit texts belonging to Ayurveda: the ancient Indian science of medicine and nature. The text anaylsis its medical and social aspects, and various topics such as diseases and health-care, the physician, their training and specialisation, interaction with society, educational training, etc.
-
-Go directly to: 
-Footnotes.
 
 Quackery: The “Fraudulent” Medical Practitioners
 
@@ -2532,10 +2370,6 @@ Fraudulent practitioners have come in for severe indictment in both our classica
 As opposed to the genuine physicians, the prāṇābhisara or the “saviours of life, are the rogāṇāmbhisara, who are akin to thorns for they destroy life not the disease.[8] Caraka describes the modus operandi of the charlatans. They move about from one street to another in the garb of physicians singing praises of their abilities. Once they come to know of someone’s illness, they lay siege by rattling off their accomplishments loudly from such position that the patient is forced to hear. In case a physician is already attending on him, they repeatedly find fault with him. They win over the friends of the patient by pleasing them, by secret communication or by doing favours, and by claiming nominal remuneration for their services. After winning the patient’s confidence, they cleverly examine him repeatedly so as to disguise their ignorance. If his condition does not improve, these fraudulent physicians put the blame of their failure on the patient-that he lacks equipment, attendants and self control. When the patient dies in their hands, they flee in some other garb.[9] Only a close observation of this manner of trickery can elicit such a vivid description. It is further noted that such charlatans proclaim their ability in contradictory terms in a congregation of lay persons but take flight immediately when they come across an assembly of the learned. In case they have a smattering knowledge of some therapeutic formulae, they will never hesitate in quoting them without caring for the relevance to the topic. They do not like to be questioned nor do they care to ask questions of others. Their preceptors, disciples, classmates, or even their opponents in debates are unknown.[10]
 
 The animosity expressed for such healers may be attributed to disrepute to that would ensue to the medical profession particularly in case of failure to alleviate the patient’s condition. Their ignorance would have worsened the condition of some patients who then possibly sought a vaidya for consultation. By claiming nominal remuneration, they could attract many more patients thus harming the professional prospects of the āyurvedic physicians and surgeons. From above description it is evident that many healers moved about on the streets looking for patients. One of lost recensions of the Atharvaveda was of the Cāraṇa-vaidya śākhā which implies the existence of wandering medical practitioners. It has been suggested that they went from place to place and were approached by individuals in need of medical help.[11] In Caraka Saṃhitā itself, there is hardly any reference to the itinerant nature of the medical profession. We are told that messengers approach the physician on behalf of the patient whereupon the physician makes a visit to his or her home. The practice of physicians seeking patients on the streets is referred to in the Mahāvagga, when Jīvaka was in Sāketa on his way home from Takṣaśilā to Rajagṛha. As he wanted to earn money, he asked the people: “Who is sick here, my good Sir? Who shall I cure?”[12] Another reference occurs in a Jātaka story where we are told that some brāhmaṇas carry sacks filled with roots on their backs. They gather herbs, bathe and recite magical spells and are described as “physician-like”.[13] Irrespective of whether these medicine men can be called quacks, we get the picture of different categories of medical practitioners in ancient India.
-
-Footnotes and references:
-
-[back to top]
 
 [1]:
 
@@ -2593,15 +2427,9 @@ Jātaka, Vol.4, No. 495.
 
 ## 21. Specialisation of physicians
 
-
 Charaka Samhita and Sushruta Samhita
 
-by Nayana Sharma | 2015 | 139,725 words
-
 This page relates ‘Specialisation of physicians’ of the study on the Charaka Samhita and the Sushruta Samhita, both important and authentic Sanskrit texts belonging to Ayurveda: the ancient Indian science of medicine and nature. The text anaylsis its medical and social aspects, and various topics such as diseases and health-care, the physician, their training and specialisation, interaction with society, educational training, etc.
-
-Go directly to: 
-Footnotes.
 
 Specialisation of physicians
 
@@ -2622,10 +2450,6 @@ Suśruta does not mention the source of the discourse on paediatric diseases pos
 Mention of the various categories within the medical profession occurs in other sources. Physicians (bhisakka), surgeons (sallakatta) and exorcists (bhūtavejja) as well as veterinary surgeons for elephants and horses are known in Buddhist texts.[30] Surgery finds a reference in the Rāmāyaṇa when Sitā expresses fear of being dismembered by the vile lord of the rākṣasas with knives just as the surgeon might a foetus in the womb.[31] The word used here for the surgeon is śalyakṛntaḥ which is commented upon as āmbaṣṭhavaidyāḥ.[32] The text also refers to specialists in administering antidotes (viṣavaidyāḥ), paediatrics (bālānāṃ cikitsakāḥ), in removing thorns and spikes (śalākāśalyahartāraḥ) and in surgery (śastrakarmakṛto vaidyāḥ).[33] Cure of snake-bites appears to be a much specialised branch of healing. The Boddhisattva was once born into a family of healers skilled in the cure of snakes-bites according to the Visavanta Jātaka.[34] A snake-doctor (jāṅgulika) by the name of Mayuraka was a childhood companion of Bāṇabhaṭṭa.[35]
 
 A close reading of the two texts reveals a possible undercurrent of rivalry among the various kinds of physicians. Surgeons are evidently condescending of physicians who are incapable of conducting non-surgical (such as oleation, purgation, etc.)[36] and surgical procedures (like excision, etc.), and in fact, goes on to portray them as kuvaidya or bad physicians. Such physicians, according to Suśruta, kill people due their greed and survive only because of the negligence of the government.[37] It is also interesting that Suśruta does not once mention the name of Ātreya or Agniveśa or other authorities of medicine though the name of Dhanvantari (as we have seen) does appear in the compendia of Caraka.
-
-Footnotes and references:
-
-[back to top]
 
 [1]:
 
@@ -2779,15 +2603,9 @@ Suśruta Saṃhitā Sūtrasthāna 3.52.
 
 ## 22. War Surgeons
 
-
 Charaka Samhita and Sushruta Samhita
 
-by Nayana Sharma | 2015 | 139,725 words
-
 This page relates ‘War Surgeons’ of the study on the Charaka Samhita and the Sushruta Samhita, both important and authentic Sanskrit texts belonging to Ayurveda: the ancient Indian science of medicine and nature. The text anaylsis its medical and social aspects, and various topics such as diseases and health-care, the physician, their training and specialisation, interaction with society, educational training, etc.
-
-Go directly to: 
-Footnotes.
 
 War Surgeons
 
@@ -2804,14 +2622,7 @@ It is therefore, not surprising when Suśruta comments that one who is medically
 dvividhaṃ pañcagatimattvagādivraṇavastuṣū.
 yo vetti viṣiṭaṃ śalyaṃ rājñaḥ kurtumarhati.
 
-dvividhaṃ pañcagatimattvagādivraṇavastuṣū.
-yo vetti viṣiṭaṃ śalyaṃ rājñaḥ kurtumarhati.
-
 In fact, the battle wounds probably had no small contribution in the progress of the ancient Indian surgeon’s chirurgical skills. One gets the impression that a great deal of empirical clinical medicine in the Indian tradition stemmed from the military physicians” efforts to treat the myriad casualties that resulted from the almost endless wars.[13] Descriptions of surgeries for the split ear lobule including cases where both flaps of the ear lobules are absent[14] or the ear has been torn out of place,[15] the amputated nose,[16] abdominal perforation (pariśrāvyuodara)[17], are clinical cases involving mutilations generally sustained in violent confrontations. The six kinds of recent traumatic wounds described by Suśruta are of grievous nature, which include extensive wounds with separation of body parts,[18] injury to the body cavities with points of spear, lance, ṛṣṭī, sword, etc.,[19] punctured wound caused by sharp pointed weapon,[20] crushing of a part of the body and flattening of the bones,[21] cut throat injury,[22] complete limb dismemberment,[23] puncture and avulsion of the eyeballs,[24] and skull injury.[25] Suśruta has also dealt with a range of abdominal injuries, the most severe being a situation where the abdomen is ripped open with ruptured (or non-ruptured) intestines.[26] Hence, it can be said that the author was dealing with a wide range of belly wounds found only on the battlefield, and the description is far too accurate not to have been recorded by a physician who had direct experience with this type of wound-in short, a military surgeon.[27]
-
-Footnotes and references:
-
-[back to top]
 
 [1]:
 
@@ -2925,15 +2736,9 @@ R.A. Gabriel, Man and Wound in the Ancient World, p. 137.
 
 ## 23. Interface between Physicians and Society
 
-
 Charaka Samhita and Sushruta Samhita
 
-by Nayana Sharma | 2015 | 139,725 words
-
 This page relates ‘Interface between Physicians and Society’ of the study on the Charaka Samhita and the Sushruta Samhita, both important and authentic Sanskrit texts belonging to Ayurveda: the ancient Indian science of medicine and nature. The text anaylsis its medical and social aspects, and various topics such as diseases and health-care, the physician, their training and specialisation, interaction with society, educational training, etc.
-
-Go directly to: 
-Footnotes.
 
 Interface between Physicians and Society
 
@@ -3007,24 +2812,15 @@ Concern for the well-being of the patient should necessarily take precedence in 
 dharmartho kirtimityartha satanga grahanamuttamam.
 prapnuyat swargavasanga ca hitamarabhya karmana.
 
-dharmartho kirtimityartha satanga grahanamuttamam.
-prapnuyat swargavasanga ca hitamarabhya karmana.
-
 This approach may be juxtaposed with medical ethics from another part of the ancient world. The Hippocratic practitioner “is the servant of his art, and the patient must cooperate with the doctor in combating the disease.” The primary objective of the physician is to practice his art diligently and protect the patient from harm. It has been described as an ethic of outward achievement than of inner intention.[25]
 
 Plato looked at the physician-patient relationship in a different light:
 
 “No physician, insofar as he is a physician, considers his own good in what he prescribes, but the good of his patient, for the true physician is also a ruler having the human body as a subject, and is not a money-maker”.[26]
 
-“No physician, insofar as he is a physician, considers his own good in what he prescribes, but the good of his patient, for the true physician is also a ruler having the human body as a subject, and is not a money-maker”.[26]
-
 The moral duty of the physician here is given precedence.
 
 Though the paternalistic ideal is upheld as the highest ideal the question of remuneration is also important. The patient is expected to reciprocate the services of the physician in some form or the other.[27] One of the objectives of medical practice is the attainment of artha (wealth) though those who practice simply for acquisition of wealth are condemned.[28]
-
-Footnotes and references:
-
-[back to top]
 
 [1]:
 
@@ -3142,15 +2938,9 @@ Caraka Saṃhitā Cikitsāsthāna 1:4.58.
 
 ## 24. The Medical Attendant
 
-
 Charaka Samhita and Sushruta Samhita
 
-by Nayana Sharma | 2015 | 139,725 words
-
 This page relates ‘Medical Attendant’ of the study on the Charaka Samhita and the Sushruta Samhita, both important and authentic Sanskrit texts belonging to Ayurveda: the ancient Indian science of medicine and nature. The text anaylsis its medical and social aspects, and various topics such as diseases and health-care, the physician, their training and specialisation, interaction with society, educational training, etc.
-
-Go directly to: 
-Footnotes.
 
 The Medical Attendant
 
@@ -3179,10 +2969,6 @@ Female attendants hardly mentioned in the two treatises except at the time of ch
 We no information about their remuneration but we get some idea about those on the state pay roll. Kauṭilya informs us that the salary of physician should be 2000 paṇas[29] and of attendants 60 paṇas.[30] Many temples in south India of the early medieval period had provision for hospitals within their premises. The functioning one such hospital (āturaśālā) attached to the Viṣṇu temple at Tirumukkūḍal in the Chingleput district of present day Tamil Nadu is known from the Tirumukkūḍal inscription of Vīarājendra[31] dated the latter half of the 11th century CE.
 
 The hospital with a capacity for fifteen patients was under the supervision of a Vaidya and was staffed by a surgeon, two nurses, a barber, etc. The duty of a nurse was to attend to the patients and administering medicines while the barber had to serve the hospitalised patients, teachers and students. The two nurses were paid 15 kalams of paddy and ½ kāśu each annually. 30 kalam and 1 kāśu each was given as salary to two persons who collected medicinal herbs, supplied fuel and attended to the preparation of medicines. Lowest in the strata was the barber who received 15 kalam of paddy. This head physician, Savarṇan Kodaṇḍarāman Asvatthāmā Bhaṭṭan of Ālappākkam, received annually 90 kalam of paddy[32] and 8 kāśu in addition to a grant of land. The land donated here was probably for residential purpose as it is mentioned in the inscription that he obtained the land which was to be enjoyed by him and his descendants. Besides the physician, there was also a surgeon (challiyakkṛiyai = śalya-kṛiyai) who received only 30 kalam of paddy, i.e., 1/3rd of the remuneration of the principal physician and neither was he allotted any land.
-
-Footnotes and references:
-
-[back to top]
 
 [1]:
 
@@ -3316,15 +3102,9 @@ K.V.S.Ayyar, “The Tirumukkuḍal inscription of Vīrarājendra”, Epigraphia 
 
 ## 25. The Position of the Physician in Society
 
-
 Charaka Samhita and Sushruta Samhita
 
-by Nayana Sharma | 2015 | 139,725 words
-
 This page relates ‘Position of the Physician in Society’ of the study on the Charaka Samhita and the Sushruta Samhita, both important and authentic Sanskrit texts belonging to Ayurveda: the ancient Indian science of medicine and nature. The text anaylsis its medical and social aspects, and various topics such as diseases and health-care, the physician, their training and specialisation, interaction with society, educational training, etc.
-
-Go directly to: 
-Footnotes.
 
 The Position of the Physician in Society
 
@@ -3335,8 +3115,6 @@ In the earliest text of the Vedic corpus, the divine twin physicians, the Aśvin
 The attitude towards physicians, however, undergoes a drastic transformation the later Vedic texts as well as in the Brahmanical law books, which reveal an attitude of intense disapproval towards healers and the healing profession, so much so the Aśvins had to suffer ritual exclusion from the sacrifices. The divine physicians are declared impure, and so is the medical profession itself reflecting the extreme antipathy of the law-givers for physicians. The denigration of the medical practitioners in later Vedic corpus and the law books is a subject that has drawn the attention of many scholars. The first clear pronouncement against physicians occurs in the Taittariya Saṃhitā (VI.4.9).
 
 This significant passage reads:
-
-“The gods said of these two (the Aśvins): “Impure are they, wandering among men and physicians.”[6] Therefore a Brāhman should not practice medicine for the physician is impure, unfit for the sacrifice.”[7]
 
 “The gods said of these two (the Aśvins): “Impure are they, wandering among men and physicians.”[6] Therefore a Brāhman should not practice medicine for the physician is impure, unfit for the sacrifice.”[7]
 
@@ -3356,8 +3134,6 @@ Soma is specifically prepared for them:
 
 “Awaken (the Aśvins) who yoke (their chariot) in the morning, may the Aśvins come here for the drink of this Soma.”[23]
 
-“Awaken (the Aśvins) who yoke (their chariot) in the morning, may the Aśvins come here for the drink of this Soma.”[23]
-
 The abundant Soma drink is a treasure laid out for Aśvins (Ṛgveda I.183.4)[24] who have Agni, Indra, Varuṇa, Viṣṇu, Ādityas, Rudras, Vasus among others as their companions (Ṛgveda VIII.35.1-4).[25] Of their association with the sacrifice, Ṛgvedic poets are unambiguous. The Aśvins” visits to the sacrifices are the most frequent (Ṛgveda V.41.3), and their attachment to the sacrifice is compared to that of an axle to the yoke and navel of the chariot (Ṛgveda V.43.8).[26] As for their “roving nature” and interaction with mortals, it may be pointed out that this trait is common to many other deities of the early period. “In the dim antiquity of Ṛgvedic poetry, the very difference between man and god is yet to take a clearly defined form.”[27] Indra is praised as the chief among men (nṛtamaḥ) while Agni is addressed as the chief human being among the human beings (nṛnāṃ nṛtamaḥ).[28] There are several instances of Indra intermingling with humans. It is, therefore, strange that the A vins should be singled out and characterized as “impure” for the same trait.
 
 In the opinion of Chattopadhyaya, the crucial factor here is the medical practice of the Aśvins that required far more commitment to democratic values that was tolerable to the priests. As Bloomfield comments, medicine is condemned in the Yajurveda because “the practice entails promiscuous, unaristocratic mingling with men.”[29] In the later Vedic tradition they are considered polluting and hence do not qualify for the sacrificial share. Interaction with the masses is particularly loathsome for the upper echelon of society. This position is accepted in later legal literature as well.
@@ -3368,13 +3144,9 @@ The relevant verse is rendered by Griffith as follows:
 
 “We all have various thoughts and plans, and diverse are the ways of men. The Brahman seeks the worshipper, wright seeks the cracked, and leech the maimed.”[33]
 
-“We all have various thoughts and plans, and diverse are the ways of men. The Brahman seeks the worshipper, wright seeks the cracked, and leech the maimed.”[33]
-
 The verse makes no reference to the physician gods, only to the physician in the context of the diverse objectives of the men. Therefore, it is difficult to accept Zysk’s reading. We have already cited instances of the association of the Aśvins with the sacrificial rite.
 
 We may cite another:
-
-“They (the Aśvins) are the knowers of the sacrifice (and) of the holy rite who drink with free will (i.e. pleasure) the sweet of Soma.[34]
 
 “They (the Aśvins) are the knowers of the sacrifice (and) of the holy rite who drink with free will (i.e. pleasure) the sweet of Soma.[34]
 
@@ -3390,8 +3162,6 @@ The gods said,
 
 “We will not invite you; ye have wandered and mixed much among men, performing cures.”[48]
 
-“We will not invite you; ye have wandered and mixed much among men, performing cures.”[48]
-
 In the course of their wanderings physicians gathered information on new drugs and remedial treatments from other communities. It is probable that it was not just their interaction with people beyond the Aryan society that aroused the repugnance of the brahmanical orthodoxy. As we know from the Śatapatha Brāhmaṇa, they also performed cures on men, whereby we may be reasonably assume, that some of the Aryan knowledge on remedies and healing must have been transmitted to the non-Aryan communities. The Āyurvedic tradition of discussions and debates on medical issues[49] testifies to the exchange of medical data among healers.[50] The objective of Āyurveda is the welfare of all living creatures for the Aśvins are said to have imparted the knowledge of Āyurveda to Indra for the welfare of the recipient and people.[51] Yet, it is interesting to note that in the classical medical texts, physicians are restrained from revealing of some of the special formulations. Caraka categorically emphasises that the rejuvenation recipes (rasāyanic formulae) should not be described or even mentioned to a person with evil designs, to one who is not a dvijāti among others.[52] Therefore, there appears to be a tradition of holding in secrecy those formulations particularly treasured for their miraculous benefits. The cures that the Aśvins performed, on patients irrespective of their social standing in course of their wanderings, possibly divulged some of the special remedies and treatments, thereby implying a dilution of the control of brahmanical priests over this crucial knowledge.
 
 It is also probable that there developed conflict of interest between the healer and the priest. The Vedic healer was also a priest with knowledge of rituals and magical spells who functioned alongside the sacrificial priest. In course of time competition between the two for power and prestige emerged. Gradually healers came to be considered by the sacrificial priests as impure and contaminating, and hence were eventually excluded from the higher, more sacred circles of priestly culture.[53]
@@ -3403,8 +3173,6 @@ The social and ritual impurity of the medical practitioner is reiterated in the 
 “The following are unfit to be eaten: food given by a physician, a hunter, a harlot, a law enforcement agent, a thief, a heinous sinner, a eunuch, or an outcaste; as also given by a miser, a man consecrated for a sacrifice, a prisoner, a sick person, a man who sells Soma, a carpenter, a washer-man, a liquor, dealer, a spy, an usurer, a leather-worker, a śūdra, a man who bears arms, a lover of a married woman and a husband who countenances it, an arsonist, or one who does not execute those who deserve the capital punishment; food given after yelling: “Who will eat this?; food given by a corporate body or by a courtesan.”[60]
 
 Vasiṣṭha allows certain items (such as food given unasked) to be accepted from even such persons but categorically forbids offerings from the following persons:
-
-“Almsfood given by physicians, hunters, surgeons, fowlers, eunuchs and unchaste wives is not to be accepted even if given unasked.”[61]
 
 “Almsfood given by physicians, hunters, surgeons, fowlers, eunuchs and unchaste wives is not to be accepted even if given unasked.”[61]
 
@@ -3431,10 +3199,6 @@ The second positive development in this context, as Zysk points out, is the chan
 Other than their association with the Atharvaveda, the notion of impurity of physicians can be attributed to the use of materials that are conventionally regarded as polluting and disgusting. Physicians and surgeons, in particular, had to handle various animal parts. Students practiced surgical procedures on parts like urinary bladders, hairy skins, vessels and teeth of dead animals. The flesh, blood, skin, faeces, and other parts of animals were required in various medicinal preparations. Surgeons necessarily had to come in contact with professions which are placed low in the social order, such as blacksmiths (karmāra) for manufacturing their instruments;[85] leech-gatherers to procure leeches for blood-letting therapy and cremation-ground workers to procure corpses for dissection.
 
 In the brahmanical law books healers are given a very low social position. According to the Uśanas, the bhiṣak is the offspring of a clandestine union between a brāhmaṇa and a kṣatriya girl and he maintains himself by studying Āyurveda in its eight parts, or astronomy, astrology and mathematics.[86] Manu designates the art of healing as an occupation for the base-born and it is specifically assigned to the ambaṣṭhas.[87] According to the lawgivers, the ambaṣṭha as an anuloma sprung from the marriage of a brāhmaṇa man with a vaiśya woman[88] or an offspring of a kṣatriya with a vaiśya woman (according to Gautama as interpreted by Haradatta). Uśanas lays down that he may live by surgery, while Haradatta commenting on Āpastamba Dharmasūtra, says that ambaṣṭha and śalyakṛnta are synonymous.[89]
-
-Footnotes and references:
-
-[back to top]
 
 [1]:
 
@@ -3796,15 +3560,9 @@ P.V. Kane, History of the Dharmaśāstra, Vol.2, Part 1, pp. 71-72.
 
 ## 26. The Physician in the Medical Texts
 
-
 Charaka Samhita and Sushruta Samhita
 
-by Nayana Sharma | 2015 | 139,725 words
-
 This page relates ‘Physician in the Medical Texts’ of the study on the Charaka Samhita and the Sushruta Samhita, both important and authentic Sanskrit texts belonging to Ayurveda: the ancient Indian science of medicine and nature. The text anaylsis its medical and social aspects, and various topics such as diseases and health-care, the physician, their training and specialisation, interaction with society, educational training, etc.
-
-Go directly to: 
-Footnotes.
 
 The Physician in the Medical Texts
 
@@ -3815,9 +3573,6 @@ Practitioners of this science are described as saviours of life in this world by
 It is significant that both Caraka and Suśruta strive to establish the respectable position of physicians and the honour of the medical profession which seems almost like an attempt to refute the brahmanical position. In a very significant verse occurring in the Cikitsā-sthāna, Caraka categorically states that a medical practitioner comes to be known as a “vaidya” only on the completion of his medical education, and he becomes a dvija.
 
 Besides, the title of “vaidya” is not give to him because of his expertise in his previous birth:
-
-vidyāsamāptau bhiṣajo dvitīyā jātirucyate.
-aśnute vaiyaśabdaṃ hi na vaidyaḥ purvajanmanā.[8]
 
 vidyāsamāptau bhiṣajo dvitīyā jātirucyate.
 aśnute vaiyaśabdaṃ hi na vaidyaḥ purvajanmanā.[8]
@@ -3835,15 +3590,9 @@ The physicians familiar in use of drugs and minerals, and the priests well verse
 doṣāgantujam tyubhyo rasamantraviśāradau.
 rakṣetaṃ nripatiṃ nityaṃ yatyau vaidyapurohitau.
 
-doṣāgantujam tyubhyo rasamantraviśāradau.
-rakṣetaṃ nripatiṃ nityaṃ yatyau vaidyapurohitau.
-
 The king desirous of victory, as he is marching along with his ministers, should be protected by all means, especially from poisons.[23] Not only the king, the clinician also has to protect the army by ensuring that the roads, water, shadows, edibles, fodder and fuel are safe and devoid of poison.[24] Further, Suśruta says that Brahmā Āyurveda with its eight branches which is an appendage of the Vedas, and as the priests (brāhmaṇas) are well versed in the latter, the physician should act according to the advice of the priests, which is to say, take a subservient position.
 
 Thus:
-
-brahmā vedāṅgaṣṭāṅgamāyurvedamabhāṣata.
-purohitmate tasmādvarteta bhiṣāgāmavān.[25]
 
 brahmā vedāṅgaṣṭāṅgamāyurvedamabhāṣata.
 purohitmate tasmādvarteta bhiṣāgāmavān.[25]
@@ -3859,9 +3608,6 @@ In the eyes of our classical medical authors, an expert in medical science with 
 However, from certain references occurring in the classical texts make it apparent that condescension of physicians was very much a reality. The Soma creepers are invisible to those who insult the physicians (bhiṣajaścāpamānitāḥ), who are impious, who are ungrateful, who decry medicines and for those who look down upon brāhmaṇas.[34]
 
 Suśruta declares that patients do not recover in those houses where the physician is not respected; treatment is successful only where the physician is respected:
-
-na sa sidhayati vaidyo vā gṛhye yasya na pujyate.
-bhavana pujyate vā(a)pi yasya vaidya sa sidhyati.[35]
 
 na sa sidhayati vaidyo vā gṛhye yasya na pujyate.
 bhavana pujyate vā(a)pi yasya vaidya sa sidhyati.[35]
@@ -3884,17 +3630,11 @@ The third verse reads:
 
 “In that line of the Lord of Plants (Oṣadhinātha), i.e., the Moon, there flourished kings who cured their enemies of the fever arising out of power-poison by means of (medicinal) creepers.”[63]
 
-“In that line of the Lord of Plants (Oṣadhinātha), i.e., the Moon, there flourished kings who cured their enemies of the fever arising out of power-poison by means of (medicinal) creepers.”[63]
-
 The metaphor of the physician’s skill of healing is used to exemplify the military prowess of the Sena kings. Sircar contends that it was the amalgamation of the physicians with the tribal Ambaṣṭha-Vaidyas of south India that led to the crystallization of the vaidya caste in Bengal.[64] According to Majumdar the descendants of Senas are physicians by profession who wear the sacred thread and call themselves vaidyas. They claim the right to read the Vedas.[65] According to H.H. Risley, the vaidyas of Bengal came to be identified with the ambaṣṭhas of Manu.[66]
 
 As compared to the physician, the position of the surgeon underwent gradual deterioration. Unfortunately, evidence on surgeons in inscriptions is very meager. From the pay structure given in the Tirumukkūḍal Inscription of Vīrarājendra, it is evident that the salary of the surgeon was lower to that of the vaidya indicating the inferior position of surgeons.[67] According to Dominik Wujastyk, there is little evidence to show that the surgical practices described in Suśruta’s work persisted beyond the time of the compendium.[68] This is hardly tenable as commentaries on the Suśruta Saṃhitā continued to be written even in the medieval period. Besides, even in the 11th century Chalukyan record we get reference to a Jaina physician Aggalayya who was proficient in śastra-śāstra or surgery.[69] He flourished under the patronage of the Chalukyan ruler Jayasimha II and the record shows that the practice of surgery was prevalent even among the Jainas who were advocates of non-violence.
 
 Our study, therefore, shows that the normative brahmanical texts do not accurately reflect the stature of medical practitioners in society. There is sufficient non-canonical data and epigraphic evidence to show that physicians were honoured by kings. Idealization of the image of the physician as “a paragon of gentlemanly qualities”[70] is evident in description of the prescribed code of medical ethics and social etiquette in our compendia. He was expected to be genial, modest and sincere. The physician’s code of behaviour was kind of self-regulation. More importantly, physicians looked upon themselves as members of a professional group and not as members of a caste. It is this professionalism which is reflected in the perception of what an ideal physician should be. There is deference towards brahmanical norms; nonetheless their perception of the medical practitioner is guided more by the needs of the profession.
-
-Footnotes and references:
-
-[back to top]
 
 [1]:
 
@@ -4180,10 +3920,7 @@ G.S.Lavekar, Doctor-Patient Relationship in Ancient India (Ayurveda), Varanasi, 
 
 ## 27. Chapter 3
 
-
 Charaka Samhita and Sushruta Samhita
-
-by Nayana Sharma | 2015 | 139,725 words
 
 This page relates ‘Chapter 3’ of the study on the Charaka Samhita and the Sushruta Samhita, both important and authentic Sanskrit texts belonging to Ayurveda: the ancient Indian science of medicine and nature. The text anaylsis its medical and social aspects, and various topics such as diseases and health-care, the physician, their training and specialisation, interaction with society, educational training, etc.
 
@@ -4195,15 +3932,9 @@ Chapter 3
 
 ## 28. The Student of Āyurveda (1): The pre-admission stage
 
-
 Charaka Samhita and Sushruta Samhita
 
-by Nayana Sharma | 2015 | 139,725 words
-
 This page relates ‘Student of Ayurveda (1): The pre-admission stage’ of the study on the Charaka Samhita and the Sushruta Samhita, both important and authentic Sanskrit texts belonging to Ayurveda: the ancient Indian science of medicine and nature. The text anaylsis its medical and social aspects, and various topics such as diseases and health-care, the physician, their training and specialisation, interaction with society, educational training, etc.
-
-Go directly to: 
-Footnotes.
 
 The Student of Āyurveda (1): The pre-admission stage
 
@@ -4275,15 +4006,9 @@ Thus:
 
 śūdramapi kūlaguṇasampannaṃ mantravarjam anupanītam adhyāpayed ity eke.[24]
 
-śūdramapi kūlaguṇasampannaṃ mantravarjam anupanītam adhyāpayed ity eke.[24]
-
 It has been commented, “The use of “according to some,” on the other hand, points to this being an unusual practice, known to Suśruta by hearsay rather than from common occurrence.”[25] Admission of śūdras appears to an exception; hence, it is not mentioned in the stanza on the required qualifications of the student. Nonetheless, it is evident that the medical profession, unlike that of Vedic scholarship, was not an exclusive domain of a particular caste. It is also interesting that although Caraka declares only the upper three varṇas eligible for the medical course, śūdras are not expressly prohibited either. Again it may be pointed out that the practice of admitting śūdras by some teachers is not disputed in our texts reflecting the open-mindedness of medicine–the acceptability of all in medical studies.
 
 Altekar opines that it is quite probable that kṣatriya and śūdra surgeons may have been by tradition and environment, better adepts in the use of the knife than their brāhmaṇa and vaiśya compeers.[26]
-
-Footnotes and references:
-
-[back to top]
 
 [1]:
 
@@ -4393,15 +4118,9 @@ A.S. Altekar, Education in Ancient India, Delhi, 2009 (Reprint), p.43.
 
 ## 29. The Medical Student and the Teacher (Introduction)
 
-
 Charaka Samhita and Sushruta Samhita
 
-by Nayana Sharma | 2015 | 139,725 words
-
 This page relates ‘Medical Student and the Teacher (Introduction)’ of the study on the Charaka Samhita and the Sushruta Samhita, both important and authentic Sanskrit texts belonging to Ayurveda: the ancient Indian science of medicine and nature. The text anaylsis its medical and social aspects, and various topics such as diseases and health-care, the physician, their training and specialisation, interaction with society, educational training, etc.
-
-Go directly to: 
-Footnotes.
 
 The Medical Student and the Teacher (Introduction)
 
@@ -4410,9 +4129,6 @@ The Medical Student and the Teacher (Introduction)
 A distinguishing characteristic of a true physician of the āyurvedic tradition of the Saṃhitās is a well-grounded understanding of all the precepts of medical science. He is required to be acquainted with the principles of treatment (cikitsāprabhṛta) and to be well versed in the texts (śāstravān).[1] An in-depth understanding of the subject and the ability to recite, interpret and summarise the contents of medical treatises are considered by Caraka and Suśruta as the hallmarks of the good physician.[2] For developing a comprehensive understanding of the subject it is essential to have the guidance of a qualified preceptor. Caraka and Suśruta describe Āyurveda as a vast subject dealing with myriad issues which are complex enough to confound even the intelligent and the well-learned.[3] Hence, it is imperative to study the subject from authoritative texts under the guidance of a qualified preceptor.
 
 The concept of an ideal physician is explained by Suśruta in the following words:
-
-sāstraṃgurumukhodgīr ṇamādāyopāsya cāsakṛta.
-yaḥkarma kurute vaidyaḥ sa vaidyoanye tu taskaraḥ.[4]
 
 sāstraṃgurumukhodgīr ṇamādāyopāsya cāsakṛta.
 yaḥkarma kurute vaidyaḥ sa vaidyoanye tu taskaraḥ.[4]
@@ -4432,10 +4148,6 @@ Perception (pratyakṣa), the second source of knowledge, is the comprehension o
 In this chapter, we have looked at the nature of medical training, the attributes of the teacher and the eligible student, teaching methodology and the teacher-student relationship which help us to gather some idea about the transmission of medical knowledge. We have also looked at the initiation of the medical student and how medical studentship differed from that of religious studentship.
 
 According to our medical treatises, Āyurveda has an unbroken lineage of illustrious teachers that is traced back to the creator, Brahmā.[16] After it was originally propounded by Brahmā, this knowledge was transmitted through the other deities to the sages. The continuity of dissemination of the science is emphasised when Caraka says it is not known if ever Āyurveda was non-existent at any time after it was propagated.[17] This trajectory of transmission is similar in our two medical compendia with minor differences. According to the Caraka Saṃhitā, Brahmā taught Āyurveda to Dakṣa, who then taught the Aśvins, and they in turn passed on the knowledge in its entirety to Indra. Indra was approached by ṛṣi Bharadvāja for learning this science when he was advised by other sages to do so.[18] Bharadvāja, in turn, taught the newly acquired knowledge to an august assembly of sages, following which Punarvasu Ātreya expounded it to his six disciples: Agniveśa, Bhela, Jatūkarṇa, Parāśara, Hārita and Kṣārapāṇi.[19] In the Suśruta Saṃhitā, we are told, that the knowledge of medicine was transmitted through almost the same succession of teachers: from the Creator it was passed to Prajāpati, to the Aśvins, and then to Indra. It was from Indra that Dhanvantari acquired the knowledge of Āyurveda.[20] This narrative conveys in mythical style the notion of knowledge of medicine being transmitted in its entirety from Brahmā to Bharadvāja or to Dhanvantari without any alteration. It is important to note that each of the personalities who received the knowledge of medicine also imparted it to the next suitable candidate. It appears, therefore, that dissemination of the science was considered a duty of the physician.
-
-Footnotes and references:
-
-[back to top]
 
 [1]:
 
@@ -4521,15 +4233,9 @@ Suśruta Saṃhitā Sūtrasthāna 1.20.
 
 ## 30. The Teacher of Āyurveda
 
-
 Charaka Samhita and Sushruta Samhita
 
-by Nayana Sharma | 2015 | 139,725 words
-
 This page relates ‘Teacher of Ayurveda’ of the study on the Charaka Samhita and the Sushruta Samhita, both important and authentic Sanskrit texts belonging to Ayurveda: the ancient Indian science of medicine and nature. The text anaylsis its medical and social aspects, and various topics such as diseases and health-care, the physician, their training and specialisation, interaction with society, educational training, etc.
-
-Go directly to: 
-Footnotes.
 
 The Teacher of Āyurveda
 
@@ -4546,10 +4252,6 @@ It is noteworthy that the Suśruta Saṃhitā does not have a similar passage pe
 As dissemination of medical knowledge is considered an obligation of the recipient, the physician is ideally expected to be engaged in teaching. The ideal physician like the prāṇābhisara referred to in the previous chapter, is constantly engaged in the study of the science and mastering the actual application of the precepts.[14] It is not clear from our Saṃhitās whether the preceptors were practising physicians or engaged in teaching alone. Ātreya is portrayed as participating in seminars, discoursing with disciples[15] or engaged in penance in Kailāśa,[16] but not in a clinical situation attending to patients. Divodāsa Dhanvantari is described as living in a hermitage (āśramastham) surrounded by groups of sages (ṛṣigaṇaparivṛtām).[17] As he is addressed as kāśīrāja (the king of Kāśī),[18] it may be surmised he had withdrawn from the life of royalty and taken to the mendicant stage. Considering their wealth of experience in clinical medicine, both the preceptors had been practicing physicians earlier but had possibly taken to teaching after their withdrawal from active practice in their retirement.
 
 It is interesting to note that the medical authorities who participated in a colloquium are described as learned and old (śruta-vayo-vṛddāḥ)[19] which may indicate the possibility that only aged physicians with considerable experience took to teaching. Participants at this colloquium included Vāryovida[20] who is addressed as rājārṣī (the royal sage) and Nimi, the king of Videha.[21] The engagement of kings in medicine was perhaps not unusual for apart from Divodāsa and Nimi, we get the name of Vāmaka, the king of Kāśī[22] as another medical authority.
-
-Footnotes and references:
-
-[back to top]
 
 [1]:
 
@@ -4643,15 +4345,9 @@ Caraka Saṃhitā Sūtrasthāna 25.5.
 
 ## 31. The Student of Āyurveda (2): The Initiation Ceremony
 
-
 Charaka Samhita and Sushruta Samhita
 
-by Nayana Sharma | 2015 | 139,725 words
-
 This page relates ‘Student of Ayurveda (2): The Initiation Ceremony’ of the study on the Charaka Samhita and the Sushruta Samhita, both important and authentic Sanskrit texts belonging to Ayurveda: the ancient Indian science of medicine and nature. The text anaylsis its medical and social aspects, and various topics such as diseases and health-care, the physician, their training and specialisation, interaction with society, educational training, etc.
-
-Go directly to: 
-Footnotes.
 
 The Student of Āyurveda (2): The Initiation Ceremony
 
@@ -4670,10 +4366,6 @@ Certain other similarities with the brahmanical initiation may be noted. The stu
 We may note that the initiation ceremonies of the Vedic and the medical student differ in certain significant aspects. The age and even the season of initiation for the Vedic student differed according to the varṇa (Sāṅkhāyana Gṛhyasūtra[17]; Āpastamba Dharmasūtra[18]). The approved colour of the dress is yellowish red or kaṣāya for the medical student which is the colour recommended for the brāhmaṇa students in the Dharmasūtras.[19] These texts prescribe madder red (māñjiṣṭha) garment for the kṣatriya and turmeric yellow (hāridra) garment for the vaiśya. An upper garment of animal skin (ajina), a girdle (mekhalā), the sacred thread/cord (yajñopavita) and the daṇḍa (staff) in hand are mandatory for the Vedic student but not for the medical student. The material of the girdle, the wood of the staff and its length are all varṇa specific.[20] Such varṇa specific connotations are missing in our two medical texts at least in matters of appearance, and the absence of reference to differently coloured clothing for the medical students seems to indicate that outward signifiers of varṇa differentiation had no place in the medical community. The absence of variations in ceremonial details of the procedure for the three varṇas is significant.
 
 The mention of precious metals, gems and silk garments raises the question if the study of medical science could at all be pursued by those who were not well off. Cakrapāṇidatta adds that it is only the offerings out of the personal efforts or earnings of a disciple which can have auspicious and fruitful effects.[21]
-
-Footnotes and references:
-
-[back to top]
 
 [1]:
 
@@ -4763,15 +4455,9 @@ Cakrapāṇidatta on Caraka Saṃhitā Vimānasthāna 8.9-10.
 
 ## 32. The Student of Āyurveda (3a): The Period of Student-hood
 
-
 Charaka Samhita and Sushruta Samhita
 
-by Nayana Sharma | 2015 | 139,725 words
-
 This page relates ‘Student of Ayurveda (3a): The Period of Student-hood’ of the study on the Charaka Samhita and the Sushruta Samhita, both important and authentic Sanskrit texts belonging to Ayurveda: the ancient Indian science of medicine and nature. The text anaylsis its medical and social aspects, and various topics such as diseases and health-care, the physician, their training and specialisation, interaction with society, educational training, etc.
-
-Go directly to: 
-Footnotes.
 
 The Student of Āyurveda (3a): The Period of Student-hood
 
@@ -4817,10 +4503,6 @@ What is striking about this initiation ceremony as described in the Suśruta’s
 
 The picture that we get of the medical student is that he wore reddish-brown clothes, observed celibacy and vegetarian in his food habits. He was expected to maintain physical hygiene and keep his hair and nails short in length. A student of the Caraka school, however, is advised to maintain beard and moustache. The Vedic pupil is also advised to abstain from honey, meat, substances used for flavouring food (spices), substances that have turned sour, and to refrain from causing harm to living beings.[7] Suśruta, however, does not mention any food restrictions for the student. As regards personal appearance Caraka insists that the student should keep beard and moustache which is not mentioned by Suśruta. Keeping the beard was a practice followed by the student of Vedas as is known from the Atharvaveda (XI.5-6). “The Vedic student goes…clothing himself in the black antelopeskin, consecrated and long-bearded.[8] The code of conduct for students in the Dharmasūtras did not allow them to bathe during their studentship (Āpastamba Dharmasūtra I.2.28). As the period of Vedic studentship was viewed as a period of penance, the student is required to keep his body dirty and his teeth stained.[9] Nothing is said by Caraka about such austerities, while Suśruta’s insistence on cleanliness and personal hygiene, in all probability, precludes these observances.
 
-Footnotes and references:
-
-[back to top]
-
 [1]:
 
 Caraka Saṃhitā Vimānasthāna 8.13.
@@ -4861,15 +4543,9 @@ P. Olivelle, (annotated text and translation), Dharmasūtras, pp.473-474.
 
 ## 33. The Student of Āyurveda (3b): Methodology of Teaching and Study
 
-
 Charaka Samhita and Sushruta Samhita
 
-by Nayana Sharma | 2015 | 139,725 words
-
 This page relates ‘Student of Ayurveda (3b): Methodology of Teaching and Study’ of the study on the Charaka Samhita and the Sushruta Samhita, both important and authentic Sanskrit texts belonging to Ayurveda: the ancient Indian science of medicine and nature. The text anaylsis its medical and social aspects, and various topics such as diseases and health-care, the physician, their training and specialisation, interaction with society, educational training, etc.
-
-Go directly to: 
-Footnotes.
 
 The Student of Āyurveda (3b): Methodology of Teaching and Study
 
@@ -4916,10 +4592,6 @@ The second type of discussion is of a completely different nature which lays emp
 Debates were, thus, regarded as being useful in enhancing one’s intellect and enriching the grasp of the subject but these may not have been the only objectives. It has been commented, “In this pedagogical context, the topic of debate or colloquy (sambhāṣā) is introduced inasmuch as debate is considered a didactic means to be employed beneficially in medical training and as a useful tool in the continuing refinement and improvement of medical knowledge…debate was also practiced, even in a ruthless manner, to resolve conflicts arising from the competitions between rival traditions or schools of physicians, more precisely to neutralize adherents of other traditions as well as outright quacks, by means of successfully conducted debates on medical topics and thus to counteract professional competition.”[34]
 
 Moreover, debates and discussions helped the student to develop the concept of inference (anumāna) and the faculty of reasoning (yukti) which undoubtedly helped in developing analytical skills but more importantly for the clarification of concepts and growth of the knowledge as Caraka advises that a physician should always purify his intellect for the sake of giving proper treatment.[35]
-
-Footnotes and references:
-
-[back to top]
 
 [1]:
 
@@ -5065,10 +4737,7 @@ Caraka Saṃhitā Sūtrasthāna 9.20.
 
 ## 34. Chapter 4
 
-
 Charaka Samhita and Sushruta Samhita
-
-by Nayana Sharma | 2015 | 139,725 words
 
 This page relates ‘Chapter 4’ of the study on the Charaka Samhita and the Sushruta Samhita, both important and authentic Sanskrit texts belonging to Ayurveda: the ancient Indian science of medicine and nature. The text anaylsis its medical and social aspects, and various topics such as diseases and health-care, the physician, their training and specialisation, interaction with society, educational training, etc.
 
@@ -5080,15 +4749,9 @@ Chapter 4
 
 ## 35. The Student of Āyurveda (4): System of assessment
 
-
 Charaka Samhita and Sushruta Samhita
 
-by Nayana Sharma | 2015 | 139,725 words
-
 This page relates ‘Student of Ayurveda (4): System of assessment’ of the study on the Charaka Samhita and the Sushruta Samhita, both important and authentic Sanskrit texts belonging to Ayurveda: the ancient Indian science of medicine and nature. The text anaylsis its medical and social aspects, and various topics such as diseases and health-care, the physician, their training and specialisation, interaction with society, educational training, etc.
-
-Go directly to: 
-Footnotes.
 
 The Student of Āyurveda (4): System of assessment
 
@@ -5099,10 +4762,6 @@ The method of assessing the student’s performance is not mentioned in our trea
 Suśruta also mentions the ability to quote meaningfully from the texts as one of the determinants of the student’s level of learning along with skill in performing procedures.[6] Here we may again refer to Jīvaka’s case. When he asked his preceptor when the learning process would come to an end, he was given a spade and told to search in the vicinity of Takṣaśilā for plants without medicinal value whatsoever. Jīvaka searched a yojana all around the place but could find none. The preceptor was satisfied with his reply and declared that he had done his learning.[7] This test appears wholly inadequate but is an indication of some form of assessment of medical students.
 
 Scholarship for the medical student, however, was a continuous process. Even after he had gained the knowledge of the entire scripture, he should persistently strive to achieve depth in the scriptures, a good grasp of its terminology (abhidhānasya sauṣṭhava), comprehension of the various concepts (vijñāna), and the power of oration (vācanasya śakti).[8] Suśruta has similar recommendation: The scholar should continue to study regularly even after the completion of the course in order to refine the language, to grasp the depth of meaning, to gain confidence and expertise in practical work and to keep it in constant practice as well as to achieve success.[9] Some scholars believe that this is an indication of the encouragement given to the pursuit of post-graduate studies in medicine.[10] We may envisage that practitioners returned to their preceptors for enhancement of knowledge and skills.
-
-Footnotes and references:
-
-[back to top]
 
 [1]:
 
@@ -5148,23 +4807,13 @@ G.D. Singhal et al., Fundamental and Plastic Surgery Considerations in Ancient I
 
 ## 36. Social Implications of Diseases and their Treatment
 
-
 Charaka Samhita and Sushruta Samhita
 
-by Nayana Sharma | 2015 | 139,725 words
-
 This page relates ‘Social Implications of Diseases and their Treatment’ of the study on the Charaka Samhita and the Sushruta Samhita, both important and authentic Sanskrit texts belonging to Ayurveda: the ancient Indian science of medicine and nature. The text anaylsis its medical and social aspects, and various topics such as diseases and health-care, the physician, their training and specialisation, interaction with society, educational training, etc.
-
-Go directly to: 
-Footnotes.
 
 Social Implications of Diseases and their Treatment
 
 Since the last few decades disease is no longer being viewed only as a biological process but also as a social construct. A branch of medical sociology is engaged in the study of the cultural and historical aspects of phenomena thought to be exclusively natural.[1] The medical concept of disease may be different from its societal perceptions. The nature and course of therapeutics are determined by the understanding of aetiology. Alleviation of the syndrome is possible only by the removal of the causal factor leading to the restoration of the original physiological condition. Associated with disease are socio-cultural notions whereby some pathological conditions cause isolation of the patient. In this chapter we will attempt to study the perception of disease in the two ancient Āyurvedic classics, the basic principles and the nature of therapeutics, and the socio-cultural notions of disease.
-
-Footnotes and references:
-
-[back to top]
 
 [1]:
 
@@ -5174,15 +4823,9 @@ P. Conrad and K.K. Barker, “The Social Construction of Illness: Key Insights a
 
 ## 37. Teacher-Student Relationship
 
-
 Charaka Samhita and Sushruta Samhita
 
-by Nayana Sharma | 2015 | 139,725 words
-
 This page relates ‘Teacher-Student Relationship’ of the study on the Charaka Samhita and the Sushruta Samhita, both important and authentic Sanskrit texts belonging to Ayurveda: the ancient Indian science of medicine and nature. The text anaylsis its medical and social aspects, and various topics such as diseases and health-care, the physician, their training and specialisation, interaction with society, educational training, etc.
-
-Go directly to: 
-Footnotes.
 
 Teacher-Student Relationship
 
@@ -5209,10 +4852,6 @@ It is difficult to determine to what extent the rules of initiation were followe
 On the basis of the study of the Caraka and Suśruta Saṃhitās it is difficult to ascertain with certainty the nature of the selection and assessment processes for the medical student but we are better informed on the conception of medical education. The Saṃhitās demonstrate a remarkably eclectic approach to education which is evident in their emphasis on learning related subjects (śāstras)[19] and learning from other experts of the same subject even though they may be rivals in the field. It is very often noticed that the ancient medical authorities held varied views on a particular subject. Students are familiarised with the views of other authorities through discussions we have mentioned earlier and in the course of the lecture. In the Suśruta Saṃhitā we get references five authorities on embryology whose views are stated and refuted with the teacher’s own arguments.[20] The exposure to other hypotheses is an important aspect of medical education in ancient India.
 
 The student is advised to always strive to acquire the desirable qualities and learn similar noble qualities even from his enemies without having any sense of jealousy. Further, he should consider the entire universe as his preceptor as the wise do and it would be foolish think otherwise. The aspiring physician should, therefore, welcome good advice which brings fame, which promotes longevity and strength and which is acceptable to the people. Such advice can be had even from an enemy and be adopted in practice.[21] These words of counsel to the prospective physician embody open-mindedness to concepts and therapeutic practices of not only other experts of the same medical tradition but other traditions as well. Anything that is beneficial should be accepted without prejudice by the practitioner of medicine. Therefore, Caraka insists on making honest efforts to be in constant touch with this science[22] and Suśruta advocates continued study and practice after completion of the course.[23] Perhaps, it would not be wrong to conclude that the ultimate aim of the study of medicine and surgery was not just the cure of the sick but the cultivation of a scientific attitude as well.
-
-Footnotes and references:
-
-[back to top]
 
 [1]:
 
@@ -5310,15 +4949,9 @@ Suśruta Saṃhitā Sūtrasthāna 3.56.
 
 ## 38. The Student of Āyurveda (3c): Practical Knowledge
 
-
 Charaka Samhita and Sushruta Samhita
 
-by Nayana Sharma | 2015 | 139,725 words
-
 This page relates ‘Student of Ayurveda (3c): Practical Knowledge’ of the study on the Charaka Samhita and the Sushruta Samhita, both important and authentic Sanskrit texts belonging to Ayurveda: the ancient Indian science of medicine and nature. The text anaylsis its medical and social aspects, and various topics such as diseases and health-care, the physician, their training and specialisation, interaction with society, educational training, etc.
-
-Go directly to: 
-Footnotes.
 
 The Student of Āyurveda (3c): Practical Knowledge
 
@@ -5374,10 +5007,6 @@ There are three ways by which anatomical knowledge could be obtained as Ludwig E
 As regards scientific dissection, Zysk is of the view that it was initiated in India only at a considerably later time, sometime after Alexander of Macedon set foot on its soil in 326 B.C, but his view has been contested. Bhattacharya refutes this argument for Āyurveda does not have any loan word from the Greeks for dissection; so the question of Hellenistic origin does not arise.[13]
 
 We have dealt with the details of experimental surgery and dissection in Chapter 9 of our thesis in the context of the training of the surgeon. It is significant that among the four sources of knowledge (pramāṇa) Suśruta gives precedence to direct observation (pratyakṣa) over authoritative texts (āgama), inference (anumāna) and analogy (upamāna)[14] signifying the importance of practical work in surgery. As we have already noted in Chapter 2 Suśruta mentions that it is essential for the physician to observe the operations and perform them experimentally to become eligible to practice.
-
-Footnotes and references:
-
-[back to top]
 
 [1]:
 
@@ -5439,15 +5068,9 @@ Suśruta Saṃhitā Sūtrasthāna 1.16.
 
 ## 39. Disease in the classical Saṃhitās
 
-
 Charaka Samhita and Sushruta Samhita
 
-by Nayana Sharma | 2015 | 139,725 words
-
 This page relates ‘Disease in the classical Samhitas’ of the study on the Charaka Samhita and the Sushruta Samhita, both important and authentic Sanskrit texts belonging to Ayurveda: the ancient Indian science of medicine and nature. The text anaylsis its medical and social aspects, and various topics such as diseases and health-care, the physician, their training and specialisation, interaction with society, educational training, etc.
-
-Go directly to: 
-Footnotes.
 
 Disease in the classical Saṃhitās
 
@@ -5460,10 +5083,6 @@ Other than roga, there are several terms that signify disease in our classical S
 Disease is conceptualized as an altered condition of the body and/or the mind that is associated with pain and misery. The perception of fear is also associated with conditions of disorder as we recall the words of Bharadvāja when he approached Indra with the prayer for learning the science of life: “The diseases terrifying to all creatures have manifested themselves…” (vyādho hi samutpannāḥ sarvaprāṇibhayaṅkarāḥ).[23]
 
 Caraka refers to two allegorical narratives relating to the origin of fever and tuberculosis. The wrath of Śiva afflicts men with fever;[24] and that of Dakṣa afflicted Candra with consumption.[25] In both situations, anger is personified as malevolent force that begets suffering in humans as disease. Thus, anger/krodha, yakṣmā, jvara and roga are synonymous in medical parlance and all they connote duḥkha or misery (krodho yakṣmā jvaro roga ekārtho duḥkhasaṃjñak).[26]
-
-Footnotes and references:
-
-[back to top]
 
 [1]:
 
@@ -5573,15 +5192,9 @@ Caraka Saṃhitā Cikitsāsthāna 8.11.
 
 ## 40. Disease in the Vedas
 
-
 Charaka Samhita and Sushruta Samhita
 
-by Nayana Sharma | 2015 | 139,725 words
-
 This page relates ‘Disease in the Vedas’ of the study on the Charaka Samhita and the Sushruta Samhita, both important and authentic Sanskrit texts belonging to Ayurveda: the ancient Indian science of medicine and nature. The text anaylsis its medical and social aspects, and various topics such as diseases and health-care, the physician, their training and specialisation, interaction with society, educational training, etc.
-
-Go directly to: 
-Footnotes.
 
 Disease in the Vedas
 
@@ -5602,10 +5215,6 @@ Charms represent the use of associative magic for the removal of disease symptom
 It is noteworthy as Zysk points out, that the idea of health in the positive sense is wanting in Vedic medicine. Any notion of the concept was to be found on the negative sense or opposite of what was understood as disease, or more specifically in the absence of particular disease-causing demons, of injuries and damages or of toxins.[31]
 
 From the discussion of the aetiology of diseases arises the question as to whether the Atharvan healer had any knowledge of the tridoṣa theory of the body, a fundamental cornerstone of the classical medical texts. The principle of three doṣas (dhātus) of the human body goes like a red thread through the whole of medicine.[32] Bolling opines that it does not appear in the early Atharvan texts[33] though some scholars like S.N. Dasgupta[34] and Karambelkar think that the germs of tridoṣa theory are to be found in the Atharvan hymns.[35] Rao traces the theory back to the Ṛgveda (Ṛgveda 1.34).[36] However, the theory of three active elements of the organism which, on their equilibrium being disturbed or because of functional anomalies, become its three elements of trouble (tridoṣa), the wind, the phlegm and the bile, had not yet been constituted at the times of the Vedas themselves.[37] Filliozat points out that the notion of phlegm hardly prefigures in the Atharvaveda, and it is in the Śatapatha-Brāhmaṇa, that this element is named under one of its principal names, the ślesman.[38]
-
-Footnotes and references:
-
-[back to top]
 
 [1]:
 
@@ -5763,15 +5372,9 @@ J. Filliozat, The Classical Doctrine of Indian Medicine, pp. 187-188.
 
 ## 41. Aetiology (a): Ādhyatmika
 
-
 Charaka Samhita and Sushruta Samhita
 
-by Nayana Sharma | 2015 | 139,725 words
-
 This page relates ‘Aetiology (a): Adhyatmika’ of the study on the Charaka Samhita and the Sushruta Samhita, both important and authentic Sanskrit texts belonging to Ayurveda: the ancient Indian science of medicine and nature. The text anaylsis its medical and social aspects, and various topics such as diseases and health-care, the physician, their training and specialisation, interaction with society, educational training, etc.
-
-Go directly to: 
-Footnotes.
 
 Aetiology (a): Ādhyatmika
 
@@ -5803,10 +5406,6 @@ Doṣika (humoral) diseases can be of further two types:
 
 (d) mānasā-psychic.
 
-Footnotes and references:
-
-[back to top]
-
 [1]:
 
 Monier-Williams, p.139.
@@ -5815,15 +5414,9 @@ Monier-Williams, p.139.
 
 ## 42. Aetiology (b): Ādhibhautika
 
-
 Charaka Samhita and Sushruta Samhita
 
-by Nayana Sharma | 2015 | 139,725 words
-
 This page relates ‘Aetiology (b): Adhibhautika’ of the study on the Charaka Samhita and the Sushruta Samhita, both important and authentic Sanskrit texts belonging to Ayurveda: the ancient Indian science of medicine and nature. The text anaylsis its medical and social aspects, and various topics such as diseases and health-care, the physician, their training and specialisation, interaction with society, educational training, etc.
-
-Go directly to: 
-Footnotes.
 
 Aetiology (b): Ādhibhautika
 
@@ -5834,10 +5427,6 @@ Therefore, in this context, it connotes afflictions proceeding from other beings
 (a) Traumatic (saṃghāṭabalapravṛtta) afflictions are in the nature of external injuries caused to a weaker person by a stronger adversary. Injuries may arise from the use of sharp weapons (śastrakṛtāḥ) or from attack of wild animals (vyālakṛtāḥ). Both are tangible in nature.
 
 (b) Seasonal (kālabalapravṛtta)-afflictions are caused by heat, cold, wind, rain and other seasonal factors. They may be due to abnormality of the seasons or seasonal variations.
-
-Footnotes and references:
-
-[back to top]
 
 [1]:
 
@@ -5851,15 +5440,9 @@ P. Ray et al., Sushruta Saṃhitā (A Scientific Synopsis), p.48.
 
 ## 43. Aetiology of Disease
 
-
 Charaka Samhita and Sushruta Samhita
 
-by Nayana Sharma | 2015 | 139,725 words
-
 This page relates ‘Aetiology of Disease’ of the study on the Charaka Samhita and the Sushruta Samhita, both important and authentic Sanskrit texts belonging to Ayurveda: the ancient Indian science of medicine and nature. The text anaylsis its medical and social aspects, and various topics such as diseases and health-care, the physician, their training and specialisation, interaction with society, educational training, etc.
-
-Go directly to: 
-Footnotes.
 
 Aetiology of Disease
 
@@ -5870,8 +5453,6 @@ Suśruta understands that there is a fourth factor, śoṇita/rakta or blood whi
 The second aspect of disease aetiology for the physician is the understanding the factors and processes involved in the perturbation of the doṣas. The principle of causality is vital to therapeutics.
 
 Hence, Caraka comments:
-
-“The state of equilibrium of the dhātus is not disturbed nor is the imbalanced state brought to normalcy without some causative factors. It is the causative factors which determine the equilibrium or imbalance of the dhātus.”[13]
 
 “The state of equilibrium of the dhātus is not disturbed nor is the imbalanced state brought to normalcy without some causative factors. It is the causative factors which determine the equilibrium or imbalance of the dhātus.”[13]
 
@@ -6016,10 +5597,6 @@ On the basis of aetiology, Sūtrasthāna ruta recognises seven types of diseases
 ādhidaivika.[49]
 
 The prefix “ādhi” indicates discomfort, in particular mental discomfort and is mostly used in association with vyādhi, especially bodily disease.[50] All adhyatmika diseases are intrinsic disorders while the other two categories originate from extrinsic causes.
-
-Footnotes and references:
-
-[back to top]
 
 [1]:
 
@@ -6225,21 +5802,13 @@ S.K.R. Rao, Encyclopaedia of Indian Medicine, Vol. II, p.18.
 
 ## 44. Karma and Disease
 
-
 Charaka Samhita and Sushruta Samhita
 
-by Nayana Sharma | 2015 | 139,725 words
-
 This page relates ‘Karma and Disease’ of the study on the Charaka Samhita and the Sushruta Samhita, both important and authentic Sanskrit texts belonging to Ayurveda: the ancient Indian science of medicine and nature. The text anaylsis its medical and social aspects, and various topics such as diseases and health-care, the physician, their training and specialisation, interaction with society, educational training, etc.
-
-Go directly to: 
-Footnotes.
 
 Karma and Disease
 
 The ancient physicians also had to deal with the doctrine of “karma” (actions of previous states of existence) as a disease determinant which undoubtedly presented a conundrum for them.
-
-“The study of karma in the traditional Indian medical system, Āyurveda, shows how conflict between fatalistic aspects of an indigenous traditional concept must be reconciled with a practical system which necessarily assumes that the course of many human ills is not pre-determined.”[1]
 
 “The study of karma in the traditional Indian medical system, Āyurveda, shows how conflict between fatalistic aspects of an indigenous traditional concept must be reconciled with a practical system which necessarily assumes that the course of many human ills is not pre-determined.”[1]
 
@@ -6248,8 +5817,6 @@ The correlation of karma and disease is evident in brahmanical law books. Viṣ�
 The term karma does not appear in the classification of Suśruta, which we have discussed above. Suśruta uses the term daiva for a category of diseases that are sent by the gods, or that is associated with destiny, fate or chance, etc.[5]
 
 Caraka, however, has used this term for pre-determined acts:
-
-“The actions performed in the previous life, which are known as daiva (fate), also constitute in due course causative factors for the manifestation of diseases.”[6]
 
 “The actions performed in the previous life, which are known as daiva (fate), also constitute in due course causative factors for the manifestation of diseases.”[6]
 
@@ -6269,8 +5836,6 @@ A salutary regimen and good conduct counteracts the harmful effect of his/her de
 
 “This implies that our ordinary non-moral action in proper care of health, taking proper tonics, medicines, and the like, can modify or arrest the ordinary course of the fruition of our karma.”[12]
 
-“This implies that our ordinary non-moral action in proper care of health, taking proper tonics, medicines, and the like, can modify or arrest the ordinary course of the fruition of our karma.”[12]
-
 Caraka’s final argument against the theory of karma is that acceptance of predetermination is to negate the significance of incantations, religious rites and observances, and auspicious acts.[13]
 
 According to other theories the laws of karma are immutable. By differentiating karma into two components and shifting the emphasis of etiology from previous lives to the present, karma no longer remains immutable in Caraka’s theory.[14] There is an excellent instance where karma is refuted as an aetiological factor in mental disorders. Some scholars hold the view that exogenous unmāda is caused by past deeds; however, Punarvasu Ātreya considers prajñāparādha or errors of judgment as the causative factor of this condition.[15]
@@ -6278,8 +5843,6 @@ According to other theories the laws of karma are immutable. By differentiating 
 Weiss comments that the Suśruta Saṃhitā, on the other hand, is more reluctant to cite karma as an etiologic factor.[16] Here we may cite an instance in favour of the statement. It is striking that while enumerating the etiological factors for kuṣṭha (skin disorders) in the Nidāna-sthāna, sinful deeds are not considered as a factor.[17]
 
 There is a reference at the end of the same chapter to the effect:
-
-“It has been said that the evil acts of killing brāhmins, women and noble persons, and taking riches of others, etc., produce kuṣṭha as a disease of sin.”[18]
 
 “It has been said that the evil acts of killing brāhmins, women and noble persons, and taking riches of others, etc., produce kuṣṭha as a disease of sin.”[18]
 
@@ -6291,13 +5854,7 @@ Here we may cite from Suśruta:
 
 “The root cause of all diseases is vitiation of vāta, pitta or śleṣman only (sarveṣāṃ ca vyādhināmvātapittaśleṣmāṇa eva mūlaṃ), as their features can be observed (in the diseased state) and as the treatment proves successful if they are treated (on the basis of the doṣas concerned)…”[24]
 
-“The root cause of all diseases is vitiation of vāta, pitta or śleṣman only (sarveṣāṃ ca vyādhināmvātapittaśleṣmāṇa eva mūlaṃ), as their features can be observed (in the diseased state) and as the treatment proves successful if they are treated (on the basis of the doṣas concerned)…”[24]
-
 Any abnormality of the human body cannot be isolated from the doṣas. The multifarious manifestations of diseases can be attributed to the interaction among the doṣas, dhātus and malas, the specific location of the perturbed doṣa, and diverse aetiological factors involved. Thus, the vitiated doṣa may affect any the tissue and the disease is designated accordingly.[25]
-
-Footnotes and references:
-
-[back to top]
 
 [1]:
 
@@ -6403,15 +5960,9 @@ Suśruta Saṃhitā Sūtrasthāna 24.8.
 
 ## 45. Aetiology (c): Ādhidaivika
 
-
 Charaka Samhita and Sushruta Samhita
 
-by Nayana Sharma | 2015 | 139,725 words
-
 This page relates ‘Aetiology (c): Adhidaivika’ of the study on the Charaka Samhita and the Sushruta Samhita, both important and authentic Sanskrit texts belonging to Ayurveda: the ancient Indian science of medicine and nature. The text anaylsis its medical and social aspects, and various topics such as diseases and health-care, the physician, their training and specialisation, interaction with society, educational training, etc.
-
-Go directly to: 
-Footnotes.
 
 Aetiology (c): Ādhidaivika
 
@@ -6455,10 +6006,6 @@ inability of the individual to perform normal functions.
 
 In fact, the term “roga” and its synonyms (ātaṇka, yakṣma, vikāra, etc.) denote both the doṣas and the disease (vyādhi).[8]
 
-Footnotes and references:
-
-[back to top]
-
 [1]:
 
 Monier-Williams, p.138.
@@ -6495,15 +6042,9 @@ Caraka Saṃhitā Vimānasthāna 6.4.
 
 ## 46. Disease as an entity or as a process
 
-
 Charaka Samhita and Sushruta Samhita
 
-by Nayana Sharma | 2015 | 139,725 words
-
 This page relates ‘Disease as an entity or as a process’ of the study on the Charaka Samhita and the Sushruta Samhita, both important and authentic Sanskrit texts belonging to Ayurveda: the ancient Indian science of medicine and nature. The text anaylsis its medical and social aspects, and various topics such as diseases and health-care, the physician, their training and specialisation, interaction with society, educational training, etc.
-
-Go directly to: 
-Footnotes.
 
 Disease as an entity or as a process
 
@@ -6524,10 +6065,6 @@ Neither of the authorities discuss the humoral implications of bhūta or graha a
 the reflection of an image in a mirror, or cold and heat penetrating the body, or sun rays entering the suryakānta maṇi (the sunstone).[16] The patient, thus, personifies a particular being without taking on his or her physical likeness. However, there is the alternate view that the dreadful followers (paricāraka) of grahas who roam about at night, enter the human body in innumerable numbers, and thrive on blood, fat and flesh.[17] Suśruta also uses the terms graha and niśācara to indicate wound infection which we shall discuss in chapter 9.
 
 The humoral pathology of these diseases as also of pediatric diseases attributed to grahas is less understood in the early Saṃhitās. The pathogenesis of disorders caused by divine fury, spells and imprecations is also not addressed by the authors. It is simply stated that they too cause imbalance of all the three doṣas.[18] The nature of disease etiology in the Saṃhitās, therefore, may be described as primarily physiological supplemented by ontological conception.
-
-Footnotes and references:
-
-[back to top]
 
 [1]:
 
@@ -6605,15 +6142,9 @@ Caraka Saṃhitā Cikitsāsthāna 3.118-119.
 
 ## 47. The Principles of Therapeutics (Cikitsā)
 
-
 Charaka Samhita and Sushruta Samhita
 
-by Nayana Sharma | 2015 | 139,725 words
-
 This page relates ‘Principles of Therapeutics (Cikitsa)’ of the study on the Charaka Samhita and the Sushruta Samhita, both important and authentic Sanskrit texts belonging to Ayurveda: the ancient Indian science of medicine and nature. The text anaylsis its medical and social aspects, and various topics such as diseases and health-care, the physician, their training and specialisation, interaction with society, educational training, etc.
-
-Go directly to: 
-Footnotes.
 
 The Principles of Therapeutics (Cikitsā)
 
@@ -6660,10 +6191,6 @@ Suśruta gives a four-fold classification of therapeutic procedures, which is as
 (iv) Ācāra—(behaviour) consists of activities relating to body, speech and mind, such as moving up and down, reciting, reading etc. (relating to speech) and meditation, thinking, determination, etc. (mental activities) properly employed after examining age, etc.[15]
 
 The term daivavyāpāśraya or a similar term does not occur in the text. Nor are rituals and prayers specifically mentioned as ācāra. Nonetheless, they are recommended as a therapeutic measure in several diseases as we shall discuss. Chanting of hymns as a protective measure is evident in surgeries;[16] in the protection of the wounded[17] and in cases of mūḍhagarbha (abnormal foetal presentations), and attempts to deliver the foetus alive.[18]
-
-Footnotes and references:
-
-[back to top]
 
 [1]:
 
@@ -6741,15 +6268,9 @@ Suśruta Saṃhitā Cikitsāsthāna 15.5-8.
 
 ## 48. Infirmaries and Hospitals in ancient India
 
-
 Charaka Samhita and Sushruta Samhita
 
-by Nayana Sharma | 2015 | 139,725 words
-
 This page relates ‘Infirmaries and Hospitals in ancient India’ of the study on the Charaka Samhita and the Sushruta Samhita, both important and authentic Sanskrit texts belonging to Ayurveda: the ancient Indian science of medicine and nature. The text anaylsis its medical and social aspects, and various topics such as diseases and health-care, the physician, their training and specialisation, interaction with society, educational training, etc.
-
-Go directly to: 
-Footnotes.
 
 Infirmaries and Hospitals in ancient India
 
@@ -6768,10 +6289,6 @@ Provision for medical facilities in Brahmanical temples is known from the Sanjel
 Two inscriptions from South India are especially significant in this context: the Tirumukkūḍal Inscription of Vīrarājendra (1069 C.E.)[22] and the Srirangam inscription of Garuḍavāhana Bhaṭṭa (Śaka 1415)[23] engraved on a shrine of Dhanvantari within in the precincts the Raṅganātha temple at Śrīraṅgam. The former, in particular, provides details of the hospital management including the remuneration structure of the hospital staff, mode of payment and the overhead costs, which is not available elsewhere.
 
 The āturaśālā or hospital was meant exclusively for the teachers and students of the residential school attached to the temple of Venkaṭeśa Perumāl as also for all categories of service providers to the temple. The staff of the fifteen-bedded hospital comprised a vaidya, a surgeon, nurses, barbers and herb collectors. The nurses attended to the patients and administered medicines. The barber served the hospitalized patients, teachers and students. The staff in-charge of collecting the herbs was also given the task of collecting fuel and preparing medicines.[24] The details of hospital management have been tabulated in the appendix to this chapter.
-
-Footnotes and references:
-
-[back to top]
 
 [1]:
 
@@ -6873,15 +6390,9 @@ S. Basu Majumdar, “Medical Practitioners, Medicines and Medical Institutions i
 
 ## 49. Practice of Therapeutics
 
-
 Charaka Samhita and Sushruta Samhita
 
-by Nayana Sharma | 2015 | 139,725 words
-
 This page relates ‘Practice of Therapeutics’ of the study on the Charaka Samhita and the Sushruta Samhita, both important and authentic Sanskrit texts belonging to Ayurveda: the ancient Indian science of medicine and nature. The text anaylsis its medical and social aspects, and various topics such as diseases and health-care, the physician, their training and specialisation, interaction with society, educational training, etc.
-
-Go directly to: 
-Footnotes.
 
 Practice of Therapeutics
 
@@ -6954,10 +6465,6 @@ When such measures intended to alter the distortion of the cognitive process of 
 While on the one hand there is sympathy and understanding for the patient, on the other, physical methods of brutalizing the patient appear to be an integral part of Caraka’s methodology. It is, however, recommended in certain situations, as for instance, when the initial clinical therapies are unsuccessful. Thus, should cleansing of the body be ineffective, procedures like inhalation, application of collyrium and beating are recommended for stimulating the mind, body and intellect (…tāḍanaṃ ca manobuddhidehasaṃvejanaṃ hitam).[54] Again, when a physically strong patient refuses to abide by the instructions, he can be tied up with pieces of cloth (without causing hurt) and kept confined to a dark room devoid of iron rods and wooden pieces.[55] The precautions to be taken in dealing with such patients are clearly spelled out for the physician. Depending on the behaviour and response of the mental disorders patients to medical intervention, their treatment varied from kindness and insensitivity to harshness. The objective of psychotherapy is to overcome the perversion of mind and loss of memory so that the patient regains consciousness[56] whereby he is relieved of the perversion or distortion of intellect, mind and memory that defines the condition of unmāda.[57]
 
 The physician can consider the course of action complete with the appearance of symptoms of normal functioning of the physiological processes in the patient. These symptoms are spelled out clearly in the texts. The physician is advised to identify the symptoms of well-being. Subsidence of fever is marked by the observation of these symptoms in the patient: a feeling of lightness in the head (laghutva śira), perspiration (sveda), slight facial pallor (mukhapāṇḍu), stomatitis (mukhapāka), sneezing (kṣavathu) and appearance of appetite (annakāṅkṣā).[58] A patient is cured of unmāda if he manifests symptoms of clarity of sense faculties, clarity of intellect, spirit as well as of the mind, and normalcy of the tissue elements.[59]
-
-Footnotes and references:
-
-[back to top]
 
 [1]:
 
@@ -7199,15 +6706,9 @@ Caraka Saṃhitā 9.97.
 
 ## 50. Denial of Treatment
 
-
 Charaka Samhita and Sushruta Samhita
 
-by Nayana Sharma | 2015 | 139,725 words
-
 This page relates ‘Denial of Treatment’ of the study on the Charaka Samhita and the Sushruta Samhita, both important and authentic Sanskrit texts belonging to Ayurveda: the ancient Indian science of medicine and nature. The text anaylsis its medical and social aspects, and various topics such as diseases and health-care, the physician, their training and specialisation, interaction with society, educational training, etc.
-
-Go directly to: 
-Footnotes.
 
 Denial of Treatment
 
@@ -7278,10 +6779,6 @@ Suśruta reproves messengers who wear old clothes or whose apparel is not white.
 Four categories of matted-haired individuals are identified by Olivelle. They are those who have withdrawn or forced to withdraw from society-the forest hermits, known as Vaikhānasa or Vānaprastha, the aged, the political exiles[62] and Śaivaite ascetics. Avadhūtas and other Śaivaite ascetics let their hair grow and become matted as a symbol of their liberated status and freedom from normal ascetic rules.[63] Messengers carrying skull, stone, ash, bones, husk or burning charcoal in hand are also not regarded favourably by Suśruta.[64] These objects remind us of the Lākulā ascetic who imitate the terrible form of his god Rudra and carries cranium begging bowl, skull-topped staff, a garland of human bones, covered in ash and has his hair matted or shaved.[65] The Pāśupatas, the oldest Śaiva sect, of which the Lākula is a sub-branch, bore the mark of their sect-the ashes in which they bathe three a day.[66] Do these declarations, therefore, display an antipathy towards such Śaivaite ascetics? Other types of messengers censured by Suśruta are those smeared with oil and mud, wearing red garlands or have applied red paste.[67] Smearing of bodies with oil and mud is common among wrestlers who as Olivelle points out coincidentally shave their heads completely or at least cut it very short.[68]
 
 Faith of the patient in the therapy or the physician is yet another necessary tenet of treatment. Among several factors that contribute to negative results of the therapy is the absence of faith in the therapy. Hence, the physician is warned against conducting it on such a patient.[69] Faith in the therapy cannot be disassociated from confidence in the physician. As we have noted in chapter 2, there are instances in the texts where expression of respect to the physician is declared mandatory on part of the patient. Caraka emphasises that people must specially extend their respectful regard to a physician.[70] A physician who does not abide by these tenets and takes on such patients suffers defamation because of his sinful acts.[71] A physician who does not abide by these tenets and takes on such patients suffers defamation because of his sinful acts.[72]
-
-Footnotes and references:
-
-[back to top]
 
 [1]:
 
@@ -7575,15 +7072,9 @@ Caraka Saṃhitā Vimānasthāna 3.45.
 
 ## 51. Appendix 1 - Description of a Hospital
 
-
 Charaka Samhita and Sushruta Samhita
 
-by Nayana Sharma | 2015 | 139,725 words
-
 This page relates ‘Description of a Hospital’ of the study on the Charaka Samhita and the Sushruta Samhita, both important and authentic Sanskrit texts belonging to Ayurveda: the ancient Indian science of medicine and nature. The text anaylsis its medical and social aspects, and various topics such as diseases and health-care, the physician, their training and specialisation, interaction with society, educational training, etc.
-
-Go directly to: 
-Footnotes.
 
 Appendix 1 - Description of a Hospital
 
@@ -7597,10 +7088,6 @@ Arrangements are to be made for bedding, seats, etc. Golden vase and spittoon ar
 
 There should also be grinding stones (mortars) -smooth, hard and of medium size along with well cleaned pestles, sharp instruments, accessories, smoking pipe, tube for enema and douche, broom, scales and measuring vessels, ghee, oil, muscle fat, marrow, honey, phāṇita (a sugar cane preparation), salt, fuel, various types of wine like the one prepared of honey, sīdhu, surā, sauvīraka, maireya, medaka, tuṣodaka, curd, whey, udasvit (a mixture of water and butter milk in equal parts), dhānyāmla (sour gruel), śāli (Oryza sativa Linn.), ṣaṣṭika (a variety of Oryza sativa Linn.), mudga (Phaseolus mungo Linn.), māṣa (Phaseolus radicus Linn.), yava (Hordeum vulgara Linn.), tila (Sesamum indicum Linn.), Kulattha (Dolichos bifforus Linn.), badara (Zizyphus jujube Lam.), mṛdvīkā (Vitis vinifera Linn.), kāśmarya (Gmelina arborea Linn), parūṣaka (Grewia asiatica Linn.), abhay ā(Terminalia chebula Linn.), āmalakī (Embilica officinalis Gaertn), bibhītaka (Termenalia bellerica Roxb.), other drugs employed in oleation, fomentation, emesis, purgation, those having the combined action of emesis and purgation, which are known as constipatives, and appetizers and ablatines of v ta, etc., which are carminatives, and such other medicines as are conducive to the treatment of complications, if any, and also those which are useful in and after treatment should also be collected”.
 
-Footnotes and references:
-
-[back to top]
-
 [1]:
 
 Caraka Saṃhitā Sūtrasthāna 15.6-7.
@@ -7609,23 +7096,13 @@ Caraka Saṃhitā Sūtrasthāna 15.6-7.
 
 ## 52. Appendix 2 - The details of hospital management
 
-
 Charaka Samhita and Sushruta Samhita
 
-by Nayana Sharma | 2015 | 139,725 words
-
 This page relates ‘details of hospital management’ of the study on the Charaka Samhita and the Sushruta Samhita, both important and authentic Sanskrit texts belonging to Ayurveda: the ancient Indian science of medicine and nature. The text anaylsis its medical and social aspects, and various topics such as diseases and health-care, the physician, their training and specialisation, interaction with society, educational training, etc.
-
-Go directly to: 
-Footnotes.
 
 Appendix 2 - The details of hospital management
 
 The details of hospital management from the Tirumukuḍḍal inscription:[1]
-
-Footnotes and references:
-
-[back to top]
 
 [1]:
 
@@ -7635,10 +7112,7 @@ S. Basu Majumdar, “Medical Practitioners, Medicines and Medical Institutions i
 
 ## 53. Chapter 5
 
-
 Charaka Samhita and Sushruta Samhita
-
-by Nayana Sharma | 2015 | 139,725 words
 
 This page relates ‘Chapter 5’ of the study on the Charaka Samhita and the Sushruta Samhita, both important and authentic Sanskrit texts belonging to Ayurveda: the ancient Indian science of medicine and nature. The text anaylsis its medical and social aspects, and various topics such as diseases and health-care, the physician, their training and specialisation, interaction with society, educational training, etc.
 
@@ -7650,15 +7124,9 @@ Chapter 5
 
 ## 54. The Social Implications of Disease
 
-
 Charaka Samhita and Sushruta Samhita
 
-by Nayana Sharma | 2015 | 139,725 words
-
 This page relates ‘Social Implications of Disease’ of the study on the Charaka Samhita and the Sushruta Samhita, both important and authentic Sanskrit texts belonging to Ayurveda: the ancient Indian science of medicine and nature. The text anaylsis its medical and social aspects, and various topics such as diseases and health-care, the physician, their training and specialisation, interaction with society, educational training, etc.
-
-Go directly to: 
-Footnotes.
 
 The Social Implications of Disease
 
@@ -7678,8 +7146,6 @@ According to the text:
 
 “Some wicked men suffer from a change of their (natural) appearance in consequence of crimes committed in life, and some in consequence of those committed in former (existence).”[13]
 
-“Some wicked men suffer from a change of their (natural) appearance in consequence of crimes committed in life, and some in consequence of those committed in former (existence).”[13]
-
 Diseased nails, black teeth, consumption, diseased skin, foul-smelling nose, stinking breath, deficiency in limbs, redundant limbs, dyspepsia, dumbness, white leprosy, lameness, blindness, loss of one eye, general sickliness, swelling in the limbs are all occasioned by sinful acts.[14] Thus, deformed men are all despised by the virtuous and penances must always be performed for their purification for those whose sins are not expiated are born again with disgraceful marks.[15] The issue of stigmatization of disease is obvious when it is ordained that persons afflicted with skin disease,[16] deformed nails, black teeth,[17] consumption,[18] pāparoga,[19] epilepsy, swelling of gland, vitiligo (śvitra), insanity, and blindness[20] must be avoided at śrāddhas.
 
 These ordinations leave us in no doubt that disease, particularly disease with visibility, was strongly despised. Manu’s pronouncements indicate the association of diseases with social disapproval and censure. The diseased in some cases even faced legal disability as contracts made by the mentally diseased or the grievously disordered by disease are deemed invalid.[21] Even in the medical texts, deformity meets with disapproval; messengers who are deformed or who have superfluous or fewer body parts are not regarded as auspicious.[22]
@@ -7689,9 +7155,6 @@ Disorders of the skin have always aroused much dread and caused its patients to 
 In the ancient Indian context too, skin dermatoses served as a marker of social isolation. The Brahmanical texts disallow marriage to a patient as well as into those families who have a member suffering from skin dermatoses.[28] The offspring of kuṣṭha patient is maligned as “kuṣṭhī’.[29]
 
 According to Suśruta, no other disease is as distressing as kuṣṭha for if one destined to suffer from the same disease even in the next birth.
-
-mriyate yadi kuṣṭhena punarjāte(a)pi gacchati.
-nātaḥ kaṣṭtaro rogo yathā kuṣṭhaṃ prakīrtitam.[30]
 
 mriyate yadi kuṣṭhena punarjāte(a)pi gacchati.
 nātaḥ kaṣṭtaro rogo yathā kuṣṭhaṃ prakīrtitam.[30]
@@ -7735,10 +7198,6 @@ We have also pointed out the absence of karma in the etiological classification 
 The manifestation of the third category of diseases can be of two types: the condition can be painful though the causative factors may be minimal (as the doṣas are not excessively vitiated) or the symptoms may be mild despite the severe doṣa vitiation. Here, measures for alleviation of the effects of the past deeds and the doṣas have to taken for successful treatment.[71] In such cases, both spiritual and rational therapies are adopted.[72]
 
 The statement is an admission of the inadequacy of therapeutics alone in the healing of obstinate maladies and emphasizes the importance of what may be regarded as non-pharmacological aspects of healing, such as rituals, behavioural modification, paying respect to preceptors, brāhmaṇas, etc. Besides, when two cases with similar symptoms show different results, the physician could fall back on the notion of karma. The intrusion of non-rational elements can be attributed to popularity of such perception among lay persons as also to inadequacies of the medical theory itself to explain particular clinical symptoms.
-
-Footnotes and references:
-
-[back to top]
 
 [1]:
 
@@ -8032,10 +7491,7 @@ Suśruta Saṃhitā Uttaratantra 40.164-166/1.
 
 ## 55. Chapter 6
 
-
 Charaka Samhita and Sushruta Samhita
-
-by Nayana Sharma | 2015 | 139,725 words
 
 This page relates ‘Chapter 6’ of the study on the Charaka Samhita and the Sushruta Samhita, both important and authentic Sanskrit texts belonging to Ayurveda: the ancient Indian science of medicine and nature. The text anaylsis its medical and social aspects, and various topics such as diseases and health-care, the physician, their training and specialisation, interaction with society, educational training, etc.
 
@@ -8047,15 +7503,9 @@ Chapter 6
 
 ## 56. Epidemics (maraka)
 
-
 Charaka Samhita and Sushruta Samhita
 
-by Nayana Sharma | 2015 | 139,725 words
-
 This page relates ‘Epidemics (maraka)’ of the study on the Charaka Samhita and the Sushruta Samhita, both important and authentic Sanskrit texts belonging to Ayurveda: the ancient Indian science of medicine and nature. The text anaylsis its medical and social aspects, and various topics such as diseases and health-care, the physician, their training and specialisation, interaction with society, educational training, etc.
-
-Go directly to: 
-Footnotes.
 
 Epidemics (maraka)
 
@@ -8183,10 +7633,6 @@ It is significant that the texts do not refer to any special formulations to be 
 Change of place (sthāna-parityāga) is advised by Suśruta along with the similar suggestions-pacifying action (śāntikarma), atonement (prāyaścitta), auspicious rites (maṅgala), incantation (japa), lighting of sacred fire (homa), offerings (uphāra), sacrifices (ejya), salutation with folded hands (añjali-namaskāra), penance (tapa), religious observance (niyama), compassion (dayā), charity (dāna), initiation from the preceptors (dīkṣā), and devotion to the Gods, brāhmaṇas and teachers for the restoration of well being.[35] Similar opinion is available in other texts-Varāhamihira opines that effects of stellar phenomenon (related to planets and stars) can be assuaged by large gifts of gold, food, cows and lands, by koṭihoma (sacrificial offering), etc.[36]
 
 The absence of extraordinary therapeutic measures to cope with such calamitous events is indeed striking. We are in the dark about how such outbreaks affected different strata of society. Even more curious is the absence of a separate chapter dealing with epidemic outbreaks in Suśruta’s compendium wherein the subject has been dealt with cursorily. In fact, taken as a whole, our information about epidemics is quite meagre in our sources.
-
-Footnotes and references:
-
-[back to top]
 
 [1]:
 
@@ -8336,15 +7782,9 @@ Bṛhat-Saṃhitā, 46.6.
 
 ## 57. Class and Gender (Introduction)
 
-
 Charaka Samhita and Sushruta Samhita
 
-by Nayana Sharma | 2015 | 139,725 words
-
 This page relates ‘Class and Gender (Introduction)’ of the study on the Charaka Samhita and the Sushruta Samhita, both important and authentic Sanskrit texts belonging to Ayurveda: the ancient Indian science of medicine and nature. The text anaylsis its medical and social aspects, and various topics such as diseases and health-care, the physician, their training and specialisation, interaction with society, educational training, etc.
-
-Go directly to: 
-Footnotes.
 
 Class and Gender (Introduction)
 
@@ -8379,9 +7819,6 @@ Other than the intellectual stratum, the patrons of such rasāyanic treatments m
 Overall, rasāyana is an elitist brahmanical male-centric therapy that is extremely restrictive in its administration. The presence of brāhmaṇas is mandatory during the period of rasāyanic treatment[45] making it admissible only to dvijātis.[46] Faith in the Vedas and regularity in study of the scriptures are also said to be beneficial for the therapy. Non-dvijātis (śūdras) and women are categorically excluded from the purview of rasāyana. Women are debarred from entering the cottage (kuṭī) during the therapy.[47] These anti-aging rejuvenating formulations must have been prized classified knowledge for they are safeguarded against their revelation to undesirable persons.
 
 Thus, the physician is cautioned against their disclosure to a person of evil nature, to one who is not free from disease, who is not a dvijāti and to one without faith in the therapy:
-
-tadetanna bhavedvācyaṃ sarvameva hatātmasu.
-arujebhyo(a)dvijātibhyaḥ śuśrūṣā yaṣu nāsti ca.[48]
 
 tadetanna bhavedvācyaṃ sarvameva hatātmasu.
 arujebhyo(a)dvijātibhyaḥ śuśrūṣā yaṣu nāsti ca.[48]
@@ -8468,10 +7905,6 @@ That such a well equipped facility was meant exclusively for the royal class is 
 A needy person in the event of an emergency necessitating the administration of elimination therapy, should take the prescribed drugs available without caring to collect all the rare medicaments in advance.[133] All prescribed medicament are not available to all human beings (na hi sarvamanu āṇāṃ santi sarva paricchadāḥ). At the same time diseases cannot but attack even the poor (na ca rogā na bādhante daridrānapi dāruṇāḥ)[134] Therefore, in case of emergency, whatever drugs, cloths and diets are easily available should be used by patients according to their capacity.[135] Though the advice here is meant for an emergency situation, this proposition could well be applicable to a wider context (i.e., to all situations) insofar as Caraka acknowledges the non-availability of every prescribed drug to all patients. One without adequate without resources had to make do with whatever is available to him for certain medicines were beyond his reach. From the above discussion it also emerges that it is the responsibility of the physician to collect all the essentials well in advance of the therapy when attending on members of the royalty or the affluent section of society, while the common people had to gather the necessary medicines and other necessities themselves. We do not get any mention of drugs being made available from a state charitable establishment for the needy.
 
 Considering the importance given to the management to some diseases and patients from the upper sections of society, the same level of concern is hardly perceptible in certain other disorders common among the lower classes. The correlation between disease and class is only implicative in our medical treatises. There is no attempt to associate a disease or correlate its frequency of occurrence to the living or working conditions of those at the lower end of the social ladder.
-
-Footnotes and references:
-
-[back to top]
 
 [1]:
 
@@ -9017,15 +8450,9 @@ Caraka Saṃhitā Sūtrasthāna 15.21.
 
 ## 58. Hygiene and Environmental Issues (Introduction)
 
-
 Charaka Samhita and Sushruta Samhita
 
-by Nayana Sharma | 2015 | 139,725 words
-
 This page relates ‘Hygiene and Environmental Issues (Introduction)’ of the study on the Charaka Samhita and the Sushruta Samhita, both important and authentic Sanskrit texts belonging to Ayurveda: the ancient Indian science of medicine and nature. The text anaylsis its medical and social aspects, and various topics such as diseases and health-care, the physician, their training and specialisation, interaction with society, educational training, etc.
-
-Go directly to: 
-Footnotes.
 
 Hygiene and Environmental Issues (Introduction)
 
@@ -9036,9 +8463,6 @@ In this chapter, we have looked at the disease-environment complex in the contex
 Āyurveda attaches much importance to the concept of kāla or time whose inexorable march impacts the entire universe. A hymn in the Atharvaveda is dedicated to the thousand eyed (sahasrākṣo), undecaying (ajaro) and prolific (bhūriretāḥ) deity, Kāla.[4] All creatures in the world, including Prajāpati, are his creation.[5] He possesses all the powers of sustaining, protecting and even destroying the universe. This notion finds resonance in our Saṃhitās.
 
 In course of a discussion on the origin of man and disease, Bhikṣu Ātreya declares that living beings as well as their diseases are caused by kāla (time); the whole universe is conditioned by kāla and it is the causative factor of all.
-
-kālajastveva puruṣaḥkālajāstasya cāmāyāḥ.
-jagat kālavaśaṃ sarve kālaḥ kāraṇam.[6]
 
 kālajastveva puruṣaḥkālajāstasya cāmāyāḥ.
 jagat kālavaśaṃ sarve kālaḥ kāraṇam.[6]
@@ -9082,15 +8506,6 @@ Properties of plants and water and human digestive power
 Disturbance of equilibrium of the doṣas 
                  ↓ leading to Diseases
 
-Atmospheric conditions–heat, wind and precipitation
-                            ↓ affect
-Properties of plants and water and human digestive power
-                            ↓ affect
-                          The doṣas 
-                        ↓ that cause
-Disturbance of equilibrium of the doṣas 
-                 ↓ leading to Diseases
-
 Though the affected doṣas subside naturally with the changing seasons, they need to be medically eliminated before the diseases become deep-rooted according to the following rule:[20]
 
 In fact, the pattern of accumulation, aggravation and subsidence of the doṣas is not just seasonal, but quotidian as well. The forenoon resembles the features of spring, the noon of summer, the afternoon of early rainy season, the dusk of rainy season, the midnight of autumn, and the dawn of winter.[21] The variations in temperature and other atmospheric conditions during the day and the night, account for the doṣika changes.
@@ -9119,19 +8534,11 @@ In India, as in Greece, anatomy and physiology were quasi-existent, and the medi
 
 “What pathology depended on, instead, was what the Hippocratics called prognosis, the science of the course taken by illnesses and of the signs that herald accidents, crises, and solutions.”[37]
 
-“What pathology depended on, instead, was what the Hippocratics called prognosis, the science of the course taken by illnesses and of the signs that herald accidents, crises, and solutions.”[37]
-
 The partial knowledge of anatomy and physiology prevented him from studying the affected parts to make a local diagnosis.
 
 Therefore, Zimmerman argues the physician relied more on prognosis taking into consideration the general conditions of life: climate, seasons, customs and postures.
 
 “His knowledge of the patient’s environment, including the flora and fauna, enabled the doctor to anticipate the course of disease and to take action on it.”[38]
-
-“His knowledge of the patient’s environment, including the flora and fauna, enabled the doctor to anticipate the course of disease and to take action on it.”[38]
-
-Footnotes and references:
-
-[back to top]
 
 [1]:
 
@@ -9289,15 +8696,9 @@ F. Zimmerman, The Jungle and the Aromas of the Meats, p.20.
 
 ## 59. Hygiene and diseases (Introduction)
 
-
 Charaka Samhita and Sushruta Samhita
 
-by Nayana Sharma | 2015 | 139,725 words
-
 This page relates ‘Hygiene and diseases (Introduction)’ of the study on the Charaka Samhita and the Sushruta Samhita, both important and authentic Sanskrit texts belonging to Ayurveda: the ancient Indian science of medicine and nature. The text anaylsis its medical and social aspects, and various topics such as diseases and health-care, the physician, their training and specialisation, interaction with society, educational training, etc.
-
-Go directly to: 
-Footnotes.
 
 Hygiene and diseases (Introduction)
 
@@ -9306,10 +8707,6 @@ The precept of hygiene is of great importance in daily life and the ancient Indi
 It is noteworthy that we do not find a direct association between environmental variables and epidemics; which is to say that it is not the contaminated water, air or locale that directly cause epidemics but the deficiencies in the food and drugs arising from the variables lead to diseases. A direct correlation between contamination and disease is noticed elsewhere. Suśruta points out that turbid water causes oedema, anaemia, skin diseases, indigestion, asthma, cough, corrhyza, colic, abdominal swellings and enlargements and other serious diseases.[1] Here clearly unclean water is seen as an agent of a host of disease. A direct correlation between uncleanliness and disease can be found in the context of affliction by external agents, usually known as rākṣasas, bhūtas and grahas. One of the conditions in which grahas are said to afflict children is where the mother and the wet-nurse do not observe cleanliness.[2]
 
 As one of the principal objectives of Āyurveda is prevention of diseases, it is befitting that rules for living healthily and harmoniously have been given much importance in the medical texts. One who remains free of diseases is known as svastha. The term “svastha” is composed of two words- “sva” meaning self or own and “stha” meaning stable or steady. Thus, svastha denotes self-abiding, being in one’s natural state.[3] Caraka’s exposition on svasthavritta consists of the actions, habits or customs for maintenance of health and well being.[4] A similar description occurs in the chapter titled anagatābādhāpratiṣedhaṃ (“Prevention of Diseases”) in the Cikitsā-sthāna of Suśruta’s compendium. These rules and procedures are actually various aspects of preventive medicine, not just for the limited purpose of keeping diseases at bay but also for ensuring mental, physical and social well-being. In this section we have discussed these aspects of an individual’s well-being as personal hygiene, mental hygiene and social health.
-
-Footnotes and references:
-
-[back to top]
 
 [1]:
 
@@ -9331,15 +8728,9 @@ Caraka Saṃhitā Sūtrasthāna 5.14-104.
 
 ## 60. Personal Hygiene
 
-
 Charaka Samhita and Sushruta Samhita
 
-by Nayana Sharma | 2015 | 139,725 words
-
 This page relates ‘Personal Hygiene’ of the study on the Charaka Samhita and the Sushruta Samhita, both important and authentic Sanskrit texts belonging to Ayurveda: the ancient Indian science of medicine and nature. The text anaylsis its medical and social aspects, and various topics such as diseases and health-care, the physician, their training and specialisation, interaction with society, educational training, etc.
-
-Go directly to: 
-Footnotes.
 
 Personal Hygiene
 
@@ -9354,10 +8745,6 @@ Oral hygiene: For the maintenance of oral hygiene, four procedures are prescribe
 (c) Mouth fresheners: To keep the mouth fresh and fragrant, and to have a good taste, fruits of jātī (Myristica fragans Houtt. or nutmeg), kaṭuka (Hibiscus abelmoschus Linn.), pūga (Areca catechu Linn. or betelnut), kakkola (Piper cubeca Linn. or tailed pepper), sūkṣmailā (Elettaria cardamomum Maton. or cardamom), the flower stalk of lavaṅga (Syzgiumaromaticum Merr. & L.M.), fresh leaf of tambūla (Piper betle Linn.), and the extract of karpūra (Cinnamomum camphora Nees and Eberm.) should be chewed.[10] Chewing of betel leaf is advised in the morning after waking, after meals, bath and after throwing up,[11] which was commonly followed as is known from the Kādambari and the Harṣacarita.[12]
 
 (d) Gargles: gargling with sesame oil is beneficial for the jaws, improves the voice, reduces flabbiness of the face and imparts a good taste to the food. It prevents throat dryness, chapped lips, caries, toothache, tooth sensitivity, and makes the teeth strong.[13]
-
-Footnotes and references:
-
-[back to top]
 
 [1]:
 
@@ -9415,15 +8802,9 @@ Caraka Saṃhitā Sūtrasthāna 5.78-80.
 
 ## 61. Gender in the Saṃhitās
 
-
 Charaka Samhita and Sushruta Samhita
 
-by Nayana Sharma | 2015 | 139,725 words
-
 This page relates ‘Gender in the Samhitas’ of the study on the Charaka Samhita and the Sushruta Samhita, both important and authentic Sanskrit texts belonging to Ayurveda: the ancient Indian science of medicine and nature. The text anaylsis its medical and social aspects, and various topics such as diseases and health-care, the physician, their training and specialisation, interaction with society, educational training, etc.
-
-Go directly to: 
-Footnotes.
 
 Gender in the Saṃhitās
 
@@ -9524,8 +8905,6 @@ Agniveśa says:
 
 “O Lord! Among human beings, women are the excellent raison de etre (lit. root) of progeny. It is the diseases of her genital organs which cause impediments in this regard (for the procreation of progeny). Therefore, I want you to explain the origin (aetiology), signs, symptoms as well as treatment of these disorders for the welfare of humanity.”[49]
 
-“O Lord! Among human beings, women are the excellent raison de etre (lit. root) of progeny. It is the diseases of her genital organs which cause impediments in this regard (for the procreation of progeny). Therefore, I want you to explain the origin (aetiology), signs, symptoms as well as treatment of these disorders for the welfare of humanity.”[49]
-
 It is in response to this query that Caraka makes an exposition on the female diseases leaving us in no doubt that they have been included in the texts for the specific purpose of removing impediments to conception of the foetus. This raises the question whether women beyond the child-bearing age received medical intervention when they had to cope with gynaecological ailments. The Suśruta Saṃhitā does not mention the same context in the exposition on yonivyāpad but it is reasonable to assume that the same perspective is applicable here as well. This text, however, does make a differentiation between menstrual (śonita or asṛga) and vaginal (yoni) disorders in the Uttara-tantra, wherein it is said two kinds of medicated ghṛtas are described as being effective in both types of disorders.[50]
 
 The Dharmaśāstric emphasis on procreation needs to be underlined here. Fertility was one of the most essential qualifications for a wife in patriarchy. The barren wife was considered worthless.[51] Manu lays down that women are created to be mothers, and men were created to be fathers;[52] while Nārada goes further to say says that women have been created for the sake of procreation.[53] This leaves very little scope of elderly women or young widows or even female ascetics of seeking medical help. As the primary concern of society at large and of Āyurveda is birth of a healthy child, there is an elucidation of the precautions to be exercised during menstruation as it is held that a woman’s conduct at this time has a direct bearing on the unborn offspring. Thus, she should avoid the following activities: conjugal union, sleeping during the day, applying collyrium, weeping, bathing smearing of creams and powders, massaging, paring of nails, running, laughing, talking loudly, loud noises, combing her hair, exposure to draughts and exertion. These acts are avoidable to prevent harm to the prospective child. Sleeping during the day makes the offspring suffer from sleepiness; collyrium causes blindness; weeping leads to visual disorders; bathing and oil massaging cause skin diseases; nail paring leads to deformed nails; running causes fickleness; loud laughter results in discoloured teeth, lips, palate or tongue; loud talking means a garrulous child; loud noise leads to deafness; hair combing leads to baldness and exposure to draughts and exertion can cause the birth of an insane child.[54] The medical interest in gyneaecological issues, it thus appears, is more for ensuring female reproductive health and the birth of healthy progeny, specifically male progeny.
@@ -9563,8 +8942,6 @@ on knowledge. Birth attendants are required to be multipara (bahuśaḥ prajāt�
 Caraka also recommends the presence of old ladies along with brāhmaṇas well versed in the Atharvaveda at the maternity home (sūtikgārā) whose advice should be adhered to.[98] We can assume that family members helped in the process. Bāṇa tells us that queen Yaśovati was always surrounded by friends, who never for an instant, left her side.[99] In another of his works, Kādambarī, there is reference to a respectable old lady who occupied the space near the head of the bed while other senior ladies sang auspicious songs.[100] As soon as the labour pain begins, the attendants are required to comfort and console the parturient,[101] give her an oil massage,[102] and guide her through the entire period of labour until safe delivery without harm to the baby and the mother[103] and the mother is urged to obey their instructions (sāyathānirdeśaṃ kuruṣveti vaktavyā syāt).[104] Removal of the placenta and postpartum care of the mother and the new born are also the responsibilities of these birth attendants.
 
 These attendants along with friends of the lady have to be in constant attendance on her and the new born by keeping vigil and remaining awake for 10-12 days.[105]
-
-“The birth rite is the only wholly female rite where male presence is precluded. It is solemn, awesome, throbbing with tension because it solemnly empowers the female assistant and it is the only rite where a new life enters our world.”[106]
 
 “The birth rite is the only wholly female rite where male presence is precluded. It is solemn, awesome, throbbing with tension because it solemnly empowers the female assistant and it is the only rite where a new life enters our world.”[106]
 
@@ -9613,10 +8990,6 @@ There are a few instances in the texts of an unfavourable view of individuals be
 The question, therefore, arises whether such statements reflect the physician’s selective nature of dealing with patients. It seems unlikely that the downtrodden stratum was placed out of the purview of the āyurvedic medical practitioners. Besides, the low caste śūdras of good familial background are allowed by Dhanvantari to be initiated as students of medicine. Treatment methods in case of a disease like diabetes with urinary abnormalities (prameha), as we have seen above, are in consonance with the patient’s resources and the lifestyle. In prognosis and in treatment, the physician’s concern is with the patient’s physical and physiological variables such as age and body strength, pregnancy in women as also his or her social position which would determine the ability to undergo the effects of drugs or procedure. Barring the few instances cited above the medical texts do not generally manifest a negative perception of people at the lower end of the social ladder.
 
 In fact, medical practitioners had to necessarily interact with members of all sections of society not only in the context of therapeutics but for gathering requisite materials for processing drugs. As we have noted in Chapter 2, cowherds, goatherds, forest dwellers and hunters are regarded as repositories of knowledge in plant drugs. The physicians and surgeons had to work in close tandem with attendants and midwives who in all probability may have been drawn from lower sections as they had to deal with polluting body fluids. Surgeons had to approach skilled blacksmiths for manufacture of surgical instruments. It has been remarked that this active cooperation between surgeons and blacksmiths is a reflection of the former’s positive attitude towards manual labour.[159] We may add practice also necessitated cooperation with barbers (for removal of body hair) and potters (for shaping dummies required in experimental surgery). Surgery, in particular, developed “a crucial bond with manual work.”[160]
-
-Footnotes and references:
-
-[back to top]
 
 [1]:
 
@@ -10262,25 +9635,15 @@ V.K. Thakur, “Surgery in Early India”, p.19-20.
 
 ## 62. Facial Hygiene
 
-
 Charaka Samhita and Sushruta Samhita
 
-by Nayana Sharma | 2015 | 139,725 words
-
 This page relates ‘Facial Hygiene’ of the study on the Charaka Samhita and the Sushruta Samhita, both important and authentic Sanskrit texts belonging to Ayurveda: the ancient Indian science of medicine and nature. The text anaylsis its medical and social aspects, and various topics such as diseases and health-care, the physician, their training and specialisation, interaction with society, educational training, etc.
-
-Go directly to: 
-Footnotes.
 
 Facial Hygiene
 
 Washing the face and the eyes with a decoction of kṣīri trees (trees with milky sap like aśvattha), or mixed with milk or with a decoction of bhillodaka, or of āmalaki (Emblica officinalis Gaertn.), or with cold water is beneficial. It destroys nīlikā (skin ailment), dryness of the mouth, boils, vyaṅga (black spot) and haemorrhagic diseases; improves complexion and eyesight.[1]
 
 Regular application of collyrium (añjana) in the eyes is advised in the texts as it has several benefits. It alleviates kapha in the eyes and keeps the vision clear;[2] relieves burning and itching sensation; removes dirt, discharge and pain from the eyes; improves eyesight and appearance of the eyes; protects the eyes from the wind and glare of the sun; and prevents ocular diseases.[3] Two kinds of collyrium are mentioned by Caraka- (i)sauvīramañjana which is applicable daily, and (ii) rasāñjana (an extract of Berberis aristata) applicable once in every five or eight days only at night for lacrymation.[4] Sauvīramañjana is identified as Plumbi Sulphuratum (sulphide of lead) and procured from Sauvira, a country along the Indus.[5] Rasāñjana is variously explained. In one view it is the vitriol of copper, a sort of collyrium prepared by the addition of curcuma; or according to some from the calx of brass or from lead ore.[6] Suśruta recommends śrotāñjana (antimony sulphide[7]) produced in Sindhu as the best and purest form of collyrium.[8] In the Amarakośa, śrotāñjana and sauvīraṃ are included as antimony.[9] References to rasāñjana and śrotoñjana occur in the Vinaya Piṭaka (I.203) as medicine in eye diseases, while monks were allowed to possess the collyrium box (añjanī) as well.[10]
-
-Footnotes and references:
-
-[back to top]
 
 [1]:
 
@@ -10326,15 +9689,9 @@ J. Mitra, A Critical Appraisal of Āyurvedic Material in Buddhist Literature wit
 
 ## 63. Hygiene of the Head and Neck region
 
-
 Charaka Samhita and Sushruta Samhita
 
-by Nayana Sharma | 2015 | 139,725 words
-
 This page relates ‘Hygiene of the Head and Neck region’ of the study on the Charaka Samhita and the Sushruta Samhita, both important and authentic Sanskrit texts belonging to Ayurveda: the ancient Indian science of medicine and nature. The text anaylsis its medical and social aspects, and various topics such as diseases and health-care, the physician, their training and specialisation, interaction with society, educational training, etc.
-
-Go directly to: 
-Footnotes.
 
 Hygiene of the Head and Neck region
 
@@ -10349,10 +9706,6 @@ One is also cautioned against smoking after consuming milk, fatty substances, ho
 (iv) Combing of hair: it is essential to remove dust, dirt and parasites.[8]
 
 (v) Oleation of the ears: Oil drops in the ears wards off ear diseases, such as those caused by vitiated vāta, torticollis, lock jaw, hardness of hearing, deafness[9] and cures pain of the neck, the head and the ears.[10]
-
-Footnotes and references:
-
-[back to top]
 
 [1]:
 
@@ -10398,15 +9751,9 @@ Suśruta Saṃhitā Cikitsāsthāna 24.29/2.
 
 ## 64. Mental Hygiene and Social Health
 
-
 Charaka Samhita and Sushruta Samhita
 
-by Nayana Sharma | 2015 | 139,725 words
-
 This page relates ‘Mental Hygiene and Social Health’ of the study on the Charaka Samhita and the Sushruta Samhita, both important and authentic Sanskrit texts belonging to Ayurveda: the ancient Indian science of medicine and nature. The text anaylsis its medical and social aspects, and various topics such as diseases and health-care, the physician, their training and specialisation, interaction with society, educational training, etc.
-
-Go directly to: 
-Footnotes.
 
 Mental Hygiene and Social Health
 
@@ -10489,10 +9836,6 @@ We have noted that both Caraka and Suśruta counsel refrainment from criticism o
 We also read in the Caraka Saṃhitā that whatever else is not spoken here but is revered elsewhere as a virtuous act, that is also acceptable to Lord Ātreya.[25] This evidently refers to the Dharmaśāstric regulations of conduct that practitioners of the medical school of Ātreya should uphold. Such a declaration does not occur in Suśruta’s compendium; rather there is a general recommendation to abide by the instructions of the superiors and elders (guruvṛddānumatena).[26]
 
 Taking all things into consideration, the guidance on good conduct is intended for developing a peaceful, compassionate, happy and positive attitude to life, which, it is believed, can prevent or rather minimize sufferings of the mind and the body.
-
-Footnotes and references:
-
-[back to top]
 
 [1]:
 
@@ -10602,15 +9945,9 @@ Suśruta Saṃhitā Cikitsāsthāna 24.89.
 
 ## 65. Hygiene of the body and personal grooming
 
-
 Charaka Samhita and Sushruta Samhita
 
-by Nayana Sharma | 2015 | 139,725 words
-
 This page relates ‘Hygiene of the body and personal grooming’ of the study on the Charaka Samhita and the Sushruta Samhita, both important and authentic Sanskrit texts belonging to Ayurveda: the ancient Indian science of medicine and nature. The text anaylsis its medical and social aspects, and various topics such as diseases and health-care, the physician, their training and specialisation, interaction with society, educational training, etc.
-
-Go directly to: 
-Footnotes.
 
 Hygiene of the body and personal grooming
 
@@ -10645,10 +9982,6 @@ pleasing
 enhancer of longevity.
 
 Other than personal hygiene, there is concern with public sanitation as well for urinating or defecating in public places as near settled communities, cremation grounds, crossings, ponds, paths or roads and open grounds is prohibited in the texts,[25] and at the time of taking food.[26] Hygiene is of utmost importance for infants as the grahas are said to afflict them when the mother and the wet-nurse do not follow the code of conduct, auspicious rituals but where cleanliness is not observed.[27]
-
-Footnotes and references:
-
-[back to top]
 
 [1]:
 
@@ -10762,15 +10095,9 @@ Suśruta Saṃhitā Uttaratantra 27.6.
 
 ## 66. Precautionary measures for good health and Prophylactic Measures
 
-
 Charaka Samhita and Sushruta Samhita
 
-by Nayana Sharma | 2015 | 139,725 words
-
 This page relates ‘Precautionary measures for good health and Prophylactic Measures’ of the study on the Charaka Samhita and the Sushruta Samhita, both important and authentic Sanskrit texts belonging to Ayurveda: the ancient Indian science of medicine and nature. The text anaylsis its medical and social aspects, and various topics such as diseases and health-care, the physician, their training and specialisation, interaction with society, educational training, etc.
-
-Go directly to: 
-Footnotes.
 
 Precautionary measures for good health and Prophylactic Measures
 
@@ -10794,13 +10121,6 @@ Thus, Suśruta says:
 
 yasmin yasminṛtau ye ye doṣāḥ kupyanti dehinām.
 teṣu teṣu pradātavyā rasāste te vijānatā.[19]
-
-yasmin yasminṛtau ye ye doṣāḥ kupyanti dehinām.
-teṣu teṣu pradātavyā rasāste te vijānatā.[19]
-
-Footnotes and references:
-
-[back to top]
 
 [1]:
 
@@ -10882,15 +10202,9 @@ Suśruta Saṃhitā Uttaratantra 64.5.
 
 ## 67. Dietary and Lifestyle measures based on the six Seasons
 
-
 Charaka Samhita and Sushruta Samhita
 
-by Nayana Sharma | 2015 | 139,725 words
-
 This page relates ‘Dietary and Lifestyle measures based on the six Seasons’ of the study on the Charaka Samhita and the Sushruta Samhita, both important and authentic Sanskrit texts belonging to Ayurveda: the ancient Indian science of medicine and nature. The text anaylsis its medical and social aspects, and various topics such as diseases and health-care, the physician, their training and specialisation, interaction with society, educational training, etc.
-
-Go directly to: 
-Footnotes.
 
 Dietary and Lifestyle measures based on the six Seasons
 
@@ -10940,10 +10254,6 @@ Lifestyle recommendations—Avoidance of sleep during the day, protection from f
 
 Each season induces disturbance of a particular doṣa. Diseases of vāta are prominent in the rains and winter, of pitta in autumn, and of kapha in spring. Adherence to the specifics this regimen in each season ensures protection from any serious disease arising from seasonal variations.[8]
 
-Footnotes and references:
-
-[back to top]
-
 [1]:
 
 Caraka Saṃhitā Sūtrasthāna 6.19-21.
@@ -10980,15 +10290,9 @@ Suśruta Saṃhitā Uttaratantra 64.55/2-56/1.
 
 ## 68. Words of Caution
 
-
 Charaka Samhita and Sushruta Samhita
 
-by Nayana Sharma | 2015 | 139,725 words
-
 This page relates ‘Words of Caution’ of the study on the Charaka Samhita and the Sushruta Samhita, both important and authentic Sanskrit texts belonging to Ayurveda: the ancient Indian science of medicine and nature. The text anaylsis its medical and social aspects, and various topics such as diseases and health-care, the physician, their training and specialisation, interaction with society, educational training, etc.
-
-Go directly to: 
-Footnotes.
 
 Words of Caution
 
@@ -10997,8 +10301,6 @@ We shall conclude by looking at some of the aspects of everyday life where care 
 The importance of clean water for consumption and bathing cannot be overemphasized.
 
 The Atharvan seers were well acquainted with the healing and strengthening properties of water.
-
-“The Waters verily bring health, the Waters drive disease away. The Waters cure all malady; may they serve as medicine for thee.”[2]
 
 “The Waters verily bring health, the Waters drive disease away. The Waters cure all malady; may they serve as medicine for thee.”[2]
 
@@ -11032,10 +10334,6 @@ For the maintenance of health, Caraka suggests that one should always resort to 
 Certain practices are always salutary to the individual’s well being: they are consumption of beneficial food items, practice of celibacy, sleeping at a place protected from gusts of wind, warm bath, physical exercise and avoidance of day sleep.[40] Another healthy practice is to abstain from suppressing natural urges (vegān) caused by urine, faeces, semen, flatus, vomiting, sneezing, belching, yawning, hunger, thirst, tears, and breathing arising from exhaustion.[41] Suppression of these physiological urges is generative of various diseases.[42] The key to well-being is moderation in all activities. Even if one were accustomed to it, one is cautioned against any activity in excess, be it exercising, laughing, speaking, travelling on foot, sexual activity or keeping awake at night.[43] None can save one who persists in excessive indulgence from the jaws of death just as lion perishes in attempting to drag a huge elephant.[44]
 
 Thus, the somatic and mental condition of an individual is directly related to the physical and social environments as well as to behaviour and lifestyle in Āyurvedic thought. For the achievement of well-being and the maintenance of health, which is essentially the equilibrium of the doṣas, it is necessary to develop a lifestyle taking the environment into consideration. Hence, our medical compendia, Caraka and Suśruta Saṃhitās, delineate a way of living that prevents the errors of intellect through the practice of moderation and self-control in all aspects of behaviour. By assiduously following the prescriptions of sadvṛtta, one lives, free of disease, for a hundred years and does not meet with untimely death. The rewards of a healthy life are praise of the good, fame, virtue, wealth, goodwill of all creatures, and finally, after death, a place in the excellent abode of all good souls.[45]
-
-Footnotes and references:
-
-[back to top]
 
 [1]:
 
@@ -11221,10 +10519,7 @@ Caraka Saṃhitā Sūtrasthāna 7.31-33.
 
 ## 69. Chapter 7
 
-
 Charaka Samhita and Sushruta Samhita
-
-by Nayana Sharma | 2015 | 139,725 words
 
 This page relates ‘Chapter 7’ of the study on the Charaka Samhita and the Sushruta Samhita, both important and authentic Sanskrit texts belonging to Ayurveda: the ancient Indian science of medicine and nature. The text anaylsis its medical and social aspects, and various topics such as diseases and health-care, the physician, their training and specialisation, interaction with society, educational training, etc.
 
@@ -11236,15 +10531,9 @@ Chapter 7
 
 ## 70. Drugs and Diet (Introduction)
 
-
 Charaka Samhita and Sushruta Samhita
 
-by Nayana Sharma | 2015 | 139,725 words
-
 This page relates ‘Drugs and Diet (Introduction)’ of the study on the Charaka Samhita and the Sushruta Samhita, both important and authentic Sanskrit texts belonging to Ayurveda: the ancient Indian science of medicine and nature. The text anaylsis its medical and social aspects, and various topics such as diseases and health-care, the physician, their training and specialisation, interaction with society, educational training, etc.
-
-Go directly to: 
-Footnotes.
 
 Drugs and Diet (Introduction)
 
@@ -11266,10 +10555,6 @@ Such a vast repertoire permitted physicians to create innumerable formulations b
 This naturally raises questions about the management of procurement of the pharmacological ingredients, the preparation of medicinal compounds and their storage. The entire process would necessarily involve engagement of assistants. Use of drugs belonging to specific locations or drugs of non-indigenous origin opens up the issue of trade in medicinal drugs. In this chapter, we have looked at issues of procuring and preparation of drugs, the involvement of assistants, the management of drugs, trade and dietetics. Related to the medications is dietetics as disease management in the Saṃhitās is not entirely pharmacological; diet is an integral part of Āyurvedic therapeutics. Many medications are administered thorough dietary items as in gruels, soups, drinks, etc.[17] It is the pharmaceutical properties of any substance that renders it wholesome or unwholesome for the body. Hence, the discussion on dietary substances focusses on these properties of each type of food group.[18]
 
 This broadening repertoire of medicines necessitated systemization in the form of a classificatory system. Drugs (dravyas) can be classified according to their sources, tastes or action. There are three broad classes on the basis of their derivation- sthāvara (vegetable), jaṅgama (animal) and pārthiva (inorganic). Metals, gems, salts, ash, ores, arsenic, shells, etc. are included in the inorganic category. Drugs can be of six types according to taste (rasa) -sweet, sour, saline, pungent, bitter and astringent.[19] On the basis of action, Caraka categorises vegetable drugs into 50 classes. Suśruta categorises them into 37 classes based on the common properties of drugs wherein each class is named after the first article in the group.[20] They can again be of five classes depending on the predominant primary element[21] in the drugs.[22]
-
-Footnotes and references:
-
-[back to top]
 
 [1]:
 
@@ -11363,15 +10648,9 @@ Suśruta Saṃhitā Sūtrasthāna 41.1-4.
 
 ## 71. Processing of medicines
 
-
 Charaka Samhita and Sushruta Samhita
 
-by Nayana Sharma | 2015 | 139,725 words
-
 This page relates ‘Processing of medicines’ of the study on the Charaka Samhita and the Sushruta Samhita, both important and authentic Sanskrit texts belonging to Ayurveda: the ancient Indian science of medicine and nature. The text anaylsis its medical and social aspects, and various topics such as diseases and health-care, the physician, their training and specialisation, interaction with society, educational training, etc.
-
-Go directly to: 
-Footnotes.
 
 Processing of medicines
 
@@ -11398,10 +10677,6 @@ We get the description of the medical store (bheṣajāgāra), where medicines a
 However, the question that arises here is whether it was at all possible for individual small-time physicians to build up the huge repertoire of drugs and pharmaceutical formulations mentioned in our two treatises. We get valuable reference to the availability of drugs in the market from the Caraka Saṃhitā. In the context of arrangement of all drugs as preparation for elimination therapies, the text insists that it should be done beforehand as in an emergency it may not be possible to obtain the required medicines within a short time even when they are locally available on sale.[29] The sale of alkalis is known from the Arthaśāstra: the Superintendant of Mines established factories for certain items including caustics and arranged for its trade.[30]
 
 We may envisage a situation where smaller physicians may have manufactured simple ointments and pastes while patients procured most medicines from drug shops. Vaidya settlements are known from inscriptions (which we have noted in Chapter 2) and it is also possible that members established a central drug store by pooling resources. The presence of medicine shops indicates that some physicians were engaged in producing medicines for the market.
-
-Footnotes and references:
-
-[back to top]
 
 [1]:
 
@@ -11527,15 +10802,9 @@ Arthaśāstra 2.12.27.
 
 ## 72. Knowledge of Dietetics
 
-
 Charaka Samhita and Sushruta Samhita
 
-by Nayana Sharma | 2015 | 139,725 words
-
 This page relates ‘Knowledge of Dietetics’ of the study on the Charaka Samhita and the Sushruta Samhita, both important and authentic Sanskrit texts belonging to Ayurveda: the ancient Indian science of medicine and nature. The text anaylsis its medical and social aspects, and various topics such as diseases and health-care, the physician, their training and specialisation, interaction with society, educational training, etc.
-
-Go directly to: 
-Footnotes.
 
 Knowledge of Dietetics
 
@@ -11584,15 +10853,9 @@ As Ātreya explains:
 
 “Alleviation and aggravation of all doṣas are dependent on agni (power of digestion and metabolism). Therefore, it is always necessary to maintain agni and to avoid factors responsible for the vitiation of agni.”[49]
 
-“Alleviation and aggravation of all doṣas are dependent on agni (power of digestion and metabolism). Therefore, it is always necessary to maintain agni and to avoid factors responsible for the vitiation of agni.”[49]
-
 The authors of the Saṃhitās have analysed the pharmacological properties of dietary articles. Caraka classifies them (including liquids and prepared foods) into twelve groups,[50] while Suśruta classifies food items into eleven groups with sub-groups[51] and liquids into ten groups.[52] Properties of metals and precious stones have also been included by the latter.[53] Observance of hygiene in the preparation of food[54] and in the dining area[55] has been emphasised. Suśruta has also described the regimen to be followed at meal time, i.e., the utensils to be used, the order in which items should be served, the posture in which one should eat, the manner of eating, and the appropriate time of dining.[56] The post-meal regimen has also been explained.[57] Both in the classification of dietary articles and in the description of meal regimen, Suśruta’s work is far more comprehensive.
 
 Considering the importance of diet to human sustenance and its nutritional complexities, it is not surprising that Suśruta has recommended the appointment of a physician to the post of the superintendant of the kitchen. The physician had necessarily to be involved in the preparation of the patient’s diet. Besides, dietary articles are usually cooked with the requisite drugs; thus, meat soup prepared with bitter and pungent drugs or pulse soups with similar spices is offered to the convalescent.[58] This necessitates a thorough understanding of the nature of transformation of inherent dietary properties by processing, etc., consideration of habitat, the condition of the individual in question and suitable food combinations. In certain combinations food items can turn poisonous.[59]
-
-Footnotes and references:
-
-[back to top]
 
 [1]:
 
@@ -11834,15 +11097,9 @@ Suśruta Saṃhitā Sūtrasthāna 20.8
 
 ## 73. Trade In Medicinal Drugs
 
-
 Charaka Samhita and Sushruta Samhita
 
-by Nayana Sharma | 2015 | 139,725 words
-
 This page relates ‘Trade In Medicinal Drugs’ of the study on the Charaka Samhita and the Sushruta Samhita, both important and authentic Sanskrit texts belonging to Ayurveda: the ancient Indian science of medicine and nature. The text anaylsis its medical and social aspects, and various topics such as diseases and health-care, the physician, their training and specialisation, interaction with society, educational training, etc.
-
-Go directly to: 
-Footnotes.
 
 Trade In Medicinal Drugs
 
@@ -11878,10 +11135,6 @@ Two other articles of medicinal value not indigenous to the subcontinent are cam
 We may also note that the medical documents of Genizah belonging to the 12th -13th centuries reveal that myrobalans (genus Terminalia) feature among the ten most common substances used by Jewish physicians in old Cairo.[55] Its inclusion in the pharmacopeia of this region is a later development as the tree is not alluded to in Greek and Roman medical treatises. Most myrobalan species were imported from Asia and Africa into Egypt including India.[56]
 
 We may, therefore, hypothesize that as many floral and mineral drugs were procured through trade, they were costly and always readily available. It is in this background that we may appreciate the general injunction of the classical authors that no medicine should be given to the incurable patient (sādhanaṃ na tvasādhyānāṃ vyādhīnām-upadiśyate).[57]
-
-Footnotes and references:
-
-[back to top]
 
 [1]:
 
@@ -12115,10 +11368,7 @@ Caraka Saṃhitā Sūtrasthāna 1.63.
 
 ## 74. Chapter 8
 
-
 Charaka Samhita and Sushruta Samhita
-
-by Nayana Sharma | 2015 | 139,725 words
 
 This page relates ‘Chapter 8’ of the study on the Charaka Samhita and the Sushruta Samhita, both important and authentic Sanskrit texts belonging to Ayurveda: the ancient Indian science of medicine and nature. The text anaylsis its medical and social aspects, and various topics such as diseases and health-care, the physician, their training and specialisation, interaction with society, educational training, etc.
 
@@ -12130,15 +11380,9 @@ Chapter 8
 
 ## 75. Procurement of medicinal drugs
 
-
 Charaka Samhita and Sushruta Samhita
 
-by Nayana Sharma | 2015 | 139,725 words
-
 This page relates ‘Procurement of medicinal drugs’ of the study on the Charaka Samhita and the Sushruta Samhita, both important and authentic Sanskrit texts belonging to Ayurveda: the ancient Indian science of medicine and nature. The text anaylsis its medical and social aspects, and various topics such as diseases and health-care, the physician, their training and specialisation, interaction with society, educational training, etc.
-
-Go directly to: 
-Footnotes.
 
 Procurement of medicinal drugs
 
@@ -12199,10 +11443,6 @@ Blood-letting is an important practice in Ayurveda for curing diseases caused by
 Other than floral and faunal drugs, the Saṃhitās also incorporate metals and minerals in formulations. These include gold, silver, copper, bell metal (kāṃsya), iron, tin, lead,[69] mercury (sutara),[70] silica, red arsenic (manaḥśilā),[71] gems,[72] salts,[73] red chalk (gairika)[74] and collyrium (añjana).[75] Suśruta includes alkalis, such as yavakṣāra, svarjikākṣāra, etc., for use in cauterization.[76] It is interesting to note that the properties of metals, gems and alkalis have been discussed in the chapter on dietetics (annapānavidhi).[77]
 
 Although the two Saṃhitās embody a huge body of knowledge on medicinal substances, the authors did not consider this materia medica to be exhaustive. The physician is by no means circumscribed in his choice of drugs to those mentioned in the texts; he is advised to use his own discretion in the selection of appropriate drugs,[78] and is also at liberty to add herbs of similar nature to a formulation.[79] Besides, when the prescribed rare drugs are unavailable, he is advised to treat with the one readily available, and if anyone drug in a group is harmful, it should be replaced with a suitable one.[80] It is therefore, considered necessary that the physician will use his discretion in formulating remedies for the patient. Drugs with similar properties have, therefore, been classed together keeping in mind the seasonal availability, rarity or suitability to the patient. It may have depended on th patient’s financial status as well.
-
-Footnotes and references:
-
-[back to top]
 
 [1]:
 
@@ -12528,15 +11768,9 @@ Suśruta Saṃhitā Cikitsāsthāna 1.136-137.
 
 ## 76. Certain aspects of dietary regimen
 
-
 Charaka Samhita and Sushruta Samhita
 
-by Nayana Sharma | 2015 | 139,725 words
-
 This page relates ‘Certain aspects of dietary regimen’ of the study on the Charaka Samhita and the Sushruta Samhita, both important and authentic Sanskrit texts belonging to Ayurveda: the ancient Indian science of medicine and nature. The text anaylsis its medical and social aspects, and various topics such as diseases and health-care, the physician, their training and specialisation, interaction with society, educational training, etc.
-
-Go directly to: 
-Footnotes.
 
 Certain aspects of dietary regimen
 
@@ -12593,10 +11827,6 @@ Both Caraka and Suśruta recommend meat of carnivores[92] as it is helpful in th
 It is admitted that the meat of these animals is not considered edible in tradition. If the nature of the meat is revealed the patient would not be able to consume it. Hence, it is necessary to conceal the true identity for the benefit of the patient.[96] Such meat preparations require the services of a specialised cook who is acquainted with them.[97] It is therefore, evident that practically any kind of meat is permitted to the consumptive patient as long as it is of therapeutic value. As consumption is perceived as a wasting disease, providing nourishment to the emaciated tissues is of prime concern in its management.
 
 Though we do read in the text that by refraining from meat and alcohol, and by being disciplined and pure, one is not afflicted by insanity;[98] yet the diet recommended in the texts is overwhelmingly meat based as it is nourishing (maṃsam bṛhaṇīyānāṃ).[99] Not all patients are meat eaters though as there is reference to people who preferred vegetarian diet[100] or habituated to vegetables.[101] It is therapeutic concern that also causes the physician to recommend a wide variety of fermented drinks or wines (madya) for their pharmaceutical goodness: they work as appetizers, purgatives, eliminate kapha and vāta; they are cardiotonic and help to purify the bladder.[102] The absence of any religious encumbrances is most evident in the physician’s understanding of drugs and diet. There is no gainsaying that ancient Indian medicine had its own code of dietary ethics distinct from that of the Dharmaśāstras.
-
-Footnotes and references:
-
-[back to top]
 
 [1]:
 
@@ -13010,15 +12240,9 @@ Suśruta Saṃhitā Sūtrasthāna 46.170.
 
 ## 77. Brahmā, Prajāpati and Dakṣa
 
-
 Charaka Samhita and Sushruta Samhita
 
-by Nayana Sharma | 2015 | 139,725 words
-
 This page relates ‘Brahma, Prajapati and Daksha’ of the study on the Charaka Samhita and the Sushruta Samhita, both important and authentic Sanskrit texts belonging to Ayurveda: the ancient Indian science of medicine and nature. The text anaylsis its medical and social aspects, and various topics such as diseases and health-care, the physician, their training and specialisation, interaction with society, educational training, etc.
-
-Go directly to: 
-Footnotes.
 
 Brahmā, Prajāpati and Dakṣa
 
@@ -13041,10 +12265,6 @@ The Caraka Saṃhitā gives a short account of the medical exploits of the Aśvi
 The divine physicians are said to have cured Candra of consumption[35] and are implored to cure fever.[36] They are among the deities worshipped at the initiation ceremony of students into medical studies.[37] The Suśruta Saṃhitā makes very few references to the twin physicians. It recounts the story of the Aśvins restoring Yajña’s severed head to the body for which the gods promised a share of the sacrificial offerings in favour of the twin deities and declared them to be the foremost among the gods.[38] The text makes no any further mention of their exploits.
 
 We notice that Kauṭilya directs the king to set up a temple dedicated to the Aśvins in the centre of the city which is an indication of the important position occupied in the pantheon by them during the Mauryan period.[39] Among the later literary works, the characterization of the Aśvins as divine physicians continues in the Mahābhārata and the Harivaṃśa. They are given the epithets of “deva bhiṣajau” and “devabhiṣagvarau” (excellent physicians of the gods).[40] This is evident in Paurāṇic literature as well; the Mārkaṇḍeya Purāṇa describes them as bhiṣajām varau (the best among the physicians).[41] However, signs of their decline in the epics are also evident with the trend of identifying or subordinating the twin deities to Viṣṇu and Śiva. Vālmīki identifies them with Śrīkṛṣṇa.[42] Passages in the Mahābhārata state that the Aśvins are contained in the body of Viṣṇu and that they also appear as various manifestations of Śiva. We further learn that they are his subordinates.[43] The process of absorbing the divine physicians into the two rising deities of Brahmanism was already underway. It is also striking that the Aśvins do not figure in the iconography of the Indian pantheon, and though they are remembered in the Purāṇas, they gradually fade away.[44]
-
-Footnotes and references:
-
-[back to top]
 
 [1]:
 
@@ -13226,23 +12446,13 @@ S. Bhattacharji, The Indian Theogony, p.246.
 
 ## 78. Soma (the Lord of the drugs)
 
-
 Charaka Samhita and Sushruta Samhita
 
-by Nayana Sharma | 2015 | 139,725 words
-
 This page relates ‘Soma (the Lord of the drugs)’ of the study on the Charaka Samhita and the Sushruta Samhita, both important and authentic Sanskrit texts belonging to Ayurveda: the ancient Indian science of medicine and nature. The text anaylsis its medical and social aspects, and various topics such as diseases and health-care, the physician, their training and specialisation, interaction with society, educational training, etc.
-
-Go directly to: 
-Footnotes.
 
 Soma (the Lord of the drugs)
 
 It is believed that the gods headed by Brahmā placed a remnant of the nectar they had consumed in Soma, the Moon, who is the Lord of the drugs (oṣadhipati).[1]
-
-Footnotes and references:
-
-[back to top]
 
 [1]:
 
@@ -13252,15 +12462,9 @@ Suśruta Saṃhitā Cikitsāsthāna 30.30/1.
 
 ## 79. Indra receives the knowledge of Āyurveda
 
-
 Charaka Samhita and Sushruta Samhita
 
-by Nayana Sharma | 2015 | 139,725 words
-
 This page relates ‘Indra receives the knowledge of Ayurveda’ of the study on the Charaka Samhita and the Sushruta Samhita, both important and authentic Sanskrit texts belonging to Ayurveda: the ancient Indian science of medicine and nature. The text anaylsis its medical and social aspects, and various topics such as diseases and health-care, the physician, their training and specialisation, interaction with society, educational training, etc.
-
-Go directly to: 
-Footnotes.
 
 Indra receives the knowledge of Āyurveda
 
@@ -13271,10 +12475,6 @@ There is also the story of Apālā who pleased Indra by offering him the Soma ju
 In the medical texts, Indra occupies an important position as a teacher of medical knowledge to the sages. He is given the epithet amaraguru (teacher of the gods)[14] which is usually reserved for Bṛhaspati.[15] He imparts the knowledge not once but twice as the sages lost it and had to be instructed again. He first imparted Āyurveda to Bharadvāja,[16] and the second time to a group consisting of Bhṛgu, Angiras and others.[17] Indra invoked at child birth especially during difficult delivery in the medical texts[18] and for cure of fever.[19]
 
 Indra gradually loses his eminence from the time of the composition of the Brāhmaṇas, and the medical Saṃhitās also reflects this deterioration when he is placed after the A vins in the chain of transmission of medical science. The post-Vedic Indra is primarily a god of fertility. He gives children and crops. He has a particular interest in the welfare of children of unmarried girls. He is associated with the Maruts who bring healing medicines from waters and mountains.[20] However, he retains his position as devarāja (king of the gods) reigning in Amarāvati and remained a cult-god for a long time.[21]
-
-Footnotes and references:
-
-[back to top]
 
 [1]:
 
@@ -13364,15 +12564,9 @@ S. Bhattacharji, The Indian Theogony, p.275.
 
 ## 80. Medicine and Religion (Introduction)
 
-
 Charaka Samhita and Sushruta Samhita
 
-by Nayana Sharma | 2015 | 139,725 words
-
 This page relates ‘Medicine and Religion (Introduction)’ of the study on the Charaka Samhita and the Sushruta Samhita, both important and authentic Sanskrit texts belonging to Ayurveda: the ancient Indian science of medicine and nature. The text anaylsis its medical and social aspects, and various topics such as diseases and health-care, the physician, their training and specialisation, interaction with society, educational training, etc.
-
-Go directly to: 
-Footnotes.
 
 Medicine and Religion (Introduction)
 
@@ -13385,8 +12579,6 @@ In this chapter we shall identify the ritualistic and magical aspects of medicin
 The nāstikas (non-believers in the authority of the Vedas) are criticised for their core beliefs, such as, denial of the existence of the soul (atman),[9] non-acceptance of perception as a source of knowledge and rejection of belief in gods, sages and siddhas.[10] They are declared as the worst of the sinful (pātakebyaḥ paraṃ caitat pātakaṃ naāstikagrahaḥ) for whom everything happens by chance (yadṛcchopahatātmanaḥ).[11] Non-belief (nāstikya) is a sin that can cause foetal abnormalities.[12] Both medical authorities argue in favour of the existence of the permanent (śāsvata)[13] soul as an entity that is distinct from the body. It is responsible for the individual’s ego, actions, the fruits of actions, transmigration from one body to another and memory.[14]
 
 The body (śarīra), mind (sattva) and the soul (ātman) are like a tripod of life:
-
-sattvamātmā śarīraṃ ca traya-etat-tridaṇḍavat.[15]
 
 sattvamātmā śarīraṃ ca traya-etat-tridaṇḍavat.[15]
 
@@ -13413,10 +12605,6 @@ It is interesting to keep in mind that while on the one hand, there is an inextr
 For protection (rakṣāvidhāna) from unknown forces the patient recuperating from wounds is advised to observe the five yama and five niyama precepts.[83] Niyama is also advised for the patient suffering form fever[84] and psychic disorders.[85] Yama and niyama are two of the preparatory stages described in the Yogasūtra of Patañjali intended to inculcate moral restraint and discipline for further ascetic practice. Yama is a set of restraints consisting of non-violence (ahiṃsā), truthfulness (satya), non-stealing (asteya), chastity (brahmacarya) and absence of greed (aparigraha).[86] The practice of these five restraints leads to five observances or niyama. Cleanliness or purity (śauca), contentment (santośa), penance (tapas), self-study (svadhāyaya) and devotion to God (īśvarapraṇidhāna) are the constituents of niyama.[87] Cleanliness may be regarded as consisting of two aspects: They have been accommodated in medicine so as to impose restraints on the patient. Yoga is essentially theistic in that it admits the existence of God.[88] Thus, the moral basis of the social environment of the medical Saṃhitās is derived from brahmanical sources.
 
 After examining the magico-religious elements of medicine, we shall now look at the role of the principal deities mentioned in the two treatises in their proper contexts. The texts accord the foremost position to Brahmā as the composer and first exponent of Āyurveda[89] who then passed on the knowledge to other deities. According to the Caraka Saṃhitā, the deities associated in the transmission of Āyurveda are Dakṣa, the Aśvins and Indra, and it was Indra who taught sage Bharadvāja.[90] The Suśruta Saṃhitā traces the transmission of this science through Brahmā to Prajāpati, followed by the Aśvins and Indra before it was acquired by Dhanvantari.[91] We shall also examine the association of these deities with healing. Despite the cardinal position accorded to Brahmā, we notice that subsequently he gradually loses his pre-eminence in the practice of medicine to Śiva and Viṣṇu. It will also be our endeavour to analyse this shift.
-
-Footnotes and references:
-
-[back to top]
 
 [1]:
 
@@ -13786,15 +12974,9 @@ Suśruta Saṃhitā Sūtrasthāna 1.20.
 
 ## 81. Dhanvantari (the god of the physicians)
 
-
 Charaka Samhita and Sushruta Samhita
 
-by Nayana Sharma | 2015 | 139,725 words
-
 This page relates ‘Dhanvantari (the god of the physicians)’ of the study on the Charaka Samhita and the Sushruta Samhita, both important and authentic Sanskrit texts belonging to Ayurveda: the ancient Indian science of medicine and nature. The text anaylsis its medical and social aspects, and various topics such as diseases and health-care, the physician, their training and specialisation, interaction with society, educational training, etc.
-
-Go directly to: 
-Footnotes.
 
 Dhanvantari (the god of the physicians)
 
@@ -13807,10 +12989,6 @@ Gray argues that Dhanvantari was originally a cloud-god. By analysing cognate wo
 Unlike the other deities considered so far, Dhanvantari continues to be worshipped today in Kerala and Tamilnadu. The most important Dhanvantari temple is situated in the courtyard of Sri Ranganathaswamy temple at Srirangam.[17] A few of other temples located in Kerala are the Nelluvayi temple situated between Palakkad and Trishur, the Maruthorvattam temple near Cherthala in Alappuzha district, the Thottuva temple near Kalady in Ernakulam district and the Prayikkara temple in Alapuzha district.[18]
 
 So far we have looked at the deities associated with the transmission of Āyurveda. The Saṃhitās also refer to some other deities in association with particular clinical conditions. Among these we shall consider the role of the Sun, Viṣṇu and Rudra-Śiva and that of any female deity (if any) in healing. The role of the malevolent beings in disease will also be examined.
-
-Footnotes and references:
-
-[back to top]
 
 [1]:
 
@@ -13888,23 +13066,13 @@ A.S.Ramanatha Ayyar, “Śrīrangam Inscription of Garuḍavāhana Bhaṭṭa: �
 
 ## 82. The Sun (Arka)
 
-
 Charaka Samhita and Sushruta Samhita
 
-by Nayana Sharma | 2015 | 139,725 words
-
 This page relates ‘Sun (Arka)’ of the study on the Charaka Samhita and the Sushruta Samhita, both important and authentic Sanskrit texts belonging to Ayurveda: the ancient Indian science of medicine and nature. The text anaylsis its medical and social aspects, and various topics such as diseases and health-care, the physician, their training and specialisation, interaction with society, educational training, etc.
-
-Go directly to: 
-Footnotes.
 
 The Sun (Arka)
 
 In the Ṛgveda, there are prayers to the Sun for progeny, protection, health and joy.[1] One hymn entreats the deity to remove heart disease and jaundice.[2] There are few instances of invocation of the Sun as a deity in the Saṃhitās. The Cyāvana mantra recited during difficult labour calls upon the Sun (Arka) along with Agni, Wind, Indra and the Sea for their help in easy release of the foetus.[3] Sunlight is regarded as particularly beneficial in the treatment of skin diseases, such as, maṇḍala and sidhma types of kuṣṭha as well as leucoderma. Caraka advises exposure of the patient to the sun after application of medicated paste to the afflicted parts.[4] The few references to the Sun is perhaps because of the greater role of the Aśvins who as solar gods symbolize the sun’s healing powers.[5]
-
-Footnotes and references:
-
-[back to top]
 
 [1]:
 
@@ -13930,25 +13098,15 @@ S. Bhattacharji, The Indian Theogony, p.239.
 
 ## 83. Viṣṇu in the Medical Texts
 
-
 Charaka Samhita and Sushruta Samhita
 
-by Nayana Sharma | 2015 | 139,725 words
-
 This page relates ‘Vishnu in the Medical Texts’ of the study on the Charaka Samhita and the Sushruta Samhita, both important and authentic Sanskrit texts belonging to Ayurveda: the ancient Indian science of medicine and nature. The text anaylsis its medical and social aspects, and various topics such as diseases and health-care, the physician, their training and specialisation, interaction with society, educational training, etc.
-
-Go directly to: 
-Footnotes.
 
 Viṣṇu in the Medical Texts
 
 The thousand-headed Viṣnu, according to the Caraka Saṃhitā, is the chief of all mobile and immobile things in the universe (carācarapati) and its supreme lord (vibhu [vibhum]).[1] Recitation of the thousand names of Viṣṇu is said to cure all types of fever.[2] He is also the destroyer of demons and a recipe named after Nārāyaṇa is said to eradicate several diseases.[3] Viṣṇu is invoked at the time of delivery.[4]
 
 Caraka points to the similarities between the characteristics of vāta doṣa in the body and those of god Vāyu in the universe. Vāyu is the cause of existence as well as of destruction of all living beings. He is the god of death (Yama), the controller (niyantāḥ), the lord of all creatures (Prajāpati), Aditi and the creator of the universe (Viśvakarman). Possessing innumerable forms, he can move anywhere and is all-pervading (vibhuḥ). Caraka identifies him with lord Viṣṇu.[5] One of the several actions of vāyu in nature is sustenance of the earth (dharaṇī-dhāraṇa) just as vāta, in its normal state of functioning sustains all the organs of the body.[6] This reminds us of the cosmic role of Viṣṇu as the preserver of the universe. In fact the Purāṇas often ascribe the role of the creator-god to Viṣṇu.[7] Bhattacharji draws our attention to the ambiguous relationship of Brahman and Viṣṇu in the epics and the Purāṇas wherein one is shown as just another manifestation of the other. The Mahābhārata identifies Nārāyaṇa in the form of Kṛṣṇa as the supreme being, and again Brahman as Viṣṇu. Thus, as Viṣṇu’s image in the pantheon grew, it gradually overlapped with Brahman’s.[8]
-
-Footnotes and references:
-
-[back to top]
 
 [1]:
 
@@ -13986,15 +13144,9 @@ S.Bhattacharji, Indian Theogony, pp. 343-344.
 
 ## 84. Bhūtas and Grahas
 
-
 Charaka Samhita and Sushruta Samhita
 
-by Nayana Sharma | 2015 | 139,725 words
-
 This page relates ‘Bhutas and Grahas’ of the study on the Charaka Samhita and the Sushruta Samhita, both important and authentic Sanskrit texts belonging to Ayurveda: the ancient Indian science of medicine and nature. The text anaylsis its medical and social aspects, and various topics such as diseases and health-care, the physician, their training and specialisation, interaction with society, educational training, etc.
-
-Go directly to: 
-Footnotes.
 
 Bhūtas and Grahas
 
@@ -14043,10 +13195,6 @@ However, it is not by rituals alone that the patient should be managed. Suśruta
 The designated place for offerings to rākṣasas and aśuras as also for Skanda graha, according to Sūtrasthāna ruta, is at crossroads. This is in fact stems from the association of Nirṛti with crossroads. The Manusmṛti ordains that a vedic student who breaks his vow of chastity should offer at night a one-eyed ass to Nirṛti at crossroads.[57] Nirṛti also has interesting resemblance with Hekate, the goddess of the moon and of witchcraft, as Bhattacharji points out. In ancient Greece offerings to Hekate were made on dark moonless nights and on the day just after the full moon at cross-roads. The figure of Nirṛti fades away in the epic age but the death association remains even in the Purāṇas.[58]
 
 Two important inferences emerge from the survey on the healing deities. First, the healing role of female divinities in our two medical treatises is completely absent; in fact they are conspicuous by their negative role as causative of diseases. Second, the Aśvins who are so highly euologised by Caraka, find little mention in Suśruta. The latter holds Dhanvantari in high esteem. This in itself posits a later date for the compendium of Suśruta.
-
-Footnotes and references:
-
-[back to top]
 
 [1]:
 
@@ -14284,15 +13432,9 @@ S. Bhattacharji, The Indian Theogony, p.85.
 
 ## 85. Female Divinities
 
-
 Charaka Samhita and Sushruta Samhita
 
-by Nayana Sharma | 2015 | 139,725 words
-
 This page relates ‘Female Divinities’ of the study on the Charaka Samhita and the Sushruta Samhita, both important and authentic Sanskrit texts belonging to Ayurveda: the ancient Indian science of medicine and nature. The text anaylsis its medical and social aspects, and various topics such as diseases and health-care, the physician, their training and specialisation, interaction with society, educational training, etc.
-
-Go directly to: 
-Footnotes.
 
 Female Divinities
 
@@ -14301,10 +13443,6 @@ It is significant that female divinities are find very litte mention to in our t
 It is striking that Sarasvatī, who appears as a physician in the Vedic corpus, does not find a place among the healing deities in the Saṃhitās. In the Ṛgveda, she is the consort of the Aśvins and her name occurs in an incantation for ensuring safe pregnancy and delivery.[6] She is also urged to pace the embryo in a woman’s womb,[7] and is implicitly associated with healing by way of water for all remedies dwell in the Waters.[8] She is also called upon to remedy defects of body, speech and action[9] and destroy poison.[10] Together with Heaven, Earth, Indra and Agni, Sarasvatī is invoked to cure worms.[11] The healing functions attributed to her in the Ṛgveda were not specifically her own and she is not assigned any new ones in the Atharvaveda.[12]
 
 We have referred earlier to the Sautrāmaṇī ritual occuring in both the Black and White Yajur Veda for warding off various forms of evil in the sacrificer’s personal life, to assure success, victory and so on.[13] The Sautrāmaṇī ritual is based on the myth of Indra’s illness resulting from his overindulgence in Soma which was cured by the Aśvins and Sarasvatī.[14] She bestows on Indra his characteristic qualities (īndriyāṇi) by means of vāc (speech) and restores his manly energy (vīryam).[15] It is interesting to note that Caraka refers to this ritual to establish the stature of the Aśvins vis-à-vis Indra and the other gods but ignores the contribution of Sarasvatī to the healing of Indra. Her role as a healer, therefore, had already disappeared.
-
-Footnotes and references:
-
-[back to top]
 
 [1]:
 
@@ -14370,15 +13508,9 @@ Ibid. p.46.
 
 ## 86. Rudra-Śiva in the Medical Texts
 
-
 Charaka Samhita and Sushruta Samhita
 
-by Nayana Sharma | 2015 | 139,725 words
-
 This page relates ‘Rudra-Shiva in the Medical Texts’ of the study on the Charaka Samhita and the Sushruta Samhita, both important and authentic Sanskrit texts belonging to Ayurveda: the ancient Indian science of medicine and nature. The text anaylsis its medical and social aspects, and various topics such as diseases and health-care, the physician, their training and specialisation, interaction with society, educational training, etc.
-
-Go directly to: 
-Footnotes.
 
 Rudra-Śiva in the Medical Texts
 
@@ -14407,10 +13539,6 @@ The Vājsaney Saṃhitā connects Rudra with snakes and monsters and with the mo
 We may refer to some iconographic representations of Śiva which have bearing on our subject. He is depicted on the coins of Wema Kadpheses, almost holding a water-vessel with his left hand which is perhaps a reminiscence of his Vedic description “Jalāṣabheṣaja: divine water efficacious for diseases.[45] We may also mention that Viśvāmitra (mentioned as Suśuta’s father in the Saṃhitā) is depicted on Audumbara coins with the triśula, thereby establishing his Śaivite leanings.[46]
 
 From the above discussion it is clear that Rudra-Śiva is associated with various disease causing agents: poisons, snakes and malevolent elements. On the other hand, he controls the remedial agents: plants, animals, water. In the Vedic corpus itself, Rudra is praised as the god of the universe, the god who enjoys supreme position and paramount importance; he is everything, good and evil, more evil perhaps than good-but he symbolizes all creation, animate, and inanimate, human and subhuman, moral and immoral.[47] There is a deliberate tendency to see in him a god with comprehensive control over all nature.[48] Association with disease causing agents implies Śiva gives deliverance from them as well. In the Mahābhārata (XIII.17) itself, Brahmā describes Mahādeva as Dhanvantari, the prince of physicians.[49] These attributes undoubtedly contributed to his growing popularity as the god of healing and he came to be worshipped as Vaidyanātha.
-
-Footnotes and references:
-
-[back to top]
 
 [1]:
 
@@ -14612,10 +13740,7 @@ K.M. Ganguli, The Mahābhārata of Krishna-Dwaipayana Vyasa: Translated into Eng
 
 ## 87. Chapter 9
 
-
 Charaka Samhita and Sushruta Samhita
-
-by Nayana Sharma | 2015 | 139,725 words
 
 This page relates ‘Chapter 9’ of the study on the Charaka Samhita and the Sushruta Samhita, both important and authentic Sanskrit texts belonging to Ayurveda: the ancient Indian science of medicine and nature. The text anaylsis its medical and social aspects, and various topics such as diseases and health-care, the physician, their training and specialisation, interaction with society, educational training, etc.
 
@@ -14627,15 +13752,9 @@ Chapter 9
 
 ## 88. Ritualism in the Medical Texts
 
-
 Charaka Samhita and Sushruta Samhita
 
-by Nayana Sharma | 2015 | 139,725 words
-
 This page relates ‘Ritualism in the Medical Texts’ of the study on the Charaka Samhita and the Sushruta Samhita, both important and authentic Sanskrit texts belonging to Ayurveda: the ancient Indian science of medicine and nature. The text anaylsis its medical and social aspects, and various topics such as diseases and health-care, the physician, their training and specialisation, interaction with society, educational training, etc.
-
-Go directly to: 
-Footnotes.
 
 Ritualism in the Medical Texts
 
@@ -14652,10 +13771,6 @@ Again, the same text says: The poison gets completely eliminated with the remova
 There is no doubt that perspective of the medical authors is brahmanical considering the importance given to Vedic rites and rituals, and the significance of brāhmaṇas in social etiquette. It is also striking that brahmanical rituals are completely insignificant in graha/bhūta afflictions with the exception of seizure by the deities which requires oblations in the sacred fire.[67] All the necessary ritual measures are to be taken by the physician. The physicians did not see the role of religion and magic as worthless and outside their own area of interest. This is not to say that medicine relied heavily upon theurgy. Even in external seizures, theurgic practices supplemented clinical therapies. In fact inclusion Bhūtavidyā in the texts is indicative of the recognition of the clinical aspect of these afflictions by the ancient physicians and that they are not entirely supernatural in nature.
 
 The dependence on ritualism is not even throughout the treatises. It is also noteworthy that ritualistic aspect is conspicuously lacking in the entire section of Śālākyā Tantra of the Uttara-tantra of Suśruta’s compendium. Though this section deals with difficult eye surgeries involving damage to the eyeball, nowhere do we find reference to invocations to deities or prayers to brāhmaṇas and physicians which we do in other surgeries. Prayers, supplications, sacrificial offerings and magical practices do find a place in therapeutics but in a supplementary role.
-
-Footnotes and references:
-
-[back to top]
 
 [1]:
 
@@ -14929,19 +14044,11 @@ Suśruta Saṃhitā Uttaratantra 60.32.
 
 ## 89. Surgery: Pre-operative and Post-operative Care (Introduction)
 
-
 Charaka Samhita and Sushruta Samhita
-
-by Nayana Sharma | 2015 | 139,725 words
 
 This page relates ‘Surgery: Pre-operative and Post-operative Care (Introduction)’ of the study on the Charaka Samhita and the Sushruta Samhita, both important and authentic Sanskrit texts belonging to Ayurveda: the ancient Indian science of medicine and nature. The text anaylsis its medical and social aspects, and various topics such as diseases and health-care, the physician, their training and specialisation, interaction with society, educational training, etc.
 
-Go directly to: 
-Footnotes.
-
 Surgery: Pre-operative and Post-operative Care (Introduction)
-
-“There are five duties of surgery: to remove what is superfluous, to restore what has been dislocated, to separate what has grown together, to reunite what has been divided, and to redress the defects of nature.”—Ambroise Paré[1]
 
 “There are five duties of surgery: to remove what is superfluous, to restore what has been dislocated, to separate what has grown together, to reunite what has been divided, and to redress the defects of nature.”—Ambroise Paré[1]
 
@@ -14951,15 +14058,9 @@ As medical historians have pointed out,
 
 “Surgery and Medicine are inseparably fused today as inseparable parts of healing. Such, of course, has not always been the case. Indeed it was but a short time ago that this union took place. Over the millennia of recorded history, surgery and medicine have followed separate and largely independent evolutionary patterns, with brief and infrequent periods of convergence of the two streams.”[2]
 
-“Surgery and Medicine are inseparably fused today as inseparable parts of healing. Such, of course, has not always been the case. Indeed it was but a short time ago that this union took place. Over the millennia of recorded history, surgery and medicine have followed separate and largely independent evolutionary patterns, with brief and infrequent periods of convergence of the two streams.”[2]
-
 References to surgeries are rare in Vedic literature and appear more as a minor appendage in therapeutics. Some form of surgical intervention is encountered in respect of diseases like balaśa (swelling), apacīts (rash with pustules) and urological ailments. The treatment of balaśa (swellings)[3] and apacīts[4] (rash with pustules) in the Atharvaveda involved lancing while that of urine retention required the use of an arrow-like reed as a primitive catheter.[5] The principal cure of broken bones and fractures was herbal drugs.[6] However, by the time of the composition of the Suśruta Saṃhitā, surgery had progressed so far as to evolve as a specialised branch of Āyurveda. The terms, śalyavid [śalyavidaḥ][7] and śalyahartṛ [śalyahartrāḥ][8] in the Caraka Saṃhita refer to physicians with expertise in the use of sharp instruments and these specialists are identified as belonging to the school of Dhanvantari, that is, the Dhānvantariyas. Significantly, surgeons of this school refer to themselves as bhiṣak or vaidya and not by any other term indicating their keenness to be identified as members of the medical mainstream.
 
 In this chapter we shall look at the perception of surgery in the Saṃhitās, the surgical diseases, the training of surgeons, the pre-operative and post-operative care involved in surgical procedures and the concept of infection.
-
-Footnotes and references:
-
-[back to top]
 
 [1]:
 
@@ -14997,15 +14098,9 @@ Caraka Saṃhitā Śārīrasthāna 8.31.
 
 ## 90. List of Surgical Conditions in the Suśruta Saṃhitā
 
-
 Charaka Samhita and Sushruta Samhita
 
-by Nayana Sharma | 2015 | 139,725 words
-
 This page relates ‘List of Surgical Conditions in the Sushruta Samhita’ of the study on the Charaka Samhita and the Sushruta Samhita, both important and authentic Sanskrit texts belonging to Ayurveda: the ancient Indian science of medicine and nature. The text anaylsis its medical and social aspects, and various topics such as diseases and health-care, the physician, their training and specialisation, interaction with society, educational training, etc.
-
-Go directly to: 
-Footnotes.
 
 List of Surgical Conditions in the Suśruta Saṃhitā
 
@@ -15100,10 +14195,6 @@ Trephining of the bones to obstructed remove vāta[49]
 Reconstructive surgery.
 
 Reconstructive surgery is a specialised form of surgical intervention that constitutes a landmark in the development of ancient Indian medical science. The Suśruta Saṃhitā has described surgical procedures for repairing the split ear lobules,[50] reconstruction of the ear lobule,[51] the amputated nose[52] and cleft-lip surgery.[53] Fifteen types of ear lobe deformities are referred to, and the detailed study and specificities of these conditions bear testimony to the skill and proficiency of ancient Indian surgeons and to the fact that plastic surgery was a well developed field. The importance of this field can be gauged from the significant statement of Dhanvantari that the physician alone who has mastered these procedures, is entitled to be the royal physician.[54] It may be inferred that proficiency in reconstructive surgery was the preserve of a few. The maturing of skills in this regard would lead one to believe that there was a great necessity and demand for this kind of surgery.
-
-Footnotes and references:
-
-[back to top]
 
 [1]:
 
@@ -15325,15 +14416,9 @@ Suśruta Saṃhitā Sūtrasthāna 16.32.
 
 ## 91. The perception of surgery
 
-
 Charaka Samhita and Sushruta Samhita
 
-by Nayana Sharma | 2015 | 139,725 words
-
 This page relates ‘perception of surgery’ of the study on the Charaka Samhita and the Sushruta Samhita, both important and authentic Sanskrit texts belonging to Ayurveda: the ancient Indian science of medicine and nature. The text anaylsis its medical and social aspects, and various topics such as diseases and health-care, the physician, their training and specialisation, interaction with society, educational training, etc.
-
-Go directly to: 
-Footnotes.
 
 The perception of surgery
 
@@ -15362,10 +14447,6 @@ Clinical conditions requiring application of surgical procedures or cauterizatio
 Though alkalis are held to be effective and safe (siddhā niratyayāḥ), it is advised that they should be used as a last resort when other therapies are not effective (dāhastvante praśasyate).[76] Caraka points out that though excision, alkali or thermal cauterizations are preferred by some physicians, they are fraught with risk as any lapse could lead to several serious complications.[77] Therefore, they should be administered only by one who is well versed in the subject (bhūritantreṇa), intelligent (dhīmatā) and experienced (dṛṣṭakarmaṇā).[78] The perception of risk and pain involved in surgical procedures compared to other therapies is very much evident.[79] Suśruta, too, admits the high risk factor in some procedures, such as, removal of urinary stone and cases of mal-presentation of foetus. The latter is regarded by Suśruta as the most difficult among all surgeries.[80] Yet another potentially fatal procedure is the surgical excision of the galaśuṇḍikā (uvula).[81] Suśruta enjoins that difficult surgeries should be attempted only by one who is well versed in surgery and has practical experience.[82]
 
 Apart from professional dexterity, the surgeon is called upon to be sensitive to the needs of the patient. When conducting procedures on infants and those who fear the sight of surgical instruments, he is advised to use instead bamboo skin, quartz (sphatika), glass (kāca) and kuruvinda (corundum)[83] for the procedures.[84] Leaves of gojī, śephālikā and śākapatra are used as substitutes in drainage of lesions within the oral cavity and on the eyelids.[85] Leeches, fire cautery and alkalis can also be used as the substitutes for sharp instruments. Among the various methods of phlebotomy the most gentle is leech treatment which, we have noted earlier, is preferred by Suśruta for kings and affluent persons, children and the elderly, timid and weak persons, women and delicate persons.[86]
-
-Footnotes and references:
-
-[back to top]
 
 [1]:
 
@@ -15715,15 +14796,9 @@ Suśruta Saṃhitā Sūtrasthāna 13.3.
 
 ## 92. Concept of infection
 
-
 Charaka Samhita and Sushruta Samhita
 
-by Nayana Sharma | 2015 | 139,725 words
-
 This page relates ‘Concept of infection’ of the study on the Charaka Samhita and the Sushruta Samhita, both important and authentic Sanskrit texts belonging to Ayurveda: the ancient Indian science of medicine and nature. The text anaylsis its medical and social aspects, and various topics such as diseases and health-care, the physician, their training and specialisation, interaction with society, educational training, etc.
-
-Go directly to: 
-Footnotes.
 
 Concept of infection
 
@@ -15732,8 +14807,6 @@ It is in the phase of post-operative wound management that the surgeon faces maj
 The need to maintain hygiene in this phase has been reiterated many times by Suśruta as the one of the methods of avoiding post-surgical complications. Cleanliness and hygiene are of utmost concern to a woman in puerperium after undergoing obstetric surgery.[4]
 
 Cleanliness is emphasised as being vitally important for the healing of wounds and abscesses and keeping them free of all unwanted elements. Suśruta explains:
-
-“If dust, hair, nail and loose bone pieces, etc., remain unextracted from the wound, they cause severe suppuration (pācana) and different types of pain; hence proper wound toilet should be done in them.”[5]
 
 “If dust, hair, nail and loose bone pieces, etc., remain unextracted from the wound, they cause severe suppuration (pācana) and different types of pain; hence proper wound toilet should be done in them.”[5]
 
@@ -15748,10 +14821,6 @@ Another term for pathogens in the texts is ‘kṛmi’ that includes parasites,
 The agents causing infection are personified as rākṣasas and niśācaras (night rovers) who are fierce malevolent beings are followers of Paśupati, Kubera and Kumāra. Their behaviour pattern is also described, i.e., their fondness for flesh and blood which makes the patient with a wound venerable to their attacks. They can even take his life; hence they are much feared.[20] A combination of clinical and religious therapies, which we have already noted, has been suggested in the text. These are, however, more precautionary in nature than therapeutic. In fact, no medications have been suggested in the event of an actual infection.
 
 The terms rākṣasa and niśācara are metaphors for entities which today would be recognised as disease causing micro-organisms. As the ancient physicians knew precious little about their behaviour, these entities became homonymous with malevolent forces that were commonly known. There is no gainsaying that the risk of infection following surgery was immense. Even in late nineteenth century Europe before the development of germ theory by Louis Pasteur, infection was a major contributor to mortality and morbidity rates among surgical patients.
-
-Footnotes and references:
-
-[back to top]
 
 [1]:
 
@@ -15837,10 +14906,7 @@ Suśruta Saṃhitā Sūtrasthāna 19.23.
 
 ## 93. Chapter 10: Conclusion
 
-
 Charaka Samhita and Sushruta Samhita
-
-by Nayana Sharma | 2015 | 139,725 words
 
 This page relates ‘Chapter 10: Conclusion’ of the study on the Charaka Samhita and the Sushruta Samhita, both important and authentic Sanskrit texts belonging to Ayurveda: the ancient Indian science of medicine and nature. The text anaylsis its medical and social aspects, and various topics such as diseases and health-care, the physician, their training and specialisation, interaction with society, educational training, etc.
 
@@ -15918,15 +14984,9 @@ The objective of Āyurveda is to ensure good health and happiness of men in this
 
 ## 94. The training of the Surgeon
 
-
 Charaka Samhita and Sushruta Samhita
 
-by Nayana Sharma | 2015 | 139,725 words
-
 This page relates ‘training of the Surgeon’ of the study on the Charaka Samhita and the Sushruta Samhita, both important and authentic Sanskrit texts belonging to Ayurveda: the ancient Indian science of medicine and nature. The text anaylsis its medical and social aspects, and various topics such as diseases and health-care, the physician, their training and specialisation, interaction with society, educational training, etc.
-
-Go directly to: 
-Footnotes.
 
 The training of the Surgeon
 
@@ -15959,8 +15019,6 @@ According to K.L.Bhishagratna, Suśruta‘s avagharśana is now considered by ma
 
 “It was not possible to get into the interiors of the body and gain knowledge about visceral anatomy.”[20]
 
-“It was not possible to get into the interiors of the body and gain knowledge about visceral anatomy.”[20]
-
 We may conjecture a word that corpses were possibly procured from the charnel grounds for dissection. It is known from the early Buddhist texts that dead bodies of ordinary persons were disposed of in a cemetery (sīvathikā or āmakasusāna) unlike deceased persons of distinction or public teachers who were cremated.[21] Dismembered and cut up corpses were to be found in battlefields, in forests where kings slaughtered robbers or wild animals took the life of men as well as and on charnel grounds.[22] The term āmakasusāna refers to a spot in the charnel ground where corpses are thrown to be eaten by wild animals.[23] Such uncremated corpses would have been sought by students and teachers of surgery and as we have noted in Chapter 3, the cemetery is one of the places where studies is prohibited by Suśruta. It is known from Buddhist texts that experiments in dead bodies were undertaken.[24] The Rāmāyaṇa (Ayodhyākāṇḍa 66.14-16),[25] Viṣṇupurāṇa[26] and the Aṅguttaranikāya[27] contain references to the preservation of the dead in oil and fragrant substances.
 
 Handling of corpses certainly did not meet with the approval of the legists and the Dhanvantari school of physicians would be well aware of defilement and ritual pollution incurred by working with decaying cadavers. According to Vasiṣṭha Dharmasūtra (23.24-25) touching a human bone with soft tissue attached to it causes impurity for three days; but if there is no soft tissue attached to it, then period of impurity is a day and a night.[28] Baudhāyana (1.11.32-33) says that if someone accidentally touches the corpse of an outsider, he becomes pure after immediately taking a bath with his clothes on; whereas if he does so deliberately, he remains impure for three for three days.[29] Basham suggests that it would have been theoretically possible for the vaidya to hire the untouchables to work as executioners and cremation attendants to dissect the corpses for him[30] to avoid physical contact with cadavers. Nevertheless, it is in the background of the social disapproval that this school of physicians had to build up a case in favour of dissection of cadavers.
@@ -15971,13 +15029,7 @@ Zysk has drawn our attention to the penultimate verse of the chapter on anatomy 
 
 “It is not possible to perceive the pervading and subtlest consciousness (vibhu) in the body with the eye. It is only possible to see the same by the eyes of knowledge and by the eyes of penance”.[33]
 
-“It is not possible to perceive the pervading and subtlest consciousness (vibhu) in the body with the eye. It is only possible to see the same by the eyes of knowledge and by the eyes of penance”.[33]
-
 Thus, the body contains a fundamentally sacred part which is invisible but at the same time, it is implied, that scientific observation of the body will never reveal its most subtle part. As he never comes in contact with the sacred, the physician has no fear of retribution for his action.[34]
-
-Footnotes and references:
-
-[back to top]
 
 [1]:
 
@@ -16119,15 +15171,9 @@ K.G.Zysk, ‘Some Observations on the Dissection of Cadavers in Ancient India’
 
 ## 95. The three stages of Surgical procedures
 
-
 Charaka Samhita and Sushruta Samhita
 
-by Nayana Sharma | 2015 | 139,725 words
-
 This page relates ‘three stages of Surgical procedures’ of the study on the Charaka Samhita and the Sushruta Samhita, both important and authentic Sanskrit texts belonging to Ayurveda: the ancient Indian science of medicine and nature. The text anaylsis its medical and social aspects, and various topics such as diseases and health-care, the physician, their training and specialisation, interaction with society, educational training, etc.
-
-Go directly to: 
-Footnotes.
 
 The three stages of Surgical procedures
 
@@ -16242,10 +15288,6 @@ The practices of yama and niyama are recommended as additional protective measur
 Awareness of the importance of a highly sanitized environment in the recovery room is evident from the text. Cleanliness, comfortable conditions, agreeable ambience, regular waking and sleeping hours, minimal exertion and appropriate diet at regular intervals, in the view of ancient medical science, are optimal for convalescence.[63] Moreover, the need to keep an optimistic attitude about recovery underlines the necessity to have faith in his treatment and his physician.
 
 To attend to the needs of the convalescent and keep him mentally engaged, visits of affectionate friends and companions who are good conversationalists is encouraged. They can console the patient in his pain and help minimize his agony. However, women visitors especially, those for whom the patient may feel sexual attraction, is discouraged.[64] The ancient Indian physicians had a clear understanding of the correlation of psychological well-being and physical health. The attendants who nursed the convalescent were possibly employed by the patient.
-
-Footnotes and references:
-
-[back to top]
 
 [1]:
 

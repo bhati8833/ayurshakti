@@ -18,7 +18,6 @@ Language and terminology form the backbone of traditional Indian medicine. Every
 
 ---
 
-
 ### Key Sanskrit Terms starting with 'Y' (Sample Preview)
 The following is an excerpt of classical Sanskrit terms starting with letter **Y**:
 
@@ -57,7 +56,6 @@ The following is an excerpt of classical Sanskrit terms starting with letter **Y
 </ul>
 
 *Browse all 206 authenticated terms under Letter Y in the searchable directory above.*
-
 
 ---
 

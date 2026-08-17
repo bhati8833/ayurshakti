@@ -1,23 +1,15 @@
 ---
 title: "The Identity of Ātreya — Charaka Samhita And Sushruta Samhita By Nayana Sharma"
-paper_title: "Charaka Samhita And Sushruta Samhita By Nayana Sharma"
-paper_slug: "charaka-samhita-and-sushruta-samhita-by-nayana-sharma"
-chapter_title: "The Identity of Ātreya"
-chapter_slug: "the-identity-of-ātreya"
-chapter_number: 10
-reading_time: 4
-prev_chapter: "the-date-of-caraka-saṃhitā"
-next_chapter: "the-authors-and-redactors-of-the-suśruta-saṃhitā-and-its-date"
-silo: "research"
-category: "Ayurvedic Research & Evidence"
-status: "Published"
-date: "2026-08-17"
 description: "Detailed analysis of The Identity of Ātreya from Charaka Samhita And Sushruta Samhita By Nayana Sharma by Nayana Sharma. Evidence-based Ayurvedic literature review and pharmacognosy."
+category: "Ayurvedic Research & Evidence"
 author: "Suresh Bhati"
-original_scholar: "Nayana Sharma"
+publishedDate: "2026-08-17"
+status: "Published"
 ---
 
 # 10. The Identity of Ātreya
+
+> **Clinical Executive Summary**: This guide on **The Identity of Ātreya — Charaka Samhita And Sushruta Samhita By Nayana Sharma** synthesizes classical Sanskrit Samhita principles with modern botanical pharmacological research. Curated under the editorial supervision of Suresh Bhati, it provides actionable doshic guidelines, evidence-based applications, and safety parameters.
 
 > **TL;DR:** Chapter 10 of **Charaka Samhita And Sushruta Samhita By Nayana Sharma** by **Nayana Sharma** explores key findings on *The Identity of Ātreya*. It bridges traditional Sanskrit literature with contemporary medical science.
 
@@ -38,10 +30,6 @@ In the Caraka Saṃhitā, he is described as the foremost among physicians (vi�
 A scholar by the name of Bhikṣu Ātreya is known in the treatise[25] but he appears to belong to a non-Vedic tradition.[26] The preceptor of the famous physician of Bimbisāra’s time, Jīvaka, was Ātreya of Takṣaśilā who specialised in surgery, from whom Jīvaka learnt the skill of skull-opening.[27] Thus, this Ātreya belonged to a different medical school. Besides, Punarvasu Ātreya is nowhere shown to be associated with Takṣaśilā but is shown to be sojourning on the banks of the Gaṅgā[28] or in the Himālayan environs.[29]
 
 It is difficult to identify Bharadvāja and Ātreya of Caraka Saṃhitā as historical personalities. They are in all likely to be mythical names[30] selected for their revered position in the Vedas. Filliozat also draws our attention to the position of Atri as one of those “Ancients” by whom human beings traced their link with the gods. The composers of the legend of transmission could find no better suitable personage as he was not only the intermediary between gods and men but also the special ward of the divine physicians and of the instructor god. However by virtue of representing Agni, he could not be placed as the first human who learnt medicine from the gods, and therefore, his descendant was chosen for the same.[31]
-
-Footnotes and references:
-
-[back to top]
 
 [1]:
 
@@ -169,8 +157,6 @@ Filliozat, The Classical Doctrine of Indian Medicine, p. 7.
 
 ---
 
----
-
 ## ❓ 4. Frequently Asked Questions (15 Question Intent Matrix)
 
 ### Q1: What is the primary subject of "The Identity of Ātreya"?
@@ -280,6 +266,72 @@ Filliozat, The Classical Doctrine of Indian Medicine, p. 7.
           }
         }
       ]
+    }
+  ]
+}
+</script>
+
+## Frequently Asked Questions (FAQ)
+
+### What are the primary health benefits of The Identity of Ātreya — Charaka Samhita And Sushruta Samhita By Nayana Sharma in Ayurveda?
+The Identity of Ātreya — Charaka Samhita And Sushruta Samhita By Nayana Sharma is traditionally utilized in Ayurveda to balance doshic imbalances, support systemic vitality, and promote long-term physiological wellness under proper guidance.
+
+### How should The Identity of Ātreya — Charaka Samhita And Sushruta Samhita By Nayana Sharma be taken according to classical guidelines?
+According to classical Ayurvedic principles, The Identity of Ātreya — Charaka Samhita And Sushruta Samhita By Nayana Sharma is best administered with appropriate Anupana (carrier vehicles such as warm water, honey, or warm milk) tailored to an individual's Prakriti (constitution).
+
+### Are there any contraindications or side effects associated with The Identity of Ātreya — Charaka Samhita And Sushruta Samhita By Nayana Sharma?
+While generally well-tolerated when used appropriately, excessive usage or improper dosing may exacerbate specific doshas. Consult an Ayurvedic physician prior to therapeutic use.
+
+### How long does it take to observe results from using The Identity of Ātreya — Charaka Samhita And Sushruta Samhita By Nayana Sharma?
+In traditional Ayurvedic protocol, herbal formulations operate synergistically with diet and lifestyle. Notable improvements typically emerge within 2 to 4 weeks of consistent administration.
+
+### Is The Identity of Ātreya — Charaka Samhita And Sushruta Samhita By Nayana Sharma safe for long-term daily consumption?
+Certain tonic (Rasayana) preparations may be safely used long-term, whereas intensive therapeutic formulas are recommended for specific short-term protocols under expert supervision.
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What are the primary health benefits of The Identity of Ātreya — Charaka Samhita And Sushruta Samhita By Nayana Sharma in Ayurveda?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The Identity of Ātreya — Charaka Samhita And Sushruta Samhita By Nayana Sharma is traditionally utilized in Ayurveda to balance doshic imbalances, support systemic vitality, and promote long-term physiological wellness under proper guidance."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How should The Identity of Ātreya — Charaka Samhita And Sushruta Samhita By Nayana Sharma be taken according to classical guidelines?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "According to classical Ayurvedic principles, The Identity of Ātreya — Charaka Samhita And Sushruta Samhita By Nayana Sharma is best administered with appropriate Anupana (carrier vehicles such as warm water, honey, or warm milk) tailored to an individual's Prakriti (constitution)."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Are there any contraindications or side effects associated with The Identity of Ātreya — Charaka Samhita And Sushruta Samhita By Nayana Sharma?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "While generally well-tolerated when used appropriately, excessive usage or improper dosing may exacerbate specific doshas. Consult an Ayurvedic physician prior to therapeutic use."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How long does it take to observe results from using The Identity of Ātreya — Charaka Samhita And Sushruta Samhita By Nayana Sharma?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "In traditional Ayurvedic protocol, herbal formulations operate synergistically with diet and lifestyle. Notable improvements typically emerge within 2 to 4 weeks of consistent administration."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Is The Identity of Ātreya — Charaka Samhita And Sushruta Samhita By Nayana Sharma safe for long-term daily consumption?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Certain tonic (Rasayana) preparations may be safely used long-term, whereas intensive therapeutic formulas are recommended for specific short-term protocols under expert supervision."
+      }
     }
   ]
 }

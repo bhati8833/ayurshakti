@@ -20,10 +20,7 @@ This chapter from **Sushruta Samhita (Uttaratantra)** represents the classical s
 
 ---
 
-
 Sushruta Samhita, Volume 6: Uttara-tantra
-
-by Kaviraj Kunja Lal Bhishagratna | 1916 | 113,078 words
 
 This current book, the Uttara-tantra (english translation) is the supplementary part of the Sushrutasamhita and deals various subjects such as diseases of the eye, treatment of fever, diarrhea, diseases resulting from superhuman influences, insanity, rules of health etc.
 
@@ -40,8 +37,6 @@ The child should be made to wear Vaca, Vayastha, Golomi and Jatila as a charm an
 Offerings of huskless sesamum, garlands of flowers and various dishes should be made to the deity Naigamesha (the preserver of the child) at the foot of a Vata tree on the sixth day of the fortnight and the child should be bathed there at the foot of the tree.
 
 The Mantra runs as follows:—
-
-“May the far-famed god, Naigamesha, the preserver of children, who has a goat’s face with moving brow and rolling eyes and who can assume different forms at will, preserve the child.” 2.
 
 “May the far-famed god, Naigamesha, the preserver of children, who has a goat’s face with moving brow and rolling eyes and who can assume different forms at will, preserve the child.” 2.
 

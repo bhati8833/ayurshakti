@@ -9,19 +9,11 @@ date: "2026-08-17"
 description: "study researches the influence of Nyaya and Vaisheshika on Ayurveda."
 ---
 
-**Author / Source:** by Sindhu K. K.
-
-
-**Total Chapters/Sections:** 54
-
 ---
 
 ## 1. 1. Introduction to Darsana (philosophy)
 
-
 Influence of Nyaya-Vaisesika on Ayurveda
-
-by Sindhu K. K. | 2011 | 38,473 words
 
 This study researches the influence of Nyaya and Vaisheshika on Ayurveda.—The Nyaya system of Indian philosophy is closely linked with Vaisheshika, forming a logical and realistic philosophy essential for understanding various branches of Indian science, including Ayurveda (the ancient Indian science of life). The text explores the historical devel...
 
@@ -37,10 +29,7 @@ ages. As time went on such lines of thinking multiplied in number and began to d
 
 ## 2. Acknowledgements
 
-
 Influence of Nyaya-Vaisesika on Ayurveda
-
-by Sindhu K. K. | 2011 | 38,473 words
 
 This study researches the influence of Nyaya and Vaisheshika on Ayurveda.—The Nyaya system of Indian philosophy is closely linked with Vaisheshika, forming a logical and realistic philosophy essential for understanding various branches of Indian science, including Ayurveda (the ancient Indian science of life). The text explores the historical devel...
 
@@ -52,10 +41,7 @@ My thanks are due to my teachers and colleagues and to all those who have contri
 
 ## 3. Chapter 1 - Origin and Development of Nyaya-Vaisesika and Ayurveda
 
-
 Influence of Nyaya-Vaisesika on Ayurveda
-
-by Sindhu K. K. | 2011 | 38,473 words
 
 This study researches the influence of Nyaya and Vaisheshika on Ayurveda.—The Nyaya system of Indian philosophy is closely linked with Vaisheshika, forming a logical and realistic philosophy essential for understanding various branches of Indian science, including Ayurveda (the ancient Indian science of life). The text explores the historical devel...
 
@@ -67,10 +53,7 @@ Chapter 1 - Origin and Development of Nyaya-Vaisesika and Ayurveda
 
 ## 4. 2. Classification of Darsana
 
-
 Influence of Nyaya-Vaisesika on Ayurveda
-
-by Sindhu K. K. | 2011 | 38,473 words
 
 This study researches the influence of Nyaya and Vaisheshika on Ayurveda.—The Nyaya system of Indian philosophy is closely linked with Vaisheshika, forming a logical and realistic philosophy essential for understanding various branches of Indian science, including Ayurveda (the ancient Indian science of life). The text explores the historical devel...
 
@@ -84,10 +67,7 @@ word Asthika in the sense of 'one who believes in God.' If this should be accept
 
 ## 5. Introduction
 
-
 Influence of Nyaya-Vaisesika on Ayurveda
-
-by Sindhu K. K. | 2011 | 38,473 words
 
 This study researches the influence of Nyaya and Vaisheshika on Ayurveda.—The Nyaya system of Indian philosophy is closely linked with Vaisheshika, forming a logical and realistic philosophy essential for understanding various branches of Indian science, including Ayurveda (the ancient Indian science of life). The text explores the historical devel...
 
@@ -105,10 +85,7 @@ The third chapter deals with the scientific tradition of Nyaya-Vaisesika and Ayu
 
 ## 6. 3. Origin and development of Nyaya-Sastra
 
-
 Influence of Nyaya-Vaisesika on Ayurveda
-
-by Sindhu K. K. | 2011 | 38,473 words
 
 This study researches the influence of Nyaya and Vaisheshika on Ayurveda.—The Nyaya system of Indian philosophy is closely linked with Vaisheshika, forming a logical and realistic philosophy essential for understanding various branches of Indian science, including Ayurveda (the ancient Indian science of life). The text explores the historical devel...
 
@@ -120,10 +97,7 @@ Origin and development of Nyaya-Sastra The Brahmanas maintain that their religio
 
 ## 7. 5. Nyaya Sutra: The first systematic work on Nyaya Shastra
 
-
 Influence of Nyaya-Vaisesika on Ayurveda
-
-by Sindhu K. K. | 2011 | 38,473 words
 
 This study researches the influence of Nyaya and Vaisheshika on Ayurveda.—The Nyaya system of Indian philosophy is closely linked with Vaisheshika, forming a logical and realistic philosophy essential for understanding various branches of Indian science, including Ayurveda (the ancient Indian science of life). The text explores the historical devel...
 
@@ -137,10 +111,7 @@ time. The principle subjects treated in the Nyaya-sutra, may be grouped under th
 
 ## 8. 4. Atmavidya (the science of Soul)
 
-
 Influence of Nyaya-Vaisesika on Ayurveda
-
-by Sindhu K. K. | 2011 | 38,473 words
 
 This study researches the influence of Nyaya and Vaisheshika on Ayurveda.—The Nyaya system of Indian philosophy is closely linked with Vaisheshika, forming a logical and realistic philosophy essential for understanding various branches of Indian science, including Ayurveda (the ancient Indian science of life). The text explores the historical devel...
 
@@ -160,10 +131,7 @@ uses the expression of 'Parama-Nyaya' for the conclusion which combines all the 
 
 ## 9. 6. Aksapada: The author of Nyaya-sutra (150 A.D.)
 
-
 Influence of Nyaya-Vaisesika on Ayurveda
-
-by Sindhu K. K. | 2011 | 38,473 words
 
 This study researches the influence of Nyaya and Vaisheshika on Ayurveda.—The Nyaya system of Indian philosophy is closely linked with Vaisheshika, forming a logical and realistic philosophy essential for understanding various branches of Indian science, including Ayurveda (the ancient Indian science of life). The text explores the historical devel...
 
@@ -177,10 +145,7 @@ of which he was rescued with great difficulty. God therefore mereficullly provid
 
 ## 10. 8. Origin and Development of Vaisesika Darsana
 
-
 Influence of Nyaya-Vaisesika on Ayurveda
-
-by Sindhu K. K. | 2011 | 38,473 words
 
 This study researches the influence of Nyaya and Vaisheshika on Ayurveda.—The Nyaya system of Indian philosophy is closely linked with Vaisheshika, forming a logical and realistic philosophy essential for understanding various branches of Indian science, including Ayurveda (the ancient Indian science of life). The text explores the historical devel...
 
@@ -198,10 +163,7 @@ posterior negation, as the absence of an object after it had been destroyed; or 
 
 ## 11. 7. The arrangement Categories in the Nyaya-sutra
 
-
 Influence of Nyaya-Vaisesika on Ayurveda
-
-by Sindhu K. K. | 2011 | 38,473 words
 
 This study researches the influence of Nyaya and Vaisheshika on Ayurveda.—The Nyaya system of Indian philosophy is closely linked with Vaisheshika, forming a logical and realistic philosophy essential for understanding various branches of Indian science, including Ayurveda (the ancient Indian science of life). The text explores the historical devel...
 
@@ -239,10 +201,7 @@ debater here is engaged simply in the refuted of a position but does not give th
 
 ## 12. 9. The periods and development of inter-related Nyaya-Vaisesika
 
-
 Influence of Nyaya-Vaisesika on Ayurveda
-
-by Sindhu K. K. | 2011 | 38,473 words
 
 This study researches the influence of Nyaya and Vaisheshika on Ayurveda.—The Nyaya system of Indian philosophy is closely linked with Vaisheshika, forming a logical and realistic philosophy essential for understanding various branches of Indian science, including Ayurveda (the ancient Indian science of life). The text explores the historical devel...
 
@@ -274,10 +233,7 @@ in the simplest language. The Bhasa-paricheda, the Tarka Samgraha and Tarkamrta,
 
 ## 13. 11. Origin and Antiquity of Ayurveda
 
-
 Influence of Nyaya-Vaisesika on Ayurveda
-
-by Sindhu K. K. | 2011 | 38,473 words
 
 This study researches the influence of Nyaya and Vaisheshika on Ayurveda.—The Nyaya system of Indian philosophy is closely linked with Vaisheshika, forming a logical and realistic philosophy essential for understanding various branches of Indian science, including Ayurveda (the ancient Indian science of life). The text explores the historical devel...
 
@@ -293,10 +249,7 @@ knowledge of Ayurveda as eternal, but considers it have a beginning from its fir
 
 ## 14. 10. An introduction to Ayurveda
 
-
 Influence of Nyaya-Vaisesika on Ayurveda
-
-by Sindhu K. K. | 2011 | 38,473 words
 
 This study researches the influence of Nyaya and Vaisheshika on Ayurveda.—The Nyaya system of Indian philosophy is closely linked with Vaisheshika, forming a logical and realistic philosophy essential for understanding various branches of Indian science, including Ayurveda (the ancient Indian science of life). The text explores the historical devel...
 
@@ -316,10 +269,7 @@ physical and mental disease, endowed with vigour, strength, energy, and vitality
 
 ## 15. 12. Pre-Vedic Period of Ayurveda
 
-
 Influence of Nyaya-Vaisesika on Ayurveda
-
-by Sindhu K. K. | 2011 | 38,473 words
 
 This study researches the influence of Nyaya and Vaisheshika on Ayurveda.—The Nyaya system of Indian philosophy is closely linked with Vaisheshika, forming a logical and realistic philosophy essential for understanding various branches of Indian science, including Ayurveda (the ancient Indian science of life). The text explores the historical devel...
 
@@ -335,10 +285,7 @@ the three basic elements activating, sustaining, nourishing and maintaing the li
 
 ## 16. 14. Ayurveda and Atharva Veda
 
-
 Influence of Nyaya-Vaisesika on Ayurveda
-
-by Sindhu K. K. | 2011 | 38,473 words
 
 This study researches the influence of Nyaya and Vaisheshika on Ayurveda.—The Nyaya system of Indian philosophy is closely linked with Vaisheshika, forming a logical and realistic philosophy essential for understanding various branches of Indian science, including Ayurveda (the ancient Indian science of life). The text explores the historical devel...
 
@@ -354,10 +301,7 @@ We are well aware that Atharvaveda comprises of 20 kanda, 721 suktas and 5977 ma
 
 ## 17. 13. Indian Medicine in Vedic period
 
-
 Influence of Nyaya-Vaisesika on Ayurveda
-
-by Sindhu K. K. | 2011 | 38,473 words
 
 This study researches the influence of Nyaya and Vaisheshika on Ayurveda.—The Nyaya system of Indian philosophy is closely linked with Vaisheshika, forming a logical and realistic philosophy essential for understanding various branches of Indian science, including Ayurveda (the ancient Indian science of life). The text explores the historical devel...
 
@@ -371,10 +315,7 @@ The Vedic Indian's attitude towards the diseases was dominated by the belief of 
 
 ## 18. 16. Ayurveda and Sangraha period (period of Epitoms)
 
-
 Influence of Nyaya-Vaisesika on Ayurveda
-
-by Sindhu K. K. | 2011 | 38,473 words
 
 This study researches the influence of Nyaya and Vaisheshika on Ayurveda.—The Nyaya system of Indian philosophy is closely linked with Vaisheshika, forming a logical and realistic philosophy essential for understanding various branches of Indian science, including Ayurveda (the ancient Indian science of life). The text explores the historical devel...
 
@@ -392,10 +333,7 @@ centureis.A.D. These two Samhitas bear testimony to the scientific research pati
 
 ## 19. 15. Ayurveda and Samhita period (period of Compilations)
 
-
 Influence of Nyaya-Vaisesika on Ayurveda
-
-by Sindhu K. K. | 2011 | 38,473 words
 
 This study researches the influence of Nyaya and Vaisheshika on Ayurveda.—The Nyaya system of Indian philosophy is closely linked with Vaisheshika, forming a logical and realistic philosophy essential for understanding various branches of Indian science, including Ayurveda (the ancient Indian science of life). The text explores the historical devel...
 
@@ -413,10 +351,7 @@ Vajikarana-tantra Concern the means of increasing virile powers.
 
 ## 20. Chapter 2 - Ayurveda and other systems of Indian Philosophy: An overview
 
-
 Influence of Nyaya-Vaisesika on Ayurveda
-
-by Sindhu K. K. | 2011 | 38,473 words
 
 This study researches the influence of Nyaya and Vaisheshika on Ayurveda.—The Nyaya system of Indian philosophy is closely linked with Vaisheshika, forming a logical and realistic philosophy essential for understanding various branches of Indian science, including Ayurveda (the ancient Indian science of life). The text explores the historical devel...
 
@@ -428,10 +363,7 @@ Chapter 2 - Ayurveda and other systems of Indian Philosophy: An overview
 
 ## 21. 17. The Caraka Samhita
 
-
 Influence of Nyaya-Vaisesika on Ayurveda
-
-by Sindhu K. K. | 2011 | 38,473 words
 
 This study researches the influence of Nyaya and Vaisheshika on Ayurveda.—The Nyaya system of Indian philosophy is closely linked with Vaisheshika, forming a logical and realistic philosophy essential for understanding various branches of Indian science, including Ayurveda (the ancient Indian science of life). The text explores the historical devel...
 
@@ -449,10 +381,7 @@ NOTES 1 I.P., Vol.I., p.1. 2 History of Indian Logic ,p.1-53 3 Critical Survey o
 
 ## 22. 1. Introduction (to Ayurveda and Philosophy)
 
-
 Influence of Nyaya-Vaisesika on Ayurveda
-
-by Sindhu K. K. | 2011 | 38,473 words
 
 This study researches the influence of Nyaya and Vaisheshika on Ayurveda.—The Nyaya system of Indian philosophy is closely linked with Vaisheshika, forming a logical and realistic philosophy essential for understanding various branches of Indian science, including Ayurveda (the ancient Indian science of life). The text explores the historical devel...
 
@@ -476,10 +405,7 @@ Prthvi (earth) Anything i.e., solid, heavy, inert dense and opaque is of prthvi 
 
 ## 23. 3. Yoga and Ayurveda
 
-
 Influence of Nyaya-Vaisesika on Ayurveda
-
-by Sindhu K. K. | 2011 | 38,473 words
 
 This study researches the influence of Nyaya and Vaisheshika on Ayurveda.—The Nyaya system of Indian philosophy is closely linked with Vaisheshika, forming a logical and realistic philosophy essential for understanding various branches of Indian science, including Ayurveda (the ancient Indian science of life). The text explores the historical devel...
 
@@ -515,10 +441,7 @@ NOTES 1 Critical Survey of Indian Philosophy , p.149-150 2 Ibid., p.151-162. 3 C
 
 ## 24. 1. Nyaya-Vaisesika theory of Epistemology
 
-
 Influence of Nyaya-Vaisesika on Ayurveda
-
-by Sindhu K. K. | 2011 | 38,473 words
 
 This study researches the influence of Nyaya and Vaisheshika on Ayurveda.—The Nyaya system of Indian philosophy is closely linked with Vaisheshika, forming a logical and realistic philosophy essential for understanding various branches of Indian science, including Ayurveda (the ancient Indian science of life). The text explores the historical devel...
 
@@ -540,10 +463,7 @@ distinguish these from mere false opinions. According to the Nyaya School, there
 
 ## 25. 2. Samkhya-Vedanta view of Cosmology and Ayurveda
 
-
 Influence of Nyaya-Vaisesika on Ayurveda
-
-by Sindhu K. K. | 2011 | 38,473 words
 
 This study researches the influence of Nyaya and Vaisheshika on Ayurveda.—The Nyaya system of Indian philosophy is closely linked with Vaisheshika, forming a logical and realistic philosophy essential for understanding various branches of Indian science, including Ayurveda (the ancient Indian science of life). The text explores the historical devel...
 
@@ -571,10 +491,7 @@ these three gunas is essential for our physical and mental health. But disequili
 
 ## 26. Chapter 3 - Scientific heritage of Nyaya-Vaisesika and Ayurveda: An apraisal
 
-
 Influence of Nyaya-Vaisesika on Ayurveda
-
-by Sindhu K. K. | 2011 | 38,473 words
 
 This study researches the influence of Nyaya and Vaisheshika on Ayurveda.—The Nyaya system of Indian philosophy is closely linked with Vaisheshika, forming a logical and realistic philosophy essential for understanding various branches of Indian science, including Ayurveda (the ancient Indian science of life). The text explores the historical devel...
 
@@ -586,10 +503,7 @@ Chapter 3 - Scientific heritage of Nyaya-Vaisesika and Ayurveda: An apraisal
 
 ## 27. 3. Inference (anumana) according to the Nyaya School
 
-
 Influence of Nyaya-Vaisesika on Ayurveda
-
-by Sindhu K. K. | 2011 | 38,473 words
 
 This study researches the influence of Nyaya and Vaisheshika on Ayurveda.—The Nyaya system of Indian philosophy is closely linked with Vaisheshika, forming a logical and realistic philosophy essential for understanding various branches of Indian science, including Ayurveda (the ancient Indian science of life). The text explores the historical devel...
 
@@ -621,10 +535,7 @@ V. In Compatible reason- (kalatita) ( Badhita) An in compatible reason occurs wh
 
 ## 28. 4. Comparison (upamana) according to the Nyaya School
 
-
 Influence of Nyaya-Vaisesika on Ayurveda
-
-by Sindhu K. K. | 2011 | 38,473 words
 
 This study researches the influence of Nyaya and Vaisheshika on Ayurveda.—The Nyaya system of Indian philosophy is closely linked with Vaisheshika, forming a logical and realistic philosophy essential for understanding various branches of Indian science, including Ayurveda (the ancient Indian science of life). The text explores the historical devel...
 
@@ -638,10 +549,7 @@ is like a cow. The result of comparison is the knowledge of the relation of the 
 
 ## 29. 2. Perception (pratyaksa) according to the Nyaya School
 
-
 Influence of Nyaya-Vaisesika on Ayurveda
-
-by Sindhu K. K. | 2011 | 38,473 words
 
 This study researches the influence of Nyaya and Vaisheshika on Ayurveda.—The Nyaya system of Indian philosophy is closely linked with Vaisheshika, forming a logical and realistic philosophy essential for understanding various branches of Indian science, including Ayurveda (the ancient Indian science of life). The text explores the historical devel...
 
@@ -671,10 +579,7 @@ The third kind of extra-ordinary perception is called Yogaja perception." This i
 
 ## 30. 5. Verbal testimony (sabda) according to the Nyaya School
 
-
 Influence of Nyaya-Vaisesika on Ayurveda
-
-by Sindhu K. K. | 2011 | 38,473 words
 
 This study researches the influence of Nyaya and Vaisheshika on Ayurveda.—The Nyaya system of Indian philosophy is closely linked with Vaisheshika, forming a logical and realistic philosophy essential for understanding various branches of Indian science, including Ayurveda (the ancient Indian science of life). The text explores the historical devel...
 
@@ -694,10 +599,7 @@ method and instrument for scientific cognition. Theories and methods of Navya-Ny
 
 ## 31. 6. The Nyaya theory of Causation
 
-
 Influence of Nyaya-Vaisesika on Ayurveda
-
-by Sindhu K. K. | 2011 | 38,473 words
 
 This study researches the influence of Nyaya and Vaisheshika on Ayurveda.—The Nyaya system of Indian philosophy is closely linked with Vaisheshika, forming a logical and realistic philosophy essential for understanding various branches of Indian science, including Ayurveda (the ancient Indian science of life). The text explores the historical devel...
 
@@ -719,10 +621,7 @@ threads, are the inherent cause of the cloth and the clay is the inherent cause 
 
 ## 32. 8. Peelupaka [pilupaka] or chemical change
 
-
 Influence of Nyaya-Vaisesika on Ayurveda
-
-by Sindhu K. K. | 2011 | 38,473 words
 
 This study researches the influence of Nyaya and Vaisheshika on Ayurveda.—The Nyaya system of Indian philosophy is closely linked with Vaisheshika, forming a logical and realistic philosophy essential for understanding various branches of Indian science, including Ayurveda (the ancient Indian science of life). The text explores the historical devel...
 
@@ -742,10 +641,7 @@ The Vaisesika school further declare that there is no other root cause of the un
 
 ## 33. 7. Nyaya-Vaisesika theory of Atomism
 
-
 Influence of Nyaya-Vaisesika on Ayurveda
-
-by Sindhu K. K. | 2011 | 38,473 words
 
 This study researches the influence of Nyaya and Vaisheshika on Ayurveda.—The Nyaya system of Indian philosophy is closely linked with Vaisheshika, forming a logical and realistic philosophy essential for understanding various branches of Indian science, including Ayurveda (the ancient Indian science of life). The text explores the historical devel...
 
@@ -765,10 +661,7 @@ important of atom, enumerates their qualities, specifies their dimension as glob
 
 ## 34. 9. Panchamahabhuta Theory
 
-
 Influence of Nyaya-Vaisesika on Ayurveda
-
-by Sindhu K. K. | 2011 | 38,473 words
 
 This study researches the influence of Nyaya and Vaisheshika on Ayurveda.—The Nyaya system of Indian philosophy is closely linked with Vaisheshika, forming a logical and realistic philosophy essential for understanding various branches of Indian science, including Ayurveda (the ancient Indian science of life). The text explores the historical devel...
 
@@ -800,10 +693,7 @@ and the person no more exist. So the panca-mahabhutas are living materials as fa
 
 ## 35. 10. Three Dosa theory
 
-
 Influence of Nyaya-Vaisesika on Ayurveda
-
-by Sindhu K. K. | 2011 | 38,473 words
 
 This study researches the influence of Nyaya and Vaisheshika on Ayurveda.—The Nyaya system of Indian philosophy is closely linked with Vaisheshika, forming a logical and realistic philosophy essential for understanding various branches of Indian science, including Ayurveda (the ancient Indian science of life). The text explores the historical devel...
 
@@ -845,10 +735,7 @@ substances. i.e., substances possessing properties and actions opposite of the d
 
 ## 36. Chapter 4 - Reflections of Nyaya-Vaisesika on Ayurveda—Based on Caraka Samhitha
 
-
 Influence of Nyaya-Vaisesika on Ayurveda
-
-by Sindhu K. K. | 2011 | 38,473 words
 
 This study researches the influence of Nyaya and Vaisheshika on Ayurveda.—The Nyaya system of Indian philosophy is closely linked with Vaisheshika, forming a logical and realistic philosophy essential for understanding various branches of Indian science, including Ayurveda (the ancient Indian science of life). The text explores the historical devel...
 
@@ -860,10 +747,7 @@ Chapter 4 - Reflections of Nyaya-Vaisesika on Ayurveda—Based on Caraka Samhith
 
 ## 37. 11. Sadrasas or Six tastes
 
-
 Influence of Nyaya-Vaisesika on Ayurveda
-
-by Sindhu K. K. | 2011 | 38,473 words
 
 This study researches the influence of Nyaya and Vaisheshika on Ayurveda.—The Nyaya system of Indian philosophy is closely linked with Vaisheshika, forming a logical and realistic philosophy essential for understanding various branches of Indian science, including Ayurveda (the ancient Indian science of life). The text explores the historical devel...
 
@@ -885,10 +769,7 @@ NOTES 1 tadbhinnam jnanamanubhavah | sa dvividha yathartho'yatharthasceti |  Tar
 
 ## 38. 1. Concept of pramanas in Ayurveda
 
-
 Influence of Nyaya-Vaisesika on Ayurveda
-
-by Sindhu K. K. | 2011 | 38,473 words
 
 This study researches the influence of Nyaya and Vaisheshika on Ayurveda.—The Nyaya system of Indian philosophy is closely linked with Vaisheshika, forming a logical and realistic philosophy essential for understanding various branches of Indian science, including Ayurveda (the ancient Indian science of life). The text explores the historical devel...
 
@@ -914,10 +795,7 @@ karanata from tad-bhava bhavita, It is arriving at a conclusion as a result of a
 
 ## 39. 2. Pramanas and Diagnosis
 
-
 Influence of Nyaya-Vaisesika on Ayurveda
-
-by Sindhu K. K. | 2011 | 38,473 words
 
 This study researches the influence of Nyaya and Vaisheshika on Ayurveda.—The Nyaya system of Indian philosophy is closely linked with Vaisheshika, forming a logical and realistic philosophy essential for understanding various branches of Indian science, including Ayurveda (the ancient Indian science of life). The text explores the historical devel...
 
@@ -941,10 +819,7 @@ described here for the diagnosis as same being of three kinds, viz., purvavat ( 
 
 ## 40. 4. The concept of Padarthas in Ayurveda
 
-
 Influence of Nyaya-Vaisesika on Ayurveda
-
-by Sindhu K. K. | 2011 | 38,473 words
 
 This study researches the influence of Nyaya and Vaisheshika on Ayurveda.—The Nyaya system of Indian philosophy is closely linked with Vaisheshika, forming a logical and realistic philosophy essential for understanding various branches of Indian science, including Ayurveda (the ancient Indian science of life). The text explores the historical devel...
 
@@ -960,10 +835,7 @@ Vaisesika darsana, and also says that the change behind the order is that the sp
 
 ## 41. 5. Samanya (Generality) and Visesa (Particularly) in Ayurveda
 
-
 Influence of Nyaya-Vaisesika on Ayurveda
-
-by Sindhu K. K. | 2011 | 38,473 words
 
 This study researches the influence of Nyaya and Vaisheshika on Ayurveda.—The Nyaya system of Indian philosophy is closely linked with Vaisheshika, forming a logical and realistic philosophy essential for understanding various branches of Indian science, including Ayurveda (the ancient Indian science of life). The text explores the historical devel...
 
@@ -997,10 +869,7 @@ to its physiology and medicine. It is to be noted that in the definition propoun
 
 ## 42. 6. Dravya (Substance) in Ayurveda
 
-
 Influence of Nyaya-Vaisesika on Ayurveda
-
-by Sindhu K. K. | 2011 | 38,473 words
 
 This study researches the influence of Nyaya and Vaisheshika on Ayurveda.—The Nyaya system of Indian philosophy is closely linked with Vaisheshika, forming a logical and realistic philosophy essential for understanding various branches of Indian science, including Ayurveda (the ancient Indian science of life). The text explores the historical devel...
 
@@ -1018,10 +887,7 @@ the chief, is not enumerative the first. It is slowed by the argument that in me
 
 ## 43. 7. Guna (Quality) in Ayurveda
 
-
 Influence of Nyaya-Vaisesika on Ayurveda
-
-by Sindhu K. K. | 2011 | 38,473 words
 
 This study researches the influence of Nyaya and Vaisheshika on Ayurveda.—The Nyaya system of Indian philosophy is closely linked with Vaisheshika, forming a logical and realistic philosophy essential for understanding various branches of Indian science, including Ayurveda (the ancient Indian science of life). The text explores the historical devel...
 
@@ -1039,10 +905,7 @@ Gurvadi gunas are twenty in number guru-lakhu, sitausna, snigdha-ruksamanda-tiks
 
 ## 44. 3. Logical reflections in medical assemblies
 
-
 Influence of Nyaya-Vaisesika on Ayurveda
-
-by Sindhu K. K. | 2011 | 38,473 words
 
 This study researches the influence of Nyaya and Vaisheshika on Ayurveda.—The Nyaya system of Indian philosophy is closely linked with Vaisheshika, forming a logical and realistic philosophy essential for understanding various branches of Indian science, including Ayurveda (the ancient Indian science of life). The text explores the historical devel...
 
@@ -1114,10 +977,7 @@ in the Nyaya system of philosophy than in these of polity or medicine. Besides t
 
 ## 45. 8. Karma (Action) in Ayurveda
 
-
 Influence of Nyaya-Vaisesika on Ayurveda
-
-by Sindhu K. K. | 2011 | 38,473 words
 
 This study researches the influence of Nyaya and Vaisheshika on Ayurveda.—The Nyaya system of Indian philosophy is closely linked with Vaisheshika, forming a logical and realistic philosophy essential for understanding various branches of Indian science, including Ayurveda (the ancient Indian science of life). The text explores the historical devel...
 
@@ -1131,10 +991,7 @@ living beings) where effort (prayatna) stands as its very cause. 91 Cakrapani me
 
 ## 46. 9. Samavaya (Inherence) in Ayurveda
 
-
 Influence of Nyaya-Vaisesika on Ayurveda
-
-by Sindhu K. K. | 2011 | 38,473 words
 
 This study researches the influence of Nyaya and Vaisheshika on Ayurveda.—The Nyaya system of Indian philosophy is closely linked with Vaisheshika, forming a logical and realistic philosophy essential for understanding various branches of Indian science, including Ayurveda (the ancient Indian science of life). The text explores the historical devel...
 
@@ -1148,10 +1005,7 @@ The Susruta Samhita like each and every other system of Indian knowledge is no e
 
 ## 47. 12. Concept of mind, Indriyas and Indriyarthas
 
-
 Influence of Nyaya-Vaisesika on Ayurveda
-
-by Sindhu K. K. | 2011 | 38,473 words
 
 This study researches the influence of Nyaya and Vaisheshika on Ayurveda.—The Nyaya system of Indian philosophy is closely linked with Vaisheshika, forming a logical and realistic philosophy essential for understanding various branches of Indian science, including Ayurveda (the ancient Indian science of life). The text explores the historical devel...
 
@@ -1169,10 +1023,7 @@ Though the word purusa is applied to all living beings, mainly it is used for hu
 
 ## 48. 10. Concept of Dravya in Ayurveda
 
-
 Influence of Nyaya-Vaisesika on Ayurveda
-
-by Sindhu K. K. | 2011 | 38,473 words
 
 This study researches the influence of Nyaya and Vaisheshika on Ayurveda.—The Nyaya system of Indian philosophy is closely linked with Vaisheshika, forming a logical and realistic philosophy essential for understanding various branches of Indian science, including Ayurveda (the ancient Indian science of life). The text explores the historical devel...
 
@@ -1198,10 +1049,7 @@ diet that one is accustomed to take, and those that are conducive to one's well 
 
 ## 49. 13. Concept of Sukha (happiness) and Dukha (misery)
 
-
 Influence of Nyaya-Vaisesika on Ayurveda
-
-by Sindhu K. K. | 2011 | 38,473 words
 
 This study researches the influence of Nyaya and Vaisheshika on Ayurveda.—The Nyaya system of Indian philosophy is closely linked with Vaisheshika, forming a logical and realistic philosophy essential for understanding various branches of Indian science, including Ayurveda (the ancient Indian science of life). The text explores the historical devel...
 
@@ -1215,10 +1063,7 @@ objects but when the mind is steadily concentrated to the self, both case to exi
 
 ## 50. 11. Principles of medicinal preparation
 
-
 Influence of Nyaya-Vaisesika on Ayurveda
-
-by Sindhu K. K. | 2011 | 38,473 words
 
 This study researches the influence of Nyaya and Vaisheshika on Ayurveda.—The Nyaya system of Indian philosophy is closely linked with Vaisheshika, forming a logical and realistic philosophy essential for understanding various branches of Indian science, including Ayurveda (the ancient Indian science of life). The text explores the historical devel...
 
@@ -1236,10 +1081,7 @@ Drugs listed in the classical pharmacological works include animal products (pra
 
 ## 51. 14. Concept of Moksa (emancipation)
 
-
 Influence of Nyaya-Vaisesika on Ayurveda
-
-by Sindhu K. K. | 2011 | 38,473 words
 
 This study researches the influence of Nyaya and Vaisheshika on Ayurveda.—The Nyaya system of Indian philosophy is closely linked with Vaisheshika, forming a logical and realistic philosophy essential for understanding various branches of Indian science, including Ayurveda (the ancient Indian science of life). The text explores the historical devel...
 
@@ -1255,10 +1097,7 @@ feelings of the mind the body realize, its own pure nature that is liberation wh
 
 ## 52. 15. Concept of God
 
-
 Influence of Nyaya-Vaisesika on Ayurveda
-
-by Sindhu K. K. | 2011 | 38,473 words
 
 This study researches the influence of Nyaya and Vaisheshika on Ayurveda.—The Nyaya system of Indian philosophy is closely linked with Vaisheshika, forming a logical and realistic philosophy essential for understanding various branches of Indian science, including Ayurveda (the ancient Indian science of life). The text explores the historical devel...
 
@@ -1272,10 +1111,7 @@ Principles and theories postulated by Vaisesika darsana has been accepted by alk
 
 ## 53. Chapter 5 - Conclusion
 
-
 Influence of Nyaya-Vaisesika on Ayurveda
-
-by Sindhu K. K. | 2011 | 38,473 words
 
 This study researches the influence of Nyaya and Vaisheshika on Ayurveda.—The Nyaya system of Indian philosophy is closely linked with Vaisheshika, forming a logical and realistic philosophy essential for understanding various branches of Indian science, including Ayurveda (the ancient Indian science of life). The text explores the historical devel...
 
@@ -1311,10 +1147,7 @@ So this perhaps the reason the most prominent work in Ayurveda, the Caraka-Samhi
 
 ## 54. Notes for chapter 4
 
-
 Influence of Nyaya-Vaisesika on Ayurveda
-
-by Sindhu K. K. | 2011 | 38,473 words
 
 This study researches the influence of Nyaya and Vaisheshika on Ayurveda.—The Nyaya system of Indian philosophy is closely linked with Vaisheshika, forming a logical and realistic philosophy essential for understanding various branches of Indian science, including Ayurveda (the ancient Indian science of life). The text explores the historical devel...
 

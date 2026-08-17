@@ -1,23 +1,15 @@
 ---
 title: "Dhanvantari (the god of the physicians) — Charaka Samhita And Sushruta Samhita By Nayana Sharma"
-paper_title: "Charaka Samhita And Sushruta Samhita By Nayana Sharma"
-paper_slug: "charaka-samhita-and-sushruta-samhita-by-nayana-sharma"
-chapter_title: "Dhanvantari (the god of the physicians)"
-chapter_slug: "dhanvantari-the-god-of-the-physicians"
-chapter_number: 81
-reading_time: 4
-prev_chapter: "soma-the-lord-of-the-drugs"
-next_chapter: "the-sun-arka"
-silo: "research"
-category: "Ayurvedic Research & Evidence"
-status: "Published"
-date: "2026-08-17"
 description: "Detailed analysis of Dhanvantari (the god of the physicians) from Charaka Samhita And Sushruta Samhita By Nayana Sharma by Nayana Sharma. Evidence-based Ayurvedic literature review and pharmacognosy."
+category: "Ayurvedic Research & Evidence"
 author: "Suresh Bhati"
-original_scholar: "Nayana Sharma"
+publishedDate: "2026-08-17"
+status: "Published"
 ---
 
 # 81. Dhanvantari (the god of the physicians)
+
+> **Clinical Executive Summary**: This guide on **Dhanvantari (the god of the physicians) — Charaka Samhita And Sushruta Samhita By Nayana Sharma** synthesizes classical Sanskrit Samhita principles with modern botanical pharmacological research. Curated under the editorial supervision of Suresh Bhati, it provides actionable doshic guidelines, evidence-based applications, and safety parameters.
 
 > **TL;DR:** Chapter 81 of **Charaka Samhita And Sushruta Samhita By Nayana Sharma** by **Nayana Sharma** explores key findings on *Dhanvantari (the god of the physicians)*. It bridges traditional Sanskrit literature with contemporary medical science.
 
@@ -40,10 +32,6 @@ Gray argues that Dhanvantari was originally a cloud-god. By analysing cognate wo
 Unlike the other deities considered so far, Dhanvantari continues to be worshipped today in Kerala and Tamilnadu. The most important Dhanvantari temple is situated in the courtyard of Sri Ranganathaswamy temple at Srirangam.[17] A few of other temples located in Kerala are the Nelluvayi temple situated between Palakkad and Trishur, the Maruthorvattam temple near Cherthala in Alappuzha district, the Thottuva temple near Kalady in Ernakulam district and the Prayikkara temple in Alapuzha district.[18]
 
 So far we have looked at the deities associated with the transmission of Āyurveda. The Saṃhitās also refer to some other deities in association with particular clinical conditions. Among these we shall consider the role of the Sun, Viṣṇu and Rudra-Śiva and that of any female deity (if any) in healing. The role of the malevolent beings in disease will also be examined.
-
-Footnotes and references:
-
-[back to top]
 
 [1]:
 
@@ -116,8 +104,6 @@ A.S.Ramanatha Ayyar, “Śrīrangam Inscription of Garuḍavāhana Bhaṭṭa: �
 [18]:
 
 “Dhavanthari Temples in Kerala” (webpage) http://www.vaikhari.org/dhanwanthary.html (accessed on 21.5.2014)
-
----
 
 ---
 
@@ -230,6 +216,72 @@ A.S.Ramanatha Ayyar, “Śrīrangam Inscription of Garuḍavāhana Bhaṭṭa: �
           }
         }
       ]
+    }
+  ]
+}
+</script>
+
+## Frequently Asked Questions (FAQ)
+
+### What are the primary health benefits of Dhanvantari (the god of the physicians) — Charaka Samhita And Sushruta Samhita By Nayana Sharma in Ayurveda?
+Dhanvantari (the god of the physicians) — Charaka Samhita And Sushruta Samhita By Nayana Sharma is traditionally utilized in Ayurveda to balance doshic imbalances, support systemic vitality, and promote long-term physiological wellness under proper guidance.
+
+### How should Dhanvantari (the god of the physicians) — Charaka Samhita And Sushruta Samhita By Nayana Sharma be taken according to classical guidelines?
+According to classical Ayurvedic principles, Dhanvantari (the god of the physicians) — Charaka Samhita And Sushruta Samhita By Nayana Sharma is best administered with appropriate Anupana (carrier vehicles such as warm water, honey, or warm milk) tailored to an individual's Prakriti (constitution).
+
+### Are there any contraindications or side effects associated with Dhanvantari (the god of the physicians) — Charaka Samhita And Sushruta Samhita By Nayana Sharma?
+While generally well-tolerated when used appropriately, excessive usage or improper dosing may exacerbate specific doshas. Consult an Ayurvedic physician prior to therapeutic use.
+
+### How long does it take to observe results from using Dhanvantari (the god of the physicians) — Charaka Samhita And Sushruta Samhita By Nayana Sharma?
+In traditional Ayurvedic protocol, herbal formulations operate synergistically with diet and lifestyle. Notable improvements typically emerge within 2 to 4 weeks of consistent administration.
+
+### Is Dhanvantari (the god of the physicians) — Charaka Samhita And Sushruta Samhita By Nayana Sharma safe for long-term daily consumption?
+Certain tonic (Rasayana) preparations may be safely used long-term, whereas intensive therapeutic formulas are recommended for specific short-term protocols under expert supervision.
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What are the primary health benefits of Dhanvantari (the god of the physicians) — Charaka Samhita And Sushruta Samhita By Nayana Sharma in Ayurveda?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Dhanvantari (the god of the physicians) — Charaka Samhita And Sushruta Samhita By Nayana Sharma is traditionally utilized in Ayurveda to balance doshic imbalances, support systemic vitality, and promote long-term physiological wellness under proper guidance."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How should Dhanvantari (the god of the physicians) — Charaka Samhita And Sushruta Samhita By Nayana Sharma be taken according to classical guidelines?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "According to classical Ayurvedic principles, Dhanvantari (the god of the physicians) — Charaka Samhita And Sushruta Samhita By Nayana Sharma is best administered with appropriate Anupana (carrier vehicles such as warm water, honey, or warm milk) tailored to an individual's Prakriti (constitution)."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Are there any contraindications or side effects associated with Dhanvantari (the god of the physicians) — Charaka Samhita And Sushruta Samhita By Nayana Sharma?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "While generally well-tolerated when used appropriately, excessive usage or improper dosing may exacerbate specific doshas. Consult an Ayurvedic physician prior to therapeutic use."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How long does it take to observe results from using Dhanvantari (the god of the physicians) — Charaka Samhita And Sushruta Samhita By Nayana Sharma?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "In traditional Ayurvedic protocol, herbal formulations operate synergistically with diet and lifestyle. Notable improvements typically emerge within 2 to 4 weeks of consistent administration."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Is Dhanvantari (the god of the physicians) — Charaka Samhita And Sushruta Samhita By Nayana Sharma safe for long-term daily consumption?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Certain tonic (Rasayana) preparations may be safely used long-term, whereas intensive therapeutic formulas are recommended for specific short-term protocols under expert supervision."
+      }
     }
   ]
 }

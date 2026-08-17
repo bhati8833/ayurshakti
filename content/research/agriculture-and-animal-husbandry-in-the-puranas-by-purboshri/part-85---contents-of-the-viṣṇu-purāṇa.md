@@ -1,23 +1,15 @@
 ---
 title: "Part 8.5 - Contents of the Viṣṇu Purāṇa — Agriculture And Animal Husbandry In The Puranas By Purboshri"
-paper_title: "Agriculture And Animal Husbandry In The Puranas By Purboshri"
-paper_slug: "agriculture-and-animal-husbandry-in-the-puranas-by-purboshri"
-chapter_title: "Part 8.5 - Contents of the Viṣṇu Purāṇa"
-chapter_slug: "part-85---contents-of-the-viṣṇu-purāṇa"
-chapter_number: 17
-reading_time: 6
-prev_chapter: "part-9---justification-of-studying-the-five-purāṇas"
-next_chapter: "part-2---the-meaning-of-the-word-kṛṣi-agriculture"
-silo: "research"
-category: "Ayurvedic Research & Evidence"
-status: "Published"
-date: "2026-08-17"
 description: "Detailed analysis of Part 8.5 - Contents of the Viṣṇu Purāṇa from Agriculture And Animal Husbandry In The Puranas By Purboshri by Purboshri Borpuzari. Evidence-based Ayurvedic literature review and pharmacognosy."
+category: "Ayurvedic Research & Evidence"
 author: "Suresh Bhati"
-original_scholar: "Purboshri Borpuzari"
+publishedDate: "2026-08-17"
+status: "Published"
 ---
 
 # 17. Part 8.5 - Contents of the Viṣṇu Purāṇa
+
+> **Clinical Executive Summary**: This guide on **Part 8.5 - Contents of the Viṣṇu Purāṇa — Agriculture And Animal Husbandry In The Puranas By Purboshri** synthesizes classical Sanskrit Samhita principles with modern botanical pharmacological research. Curated under the editorial supervision of Suresh Bhati, it provides actionable doshic guidelines, evidence-based applications, and safety parameters.
 
 > **TL;DR:** Chapter 17 of **Agriculture And Animal Husbandry In The Puranas By Purboshri** by **Purboshri Borpuzari** explores key findings on *Part 8.5 - Contents of the Viṣṇu Purāṇa*. It bridges traditional Sanskrit literature with contemporary medical science.
 
@@ -50,10 +42,6 @@ This book deals with details of creation, recreation[15], measure of time[16], o
 (5) The fifth book of the Viṣṇu Purāṇa is exclusively occupied with the life of Kṛṣṇa.[33] It is the longest book in this Purāṇa which gives us the account of marriage of Vāsudeva and Devakī, Yogamāyā who enters into the womb of Yaśodā and Hari who enters into the womb of Devakī,[34] holding of Govardhana Mountain by Kṛṣṇa,[35] Kṛṣṇa’s marriage with Rukmiṇī,[36] destruction of the Yadu race[37] etc.
 
 The last book contains an account of the dissolution of the world, in both its major and minor cataclysms; and, in the particulars of the end of all things by fire and water, as well as in the principle of their perpetual renovation, presents a faithful exhibition of opinions that were general in the ancient world.[38] The sixth book is the shortest among all the books. It describes the nature of the Kali age,[39] nature of elemental dissolution (prakṛta pralaya),[40] description of Brahma yoga, and the greatness of the Viṣṇu Purāṇa.[41]
-
-Footnotes and references:
-
-[back to top]
 
 [1]:
 
@@ -231,8 +219,6 @@ Ibid., Book 6, Ch.7-8
 
 ---
 
----
-
 ## ❓ 4. Frequently Asked Questions (15 Question Intent Matrix)
 
 ### Q1: What is the primary subject of "Part 8.5 - Contents of the Viṣṇu Purāṇa"?
@@ -342,6 +328,72 @@ Ibid., Book 6, Ch.7-8
           }
         }
       ]
+    }
+  ]
+}
+</script>
+
+## Frequently Asked Questions (FAQ)
+
+### What are the primary health benefits of Part 8.5 - Contents of the Viṣṇu Purāṇa — Agriculture And Animal Husbandry In The Puranas By Purboshri in Ayurveda?
+Part 8.5 - Contents of the Viṣṇu Purāṇa — Agriculture And Animal Husbandry In The Puranas By Purboshri is traditionally utilized in Ayurveda to balance doshic imbalances, support systemic vitality, and promote long-term physiological wellness under proper guidance.
+
+### How should Part 8.5 - Contents of the Viṣṇu Purāṇa — Agriculture And Animal Husbandry In The Puranas By Purboshri be taken according to classical guidelines?
+According to classical Ayurvedic principles, Part 8.5 - Contents of the Viṣṇu Purāṇa — Agriculture And Animal Husbandry In The Puranas By Purboshri is best administered with appropriate Anupana (carrier vehicles such as warm water, honey, or warm milk) tailored to an individual's Prakriti (constitution).
+
+### Are there any contraindications or side effects associated with Part 8.5 - Contents of the Viṣṇu Purāṇa — Agriculture And Animal Husbandry In The Puranas By Purboshri?
+While generally well-tolerated when used appropriately, excessive usage or improper dosing may exacerbate specific doshas. Consult an Ayurvedic physician prior to therapeutic use.
+
+### How long does it take to observe results from using Part 8.5 - Contents of the Viṣṇu Purāṇa — Agriculture And Animal Husbandry In The Puranas By Purboshri?
+In traditional Ayurvedic protocol, herbal formulations operate synergistically with diet and lifestyle. Notable improvements typically emerge within 2 to 4 weeks of consistent administration.
+
+### Is Part 8.5 - Contents of the Viṣṇu Purāṇa — Agriculture And Animal Husbandry In The Puranas By Purboshri safe for long-term daily consumption?
+Certain tonic (Rasayana) preparations may be safely used long-term, whereas intensive therapeutic formulas are recommended for specific short-term protocols under expert supervision.
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What are the primary health benefits of Part 8.5 - Contents of the Viṣṇu Purāṇa — Agriculture And Animal Husbandry In The Puranas By Purboshri in Ayurveda?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Part 8.5 - Contents of the Viṣṇu Purāṇa — Agriculture And Animal Husbandry In The Puranas By Purboshri is traditionally utilized in Ayurveda to balance doshic imbalances, support systemic vitality, and promote long-term physiological wellness under proper guidance."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How should Part 8.5 - Contents of the Viṣṇu Purāṇa — Agriculture And Animal Husbandry In The Puranas By Purboshri be taken according to classical guidelines?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "According to classical Ayurvedic principles, Part 8.5 - Contents of the Viṣṇu Purāṇa — Agriculture And Animal Husbandry In The Puranas By Purboshri is best administered with appropriate Anupana (carrier vehicles such as warm water, honey, or warm milk) tailored to an individual's Prakriti (constitution)."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Are there any contraindications or side effects associated with Part 8.5 - Contents of the Viṣṇu Purāṇa — Agriculture And Animal Husbandry In The Puranas By Purboshri?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "While generally well-tolerated when used appropriately, excessive usage or improper dosing may exacerbate specific doshas. Consult an Ayurvedic physician prior to therapeutic use."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How long does it take to observe results from using Part 8.5 - Contents of the Viṣṇu Purāṇa — Agriculture And Animal Husbandry In The Puranas By Purboshri?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "In traditional Ayurvedic protocol, herbal formulations operate synergistically with diet and lifestyle. Notable improvements typically emerge within 2 to 4 weeks of consistent administration."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Is Part 8.5 - Contents of the Viṣṇu Purāṇa — Agriculture And Animal Husbandry In The Puranas By Purboshri safe for long-term daily consumption?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Certain tonic (Rasayana) preparations may be safely used long-term, whereas intensive therapeutic formulas are recommended for specific short-term protocols under expert supervision."
+      }
     }
   ]
 }

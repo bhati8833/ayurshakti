@@ -20,15 +20,9 @@ This chapter from **Sushruta Samhita (Sutrasthana)** represents the classical su
 
 ---
 
-
 Sushruta Samhita, volume 1: Sutrasthana
 
-by Kaviraj Kunja Lal Bhishagratna | 1907 | 148,756 words
-
 This current book, the Sutra-sthana (english translation), is the first part of this voluminous medical work. It contains a large summary of the knowledge envelopig the medical aspects of Ayurveda. Descriptions of diseases, various diets and drugs, the duties of a surgeon, surgical procedures, medical training; these are only some of the numerous s...
-
-Go directly to: 
-Footnotes.
 
 Chapter II - Initiation of the pupil
 
@@ -65,10 +59,6 @@ Prohibited periods of the study of the Ayurveda:—
 The day of the new moon, the eighth day of the moon’s wane, the fourteenth day of the dark fortnight, as well as the corresponding days in the bright one, the day of the full moon, and the meetings of day and night such as (morning and evening) are occasions when the study of the ayurveda is prohibited. Similarly, a clap of thunder heard at an improper season (months of Pausha, Phalguna and Caitra), or a flash of lightning occurring at a time when such phenomena are naturally rare, or an evil befalling one’s country, relations, or king, should be deemed as occasions prohibiting the study of the ayurveda. Moreover, one should not read it in a cremation ground, nor while riding (an elephant, horse, or any) conveyance, nor in a battle-field, nor in a place of execution. A festival or the appearance of inauspicious omens, and the days of the fortnight usually avoided by the Brahmanas in studying the Vedas, as well as an unclean state of the body, should be regarded as occasions prohibiting the study of the ayurveda.
 
 Thus ends the second chapter of the Sutrasthana in the Sushruta Samhita which treats of the formal initiation of a student into the avurveda.
-
-Footnotes and references:
-
-[back to top]
 
 [1]:
 

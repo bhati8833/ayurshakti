@@ -9,19 +9,11 @@ date: "2026-08-17"
 description: "text addresses diverse topics like polity, political sciences, architecture, jurisprudence, iconography, idol-making, and various arts and sciences such as mathematics."
 ---
 
-**Author / Source:** by Mahadev Narayanrao Joshi
-
-
-**Total Chapters/Sections:** 60
-
 ---
 
 ## 1. 1. Introduction to Polity and Statecraft (according to the Manasollasa)
 
-
 Manasollasa (study of Arts and Sciences)
-
-by Mahadev Narayanrao Joshi | 1984 | 74,538 words
 
 This essay in English studies the Manasollasa authored by Someshvara III, representing an ancient encyclopedic work encompassing over 8,000 Sanskrit verses. The text addresses diverse topics like polity, political sciences, architecture, jurisprudence, iconography, idol-making, and various arts and sciences such as mathematics.
 
@@ -41,10 +33,7 @@ The question as to how far the ancient Hindus were a political people and evolve
 
 ## 2. Chapter 2 - Treatment of Political Theory and State Administration
 
-
 Manasollasa (study of Arts and Sciences)
-
-by Mahadev Narayanrao Joshi | 1984 | 74,538 words
 
 This essay in English studies the Manasollasa authored by Someshvara III, representing an ancient encyclopedic work encompassing over 8,000 Sanskrit verses. The text addresses diverse topics like polity, political sciences, architecture, jurisprudence, iconography, idol-making, and various arts and sciences such as mathematics.
 
@@ -58,10 +47,7 @@ Chapter 2 - Treatment of Political Theory and State Administration
 
 ## 3. Preface
 
-
 Manasollasa (study of Arts and Sciences)
-
-by Mahadev Narayanrao Joshi | 1984 | 74,538 words
 
 This essay in English studies the Manasollasa authored by Someshvara III, representing an ancient encyclopedic work encompassing over 8,000 Sanskrit verses. The text addresses diverse topics like polity, political sciences, architecture, jurisprudence, iconography, idol-making, and various arts and sciences such as mathematics.
 
@@ -81,10 +67,7 @@ $ iv eminence among the scholars, who have made significant contributions to the
 
 ## 4. Acknowledgement
 
-
 Manasollasa (study of Arts and Sciences)
-
-by Mahadev Narayanrao Joshi | 1984 | 74,538 words
 
 This essay in English studies the Manasollasa authored by Someshvara III, representing an ancient encyclopedic work encompassing over 8,000 Sanskrit verses. The text addresses diverse topics like polity, political sciences, architecture, jurisprudence, iconography, idol-making, and various arts and sciences such as mathematics.
 
@@ -102,10 +85,7 @@ i My sincere thanks are due to the University Grants Commission for extending to
 
 ## 5. 2. The Seven Elements of State—Introduction
 
-
 Manasollasa (study of Arts and Sciences)
-
-by Mahadev Narayanrao Joshi | 1984 | 74,538 words
 
 This essay in English studies the Manasollasa authored by Someshvara III, representing an ancient encyclopedic work encompassing over 8,000 Sanskrit verses. The text addresses diverse topics like polity, political sciences, architecture, jurisprudence, iconography, idol-making, and various arts and sciences such as mathematics.
 
@@ -125,10 +105,7 @@ It is a note-worthy feature of Somesvara as a political thinker that he divests 
 
 ## 6. Chapter 1 - The life, date, and works of Someshvara III
 
-
 Manasollasa (study of Arts and Sciences)
-
-by Mahadev Narayanrao Joshi | 1984 | 74,538 words
 
 This essay in English studies the Manasollasa authored by Someshvara III, representing an ancient encyclopedic work encompassing over 8,000 Sanskrit verses. The text addresses diverse topics like polity, political sciences, architecture, jurisprudence, iconography, idol-making, and various arts and sciences such as mathematics.
 
@@ -186,10 +163,7 @@ A large number of bright stars have shone in the sky of the history of Karnataka
 
 ## 7. 2.1. The element of the King, (Prabhu or Svamin)
 
-
 Manasollasa (study of Arts and Sciences)
-
-by Mahadev Narayanrao Joshi | 1984 | 74,538 words
 
 This essay in English studies the Manasollasa authored by Someshvara III, representing an ancient encyclopedic work encompassing over 8,000 Sanskrit verses. The text addresses diverse topics like polity, political sciences, architecture, jurisprudence, iconography, idol-making, and various arts and sciences such as mathematics.
 
@@ -225,10 +199,7 @@ The seven elements are enumerated in accordance with their relative importance. 
 
 ## 8. 2.2. Element of the Minister or Amatya
 
-
 Manasollasa (study of Arts and Sciences)
-
-by Mahadev Narayanrao Joshi | 1984 | 74,538 words
 
 This essay in English studies the Manasollasa authored by Someshvara III, representing an ancient encyclopedic work encompassing over 8,000 Sanskrit verses. The text addresses diverse topics like polity, political sciences, architecture, jurisprudence, iconography, idol-making, and various arts and sciences such as mathematics.
 
@@ -260,10 +231,7 @@ qualifications of others like Suhrt (friend), Purohita, Ganaka, Dandadhikari, Pr
 
 ## 9. 2.3. Element of Allies (Mitra or Suhrit)
 
-
 Manasollasa (study of Arts and Sciences)
-
-by Mahadev Narayanrao Joshi | 1984 | 74,538 words
 
 This essay in English studies the Manasollasa authored by Someshvara III, representing an ancient encyclopedic work encompassing over 8,000 Sanskrit verses. The text addresses diverse topics like polity, political sciences, architecture, jurisprudence, iconography, idol-making, and various arts and sciences such as mathematics.
 
@@ -281,10 +249,7 @@ the future. "42 43 The This same view we see in Yajnavalkya Smrti also. But acco
 
 ## 10. 2.5. Element of Kingdom (Rashtra or Janapada)
 
-
 Manasollasa (study of Arts and Sciences)
-
-by Mahadev Narayanrao Joshi | 1984 | 74,538 words
 
 This essay in English studies the Manasollasa authored by Someshvara III, representing an ancient encyclopedic work encompassing over 8,000 Sanskrit verses. The text addresses diverse topics like polity, political sciences, architecture, jurisprudence, iconography, idol-making, and various arts and sciences such as mathematics.
 
@@ -300,10 +265,7 @@ According to Somesvara the Rastra or Janapada is the fifth important state eleme
 
 ## 11. 2.6. Element of the Fort and Army (Durga and Bala)
 
-
 Manasollasa (study of Arts and Sciences)
-
-by Mahadev Narayanrao Joshi | 1984 | 74,538 words
 
 This essay in English studies the Manasollasa authored by Someshvara III, representing an ancient encyclopedic work encompassing over 8,000 Sanskrit verses. The text addresses diverse topics like polity, political sciences, architecture, jurisprudence, iconography, idol-making, and various arts and sciences such as mathematics.
 
@@ -339,10 +301,7 @@ The next elements of the State are Fort and Army. The defence of the State is ba
 
 ## 12. 2.7. Element of Provincial Administration
 
-
 Manasollasa (study of Arts and Sciences)
-
-by Mahadev Narayanrao Joshi | 1984 | 74,538 words
 
 This essay in English studies the Manasollasa authored by Someshvara III, representing an ancient encyclopedic work encompassing over 8,000 Sanskrit verses. The text addresses diverse topics like polity, political sciences, architecture, jurisprudence, iconography, idol-making, and various arts and sciences such as mathematics.
 
@@ -368,10 +327,7 @@ During the time of Somesvara, the Calukya empire had become too extensive to be 
 
 ## 13. Chapter 3 - Social and Political conditions reflected in Somesvara’s Manasollasa
 
-
 Manasollasa (study of Arts and Sciences)
-
-by Mahadev Narayanrao Joshi | 1984 | 74,538 words
 
 This essay in English studies the Manasollasa authored by Someshvara III, representing an ancient encyclopedic work encompassing over 8,000 Sanskrit verses. The text addresses diverse topics like polity, political sciences, architecture, jurisprudence, iconography, idol-making, and various arts and sciences such as mathematics.
 
@@ -385,10 +341,7 @@ Chapter 3 - Social and Political conditions reflected in Somesvara’s Manasolla
 
 ## 14. 2.4. Element of the Treasury (Kosha)
 
-
 Manasollasa (study of Arts and Sciences)
-
-by Mahadev Narayanrao Joshi | 1984 | 74,538 words
 
 This essay in English studies the Manasollasa authored by Someshvara III, representing an ancient encyclopedic work encompassing over 8,000 Sanskrit verses. The text addresses diverse topics like polity, political sciences, architecture, jurisprudence, iconography, idol-making, and various arts and sciences such as mathematics.
 
@@ -404,7 +357,7 @@ Somesvara gives fourth importance to Kosa or treasury of the seven elements. The
 
 55 activities of the state necessitated a vast revenue. According to Kautilya and Somesvara agriculture, cattlebreeding, and trades were the main source of revenue in ancient India. Their prosperity was the prosperity of the state itself. Revenue was derived partly from taxation and partly from sources other than taxation. Landtax was the primary source of revenue. Somesvara gives some new idea for the progress of treasury or Kosa, that is, to change copper into gold, and zinc into silver. (This information is given by Somesvara in Second Prakarana, Fourth Adhyaya, from verses 377 to 394). There were also taxes collected from guilds of merchants and artisan classes. There were organised associations of bankers, traders and merchants. The chief revenue was collected in kind and in some cases in cash. Though the taxes on trade brought in money, yet the circulation of money in every state was very limited. Every trade transaction was carried on, for the most part, by barter. Was 54 Other source of income to the large tributes received Valuable presents from the merchants rich from the feudatories. of other countries, and other kings also yielded profuse 54. dhatuvadaprayogaisca vividhairvardhayed dhanam | tamena sadhayet svarna raupyam vangena sadhayet ||  2.4.377.
 
-56 income to the state. Fines and gifts were also plentiful source of income. Deal U A good sum of income was used up by the military department, to maintain the soldiers, commanders, animals, and other paraphernalia of the army. The king spent the state income for religious and benevolent purposes also. And the state had to employ many paid officials to maintain the departments. Besides the expenditure of the royal household, the king had to meet the pay and pension of the officials including the menials. Somesvara tells us that the state income goes to the construction of Durga (forts), Devagrha (temples), Marga (roads), Kupa (wells), Sabha (courts), and many other good things for 55 the subjects. And the King spent his money for enjoyment, fine arts, elephant-training, horse-training, other utilized education of the wars and so on. The king used off his treasury for the welfare of the Kingdom (2.4.377-540).. In conclusion, we may observe that consolidation and planning undertaken by Somesvara • is of a high order. 55. agnisthikam prapah satramaparka ca pravartayet | sabham sabhamatham caiva jirnadevakulani ca ||  1.11.75.
+56 income to the state. Fines and gifts were also plentiful source of income. Deal U A good sum of income was used up by the military department, to maintain the soldiers, commanders, animals, and other paraphernalia of the army. The king spent the state income for religious and benevolent purposes also. And the state had to employ many paid officials to maintain the departments. Besides the expenditure of the royal household, the king had to meet the pay and pension of the officials including the menials. Somesvara tells us that the state income goes to the construction of Durga (forts), Devagrha (temples), Marga (roads), Kupa (wells), Sabha (courts), and many other good things for 55 the subjects. And the King spent his money for enjoyment, fine arts, elephant-training, horse-training, other utilized education of the wars and so on. The king used off his treasury for the welfare of the Kingdom (2.4.377-540).. In summary, we may observe that consolidation and planning undertaken by Somesvara • is of a high order. 55. agnisthikam prapah satramaparka ca pravartayet | sabham sabhamatham caiva jirnadevakulani ca ||  1.11.75.
 
 ► 57 His dynamism and circumstances might have been other favourable factors, but without such planning he would have hardly been equal to the situation.
 
@@ -412,10 +365,7 @@ Somesvara gives fourth importance to Kosa or treasury of the seven elements. The
 
 ## 15. 1. Introduction to the ancient Indian science of Government
 
-
 Manasollasa (study of Arts and Sciences)
-
-by Mahadev Narayanrao Joshi | 1984 | 74,538 words
 
 This essay in English studies the Manasollasa authored by Someshvara III, representing an ancient encyclopedic work encompassing over 8,000 Sanskrit verses. The text addresses diverse topics like polity, political sciences, architecture, jurisprudence, iconography, idol-making, and various arts and sciences such as mathematics.
 
@@ -449,10 +399,7 @@ The Manasollasa mentions different terms for the science of Government, which te
 
 ## 16. 5. Food and Drinks described in the Manasollasa
 
-
 Manasollasa (study of Arts and Sciences)
-
-by Mahadev Narayanrao Joshi | 1984 | 74,538 words
 
 This essay in English studies the Manasollasa authored by Someshvara III, representing an ancient encyclopedic work encompassing over 8,000 Sanskrit verses. The text addresses diverse topics like polity, political sciences, architecture, jurisprudence, iconography, idol-making, and various arts and sciences such as mathematics.
 
@@ -470,10 +417,7 @@ There was much cogitation, particularly among the respectable dvija families, wi
 
 ## 17. 3. Religion during the period of Someshvara III
 
-
 Manasollasa (study of Arts and Sciences)
-
-by Mahadev Narayanrao Joshi | 1984 | 74,538 words
 
 This essay in English studies the Manasollasa authored by Someshvara III, representing an ancient encyclopedic work encompassing over 8,000 Sanskrit verses. The text addresses diverse topics like polity, political sciences, architecture, jurisprudence, iconography, idol-making, and various arts and sciences such as mathematics.
 
@@ -493,10 +437,7 @@ i 99 an important matter in religious rituals. It is to be noted that different 
 
 ## 18. 2. Concept of Dharma and Danda
 
-
 Manasollasa (study of Arts and Sciences)
-
-by Mahadev Narayanrao Joshi | 1984 | 74,538 words
 
 This essay in English studies the Manasollasa authored by Someshvara III, representing an ancient encyclopedic work encompassing over 8,000 Sanskrit verses. The text addresses diverse topics like polity, political sciences, architecture, jurisprudence, iconography, idol-making, and various arts and sciences such as mathematics.
 
@@ -530,10 +471,7 @@ The Manasollasa while referring to the administration of justice mentions many t
 
 ## 19. 4. Social Customs described in the Manasollasa
 
-
 Manasollasa (study of Arts and Sciences)
-
-by Mahadev Narayanrao Joshi | 1984 | 74,538 words
 
 This essay in English studies the Manasollasa authored by Someshvara III, representing an ancient encyclopedic work encompassing over 8,000 Sanskrit verses. The text addresses diverse topics like polity, political sciences, architecture, jurisprudence, iconography, idol-making, and various arts and sciences such as mathematics.
 
@@ -563,10 +501,7 @@ It is the Vedic way of life, based on the Trayi-Dharma. That alone is declared b
 
 ## 20. 10. Lavaka fighting described in the Manasollasa
 
-
 Manasollasa (study of Arts and Sciences)
-
-by Mahadev Narayanrao Joshi | 1984 | 74,538 words
 
 This essay in English studies the Manasollasa authored by Someshvara III, representing an ancient encyclopedic work encompassing over 8,000 Sanskrit verses. The text addresses diverse topics like polity, political sciences, architecture, jurisprudence, iconography, idol-making, and various arts and sciences such as mathematics.
 
@@ -582,10 +517,7 @@ Somesvara further asks the Kings to preserve the best kinds of both males and fe
 
 ## 21. 6. Entertainments reflected in Somesvara’s writings
 
-
 Manasollasa (study of Arts and Sciences)
-
-by Mahadev Narayanrao Joshi | 1984 | 74,538 words
 
 This essay in English studies the Manasollasa authored by Someshvara III, representing an ancient encyclopedic work encompassing over 8,000 Sanskrit verses. The text addresses diverse topics like polity, political sciences, architecture, jurisprudence, iconography, idol-making, and various arts and sciences such as mathematics.
 
@@ -613,10 +545,7 @@ The social life, particularly the urban culture, reflected in Somesvara's writin
 
 ## 22. 7. Elephant fighting described in the Manasollasa
 
-
 Manasollasa (study of Arts and Sciences)
-
-by Mahadev Narayanrao Joshi | 1984 | 74,538 words
 
 This essay in English studies the Manasollasa authored by Someshvara III, representing an ancient encyclopedic work encompassing over 8,000 Sanskrit verses. The text addresses diverse topics like polity, political sciences, architecture, jurisprudence, iconography, idol-making, and various arts and sciences such as mathematics.
 
@@ -646,10 +575,7 @@ In the period of Somesvara the society was quite eager about elephant fighting. 
 
 ## 23. 8. Horse fighting described in the Manasollasa
 
-
 Manasollasa (study of Arts and Sciences)
-
-by Mahadev Narayanrao Joshi | 1984 | 74,538 words
 
 This essay in English studies the Manasollasa authored by Someshvara III, representing an ancient encyclopedic work encompassing over 8,000 Sanskrit verses. The text addresses diverse topics like polity, political sciences, architecture, jurisprudence, iconography, idol-making, and various arts and sciences such as mathematics.
 
@@ -677,10 +603,7 @@ Horses have always been regarded important in India. The ancient warriors used t
 
 ## 24. 9. Cock fighting described in the Manasollasa
 
-
 Manasollasa (study of Arts and Sciences)
-
-by Mahadev Narayanrao Joshi | 1984 | 74,538 words
 
 This essay in English studies the Manasollasa authored by Someshvara III, representing an ancient encyclopedic work encompassing over 8,000 Sanskrit verses. The text addresses diverse topics like polity, political sciences, architecture, jurisprudence, iconography, idol-making, and various arts and sciences such as mathematics.
 
@@ -696,10 +619,7 @@ Somesvara says that, the king should keep the best cocks in his possession and n
 
 ## 25. 11. Ram fighting described in the Manasollasa
 
-
 Manasollasa (study of Arts and Sciences)
-
-by Mahadev Narayanrao Joshi | 1984 | 74,538 words
 
 This essay in English studies the Manasollasa authored by Someshvara III, representing an ancient encyclopedic work encompassing over 8,000 Sanskrit verses. The text addresses diverse topics like polity, political sciences, architecture, jurisprudence, iconography, idol-making, and various arts and sciences such as mathematics.
 
@@ -715,10 +635,7 @@ It is clear that the society of those days was quite eager about these fightings
 
 ## 26. 14. Dog sports described in the Manasollasa
 
-
 Manasollasa (study of Arts and Sciences)
-
-by Mahadev Narayanrao Joshi | 1984 | 74,538 words
 
 This essay in English studies the Manasollasa authored by Someshvara III, representing an ancient encyclopedic work encompassing over 8,000 Sanskrit verses. The text addresses diverse topics like polity, political sciences, architecture, jurisprudence, iconography, idol-making, and various arts and sciences such as mathematics.
 
@@ -736,10 +653,7 @@ Somesvara discusses the Sarameya vinoda or the amusement with dogs. He enumerate
 
 ## 27. 13. Pigeon games described in the Manasollasa
 
-
 Manasollasa (study of Arts and Sciences)
-
-by Mahadev Narayanrao Joshi | 1984 | 74,538 words
 
 This essay in English studies the Manasollasa authored by Someshvara III, representing an ancient encyclopedic work encompassing over 8,000 Sanskrit verses. The text addresses diverse topics like polity, political sciences, architecture, jurisprudence, iconography, idol-making, and various arts and sciences such as mathematics.
 
@@ -757,10 +671,7 @@ Somesvara tells Paravata-Vinoda or amusement through pigeons. He describes four 
 
 ## 28. 12. Buffalow-fighting described in the Manasollasa
 
-
 Manasollasa (study of Arts and Sciences)
-
-by Mahadev Narayanrao Joshi | 1984 | 74,538 words
 
 This essay in English studies the Manasollasa authored by Someshvara III, representing an ancient encyclopedic work encompassing over 8,000 Sanskrit verses. The text addresses diverse topics like polity, political sciences, architecture, jurisprudence, iconography, idol-making, and various arts and sciences such as mathematics.
 
@@ -776,10 +687,7 @@ Somesvara further explains Buffalo fight on similar lines (4.10.1260-1276). He s
 
 ## 29. 16. Matsya-vinoda (the sport of catching fish)
 
-
 Manasollasa (study of Arts and Sciences)
-
-by Mahadev Narayanrao Joshi | 1984 | 74,538 words
 
 This essay in English studies the Manasollasa authored by Someshvara III, representing an ancient encyclopedic work encompassing over 8,000 Sanskrit verses. The text addresses diverse topics like polity, political sciences, architecture, jurisprudence, iconography, idol-making, and various arts and sciences such as mathematics.
 
@@ -797,10 +705,7 @@ There is a reference to the net for catching fish in the Yajurveda. 126 Describi
 
 ## 30. 17. Mrgaya-vinoda (the sport of deer-hunting)
 
-
 Manasollasa (study of Arts and Sciences)
-
-by Mahadev Narayanrao Joshi | 1984 | 74,538 words
 
 This essay in English studies the Manasollasa authored by Someshvara III, representing an ancient encyclopedic work encompassing over 8,000 Sanskrit verses. The text addresses diverse topics like polity, political sciences, architecture, jurisprudence, iconography, idol-making, and various arts and sciences such as mathematics.
 
@@ -838,10 +743,7 @@ The last topic in the entertainment is Mrgaya-vinoda or the amusement derived fr
 
 ## 31. 18. Marriage in Manasollasa
 
-
 Manasollasa (study of Arts and Sciences)
-
-by Mahadev Narayanrao Joshi | 1984 | 74,538 words
 
 This essay in English studies the Manasollasa authored by Someshvara III, representing an ancient encyclopedic work encompassing over 8,000 Sanskrit verses. The text addresses diverse topics like polity, political sciences, architecture, jurisprudence, iconography, idol-making, and various arts and sciences such as mathematics.
 
@@ -865,10 +767,7 @@ Somesvara mentions five kinds of marriage, Brahma, Raksasa, Gandharva, asura and
 
 ## 32. Chapter 4 - Fine arts in Manasollassa
 
-
 Manasollasa (study of Arts and Sciences)
-
-by Mahadev Narayanrao Joshi | 1984 | 74,538 words
 
 This essay in English studies the Manasollasa authored by Someshvara III, representing an ancient encyclopedic work encompassing over 8,000 Sanskrit verses. The text addresses diverse topics like polity, political sciences, architecture, jurisprudence, iconography, idol-making, and various arts and sciences such as mathematics.
 
@@ -882,10 +781,7 @@ Chapter 4 - Fine arts in Manasollassa
 
 ## 33. 15. Falcon fighting described in the Manasollasa
 
-
 Manasollasa (study of Arts and Sciences)
-
-by Mahadev Narayanrao Joshi | 1984 | 74,538 words
 
 This essay in English studies the Manasollasa authored by Someshvara III, representing an ancient encyclopedic work encompassing over 8,000 Sanskrit verses. The text addresses diverse topics like polity, political sciences, architecture, jurisprudence, iconography, idol-making, and various arts and sciences such as mathematics.
 
@@ -905,10 +801,7 @@ Somesvara further tells Syena Vinoda, or the entertainment through falcon. He de
 
 ## 34. 1. Origin of art in India
 
-
 Manasollasa (study of Arts and Sciences)
-
-by Mahadev Narayanrao Joshi | 1984 | 74,538 words
 
 This essay in English studies the Manasollasa authored by Someshvara III, representing an ancient encyclopedic work encompassing over 8,000 Sanskrit verses. The text addresses diverse topics like polity, political sciences, architecture, jurisprudence, iconography, idol-making, and various arts and sciences such as mathematics.
 
@@ -932,10 +825,7 @@ i 182 It is true, symbols, 1.e., bhangas, mudras (poses, gestures) etc., play a 
 
 ## 35. 2. Art in Citra or Painting
 
-
 Manasollasa (study of Arts and Sciences)
-
-by Mahadev Narayanrao Joshi | 1984 | 74,538 words
 
 This essay in English studies the Manasollasa authored by Someshvara III, representing an ancient encyclopedic work encompassing over 8,000 Sanskrit verses. The text addresses diverse topics like polity, political sciences, architecture, jurisprudence, iconography, idol-making, and various arts and sciences such as mathematics.
 
@@ -967,10 +857,7 @@ The Visnudharmottara Purana elucidates the process, and the strong points in pai
 
 ## 36. 19. Education in Manasollasa
 
-
 Manasollasa (study of Arts and Sciences)
-
-by Mahadev Narayanrao Joshi | 1984 | 74,538 words
 
 This essay in English studies the Manasollasa authored by Someshvara III, representing an ancient encyclopedic work encompassing over 8,000 Sanskrit verses. The text addresses diverse topics like polity, political sciences, architecture, jurisprudence, iconography, idol-making, and various arts and sciences such as mathematics.
 
@@ -1006,10 +893,7 @@ Somesvara attached much importance to education, without which it was difficult 
 
 ## 37. 6. Music in Somesvara’s Manasollasa
 
-
 Manasollasa (study of Arts and Sciences)
-
-by Mahadev Narayanrao Joshi | 1984 | 74,538 words
 
 This essay in English studies the Manasollasa authored by Someshvara III, representing an ancient encyclopedic work encompassing over 8,000 Sanskrit verses. The text addresses diverse topics like polity, political sciences, architecture, jurisprudence, iconography, idol-making, and various arts and sciences such as mathematics.
 
@@ -1049,10 +933,7 @@ I 258 the accomplished 'singing' and 'dancing' sculptures. They indicate not onl
 
 ## 38. 5. Iconography and Images (Pratima)
 
-
 Manasollasa (study of Arts and Sciences)
-
-by Mahadev Narayanrao Joshi | 1984 | 74,538 words
 
 This essay in English studies the Manasollasa authored by Someshvara III, representing an ancient encyclopedic work encompassing over 8,000 Sanskrit verses. The text addresses diverse topics like polity, political sciences, architecture, jurisprudence, iconography, idol-making, and various arts and sciences such as mathematics.
 
@@ -1102,10 +983,7 @@ Theres a Vari 4 temple is 241 kamadio so far, it is a possibility that cannot be
 
 ## 39. 4. Use, aim and Function of Art
 
-
 Manasollasa (study of Arts and Sciences)
-
-by Mahadev Narayanrao Joshi | 1984 | 74,538 words
 
 This essay in English studies the Manasollasa authored by Someshvara III, representing an ancient encyclopedic work encompassing over 8,000 Sanskrit verses. The text addresses diverse topics like polity, political sciences, architecture, jurisprudence, iconography, idol-making, and various arts and sciences such as mathematics.
 
@@ -1155,10 +1033,7 @@ The Manasollasa covers several subjects like dance, music, prosody, architecture
 
 ## 40. Chapter 5 - Sciences in Someshvara’s Manasollasa
 
-
 Manasollasa (study of Arts and Sciences)
-
-by Mahadev Narayanrao Joshi | 1984 | 74,538 words
 
 This essay in English studies the Manasollasa authored by Someshvara III, representing an ancient encyclopedic work encompassing over 8,000 Sanskrit verses. The text addresses diverse topics like polity, political sciences, architecture, jurisprudence, iconography, idol-making, and various arts and sciences such as mathematics.
 
@@ -1172,10 +1047,7 @@ Chapter 5 - Sciences in Someshvara’s Manasollasa
 
 ## 41. 7. Dance in Somesvara’s Manasollasa
 
-
 Manasollasa (study of Arts and Sciences)
-
-by Mahadev Narayanrao Joshi | 1984 | 74,538 words
 
 This essay in English studies the Manasollasa authored by Someshvara III, representing an ancient encyclopedic work encompassing over 8,000 Sanskrit verses. The text addresses diverse topics like polity, political sciences, architecture, jurisprudence, iconography, idol-making, and various arts and sciences such as mathematics.
 
@@ -1221,10 +1093,7 @@ a '' 269 In the context of anger, doubt, graceful or pleasurable sensation at th
 
 ## 42. 1. Introduction to science in ancient India
 
-
 Manasollasa (study of Arts and Sciences)
-
-by Mahadev Narayanrao Joshi | 1984 | 74,538 words
 
 This essay in English studies the Manasollasa authored by Someshvara III, representing an ancient encyclopedic work encompassing over 8,000 Sanskrit verses. The text addresses diverse topics like polity, political sciences, architecture, jurisprudence, iconography, idol-making, and various arts and sciences such as mathematics.
 
@@ -1250,10 +1119,7 @@ The applications of science are playing a very important part in our daily life.
 
 ## 43. 2. Astrology in Manasollasa
 
-
 Manasollasa (study of Arts and Sciences)
-
-by Mahadev Narayanrao Joshi | 1984 | 74,538 words
 
 This essay in English studies the Manasollasa authored by Someshvara III, representing an ancient encyclopedic work encompassing over 8,000 Sanskrit verses. The text addresses diverse topics like polity, political sciences, architecture, jurisprudence, iconography, idol-making, and various arts and sciences such as mathematics.
 
@@ -1305,10 +1171,7 @@ V. Friday VI. Saturday 283 Pusya, ASlesa, Magha, and Rohini purvasadha, Uttarasa
 
 ## 44. 3. Mathematics in Manasollasa
 
-
 Manasollasa (study of Arts and Sciences)
-
-by Mahadev Narayanrao Joshi | 1984 | 74,538 words
 
 This essay in English studies the Manasollasa authored by Someshvara III, representing an ancient encyclopedic work encompassing over 8,000 Sanskrit verses. The text addresses diverse topics like polity, political sciences, architecture, jurisprudence, iconography, idol-making, and various arts and sciences such as mathematics.
 
@@ -1338,10 +1201,7 @@ the following table. Number 38 305 No. of Zeros after the number One Name of the
 
 ## 45. 3. Art in Vastuvidya or Architecture
 
-
 Manasollasa (study of Arts and Sciences)
-
-by Mahadev Narayanrao Joshi | 1984 | 74,538 words
 
 This essay in English studies the Manasollasa authored by Someshvara III, representing an ancient encyclopedic work encompassing over 8,000 Sanskrit verses. The text addresses diverse topics like polity, political sciences, architecture, jurisprudence, iconography, idol-making, and various arts and sciences such as mathematics.
 
@@ -1395,10 +1255,7 @@ Sarvatobhadra. Nandyavarta. Vardhamana. Svastika. Rucika.
 
 ## 46. 4. Ancient Indian sciences and medieval Europe
 
-
 Manasollasa (study of Arts and Sciences)
-
-by Mahadev Narayanrao Joshi | 1984 | 74,538 words
 
 This essay in English studies the Manasollasa authored by Someshvara III, representing an ancient encyclopedic work encompassing over 8,000 Sanskrit verses. The text addresses diverse topics like polity, political sciences, architecture, jurisprudence, iconography, idol-making, and various arts and sciences such as mathematics.
 
@@ -1418,10 +1275,7 @@ It is definitely known that sciences in India had developed and achieved a great
 
 ## 47. 5. Ayurveda or Indian Medicine—Introduction
 
-
 Manasollasa (study of Arts and Sciences)
-
-by Mahadev Narayanrao Joshi | 1984 | 74,538 words
 
 This essay in English studies the Manasollasa authored by Someshvara III, representing an ancient encyclopedic work encompassing over 8,000 Sanskrit verses. The text addresses diverse topics like polity, political sciences, architecture, jurisprudence, iconography, idol-making, and various arts and sciences such as mathematics.
 
@@ -1487,10 +1341,7 @@ Ayurveda Sastra is very vast, but the following study is only a brief survey of 
 
 ## 48. Chapter 6 - Manasollasa: the first Encyclopaedia
 
-
 Manasollasa (study of Arts and Sciences)
-
-by Mahadev Narayanrao Joshi | 1984 | 74,538 words
 
 This essay in English studies the Manasollasa authored by Someshvara III, representing an ancient encyclopedic work encompassing over 8,000 Sanskrit verses. The text addresses diverse topics like polity, political sciences, architecture, jurisprudence, iconography, idol-making, and various arts and sciences such as mathematics.
 
@@ -1504,10 +1355,7 @@ Chapter 6 - Manasollasa: the first Encyclopaedia
 
 ## 49. 7. Description and treatment of Fever (Jvara)
 
-
 Manasollasa (study of Arts and Sciences)
-
-by Mahadev Narayanrao Joshi | 1984 | 74,538 words
 
 This essay in English studies the Manasollasa authored by Someshvara III, representing an ancient encyclopedic work encompassing over 8,000 Sanskrit verses. The text addresses diverse topics like polity, political sciences, architecture, jurisprudence, iconography, idol-making, and various arts and sciences such as mathematics.
 
@@ -1543,10 +1391,7 @@ Jvara or fever occupies the first place among physical ailments. So Somesvara's 
 
 ## 50. 6. Ancient Indian Chemistry (Rasayana) and Metallurgy
 
-
 Manasollasa (study of Arts and Sciences)
-
-by Mahadev Narayanrao Joshi | 1984 | 74,538 words
 
 This essay in English studies the Manasollasa authored by Someshvara III, representing an ancient encyclopedic work encompassing over 8,000 Sanskrit verses. The text addresses diverse topics like polity, political sciences, architecture, jurisprudence, iconography, idol-making, and various arts and sciences such as mathematics.
 
@@ -1570,10 +1415,7 @@ Chemistry was known to the people in ancient India. Chemicals and medicines were
 
 ## 51. 1. Introduction: the Manasollasa and Encyclopaedic knowledge
 
-
 Manasollasa (study of Arts and Sciences)
-
-by Mahadev Narayanrao Joshi | 1984 | 74,538 words
 
 This essay in English studies the Manasollasa authored by Someshvara III, representing an ancient encyclopedic work encompassing over 8,000 Sanskrit verses. The text addresses diverse topics like polity, political sciences, architecture, jurisprudence, iconography, idol-making, and various arts and sciences such as mathematics.
 
@@ -1601,10 +1443,7 @@ wheat. 9 375 Then he tells about the treatment of soil. The soil used for the pl
 
 ## 52. 2. Upabhogas or Enjoyments in Someshvara’s Manasollasa
 
-
 Manasollasa (study of Arts and Sciences)
-
-by Mahadev Narayanrao Joshi | 1984 | 74,538 words
 
 This essay in English studies the Manasollasa authored by Someshvara III, representing an ancient encyclopedic work encompassing over 8,000 Sanskrit verses. The text addresses diverse topics like polity, political sciences, architecture, jurisprudence, iconography, idol-making, and various arts and sciences such as mathematics.
 
@@ -1642,10 +1481,7 @@ have various colours. 1 384 32 ( 6 ) Bhusayyasana : It is also the same as the P
 
 ## 53. 3. Somesvara’s Geographical Knowledge of India—Introduction
 
-
 Manasollasa (study of Arts and Sciences)
-
-by Mahadev Narayanrao Joshi | 1984 | 74,538 words
 
 This essay in English studies the Manasollasa authored by Someshvara III, representing an ancient encyclopedic work encompassing over 8,000 Sanskrit verses. The text addresses diverse topics like polity, political sciences, architecture, jurisprudence, iconography, idol-making, and various arts and sciences such as mathematics.
 
@@ -1663,10 +1499,7 @@ Somesvara was undoubtedly a great scholar who had studied the various Sastras, b
 
 ## 54. 3.2. Rivers described in the Manasollasa
 
-
 Manasollasa (study of Arts and Sciences)
-
-by Mahadev Narayanrao Joshi | 1984 | 74,538 words
 
 This essay in English studies the Manasollasa authored by Someshvara III, representing an ancient encyclopedic work encompassing over 8,000 Sanskrit verses. The text addresses diverse topics like polity, political sciences, architecture, jurisprudence, iconography, idol-making, and various arts and sciences such as mathematics.
 
@@ -1686,10 +1519,7 @@ Bharata is a land of rivers which have their rise in its lofty mountains. These 
 
 ## 55. 3.1. Mountains and Forests described in the Manasollasa
 
-
 Manasollasa (study of Arts and Sciences)
-
-by Mahadev Narayanrao Joshi | 1984 | 74,538 words
 
 This essay in English studies the Manasollasa authored by Someshvara III, representing an ancient encyclopedic work encompassing over 8,000 Sanskrit verses. The text addresses diverse topics like polity, political sciences, architecture, jurisprudence, iconography, idol-making, and various arts and sciences such as mathematics.
 
@@ -1713,10 +1543,7 @@ Somesvara shows a fairly good knowledge of mountain ranges as also the prominent
 
 ## 56. 5. Conclusion: The rich knowledge possessed by Someshvara
 
-
 Manasollasa (study of Arts and Sciences)
-
-by Mahadev Narayanrao Joshi | 1984 | 74,538 words
 
 This essay in English studies the Manasollasa authored by Someshvara III, representing an ancient encyclopedic work encompassing over 8,000 Sanskrit verses. The text addresses diverse topics like polity, political sciences, architecture, jurisprudence, iconography, idol-making, and various arts and sciences such as mathematics.
 
@@ -1738,10 +1565,7 @@ Somesvara had mastered all the branches of knowledge. As a literary artist Somes
 
 ## 57. 8. Ancient Indian Cooking and Cookery (according to Manasollasa)
 
-
 Manasollasa (study of Arts and Sciences)
-
-by Mahadev Narayanrao Joshi | 1984 | 74,538 words
 
 This essay in English studies the Manasollasa authored by Someshvara III, representing an ancient encyclopedic work encompassing over 8,000 Sanskrit verses. The text addresses diverse topics like polity, political sciences, architecture, jurisprudence, iconography, idol-making, and various arts and sciences such as mathematics.
 
@@ -1781,10 +1605,7 @@ re 362 powder of Hingu is mixed with water and kept standing for some time. Acco
 
 ## 58. 4. Poetical thoughts in Somesvara’s Manasollasa
 
-
 Manasollasa (study of Arts and Sciences)
-
-by Mahadev Narayanrao Joshi | 1984 | 74,538 words
 
 This essay in English studies the Manasollasa authored by Someshvara III, representing an ancient encyclopedic work encompassing over 8,000 Sanskrit verses. The text addresses diverse topics like polity, political sciences, architecture, jurisprudence, iconography, idol-making, and various arts and sciences such as mathematics.
 
@@ -1830,10 +1651,7 @@ Somesvara is hailed as the Prince among Indian Poets. Individuals may equal or e
 
 ## 59. 3.3. Regions, States and Cities described in the Manasollasa
 
-
 Manasollasa (study of Arts and Sciences)
-
-by Mahadev Narayanrao Joshi | 1984 | 74,538 words
 
 This essay in English studies the Manasollasa authored by Someshvara III, representing an ancient encyclopedic work encompassing over 8,000 Sanskrit verses. The text addresses diverse topics like polity, political sciences, architecture, jurisprudence, iconography, idol-making, and various arts and sciences such as mathematics.
 
@@ -1855,10 +1673,7 @@ Bharatavarsa was traditionally divided into two parts, namely Aryavarta, the nor
 
 ## 60. Selected Bibliography
 
-
 Manasollasa (study of Arts and Sciences)
-
-by Mahadev Narayanrao Joshi | 1984 | 74,538 words
 
 This essay in English studies the Manasollasa authored by Someshvara III, representing an ancient encyclopedic work encompassing over 8,000 Sanskrit verses. The text addresses diverse topics like polity, political sciences, architecture, jurisprudence, iconography, idol-making, and various arts and sciences such as mathematics.
 

@@ -20,17 +20,11 @@ This chapter from **Sushruta Samhita (Uttaratantra)** represents the classical s
 
 ---
 
-
 Sushruta Samhita, Volume 6: Uttara-tantra
-
-by Kaviraj Kunja Lal Bhishagratna | 1916 | 113,078 words
 
 This current book, the Uttara-tantra (english translation) is the supplementary part of the Sushrutasamhita and deals various subjects such as diseases of the eye, treatment of fever, diarrhea, diseases resulting from superhuman influences, insanity, rules of health etc.
 
 The Sushruta Samhita is the most representative work of the Hindu system of m...
-
-Go directly to: 
-Footnotes.
 
 Chapter V - Pathology of the diseases of the black part of the eye
 
@@ -49,10 +43,6 @@ A whitish film appearing on the region of the Choroid including the Iris (Krishn
 The appearance of a whitish milky film over the black part of the eye slowly shrouding it entirly with its mass and attended with acute pain is known as the Akshi-Pakatyaya. This is invariably found to result from an attack of Akshi-kopa[1] and is due to the concerted action of all the Doshas. A painful reddish growth, like the head of a goat, found to shoot forth from beneath the surface of the black part and attended with reddish slimy secretion is called an Ajaka. 6-7.
 
 Thus ends the fifth chapter of the Uttara-Tantra in the Sushruta Samhita which treats of the pathology of the diseases of the black part of the eye.
-
-Footnotes and references:
-
-[back to top]
 
 [1]:
 

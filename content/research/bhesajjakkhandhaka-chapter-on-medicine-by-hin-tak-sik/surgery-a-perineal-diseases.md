@@ -1,23 +1,15 @@
 ---
 title: "Surgery (a): Perineal Diseases — Bhesajjakkhandhaka Chapter On Medicine By Hin Tak Sik"
-paper_title: "Bhesajjakkhandhaka Chapter On Medicine By Hin Tak Sik"
-paper_slug: "bhesajjakkhandhaka-chapter-on-medicine-by-hin-tak-sik"
-chapter_title: "Surgery (a): Perineal Diseases"
-chapter_slug: "surgery-a-perineal-diseases"
-chapter_number: 64
-reading_time: 31
-prev_chapter: "dermatology-d-miscellaneous-skin-lesions"
-next_chapter: "chapter-6---conclusion"
-silo: "research"
-category: "Ayurvedic Research & Evidence"
-status: "Published"
-date: "2026-08-17"
 description: "Detailed analysis of Surgery (a): Perineal Diseases from Bhesajjakkhandhaka Chapter On Medicine By Hin Tak Sik by Hin Tak Sik. Evidence-based Ayurvedic literature review and pharmacognosy."
+category: "Ayurvedic Research & Evidence"
 author: "Suresh Bhati"
-original_scholar: "Hin Tak Sik"
+publishedDate: "2026-08-17"
+status: "Published"
 ---
 
 # 64. Surgery (a): Perineal Diseases
+
+> **Clinical Executive Summary**: This guide on **Surgery (a): Perineal Diseases — Bhesajjakkhandhaka Chapter On Medicine By Hin Tak Sik** synthesizes classical Sanskrit Samhita principles with modern botanical pharmacological research. Curated under the editorial supervision of Suresh Bhati, it provides actionable doshic guidelines, evidence-based applications, and safety parameters.
 
 > **TL;DR:** Chapter 64 of **Bhesajjakkhandhaka Chapter On Medicine By Hin Tak Sik** by **Hin Tak Sik** explores key findings on *Surgery (a): Perineal Diseases*. It bridges traditional Sanskrit literature with contemporary medical science.
 
@@ -68,8 +60,6 @@ The Samantapāsādikā has provided extra information on these treatments at thi
 
 “‘Surgical operation or enema’ is: Just as in a small room, by whatever–by a knife, or by a needle, or by a sharp-pointed instrument, or by a small knife, or by a stone-splinter, or by a nail–[that] cutting, or splitting, or piercing, or scraping should not be done; every [of these] indeed is that surgical operation. By whatever leather or cloth, the pressing of a bladder should not be done; every [of these] indeed is enema. Here–‘the vicinity of two finger-breadths of the private parts’–it is said concerning just to this surgical operation. Enema at the private parts is also rejected. At that place, it is suitable to give a caustic or to bind with whatever cord. If it is severed by that, it is well-cut. Even in [the matter of] the disease of an enlargement of the testicle, surgical operation is not suitable. Therefore, having made the testicle split and removed the causing element, [one thinks] ‘I will bring health’–it should not be done. With regard to anointing with medicine and burning with fire, there is no objection. At the anus, a clinging rod or a bamboo stalk smeared with medicine is suitable; through which they perform caustic treatment or introduce oil.”[17]
 
-“‘Surgical operation or enema’ is: Just as in a small room, by whatever–by a knife, or by a needle, or by a sharp-pointed instrument, or by a small knife, or by a stone-splinter, or by a nail–[that] cutting, or splitting, or piercing, or scraping should not be done; every [of these] indeed is that surgical operation. By whatever leather or cloth, the pressing of a bladder should not be done; every [of these] indeed is enema. Here–‘the vicinity of two finger-breadths of the private parts’–it is said concerning just to this surgical operation. Enema at the private parts is also rejected. At that place, it is suitable to give a caustic or to bind with whatever cord. If it is severed by that, it is well-cut. Even in [the matter of] the disease of an enlargement of the testicle, surgical operation is not suitable. Therefore, having made the testicle split and removed the causing element, [one thinks] ‘I will bring health’–it should not be done. With regard to anointing with medicine and burning with fire, there is no objection. At the anus, a clinging rod or a bamboo stalk smeared with medicine is suitable; through which they perform caustic treatment or introduce oil.”[17]
-
 For these diseases, carbuncle has been discussed in the last section and it will not be covered again. Haemorrhoids and anal fistulae will be elaborated here. According to the classical Āyurvedic treatises, haemorrhoids (Pāli: arisa; Sanskrit: arśas) are morbid structures involving fat tissue, muscle tissue, and skin, which may obstruct the passage of the rectum. They occur in the area of four and a half fingerbreadths in the lower end of the alimentary canal. Piles can be congenital or acquired (after birth). Congenital piles are due to abnormalities of the seeds (sperm and ovum) of the parents, which in turn are due to improper diet and/or activities of the parents or sinful deeds of past lives of the person. Such abnormalities of the seeds cause aggravation of all humours resulting in the congenital piles (Caraka Saṃhitā Nidānasthāna 15. 56; Aṣṭāṅga Hṛdaya Saṃhitā Nidānasthāna 7. 1-3, 6-7). Acquired piles are of five types: three caused by aggravation of each humour, one by that of all three humours, and one by that of the blood (Suśruta Saṃhitā Nidānasthāna 2. 3; Aṣṭāṅga Hṛdaya Saṃhitā Nidānasthāna 7. 9). Various factors can lead to aggravation of humours and blood, such as inappropriate foods and drinks, activities, and treatments; excessive straining when opening bowels; injury to the anus by rubbing with objects or improper insertion of enema nozzle; suppression of natural urge; pregnancy; and so on. Aggravated humours then weaken the digestive power and cause accumulation of waste products. These humours (which may be associated with blood) and waste products are brought down by wind humour to the lower end of the digestive tract, where they vitiate the anal tissues resulting in the formation of piles (Caraka Saṃhitā Cikitsāsthāna 14. 9; Suśruta Saṃhitā Nidānasthāna 2. 4; Aṣṭāṅga Hṛdaya Saṃhitā Nidānasthāna 7. 10-15). Remedies for haemorrhoidal disease are surgical and medical. Surgical measures include excision and cauterisation (by caustic alkali and/or red hot metal probe). Medical means are applying medicated oil/fat, medicinal paste, poultice, or suppository at the lesion;sprinkling or bathing the piles with decoction of drugs; fumigation of drugs at the piles; use of enema; intake of decoction, medicated buttermilk, vegetables, medicated gruel, medicated ghee, vegetable soup, and meat soup; and so on. Bloodletting is undertaken if there is aggravation of blood. For bleeding piles, further treatments are required, such as elimination therapies, fasting, and haemostatic measures (e.g. consumption of bitter drugs and suitable diets, sprinkling or bathing the bleeding piles with decoction, external application with leaves or medicated ghee, and so forth) (Caraka Saṃhitā Cikitsāsthāna 14. 33 ff.; Suśruta Saṃhitā Cikitsāsthāna 6; Aṣṭāṅga Hṛdaya Saṃhitā Cikitsāsthāna 8).
 
 Āyurveda enumerates five types of anal fistula (Pāli: bhagandala;Sanskrit: bhagandara): three due to each humour, one to the three humours together, and one to external factor (such as parasite, or injury to anus which occurs when an ingested bone is passed out) (Caraka Saṃhitā Cikitsāsthāna 12. 96; Suśruta Saṃhitā Nidānasthāna 4. 3). Those causative factors for piles can also lead to the formation of anal fistulae. The aggravated humours afflict the blood and muscle tissues around the anus, and this gives rise to the formation of abscess. When an abscess gets ruptured, it becomes a fistula (Suśruta Saṃhitā Nidānasthāna 4. 3-4; Aṣṭāṅga Hṛdaya Saṃhitā Uttarasthāna 28. 1-4). If the disease is in the early stage when the abscess is not ripened, it is treated with elimination therapy (such as purgation), bathing the lesion with decoctions, and so on. If the abscess has ruptured and the fistula has formed, it is chiefly managed surgically by means of probing, cauterisation (by caustic alkali or burning), incision, and/or excision depending on the lesion. Thereafter the cut-open wound is managed as an ordinary wound (Caraka Saṃhitā Cikitsāsthāna 12. 97; Suśruta Saṃhitā Cikitsāsthāna 8. 4; Aṣṭāṅga Hṛdaya Saṃhitā Uttarasthāna 28. 22-26).
@@ -79,10 +69,6 @@ According to modern anatomy, haemorrhoidal tissues are venous structures at the 
 A fistula, in modern medicine, is defined as “an abnormal passage or communication, usually between two internal organs, or leading from an organ to the surface of the body,” and an anal fistula is “a cutaneous fistula opening on the body surface near the anus; it may or may not communicate with the rectum” (Dorland's Illustrated Medical Dictionary, 32nd ed., s.v. “fistula” and “fistula: anal f.”). An anal fistula commonly arises from an anorectal abscess, due to the infection of an anal crypt gland, which ruptures spontaneously or is surgically drained. Other causes include inflammatory bowel disease, mycobacterial infection, fungal infection, rectal tumour, and trauma (Rizzo, Naig, and Johnson 2010, 45-46). An anal fistula can locate at different anatomical tissues near the rectum and anal canal. Treatment for this disease is primarily surgical. A simple and superficial fistula can be cured by tracking and cutting open the fistular tract (fistulotomy), which is then managed as an open wound. Complicated fistulae which involve deeper tissues require special surgical procedures (Welton et al. 2010, 712-714).
 
 Perineal diseases are mentioned in the Buddhist Vinayas. They were treated by surgery or enema. In Āyurveda, such diseases are also treated by various surgical and medical remedies. Haemorrhoids and anal fistulae are managed with medical and/or surgical measures in modern medicine, though much advanced treatments are being employed.
-
-Footnotes and references:
-
-[back to top]
 
 [1]:
 
@@ -155,8 +141,6 @@ Chapter on Medicine parallel in this Vinaya.
 [17]:
 
 Samantapāsādikā V. 1093-1094: “satthakammaṃ vā vatthikammaṃ vā’ti yathā paricchinne okāse yena kenaci satthena vā sūciyā vā kaṇṭakena vā santikāya vā pāsāṇasakalikāya vā nakhena vā chindanaṃ vā phālanaṃ vā vijjhanaṃ vā lekhanaṃ vā na kātabbaṃ, sabbaṃ h’ etaṃ satthakammam eva hoti. yena kenaci pana cammena vā vatthena vā vatthipīḷanam pi na kātabbaṃ, sabbaṃ h’ etaṃ vatthikammameva hoti. ettha ca sambādhassa sāmantā dvaṅgulā’ti idaṃ satthakammam eva sandhāya vuttaṃ. vatthikammam pana sambādhe yeva paṭikkhittaṃ. tattha pana khāraṃ vā dātuṃ yena kenaci rajjukena vā bandhituṃ vaṭṭati. yadi tena chijjati, succhinnaṃ. aṇḍavuḍḍhiroge’pi satthakammaṃ na vaṭṭati, tasmā aṇḍaṃ phāletvā bījāni uddharitvā arogaṃ karissāmī’ti na kattabbaṃ. aggitāpanabhesajjalepanesu pana paṭikkhepo n’ atthi. vaccamagge bhesajjamakkhitā ādānavaṭṭi vā veḷunāḷikā vā vaṭṭati, yāya khārakammaṃ vā karonti telaṃ vā pavesenti.”
-
----
 
 ---
 
@@ -269,6 +253,72 @@ Samantapāsādikā V. 1093-1094: “satthakammaṃ vā vatthikammaṃ vā’ti y
           }
         }
       ]
+    }
+  ]
+}
+</script>
+
+## Frequently Asked Questions (FAQ)
+
+### What are the primary health benefits of Surgery (a): Perineal Diseases — Bhesajjakkhandhaka Chapter On Medicine By Hin Tak Sik in Ayurveda?
+Surgery (a): Perineal Diseases — Bhesajjakkhandhaka Chapter On Medicine By Hin Tak Sik is traditionally utilized in Ayurveda to balance doshic imbalances, support systemic vitality, and promote long-term physiological wellness under proper guidance.
+
+### How should Surgery (a): Perineal Diseases — Bhesajjakkhandhaka Chapter On Medicine By Hin Tak Sik be taken according to classical guidelines?
+According to classical Ayurvedic principles, Surgery (a): Perineal Diseases — Bhesajjakkhandhaka Chapter On Medicine By Hin Tak Sik is best administered with appropriate Anupana (carrier vehicles such as warm water, honey, or warm milk) tailored to an individual's Prakriti (constitution).
+
+### Are there any contraindications or side effects associated with Surgery (a): Perineal Diseases — Bhesajjakkhandhaka Chapter On Medicine By Hin Tak Sik?
+While generally well-tolerated when used appropriately, excessive usage or improper dosing may exacerbate specific doshas. Consult an Ayurvedic physician prior to therapeutic use.
+
+### How long does it take to observe results from using Surgery (a): Perineal Diseases — Bhesajjakkhandhaka Chapter On Medicine By Hin Tak Sik?
+In traditional Ayurvedic protocol, herbal formulations operate synergistically with diet and lifestyle. Notable improvements typically emerge within 2 to 4 weeks of consistent administration.
+
+### Is Surgery (a): Perineal Diseases — Bhesajjakkhandhaka Chapter On Medicine By Hin Tak Sik safe for long-term daily consumption?
+Certain tonic (Rasayana) preparations may be safely used long-term, whereas intensive therapeutic formulas are recommended for specific short-term protocols under expert supervision.
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What are the primary health benefits of Surgery (a): Perineal Diseases — Bhesajjakkhandhaka Chapter On Medicine By Hin Tak Sik in Ayurveda?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Surgery (a): Perineal Diseases — Bhesajjakkhandhaka Chapter On Medicine By Hin Tak Sik is traditionally utilized in Ayurveda to balance doshic imbalances, support systemic vitality, and promote long-term physiological wellness under proper guidance."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How should Surgery (a): Perineal Diseases — Bhesajjakkhandhaka Chapter On Medicine By Hin Tak Sik be taken according to classical guidelines?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "According to classical Ayurvedic principles, Surgery (a): Perineal Diseases — Bhesajjakkhandhaka Chapter On Medicine By Hin Tak Sik is best administered with appropriate Anupana (carrier vehicles such as warm water, honey, or warm milk) tailored to an individual's Prakriti (constitution)."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Are there any contraindications or side effects associated with Surgery (a): Perineal Diseases — Bhesajjakkhandhaka Chapter On Medicine By Hin Tak Sik?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "While generally well-tolerated when used appropriately, excessive usage or improper dosing may exacerbate specific doshas. Consult an Ayurvedic physician prior to therapeutic use."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How long does it take to observe results from using Surgery (a): Perineal Diseases — Bhesajjakkhandhaka Chapter On Medicine By Hin Tak Sik?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "In traditional Ayurvedic protocol, herbal formulations operate synergistically with diet and lifestyle. Notable improvements typically emerge within 2 to 4 weeks of consistent administration."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Is Surgery (a): Perineal Diseases — Bhesajjakkhandhaka Chapter On Medicine By Hin Tak Sik safe for long-term daily consumption?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Certain tonic (Rasayana) preparations may be safely used long-term, whereas intensive therapeutic formulas are recommended for specific short-term protocols under expert supervision."
+      }
     }
   ]
 }

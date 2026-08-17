@@ -20,17 +20,11 @@ This chapter from **Sushruta Samhita (Sharirasthana)** represents the classical 
 
 ---
 
-
 Sushruta Samhita, volume 3: Sharirasthana
-
-by Kaviraj Kunja Lal Bhishagratna | 1911 | 36,821 words
 
 This current book, the Sharira-sthana (english translation), deals with anatomy, the human body, cosmology, embryology and various other subjects.
 
 The Sushruta Samhita is the most representative work of the Hindu system of medicine. It embraces all that can possibly appertain to the science of medicine. Susruta-samhita is recognized as the first a...
-
-Go directly to: 
-Footnotes.
 
 Chapter VII - Description of Sira (vascular system)
 
@@ -87,10 +81,6 @@ Memorable verses:—
 As the stem and leaves etc., of a lotus plant, originated from its bulb, spread over the whole surface of a pool or tank (lit: water), so the vessels emanating from the umbilicus of a man spread over his whole organism. 32.
 
 Thus ends the seventh Chapter of the Sharira Sthana in the Suhruta Samhita which treats of the description and classification of Siras (vessels).
-
-Footnotes and references:
-
-[back to top]
 
 [1]:
 

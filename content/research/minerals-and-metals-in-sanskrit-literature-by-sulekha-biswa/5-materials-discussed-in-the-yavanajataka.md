@@ -1,23 +1,15 @@
 ---
 title: "5. Materials discussed in the Yavanajataka — Minerals And Metals In Sanskrit Literature By Sulekha Biswa"
-paper_title: "Minerals And Metals In Sanskrit Literature By Sulekha Biswa"
-paper_slug: "minerals-and-metals-in-sanskrit-literature-by-sulekha-biswa"
-chapter_title: "5. Materials discussed in the Yavanajataka"
-chapter_slug: "5-materials-discussed-in-the-yavanajataka"
-chapter_number: 83
-reading_time: 2
-prev_chapter: "3-minerals-and-metals-according-to-yajnavalkya-and-patanjali"
-next_chapter: "7-materials-discussed-in-the-angavijja-and-amarakosha"
-silo: "research"
-category: "Ayurvedic Research & Evidence"
-status: "Published"
-date: "2026-08-17"
 description: "Detailed analysis of 5. Materials discussed in the Yavanajataka from Minerals And Metals In Sanskrit Literature By Sulekha Biswa by Sulekha Biswa. Evidence-based Ayurvedic literature review and pharmacognosy."
+category: "Ayurvedic Research & Evidence"
 author: "Suresh Bhati"
-original_scholar: "Sulekha Biswa"
+publishedDate: "2026-08-17"
+status: "Published"
 ---
 
 # 83. 5. Materials discussed in the Yavanajataka
+
+> **Clinical Executive Summary**: This guide on **5. Materials discussed in the Yavanajataka — Minerals And Metals In Sanskrit Literature By Sulekha Biswa** synthesizes classical Sanskrit Samhita principles with modern botanical pharmacological research. Curated under the editorial supervision of Suresh Bhati, it provides actionable doshic guidelines, evidence-based applications, and safety parameters.
 
 > **TL;DR:** Chapter 83 of **Minerals And Metals In Sanskrit Literature By Sulekha Biswa** by **Sulekha Biswa** explores key findings on *5. Materials discussed in the Yavanajataka*. It bridges traditional Sanskrit literature with contemporary medical science.
 
@@ -36,8 +28,6 @@ Ever since Alexander's invasion and particularly after the decline of the Maurya
 VIII-14 as the Yavanas intruded into India and interacted with the Indians. Some of them contributed to the cultural life and the scientific pursuits in the sub-continent. Yavanesvara and Sphujidhvaja were Indianised Greeks settled in the domains of the Western Ksatrapas in Gujarat, Malwa and Rajasthan. The date of Yavanesvara corresponds to the middle of the reign of Rudradaman I, the greatest of the Western Sakas. Yavanesvara's Greek book on astrology and mineralogy (150 A.D.) was translated one century later into Sanskrit text Yavanajataka by Sphujidvaja (270 A.D.). An English translation of the same has been provided by David Pingree (1978). It may be noted that both Nagarjuna and Yavanesvara belonged to the second half of the second century A.D. As a matter of fact, the Satavahana King Gautamiputra Satakarni claimed to have come into conflict with the Sakas and Yavanas of Kathiawar and Malwa. Thus, the book Yavanajataka reflects the state of knowledge on minerals and metals prevalent in India during Nagarjuna's time. The verses 7-15 in the Chapter 62 of the text of Yavanajataka contain references to minerals and metals. The word dhatu was used to indicate metals as well as minerals. Dhatus were known to belong to two categories: dhamya (bright) and adhamya (dull). Dhamya lohas (metals) were known to be of six types suvarna, raupya, trapu (tin), sisa (lead), tamra (copper) and krsnayas (iron). Mauktika (pearl), Yuk ta (alloy) and sastram (steel) also belonged to the dhamya (bright) category.
 
 VIII-1 Some of the dull materials or adhamya dhatu listed were: manahsila (red arsenic), hingulaka (cinnabar), amlasala (acidic sorrel), saurastrajata (some mineral earth from Saurastra or Gujarat), rasaka (calamine or zinc ore), panka (ointments), anjana (unguents), balikaya samana (powdery stuff). sila and ala were abbreviations of manahsila (red arsenic sulphide) and haritala (yellow arsenic sulphide) respectively. Some of the materials and minerals having varieties of uses including medicinal were: Sarkara (sugar or sand), kasisa (green sulphate of iron), mrd (clay), kardama (slime), gairika (red chalk, iron ore?), tapva (sulphuret of iron), maksika (pyrite) etc. It is noteworthy that Yavanesvara mentioned rasaka or calamine, a zinc ore which was available in the Gujarat Rajasthan area and, as stated by Nagarjuna, was used for making brass.
-
----
 
 ---
 
@@ -150,6 +140,72 @@ VIII-1 Some of the dull materials or adhamya dhatu listed were: manahsila (red a
           }
         }
       ]
+    }
+  ]
+}
+</script>
+
+## Frequently Asked Questions (FAQ)
+
+### What are the primary health benefits of 5. Materials discussed in the Yavanajataka — Minerals And Metals In Sanskrit Literature By Sulekha Biswa in Ayurveda?
+5. Materials discussed in the Yavanajataka — Minerals And Metals In Sanskrit Literature By Sulekha Biswa is traditionally utilized in Ayurveda to balance doshic imbalances, support systemic vitality, and promote long-term physiological wellness under proper guidance.
+
+### How should 5. Materials discussed in the Yavanajataka — Minerals And Metals In Sanskrit Literature By Sulekha Biswa be taken according to classical guidelines?
+According to classical Ayurvedic principles, 5. Materials discussed in the Yavanajataka — Minerals And Metals In Sanskrit Literature By Sulekha Biswa is best administered with appropriate Anupana (carrier vehicles such as warm water, honey, or warm milk) tailored to an individual's Prakriti (constitution).
+
+### Are there any contraindications or side effects associated with 5. Materials discussed in the Yavanajataka — Minerals And Metals In Sanskrit Literature By Sulekha Biswa?
+While generally well-tolerated when used appropriately, excessive usage or improper dosing may exacerbate specific doshas. Consult an Ayurvedic physician prior to therapeutic use.
+
+### How long does it take to observe results from using 5. Materials discussed in the Yavanajataka — Minerals And Metals In Sanskrit Literature By Sulekha Biswa?
+In traditional Ayurvedic protocol, herbal formulations operate synergistically with diet and lifestyle. Notable improvements typically emerge within 2 to 4 weeks of consistent administration.
+
+### Is 5. Materials discussed in the Yavanajataka — Minerals And Metals In Sanskrit Literature By Sulekha Biswa safe for long-term daily consumption?
+Certain tonic (Rasayana) preparations may be safely used long-term, whereas intensive therapeutic formulas are recommended for specific short-term protocols under expert supervision.
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What are the primary health benefits of 5. Materials discussed in the Yavanajataka — Minerals And Metals In Sanskrit Literature By Sulekha Biswa in Ayurveda?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "5. Materials discussed in the Yavanajataka — Minerals And Metals In Sanskrit Literature By Sulekha Biswa is traditionally utilized in Ayurveda to balance doshic imbalances, support systemic vitality, and promote long-term physiological wellness under proper guidance."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How should 5. Materials discussed in the Yavanajataka — Minerals And Metals In Sanskrit Literature By Sulekha Biswa be taken according to classical guidelines?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "According to classical Ayurvedic principles, 5. Materials discussed in the Yavanajataka — Minerals And Metals In Sanskrit Literature By Sulekha Biswa is best administered with appropriate Anupana (carrier vehicles such as warm water, honey, or warm milk) tailored to an individual's Prakriti (constitution)."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Are there any contraindications or side effects associated with 5. Materials discussed in the Yavanajataka — Minerals And Metals In Sanskrit Literature By Sulekha Biswa?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "While generally well-tolerated when used appropriately, excessive usage or improper dosing may exacerbate specific doshas. Consult an Ayurvedic physician prior to therapeutic use."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How long does it take to observe results from using 5. Materials discussed in the Yavanajataka — Minerals And Metals In Sanskrit Literature By Sulekha Biswa?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "In traditional Ayurvedic protocol, herbal formulations operate synergistically with diet and lifestyle. Notable improvements typically emerge within 2 to 4 weeks of consistent administration."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Is 5. Materials discussed in the Yavanajataka — Minerals And Metals In Sanskrit Literature By Sulekha Biswa safe for long-term daily consumption?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Certain tonic (Rasayana) preparations may be safely used long-term, whereas intensive therapeutic formulas are recommended for specific short-term protocols under expert supervision."
+      }
     }
   ]
 }

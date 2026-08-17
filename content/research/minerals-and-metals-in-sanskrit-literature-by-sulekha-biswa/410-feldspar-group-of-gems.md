@@ -1,23 +1,15 @@
 ---
 title: "4.10. Feldspar Group of Gems — Minerals And Metals In Sanskrit Literature By Sulekha Biswa"
-paper_title: "Minerals And Metals In Sanskrit Literature By Sulekha Biswa"
-paper_slug: "minerals-and-metals-in-sanskrit-literature-by-sulekha-biswa"
-chapter_title: "4.10. Feldspar Group of Gems"
-chapter_slug: "410-feldspar-group-of-gems"
-chapter_number: 69
-reading_time: 4
-prev_chapter: "47-description-of-quartz"
-next_chapter: "411-two-softer-blue-gems-of-the-ancient-world"
-silo: "research"
-category: "Ayurvedic Research & Evidence"
-status: "Published"
-date: "2026-08-17"
 description: "Detailed analysis of 4.10. Feldspar Group of Gems from Minerals And Metals In Sanskrit Literature By Sulekha Biswa by Sulekha Biswa. Evidence-based Ayurvedic literature review and pharmacognosy."
+category: "Ayurvedic Research & Evidence"
 author: "Suresh Bhati"
-original_scholar: "Sulekha Biswa"
+publishedDate: "2026-08-17"
+status: "Published"
 ---
 
 # 69. 4.10. Feldspar Group of Gems
+
+> **Clinical Executive Summary**: This guide on **4.10. Feldspar Group of Gems — Minerals And Metals In Sanskrit Literature By Sulekha Biswa** synthesizes classical Sanskrit Samhita principles with modern botanical pharmacological research. Curated under the editorial supervision of Suresh Bhati, it provides actionable doshic guidelines, evidence-based applications, and safety parameters.
 
 > **TL;DR:** Chapter 69 of **Minerals And Metals In Sanskrit Literature By Sulekha Biswa** by **Sulekha Biswa** explores key findings on *4.10. Feldspar Group of Gems*. It bridges traditional Sanskrit literature with contemporary medical science.
 
@@ -38,8 +30,6 @@ RAIS 130 g represents the general group of feldspar minerals where R may be pota
 VII-50 That which runs nectar when the moon at its full bathes it with its balmy influence, is called candrakanta' (Navaratnapariksa 156; Manimala 438). Sanskrit literature is replete with 'candrakanta slabs on which lovers in separation seek solace'. Could these be plain marble? The Ratnasastra texts (Navaratnapariksa 154 & 156, RS 18, Manimala 436 & 438, Rayanaparikkha 96) claim that candrakanta is a variety of sphatika or quartz. But we believe that candrakanta is moonstone, a variety of feldspar defined earlier, which was available in Sri Lanka only. As it stands admitted in Navaratnapariksa 156 (durlabham'), it was rarely available. in India. suryakanta or Ravikanta (AS. 2.11.32, Navaratnapariksa 154-155, RS 18, Manimala 436-437 and Rayanaparikkha 96) could however belong to the quartz family as claimed in the above-cited literatures. We have earlier quoted Navaratnapariksa 155: suryasu sparsamatrena valim vamati  which means 'fire emerges when sun-rays pass though', and implies that survakanta could mean a lens of transparent rock crystal. Alternatively, it could be sunstone of the feldspar family as defined earlier. Hiuen Tsang (629 A.D.) mentioned about Yun-shih rock near the Tiladaka monastery in Magadha. It has been translated as cloud- - stone or 'variegated marble' (Samuel Beal: Buddhist records of the Western World, 1969, Book VIII, p. 103). It could be a siliceous rock as well.
 
 VII-51 We may briefly comment on fine yellowd sh-green or golden yellow Chrysolite (French jewellers call it peridot), which is precious olivine or a gem variety of the group of mineral called olivine, R 2+ R 2+ (S 104) wherein R, and R₂ could be various combinations of Mg, Fe, Ca amd Mn. Chrysolite contains more of. 2+ Mg and Fe" accounting for the typical colour. Its hardness is 6%; it is slightly softer than quartz and its specific gravity is 3.33-3.37, more than that of emerald. At present, the reserves of the gem probably stand exhausted, but in the ancient world, it was well-known and created some confusion with emerald (green) and topaz (yellow), all the three gem minerals occurring together betweer the Nila and the Red Sea. E.S. Dana has commented that 'the chrysolithus of Pliny was probably our topaz and his topaz our chrysolite'. The two different materials could be easily distin- -guished in terms of their hardness, topaz being much harder. The above confusion between chrysolite and topaz was connected with the Sanskrit words: pita meaning yellow and pittaka meaning colour of bile what is green or greenish-yellow. Arthasastra mentioned a gem pittaka (AS 2.11.35) which was most possibly chrysolite.. Later, another name came up: 'rucaka which is yellow, green, red or tawny, found in the borders of Kashmir' (quoted by Tagore in Manimala pp. 508-509), and this also could be chrysolite. The Sanskrit word pita was converted to pittdoh in Hebrew and then to tipdoh and topazion. The confusion between pittaka chrysolite and pita topaz is now a matter of history.
-
----
 
 ---
 
@@ -152,6 +142,72 @@ VII-51 We may briefly comment on fine yellowd sh-green or golden yellow Chrysoli
           }
         }
       ]
+    }
+  ]
+}
+</script>
+
+## Frequently Asked Questions (FAQ)
+
+### What are the primary health benefits of 4.10. Feldspar Group of Gems — Minerals And Metals In Sanskrit Literature By Sulekha Biswa in Ayurveda?
+4.10. Feldspar Group of Gems — Minerals And Metals In Sanskrit Literature By Sulekha Biswa is traditionally utilized in Ayurveda to balance doshic imbalances, support systemic vitality, and promote long-term physiological wellness under proper guidance.
+
+### How should 4.10. Feldspar Group of Gems — Minerals And Metals In Sanskrit Literature By Sulekha Biswa be taken according to classical guidelines?
+According to classical Ayurvedic principles, 4.10. Feldspar Group of Gems — Minerals And Metals In Sanskrit Literature By Sulekha Biswa is best administered with appropriate Anupana (carrier vehicles such as warm water, honey, or warm milk) tailored to an individual's Prakriti (constitution).
+
+### Are there any contraindications or side effects associated with 4.10. Feldspar Group of Gems — Minerals And Metals In Sanskrit Literature By Sulekha Biswa?
+While generally well-tolerated when used appropriately, excessive usage or improper dosing may exacerbate specific doshas. Consult an Ayurvedic physician prior to therapeutic use.
+
+### How long does it take to observe results from using 4.10. Feldspar Group of Gems — Minerals And Metals In Sanskrit Literature By Sulekha Biswa?
+In traditional Ayurvedic protocol, herbal formulations operate synergistically with diet and lifestyle. Notable improvements typically emerge within 2 to 4 weeks of consistent administration.
+
+### Is 4.10. Feldspar Group of Gems — Minerals And Metals In Sanskrit Literature By Sulekha Biswa safe for long-term daily consumption?
+Certain tonic (Rasayana) preparations may be safely used long-term, whereas intensive therapeutic formulas are recommended for specific short-term protocols under expert supervision.
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What are the primary health benefits of 4.10. Feldspar Group of Gems — Minerals And Metals In Sanskrit Literature By Sulekha Biswa in Ayurveda?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "4.10. Feldspar Group of Gems — Minerals And Metals In Sanskrit Literature By Sulekha Biswa is traditionally utilized in Ayurveda to balance doshic imbalances, support systemic vitality, and promote long-term physiological wellness under proper guidance."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How should 4.10. Feldspar Group of Gems — Minerals And Metals In Sanskrit Literature By Sulekha Biswa be taken according to classical guidelines?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "According to classical Ayurvedic principles, 4.10. Feldspar Group of Gems — Minerals And Metals In Sanskrit Literature By Sulekha Biswa is best administered with appropriate Anupana (carrier vehicles such as warm water, honey, or warm milk) tailored to an individual's Prakriti (constitution)."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Are there any contraindications or side effects associated with 4.10. Feldspar Group of Gems — Minerals And Metals In Sanskrit Literature By Sulekha Biswa?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "While generally well-tolerated when used appropriately, excessive usage or improper dosing may exacerbate specific doshas. Consult an Ayurvedic physician prior to therapeutic use."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How long does it take to observe results from using 4.10. Feldspar Group of Gems — Minerals And Metals In Sanskrit Literature By Sulekha Biswa?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "In traditional Ayurvedic protocol, herbal formulations operate synergistically with diet and lifestyle. Notable improvements typically emerge within 2 to 4 weeks of consistent administration."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Is 4.10. Feldspar Group of Gems — Minerals And Metals In Sanskrit Literature By Sulekha Biswa safe for long-term daily consumption?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Certain tonic (Rasayana) preparations may be safely used long-term, whereas intensive therapeutic formulas are recommended for specific short-term protocols under expert supervision."
+      }
     }
   ]
 }

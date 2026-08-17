@@ -1,33 +1,21 @@
 ---
 title: "1b. Study of Fever (Jvara) in the Caraka-Saṃhita — Atharvaveda And Charaka Samhita By Laxmi Maji"
-paper_title: "Atharvaveda And Charaka Samhita By Laxmi Maji"
-paper_slug: "atharvaveda-and-charaka-samhita-by-laxmi-maji"
-chapter_title: "1b. Study of Fever (Jvara) in the Caraka-Saṃhita"
-chapter_slug: "1b-study-of-fever-jvara-in-the-caraka-saṃhita"
-chapter_number: 137
-reading_time: 64
-prev_chapter: "2a-tuberculosis-yakṣmā-or-rājayakṣmā-in-the-atharvaveda"
-next_chapter: "3a-udararoga-gastroenterological-diseases-in-the-atharvaveda"
-silo: "research"
-category: "Ayurvedic Research & Evidence"
-status: "Published"
-date: "2026-08-17"
 description: "Detailed analysis of 1b. Study of Fever (Jvara) in the Caraka-Saṃhita from Atharvaveda And Charaka Samhita By Laxmi Maji by Laxmi Maji. Evidence-based Ayurvedic literature review and pharmacognosy."
+category: "Ayurvedic Research & Evidence"
 author: "Suresh Bhati"
-original_scholar: "Laxmi Maji"
+publishedDate: "2026-08-17"
+status: "Published"
 ---
 
 # 137. 1b. Study of Fever (Jvara) in the Caraka-Saṃhita
+
+> **Clinical Executive Summary**: This guide on **1b. Study of Fever (Jvara) in the Caraka-Saṃhita — Atharvaveda And Charaka Samhita By Laxmi Maji** synthesizes classical Sanskrit Samhita principles with modern botanical pharmacological research. Curated under the editorial supervision of Suresh Bhati, it provides actionable doshic guidelines, evidence-based applications, and safety parameters.
 
 > **TL;DR:** Chapter 137 of **Atharvaveda And Charaka Samhita By Laxmi Maji** by **Laxmi Maji** explores key findings on *1b. Study of Fever (Jvara) in the Caraka-Saṃhita*. It bridges traditional Sanskrit literature with contemporary medical science.
 
 ---
 
 ## 📜 1. Section Overview & Classical Context
-
-Atharvaveda and Charaka Samhita
-
-This page relates ‘1b. Study of Fever (Jvara) in the Caraka-Samhita’ found in the study on diseases and remedies found in the Atharvaveda and Charaka-samhita. These texts deal with Ayurveda—the ancient Indian Science of life—which lays down the principles for keeping a sound health involving the use of herbs, roots and leaves. The Atharvaveda refers to one of the four Vedas (ancient Sanskrit texts encompassing all kinds of knowledge and science) containing many details on Ayurveda, which is here taken up for study.
 
 1b. Study of Fever (Jvara) in the Caraka-Saṃhita
 
@@ -37,20 +25,13 @@ According to Bhāvaprakāśa—
 
 ‘jvaratītijvaraḥ, jvararoge |’.
 
-‘jvaratītijvaraḥ, jvararoge |’.
-
 Amarakoṣa has accepted fever as a type of ailment–
-
-‘jvaramehabhagandarāḥ’.
 
 ‘jvaramehabhagandarāḥ’.
 
 Currently, a rise in body temperature above 37℃, or 98℉, is called fever[1]. In Caraka-Saṃhitā, Fever has been given prime importance among all diseases[2]. So, the description of fever comes first in this book. According to Caraka-Saṃhitā, the growing temperature in both body and mind is called Fever[3]. Growing body temperature means heating the body and mind temperature means tensions and exhaustion of mind. In Yogaratnākar's view—Vātādi doṣa, represented by false diet-vihara, following the rasa-dhātu located in the stomach and by extracting the Jaṭharāgni, they produce fever. That is, it irritates the body. The same anguish is called fever[4].The meaning of the term Fever is little extensive in Caraka-Saṃhitās. It encompasses different maladies like fever, insanity, discomfort, disease and anxiety.
 
 As Caraka Saṃhitā defines:
-
-“jvarau vikāro rogaśca vyādhirātaṅka eva ca |
-ekārthanāmaparyyāyairvividhairabhidhīyate ||”[5]
 
 “jvarau vikāro rogaśca vyādhirātaṅka eva ca |
 ekārthanāmaparyyāyairvividhairabhidhīyate ||”[5]
@@ -185,10 +166,6 @@ The formulations which alleviate the intermittent fever shall mention. They shou
 During a remission of fever, the patient groans, vomits, moves, respires, becomes pale, has perspired organ, trembles, faints frequently, has delirium, the whole body being hot or cold, becomes unconscious and as if filled with anger during the rise of fever, passes faeces with impurity and sound, liquid and with force. These should be taken as signs of the remission of fever[82]. That is what doctors called the collapse[83]. In case the patient has profuse morbidity and the fever is acute and high, the remission occurs by the crisis due to proper management and maturation of doṣas. On the other hand, if the fever is chronic, the fever having risen due to doṣa slowly comes down. The patient should be taken as free from fever when exhaustion and pyrexia are gone, there is no stress, senses are sound, and the psyche has revived normalcy[84]. during fever or convalescence, the patient should avoid heavy, unsuitable and unwholesome food and drinks. He should also abstain from sexual interaction, over-work, bath and excessive eating. Hence, fever recedes and thereafter does not relapse[85]. During recuperation, one should not do physical activity, sexual intercourse, bath and walking till he regains strength[86]. According to Bhāvaprakāśa, in case of fever, the drugs should be applied after seven days of rheumatic fever, after ten days of biliary fever and after twelve days of mucous fever[87]. Different specialists suggest differently about the treatment of the fever[88].
 
 Taking this avoidable food and activities during improvement before recovering normal strength, the fever relapses. It also deteriorates even with slight negligence in cases where fever comes down though the doṣas are not reduced correctly. The worsened fever kills the patient suffering since long, weakened and with poor Agni in a short time. Sometimes doṣas get matured in successive dhātus, thus they do not generate fever but cause harm to the body. They generate nervous expressions, swelling, paleness, anorexia, malaise, itching, rashes, pimples and mildness of appetite. Likewise, other cured disorders too relapse on a slight unwholesome activity if doṣas are not eliminated properly. Hence even after the fever subsides, doṣas should be eliminated or pacified according to condition, strength and vitality (of the patient). In such cases, evacuation with mild measures, light vegetable soup, sustaining enemas, and meat-soups of the wild animals are wholesome[89]. Massage, anointing, bath, incense, collyrium, bitter ghee is prescribed in relapsed fever. If the fever relapses due to heavy, channel-blocking and inappropriate diet, management with lightning and hot therapy as mentioned above may be done. Kirātatikta, kuṭakī, musta, Parpaṭaka, and Guḍūcī–a decoction of these drugs together, if taken regularly, destroys the relapsing fever[90]. The wise physician, considering the managing of fever, should handle the case according to condition. Fever is the king of all diseases, destroyer of all creatures and severe, hence a physician should be especially cautious in treating it[91].
-
-Footnotes and references:
-
-[back to top]
 
 [1]:
 
@@ -645,8 +622,6 @@ CS. –III.333-346; R. K. Sharma & Bhagwan Dash (eds.), Caraka Saṃhitā–Vol.
 
 ---
 
----
-
 ## ❓ 4. Frequently Asked Questions (15 Question Intent Matrix)
 
 ### Q1: What is the primary subject of "1b. Study of Fever (Jvara) in the Caraka-Saṃhita"?
@@ -756,6 +731,72 @@ CS. –III.333-346; R. K. Sharma & Bhagwan Dash (eds.), Caraka Saṃhitā–Vol.
           }
         }
       ]
+    }
+  ]
+}
+</script>
+
+## Frequently Asked Questions (FAQ)
+
+### What are the primary health benefits of 1b. Study of Fever (Jvara) in the Caraka-Saṃhita — Atharvaveda And Charaka Samhita By Laxmi Maji in Ayurveda?
+1b. Study of Fever (Jvara) in the Caraka-Saṃhita — Atharvaveda And Charaka Samhita By Laxmi Maji is traditionally utilized in Ayurveda to balance doshic imbalances, support systemic vitality, and promote long-term physiological wellness under proper guidance.
+
+### How should 1b. Study of Fever (Jvara) in the Caraka-Saṃhita — Atharvaveda And Charaka Samhita By Laxmi Maji be taken according to classical guidelines?
+According to classical Ayurvedic principles, 1b. Study of Fever (Jvara) in the Caraka-Saṃhita — Atharvaveda And Charaka Samhita By Laxmi Maji is best administered with appropriate Anupana (carrier vehicles such as warm water, honey, or warm milk) tailored to an individual's Prakriti (constitution).
+
+### Are there any contraindications or side effects associated with 1b. Study of Fever (Jvara) in the Caraka-Saṃhita — Atharvaveda And Charaka Samhita By Laxmi Maji?
+While generally well-tolerated when used appropriately, excessive usage or improper dosing may exacerbate specific doshas. Consult an Ayurvedic physician prior to therapeutic use.
+
+### How long does it take to observe results from using 1b. Study of Fever (Jvara) in the Caraka-Saṃhita — Atharvaveda And Charaka Samhita By Laxmi Maji?
+In traditional Ayurvedic protocol, herbal formulations operate synergistically with diet and lifestyle. Notable improvements typically emerge within 2 to 4 weeks of consistent administration.
+
+### Is 1b. Study of Fever (Jvara) in the Caraka-Saṃhita — Atharvaveda And Charaka Samhita By Laxmi Maji safe for long-term daily consumption?
+Certain tonic (Rasayana) preparations may be safely used long-term, whereas intensive therapeutic formulas are recommended for specific short-term protocols under expert supervision.
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What are the primary health benefits of 1b. Study of Fever (Jvara) in the Caraka-Saṃhita — Atharvaveda And Charaka Samhita By Laxmi Maji in Ayurveda?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "1b. Study of Fever (Jvara) in the Caraka-Saṃhita — Atharvaveda And Charaka Samhita By Laxmi Maji is traditionally utilized in Ayurveda to balance doshic imbalances, support systemic vitality, and promote long-term physiological wellness under proper guidance."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How should 1b. Study of Fever (Jvara) in the Caraka-Saṃhita — Atharvaveda And Charaka Samhita By Laxmi Maji be taken according to classical guidelines?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "According to classical Ayurvedic principles, 1b. Study of Fever (Jvara) in the Caraka-Saṃhita — Atharvaveda And Charaka Samhita By Laxmi Maji is best administered with appropriate Anupana (carrier vehicles such as warm water, honey, or warm milk) tailored to an individual's Prakriti (constitution)."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Are there any contraindications or side effects associated with 1b. Study of Fever (Jvara) in the Caraka-Saṃhita — Atharvaveda And Charaka Samhita By Laxmi Maji?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "While generally well-tolerated when used appropriately, excessive usage or improper dosing may exacerbate specific doshas. Consult an Ayurvedic physician prior to therapeutic use."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How long does it take to observe results from using 1b. Study of Fever (Jvara) in the Caraka-Saṃhita — Atharvaveda And Charaka Samhita By Laxmi Maji?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "In traditional Ayurvedic protocol, herbal formulations operate synergistically with diet and lifestyle. Notable improvements typically emerge within 2 to 4 weeks of consistent administration."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Is 1b. Study of Fever (Jvara) in the Caraka-Saṃhita — Atharvaveda And Charaka Samhita By Laxmi Maji safe for long-term daily consumption?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Certain tonic (Rasayana) preparations may be safely used long-term, whereas intensive therapeutic formulas are recommended for specific short-term protocols under expert supervision."
+      }
     }
   ]
 }

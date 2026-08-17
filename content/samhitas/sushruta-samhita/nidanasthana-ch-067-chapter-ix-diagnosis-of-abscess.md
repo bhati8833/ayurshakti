@@ -20,17 +20,11 @@ This chapter from **Sushruta Samhita (Nidanasthana)** represents the classical s
 
 ---
 
-
 Sushruta Samhita, volume 2: Nidanasthana
-
-by Kaviraj Kunja Lal Bhishagratna | 1911 | 37,609 words
 
 This current book, the Nidana-sthana (english translation), is the second part of this voluminous medical work. It deals with diseases: their prognosis, their cause, their symptoms and their pathogenesis (development of the disease).
 
 The Sushruta Samhita is the most representative work of the Hindu system of medicine. It embraces all that can poss...
-
-Go directly to: 
-Footnotes.
 
 Chapter IX - Diagnosis of abscess
 
@@ -97,10 +91,6 @@ Incurable Types:—
 A case of an internal abscess suppurating about the heart, bladder or umbilicus as well as one of the Tridosha type (appearing in any part of the organism) should be given up as incurable. The abscess in which the marrow suppurates (generally) becomes fatal. The suppurating process in an internal abscess, which generally affects the underlying bone, is sometimes found to affect the marrow. The suppurated marrow, failing to find an outlet on account of the compactness of the local flesh and bone, produces a sort of burning sensation in the locality which consumes the body like a blazing fire. The disease confined to the bone, like a piercing dirt, torments the patient for a considerable length of time. An incision (made into the affected bone) is followed by the secretion of a fat-like, glossy, white, cold and thick pus. Men, learned in the knowledge of the Medicinal Shastras, designate such an abscess as an Asthighata-Vidradhi (abscess of the bone) which involves all the three kinds of deranged Doshas, and is attended with various kinds of pain which mark them respectively. 25-26.
 
 Thus ends the ninth Chapter of the Nidanasthana in the Sushruta Spinbita which treats of the etiology of abscess.
-
-Footnotes and references:
-
-[back to top]
 
 [1]:
 

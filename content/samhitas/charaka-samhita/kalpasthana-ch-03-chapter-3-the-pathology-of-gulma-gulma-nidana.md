@@ -19,6 +19,3 @@ labels: ["Charaka Samhita", "Kalpasthana", "Ayurvedic Classics", "Suresh Bhati"]
 This chapter from **Charaka Samhita (Kalpasthana)** addresses the foundational principles of traditional Indian internal medicine (*Kāyacikitsā*). Composed originally by **Acharya Agnivesha** and revised by **Acharya Charaka**, this section provides evidence-based dietary, physiological, and therapeutic recommendations for balancing the three doshas (*Vata*, *Pitta*, and *Kapha*).
 
 ---
-
-
----

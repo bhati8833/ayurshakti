@@ -20,17 +20,11 @@ This chapter from **Sushruta Samhita (Chikitsasthana)** represents the classical
 
 ---
 
-
 Sushruta Samhita, volume 4: Cikitsasthana
-
-by Kaviraj Kunja Lal Bhishagratna | 1911 | 123,229 words
 
 This current book, the Chikitsa-sthana (english translation), deals with therapeutics, surgical emergencies, geriatrics, aphrodisiacs and various other subjects.
 
 The Sushruta Samhita is the most representative work of the Hindu system of medicine. It embraces all that can possibly appertain to the science of medicine. Susruta-samhita is recognized...
-
-Go directly to: 
-Footnotes.
 
 Chapter V - The diseases affecting the nervous system
 
@@ -167,10 +161,6 @@ Therapeutic properties of Guggulu:—
 Guggulu is aromatic, light, penetrating into the minutest parts of the body, sharp, heat-making in potency, pungent in taste and digestion, laxative, emulsive, slimy, and wholesome to the heart (Hridya). New Guggulu is an aphrodisiac and a constructive tonic. Old Guggulu is anti-fat and hence reduces corpulency. It is owing to its sharpness and heat-making potency that Guggulu tends to reduce the Vayu and the Kapha; it is its laxativeness that destroys the Malas (refuge deposits in the Srotas) and the deranged Pitta; its aroma removes the bad odours of the Koshtha; and it is its subtle essence that improves the appetising faculty. Guggulu should be taken every morning with a decoction of Triphala, Darvi and Patola or with that of Kusha roots[19]; it may also be taken with an adequate quantity of cow’s urine, or with alkaline[20] or tepid water. The patient should take boiled rice with soup, milk, or extract of meat after the Guggulu has been digested. Diseases such as internal tumour (Gulma), urinary complaints (Meha), Udavarta, ascites, fistula-in-ano, worms in the intestines, itches, an aversion to food, leucoderma (Svitra), tumour and glands (Arvuda), sinus, Adhya-Vata, swelling (edema), cutaneous affections (Kushtha) and malignant sores and ulcers readily yield to it, if used for a month (with the observance of the regimen of diet and conduct laid down previously). It also destroys the deranged Vayu incarcerated in the Koshtha, bones and joints, just as a thunderbolt will destroy trees. 44.
 
 Thus ends the fifth Chapter of the Chikitsita Sthana in the Sushruta-Samhita which deals with the medical treatment of Maha-Vata-Vyadhi.
-
-Footnotes and references:
-
-[back to top]
 
 [1]:
 

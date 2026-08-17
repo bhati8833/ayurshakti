@@ -20,17 +20,11 @@ This chapter from **Sushruta Samhita (Uttaratantra)** represents the classical s
 
 ---
 
-
 Sushruta Samhita, Volume 6: Uttara-tantra
-
-by Kaviraj Kunja Lal Bhishagratna | 1916 | 113,078 words
 
 This current book, the Uttara-tantra (english translation) is the supplementary part of the Sushrutasamhita and deals various subjects such as diseases of the eye, treatment of fever, diarrhea, diseases resulting from superhuman influences, insanity, rules of health etc.
 
 The Sushruta Samhita is the most representative work of the Hindu system of m...
-
-Go directly to: 
-Footnotes.
 
 Chapter IV - Pathology of the diseases of the sclerotic coat
 
@@ -47,10 +41,6 @@ A thin and extended glandular swelling (Granthi) coloured reddish blue and appea
 The appearance of dark brown specks resembling flesh in colour or of those having the colour of an oyster-shell on the white coat (Shukla) of the eye is called Shuktika. The appearance of a single dot or speck on the Sclerotic coat (Shukla), coloured like a (drop of the) hare’s blood, is called Arjuna. A raised and circular dot or speck appearing on the white coat and coloured white like pasted rice and (as transparent as) water is called Pishtaka. Red and extensive patches of hardened veins spreading over the white coat and looking like a net-work is called Sira-jala. The crop of white pustular growths (Pidaka) on the Sclerotic coat (Shukla), near the limit of the black coat (Iris) and covered over with shreds of veins are called the Sira-Pidaka. The disease in which a speck coloured like the Indian bell-metal (Kamsya) and covered over with a vein (Sira) appears on the region of the Scleratic coat is called the Balasa[1]. 8-13.
 
 Thus ends the fourth chapter of the Uttara-Tantra in the Sushruta Samhita which treats of the pathology of the diseases of the Sceloretic region of the eye.
-
-Footnotes and references:
-
-[back to top]
 
 [1]:
 

@@ -9,19 +9,11 @@ date: "2026-08-17"
 description: "Samhita is the most representative work of the Hindu system of medicine."
 ---
 
-**Author / Source:** by Kaviraj Kunja Lal Bhishagratna
-
-
-**Total Chapters/Sections:** 13
-
 ---
 
 ## 1. Preface
 
-
 Sushruta Samhita, volume 3: Sharirasthana
-
-by Kaviraj Kunja Lal Bhishagratna | 1911 | 36,821 words
 
 This current book, the Sharira-sthana (english translation), deals with anatomy, the human body, cosmology, embryology and various other subjects.
 
@@ -35,10 +27,7 @@ For the preface of this edition, see the Nidanasthana.
 
 ## 2. Introduction
 
-
 Sushruta Samhita, volume 3: Sharirasthana
-
-by Kaviraj Kunja Lal Bhishagratna | 1911 | 36,821 words
 
 This current book, the Sharira-sthana (english translation), deals with anatomy, the human body, cosmology, embryology and various other subjects.
 
@@ -52,17 +41,11 @@ Please refer to the introduction attached to the first part of the second volume
 
 ## 3. Chapter II - The purification of semen and cataminal fluid
 
-
 Sushruta Samhita, volume 3: Sharirasthana
-
-by Kaviraj Kunja Lal Bhishagratna | 1911 | 36,821 words
 
 This current book, the Sharira-sthana (english translation), deals with anatomy, the human body, cosmology, embryology and various other subjects.
 
 The Sushruta Samhita is the most representative work of the Hindu system of medicine. It embraces all that can possibly appertain to the science of medicine. Susruta-samhita is recognized as the first a...
-
-Go directly to: 
-Footnotes.
 
 Chapter II - The purification of semen and cataminal fluid
 
@@ -150,10 +133,6 @@ The adjustment of the different limbs and organs of the body of a child in the w
 
 Thus ends the second Chapter of the Sharira Sthana in the Sushruta Samhita which treats of the purification of sperm and ovum.
 
-Footnotes and references:
-
-[back to top]
-
 [1]:
 
 The word “Adi” in the text includes emetics, purgatives, Anuva- sana and asthapana measures according to their specific Doshas.
@@ -182,10 +161,7 @@ Hair, beard, nails, teeth, arteries, veins, ligaments and semen are called pater
 
 ## 4. Title Page
 
-
 Sushruta Samhita, volume 3: Sharirasthana
-
-by Kaviraj Kunja Lal Bhishagratna | 1911 | 36,821 words
 
 This current book, the Sharira-sthana (english translation), deals with anatomy, the human body, cosmology, embryology and various other subjects.
 
@@ -226,17 +202,11 @@ No. 10, KASHI GHOSE’S LANE.
 
 ## 5. Chapter I - The science of being in general
 
-
 Sushruta Samhita, volume 3: Sharirasthana
-
-by Kaviraj Kunja Lal Bhishagratna | 1911 | 36,821 words
 
 This current book, the Sharira-sthana (english translation), deals with anatomy, the human body, cosmology, embryology and various other subjects.
 
 The Sushruta Samhita is the most representative work of the Hindu system of medicine. It embraces all that can possibly appertain to the science of medicine. Susruta-samhita is recognized as the first a...
-
-Go directly to: 
-Footnotes.
 
 Chapter I - The science of being in general
 
@@ -370,10 +340,6 @@ These qualities are found to characterise and enter into the successive elements
 
 Thus ends the first Chapter of the Sharira Sthana in the Sushruta Samhita which deals with the science of Being in general.
 
-Footnotes and references:
-
-[back to top]
-
 [1]:
 
 Sattva, Rajas and Tamas:—Adhesion, cohesion and disintegration in the Physical plane; affection, love and hate in the moral; emancipation, spiritual affinity and sin in the Psychic.
@@ -398,17 +364,11 @@ Hence Sushruta’s Physiology, like that of Charaka, is in the strictest sense o
 
 ## 6. Chapter III - Pregnancy
 
-
 Sushruta Samhita, volume 3: Sharirasthana
-
-by Kaviraj Kunja Lal Bhishagratna | 1911 | 36,821 words
 
 This current book, the Sharira-sthana (english translation), deals with anatomy, the human body, cosmology, embryology and various other subjects.
 
 The Sushruta Samhita is the most representative work of the Hindu system of medicine. It embraces all that can possibly appertain to the science of medicine. Susruta-samhita is recognized as the first a...
-
-Go directly to: 
-Footnotes.
 
 Chapter III - Pregnancy
 
@@ -488,10 +448,6 @@ Those women who are devout in their worship of the gods and the Brahmins and che
 
 Thus ends the third Chapter of the Sharira Sthana in the Sushruta Samhita which treats of the generation and pregnancy.
 
-Footnotes and references:
-
-[back to top]
-
 [1]:
 
 Some are of opinion that the menstruation continues up to the sixtieth year.
@@ -508,17 +464,11 @@ Sometimes it passes irom the body of the child to that of the mother and vice ve
 
 ## 7. Chapter IV - The development of a fetus in the womb
 
-
 Sushruta Samhita, volume 3: Sharirasthana
-
-by Kaviraj Kunja Lal Bhishagratna | 1911 | 36,821 words
 
 This current book, the Sharira-sthana (english translation), deals with anatomy, the human body, cosmology, embryology and various other subjects.
 
 The Sushruta Samhita is the most representative work of the Hindu system of medicine. It embraces all that can possibly appertain to the science of medicine. Susruta-samhita is recognized as the first a...
-
-Go directly to: 
-Footnotes.
 
 Chapter IV - The development of a fetus in the womb
 
@@ -680,10 +630,6 @@ The features of a Pashava-Sattva man are perverseness of intellect, parsimonious
 
 Thus ends the fourth Chapter of the Sharira Sthana in the Shushruta Samhita which treats of fetal development etc.
 
-Footnotes and references:
-
-[back to top]
-
 [1]:
 
 The complexion of a person is due to this first layer; and as the colour of an opaque body is due to the rays that are reflected from its surface, this layer is rightly named Avabhasini or reflecting layer.
@@ -708,17 +654,11 @@ In the text we find the word “Indriya” which refers to both Jnanendriya (sen
 
 ## 8. Chapter VII - Description of Sira (vascular system)
 
-
 Sushruta Samhita, volume 3: Sharirasthana
-
-by Kaviraj Kunja Lal Bhishagratna | 1911 | 36,821 words
 
 This current book, the Sharira-sthana (english translation), deals with anatomy, the human body, cosmology, embryology and various other subjects.
 
 The Sushruta Samhita is the most representative work of the Hindu system of medicine. It embraces all that can possibly appertain to the science of medicine. Susruta-samhita is recognized as the first a...
-
-Go directly to: 
-Footnotes.
 
 Chapter VII - Description of Sira (vascular system)
 
@@ -776,10 +716,6 @@ As the stem and leaves etc., of a lotus plant, originated from its bulb, spread 
 
 Thus ends the seventh Chapter of the Sharira Sthana in the Suhruta Samhita which treats of the description and classification of Siras (vessels).
 
-Footnotes and references:
-
-[back to top]
-
 [1]:
 
 The Sanskrita term Sira denotes veins, nerves, arteries and lymphatic vessels as well. Some read Sira-varna (different colours of the Siras) in lieu of Sira-varnana (description of Siras).
@@ -798,17 +734,11 @@ He also holds that there are 28 in place of 36 Siras in the tongue, 16 in place 
 
 ## 9. Chapter VI - The Marmas (vital parts of the body)
 
-
 Sushruta Samhita, volume 3: Sharirasthana
-
-by Kaviraj Kunja Lal Bhishagratna | 1911 | 36,821 words
 
 This current book, the Sharira-sthana (english translation), deals with anatomy, the human body, cosmology, embryology and various other subjects.
 
 The Sushruta Samhita is the most representative work of the Hindu system of medicine. It embraces all that can possibly appertain to the science of medicine. Susruta-samhita is recognized as the first a...
-
-Go directly to: 
-Footnotes.
 
 Chapter VI - The Marmas (vital parts of the body)
 
@@ -915,10 +845,6 @@ An injury to the adjacent part of a Marma, whether incidental to a cut, incision
 The diseases which are seated in the Marmas, are generally serious, but they may be made to prove amenable with the greatest care and difficulty. 88–89.
 
 Thus ends the sixth Chapter of the Sharira Sthana in the Sushruta Samhita, which treats of Marmas.
-
-Footnotes and references:
-
-[back to top]
 
 [1]:
 
@@ -1142,17 +1068,11 @@ Gayadasa does not read this verse.
 
 ## 10. Chapter VIII - The method of Venesection
 
-
 Sushruta Samhita, volume 3: Sharirasthana
-
-by Kaviraj Kunja Lal Bhishagratna | 1911 | 36,821 words
 
 This current book, the Sharira-sthana (english translation), deals with anatomy, the human body, cosmology, embryology and various other subjects.
 
 The Sushruta Samhita is the most representative work of the Hindu system of medicine. It embraces all that can possibly appertain to the science of medicine. Susruta-samhita is recognized as the first a...
-
-Go directly to: 
-Footnotes.
 
 Chapter VIII - The method of Venesection
 
@@ -1254,10 +1174,6 @@ The vitiated blood incarcerated in any part of the body should be abstracted the
 
 Thus ends the eighth Chapter of the Sharira Sthana in the Sushruta Samhita which treats of venesection.
 
-Footnotes and references:
-
-[back to top]
-
 [1]:
 
 A liquid food is recommended for the purpose of liquefying the blood so as to bleed easily.
@@ -1278,17 +1194,11 @@ Dallana, however, differs here from the text. He says, on the authority of Vagbh
 
 ## 11. Chapter V - The anatomy of the human body
 
-
 Sushruta Samhita, volume 3: Sharirasthana
-
-by Kaviraj Kunja Lal Bhishagratna | 1911 | 36,821 words
 
 This current book, the Sharira-sthana (english translation), deals with anatomy, the human body, cosmology, embryology and various other subjects.
 
 The Sushruta Samhita is the most representative work of the Hindu system of medicine. It embraces all that can possibly appertain to the science of medicine. Susruta-samhita is recognized as the first a...
-
-Go directly to: 
-Footnotes.
 
 Chapter V - The anatomy of the human body
 
@@ -1518,10 +1428,6 @@ The Self, the occult or invisible Lord of the body cannot be detected except wit
 
 Thus ends the fifth Chapter of the Sharira-sthana in the Sushruta Samhita which treats of the anatomy of the human body.
 
-Footnotes and references:
-
-[back to top]
-
 [1]:
 
 Meetings of muscles, ligament?, veins, nerves and bones as at the annular ligament.
@@ -1570,17 +1476,11 @@ If we read Mutrashaya (bladder) in place of Pittashaya it explains the anatomy b
 
 ## 12. Chapter IX - The description of the arteries, nerves and ducts
 
-
 Sushruta Samhita, volume 3: Sharirasthana
-
-by Kaviraj Kunja Lal Bhishagratna | 1911 | 36,821 words
 
 This current book, the Sharira-sthana (english translation), deals with anatomy, the human body, cosmology, embryology and various other subjects.
 
 The Sushruta Samhita is the most representative work of the Hindu system of medicine. It embraces all that can possibly appertain to the science of medicine. Susruta-samhita is recognized as the first a...
-
-Go directly to: 
-Footnotes.
 
 Chapter IX - The description of the arteries, nerves and ducts
 
@@ -1624,10 +1524,6 @@ The ducts emanating from the cavity of the heart, other than the Siras (veins), 
 
 Thus ends the ninth Chapter of the Sharira Sthana in the Sushruta Samhita which treats of the descriptions of the arteries, ducts and nerves.
 
-Footnotes and references:
-
-[back to top]
-
 [1]:
 
 Sans. Dhama—to be filled with air, so called from the fact of their being distended with air after death.
@@ -1656,17 +1552,11 @@ But this science does not take any cognisance of them, since the pain incidental
 
 ## 13. Chapter X - The nursing and management of pregnant women
 
-
 Sushruta Samhita, volume 3: Sharirasthana
-
-by Kaviraj Kunja Lal Bhishagratna | 1911 | 36,821 words
 
 This current book, the Sharira-sthana (english translation), deals with anatomy, the human body, cosmology, embryology and various other subjects.
 
 The Sushruta Samhita is the most representative work of the Hindu system of medicine. It embraces all that can possibly appertain to the science of medicine. Susruta-samhita is recognized as the first a...
-
-Go directly to: 
-Footnotes.
 
 Chapter X - The nursing and management of pregnant women
 
@@ -1852,10 +1742,6 @@ Thus ends the tenth Chapter of the Sharira Sthana in the Sushruta Samhita, which
 
 Here ends the Sharira Sthana.
 
-Footnotes and references:
-
-[back to top]
-
 [1]:
 
 Caitya—is a haunted or diefied tree, or according to others a Budhistic monastery.
@@ -1883,8 +1769,6 @@ Milk and clarified butter being congenial to the constitution of infants should 
 [7]:
 
 According to several other authorities, the dosage in the case of children is to be regulated as follows:—
-
-In the case of a child, one month old, drugs should be given in the form of an electuary through the vehicle of milk, honey, syrup, clarified butter, etc,—the dose being one Rati (about two grains) at first, and gradually increased by a Rati a month, till it completes one year. After this time the dose is to be one Masha (about twenty grains) for each year of age till he is fifteen.
 
 In the case of a child, one month old, drugs should be given in the form of an electuary through the vehicle of milk, honey, syrup, clarified butter, etc,—the dose being one Rati (about two grains) at first, and gradually increased by a Rati a month, till it completes one year. After this time the dose is to be one Masha (about twenty grains) for each year of age till he is fifteen.
 

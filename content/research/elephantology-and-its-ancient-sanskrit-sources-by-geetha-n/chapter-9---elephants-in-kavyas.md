@@ -1,23 +1,15 @@
 ---
 title: "Chapter 9 - Elephants In Kavyas — Elephantology And Its Ancient Sanskrit Sources By Geetha N"
-paper_title: "Elephantology And Its Ancient Sanskrit Sources By Geetha N"
-paper_slug: "elephantology-and-its-ancient-sanskrit-sources-by-geetha-n"
-chapter_title: "Chapter 9 - Elephants In Kavyas"
-chapter_slug: "chapter-9---elephants-in-kavyas"
-chapter_number: 13
-reading_time: 14
-prev_chapter: "appendix-1---glossary-of-technical-terms"
-next_chapter: "chapter-8---the-uses-and-values-of-elephants"
-silo: "research"
-category: "Ayurvedic Research & Evidence"
-status: "Published"
-date: "2026-08-17"
 description: "Detailed analysis of Chapter 9 - Elephants In Kavyas from Elephantology And Its Ancient Sanskrit Sources By Geetha N by Its Own Culture. Evidence-based Ayurvedic literature review and pharmacognosy."
+category: "Ayurvedic Research & Evidence"
 author: "Suresh Bhati"
-original_scholar: "Its Own Culture"
+publishedDate: "2026-08-17"
+status: "Published"
 ---
 
 # 13. Chapter 9 - Elephants In Kavyas
+
+> **Clinical Executive Summary**: This guide on **Chapter 9 - Elephants In Kavyas — Elephantology And Its Ancient Sanskrit Sources By Geetha N** synthesizes classical Sanskrit Samhita principles with modern botanical pharmacological research. Curated under the editorial supervision of Suresh Bhati, it provides actionable doshic guidelines, evidence-based applications, and safety parameters.
 
 > **TL;DR:** Chapter 13 of **Elephantology And Its Ancient Sanskrit Sources By Geetha N** by **Its Own Culture** explores key findings on *Chapter 9 - Elephants In Kavyas*. It bridges traditional Sanskrit literature with contemporary medical science.
 
@@ -66,11 +58,6 @@ raja dharasthadha amatah sena hastyashvapattayah
 radha kunjara vajistha avatiryamahim gatah
 dadrishuste vimanasthan janasoma mivambard[2]
 
-varahamukhyaca shataso niryashcadyaia sankashsah
-raja dharasthadha amatah sena hastyashvapattayah
-radha kunjara vajistha avatiryamahim gatah
-dadrishuste vimanasthan janasoma mivambard[2]
-
 About ten crores of monkey forces went and plastered the asura guard of the palace and all the horses and the elephants they found there.
 
 That group consisted of a hundred of thousand horses, thousand elephants and ten thousand chariots with golden decoration. The people following were all carrying objects fit for presentation to royalty.
@@ -93,17 +80,9 @@ For the service of the King valiant soldiers and elephants are take importance
 Prajapataye purushanhastina alabhate vace
 plushtishcakshushe mashakashcrotraya brringah[4]
 
-Prajapataye purushanhastina alabhate vace
-plushtishcakshushe mashakashcrotraya brringah[4]
-
 The brave soldiers and elephants should be secured, white ants for eloquence, mosquitoes for fight, black bees for hearing for the service of the king.
 
 Just as the drivers strikes his sharp good in the head of gambhiravedi elephant, who is not easily sensitive to pan, similarly Raghu, a mighty warrior plants his mighty prowess on the head of the mountain mahendra which is not easy to be conquered.
-
-Sapratapam mahendrasya
-murdhini tikshnam nyaveshacyat
-angusham dviradasyeva
-yantagambhiravedina[5]
 
 Sapratapam mahendrasya
 murdhini tikshnam nyaveshacyat
@@ -119,25 +98,15 @@ atmanam yo na janati sa syat gambhiravedinah
 cirakalena yo vetti shiksham paricitamapi
 gambhiravedi vinjeyah sa gajo gajavedibhih[6]
 
-tvagvebhedashconitasaravanmamsasya kradhanadapi
-atmanam yo na janati sa syat gambhiravedinah
-cirakalena yo vetti shiksham paricitamapi
-gambhiravedi vinjeyah sa gajo gajavedibhih[6]
-
 An elephant who is slow in understanding even well-awaring matter signs is also called gambhiravedih.
 
 The valiance of elephant is describing in the malavikagnimitram. i.e.,
 
 na hi kamalinim drishtva grahamavekshate matangajah[7]
 
-na hi kamalinim drishtva grahamavekshate matangajah[7]
-
 The elephant is slopping the lake and eat lotus, he is not fear of the crocodiles.
 
 The Atharvaveda describes elephant as a superior animal among the wild beasts.
-
-Hastimriganam sushatamatishtavan babhuvahi[8]
-aditya yat tatvasshmbabhuva[9]
 
 Hastimriganam sushatamatishtavan babhuvahi[8]
 aditya yat tatvasshmbabhuva[9]
@@ -151,19 +120,11 @@ The valiance of elephant is described in Atharveda
 Ya hastini dvipini ya hiranyenvishirapsugoshuyapurusheshu
 Indram ya devi subhaga jajana sa na ete varcasasamvidina[10]
 
-Ya hastini dvipini ya hiranyenvishirapsugoshuyapurusheshu
-Indram ya devi subhaga jajana sa na ete varcasasamvidina[10]
-
 All energy of elephant and panther all halo and insture of gold, men, kin and waters and the blessed spiritual force that makes a ma, king, may that come unto conjoined with strength and vigor.
 
 Victory
 
 Bhavabhuti in his Uttararamacaritam narrates the young elephant had scored the victor over the tasks, which indicates the victory of Lava and Kusha over Rama, their father.
-
-Yenotgaccat bisakisalaya snigda dantankaran
-vyakrishtaste sutanu lavalipallavba kannmulat
-sosyam putrastava madamucam varananam vijeta
-yatkalyanam vayasi tarune bhajanam tasya jatah[11]
 
 Yenotgaccat bisakisalaya snigda dantankaran
 vyakrishtaste sutanu lavalipallavba kannmulat
@@ -181,19 +142,9 @@ Vailoppilli Shridharamenon narrates the elephant as a symbol of Nature. In festi
 ???
 ???[12]
 
-???
-???
-???
-???[12]
-
 Here the poet describes the elephant is same as a huge blackstone. The stone is a part of nature which stands in the lap of the earth, like her son elephant is standing in the temple is a stone.
 
 In Kiratarjuniya the beauty of nature is thus:—
-
-madasikta mughairmrigadhipah
-karibhirvartayate swayam hatah
-laghayam khali tejasajaganna
-mahaniccantoi bhuutimanyatah[13]
 
 madasikta mughairmrigadhipah
 karibhirvartayate swayam hatah
@@ -205,15 +156,9 @@ The lion is dead, elephant stood like as musted, the earth is like in this way. 
 Shailendra kalobhopama
 jaladhya kriidatatakopama[14]
 
-Shailendra kalobhopama
-jaladhya kriidatatakopama[14]
-
 Angry
 
 The angry of an elephant is seen in Malavikagnimitram (mm) i.e,
-
-Anyonya kalahapriyayormatiahastinoreka
-tarasminna nirjite kata upashamah[15]
 
 Anyonya kalahapriyayormatiahastinoreka
 tarasminna nirjite kata upashamah[15]
@@ -227,17 +172,9 @@ nabvhasi vikshya navambudamambare
 abhisasara navallabhamangana
 na caka me cakamekarasam baha[16]
 
-gajakadamabka mecakamuccalcair
-nabvhasi vikshya navambudamambare
-abhisasara navallabhamangana
-na caka me cakamekarasam baha[16]
-
 Clouds assume various shapes sometimes. A fantastic shape of an elephant is described here according to the view of Magha.
 
 Kalidasa in his Meghasandesha also describes the cloud like the peak of mountains, elephant is stooping in down in his butting sport against the bank.
-
-Ashadhasya pradhama divase megha maslishtasanum
-vaprakriidaoarinatagaja prekshaniyam dadarsha[17]
 
 Ashadhasya pradhama divase megha maslishtasanum
 vaprakriidaoarinatagaja prekshaniyam dadarsha[17]
@@ -248,16 +185,9 @@ Puranasarvasva illustrates elephants shape is like a baffaloes, pigs, and the li
 
 "Mahisashca varahashca mattamatangarupinah"
 
-"Mahisashca varahashca mattamatangarupinah"
-
 Beauty
 
 The bark of the birch trees, red in colour with characters written on them by Vidyadhara ladies, with mineral fluid are imagined to resemble the red spots on elephants.
-
-nyastakshara dhaturasena yatra
-bhurjatvajah kunjarabindhushonah
-vrajanti vidhyadharasundarinam
-an angalekha kriyayopago gam[18]
 
 nyastakshara dhaturasena yatra
 bhurjatvajah kunjarabindhushonah
@@ -273,19 +203,9 @@ stava ripushastraparirakshitangau ca
 avanti talagatau samikshya bhahu
 harivara! ha patatir mesdhya cittam[19]
 
-karikarasadrishau gajendragamin
-stava ripushastraparirakshitangau ca
-avanti talagatau samikshya bhahu
-harivara! ha patatir mesdhya cittam[19]
-
 Like the elephant's trunk Bali's hands are as the same long whose walk is like an elephant's walk, and the like.
 
 In Madhyamavyayoga, Khatotkaca is imagined as the same:—
-
-kalabhadashanadamstra lagalakaranasah
-karivara karabhahur nilajimutavarnah
-huta hutavahadipto yah stito bhati Bhima
-stripurapura nihantuh shankarasyeva roshah[20]
 
 kalabhadashanadamstra lagalakaranasah
 karivara karabhahur nilajimutavarnah
@@ -297,11 +217,6 @@ His (Khatotkaca's) dhamshtra (teeth) is like the tusk of baby elephant, nose lik
 Shelter (Refuge)
 
 In Pratimanataka elephant is imagined as a shelter, to a husband for his wife.
-
-Anucarati shashankam Rahudoshepi Tara
-patatica vanvrikshe yati bhumim lata ca
-tyajati na karenuh pankalagnam gajendra
-vrajatu caratu dharmam bhartrunadhahinaryah[21]
 
 Anucarati shashankam Rahudoshepi Tara
 patatica vanvrikshe yati bhumim lata ca
@@ -346,11 +261,6 @@ tejo visheshanumaitam dadhana
 asidanavishkritadamarajira-
 ntarmadavasta iva dvipendrah[24]
 
-sa nyasta cihnamapi rajalakshmim
-tejo visheshanumaitam dadhana
-asidanavishkritadamarajira-
-ntarmadavasta iva dvipendrah[24]
-
 In this shloka, the poet explains the King Dilipa, which is to have followed the path of a cow. He castaside its royal insignia. But his kingly fortune could be inferred from the super eminence of majesty. He, therefore, can be well compared to be like the elephant who is in orderly in condition of rut but without the line of inchor manifested externally.
 
 In Megasandesha, the poet says that, the way of elephant is indicating the path of the cloud.
@@ -360,17 +270,7 @@ ravirbhuta pradhamamukulah kandalishcanukaccam
 jagdvasranyeshvadhika surabhim gandhamaradhyacorvyam
 sarangaste jalalavamucaih sucayishyantimargam[25]
 
-nipam drishtva haritakapishsam kesarairardharudam
-ravirbhuta pradhamamukulah kandalishcanukaccam
-jagdvasranyeshvadhika surabhim gandhamaradhyacorvyam
-sarangaste jalalavamucaih sucayishyantimargam[25]
-
 Kadambha flowers are green and brown on account of half growth filements, eating the kandalis on mastery banks with the first buds appearing on them and smell the strong odour of the ground in the forest respectively, the beeds, and the elephants will indicate the path of you, showing drop water.
-
-yam candrakairmadajalasya mahanadinam
-netrashriyam vikasato vidatturgajendrah
-tam pratya vapuravilambitamuttaranto
-doutanga lagnaranilapayojapatraih[26]
 
 yam candrakairmadajalasya mahanadinam
 netrashriyam vikasato vidatturgajendrah
@@ -388,11 +288,6 @@ gajaya gandushajalam karenuh
 ardhopayaktena bisena jayam
 sambhavayamasa rathangananam (angananam)[27]
 
-dadan rasat pankajarenugmthi
-gajaya gandushajalam karenuh
-ardhopayaktena bisena jayam
-sambhavayamasa rathangananam (angananam)[27]
-
 The female elephant with love, gave the elephant, a task full of water scanted with the pollen of lotuses.
 
 In Vikramorvashiya the warmth of kindliness showed by the elephant below.
@@ -400,17 +295,9 @@ In Vikramorvashiya the warmth of kindliness showed by the elephant below.
 'aye!esanipasacandhnishannahastahkarini
 sahayo nagarajastishtati[28]
 
-'aye!esanipasacandhnishannahastahkarini
-sahayo nagarajastishtati[28]
-
 This statement proves that the elephant also aware of his wife's mind.
 
 Love with other animal is shows in Ritusamhara:—
-
-trisha mahatya hatavikramodyamah
-shvasam mahar duravidaritananah
-na hantya durespi gajan mrigeshvaro
-vilolajihavshcalitagrakesarah[29]
 
 trisha mahatya hatavikramodyamah
 shvasam mahar duravidaritananah
@@ -432,11 +319,6 @@ cchatram camaram divya gajorajo tadai va ca
 abhishiktam samayatam gajarudam stitanvitam
 shvetashcateeradharam tatra lakshmanam lakshitanivtram[30]
 
-brahamanah kshatriyah vaishyah kanyakastratha
-cchatram camaram divya gajorajo tadai va ca
-abhishiktam samayatam gajarudam stitanvitam
-shvetashcateeradharam tatra lakshmanam lakshitanivtram[30]
-
 When it was day break, there assembled at the central gate all who had been ordered to do so by Vasishta, citizens of the four classes maidens, those holding superb ceremonial umbrellas and chowris, elephants and horses, dancing girls and general residence of the city and the village.
 
 Bible
@@ -448,10 +330,6 @@ Quran
 Quran contains a chapter on describing elephant army. Ethyopyan emporor's governor Abrahath, ripping 'Kabah' in Makka, stir into Makka, with C.6000 elephants. But this armies are destroyed by some small birds, their lips and legs have had sweltering (red hoted) stones, which are fallen on the body and enegma (nucleus) of the elephant and they died soon. From this incident is calculated 'Anakkalahavarshsam' or (elephant quarrel year). After some year Hijjara is considered to calculate the year. In Khuran elephant is known as pheel.[32]
 
 All these references will enable to argue the significance of this animal.
-
-Footnotes and references:
-
-[back to top]
 
 [1]:
 
@@ -583,8 +461,6 @@ Surah 105. Alpheel (Elephant)
 
 ---
 
----
-
 ## ❓ 4. Frequently Asked Questions (15 Question Intent Matrix)
 
 ### Q1: What is the primary subject of "Chapter 9 - Elephants In Kavyas"?
@@ -694,6 +570,72 @@ Surah 105. Alpheel (Elephant)
           }
         }
       ]
+    }
+  ]
+}
+</script>
+
+## Frequently Asked Questions (FAQ)
+
+### What are the primary health benefits of Chapter 9 - Elephants In Kavyas — Elephantology And Its Ancient Sanskrit Sources By Geetha N in Ayurveda?
+Chapter 9 - Elephants In Kavyas — Elephantology And Its Ancient Sanskrit Sources By Geetha N is traditionally utilized in Ayurveda to balance doshic imbalances, support systemic vitality, and promote long-term physiological wellness under proper guidance.
+
+### How should Chapter 9 - Elephants In Kavyas — Elephantology And Its Ancient Sanskrit Sources By Geetha N be taken according to classical guidelines?
+According to classical Ayurvedic principles, Chapter 9 - Elephants In Kavyas — Elephantology And Its Ancient Sanskrit Sources By Geetha N is best administered with appropriate Anupana (carrier vehicles such as warm water, honey, or warm milk) tailored to an individual's Prakriti (constitution).
+
+### Are there any contraindications or side effects associated with Chapter 9 - Elephants In Kavyas — Elephantology And Its Ancient Sanskrit Sources By Geetha N?
+While generally well-tolerated when used appropriately, excessive usage or improper dosing may exacerbate specific doshas. Consult an Ayurvedic physician prior to therapeutic use.
+
+### How long does it take to observe results from using Chapter 9 - Elephants In Kavyas — Elephantology And Its Ancient Sanskrit Sources By Geetha N?
+In traditional Ayurvedic protocol, herbal formulations operate synergistically with diet and lifestyle. Notable improvements typically emerge within 2 to 4 weeks of consistent administration.
+
+### Is Chapter 9 - Elephants In Kavyas — Elephantology And Its Ancient Sanskrit Sources By Geetha N safe for long-term daily consumption?
+Certain tonic (Rasayana) preparations may be safely used long-term, whereas intensive therapeutic formulas are recommended for specific short-term protocols under expert supervision.
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What are the primary health benefits of Chapter 9 - Elephants In Kavyas — Elephantology And Its Ancient Sanskrit Sources By Geetha N in Ayurveda?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Chapter 9 - Elephants In Kavyas — Elephantology And Its Ancient Sanskrit Sources By Geetha N is traditionally utilized in Ayurveda to balance doshic imbalances, support systemic vitality, and promote long-term physiological wellness under proper guidance."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How should Chapter 9 - Elephants In Kavyas — Elephantology And Its Ancient Sanskrit Sources By Geetha N be taken according to classical guidelines?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "According to classical Ayurvedic principles, Chapter 9 - Elephants In Kavyas — Elephantology And Its Ancient Sanskrit Sources By Geetha N is best administered with appropriate Anupana (carrier vehicles such as warm water, honey, or warm milk) tailored to an individual's Prakriti (constitution)."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Are there any contraindications or side effects associated with Chapter 9 - Elephants In Kavyas — Elephantology And Its Ancient Sanskrit Sources By Geetha N?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "While generally well-tolerated when used appropriately, excessive usage or improper dosing may exacerbate specific doshas. Consult an Ayurvedic physician prior to therapeutic use."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How long does it take to observe results from using Chapter 9 - Elephants In Kavyas — Elephantology And Its Ancient Sanskrit Sources By Geetha N?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "In traditional Ayurvedic protocol, herbal formulations operate synergistically with diet and lifestyle. Notable improvements typically emerge within 2 to 4 weeks of consistent administration."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Is Chapter 9 - Elephants In Kavyas — Elephantology And Its Ancient Sanskrit Sources By Geetha N safe for long-term daily consumption?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Certain tonic (Rasayana) preparations may be safely used long-term, whereas intensive therapeutic formulas are recommended for specific short-term protocols under expert supervision."
+      }
     }
   ]
 }

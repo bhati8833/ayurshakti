@@ -20,17 +20,11 @@ This chapter from **Sushruta Samhita (Uttaratantra)** represents the classical s
 
 ---
 
-
 Sushruta Samhita, Volume 6: Uttara-tantra
-
-by Kaviraj Kunja Lal Bhishagratna | 1916 | 113,078 words
 
 This current book, the Uttara-tantra (english translation) is the supplementary part of the Sushrutasamhita and deals various subjects such as diseases of the eye, treatment of fever, diarrhea, diseases resulting from superhuman influences, insanity, rules of health etc.
 
 The Sushruta Samhita is the most representative work of the Hindu system of m...
-
-Go directly to: 
-Footnotes.
 
 Chapter LIII - Symptoms and Treatment of Hoarseness (Svara-bheda)
 
@@ -69,10 +63,6 @@ Medoja, Kshayaja, etc., Types:—
 The medical treatment in the case of the Medoja type of Svarabheda should be the same as in the Kaphaja type. The medical treatment of the Tri-Doshaja and Kshayaja types of the disease should be taken in hand without holding out any hope of recovery. Milk[4] duly cooked with the drugs of the Madhura group should be taken in combination with sugar and honey in a case due to the effects of loud speaking. 14—15.
 
 Thus ends the fifty-third chapter of the Uttara-Tantra in the Sushruta Samhita which deals with the (symptoms and) treatment of hoarseness.
-
-Footnotes and references:
-
-[back to top]
 
 [1]:
 

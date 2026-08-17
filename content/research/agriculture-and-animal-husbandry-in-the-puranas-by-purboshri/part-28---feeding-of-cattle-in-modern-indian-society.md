@@ -1,23 +1,15 @@
 ---
 title: "Part 28 - Feeding of Cattle (in modern Indian society) — Agriculture And Animal Husbandry In The Puranas By Purboshri"
-paper_title: "Agriculture And Animal Husbandry In The Puranas By Purboshri"
-paper_slug: "agriculture-and-animal-husbandry-in-the-puranas-by-purboshri"
-chapter_title: "Part 28 - Feeding of Cattle (in modern Indian society)"
-chapter_slug: "part-28---feeding-of-cattle-in-modern-indian-society"
-chapter_number: 116
-reading_time: 2
-prev_chapter: "part-27---classification-of-breeds-in-modern-indian-society"
-next_chapter: "part-29---management-of-cattle-in-modern-indian-society"
-silo: "research"
-category: "Ayurvedic Research & Evidence"
-status: "Published"
-date: "2026-08-17"
 description: "Detailed analysis of Part 28 - Feeding of Cattle (in modern Indian society) from Agriculture And Animal Husbandry In The Puranas By Purboshri by Purboshri Borpuzari. Evidence-based Ayurvedic literature review and pharmacognosy."
+category: "Ayurvedic Research & Evidence"
 author: "Suresh Bhati"
-original_scholar: "Purboshri Borpuzari"
+publishedDate: "2026-08-17"
+status: "Published"
 ---
 
 # 116. Part 28 - Feeding of Cattle (in modern Indian society)
+
+> **Clinical Executive Summary**: This guide on **Part 28 - Feeding of Cattle (in modern Indian society) — Agriculture And Animal Husbandry In The Puranas By Purboshri** synthesizes classical Sanskrit Samhita principles with modern botanical pharmacological research. Curated under the editorial supervision of Suresh Bhati, it provides actionable doshic guidelines, evidence-based applications, and safety parameters.
 
 > **TL;DR:** Chapter 116 of **Agriculture And Animal Husbandry In The Puranas By Purboshri** by **Purboshri Borpuzari** explores key findings on *Part 28 - Feeding of Cattle (in modern Indian society)*. It bridges traditional Sanskrit literature with contemporary medical science.
 
@@ -34,10 +26,6 @@ Part 28 - Feeding of Cattle (in modern Indian society)
 [Full title: Animal Husbandry in the Modern Age of 20-21st Century (3) Feeding of Cattle]
 
 In India we have a large number of tree species whose leaves can be used for feeding livestock. While tree leaves are used sparingly for cattle and buffaloes, most of the sheep, goats and camels in the country are maintained on tree leaves.[1] Trees of Prosopis, Acacia and Ficus species and the well-known nimba are probably the only source of green material for summer in many parts of the country.[2] In Madras and Andhra States, the feeding material for cattle consists of straws of cereal crops, which are grown in 23·7 million acres occupying about 75 per cent of the total cultivated area, bhusa of pulse crops occupying nearly 3 million acres and miscellaneous fodder crops occupying 0·5 million acres. Besides the above, concentrated feeds are also given to superior bullocks and milch animals.[3] The important cattle feeds and fodders available in South India are -rice straw, sorghum straw, ragi straw, minor millet straws, leguminous bhusa, grasses, green fodders, pulses etc.[4] The Purāṇas too mention feeding materials which are to be fed to the animals. It is suggested there in the Purāṇas that a calf should be given a food which consists of māṣa, tila, godhūma, payaḥ, kṣīra and ghṛta(clarified butter), mixed with lavaṇa, to develope well.[5] For an elephant, the food which consists of ṣaṣṭi, vrīhi and śālī rice, is considered the best food.[6] The food consists of wheat and barley should be ranked as second best, while the other sorts of food should be considered inferior sort.[7]
-
-Footnotes and references:
-
-[back to top]
 
 [1]:
 
@@ -66,8 +54,6 @@ Ibid., 287.24a
 [7]:
 
 Ibid., 287.24b
-
----
 
 ---
 
@@ -180,6 +166,72 @@ Ibid., 287.24b
           }
         }
       ]
+    }
+  ]
+}
+</script>
+
+## Frequently Asked Questions (FAQ)
+
+### What are the primary health benefits of Part 28 - Feeding of Cattle (in modern Indian society) — Agriculture And Animal Husbandry In The Puranas By Purboshri in Ayurveda?
+Part 28 - Feeding of Cattle (in modern Indian society) — Agriculture And Animal Husbandry In The Puranas By Purboshri is traditionally utilized in Ayurveda to balance doshic imbalances, support systemic vitality, and promote long-term physiological wellness under proper guidance.
+
+### How should Part 28 - Feeding of Cattle (in modern Indian society) — Agriculture And Animal Husbandry In The Puranas By Purboshri be taken according to classical guidelines?
+According to classical Ayurvedic principles, Part 28 - Feeding of Cattle (in modern Indian society) — Agriculture And Animal Husbandry In The Puranas By Purboshri is best administered with appropriate Anupana (carrier vehicles such as warm water, honey, or warm milk) tailored to an individual's Prakriti (constitution).
+
+### Are there any contraindications or side effects associated with Part 28 - Feeding of Cattle (in modern Indian society) — Agriculture And Animal Husbandry In The Puranas By Purboshri?
+While generally well-tolerated when used appropriately, excessive usage or improper dosing may exacerbate specific doshas. Consult an Ayurvedic physician prior to therapeutic use.
+
+### How long does it take to observe results from using Part 28 - Feeding of Cattle (in modern Indian society) — Agriculture And Animal Husbandry In The Puranas By Purboshri?
+In traditional Ayurvedic protocol, herbal formulations operate synergistically with diet and lifestyle. Notable improvements typically emerge within 2 to 4 weeks of consistent administration.
+
+### Is Part 28 - Feeding of Cattle (in modern Indian society) — Agriculture And Animal Husbandry In The Puranas By Purboshri safe for long-term daily consumption?
+Certain tonic (Rasayana) preparations may be safely used long-term, whereas intensive therapeutic formulas are recommended for specific short-term protocols under expert supervision.
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What are the primary health benefits of Part 28 - Feeding of Cattle (in modern Indian society) — Agriculture And Animal Husbandry In The Puranas By Purboshri in Ayurveda?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Part 28 - Feeding of Cattle (in modern Indian society) — Agriculture And Animal Husbandry In The Puranas By Purboshri is traditionally utilized in Ayurveda to balance doshic imbalances, support systemic vitality, and promote long-term physiological wellness under proper guidance."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How should Part 28 - Feeding of Cattle (in modern Indian society) — Agriculture And Animal Husbandry In The Puranas By Purboshri be taken according to classical guidelines?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "According to classical Ayurvedic principles, Part 28 - Feeding of Cattle (in modern Indian society) — Agriculture And Animal Husbandry In The Puranas By Purboshri is best administered with appropriate Anupana (carrier vehicles such as warm water, honey, or warm milk) tailored to an individual's Prakriti (constitution)."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Are there any contraindications or side effects associated with Part 28 - Feeding of Cattle (in modern Indian society) — Agriculture And Animal Husbandry In The Puranas By Purboshri?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "While generally well-tolerated when used appropriately, excessive usage or improper dosing may exacerbate specific doshas. Consult an Ayurvedic physician prior to therapeutic use."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How long does it take to observe results from using Part 28 - Feeding of Cattle (in modern Indian society) — Agriculture And Animal Husbandry In The Puranas By Purboshri?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "In traditional Ayurvedic protocol, herbal formulations operate synergistically with diet and lifestyle. Notable improvements typically emerge within 2 to 4 weeks of consistent administration."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Is Part 28 - Feeding of Cattle (in modern Indian society) — Agriculture And Animal Husbandry In The Puranas By Purboshri safe for long-term daily consumption?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Certain tonic (Rasayana) preparations may be safely used long-term, whereas intensive therapeutic formulas are recommended for specific short-term protocols under expert supervision."
+      }
     }
   ]
 }

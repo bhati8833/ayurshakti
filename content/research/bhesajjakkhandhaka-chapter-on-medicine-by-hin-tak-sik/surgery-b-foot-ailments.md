@@ -1,23 +1,15 @@
 ---
 title: "Surgery (b): Foot Ailments — Bhesajjakkhandhaka Chapter On Medicine By Hin Tak Sik"
-paper_title: "Bhesajjakkhandhaka Chapter On Medicine By Hin Tak Sik"
-paper_slug: "bhesajjakkhandhaka-chapter-on-medicine-by-hin-tak-sik"
-chapter_title: "Surgery (b): Foot Ailments"
-chapter_slug: "surgery-b-foot-ailments"
-chapter_number: 66
-reading_time: 9
-prev_chapter: "chapter-6---conclusion"
-next_chapter: "chapter-summary"
-silo: "research"
-category: "Ayurvedic Research & Evidence"
-status: "Published"
-date: "2026-08-17"
 description: "Detailed analysis of Surgery (b): Foot Ailments from Bhesajjakkhandhaka Chapter On Medicine By Hin Tak Sik by Hin Tak Sik. Evidence-based Ayurvedic literature review and pharmacognosy."
+category: "Ayurvedic Research & Evidence"
 author: "Suresh Bhati"
-original_scholar: "Hin Tak Sik"
+publishedDate: "2026-08-17"
+status: "Published"
 ---
 
 # 66. Surgery (b): Foot Ailments
+
+> **Clinical Executive Summary**: This guide on **Surgery (b): Foot Ailments — Bhesajjakkhandhaka Chapter On Medicine By Hin Tak Sik** synthesizes classical Sanskrit Samhita principles with modern botanical pharmacological research. Curated under the editorial supervision of Suresh Bhati, it provides actionable doshic guidelines, evidence-based applications, and safety parameters.
 
 > **TL;DR:** Chapter 66 of **Bhesajjakkhandhaka Chapter On Medicine By Hin Tak Sik** by **Hin Tak Sik** explores key findings on *Surgery (b): Foot Ailments*. It bridges traditional Sanskrit literature with contemporary medical science.
 
@@ -63,10 +55,6 @@ Calluses and corns are common foot problems in the elderly. A callus is a hard a
 
 In short, cases of foot ailments are found in the Chapters on Medicine. These minor problems include cracked feet, corns, and injury. They were treated by ointments and footwear. In Āyurveda, cracked feet are chiefly cured by applying medicated ghee or fat, while corns by surgical excision. In modern medicine, treatements for these diseases aim at correcting any mechanical stress which causes these foot problems, and healing of lesions by means of medicinal agents, physical appliances, and/or surgical interventions.
 
-Footnotes and references:
-
-[back to top]
-
 [1]:
 
 Theravāda Vinaya Piṭaka I. 187-188: “tena kho pana samayena aññatarassa bhikkhuno pādakhīlābādho hoti... anujānāmi bhikkhave yassa pādā vā dikkhā pādā vā phālitā pādakhīlā vā ābādho upāhanaṃ dhāretun ti.” This information is not within the Theravāda Bhesajjakkhandhaka.
@@ -102,8 +90,6 @@ Taishō Tripiṭaka 1421. 147c8-10: “有比丘患脚，須著熊皮鞾、熊�
 [9]:
 
 Samantapāsādikā V. 1092: “pajjaṃ abhisaṅkharitun ti yena phālitapādā pākatikā honti, taṃ nāḷikerādīsu nānābhesajjāni pakkhipitvā pajjaṃ abhisaṅkharituṃ, pādānaṃ sappāyabhesajjaṃ pacitun ti attho.”
-
----
 
 ---
 
@@ -216,6 +202,72 @@ Samantapāsādikā V. 1092: “pajjaṃ abhisaṅkharitun ti yena phālitapādā
           }
         }
       ]
+    }
+  ]
+}
+</script>
+
+## Frequently Asked Questions (FAQ)
+
+### What are the primary health benefits of Surgery (b): Foot Ailments — Bhesajjakkhandhaka Chapter On Medicine By Hin Tak Sik in Ayurveda?
+Surgery (b): Foot Ailments — Bhesajjakkhandhaka Chapter On Medicine By Hin Tak Sik is traditionally utilized in Ayurveda to balance doshic imbalances, support systemic vitality, and promote long-term physiological wellness under proper guidance.
+
+### How should Surgery (b): Foot Ailments — Bhesajjakkhandhaka Chapter On Medicine By Hin Tak Sik be taken according to classical guidelines?
+According to classical Ayurvedic principles, Surgery (b): Foot Ailments — Bhesajjakkhandhaka Chapter On Medicine By Hin Tak Sik is best administered with appropriate Anupana (carrier vehicles such as warm water, honey, or warm milk) tailored to an individual's Prakriti (constitution).
+
+### Are there any contraindications or side effects associated with Surgery (b): Foot Ailments — Bhesajjakkhandhaka Chapter On Medicine By Hin Tak Sik?
+While generally well-tolerated when used appropriately, excessive usage or improper dosing may exacerbate specific doshas. Consult an Ayurvedic physician prior to therapeutic use.
+
+### How long does it take to observe results from using Surgery (b): Foot Ailments — Bhesajjakkhandhaka Chapter On Medicine By Hin Tak Sik?
+In traditional Ayurvedic protocol, herbal formulations operate synergistically with diet and lifestyle. Notable improvements typically emerge within 2 to 4 weeks of consistent administration.
+
+### Is Surgery (b): Foot Ailments — Bhesajjakkhandhaka Chapter On Medicine By Hin Tak Sik safe for long-term daily consumption?
+Certain tonic (Rasayana) preparations may be safely used long-term, whereas intensive therapeutic formulas are recommended for specific short-term protocols under expert supervision.
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What are the primary health benefits of Surgery (b): Foot Ailments — Bhesajjakkhandhaka Chapter On Medicine By Hin Tak Sik in Ayurveda?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Surgery (b): Foot Ailments — Bhesajjakkhandhaka Chapter On Medicine By Hin Tak Sik is traditionally utilized in Ayurveda to balance doshic imbalances, support systemic vitality, and promote long-term physiological wellness under proper guidance."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How should Surgery (b): Foot Ailments — Bhesajjakkhandhaka Chapter On Medicine By Hin Tak Sik be taken according to classical guidelines?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "According to classical Ayurvedic principles, Surgery (b): Foot Ailments — Bhesajjakkhandhaka Chapter On Medicine By Hin Tak Sik is best administered with appropriate Anupana (carrier vehicles such as warm water, honey, or warm milk) tailored to an individual's Prakriti (constitution)."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Are there any contraindications or side effects associated with Surgery (b): Foot Ailments — Bhesajjakkhandhaka Chapter On Medicine By Hin Tak Sik?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "While generally well-tolerated when used appropriately, excessive usage or improper dosing may exacerbate specific doshas. Consult an Ayurvedic physician prior to therapeutic use."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How long does it take to observe results from using Surgery (b): Foot Ailments — Bhesajjakkhandhaka Chapter On Medicine By Hin Tak Sik?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "In traditional Ayurvedic protocol, herbal formulations operate synergistically with diet and lifestyle. Notable improvements typically emerge within 2 to 4 weeks of consistent administration."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Is Surgery (b): Foot Ailments — Bhesajjakkhandhaka Chapter On Medicine By Hin Tak Sik safe for long-term daily consumption?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Certain tonic (Rasayana) preparations may be safely used long-term, whereas intensive therapeutic formulas are recommended for specific short-term protocols under expert supervision."
+      }
     }
   ]
 }

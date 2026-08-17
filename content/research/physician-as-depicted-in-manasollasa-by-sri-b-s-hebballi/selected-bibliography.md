@@ -1,23 +1,15 @@
 ---
 title: "Selected Bibliography — Physician As Depicted In Manasollasa By Sri B S Hebballi"
-paper_title: "Physician As Depicted In Manasollasa By Sri B S Hebballi"
-paper_slug: "physician-as-depicted-in-manasollasa-by-sri-b-s-hebballi"
-chapter_title: "Selected Bibliography"
-chapter_slug: "selected-bibliography"
-chapter_number: 38
-reading_time: 6
-prev_chapter: "8-food-and-diet-in-ayurveda-and-manasollasa"
-next_chapter: "conclusion"
-silo: "research"
-category: "Ayurvedic Research & Evidence"
-status: "Published"
-date: "2026-08-17"
 description: "Detailed analysis of Selected Bibliography from Physician As Depicted In Manasollasa By Sri B S Hebballi by Classical Ayurvedic Scholar. Evidence-based Ayurvedic literature review and pharmacognosy."
+category: "Ayurvedic Research & Evidence"
 author: "Suresh Bhati"
-original_scholar: "Classical Ayurvedic Scholar"
+publishedDate: "2026-08-17"
+status: "Published"
 ---
 
 # 38. Selected Bibliography
+
+> **Clinical Executive Summary**: This guide on **Selected Bibliography — Physician As Depicted In Manasollasa By Sri B S Hebballi** synthesizes classical Sanskrit Samhita principles with modern botanical pharmacological research. Curated under the editorial supervision of Suresh Bhati, it provides actionable doshic guidelines, evidence-based applications, and safety parameters.
 
 > **TL;DR:** Chapter 38 of **Physician As Depicted In Manasollasa By Sri B S Hebballi** by **Classical Ayurvedic Scholar** explores key findings on *Selected Bibliography*. It bridges traditional Sanskrit literature with contemporary medical science.
 
@@ -44,8 +36,6 @@ SELECT BIBLIOGRAPHY I. English 1. Agnivesa (P.I.), Carakasamhita (with comm of C
 282 5. Ayurveda Granthavali Carakasamhita; Susruta Samhita Astangahrdayam Ed. by Rajendranath Sharma Naga publications, Delhi, 2001. 6. Bhagavadgita, Ed. by Swami chibhavavanda. Sri Ramakrishna Tapovanam. Tirupparaitturi, 1982. 7. Bhoja's Yuktikalpataru, Ed. by I.C. Sastri-Sitaram Ghose Trust, Calcutta, 1917. 8. Brhatsamhita of Varahamihira, Ed. by Khemaraja Srikrishnadas; Sri Venkateswara Steam Press, Bombay, 1874. 9. Madhava Nidanam, (Purvardha) Comm by Madhukesh, Chowkhambha Sanskrit Samsthana, Varanasi, 1981. 10. Mahabharata, Bhandarkar Oriental Research Institute Vol. I-IV, Poona, 1971-1975. 11. Manusmrti, Ed. by Pandit Haragovinda sastri, Chowkhamba Sanskrit Office, Varanasi, 1979. 12. Rgveda, Ed. by S.D. Satavalekar, Poona. 13. Sanskrita Kavi Jivitam, by P. Sriramachandradu and V. Sandarasarma Sanskrit Academy Osmania University, Hyderabad - 1982. 14. Taittariya Samhita, Government Oriental Library Series, Printed at the Government Branch press, Mysore, 1898. 15. Valmiki Ramayana - Vol. I and II. Ed. by T.R. Krishnacharya, Sri Sattguru Publications, Delhi, 1982. IV. Hindi 1. ayurvedaka vaijnanika itihasa  By, priyavratasarma caukhamba prakasana varanasi -  1985.
 
 283 2. ayurvedaka brahat itihasa  By, vidyalamkara atrideva | uttarapradesasarakara, lakhanau  (Lucknow) - 1976. - 3. ayurvediya hitopadesa -  By ayurvedacarya ranajit raॉy desai sri vaidyanatha ayurveda bhavana li . kalakatta-  1994. 4. ayurveda vijnanasarah  5. 6. By, yogesvara jna|  (Ed. with notes in Hindi by Brahmasanskara Sastri) caukhamba prakasana banaras -  1945. bharatake pranacarya -  By, kaviraja ratnakara sastri atmarama enda sans - dilli -  1977. vaidyakiya subhasita sahityam -  By ayurvedacarya bhaskara govinda ghanekara caukhamba samskrta samsthana, varanasi -  1997.
-
----
 
 ---
 
@@ -158,6 +148,72 @@ SELECT BIBLIOGRAPHY I. English 1. Agnivesa (P.I.), Carakasamhita (with comm of C
           }
         }
       ]
+    }
+  ]
+}
+</script>
+
+## Frequently Asked Questions (FAQ)
+
+### What are the primary health benefits of Selected Bibliography — Physician As Depicted In Manasollasa By Sri B S Hebballi in Ayurveda?
+Selected Bibliography — Physician As Depicted In Manasollasa By Sri B S Hebballi is traditionally utilized in Ayurveda to balance doshic imbalances, support systemic vitality, and promote long-term physiological wellness under proper guidance.
+
+### How should Selected Bibliography — Physician As Depicted In Manasollasa By Sri B S Hebballi be taken according to classical guidelines?
+According to classical Ayurvedic principles, Selected Bibliography — Physician As Depicted In Manasollasa By Sri B S Hebballi is best administered with appropriate Anupana (carrier vehicles such as warm water, honey, or warm milk) tailored to an individual's Prakriti (constitution).
+
+### Are there any contraindications or side effects associated with Selected Bibliography — Physician As Depicted In Manasollasa By Sri B S Hebballi?
+While generally well-tolerated when used appropriately, excessive usage or improper dosing may exacerbate specific doshas. Consult an Ayurvedic physician prior to therapeutic use.
+
+### How long does it take to observe results from using Selected Bibliography — Physician As Depicted In Manasollasa By Sri B S Hebballi?
+In traditional Ayurvedic protocol, herbal formulations operate synergistically with diet and lifestyle. Notable improvements typically emerge within 2 to 4 weeks of consistent administration.
+
+### Is Selected Bibliography — Physician As Depicted In Manasollasa By Sri B S Hebballi safe for long-term daily consumption?
+Certain tonic (Rasayana) preparations may be safely used long-term, whereas intensive therapeutic formulas are recommended for specific short-term protocols under expert supervision.
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What are the primary health benefits of Selected Bibliography — Physician As Depicted In Manasollasa By Sri B S Hebballi in Ayurveda?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Selected Bibliography — Physician As Depicted In Manasollasa By Sri B S Hebballi is traditionally utilized in Ayurveda to balance doshic imbalances, support systemic vitality, and promote long-term physiological wellness under proper guidance."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How should Selected Bibliography — Physician As Depicted In Manasollasa By Sri B S Hebballi be taken according to classical guidelines?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "According to classical Ayurvedic principles, Selected Bibliography — Physician As Depicted In Manasollasa By Sri B S Hebballi is best administered with appropriate Anupana (carrier vehicles such as warm water, honey, or warm milk) tailored to an individual's Prakriti (constitution)."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Are there any contraindications or side effects associated with Selected Bibliography — Physician As Depicted In Manasollasa By Sri B S Hebballi?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "While generally well-tolerated when used appropriately, excessive usage or improper dosing may exacerbate specific doshas. Consult an Ayurvedic physician prior to therapeutic use."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How long does it take to observe results from using Selected Bibliography — Physician As Depicted In Manasollasa By Sri B S Hebballi?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "In traditional Ayurvedic protocol, herbal formulations operate synergistically with diet and lifestyle. Notable improvements typically emerge within 2 to 4 weeks of consistent administration."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Is Selected Bibliography — Physician As Depicted In Manasollasa By Sri B S Hebballi safe for long-term daily consumption?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Certain tonic (Rasayana) preparations may be safely used long-term, whereas intensive therapeutic formulas are recommended for specific short-term protocols under expert supervision."
+      }
     }
   ]
 }

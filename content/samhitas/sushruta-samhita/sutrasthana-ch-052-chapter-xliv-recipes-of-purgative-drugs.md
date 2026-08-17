@@ -20,15 +20,9 @@ This chapter from **Sushruta Samhita (Sutrasthana)** represents the classical su
 
 ---
 
-
 Sushruta Samhita, volume 1: Sutrasthana
 
-by Kaviraj Kunja Lal Bhishagratna | 1907 | 148,756 words
-
 This current book, the Sutra-sthana (english translation), is the first part of this voluminous medical work. It contains a large summary of the knowledge envelopig the medical aspects of Ayurveda. Descriptions of diseases, various diets and drugs, the duties of a surgeon, surgical procedures, medical training; these are only some of the numerous s...
-
-Go directly to: 
-Footnotes.
 
 Chapter XLIV - Recipes of purgative drugs
 
@@ -126,10 +120,6 @@ The use and preparation of purgative remedies concocted with roots, barks and mi
 A compound consisting of three Shana weights (one tola and a half) of powdered Trivrit, three Shana weights of powdered Triphala pulp, and three Shana weights of powdered Vidanga, Pippali and Yavakshara, mixed and pounded together, should be licked with honey and clarified butter, or they should be made into a confection with treacle for purgative purposes. The medicine does not entail any strict regimen of diet and conduct. It is one of the most effective remedies (of our pharmacopoeia) and proves curative in Gulmas, enlargement of the spleen, cough,. Halimaka (chlorosis), non-relish for food and in diseases due to the action of the deranged Kapha and Vayu. A wise and intelligent physician should administer purgative medicines through the vehicles of clarified butter, oil, milk, Madya (wine) cow’s urine, meat essence, or through the expressed juice of drugs, or through articles of food, or in forms of electuary. The six kinds of purgatives are the milky exudations, expressed juices, pastes, decoctions, cold infusions and powders of medicinal drugs or herbs, and each of these preceding factors should be deemed stronger than the one immediately following it in the order of enumeration.
 
 Thus ends the forty-fourth Chapter of the Sutrasthana in the Sushruta Samhita, which treats of the choice of purgatives.
-
-Footnotes and references:
-
-[back to top]
 
 [1]:
 

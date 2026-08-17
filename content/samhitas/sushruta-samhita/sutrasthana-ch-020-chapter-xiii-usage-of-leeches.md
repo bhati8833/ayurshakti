@@ -20,15 +20,9 @@ This chapter from **Sushruta Samhita (Sutrasthana)** represents the classical su
 
 ---
 
-
 Sushruta Samhita, volume 1: Sutrasthana
 
-by Kaviraj Kunja Lal Bhishagratna | 1907 | 148,756 words
-
 This current book, the Sutra-sthana (english translation), is the first part of this voluminous medical work. It contains a large summary of the knowledge envelopig the medical aspects of Ayurveda. Descriptions of diseases, various diets and drugs, the duties of a surgeon, surgical procedures, medical training; these are only some of the numerous s...
-
-Go directly to: 
-Footnotes.
 
 Chapter XIII - Usage of leeches
 
@@ -79,10 +73,6 @@ Authoritative verse on the subject:—
 The physician who is fully conversant with the habitat, mode of catching, preservation and application of leeches, can well aspire to cure the diseases which yield to them or in which their use is indicated.
 
 Thus ends the thirteenth Chapter of the Sutrasthana in the Sushruta Samhita which treats of Leeches and of how and which to use.
-
-Footnotes and references:
-
-[back to top]
 
 [1]:
 

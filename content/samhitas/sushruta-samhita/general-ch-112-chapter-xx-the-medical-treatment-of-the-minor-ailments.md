@@ -20,17 +20,11 @@ This chapter from **Sushruta Samhita (Chikitsasthana)** represents the classical
 
 ---
 
-
 Sushruta Samhita, volume 4: Cikitsasthana
-
-by Kaviraj Kunja Lal Bhishagratna | 1911 | 123,229 words
 
 This current book, the Chikitsa-sthana (english translation), deals with therapeutics, surgical emergencies, geriatrics, aphrodisiacs and various other subjects.
 
 The Sushruta Samhita is the most representative work of the Hindu system of medicine. It embraces all that can possibly appertain to the science of medicine. Susruta-samhita is recognized...
-
-Go directly to: 
-Footnotes.
 
 Chapter XX - The medical treatment of the minor ailments
 
@@ -113,10 +107,6 @@ Treatment of Guda-Bhramsha:—
 In a case of Guda-Bhramsha, the protruded part should be fomented and lubricated with Sneha.[12] It should then be gently re-introduced. The region of the anus should then be bandaged with apiece of hide in the manner of a Gophana Bandha, with an opening in it (lying immediately below the anus), so that it may not in any way interfere with the emission of Vayu. The affected part should then be constantly fomented. A quantity of milk, Maha-panca-mula and the body (flesh) of a mouse, bereft of its entrails should be first boiled together (with water). An oil cooked with the milk thus prepared (with water) and the Vayu-subduing drugs should be administered as drink and unguents. By these measures the most difficult cases of prolapsus ani would be cured. 31-32.
 
 Thus ends the twentieth Chapter of the Chikitsita Sthana in the Sushruta Samhita which deals with the treatment of minor ailments.
-
-Footnotes and references:
-
-[back to top]
 
 [1]:
 

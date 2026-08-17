@@ -20,17 +20,11 @@ This chapter from **Sushruta Samhita (Nidanasthana)** represents the classical s
 
 ---
 
-
 Sushruta Samhita, volume 2: Nidanasthana
-
-by Kaviraj Kunja Lal Bhishagratna | 1911 | 37,609 words
 
 This current book, the Nidana-sthana (english translation), is the second part of this voluminous medical work. It deals with diseases: their prognosis, their cause, their symptoms and their pathogenesis (development of the disease).
 
 The Sushruta Samhita is the most representative work of the Hindu system of medicine. It embraces all that can poss...
-
-Go directly to: 
-Footnotes.
 
 Chapter XIII - Diagnosis of minor diseases
 
@@ -233,10 +227,6 @@ Vrishana-kaccu:—When the filthy matter, deposited in the scrotal integuments o
 Guda-Bhransha:—A prolapse or falling out of the anus (due to the Vayu) in a weak and lean patient through straining, urging or flow of stool as in dysentery is called Guda-Bhransha or prolapsus ani. 42—45.
 
 Thus ends the thirteenth Chapter of the Nidana Sthana in the Sushruta Samhita which treats of the Nidana of minor ailments.
-
-Footnotes and references:
-
-[back to top]
 
 [1]:
 

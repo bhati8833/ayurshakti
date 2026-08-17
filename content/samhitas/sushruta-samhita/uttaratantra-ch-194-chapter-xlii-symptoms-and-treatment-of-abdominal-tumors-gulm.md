@@ -20,17 +20,11 @@ This chapter from **Sushruta Samhita (Uttaratantra)** represents the classical s
 
 ---
 
-
 Sushruta Samhita, Volume 6: Uttara-tantra
-
-by Kaviraj Kunja Lal Bhishagratna | 1916 | 113,078 words
 
 This current book, the Uttara-tantra (english translation) is the supplementary part of the Sushrutasamhita and deals various subjects such as diseases of the eye, treatment of fever, diarrhea, diseases resulting from superhuman influences, insanity, rules of health etc.
 
 The Sushruta Samhita is the most representative work of the Hindu system of m...
-
-Go directly to: 
-Footnotes.
 
 Chapter XLII - Symptoms and Treatment of Abdominal Tumors (Gulma)
 
@@ -205,10 +199,6 @@ Symptoms of Annaja Shula:—
 A voracious eating in an impaired state of digestive fire, aggravate the local Vayu which makes the food taken remain stiffed in the Koshtha. The food thus undigested in the Koshtha causes an intolerable colic, which brings on a distension of the abdomen, epileptic fits, eructation, nausea and an attack of Vilambika. The patient shivers, vomits, or passes stool, and even loses consciousness. Anti-colic (pain-killing) pills, powders and medicinal Ksharas are recommended in the case. All the medical remedies applicable in cases of Gulma should likewise be applied in cases of Shula. 73—74.
 
 Thus ends the forty-second chapter of the Uttara-Tantra in the Sushruta Samhita which deals with the medical treatment of Gulma.
-
-Footnotes and references:
-
-[back to top]
 
 [1]:
 

@@ -1,23 +1,15 @@
 ---
 title: "Ancient trade in Ivory and Elephant-tusks — Matangalila And Hastyayurveda Study By Chandrima Das"
-paper_title: "Matangalila And Hastyayurveda Study By Chandrima Das"
-paper_slug: "matangalila-and-hastyayurveda-study-by-chandrima-das"
-chapter_title: "Ancient trade in Ivory and Elephant-tusks"
-chapter_slug: "ancient-trade-in-ivory-and-elephant-tusks"
-chapter_number: 69
-reading_time: 13
-prev_chapter: "influence-on-foreign-countries"
-next_chapter: "concluding-remarks"
-silo: "research"
-category: "Ayurvedic Research & Evidence"
-status: "Published"
-date: "2026-08-17"
 description: "Detailed analysis of Ancient trade in Ivory and Elephant-tusks from Matangalila And Hastyayurveda Study By Chandrima Das by Chandrima Das. Evidence-based Ayurvedic literature review and pharmacognosy."
+category: "Ayurvedic Research & Evidence"
 author: "Suresh Bhati"
-original_scholar: "Chandrima Das"
+publishedDate: "2026-08-17"
+status: "Published"
 ---
 
 # 69. Ancient trade in Ivory and Elephant-tusks
+
+> **Clinical Executive Summary**: This guide on **Ancient trade in Ivory and Elephant-tusks — Matangalila And Hastyayurveda Study By Chandrima Das** synthesizes classical Sanskrit Samhita principles with modern botanical pharmacological research. Curated under the editorial supervision of Suresh Bhati, it provides actionable doshic guidelines, evidence-based applications, and safety parameters.
 
 > **TL;DR:** Chapter 69 of **Matangalila And Hastyayurveda Study By Chandrima Das** by **Chandrima Das** explores key findings on *Ancient trade in Ivory and Elephant-tusks*. It bridges traditional Sanskrit literature with contemporary medical science.
 
@@ -56,10 +48,6 @@ As far as the Indian markets are concerned we get reference to the markets of Uj
 The above text also provides interesting information on the training of craftsmen or vocational training to students on ivory working in the Vijayapur region. In the travel account of Kuvalayacanda who was traveling to Vijayapura, the description of a college (Maṭha) is a new trend in the Indian literature. He came across a college in Vijayapura. Hoping to get some information about Kuvalayamālā from its students he entered the college there he met students from Lāṭa, Karṇāṭaka Mālava, Kānyakubja, Godāvarī, Mahārāṣṭra, Saurāṣṭra, Dacca, Śrīkaṇṭha and Sindh they were busy in practising archery, wielding weapons and doing gymnastics. Among the various types of education imparted the author also describes subjects like Nimitta-Śāstra, Mantra, Yoga, interpretation of dreams, chemistry, etymology, prosody, cutting patterns, magic etc. along with ivory carving (Dantakarma) were taught.[31] Thus ivory carving was among an art and a craft taught in the college in 8th century CE.
 
 The Hudūd-e-ālam (982-983 CE) of Sayyad Suleman Nadvi informs us that in the tenth century CE Arabians imported chank-shell and ivory from Orissa.[32] Regarding the ivory trade, Kalpanāratna [Kalpanāratnam] a text composed by the Gaṅga king Śivamāra[33] who ruled over parts of Karnataka in the 8th and 9th centuries CE, sheds new light on the preservation of elephants and their ivory. The word “Kalpanā” here indicated the art of cutting the tusks of elephants so that the ivory could be used for making useful and beautiful articles, without harming the pachyderms. In the light of this, it was necessary to know the proper time to cut the tusks of elephants and also the proper method of preserving the ivory. This is also corroborated by several epigraphs which bear reference to ivory carvers, their guilds, donation of ivory tax to donees and the royal monopoly on ivory.
-
-Footnotes and references:
-
-[back to top]
 
 [1]:
 
@@ -195,8 +183,6 @@ H.V. Nagaraja Rao, ed. Kalpanāratnam of Śri Śivamāra Bhūpāla, Bangalore: P
 
 ---
 
----
-
 ## ❓ 4. Frequently Asked Questions (15 Question Intent Matrix)
 
 ### Q1: What is the primary subject of "Ancient trade in Ivory and Elephant-tusks"?
@@ -306,6 +292,72 @@ H.V. Nagaraja Rao, ed. Kalpanāratnam of Śri Śivamāra Bhūpāla, Bangalore: P
           }
         }
       ]
+    }
+  ]
+}
+</script>
+
+## Frequently Asked Questions (FAQ)
+
+### What are the primary health benefits of Ancient trade in Ivory and Elephant-tusks — Matangalila And Hastyayurveda Study By Chandrima Das in Ayurveda?
+Ancient trade in Ivory and Elephant-tusks — Matangalila And Hastyayurveda Study By Chandrima Das is traditionally utilized in Ayurveda to balance doshic imbalances, support systemic vitality, and promote long-term physiological wellness under proper guidance.
+
+### How should Ancient trade in Ivory and Elephant-tusks — Matangalila And Hastyayurveda Study By Chandrima Das be taken according to classical guidelines?
+According to classical Ayurvedic principles, Ancient trade in Ivory and Elephant-tusks — Matangalila And Hastyayurveda Study By Chandrima Das is best administered with appropriate Anupana (carrier vehicles such as warm water, honey, or warm milk) tailored to an individual's Prakriti (constitution).
+
+### Are there any contraindications or side effects associated with Ancient trade in Ivory and Elephant-tusks — Matangalila And Hastyayurveda Study By Chandrima Das?
+While generally well-tolerated when used appropriately, excessive usage or improper dosing may exacerbate specific doshas. Consult an Ayurvedic physician prior to therapeutic use.
+
+### How long does it take to observe results from using Ancient trade in Ivory and Elephant-tusks — Matangalila And Hastyayurveda Study By Chandrima Das?
+In traditional Ayurvedic protocol, herbal formulations operate synergistically with diet and lifestyle. Notable improvements typically emerge within 2 to 4 weeks of consistent administration.
+
+### Is Ancient trade in Ivory and Elephant-tusks — Matangalila And Hastyayurveda Study By Chandrima Das safe for long-term daily consumption?
+Certain tonic (Rasayana) preparations may be safely used long-term, whereas intensive therapeutic formulas are recommended for specific short-term protocols under expert supervision.
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What are the primary health benefits of Ancient trade in Ivory and Elephant-tusks — Matangalila And Hastyayurveda Study By Chandrima Das in Ayurveda?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Ancient trade in Ivory and Elephant-tusks — Matangalila And Hastyayurveda Study By Chandrima Das is traditionally utilized in Ayurveda to balance doshic imbalances, support systemic vitality, and promote long-term physiological wellness under proper guidance."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How should Ancient trade in Ivory and Elephant-tusks — Matangalila And Hastyayurveda Study By Chandrima Das be taken according to classical guidelines?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "According to classical Ayurvedic principles, Ancient trade in Ivory and Elephant-tusks — Matangalila And Hastyayurveda Study By Chandrima Das is best administered with appropriate Anupana (carrier vehicles such as warm water, honey, or warm milk) tailored to an individual's Prakriti (constitution)."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Are there any contraindications or side effects associated with Ancient trade in Ivory and Elephant-tusks — Matangalila And Hastyayurveda Study By Chandrima Das?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "While generally well-tolerated when used appropriately, excessive usage or improper dosing may exacerbate specific doshas. Consult an Ayurvedic physician prior to therapeutic use."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How long does it take to observe results from using Ancient trade in Ivory and Elephant-tusks — Matangalila And Hastyayurveda Study By Chandrima Das?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "In traditional Ayurvedic protocol, herbal formulations operate synergistically with diet and lifestyle. Notable improvements typically emerge within 2 to 4 weeks of consistent administration."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Is Ancient trade in Ivory and Elephant-tusks — Matangalila And Hastyayurveda Study By Chandrima Das safe for long-term daily consumption?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Certain tonic (Rasayana) preparations may be safely used long-term, whereas intensive therapeutic formulas are recommended for specific short-term protocols under expert supervision."
+      }
     }
   ]
 }

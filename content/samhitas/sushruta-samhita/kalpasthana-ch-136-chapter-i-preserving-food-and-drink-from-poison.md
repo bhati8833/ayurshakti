@@ -20,17 +20,11 @@ This chapter from **Sushruta Samhita (Kalpasthana)** represents the classical su
 
 ---
 
-
 Sushruta Samhita, Volume 5: Kalpasthana
-
-by Kaviraj Kunja Lal Bhishagratna | 1911 | 24,963 words
 
 This current book, the Kalpa-sthana (english translation), deals with the nature of poisons, the management of poisons, toxicology and various other subjects.
 
 The Sushruta Samhita is the most representative work of the Hindu system of medicine. It embraces all that can possibly appertain to the science of medicine. Susruta-samhita is recognized as...
-
-Go directly to: 
-Footnotes.
 
 Chapter I - Preserving food and drink from poison
 
@@ -105,10 +99,6 @@ The flesh of a Godha, mungoose, or deer should be cooked and spiced with pasted 
 and clarified butter should, similarly, be deemed beneficial (as being possessed of similar antitoxic properties). An intelligent king should always use food and drink of poison-destroying properties. In a case of imbibed poison, the heart should be protected (with a covering of anti-poisonous drugs) and the patient should be made to vomit (the contents of his stomach) with a potion composed of sugar, Pippali, Yashti-madhu, honey and the expressed juice of sugar-cane dissolved in water. 35-36.
 
 Thus ends the first Chapter of the Kalpa-sthana in the Sushruta Samhita which deals with the mode of protecting food and drink (from the effect of poison).
-
-Footnotes and references:
-
-[back to top]
 
 [1]:
 

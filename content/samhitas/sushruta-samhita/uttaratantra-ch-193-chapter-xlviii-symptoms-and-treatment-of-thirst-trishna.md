@@ -20,17 +20,11 @@ This chapter from **Sushruta Samhita (Uttaratantra)** represents the classical s
 
 ---
 
-
 Sushruta Samhita, Volume 6: Uttara-tantra
-
-by Kaviraj Kunja Lal Bhishagratna | 1916 | 113,078 words
 
 This current book, the Uttara-tantra (english translation) is the supplementary part of the Sushrutasamhita and deals various subjects such as diseases of the eye, treatment of fever, diarrhea, diseases resulting from superhuman influences, insanity, rules of health etc.
 
 The Sushruta Samhita is the most representative work of the Hindu system of m...
-
-Go directly to: 
-Footnotes.
 
 Chapter XLVIII - Symptoms and Treatment of thirst (Trishna)
 
@@ -87,10 +81,6 @@ General Treatment:—
 Vomiting should be induced in these cases with the decoction of such drugs as are remedial to the deranged bodily Doshas involved in each case and the digestive (Pacana) remedies as prescribed in cases of fever should also be prescribed in these cases. Use of cooling plasters and of cold baths and spray, residence in cold chambers, exhibition of emetics and purgatives, use of milk, meat-essence, clarified butter and sweet and cooling lambatives would be likewise prescribed in all cases of thirst. 34—35.
 
 Thus ends the forty-eighth chapter of the Uttara-Tantra in the Sushruta Samhita which deals with the (symptoms and) treatment of thirst.
-
-Footnotes and references:
-
-[back to top]
 
 [1]:
 

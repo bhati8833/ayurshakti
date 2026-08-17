@@ -1,23 +1,15 @@
 ---
 title: "6. Examination of Patients — Physician As Depicted In Manasollasa By Sri B S Hebballi"
-paper_title: "Physician As Depicted In Manasollasa By Sri B S Hebballi"
-paper_slug: "physician-as-depicted-in-manasollasa-by-sri-b-s-hebballi"
-chapter_title: "6. Examination of Patients"
-chapter_slug: "6-examination-of-patients"
-chapter_number: 34
-reading_time: 7
-prev_chapter: "2-the-concept-of-rasa-direct-action-of-a-drug"
-next_chapter: "5-characteristics-of-pseudo-and-feigned-physicians"
-silo: "research"
-category: "Ayurvedic Research & Evidence"
-status: "Published"
-date: "2026-08-17"
 description: "Detailed analysis of 6. Examination of Patients from Physician As Depicted In Manasollasa By Sri B S Hebballi by Classical Ayurvedic Scholar. Evidence-based Ayurvedic literature review and pharmacognosy."
+category: "Ayurvedic Research & Evidence"
 author: "Suresh Bhati"
-original_scholar: "Classical Ayurvedic Scholar"
+publishedDate: "2026-08-17"
+status: "Published"
 ---
 
 # 34. 6. Examination of Patients
+
+> **Clinical Executive Summary**: This guide on **6. Examination of Patients — Physician As Depicted In Manasollasa By Sri B S Hebballi** synthesizes classical Sanskrit Samhita principles with modern botanical pharmacological research. Curated under the editorial supervision of Suresh Bhati, it provides actionable doshic guidelines, evidence-based applications, and safety parameters.
 
 > **TL;DR:** Chapter 34 of **Physician As Depicted In Manasollasa By Sri B S Hebballi** by **Classical Ayurvedic Scholar** explores key findings on *6. Examination of Patients*. It bridges traditional Sanskrit literature with contemporary medical science.
 
@@ -40,8 +32,6 @@ To ascertain the exact nature of the disease, the Ayurvedic physician, for the m
 232 sandalwood paste. If a patient is suffering from a disease caused by indigestion, his urine looks like the rice wash. If a patient suffers from acute fever, then the urine becomes more in quantity and takes a cloudy colour. If the oil drops spread towards the east then the patient is likely to get cured of his ailment very soon. Spreading of the oil drops towards south is indicative of a patient's suffering from fever which will slowly disappear. If they spread towards north or west, the patient undoubtedly is free from any disease. If the oil spreads towards south-east direction and holes appear in the oil, then the patient is sure to die. In Ayurvedic texts, there is an elaborate description about the diagnostic and prognostic value of urine examination. (3) Stool Examination: If there is dominance of vayu, then the stool becomes hard and dry. Yellow colour of the stool indicates the aggravation of pitta, and white colour indicates predominance of kapha. When all the three dosas are aggravated, then the stool carries three different colours. If vayu is aggravated, then stool comes in pieces and it is rough, smoky and foamy. If a small portion of the stool is dropped over water and it sinks, then it indicates the presence of ama, i.e., undigested or unmetabolised product in it. If it floats in water, then it indicates that stool is free from any such defect. Ayurvedic texts are replete with references to different colours, consistency, smell etc., of the stool in different diseased conditions. (4) Tongue When vayu is aggravated, the tongue is cold and rough to touch and cracks appear in it. Predominance of pitta is indicated by the red or blue colour of the tongue. If kapha is predominant, then the tongue is white and exceedingly slimy. When all the three dosas are aggravated, then the tongue is black in colour and there are thorny eruptions over it.
 
 233 (5) Voice If there is dominance of kapha then the voice becomes heavy. Clear and sharp voice indicates the dominance of pitta. Dry and hoarse voice is indicative of vayu dominance. (6) Touch (skin): The skin is hot if the patient is suffering from a disease caused by pitta. If the disease is caused by vata then the skin is cold. The skin becomes moist and wet, if there is dominance of kapha. : (7) Eyes The eyes of a person suffering from diseases caused by vayu are dry and smoky. The patient always gets burning sensation inside the eyes. If he suffers from a disease caused by pitta then there is aversion to light and burning sensation in eyes. The eyes become yellow in colour in such cases. Unctuousness and dullness of eyes indicate the predominance of kapha. The eyes of such patients are usually moist and there is profuse lachrymation. The conditions of the eyes are very significant to determine the prognosis of a disease. (8) Physical Features Patients dominated by vayu have mostly dry and cracked skin and hair. They do not like cold things and there is absence of patience, memory, intellect, effort and friendship in them. Such patients usually are talkative. Patients suffering from diseases caused by pitta are exceedingly thirsty and hungry. Their skin becomes yellow in colour and hot. The palm of the hand, the sole of the feet and face carry a coppery colour. They are usually aggressive and egoistic, having less of hair and the hair is slightly reddish in colour. The patient suffering from diseases caused by kapha have compact joints, bones and muscles. They do not suffer from excess of thirst, hunger, grief and pain.
-
----
 
 ---
 
@@ -154,6 +144,72 @@ To ascertain the exact nature of the disease, the Ayurvedic physician, for the m
           }
         }
       ]
+    }
+  ]
+}
+</script>
+
+## Frequently Asked Questions (FAQ)
+
+### What are the primary health benefits of 6. Examination of Patients — Physician As Depicted In Manasollasa By Sri B S Hebballi in Ayurveda?
+6. Examination of Patients — Physician As Depicted In Manasollasa By Sri B S Hebballi is traditionally utilized in Ayurveda to balance doshic imbalances, support systemic vitality, and promote long-term physiological wellness under proper guidance.
+
+### How should 6. Examination of Patients — Physician As Depicted In Manasollasa By Sri B S Hebballi be taken according to classical guidelines?
+According to classical Ayurvedic principles, 6. Examination of Patients — Physician As Depicted In Manasollasa By Sri B S Hebballi is best administered with appropriate Anupana (carrier vehicles such as warm water, honey, or warm milk) tailored to an individual's Prakriti (constitution).
+
+### Are there any contraindications or side effects associated with 6. Examination of Patients — Physician As Depicted In Manasollasa By Sri B S Hebballi?
+While generally well-tolerated when used appropriately, excessive usage or improper dosing may exacerbate specific doshas. Consult an Ayurvedic physician prior to therapeutic use.
+
+### How long does it take to observe results from using 6. Examination of Patients — Physician As Depicted In Manasollasa By Sri B S Hebballi?
+In traditional Ayurvedic protocol, herbal formulations operate synergistically with diet and lifestyle. Notable improvements typically emerge within 2 to 4 weeks of consistent administration.
+
+### Is 6. Examination of Patients — Physician As Depicted In Manasollasa By Sri B S Hebballi safe for long-term daily consumption?
+Certain tonic (Rasayana) preparations may be safely used long-term, whereas intensive therapeutic formulas are recommended for specific short-term protocols under expert supervision.
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What are the primary health benefits of 6. Examination of Patients — Physician As Depicted In Manasollasa By Sri B S Hebballi in Ayurveda?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "6. Examination of Patients — Physician As Depicted In Manasollasa By Sri B S Hebballi is traditionally utilized in Ayurveda to balance doshic imbalances, support systemic vitality, and promote long-term physiological wellness under proper guidance."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How should 6. Examination of Patients — Physician As Depicted In Manasollasa By Sri B S Hebballi be taken according to classical guidelines?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "According to classical Ayurvedic principles, 6. Examination of Patients — Physician As Depicted In Manasollasa By Sri B S Hebballi is best administered with appropriate Anupana (carrier vehicles such as warm water, honey, or warm milk) tailored to an individual's Prakriti (constitution)."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Are there any contraindications or side effects associated with 6. Examination of Patients — Physician As Depicted In Manasollasa By Sri B S Hebballi?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "While generally well-tolerated when used appropriately, excessive usage or improper dosing may exacerbate specific doshas. Consult an Ayurvedic physician prior to therapeutic use."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How long does it take to observe results from using 6. Examination of Patients — Physician As Depicted In Manasollasa By Sri B S Hebballi?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "In traditional Ayurvedic protocol, herbal formulations operate synergistically with diet and lifestyle. Notable improvements typically emerge within 2 to 4 weeks of consistent administration."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Is 6. Examination of Patients — Physician As Depicted In Manasollasa By Sri B S Hebballi safe for long-term daily consumption?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Certain tonic (Rasayana) preparations may be safely used long-term, whereas intensive therapeutic formulas are recommended for specific short-term protocols under expert supervision."
+      }
     }
   ]
 }

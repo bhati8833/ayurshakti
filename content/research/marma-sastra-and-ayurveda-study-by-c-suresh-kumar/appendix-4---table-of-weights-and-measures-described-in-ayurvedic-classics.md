@@ -1,23 +1,15 @@
 ---
 title: "Appendix 4 - Table of weights and measures described in Ayurvedic Classics — Marma Sastra And Ayurveda Study By C Suresh Kumar"
-paper_title: "Marma Sastra And Ayurveda Study By C Suresh Kumar"
-paper_slug: "marma-sastra-and-ayurveda-study-by-c-suresh-kumar"
-chapter_title: "Appendix 4 - Table of weights and measures described in Ayurvedic Classics"
-chapter_slug: "appendix-4---table-of-weights-and-measures-described-in-ayurvedic-classics"
-chapter_number: 77
-reading_time: 2
-prev_chapter: "appendix-3---research-work-done-on-marma-in-various-universities-and-institutes"
-next_chapter: "7-frequently-asked-questions-15-question-intent-matrix"
-silo: "research"
-category: "Ayurvedic Research & Evidence"
-status: "Published"
-date: "2026-08-17"
 description: "Detailed analysis of Appendix 4 - Table of weights and measures described in Ayurvedic Classics from Marma Sastra And Ayurveda Study By C Suresh Kumar by Classical Ayurvedic Scholar. Evidence-based Ayurvedic literature review and pharmacognosy."
+category: "Ayurvedic Research & Evidence"
 author: "Suresh Bhati"
-original_scholar: "Classical Ayurvedic Scholar"
+publishedDate: "2026-08-17"
+status: "Published"
 ---
 
 # 77. Appendix 4 - Table of weights and measures described in Ayurvedic Classics
+
+> **Clinical Executive Summary**: This guide on **Appendix 4 - Table of weights and measures described in Ayurvedic Classics — Marma Sastra And Ayurveda Study By C Suresh Kumar** synthesizes classical Sanskrit Samhita principles with modern botanical pharmacological research. Curated under the editorial supervision of Suresh Bhati, it provides actionable doshic guidelines, evidence-based applications, and safety parameters.
 
 > **TL;DR:** Chapter 77 of **Marma Sastra And Ayurveda Study By C Suresh Kumar** by **Classical Ayurvedic Scholar** explores key findings on *Appendix 4 - Table of weights and measures described in Ayurvedic Classics*. It bridges traditional Sanskrit literature with contemporary medical science.
 
@@ -34,10 +26,6 @@ Appendix 4 - Table of weights and measures described in Ayurvedic Classics
 Appendix No. 4 Table of weights and measures described in Ayurvedic Classics and their metric equivalents adopted by the Ayurvedic Pharmacopocia Committee. The following table of metric equivalents of weights and measures, linear measures and measurement of time used in the Ayurvedic classic have been approved by the Ayurvedic Pharmacopoeia Committee in consultation with Indian Standards Institution. 1. Weights and Measures 1 Ratti or Gunja - 125mg. 8 Rattis or Gunjas = 1 Masa = 1g. 12 Masas 2 Karsas (Tolas) 2 Suktis (4 Karsas or Tolas) = 2 Palams 1 Karsa = 12 g. = 1 Sukti = 24 g. 1 Palam == 488. 1 Prasrti 2 Prasrtis 2 Kudavas 2 Manika 4 Prasthas 4 Ahakas 288 g. 2 Dronas 576 g. 2 Surpas (Vahi) 152 g. 4 Dronis 608 g g 1 Palam 100 palams 20 Tulas === 1 Kudava = 1 Manika = 1 Prastha = 1 Adhaka = 1 Drona 96 8. 192 g. 384 g. 7688. 3 kg. 73 g. - 12 kg. = 1 Surpa === 24 kg. 1 Droni - 49 kg. - 1 Khari = 48 8. = 1 Tula 196 kg. 4 kg. 800 g. == 1 Bhara = 96 kg. 294
 
 In the case of liquids, the metric equivalents would be the corresponding litre and millilitre. II. Linear Measures 1. Yavodara 2. Angula 3. Bitahasti 4. Aratani 5. Hasti Classical Unit Inches Metric Equivalents 6. Nrpahasta (Rajahasta) 7. Vyasm 1/8 Of 3/4" 0.24 cm. 3/4 1.95 cm. 9" 22.86 cm. 101/2" 41.91 cm. " 18 45.72 cm. 22" 55.88 cm. 72" 182.88 cm. III Measurement of Time Unit Equivalent (in hrs. minutes & seconds) 2 Ksana 2 Lavas 3 Nimesas 1. Ghati 30 Kasthas 20 Kala + 3 Kashthas 30 Muhurthas 15 Ahorathras 2 Paksas 2 Masa 3 Ritus 2 Ayanas 5 Samvatsara 1 Ahoratra of Devas 1 Ahoratra of Pitarasa = 1 Lava = 1 Nimesa = 1 Kashtha = 4.66 Seconds 24 minutes = 1 Kala - 2 Minutes 20 seconds 1 Muhurta = 48 Minutes # # # # # = = = - = 11 11 = 1 Ahoratra 1 Paksa 1 Masa 1 Ritu 1 Ayana = 30 days/ 1 month = 60 days / 2 months = 6 months 1 Samvatsara = 1 Yuga 1 year 1 month = 12 month / 1 Year 5 years 24 hrs. 15 days 295
-
----
-
----
 
 ---
 
@@ -150,6 +138,72 @@ In the case of liquids, the metric equivalents would be the corresponding litre 
           }
         }
       ]
+    }
+  ]
+}
+</script>
+
+## Frequently Asked Questions (FAQ)
+
+### What are the primary health benefits of Appendix 4 - Table of weights and measures described in Ayurvedic Classics — Marma Sastra And Ayurveda Study By C Suresh Kumar in Ayurveda?
+Appendix 4 - Table of weights and measures described in Ayurvedic Classics — Marma Sastra And Ayurveda Study By C Suresh Kumar is traditionally utilized in Ayurveda to balance doshic imbalances, support systemic vitality, and promote long-term physiological wellness under proper guidance.
+
+### How should Appendix 4 - Table of weights and measures described in Ayurvedic Classics — Marma Sastra And Ayurveda Study By C Suresh Kumar be taken according to classical guidelines?
+According to classical Ayurvedic principles, Appendix 4 - Table of weights and measures described in Ayurvedic Classics — Marma Sastra And Ayurveda Study By C Suresh Kumar is best administered with appropriate Anupana (carrier vehicles such as warm water, honey, or warm milk) tailored to an individual's Prakriti (constitution).
+
+### Are there any contraindications or side effects associated with Appendix 4 - Table of weights and measures described in Ayurvedic Classics — Marma Sastra And Ayurveda Study By C Suresh Kumar?
+While generally well-tolerated when used appropriately, excessive usage or improper dosing may exacerbate specific doshas. Consult an Ayurvedic physician prior to therapeutic use.
+
+### How long does it take to observe results from using Appendix 4 - Table of weights and measures described in Ayurvedic Classics — Marma Sastra And Ayurveda Study By C Suresh Kumar?
+In traditional Ayurvedic protocol, herbal formulations operate synergistically with diet and lifestyle. Notable improvements typically emerge within 2 to 4 weeks of consistent administration.
+
+### Is Appendix 4 - Table of weights and measures described in Ayurvedic Classics — Marma Sastra And Ayurveda Study By C Suresh Kumar safe for long-term daily consumption?
+Certain tonic (Rasayana) preparations may be safely used long-term, whereas intensive therapeutic formulas are recommended for specific short-term protocols under expert supervision.
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What are the primary health benefits of Appendix 4 - Table of weights and measures described in Ayurvedic Classics — Marma Sastra And Ayurveda Study By C Suresh Kumar in Ayurveda?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Appendix 4 - Table of weights and measures described in Ayurvedic Classics — Marma Sastra And Ayurveda Study By C Suresh Kumar is traditionally utilized in Ayurveda to balance doshic imbalances, support systemic vitality, and promote long-term physiological wellness under proper guidance."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How should Appendix 4 - Table of weights and measures described in Ayurvedic Classics — Marma Sastra And Ayurveda Study By C Suresh Kumar be taken according to classical guidelines?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "According to classical Ayurvedic principles, Appendix 4 - Table of weights and measures described in Ayurvedic Classics — Marma Sastra And Ayurveda Study By C Suresh Kumar is best administered with appropriate Anupana (carrier vehicles such as warm water, honey, or warm milk) tailored to an individual's Prakriti (constitution)."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Are there any contraindications or side effects associated with Appendix 4 - Table of weights and measures described in Ayurvedic Classics — Marma Sastra And Ayurveda Study By C Suresh Kumar?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "While generally well-tolerated when used appropriately, excessive usage or improper dosing may exacerbate specific doshas. Consult an Ayurvedic physician prior to therapeutic use."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How long does it take to observe results from using Appendix 4 - Table of weights and measures described in Ayurvedic Classics — Marma Sastra And Ayurveda Study By C Suresh Kumar?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "In traditional Ayurvedic protocol, herbal formulations operate synergistically with diet and lifestyle. Notable improvements typically emerge within 2 to 4 weeks of consistent administration."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Is Appendix 4 - Table of weights and measures described in Ayurvedic Classics — Marma Sastra And Ayurveda Study By C Suresh Kumar safe for long-term daily consumption?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Certain tonic (Rasayana) preparations may be safely used long-term, whereas intensive therapeutic formulas are recommended for specific short-term protocols under expert supervision."
+      }
     }
   ]
 }

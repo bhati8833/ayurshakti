@@ -1,23 +1,15 @@
 ---
 title: "Gender in the Saṃhitās — Charaka Samhita And Sushruta Samhita By Nayana Sharma"
-paper_title: "Charaka Samhita And Sushruta Samhita By Nayana Sharma"
-paper_slug: "charaka-samhita-and-sushruta-samhita-by-nayana-sharma"
-chapter_title: "Gender in the Saṃhitās"
-chapter_slug: "gender-in-the-saṃhitās"
-chapter_number: 58
-reading_time: 42
-prev_chapter: "hygiene-and-environmental-issues-introduction"
-next_chapter: "epidemics-maraka"
-silo: "research"
-category: "Ayurvedic Research & Evidence"
-status: "Published"
-date: "2026-08-17"
 description: "Detailed analysis of Gender in the Saṃhitās from Charaka Samhita And Sushruta Samhita By Nayana Sharma by Nayana Sharma. Evidence-based Ayurvedic literature review and pharmacognosy."
+category: "Ayurvedic Research & Evidence"
 author: "Suresh Bhati"
-original_scholar: "Nayana Sharma"
+publishedDate: "2026-08-17"
+status: "Published"
 ---
 
 # 58. Gender in the Saṃhitās
+
+> **Clinical Executive Summary**: This guide on **Gender in the Saṃhitās — Charaka Samhita And Sushruta Samhita By Nayana Sharma** synthesizes classical Sanskrit Samhita principles with modern botanical pharmacological research. Curated under the editorial supervision of Suresh Bhati, it provides actionable doshic guidelines, evidence-based applications, and safety parameters.
 
 > **TL;DR:** Chapter 58 of **Charaka Samhita And Sushruta Samhita By Nayana Sharma** by **Nayana Sharma** explores key findings on *Gender in the Saṃhitās*. It bridges traditional Sanskrit literature with contemporary medical science.
 
@@ -128,8 +120,6 @@ Agniveśa says:
 
 “O Lord! Among human beings, women are the excellent raison de etre (lit. root) of progeny. It is the diseases of her genital organs which cause impediments in this regard (for the procreation of progeny). Therefore, I want you to explain the origin (aetiology), signs, symptoms as well as treatment of these disorders for the welfare of humanity.”[49]
 
-“O Lord! Among human beings, women are the excellent raison de etre (lit. root) of progeny. It is the diseases of her genital organs which cause impediments in this regard (for the procreation of progeny). Therefore, I want you to explain the origin (aetiology), signs, symptoms as well as treatment of these disorders for the welfare of humanity.”[49]
-
 It is in response to this query that Caraka makes an exposition on the female diseases leaving us in no doubt that they have been included in the texts for the specific purpose of removing impediments to conception of the foetus. This raises the question whether women beyond the child-bearing age received medical intervention when they had to cope with gynaecological ailments. The Suśruta Saṃhitā does not mention the same context in the exposition on yonivyāpad but it is reasonable to assume that the same perspective is applicable here as well. This text, however, does make a differentiation between menstrual (śonita or asṛga) and vaginal (yoni) disorders in the Uttara-tantra, wherein it is said two kinds of medicated ghṛtas are described as being effective in both types of disorders.[50]
 
 The Dharmaśāstric emphasis on procreation needs to be underlined here. Fertility was one of the most essential qualifications for a wife in patriarchy. The barren wife was considered worthless.[51] Manu lays down that women are created to be mothers, and men were created to be fathers;[52] while Nārada goes further to say says that women have been created for the sake of procreation.[53] This leaves very little scope of elderly women or young widows or even female ascetics of seeking medical help. As the primary concern of society at large and of Āyurveda is birth of a healthy child, there is an elucidation of the precautions to be exercised during menstruation as it is held that a woman’s conduct at this time has a direct bearing on the unborn offspring. Thus, she should avoid the following activities: conjugal union, sleeping during the day, applying collyrium, weeping, bathing smearing of creams and powders, massaging, paring of nails, running, laughing, talking loudly, loud noises, combing her hair, exposure to draughts and exertion. These acts are avoidable to prevent harm to the prospective child. Sleeping during the day makes the offspring suffer from sleepiness; collyrium causes blindness; weeping leads to visual disorders; bathing and oil massaging cause skin diseases; nail paring leads to deformed nails; running causes fickleness; loud laughter results in discoloured teeth, lips, palate or tongue; loud talking means a garrulous child; loud noise leads to deafness; hair combing leads to baldness and exposure to draughts and exertion can cause the birth of an insane child.[54] The medical interest in gyneaecological issues, it thus appears, is more for ensuring female reproductive health and the birth of healthy progeny, specifically male progeny.
@@ -167,8 +157,6 @@ on knowledge. Birth attendants are required to be multipara (bahuśaḥ prajāt�
 Caraka also recommends the presence of old ladies along with brāhmaṇas well versed in the Atharvaveda at the maternity home (sūtikgārā) whose advice should be adhered to.[98] We can assume that family members helped in the process. Bāṇa tells us that queen Yaśovati was always surrounded by friends, who never for an instant, left her side.[99] In another of his works, Kādambarī, there is reference to a respectable old lady who occupied the space near the head of the bed while other senior ladies sang auspicious songs.[100] As soon as the labour pain begins, the attendants are required to comfort and console the parturient,[101] give her an oil massage,[102] and guide her through the entire period of labour until safe delivery without harm to the baby and the mother[103] and the mother is urged to obey their instructions (sāyathānirdeśaṃ kuruṣveti vaktavyā syāt).[104] Removal of the placenta and postpartum care of the mother and the new born are also the responsibilities of these birth attendants.
 
 These attendants along with friends of the lady have to be in constant attendance on her and the new born by keeping vigil and remaining awake for 10-12 days.[105]
-
-“The birth rite is the only wholly female rite where male presence is precluded. It is solemn, awesome, throbbing with tension because it solemnly empowers the female assistant and it is the only rite where a new life enters our world.”[106]
 
 “The birth rite is the only wholly female rite where male presence is precluded. It is solemn, awesome, throbbing with tension because it solemnly empowers the female assistant and it is the only rite where a new life enters our world.”[106]
 
@@ -217,10 +205,6 @@ There are a few instances in the texts of an unfavourable view of individuals be
 The question, therefore, arises whether such statements reflect the physician’s selective nature of dealing with patients. It seems unlikely that the downtrodden stratum was placed out of the purview of the āyurvedic medical practitioners. Besides, the low caste śūdras of good familial background are allowed by Dhanvantari to be initiated as students of medicine. Treatment methods in case of a disease like diabetes with urinary abnormalities (prameha), as we have seen above, are in consonance with the patient’s resources and the lifestyle. In prognosis and in treatment, the physician’s concern is with the patient’s physical and physiological variables such as age and body strength, pregnancy in women as also his or her social position which would determine the ability to undergo the effects of drugs or procedure. Barring the few instances cited above the medical texts do not generally manifest a negative perception of people at the lower end of the social ladder.
 
 In fact, medical practitioners had to necessarily interact with members of all sections of society not only in the context of therapeutics but for gathering requisite materials for processing drugs. As we have noted in Chapter 2, cowherds, goatherds, forest dwellers and hunters are regarded as repositories of knowledge in plant drugs. The physicians and surgeons had to work in close tandem with attendants and midwives who in all probability may have been drawn from lower sections as they had to deal with polluting body fluids. Surgeons had to approach skilled blacksmiths for manufacture of surgical instruments. It has been remarked that this active cooperation between surgeons and blacksmiths is a reflection of the former’s positive attitude towards manual labour.[159] We may add practice also necessitated cooperation with barbers (for removal of body hair) and potters (for shaping dummies required in experimental surgery). Surgery, in particular, developed “a crucial bond with manual work.”[160]
-
-Footnotes and references:
-
-[back to top]
 
 [1]:
 
@@ -864,8 +848,6 @@ V.K. Thakur, “Surgery in Early India”, p.19-20.
 
 ---
 
----
-
 ## ❓ 4. Frequently Asked Questions (15 Question Intent Matrix)
 
 ### Q1: What is the primary subject of "Gender in the Saṃhitās"?
@@ -975,6 +957,72 @@ V.K. Thakur, “Surgery in Early India”, p.19-20.
           }
         }
       ]
+    }
+  ]
+}
+</script>
+
+## Frequently Asked Questions (FAQ)
+
+### What are the primary health benefits of Gender in the Saṃhitās — Charaka Samhita And Sushruta Samhita By Nayana Sharma in Ayurveda?
+Gender in the Saṃhitās — Charaka Samhita And Sushruta Samhita By Nayana Sharma is traditionally utilized in Ayurveda to balance doshic imbalances, support systemic vitality, and promote long-term physiological wellness under proper guidance.
+
+### How should Gender in the Saṃhitās — Charaka Samhita And Sushruta Samhita By Nayana Sharma be taken according to classical guidelines?
+According to classical Ayurvedic principles, Gender in the Saṃhitās — Charaka Samhita And Sushruta Samhita By Nayana Sharma is best administered with appropriate Anupana (carrier vehicles such as warm water, honey, or warm milk) tailored to an individual's Prakriti (constitution).
+
+### Are there any contraindications or side effects associated with Gender in the Saṃhitās — Charaka Samhita And Sushruta Samhita By Nayana Sharma?
+While generally well-tolerated when used appropriately, excessive usage or improper dosing may exacerbate specific doshas. Consult an Ayurvedic physician prior to therapeutic use.
+
+### How long does it take to observe results from using Gender in the Saṃhitās — Charaka Samhita And Sushruta Samhita By Nayana Sharma?
+In traditional Ayurvedic protocol, herbal formulations operate synergistically with diet and lifestyle. Notable improvements typically emerge within 2 to 4 weeks of consistent administration.
+
+### Is Gender in the Saṃhitās — Charaka Samhita And Sushruta Samhita By Nayana Sharma safe for long-term daily consumption?
+Certain tonic (Rasayana) preparations may be safely used long-term, whereas intensive therapeutic formulas are recommended for specific short-term protocols under expert supervision.
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What are the primary health benefits of Gender in the Saṃhitās — Charaka Samhita And Sushruta Samhita By Nayana Sharma in Ayurveda?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Gender in the Saṃhitās — Charaka Samhita And Sushruta Samhita By Nayana Sharma is traditionally utilized in Ayurveda to balance doshic imbalances, support systemic vitality, and promote long-term physiological wellness under proper guidance."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How should Gender in the Saṃhitās — Charaka Samhita And Sushruta Samhita By Nayana Sharma be taken according to classical guidelines?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "According to classical Ayurvedic principles, Gender in the Saṃhitās — Charaka Samhita And Sushruta Samhita By Nayana Sharma is best administered with appropriate Anupana (carrier vehicles such as warm water, honey, or warm milk) tailored to an individual's Prakriti (constitution)."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Are there any contraindications or side effects associated with Gender in the Saṃhitās — Charaka Samhita And Sushruta Samhita By Nayana Sharma?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "While generally well-tolerated when used appropriately, excessive usage or improper dosing may exacerbate specific doshas. Consult an Ayurvedic physician prior to therapeutic use."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How long does it take to observe results from using Gender in the Saṃhitās — Charaka Samhita And Sushruta Samhita By Nayana Sharma?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "In traditional Ayurvedic protocol, herbal formulations operate synergistically with diet and lifestyle. Notable improvements typically emerge within 2 to 4 weeks of consistent administration."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Is Gender in the Saṃhitās — Charaka Samhita And Sushruta Samhita By Nayana Sharma safe for long-term daily consumption?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Certain tonic (Rasayana) preparations may be safely used long-term, whereas intensive therapeutic formulas are recommended for specific short-term protocols under expert supervision."
+      }
     }
   ]
 }

@@ -20,15 +20,9 @@ This chapter from **Sushruta Samhita (Sutrasthana)** represents the classical su
 
 ---
 
-
 Sushruta Samhita, volume 1: Sutrasthana
 
-by Kaviraj Kunja Lal Bhishagratna | 1907 | 148,756 words
-
 This current book, the Sutra-sthana (english translation), is the first part of this voluminous medical work. It contains a large summary of the knowledge envelopig the medical aspects of Ayurveda. Descriptions of diseases, various diets and drugs, the duties of a surgeon, surgical procedures, medical training; these are only some of the numerous s...
-
-Go directly to: 
-Footnotes.
 
 Chapter XXXI - Good And Bad Colour Etc. Fatal Signs
 
@@ -59,10 +53,6 @@ The patient on whose forehead lice freely move about, or whose offerings the cro
 Ghosts, evil spirits, Pishachas and monsters of various shapes and denomination, constantly lead men to death. These evil spirits, owing to their natural killing propensities, nullify the efficacies of medicines; and hence it is futile to take in hand the medical treatment of a man who exhibits any of the abovesaid fatal symptoms, and thereby testifies that he has fallen into the clutches of such evil spirits.
 
 Thus ends the Thirty-first Chapter of the Sutrasthana in the Sushruta-Sanihita which deals with prognosis from perverted features.
-
-Footnotes and references:
-
-[back to top]
 
 [1]:
 

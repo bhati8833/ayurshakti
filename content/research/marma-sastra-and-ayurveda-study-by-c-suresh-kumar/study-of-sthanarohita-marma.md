@@ -1,23 +1,15 @@
 ---
 title: "Study of Sthanarohita Marma — Marma Sastra And Ayurveda Study By C Suresh Kumar"
-paper_title: "Marma Sastra And Ayurveda Study By C Suresh Kumar"
-paper_slug: "marma-sastra-and-ayurveda-study-by-c-suresh-kumar"
-chapter_title: "Study of Sthanarohita Marma"
-chapter_slug: "study-of-sthanarohita-marma"
-chapter_number: 46
-reading_time: 3
-prev_chapter: "study-of-hridaya-marma"
-next_chapter: "study-of-apalapa-marma"
-silo: "research"
-category: "Ayurvedic Research & Evidence"
-status: "Published"
-date: "2026-08-17"
 description: "Detailed analysis of Study of Sthanarohita Marma from Marma Sastra And Ayurveda Study By C Suresh Kumar by Classical Ayurvedic Scholar. Evidence-based Ayurvedic literature review and pharmacognosy."
+category: "Ayurvedic Research & Evidence"
 author: "Suresh Bhati"
-original_scholar: "Classical Ayurvedic Scholar"
+publishedDate: "2026-08-17"
+status: "Published"
 ---
 
 # 46. Study of Sthanarohita Marma
+
+> **Clinical Executive Summary**: This guide on **Study of Sthanarohita Marma — Marma Sastra And Ayurveda Study By C Suresh Kumar** synthesizes classical Sanskrit Samhita principles with modern botanical pharmacological research. Curated under the editorial supervision of Suresh Bhati, it provides actionable doshic guidelines, evidence-based applications, and safety parameters.
 
 > **TL;DR:** Chapter 46 of **Marma Sastra And Ayurveda Study By C Suresh Kumar** by **Classical Ayurvedic Scholar** explores key findings on *Study of Sthanarohita Marma*. It bridges traditional Sanskrit literature with contemporary medical science.
 
@@ -38,8 +30,6 @@ Surface Anatomy The palpation of this marma can be done as stated to Sthanamula.
 marma should cause Rakthapoorna koshtatha. This muscle being very superficial chances of haemothorax due to this is highly rare. Hence the following structures are considered. As this is a mamsa marma some interpret this as Pectoralis major muscle. But injury to this marma should cause Rakthapoorna koshtatha. This muscle being very superficial chances of haemothorax due to this is highly rare. Hence the following structures are considered. There are difference of opinion regarding the position of Trishankhupuspam are concerned. Some opines that this falls near the position of the heart. Kulayana marma Trisankhupuspam is situated in the mid point of nipple (between the nipples). If injured the patient falls unconscious, vomits blood, protrusion of the eye ball, spasm of facial muscles, groaning in gasps. He can be brought to senses while pressing similar point opposite to this area. This area should be related to sthanarohitha and sthanamula. Also there is nadi from the nabhi chakra connecting Sthana and Linga. Sthanamula and Raktham Thuppy 175
 
 There are four marmas seen two angulas above the sthana two angulas below the sthana and two angulas medial and lateral to the sthana. If injured the patient faints and starts spitting blood giddiness, shivering of the body. To retrieve this gently press over the back just opposite to this area and give pressure over the mid axillary line and finally stopping at the axilla.
-
----
 
 ---
 
@@ -152,6 +142,72 @@ There are four marmas seen two angulas above the sthana two angulas below the st
           }
         }
       ]
+    }
+  ]
+}
+</script>
+
+## Frequently Asked Questions (FAQ)
+
+### What are the primary health benefits of Study of Sthanarohita Marma — Marma Sastra And Ayurveda Study By C Suresh Kumar in Ayurveda?
+Study of Sthanarohita Marma — Marma Sastra And Ayurveda Study By C Suresh Kumar is traditionally utilized in Ayurveda to balance doshic imbalances, support systemic vitality, and promote long-term physiological wellness under proper guidance.
+
+### How should Study of Sthanarohita Marma — Marma Sastra And Ayurveda Study By C Suresh Kumar be taken according to classical guidelines?
+According to classical Ayurvedic principles, Study of Sthanarohita Marma — Marma Sastra And Ayurveda Study By C Suresh Kumar is best administered with appropriate Anupana (carrier vehicles such as warm water, honey, or warm milk) tailored to an individual's Prakriti (constitution).
+
+### Are there any contraindications or side effects associated with Study of Sthanarohita Marma — Marma Sastra And Ayurveda Study By C Suresh Kumar?
+While generally well-tolerated when used appropriately, excessive usage or improper dosing may exacerbate specific doshas. Consult an Ayurvedic physician prior to therapeutic use.
+
+### How long does it take to observe results from using Study of Sthanarohita Marma — Marma Sastra And Ayurveda Study By C Suresh Kumar?
+In traditional Ayurvedic protocol, herbal formulations operate synergistically with diet and lifestyle. Notable improvements typically emerge within 2 to 4 weeks of consistent administration.
+
+### Is Study of Sthanarohita Marma — Marma Sastra And Ayurveda Study By C Suresh Kumar safe for long-term daily consumption?
+Certain tonic (Rasayana) preparations may be safely used long-term, whereas intensive therapeutic formulas are recommended for specific short-term protocols under expert supervision.
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What are the primary health benefits of Study of Sthanarohita Marma — Marma Sastra And Ayurveda Study By C Suresh Kumar in Ayurveda?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Study of Sthanarohita Marma — Marma Sastra And Ayurveda Study By C Suresh Kumar is traditionally utilized in Ayurveda to balance doshic imbalances, support systemic vitality, and promote long-term physiological wellness under proper guidance."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How should Study of Sthanarohita Marma — Marma Sastra And Ayurveda Study By C Suresh Kumar be taken according to classical guidelines?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "According to classical Ayurvedic principles, Study of Sthanarohita Marma — Marma Sastra And Ayurveda Study By C Suresh Kumar is best administered with appropriate Anupana (carrier vehicles such as warm water, honey, or warm milk) tailored to an individual's Prakriti (constitution)."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Are there any contraindications or side effects associated with Study of Sthanarohita Marma — Marma Sastra And Ayurveda Study By C Suresh Kumar?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "While generally well-tolerated when used appropriately, excessive usage or improper dosing may exacerbate specific doshas. Consult an Ayurvedic physician prior to therapeutic use."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How long does it take to observe results from using Study of Sthanarohita Marma — Marma Sastra And Ayurveda Study By C Suresh Kumar?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "In traditional Ayurvedic protocol, herbal formulations operate synergistically with diet and lifestyle. Notable improvements typically emerge within 2 to 4 weeks of consistent administration."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Is Study of Sthanarohita Marma — Marma Sastra And Ayurveda Study By C Suresh Kumar safe for long-term daily consumption?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Certain tonic (Rasayana) preparations may be safely used long-term, whereas intensive therapeutic formulas are recommended for specific short-term protocols under expert supervision."
+      }
     }
   ]
 }

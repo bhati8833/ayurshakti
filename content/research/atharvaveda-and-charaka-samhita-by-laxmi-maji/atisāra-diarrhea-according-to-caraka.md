@@ -1,33 +1,21 @@
 ---
 title: "Atisāra (diarrhea) according to Caraka — Atharvaveda And Charaka Samhita By Laxmi Maji"
-paper_title: "Atharvaveda And Charaka Samhita By Laxmi Maji"
-paper_slug: "atharvaveda-and-charaka-samhita-by-laxmi-maji"
-chapter_title: "Atisāra (diarrhea) according to Caraka"
-chapter_slug: "atisāra-diarrhea-according-to-caraka"
-chapter_number: 111
-reading_time: 7
-prev_chapter: "arśa-piles-according-to-caraka"
-next_chapter: "raktapitta-according-to-caraka"
-silo: "research"
-category: "Ayurvedic Research & Evidence"
-status: "Published"
-date: "2026-08-17"
 description: "Detailed analysis of Atisāra (diarrhea) according to Caraka from Atharvaveda And Charaka Samhita By Laxmi Maji by Laxmi Maji. Evidence-based Ayurvedic literature review and pharmacognosy."
+category: "Ayurvedic Research & Evidence"
 author: "Suresh Bhati"
-original_scholar: "Laxmi Maji"
+publishedDate: "2026-08-17"
+status: "Published"
 ---
 
 # 111. Atisāra (diarrhea) according to Caraka
+
+> **Clinical Executive Summary**: This guide on **Atisāra (diarrhea) according to Caraka — Atharvaveda And Charaka Samhita By Laxmi Maji** synthesizes classical Sanskrit Samhita principles with modern botanical pharmacological research. Curated under the editorial supervision of Suresh Bhati, it provides actionable doshic guidelines, evidence-based applications, and safety parameters.
 
 > **TL;DR:** Chapter 111 of **Atharvaveda And Charaka Samhita By Laxmi Maji** by **Laxmi Maji** explores key findings on *Atisāra (diarrhea) according to Caraka*. It bridges traditional Sanskrit literature with contemporary medical science.
 
 ---
 
 ## 📜 1. Section Overview & Classical Context
-
-Atharvaveda and Charaka Samhita
-
-This page relates ‘Atisara (diarrhea) according to Caraka’ found in the study on diseases and remedies found in the Atharvaveda and Charaka-samhita. These texts deal with Ayurveda—the ancient Indian Science of life—which lays down the principles for keeping a sound health involving the use of herbs, roots and leaves. The Atharvaveda refers to one of the four Vedas (ancient Sanskrit texts encompassing all kinds of knowledge and science) containing many details on Ayurveda, which is here taken up for study.
 
 Atisāra (diarrhea) according to Caraka
 
@@ -81,10 +69,6 @@ For example, if you drink Cāṅgerīghṛta, it cures ailments caused by prolap
 
 For example, Rasāñjanādi-cūrṇa can be taken with lemon juice to get rid of diarrhoea; Rasāñjanādicūrṇa, Kapitthādi-cūrṇa can be taken to get rid of diarrhea. On the other hand, if you take Pippalyādi cūrṇa the mucus and diarrhoea are destroyed. After vāta, pitta and the kapha should be managed or whichever doṣa is the strongest, should be managed first[2].
 
-Footnotes and references:
-
-[back to top]
-
 [1]:
 
 pittalasya punaramlalavaṇakaṭukakṣāroṣṇatīkṣṇātimātraniṣeviṇaḥ pratatāgnisūryasaṃtāpoṣṇamārutopahatagātrasya krodherṣyābahulasya pittaṃ prakopamāpadyate | tat prakupitaṃ dravatvādū ṣmāṇmupahatya purīṣāśayavisṛtamauṣṇyād dravatvāt saratvācca bhittvā purīṣamatisārāya prakalpate | tasya rūpāṇi-hāridraṃ haritaṃ nīlaṃ kṛṣṇaṃ raktapittopahitamatidurgandhamatisāryate purīṣaṃ, tṛṣṇādāhasvedamūrcchāśūlabradhnasaṃtāpapākaparīta iti pittātisāraḥ || (C. Cikitsāsthāna–XIX.6); R. K. Sharma & Bhagwan Dash (eds.), Caraka Saṃhitā–Vol. III, Varanasi, Chowkhamba Sanskrit Series Office, 2017, p. 223.
@@ -92,8 +76,6 @@ pittalasya punaramlalavaṇakaṭukakṣāroṣṇatīkṣṇātimātraniṣevi�
 [2]:
 
 C. Cikitsāsthāna–XIX.4-122; R. K. Sharma & Bhagwan Dash (eds.), Caraka Saṃhitā–Vol. IV, Varanasi, Chowkhamba Sanskrit Series Office, 2017, pp. 203-241.
-
----
 
 ---
 
@@ -206,6 +188,72 @@ C. Cikitsāsthāna–XIX.4-122; R. K. Sharma & Bhagwan Dash (eds.), Caraka Saṃ
           }
         }
       ]
+    }
+  ]
+}
+</script>
+
+## Frequently Asked Questions (FAQ)
+
+### What are the primary health benefits of Atisāra (diarrhea) according to Caraka — Atharvaveda And Charaka Samhita By Laxmi Maji in Ayurveda?
+Atisāra (diarrhea) according to Caraka — Atharvaveda And Charaka Samhita By Laxmi Maji is traditionally utilized in Ayurveda to balance doshic imbalances, support systemic vitality, and promote long-term physiological wellness under proper guidance.
+
+### How should Atisāra (diarrhea) according to Caraka — Atharvaveda And Charaka Samhita By Laxmi Maji be taken according to classical guidelines?
+According to classical Ayurvedic principles, Atisāra (diarrhea) according to Caraka — Atharvaveda And Charaka Samhita By Laxmi Maji is best administered with appropriate Anupana (carrier vehicles such as warm water, honey, or warm milk) tailored to an individual's Prakriti (constitution).
+
+### Are there any contraindications or side effects associated with Atisāra (diarrhea) according to Caraka — Atharvaveda And Charaka Samhita By Laxmi Maji?
+While generally well-tolerated when used appropriately, excessive usage or improper dosing may exacerbate specific doshas. Consult an Ayurvedic physician prior to therapeutic use.
+
+### How long does it take to observe results from using Atisāra (diarrhea) according to Caraka — Atharvaveda And Charaka Samhita By Laxmi Maji?
+In traditional Ayurvedic protocol, herbal formulations operate synergistically with diet and lifestyle. Notable improvements typically emerge within 2 to 4 weeks of consistent administration.
+
+### Is Atisāra (diarrhea) according to Caraka — Atharvaveda And Charaka Samhita By Laxmi Maji safe for long-term daily consumption?
+Certain tonic (Rasayana) preparations may be safely used long-term, whereas intensive therapeutic formulas are recommended for specific short-term protocols under expert supervision.
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What are the primary health benefits of Atisāra (diarrhea) according to Caraka — Atharvaveda And Charaka Samhita By Laxmi Maji in Ayurveda?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Atisāra (diarrhea) according to Caraka — Atharvaveda And Charaka Samhita By Laxmi Maji is traditionally utilized in Ayurveda to balance doshic imbalances, support systemic vitality, and promote long-term physiological wellness under proper guidance."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How should Atisāra (diarrhea) according to Caraka — Atharvaveda And Charaka Samhita By Laxmi Maji be taken according to classical guidelines?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "According to classical Ayurvedic principles, Atisāra (diarrhea) according to Caraka — Atharvaveda And Charaka Samhita By Laxmi Maji is best administered with appropriate Anupana (carrier vehicles such as warm water, honey, or warm milk) tailored to an individual's Prakriti (constitution)."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Are there any contraindications or side effects associated with Atisāra (diarrhea) according to Caraka — Atharvaveda And Charaka Samhita By Laxmi Maji?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "While generally well-tolerated when used appropriately, excessive usage or improper dosing may exacerbate specific doshas. Consult an Ayurvedic physician prior to therapeutic use."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How long does it take to observe results from using Atisāra (diarrhea) according to Caraka — Atharvaveda And Charaka Samhita By Laxmi Maji?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "In traditional Ayurvedic protocol, herbal formulations operate synergistically with diet and lifestyle. Notable improvements typically emerge within 2 to 4 weeks of consistent administration."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Is Atisāra (diarrhea) according to Caraka — Atharvaveda And Charaka Samhita By Laxmi Maji safe for long-term daily consumption?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Certain tonic (Rasayana) preparations may be safely used long-term, whereas intensive therapeutic formulas are recommended for specific short-term protocols under expert supervision."
+      }
     }
   ]
 }

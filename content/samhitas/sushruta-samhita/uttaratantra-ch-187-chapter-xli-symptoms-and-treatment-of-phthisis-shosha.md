@@ -20,17 +20,11 @@ This chapter from **Sushruta Samhita (Uttaratantra)** represents the classical s
 
 ---
 
-
 Sushruta Samhita, Volume 6: Uttara-tantra
-
-by Kaviraj Kunja Lal Bhishagratna | 1916 | 113,078 words
 
 This current book, the Uttara-tantra (english translation) is the supplementary part of the Sushrutasamhita and deals various subjects such as diseases of the eye, treatment of fever, diarrhea, diseases resulting from superhuman influences, insanity, rules of health etc.
 
 The Sushruta Samhita is the most representative work of the Hindu system of m...
-
-Go directly to: 
-Footnotes.
 
 Chapter XLI - Symptoms and Treatment of Phthisis (Shosha)
 
@@ -101,10 +95,6 @@ Rules of conduct:—
 He should not allow any grief, anger or jealousy to disturb the equilibrium of his mind, should lead a life of strict continence, deal in the discussion of sublime subjects and conform to the injunctions of his medical advisers or physicians. He should pay respects to the gods, superiors and Brahmanas and listen to the discussions of the spiritual truths from the lips of Brahmans. 35.
 
 Thus ends the forty-first chapter of the Uttara Tantra in the Sushruta Samhita which deals with the (symptoms and) treatment of Phthisis.
-
-Footnotes and references:
-
-[back to top]
 
 [1]:
 

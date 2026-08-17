@@ -20,17 +20,11 @@ This chapter from **Sushruta Samhita (Chikitsasthana)** represents the classical
 
 ---
 
-
 Sushruta Samhita, volume 4: Cikitsasthana
-
-by Kaviraj Kunja Lal Bhishagratna | 1911 | 123,229 words
 
 This current book, the Chikitsa-sthana (english translation), deals with therapeutics, surgical emergencies, geriatrics, aphrodisiacs and various other subjects.
 
 The Sushruta Samhita is the most representative work of the Hindu system of medicine. It embraces all that can possibly appertain to the science of medicine. Susruta-samhita is recognized...
-
-Go directly to: 
-Footnotes.
 
 Chapter XXXIX - The treatment of distressing symptoms
 
@@ -78,10 +72,6 @@ A diet consisting of cooked Shashti grain (Tandula) or matured Shali rice, Mudga
 
 Thus ends the Thirty-ninth Chapter of the Chikitsita Sthana in the Sushruta Samhita which deals with the treatment of distressing symptoms which are manifested in a patient.
 
-Footnotes and references:
-
-[back to top]
-
 [1]:
 
 By “distressing symptoms” are generally meant those complications that follow the exhibition of emetics, purgatives, Vastis, etc.
@@ -102,8 +92,6 @@ The line is as follows:—
 
 “shleṣmantatvahirekasya na tamicchanti tahidaḥ |”
 
-“shleṣmantatvahirekasya na tamicchanti tahidaḥ |”
-
 [5]:
 
 Some commentators explain this verse to mean that the patient should observe the rules of diet and conduct (prescribed hereafter) for a period of three days after each application of a Vasti, but after the third application the rules of diet and conduct should be determined according to requirements.
@@ -113,8 +101,6 @@ Some commentators explain this verse to mean that the patient should observe the
 Here a line is not found in the printed edition of the Sushruta Samhita, which is evident from Dallana’s commentary and supported by Shrikantha Datta in his commentary on Vrinda.
 
 The line is as follows:—
-
-“śleṣmantatvahirekasya na tamicchanti tahidaḥ |”
 
 “śleṣmantatvahirekasya na tamicchanti tahidaḥ |”
 

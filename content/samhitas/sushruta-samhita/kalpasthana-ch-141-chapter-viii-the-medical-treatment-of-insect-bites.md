@@ -20,17 +20,11 @@ This chapter from **Sushruta Samhita (Kalpasthana)** represents the classical su
 
 ---
 
-
 Sushruta Samhita, Volume 5: Kalpasthana
-
-by Kaviraj Kunja Lal Bhishagratna | 1911 | 24,963 words
 
 This current book, the Kalpa-sthana (english translation), deals with the nature of poisons, the management of poisons, toxicology and various other subjects.
 
 The Sushruta Samhita is the most representative work of the Hindu system of medicine. It embraces all that can possibly appertain to the science of medicine. Susruta-samhita is recognized as...
-
-Go directly to: 
-Footnotes.
 
 Chapter VIII - The medical treatment of insect bites
 
@@ -199,10 +193,6 @@ We have not heard of a holier discourse than the medical science on account of t
 Thus ends the eighth Chapter of the Kalpasthana in the Sushruta Samhita which treats of the measures to be adopted in the case of an insect-bite.
 
 Here ends the Kalpa Sthana.
-
-Footnotes and references:
-
-[back to top]
 
 [1]:
 

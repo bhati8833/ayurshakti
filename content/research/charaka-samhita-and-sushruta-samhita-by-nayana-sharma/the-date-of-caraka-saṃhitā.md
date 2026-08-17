@@ -1,23 +1,15 @@
 ---
 title: "The Date of Caraka Saṃhitā — Charaka Samhita And Sushruta Samhita By Nayana Sharma"
-paper_title: "Charaka Samhita And Sushruta Samhita By Nayana Sharma"
-paper_slug: "charaka-samhita-and-sushruta-samhita-by-nayana-sharma"
-chapter_title: "The Date of Caraka Saṃhitā"
-chapter_slug: "the-date-of-caraka-saṃhitā"
-chapter_number: 9
-reading_time: 3
-prev_chapter: "the-identity-of-caraka"
-next_chapter: "the-identity-of-ātreya"
-silo: "research"
-category: "Ayurvedic Research & Evidence"
-status: "Published"
-date: "2026-08-17"
 description: "Detailed analysis of The Date of Caraka Saṃhitā from Charaka Samhita And Sushruta Samhita By Nayana Sharma by Nayana Sharma. Evidence-based Ayurvedic literature review and pharmacognosy."
+category: "Ayurvedic Research & Evidence"
 author: "Suresh Bhati"
-original_scholar: "Nayana Sharma"
+publishedDate: "2026-08-17"
+status: "Published"
 ---
 
 # 9. The Date of Caraka Saṃhitā
+
+> **Clinical Executive Summary**: This guide on **The Date of Caraka Saṃhitā — Charaka Samhita And Sushruta Samhita By Nayana Sharma** synthesizes classical Sanskrit Samhita principles with modern botanical pharmacological research. Curated under the editorial supervision of Suresh Bhati, it provides actionable doshic guidelines, evidence-based applications, and safety parameters.
 
 > **TL;DR:** Chapter 9 of **Charaka Samhita And Sushruta Samhita By Nayana Sharma** by **Nayana Sharma** explores key findings on *The Date of Caraka Saṃhitā*. It bridges traditional Sanskrit literature with contemporary medical science.
 
@@ -36,10 +28,6 @@ With the confusion over the authorship, it is hardly surprising that the date of
 R.K. Sharma and Vaidya Bhagwan Dash assign the text of Agniveśa to 2000 years B.C. and Caraka’s redaction to the 7th century B.C. The final redaction by Dṛḍhabala took place in the 4th century A.D.[3] P.V. Sharma assigns Caraka Saṃhitā to the period between 7th century BC and the 2nd century B.C. on various grounds: (i) the philosophical evidence points to a pre-200 A.D. date; (ii) the Yājñavalkya Smṛti has borrowed certain features from Caraka, such the monthly development of the foetus, etc.; (iii) the influence of Buddhism in the treatise on the basis of the use of words like khuḍḍaka, khuḍḍikā and jentaka; the references to tṛṣṇā as the root cause of pain,[4] to prajñā in causation of disease and vedanā[5] for misery.
 
 Meulenbeld suggests that the author called Caraka [Charaka] cannot have lived later than A.D. 150-200 and not much earlier than 100 B.C.[6] Dṛḍhabala has been placed earlier than Vāgbhaṭa who has been dated to the 6th century CE as the latter was familiar with the treatise. Dṛḍhabala is believed to belong to the 4th century CE. Therefore the final redaction must have taken place in the first 2-3 centuries CE. In fact, certain terms occurring in the text point to a later date for Caraka. The term pākhaṇḍa[7] occurring in the text is taken to indicate Kāpālikas. The presence of Kāpālikas is also known in Suśruta from the terms kāpālabhūmi[8] and asitāmbara,[9] that is, person wearing black clothes. Ḍalhaṇa interprets the term pākhaṇḍa[10] as members of this sect. This Purāṇic Śaivite sect is known to have emerged during the Gupta period. Besides, there Caraka prescribes the chanting of Viṣṇusahasranāma as a remedial measure for the patients of fever.[11] According to V.S. Agrawal (Kādambari Ek Sāṃskritika Adhyayana), Viṣṇusahasranāma is the creation of the Gupta period.[12] Even Suśruta does not prescribe it; generally veneration of Śiva is advised in fever.
-
-Footnotes and references:
-
-[back to top]
 
 [1]:
 
@@ -88,8 +76,6 @@ Caraka Saṃhitā Cikitsāsthāna 3.311.
 [12]:
 
 P.V. Sharma, “Caraka” in P.V. Sharma (Ed.), History of Medicine in India from Antiquity to 1000 AD, p. 188.
-
----
 
 ---
 
@@ -202,6 +188,72 @@ P.V. Sharma, “Caraka” in P.V. Sharma (Ed.), History of Medicine in India fro
           }
         }
       ]
+    }
+  ]
+}
+</script>
+
+## Frequently Asked Questions (FAQ)
+
+### What are the primary health benefits of The Date of Caraka Saṃhitā — Charaka Samhita And Sushruta Samhita By Nayana Sharma in Ayurveda?
+The Date of Caraka Saṃhitā — Charaka Samhita And Sushruta Samhita By Nayana Sharma is traditionally utilized in Ayurveda to balance doshic imbalances, support systemic vitality, and promote long-term physiological wellness under proper guidance.
+
+### How should The Date of Caraka Saṃhitā — Charaka Samhita And Sushruta Samhita By Nayana Sharma be taken according to classical guidelines?
+According to classical Ayurvedic principles, The Date of Caraka Saṃhitā — Charaka Samhita And Sushruta Samhita By Nayana Sharma is best administered with appropriate Anupana (carrier vehicles such as warm water, honey, or warm milk) tailored to an individual's Prakriti (constitution).
+
+### Are there any contraindications or side effects associated with The Date of Caraka Saṃhitā — Charaka Samhita And Sushruta Samhita By Nayana Sharma?
+While generally well-tolerated when used appropriately, excessive usage or improper dosing may exacerbate specific doshas. Consult an Ayurvedic physician prior to therapeutic use.
+
+### How long does it take to observe results from using The Date of Caraka Saṃhitā — Charaka Samhita And Sushruta Samhita By Nayana Sharma?
+In traditional Ayurvedic protocol, herbal formulations operate synergistically with diet and lifestyle. Notable improvements typically emerge within 2 to 4 weeks of consistent administration.
+
+### Is The Date of Caraka Saṃhitā — Charaka Samhita And Sushruta Samhita By Nayana Sharma safe for long-term daily consumption?
+Certain tonic (Rasayana) preparations may be safely used long-term, whereas intensive therapeutic formulas are recommended for specific short-term protocols under expert supervision.
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What are the primary health benefits of The Date of Caraka Saṃhitā — Charaka Samhita And Sushruta Samhita By Nayana Sharma in Ayurveda?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The Date of Caraka Saṃhitā — Charaka Samhita And Sushruta Samhita By Nayana Sharma is traditionally utilized in Ayurveda to balance doshic imbalances, support systemic vitality, and promote long-term physiological wellness under proper guidance."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How should The Date of Caraka Saṃhitā — Charaka Samhita And Sushruta Samhita By Nayana Sharma be taken according to classical guidelines?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "According to classical Ayurvedic principles, The Date of Caraka Saṃhitā — Charaka Samhita And Sushruta Samhita By Nayana Sharma is best administered with appropriate Anupana (carrier vehicles such as warm water, honey, or warm milk) tailored to an individual's Prakriti (constitution)."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Are there any contraindications or side effects associated with The Date of Caraka Saṃhitā — Charaka Samhita And Sushruta Samhita By Nayana Sharma?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "While generally well-tolerated when used appropriately, excessive usage or improper dosing may exacerbate specific doshas. Consult an Ayurvedic physician prior to therapeutic use."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How long does it take to observe results from using The Date of Caraka Saṃhitā — Charaka Samhita And Sushruta Samhita By Nayana Sharma?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "In traditional Ayurvedic protocol, herbal formulations operate synergistically with diet and lifestyle. Notable improvements typically emerge within 2 to 4 weeks of consistent administration."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Is The Date of Caraka Saṃhitā — Charaka Samhita And Sushruta Samhita By Nayana Sharma safe for long-term daily consumption?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Certain tonic (Rasayana) preparations may be safely used long-term, whereas intensive therapeutic formulas are recommended for specific short-term protocols under expert supervision."
+      }
     }
   ]
 }

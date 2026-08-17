@@ -9,19 +9,11 @@ date: "2026-08-17"
 description: "presents a convergence of diverse meteorological, climatic, and floral conditions, which provides unique opportunities for ethnobotanical research."
 ---
 
-**Author / Source:** by Praveen Kumar Khare
-
-
-**Total Chapters/Sections:** 11
-
 ---
 
 ## 1. Chapter 2 - Social condition of Nath
 
-
 Studies in Ethnobotany of ‘Nath’ of Bundelkhand region
-
-by Praveen Kumar Khare | 2002 | 36,717 words
 
 The essay studies the Ethnobotany of the ‘Nath’ tribe of Bundelkhand region within the Indian subcontinent. This region represents a convergence of diverse meteorological, climatic, and floral conditions, which provides unique opportunities for ethnobotanical research. The study of human relationships with plants, ethnobotany, reveals the varied an...
 
@@ -35,10 +27,7 @@ The people who are dependent on snakes from ancient times are called as Nath,Jog
 
 ## 2. Preface
 
-
 Studies in Ethnobotany of ‘Nath’ of Bundelkhand region
-
-by Praveen Kumar Khare | 2002 | 36,717 words
 
 The essay studies the Ethnobotany of the ‘Nath’ tribe of Bundelkhand region within the Indian subcontinent. This region represents a convergence of diverse meteorological, climatic, and floral conditions, which provides unique opportunities for ethnobotanical research. The study of human relationships with plants, ethnobotany, reveals the varied an...
 
@@ -50,10 +39,7 @@ This thesis summarises the results of 4 years of studies on the ethnobotany of '
 
 ## 3. Chapter 1 - General Introduction
 
-
 Studies in Ethnobotany of ‘Nath’ of Bundelkhand region
-
-by Praveen Kumar Khare | 2002 | 36,717 words
 
 The essay studies the Ethnobotany of the ‘Nath’ tribe of Bundelkhand region within the Indian subcontinent. This region represents a convergence of diverse meteorological, climatic, and floral conditions, which provides unique opportunities for ethnobotanical research. The study of human relationships with plants, ethnobotany, reveals the varied an...
 
@@ -71,10 +57,7 @@ The Indian subcontinent represents one of the greatest emporia of ethnobotanical
 
 ## 4. Acknowledgements
 
-
 Studies in Ethnobotany of ‘Nath’ of Bundelkhand region
-
-by Praveen Kumar Khare | 2002 | 36,717 words
 
 The essay studies the Ethnobotany of the ‘Nath’ tribe of Bundelkhand region within the Indian subcontinent. This region represents a convergence of diverse meteorological, climatic, and floral conditions, which provides unique opportunities for ethnobotanical research. The study of human relationships with plants, ethnobotany, reveals the varied an...
 
@@ -88,10 +71,7 @@ I am under the onus of obligation of and my sincerest and heart-felt thank due t
 
 ## 5. Chapter 4 - Material and Method
 
-
 Studies in Ethnobotany of ‘Nath’ of Bundelkhand region
-
-by Praveen Kumar Khare | 2002 | 36,717 words
 
 The essay studies the Ethnobotany of the ‘Nath’ tribe of Bundelkhand region within the Indian subcontinent. This region represents a convergence of diverse meteorological, climatic, and floral conditions, which provides unique opportunities for ethnobotanical research. The study of human relationships with plants, ethnobotany, reveals the varied an...
 
@@ -109,10 +89,7 @@ Frequent ethnobotanical surveys of the Nath inhabited localities of Bundelkhand 
 
 ## 6. Chapter 3 - Historical Review (of ‘Nath’—Bundelkhand)
 
-
 Studies in Ethnobotany of ‘Nath’ of Bundelkhand region
-
-by Praveen Kumar Khare | 2002 | 36,717 words
 
 The essay studies the Ethnobotany of the ‘Nath’ tribe of Bundelkhand region within the Indian subcontinent. This region represents a convergence of diverse meteorological, climatic, and floral conditions, which provides unique opportunities for ethnobotanical research. The study of human relationships with plants, ethnobotany, reveals the varied an...
 
@@ -148,10 +125,7 @@ From prehistoric ages human culture has, either directly and indirectly, been in
 
 ## 7. Chapter 6 - Discussion (use of plants among tribal society)
 
-
 Studies in Ethnobotany of ‘Nath’ of Bundelkhand region
-
-by Praveen Kumar Khare | 2002 | 36,717 words
 
 The essay studies the Ethnobotany of the ‘Nath’ tribe of Bundelkhand region within the Indian subcontinent. This region represents a convergence of diverse meteorological, climatic, and floral conditions, which provides unique opportunities for ethnobotanical research. The study of human relationships with plants, ethnobotany, reveals the varied an...
 
@@ -279,10 +253,7 @@ synthetic drugs for the treatment of various ailments but we should not loose si
 
 ## 8. Bibliography
 
-
 Studies in Ethnobotany of ‘Nath’ of Bundelkhand region
-
-by Praveen Kumar Khare | 2002 | 36,717 words
 
 The essay studies the Ethnobotany of the ‘Nath’ tribe of Bundelkhand region within the Indian subcontinent. This region represents a convergence of diverse meteorological, climatic, and floral conditions, which provides unique opportunities for ethnobotanical research. The study of human relationships with plants, ethnobotany, reveals the varied an...
 
@@ -332,10 +303,7 @@ Vartak, V.D. 1981 Observations on Willd Edible Plants from Hilly Regions of Maha
 
 ## 9. Chapter 7 - Summary
 
-
 Studies in Ethnobotany of ‘Nath’ of Bundelkhand region
-
-by Praveen Kumar Khare | 2002 | 36,717 words
 
 The essay studies the Ethnobotany of the ‘Nath’ tribe of Bundelkhand region within the Indian subcontinent. This region represents a convergence of diverse meteorological, climatic, and floral conditions, which provides unique opportunities for ethnobotanical research. The study of human relationships with plants, ethnobotany, reveals the varied an...
 
@@ -361,10 +329,7 @@ Lice/Insects Maggots Rheumatism Skin diseases/Worts Sores/Foot sores Stomachache
 
 ## 10. Plates
 
-
 Studies in Ethnobotany of ‘Nath’ of Bundelkhand region
-
-by Praveen Kumar Khare | 2002 | 36,717 words
 
 The essay studies the Ethnobotany of the ‘Nath’ tribe of Bundelkhand region within the Indian subcontinent. This region represents a convergence of diverse meteorological, climatic, and floral conditions, which provides unique opportunities for ethnobotanical research. The study of human relationships with plants, ethnobotany, reveals the varied an...
 
@@ -384,10 +349,7 @@ PLATE -9 The people belonging to 'Nath' community are engaged in production of '
 
 ## 11. Chapter 5 - Enumeration of Plant Species (Ethnobotanical Records of 'Nath' tribe)
 
-
 Studies in Ethnobotany of ‘Nath’ of Bundelkhand region
-
-by Praveen Kumar Khare | 2002 | 36,717 words
 
 The essay studies the Ethnobotany of the ‘Nath’ tribe of Bundelkhand region within the Indian subcontinent. This region represents a convergence of diverse meteorological, climatic, and floral conditions, which provides unique opportunities for ethnobotanical research. The study of human relationships with plants, ethnobotany, reveals the varied an...
 

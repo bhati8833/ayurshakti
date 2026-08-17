@@ -20,17 +20,11 @@ This chapter from **Sushruta Samhita (Chikitsasthana)** represents the classical
 
 ---
 
-
 Sushruta Samhita, volume 4: Cikitsasthana
-
-by Kaviraj Kunja Lal Bhishagratna | 1911 | 123,229 words
 
 This current book, the Chikitsa-sthana (english translation), deals with therapeutics, surgical emergencies, geriatrics, aphrodisiacs and various other subjects.
 
 The Sushruta Samhita is the most representative work of the Hindu system of medicine. It embraces all that can possibly appertain to the science of medicine. Susruta-samhita is recognized...
-
-Go directly to: 
-Footnotes.
 
 Chapter XXIX - Elixirs (rasayana) for the prevention of death and decay
 
@@ -84,10 +78,6 @@ The Soma plants are invisible to the impious or to the ungrateful as well to the
 
 Thus ends the Twenty-ninth Chapter of the Chikitsita Sthana in the Sushruta Samhita which deals with the Prophylactic elixirs for the innate maladies.
 
-Footnotes and references:
-
-[back to top]
-
 [1]:
 
 These are decrepitude, death, hunger, thirst, sleep, etc.
@@ -101,15 +91,6 @@ Here death may mean, accordirg to some authorities, the death of tissues as well
 The whole of the hymns in the 9th Book of the Rig-veda, besides a few in other places, are dedicated to the honour of Soma, but these twenty- four names do not occur there. The plant is there represented as a god, and his worship must at one time have attained a remarkable popularity. The extraordinary properties of the exhilarating juice of the Soma are frequently mentioned in the Rig-veda and the language throughout in which it is behymned could not be more eulogistic.
 
 As an instance of this we might refer to Rig-veda VIII. 48.3 which has been metrically translated by Muir as follows:—
-
-We’ve quaffed the Soma bright, 
-And are immortal grown; 
-We’ve entered into light, 
-And all the gods have known. 
-What mortal now can harm, 
-Or foeman vex us more? 
-Through thee, beyond alarm, 
-Immortal god, we soar.
 
 We’ve quaffed the Soma bright, 
 And are immortal grown; 
@@ -159,15 +140,9 @@ The eight godly powers, according to some authorities, are:—
 aṇima ladhima vyaptiḥ prakamyaṃ mahima tatha | 
 īshitvañca vashitvañca tatha kamavasayita ||
 
-aṇima ladhima vyaptiḥ prakamyaṃ mahima tatha | 
-īshitvañca vashitvañca tatha kamavasayita ||
-
 [8]:
 
 The allied branches of the study of the Vedas are six in num They are:—
-
-shikṣa kalpo vyakaraṇaṃ niruktaṃ candasaṃ cayaḥ | 
-jyotiṣamayanañcaiva bedaṅgani ṣadeva tu ||
 
 shikṣa kalpo vyakaraṇaṃ niruktaṃ candasaṃ cayaḥ | 
 jyotiṣamayanañcaiva bedaṅgani ṣadeva tu ||
@@ -179,15 +154,9 @@ The eight godly powers, according to some authorities, are:—
 aṇima ladhima vyaptiḥ prakamyaṃ mahima tatha | 
 īśitvañca vaśitvañca tatha kamavasayita ||
 
-aṇima ladhima vyaptiḥ prakamyaṃ mahima tatha | 
-īśitvañca vaśitvañca tatha kamavasayita ||
-
 [10]:
 
 The allied branches of the study of the Vedas are six in num They are:—
-
-śikṣa kalpo vyakaraṇaṃ niruktaṃ candasaṃ cayaḥ | 
-jyotiṣamayanañcaiva bedaṅgani ṣadeva tu ||
 
 śikṣa kalpo vyakaraṇaṃ niruktaṃ candasaṃ cayaḥ | 
 jyotiṣamayanañcaiva bedaṅgani ṣadeva tu ||

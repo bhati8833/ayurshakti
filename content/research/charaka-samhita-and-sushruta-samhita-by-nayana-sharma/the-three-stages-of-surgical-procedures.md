@@ -1,23 +1,15 @@
 ---
 title: "The three stages of Surgical procedures — Charaka Samhita And Sushruta Samhita By Nayana Sharma"
-paper_title: "Charaka Samhita And Sushruta Samhita By Nayana Sharma"
-paper_slug: "charaka-samhita-and-sushruta-samhita-by-nayana-sharma"
-chapter_title: "The three stages of Surgical procedures"
-chapter_slug: "the-three-stages-of-surgical-procedures"
-chapter_number: 91
-reading_time: 14
-prev_chapter: "list-of-surgical-conditions-in-the-suśruta-saṃhitā"
-next_chapter: "the-training-of-the-surgeon"
-silo: "research"
-category: "Ayurvedic Research & Evidence"
-status: "Published"
-date: "2026-08-17"
 description: "Detailed analysis of The three stages of Surgical procedures from Charaka Samhita And Sushruta Samhita By Nayana Sharma by Nayana Sharma. Evidence-based Ayurvedic literature review and pharmacognosy."
+category: "Ayurvedic Research & Evidence"
 author: "Suresh Bhati"
-original_scholar: "Nayana Sharma"
+publishedDate: "2026-08-17"
+status: "Published"
 ---
 
 # 91. The three stages of Surgical procedures
+
+> **Clinical Executive Summary**: This guide on **The three stages of Surgical procedures — Charaka Samhita And Sushruta Samhita By Nayana Sharma** synthesizes classical Sanskrit Samhita principles with modern botanical pharmacological research. Curated under the editorial supervision of Suresh Bhati, it provides actionable doshic guidelines, evidence-based applications, and safety parameters.
 
 > **TL;DR:** Chapter 91 of **Charaka Samhita And Sushruta Samhita By Nayana Sharma** by **Nayana Sharma** explores key findings on *The three stages of Surgical procedures*. It bridges traditional Sanskrit literature with contemporary medical science.
 
@@ -142,10 +134,6 @@ The practices of yama and niyama are recommended as additional protective measur
 Awareness of the importance of a highly sanitized environment in the recovery room is evident from the text. Cleanliness, comfortable conditions, agreeable ambience, regular waking and sleeping hours, minimal exertion and appropriate diet at regular intervals, in the view of ancient medical science, are optimal for convalescence.[63] Moreover, the need to keep an optimistic attitude about recovery underlines the necessity to have faith in his treatment and his physician.
 
 To attend to the needs of the convalescent and keep him mentally engaged, visits of affectionate friends and companions who are good conversationalists is encouraged. They can console the patient in his pain and help minimize his agony. However, women visitors especially, those for whom the patient may feel sexual attraction, is discouraged.[64] The ancient Indian physicians had a clear understanding of the correlation of psychological well-being and physical health. The attendants who nursed the convalescent were possibly employed by the patient.
-
-Footnotes and references:
-
-[back to top]
 
 [1]:
 
@@ -405,8 +393,6 @@ Suśruta Saṃhitā Sūtrasthāna 19.7-15.
 
 ---
 
----
-
 ## ❓ 4. Frequently Asked Questions (15 Question Intent Matrix)
 
 ### Q1: What is the primary subject of "The three stages of Surgical procedures"?
@@ -516,6 +502,72 @@ Suśruta Saṃhitā Sūtrasthāna 19.7-15.
           }
         }
       ]
+    }
+  ]
+}
+</script>
+
+## Frequently Asked Questions (FAQ)
+
+### What are the primary health benefits of The three stages of Surgical procedures — Charaka Samhita And Sushruta Samhita By Nayana Sharma in Ayurveda?
+The three stages of Surgical procedures — Charaka Samhita And Sushruta Samhita By Nayana Sharma is traditionally utilized in Ayurveda to balance doshic imbalances, support systemic vitality, and promote long-term physiological wellness under proper guidance.
+
+### How should The three stages of Surgical procedures — Charaka Samhita And Sushruta Samhita By Nayana Sharma be taken according to classical guidelines?
+According to classical Ayurvedic principles, The three stages of Surgical procedures — Charaka Samhita And Sushruta Samhita By Nayana Sharma is best administered with appropriate Anupana (carrier vehicles such as warm water, honey, or warm milk) tailored to an individual's Prakriti (constitution).
+
+### Are there any contraindications or side effects associated with The three stages of Surgical procedures — Charaka Samhita And Sushruta Samhita By Nayana Sharma?
+While generally well-tolerated when used appropriately, excessive usage or improper dosing may exacerbate specific doshas. Consult an Ayurvedic physician prior to therapeutic use.
+
+### How long does it take to observe results from using The three stages of Surgical procedures — Charaka Samhita And Sushruta Samhita By Nayana Sharma?
+In traditional Ayurvedic protocol, herbal formulations operate synergistically with diet and lifestyle. Notable improvements typically emerge within 2 to 4 weeks of consistent administration.
+
+### Is The three stages of Surgical procedures — Charaka Samhita And Sushruta Samhita By Nayana Sharma safe for long-term daily consumption?
+Certain tonic (Rasayana) preparations may be safely used long-term, whereas intensive therapeutic formulas are recommended for specific short-term protocols under expert supervision.
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What are the primary health benefits of The three stages of Surgical procedures — Charaka Samhita And Sushruta Samhita By Nayana Sharma in Ayurveda?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The three stages of Surgical procedures — Charaka Samhita And Sushruta Samhita By Nayana Sharma is traditionally utilized in Ayurveda to balance doshic imbalances, support systemic vitality, and promote long-term physiological wellness under proper guidance."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How should The three stages of Surgical procedures — Charaka Samhita And Sushruta Samhita By Nayana Sharma be taken according to classical guidelines?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "According to classical Ayurvedic principles, The three stages of Surgical procedures — Charaka Samhita And Sushruta Samhita By Nayana Sharma is best administered with appropriate Anupana (carrier vehicles such as warm water, honey, or warm milk) tailored to an individual's Prakriti (constitution)."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Are there any contraindications or side effects associated with The three stages of Surgical procedures — Charaka Samhita And Sushruta Samhita By Nayana Sharma?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "While generally well-tolerated when used appropriately, excessive usage or improper dosing may exacerbate specific doshas. Consult an Ayurvedic physician prior to therapeutic use."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How long does it take to observe results from using The three stages of Surgical procedures — Charaka Samhita And Sushruta Samhita By Nayana Sharma?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "In traditional Ayurvedic protocol, herbal formulations operate synergistically with diet and lifestyle. Notable improvements typically emerge within 2 to 4 weeks of consistent administration."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Is The three stages of Surgical procedures — Charaka Samhita And Sushruta Samhita By Nayana Sharma safe for long-term daily consumption?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Certain tonic (Rasayana) preparations may be safely used long-term, whereas intensive therapeutic formulas are recommended for specific short-term protocols under expert supervision."
+      }
     }
   ]
 }

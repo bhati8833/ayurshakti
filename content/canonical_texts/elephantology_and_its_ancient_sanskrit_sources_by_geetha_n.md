@@ -9,24 +9,13 @@ date: "2026-08-17"
 description: "study of Elephant which is based on Hastyayurveda and Matangalila."
 ---
 
-**Author / Source:** by Geetha N.
-
-
-**Total Chapters/Sections:** 14
-
 ---
 
 ## 1. Chapter 2 - Books on Elephants
 
-
 Elephantology and its Ancient Sanskrit Sources
 
-by Geetha N. | 2012 | 36,369 words
-
 Elephant is considered as an inevitable part of Indian community. So they developed the study of Elephant which is based on Hastyayurveda and Matangalila. Even from the ancient time Indians were awareness about their hygiene and health. They were protected against diseases. They protected not just their own race but also plants and animals. Therefo...
-
-Go directly to: 
-Footnotes.
 
 Chapter 2 - Books on Elephants
 
@@ -49,9 +38,6 @@ It describes the merits and defects of milk, curd, butter and urine of the eleph
 madhuram hastinikshiram vrishyam guru kashayaka
 snigdam stairyakaram shitam cakshushyam balavardhamam[4]
 
-madhuram hastinikshiram vrishyam guru kashayaka
-snigdam stairyakaram shitam cakshushyam balavardhamam[4]
-
 Curd from milk of elephant cow provides beauty and is indigestable, increasing body heat and decreasing cough. The elephant ghee causes constipation and affects bile causing cough and destroys worms. Elephant urine helps to decrease vomiting, cough, worms, leprosy and wind. The mushroom born from elephant dung is a good medicine for polio.
 
 Brihatsamhita[5]
@@ -59,15 +45,6 @@ Brihatsamhita[5]
 Varahamihiracarya, the author of Brihatsamhita has devoted two separate chapters for showing the characteristic marks of elephants. In its second portion Varahamihira depicts the characteristic marks of elephants and movement of them in detail. The description of musthflud of the elephant shows good and bad characteristic etc. are seen in his Brihatsamhita.
 
 The good characteristic mark of elephant is described as follows:
-
-tam roshta talu vadanah kalavinganetrah
-snigdonnatagradashanah pridulayatasyah
-caponnatayataniguda nimagna vamsha
-stanvuekaromacita kurmasamana kumbhah
-vistirna karnahanunabhilala dagrihyah
-kurmonnata dvinavavimshatibhirnakhaishca
-rekhatrayopacita vrithakarah suvala
-dhanyah sugandhi madapushkaramarutashca[6]
 
 tam roshta talu vadanah kalavinganetrah
 snigdonnatagradashanah pridulayatasyah
@@ -89,15 +66,9 @@ Carakasamhita explains that an elephant parts or most of its limbs have medicina
 danti shyamamritasangah paravatashangudah
 pralepah syatangajasthini nimbo bhallatakanica[9]
 
-danti shyamamritasangah paravatashangudah
-pralepah syatangajasthini nimbo bhallatakanica[9]
-
 Gajagrahanaprakara[10]
 
 Narayanadikshita is the author of Gajagrahanaprakara, who narrates different method of catching elephants and their training. The work is known as Gaja-grahana-prakara, but the last verse suggests the name of the work as Gajasamgrahana-prakara of Narayana Dikshita indicates the author's name, which shows below:
-
-iti gajasamgrahana kalaprakara esha kshamatale jiyat
-narayanena dikshitavarena racita sureshanodaya[11]
 
 iti gajasamgrahana kalaprakara esha kshamatale jiyat
 narayanena dikshitavarena racita sureshanodaya[11]
@@ -123,9 +94,6 @@ Gajashastra[13]
 Pālakāpyamuni is the author of Gajaśāstra. Gajaśāstra contains 10 chapters named prakaraṇās. The text begins with the history of Pālakāpya. Origin of elephants, characteristics of various elephants, capturing, training, good and bad characteristic marks, their must, age, elephant treatment construction of elephant stall etc. are described in this book.
 
 Narrative of the good marks of battlefield elephant is the notable fact in this text.
-
-adityasyanalasyapi savarno yasya cakshushi
-sa eva varano rajan samareshu jayavahah[14]
 
 adityasyanalasyapi savarno yasya cakshushi
 sa eva varano rajan samareshu jayavahah[14]
@@ -285,10 +253,6 @@ Among these books Hastividyarnava and Shri Matangalilabhashya by K.C. Kunjunni E
 Manuscripts
 
 There are some manuscripts available on Elephant Science. Matangalila, Matangalilabhashya, Gajashastra and Gajacikitsa. Among this Gajacikitsa is an unpublished manuscript. It describes the matters connected with the treatments on elephants.
-
-Footnotes and references:
-
-[back to top]
 
 [1]:
 
@@ -454,10 +418,7 @@ Vagishashastri. Sushrutasamhita 55. Varanasi. 1972.
 
 ## 2. Preface
 
-
 Elephantology and its Ancient Sanskrit Sources
-
-by Geetha N. | 2012 | 36,369 words
 
 Elephant is considered as an inevitable part of Indian community. So they developed the study of Elephant which is based on Hastyayurveda and Matangalila. Even from the ancient time Indians were awareness about their hygiene and health. They were protected against diseases. They protected not just their own race but also plants and animals. Therefo...
 
@@ -536,10 +497,7 @@ Geetha.N.
 
 ## 3. Declaration
 
-
 Elephantology and its Ancient Sanskrit Sources
-
-by Geetha N. | 2012 | 36,369 words
 
 Elephant is considered as an inevitable part of Indian community. So they developed the study of Elephant which is based on Hastyayurveda and Matangalila. Even from the ancient time Indians were awareness about their hygiene and health. They were protected against diseases. They protected not just their own race but also plants and animals. Therefo...
 
@@ -556,21 +514,13 @@ GEETHA N.
 
 ## 4. Chapter 3 - Hastyayurveda (Hasti Ayurveda)
 
-
 Elephantology and its Ancient Sanskrit Sources
 
-by Geetha N. | 2012 | 36,369 words
-
 Elephant is considered as an inevitable part of Indian community. So they developed the study of Elephant which is based on Hastyayurveda and Matangalila. Even from the ancient time Indians were awareness about their hygiene and health. They were protected against diseases. They protected not just their own race but also plants and animals. Therefo...
-
-Go directly to: 
-Footnotes.
 
 Chapter 3 - Hastyayurveda (Hasti Ayurveda)
 
 In ancient India a good deal of attention was paid to the study of elephant’s disease. The corpus of conclusions of this study came to be known as Hastyayurveda - i.e., the science treatise on the breeds of elephants and on the diagnosis and treatment of elephant’s disease. It is the oldest bulky work in Sanskrit by sage Palakapya.
-
-“A practical treatise on the treatment of the diseases of the elephant is called Hastyayurveda (Hasti-ayurveda)”.[1]
 
 “A practical treatise on the treatment of the diseases of the elephant is called Hastyayurveda (Hasti-ayurveda)”.[1]
 
@@ -625,11 +575,6 @@ namna dirghatapastatah kupitavan nagam shashapanjasa
 tasmatte khalu kamacararahita naga bhabhuvurgatah
 martyanamapi vahamatramata noshapstu dikkunjarah[2]
 
-shakhataikh paripaditashramapade tasminstitastaparso
-namna dirghatapastatah kupitavan nagam shashapanjasa
-tasmatte khalu kamacararahita naga bhabhuvurgatah
-martyanamapi vahamatramata noshapstu dikkunjarah[2]
-
 After the curse the diggajas approached Brahma and revealed the fact, the elephants were gone to the earth, and availed bad food so they may be vulnerable to diseases. Then Brahman pacified them by saying that "a sage will be born immediately, he will be related to the matangas and will protect them".
 
 Hastyayurveda gives a clear picture of the origin of the elephants and the birth of Palakapya. Being compelled by Romapada; the King of Anga, Palakapya reveals his identity.
@@ -641,12 +586,6 @@ Campa city was ruled by King Romapada, once he knew that his farm and plants wer
 Palakapya, the elephant messiah (protector) searched them in the forest and nearby places. At last, he found them captivated in Campa, and he treated their wounds. He always spend his time with the elephants.
 
 Then he saw fifteen elephants are dies-and he know the reason thus.
-
-paravatat patamam panko vishavalli jaranalah
-kripah pratigajo graho vidyudlabado bhujangamah
-ala daramsastha vyaho balye maturvisarjanam
-dashabhih panjabhishcaiva hetubhirvarana vane
-mriiyante naganam tristaunajjayate bhayam[3]
 
 paravatat patamam panko vishavalli jaranalah
 kripah pratigajo graho vidyudlabado bhujangamah
@@ -671,9 +610,6 @@ The etymology of the word Palakapya is given below:
 palanat gajayuthasya kapyagotrodbhavo yatha
 palkapya itisriman namdheyam cakara sah[4]
 
-palanat gajayuthasya kapyagotrodbhavo yatha
-palkapya itisriman namdheyam cakara sah[4]
-
 The mythological story of Palakapya indicates same as the story of Shakuntala - the human baby of Menaka and Vishvamitra, she was abandoned in the forest–was protected and reared by the birds–known as Shakunta in Sanskrit. Shakuntala, the human baby, abandoned in the forest–was protected and reared by the birds. Like this story,
 
 Hastyayurveda describing the birth and nourishing of Palakapya, whose life is with the elephant. The sage named him 'pala and he was known as Palakapya.
@@ -683,14 +619,7 @@ janami bhakshyabhakshyam ca tadaivengitabrimhitam
 yada yacca nishevante pratikaryam ca yena yat
 aranye kurvate nagastat sarvam viditammama[5]
 
-smriddohamatah satmyam sukham dukham ca hastinam
-janami bhakshyabhakshyam ca tadaivengitabrimhitam
-yada yacca nishevante pratikaryam ca yena yat
-aranye kurvate nagastat sarvam viditammama[5]
-
 Hastyayurveda is the basic and best available text on elephant lore. The text itself reveals this fact:
-
-“swayambhu prag dadau yasmaki gajayurvedamuttamam”[6]
 
 “swayambhu prag dadau yasmaki gajayurvedamuttamam”[6]
 
@@ -752,10 +681,6 @@ angadesheshvabhut shriman ramapado mahipathih
 angarajo mahaprajnnah campayam pridhivipatih
 mahaprabhavamasinam palakapyam sma priecchati[8]
 
-angadesheshvabhut shriman ramapado mahipathih
-angarajo mahaprajnnah campayam pridhivipatih
-mahaprabhavamasinam palakapyam sma priecchati[8]
-
 So it is concluded that Palakapyan is Angadeshin. Hastyayurveda is available in the Raja Serfoji Saraswathy Mahal Library of Thanjavur in South India in 1894.
 
 Date
@@ -771,19 +696,9 @@ kamyacasya mahabhaga santa nama bhavishyati
 putrastvangasya ranjastu romapada iti shrutah
 tam sa raja dasharathah gamisyati mahayashah[9]
 
-ikshvakoonam kule jatah bhavishyati sudharmikah
-namna dasharatho raja shriman satyapratishravah
-angarajan asakhyam ca tasya ranjo bhavishyati
-kamyacasya mahabhaga santa nama bhavishyati
-putrastvangasya ranjastu romapada iti shrutah
-tam sa raja dasharathah gamisyati mahayashah[9]
-
 This shloka indicated that Romapada is the contemporary of Dasharatha, the King of Ayodhya; formed in Ramayana.
 
 The date of Dasharatha is considered as:—
-
-caturvamsho yuge ramo vasishtena purodhasa
-saptame ravanasyarothe janje dasharathatmajah
 
 caturvamsho yuge ramo vasishtena purodhasa
 saptame ravanasyarothe janje dasharathatmajah
@@ -805,10 +720,6 @@ There is a Malayalam translation available on Hasytayurveda, authored by Vaidyam
 Hastyayurveda is most popular text available on elephant science because there is no other treatise available beyond this. Hastyayurveda is generally considered as Kalpavriksha (coconut-tree).
 
 Matangalila is the other best known book on elephant. According to Gajashastra, no other work is available in Kerala like Matangalila.
-
-Footnotes and references:
-
-[back to top]
 
 [1]:
 
@@ -858,15 +769,9 @@ A short history of Sanskrit literature.
 
 ## 5. Chapter 1 - Introduction
 
-
 Elephantology and its Ancient Sanskrit Sources
 
-by Geetha N. | 2012 | 36,369 words
-
 Elephant is considered as an inevitable part of Indian community. So they developed the study of Elephant which is based on Hastyayurveda and Matangalila. Even from the ancient time Indians were awareness about their hygiene and health. They were protected against diseases. They protected not just their own race but also plants and animals. Therefo...
-
-Go directly to: 
-Footnotes.
 
 Chapter 1 - Introduction
 
@@ -879,11 +784,6 @@ Keywords: Creatures, Cetana, Sthāvara (non-moving); Acetana, Jaṅgama (moving)
 Ayurveda is the knowledge (Veda) of life (Ayus). It is applicable to all types of living beings or the Jivasrishti, consisting of the humans, plants and all living being in the world. The Ashva-ayurveda, Gaja-ayurveda or Hasti-ayurveda, are the discussion about the health as well as the diseases and the remedies there of in the case of the animal world and the plant world respectively. The fundamental theory of Tridosha (vata, pitta and kapha) is applicable like the consideration of the rasadi seven dhatus, and the malas (filth) like mutra (urine) and purisha (feacus). The concept of Bala (strength) is also narrated in the Hastyayurveda. It states that the elephants born and brought up in the jungles more freely, play happily in the water and mud. By playing more and more, the ojas or Dhatuprasada is produced; resulting in the good health, which in turn gives good strength and the Bala (strength) or Ojas.[1]
 
 The Hastyayurveda specifically says:—
-
-pamshukardamatoshaiccha tatah kridantiharshitah
-dhatuprasadam kshipram tu kriitatam jayatedhikam
-dhatuprasadandarogyadbalameva ca
-balacca sarvaroganam nivrittih syadatah param[2]
 
 pamshukardamatoshaiccha tatah kridantiharshitah
 dhatuprasadam kshipram tu kriitatam jayatedhikam
@@ -909,11 +809,6 @@ Mammoths
 Mammoths are vanished from the earth before 5000 years ago. World's one Mammoth memorial centre is situated in Ukran. The mammoth is a pre-historic animal closely related to the present day elephants, they were huge, lumbering beasts. Some of the Mammoths measured 4-5 metres in height at the shoulder. They had trunks and tusks too. After some times they grew up to 4-5 metres long tusks. They were wooly animals and lived in the icy lands of Asia, Europe and America.
 
 They belonged to the Elephantidae—the family of elephants and they are comparable to the Arala and the Atyarala varieties of elephants, described in the 18th chapter of the gajashastram.
-
-astarathi dashsyame caikadasha ca nahatah
-aralah satu vinjeyah sarvakarmasu garhitah
-na varantyunnato nagah tadhaiveka dashayatah
-nahato dradasharatnih atyarala iti smritah[3]
 
 astarathi dashsyame caikadasha ca nahatah
 aralah satu vinjeyah sarvakarmasu garhitah
@@ -1190,10 +1085,6 @@ Conclusion
 
 In short, even though studies of Elephantology gave much importance of the mind of ancient Indian peoples. Now-a-days also this science got much more important place with as a whole or separately, comprehensive study covering all the subjects based on Sanskrit literature alone is perhaps being done for the first time.
 
-Footnotes and references:
-
-[back to top]
-
 [1]:
 
 Gajashastra Siddharth Yeswanth Wakankar, Introduction-1-2.
@@ -1238,15 +1129,9 @@ Malayala Manorama daily, 1.9.2010.
 
 ## 6. Chapter 4 - Content Analysis of Matangalila
 
-
 Elephantology and its Ancient Sanskrit Sources
 
-by Geetha N. | 2012 | 36,369 words
-
 Elephant is considered as an inevitable part of Indian community. So they developed the study of Elephant which is based on Hastyayurveda and Matangalila. Even from the ancient time Indians were awareness about their hygiene and health. They were protected against diseases. They protected not just their own race but also plants and animals. Therefo...
-
-Go directly to: 
-Footnotes.
 
 Chapter 4 - Content Analysis of Matangalila
 
@@ -1265,19 +1150,7 @@ nityam shrimangalavasya mangalagurujanadatta shastravabodah
 brahmanandabhidham pratayatikripaprapta tatvabodhah
 vadhita stairyakamkshi parshitanitaro ratnamuccai ratanit[2]
 
-nrisimhayadavakaratejo dvitayamadvayam
-rajate nitaram rajaraja mangaladhamani
-tatratyah shrimadetaccaranasarasijaikashrayo nilkantho
-nityam shrimangalavasya mangalagurujanadatta shastravabodah
-brahmanandabhidham pratayatikripaprapta tatvabodhah
-vadhita stairyakamkshi parshitanitaro ratnamuccai ratanit[2]
-
 He mentions that he was an inhabitant of Tirumangalam near Tirur. It assured in Manushyalaya Candrika.
-
-shrimatkundapure virajati parakrode ca tejatparam
-navanamni ca dhamni yacca nitaram malliviharalaye
-ashvathakhyaniketanepi ca pure shrikeraladhisvare
-sambhuyaita duraprakashavishaye citte mamojjrimbhatam[3]
 
 shrimatkundapure virajati parakrode ca tejatparam
 navanamni ca dhamni yacca nitaram malliviharalaye
@@ -1291,16 +1164,9 @@ premaprakarshnilaya ssakalabhivandyah
 shrimadgirindratanaya tanayot∫ ngribhajam
 kamaprado jayati mattamatangajjasyah[4]
 
-shrimangalaspada sadashraya nilakante
-premaprakarshnilaya ssakalabhivandyah
-shrimadgirindratanaya tanayot∫ ngribhajam
-kamaprado jayati mattamatangajjasyah[4]
-
 In the first shloka of fourth chapter of Manushyalaya Candrika he pays reverence to the dieties of Nrisimhayadhava installed in the Rajarajamangala temple Tirur,, now at municipal town in Malappuram District of Kerala. In Manushyalaya candrika and Kavyollasa (which are the another work of the author), he involved the deities of several temples, which are the prakashavishaya (vettattunadu) prakashavishaya is a tract of land around Tirur. Prakasha means light (vettam in Malayalam) and vishaya means country (natu in Malayalam).
 
 Therefore it can be regard that Nilakanthan is a native of Tirumangalam near Tirur.
-
-taddavapadakamalaikasamashrayah kopyudyota managuruvarya kripabhiyogat vidyaparishramaparo bhahudhamashuddhavyudyogavan bhavanti balavibodhane ca yesham shrutipranayini dhishana yadiyassankalpa kalpitatanh parameshvaropi tesham mahisumanasam mahaniyabhasamuttamsaye paramudarapadaravindam. nissarga samsidda samasta shilpapravinyamadyam druhinam pranamya mayamanushyalayacandrikaisa vilikhyate mandadiyam hitaya mayamatayugalam prayogamanjaryapi ca ribandanabhaskariya yugmam manumata gurudevapaddatishriharijayanadi mahagama jayanti.
 
 taddavapadakamalaikasamashrayah kopyudyota managuruvarya kripabhiyogat vidyaparishramaparo bhahudhamashuddhavyudyogavan bhavanti balavibodhane ca yesham shrutipranayini dhishana yadiyassankalpa kalpitatanh parameshvaropi tesham mahisumanasam mahaniyabhasamuttamsaye paramudarapadaravindam. nissarga samsidda samasta shilpapravinyamadyam druhinam pranamya mayamanushyalayacandrikaisa vilikhyate mandadiyam hitaya mayamatayugalam prayogamanjaryapi ca ribandanabhaskariya yugmam manumata gurudevapaddatishriharijayanadi mahagama jayanti.
 
@@ -1309,19 +1175,11 @@ In Shrishankaragurucarita:—
 yatgramasambandhi krita manushyalayacandrika
 matangalila cadyapi keraliyairadhiyate[5]
 
-yatgramasambandhi krita manushyalayacandrika
-matangalila cadyapi keraliyairadhiyate[5]
-
 which indicate that Nilakantha is the author of Matangalila and Manushyalaya Candrika.
 
 markandeyanibandianam mayamatam ratharatim, proktam kashyapa vishvakaramadevoktanca panashikam savyakhyam harisamhitam vivaranadyam vastuvidyadhikanam drishtva tamtrasamuccayokta manusritaivatra samkshipya te (manushyalaya candrika) nrisimhayadavau daityasamuhogratavitavau rajamanau bhaje rajarajamangalavasinous. (matangalila).[6]
 
-markandeyanibandianam mayamatam ratharatim, proktam kashyapa vishvakaramadevoktanca panashikam savyakhyam harisamhitam vivaranadyam vastuvidyadhikanam drishtva tamtrasamuccayokta manusritaivatra samkshipya te (manushyalaya candrika) nrisimhayadavau daityasamuhogratavitavau rajamanau bhaje rajarajamangalavasinous. (matangalila).[6]
-
 Both these works (Manushyalaya Candrika and Matangalila) gives the term Nrisimbhayadavau and Rajarajamangala, and the verses of Manushyalaya Candrika gives the name of the author that is, Nilakantha. The name of his house was Tirumangalam and he worshipped the deities of Narasimha and Shrikrishna of Rajarajamangala Brahmananda, the commentator of Uttaragita of Goudapada was the Vedantaguru (teacher) of Nilakantha. Goudapada is also attributed with a work Bhagavataoladeshasaram. He is assumed to be the seer of Thrishshur convent. Nilakantha mentions of temples of Thrikkantiyur, Tripangod, Tirunavay, Mullappalli Alathur and Keladhishvaram. If we accept the reading.
-
-nitya rajarajamangalapure carad ganeshalaye
-nava namni ca dhamni rajatitaram malliviharalaye[7]
 
 nitya rajarajamangalapure carad ganeshalaye
 nava namni ca dhamni rajatitaram malliviharalaye[7]
@@ -1393,11 +1251,6 @@ vahantyeva haya rathah
 varanastu narendrarhah
 yudhyanti ca vahanti ca[11]
 
-yudhyanti kevalam martyah
-vahantyeva haya rathah
-varanastu narendrarhah
-yudhyanti ca vahanti ca[11]
-
 The third chapter describes the unfavourable marks in 7 verses. The king is advised not to catch a cow-elephant if a young one accompanies her, because it will seriously hurt the wealth of the country.
 
 The fourth chapter deals with marks of longevity state and best elephants. It includes only 4 verses. This chapter explains the full length of life of the elephants. The best type of elephant will live in twelve decades while the 'slow' and 'dear' castes may be expected to live only for eight and four decades respectively.
@@ -1407,8 +1260,6 @@ The fifth chapter explains the different stages of life of elephant. The animal 
 The standard measurement of each of the three main castes, the length, height etc. is described in the sixth chapter. In modern times also this measurement is recognized.
 
 The seventh chapter is the smallest one in Matangalila. It consists of only 3 verses. It narrates the method to calculate the price of elephants. The prices is calculated in accordance with their quantities.
-
-griniyat purnamulyena tu nikhilagunaih -ranvitam varanendram bhagnaikamkshyam ghriidantam badhirampiruja vantamapyardhamulyaot ccinnardhashrotra baladikamapi matimam statra mulyastribhaga- ddantadvandvaprahinadikamabhivarama–pyangrimulyena grihyat[12]
 
 griniyat purnamulyena tu nikhilagunaih -ranvitam varanendram bhagnaikamkshyam ghriidantam badhirampiruja vantamapyardhamulyaot ccinnardhashrotra baladikamapi matimam statra mulyastribhaga- ddantadvandvaprahinadikamabhivarama–pyangrimulyena grihyat[12]
 
@@ -1438,8 +1289,6 @@ Matangalila deals with the elephant's life cycle in detail. That is:—
 
 Utattiḥ śubhalakṣanānyaśubhala- Kṣmāyur vayolakṣaṇam mānam mūlyaviśeṣasatvamabh® dāsca kramāddantinām vanyānām grahaṇam ca rakṣaṇadinar- tvāvārabhedādikam nāgādhyakṣaguṇādikam ca sakalam samkṣepato vakṣyatte[13]
 
-Utattiḥ śubhalakṣanānyaśubhala- Kṣmāyur vayolakṣaṇam mānam mūlyaviśeṣasatvamabh® dāsca kramāddantinām vanyānām grahaṇam ca rakṣaṇadinar- tvāvārabhedādikam nāgādhyakṣaguṇādikam ca sakalam samkṣepato vakṣyatte[13]
-
 Matangalila gives a clear picture of the origin of the elephants and the birth of Palakapya.
 
 Elephant castes
@@ -1448,18 +1297,11 @@ There are four famous castes mentioned in Matangalila. They are 'bhadra', 'slow'
 
 jatā bhadra dvipendrāḥ kṛtayugasamayelakṣaṇenābhiyuktā- stretāyām mandajātyāḥ khalu gajapatayo dvāparakhye yuge ca nāgāścaite mṛgākhyāstadanu kaliyuge traiva samkīṛṇajātaya nāgānām jātibhedaijaniriha kathita kālayogānurūpa[14]
 
-jatā bhadra dvipendrāḥ kṛtayugasamayelakṣaṇenābhiyuktā- stretāyām mandajātyāḥ khalu gajapatayo dvāparakhye yuge ca nāgāścaite mṛgākhyāstadanu kaliyuge traiva samkīṛṇajātaya nāgānām jātibhedaijaniriha kathita kālayogānurūpa[14]
-
 A version of different castes
 
 Duration of time is divided into four yugas in ancient days they are the krita, dvapara, treta and kaliages various castes of elephants are born in this four ages respectively. Among these ages first age is krita, the spring time. The bhadra caste is born in that stage. They looked like spendiferous, bearing beauty and good characteristic marks. Their body is not over thick, they are rosy in colour, energetic, ambitious towards by the cows, having twany eyes and well balanced tusks, impartial is lustiness and grief. They are known as bhadra.
 
 The Brihatsamhita mentions bhadra caste thus–
-
-madvabhadantah suvibhaktadeha
-na copodigda na krisha kshamashca
-gatraih samaishcapa samanavamsha
-varaha tulairjaganaishcabhadrah[15]
 
 madvabhadantah suvibhaktadeha
 na copodigda na krisha kshamashca
@@ -1485,21 +1327,11 @@ stanvangadhrikandadvija hasta karnah
 stulekshanashceti yathoktacihneh
 sankirnanaga vyatimishracihnah[16]
 
-mrigastu hrasvadharavalameda
-stanvangadhrikandadvija hasta karnah
-stulekshanashceti yathoktacihneh
-sankirnanaga vyatimishracihnah[16]
-
 Life time
 
 The bhadracaste had lived twelve decades as their maximusm age, and deer caste lived for four decades. The manda castes can life upto the time of eighty and the mishra caste were born as minkling of bhadra and mriga. According to Nilakantha, mishra castes age can't be calculated.
 
 Varahamihira refers to elephant's longevity–
-
-panconnatih saptamrigasya dairghya
-mashtau hastah parinahamanam
-ekadvi vridhavatha manda bhadrau
-samkirna nagoniyata pramanah[17]
 
 panconnatih saptamrigasya dairghya
 mashtau hastah parinahamanam
@@ -1521,9 +1353,6 @@ One who has an admirable tusk, back born and is considered as an excellent eleph
 That is described in Manasollasa (mo)
 susniadau radanau vrittou dakshinashca. samunnatah akrishtam talu tamram ca dasashtau nakhashubhah [18]
 
-That is described in Manasollasa (mo)
-susniadau radanau vrittou dakshinashca. samunnatah akrishtam talu tamram ca dasashtau nakhashubhah [18]
-
 Obesity is the essential thing, it must have long legs and arms, large long round neck is essential, trumpeting with a roar like clouds, full of water with honey coloured eye, with trunks like tree sterms and marked with three corrugations such elephants are fine. Those having drum like trunk kettle like ears, and flutes like mouth are also considered as good.
 
 Those who do not make any sound due to hunger, thirst, grief and fright, are considered to be auspicious who make sounds like a lion, crane peacock, cuckoo, tiger, lion and bull, were considered as good.
@@ -1531,8 +1360,6 @@ Those who do not make any sound due to hunger, thirst, grief and fright, are con
 According to their characteristics they had various names.
 
 Since they came walk anywhere and everywhere they are named naga. They can roar in high sounds they are called as gaja. They were the portion of the troof and they protect the king in the battle so they called varana, because of their weight they make tribudiness their way so they named matanga; with the force of their feet they scrunch the earth so they called kunjara, because of blot in their body they are known as padmini, they can drink both with the mouth and trunk so they called dvipa, they are known as eight blows because they attack with trunk, tail, tusk and forefeat. They were known as hasti because they born from the hands of Brahma. Because of their beauty and immensity in body they called ibha, because of their long trunk they were known as karin they are known as dantin because they have tusk, they are joyful in the water so they are known as sindhura.
-
-gajashiksha makes out a pictures of padminpadiminaste kinnaramshah padmagemdah shubhekshanah piryaparshvah shantacinta dhimatah priyabhashanah[19]
 
 gajashiksha makes out a pictures of padminpadiminaste kinnaramshah padmagemdah shubhekshanah piryaparshvah shantacinta dhimatah priyabhashanah[19]
 
@@ -1553,11 +1380,6 @@ yatra tishtanti parthiva
 hanyate tatra nripatih
 sutena suhrida piva[20]
 
-lakshamushkastu matanga
-yatra tishtanti parthiva
-hanyate tatra nripatih
-sutena suhrida piva[20]
-
 If it can (an elephant) lacks the right ear, it will destroy the forecasts. It may cause the disease of the king if lacks of the left ear. If there has an evilbolt in his skin, tusk, check or nail they shall be forsaken.
 
 At night who seems to rejoice, the day time who jittered and to make sounds with the birds fanning the tail, who impulse to mahout that kind of elephant is known as rogue elephant is abunded and they must discarded.
@@ -1567,15 +1389,7 @@ As mentions the disqualified elephant.
 vikko mudo matkuno vyadhito
 garbhini denuka, hastini ca agrahyah[21]
 
-vikko mudo matkuno vyadhito
-garbhini denuka, hastini ca agrahyah[21]
-
 If a she-elephant is pregnant or accompanied by a calf it is beleived to bring bad luck. That is:–
-
-potanvita va karini sagarabha
-labdva bhaved vahanakoshanashah
-tapovane va svavane thavapi
-nitvaripayet diggajadevapujam[22]
 
 potanvita va karini sagarabha
 labdva bhaved vahanakoshanashah
@@ -1608,11 +1422,6 @@ nahapramanam tu vitastayo shtau
 etat dvivarmu dhavada mandabhadrau
 prapte tu varshedashame triyuket[24]
 
-panconnatisapta mrigasya dairghyam
-nahapramanam tu vitastayo shtau
-etat dvivarmu dhavada mandabhadrau
-prapte tu varshedashame triyuket[24]
-
 Stages of life marks
 
 According to their age four different names are given to them. Before twelfth year he is know as jagahanya, at this age he is worthless; before twenty fourth years he is known as madhyagaja, at this time he is of middling value, before sixty year, he is named as matangavarya. At this time he is formed as a noble elephant, after sixty year, he is known as uttamagaja.
@@ -1624,11 +1433,6 @@ At first, the new born baby is called balan. It is light reddish colour, always 
 In the second age, it is called puncaka. At this time the baby elephant is also called pashuka. Its body parts are reddish and its eyes are partially shut, it begins to eat the spring leaves and grass indisposed to drinking milk, mostly like sweety food, journey is in orgastic, its interest is to play.
 
 In the third age he is known as upsarapaka. At this age it is matured. At this age his nails, vidu, joints, ears, and sheaths and covering of the tusks are clearly developed; its body is hairy, he begins to eat grass with firm rows of teeth.
-
-vilaganishkoshavilohitah payo
-divt prohasandanaghanastrinapriyah
-krishnahtataluh pritulashcaatushtaye
-manak prarohaddashanohi harbarah[25]
 
 vilaganishkoshavilohitah payo
 divt prohasandanaghanastrinapriyah
@@ -1657,8 +1461,6 @@ At the age of 111-120 he seems like:—
 
 nīcaiśa mandam pramṛśecca yāyaccalatkaro dhaścalakarṇabāiaḥ prastabdagātraḥ paravānajaśram sa drādaśīm prāpya daśām svapecca [27]
 
-nīcaiśa mandam pramṛśecca yāyaccalatkaro dhaścalakarṇabāiaḥ prastabdagātraḥ paravānajaśram sa drādaśīm prāpya daśām svapecca [27]
-
 His trunks, ears, and tail-swaying downward, fore- and hind limbs are stiff, he sleep constantly in this twelfth stage. The age up to 120 is considered as the last stage of an elephant.
 
 Having performed many duties the elephant goes to heaven in his hundred and twenty years.
@@ -1676,9 +1478,6 @@ There are three types of cow elephants. They are best cow-elephant, middling cow
 shadpancacaturaccraya cashtacaptashadayatah
 navashtasa[tanabhashca mukyamadhyadhama vashah[28]
 
-shadpancacaturaccraya cashtacaptashadayatah
-navashtasa[tanabhashca mukyamadhyadhama vashah[28]
-
 Elephant length is calculated by measuring the distance from the eyes to the root of tail, and height is measured from the top of shoulder to the ground. Now-a-days also used this method of height measurement.
 
 Body parts of Elephants, named differently. The two nobs between the head's called vidhu, its under part is named vahitha, its lower portion is known as vayukumbha. The space between left and right nobs are called vilaga. Tip of the trunk is known as pushkara. Brink/lair of the eye is called ishila. Corner of the eye is known as niryana and the earroot is named culika.
@@ -1690,11 +1489,6 @@ Middle of the body is known is nigala, above that is cikka. Over the haunch is c
 Above the waist is called apara, over the buttocks namded nishkosha, belly parts are known as kukshi, bellies elecated sides named uttrishta.
 
 The tail root is named as pecaka below the throat is known as antarmani.
-
-pushcamulasamipah syat
-pecakastu galadadh
-urasyantam manim vidyat
-grivasandhim samashritam[29]
 
 pushcamulasamipah syat
 pecakastu galadadh
@@ -1720,15 +1514,7 @@ ata eva mulyadanatte svikaryah parikshtah karmasha
 trivayaskjah karinastu svikarya mulashatakadinaraih
 evam caturtha varshah pancamavarshashadabhakah potah[31]
 
-uttamagajastu loke nahi labhyasarvadesheshu
-ata eva mulyadanatte svikaryah parikshtah karmasha
-trivayaskjah karinastu svikarya mulashatakadinaraih
-evam caturtha varshah pancamavarshashadabhakah potah[31]
-
 Then he narrates the value of elephants in each and every phases. At the age of 5 to 10 it takes hundred price, beyond this state increasing their value accordingly their body characters. The uttamagaja carries full price.
-
-uttamakulajah shadgunaparimanditah sarupashca
-mulyadhikyarha iti dushyante dviradagunakulatnaih[32]
 
 uttamakulajah shadgunaparimanditah sarupashca
 mulyadhikyarha iti dushyante dviradagunakulatnaih[32]
@@ -1752,11 +1538,6 @@ shuklakalahastathi kulirugandhah
 krodhi ca bhedayh kripanah
 satvena shudra ssagajo s?hamashca[33]
 
-uccishta hrishtassahasaiva bhiruh
-shuklakalahastathi kulirugandhah
-krodhi ca bhedayh kripanah
-satvena shudra ssagajo s?hamashca[33]
-
 Based on the caste variety, they are classified into gods, demons, gandharvas, yakshas, gaint, goblin, serpant, etc. Another classification is based on varying the degrees of sensitivity to stimulation. The sensation of elephants is known to be seven fold according to extreme, shallow deep, comfortable to meaning, contrary to meaning, harsh and perfect. In Sanskrit they are known as atyarthavedi, uttanavedi, gabhiravedi, anvarthavedi, pratyarthavedi, karkkashavedi and siddhantavedi.[34]
 
 Gajashiksha Naradhamuni describes the different characteristics of elephant. In the second chapter he narrates twenty-eight varieties of elephants found on earth. Among them 16 varieties are called noble ones as they are born with the characterisation of gods, semigods, and human beings.
@@ -1768,11 +1549,6 @@ According to Nilakantha, elephants vary their several signs indicating this. The
 Who tries to do prohibited things desirous in fighting, soon angered, unkind, smelled like aloes or fish he likes to kill anything these are the character of a Demon.
 
 The Deva is:—
-
-yah kantiman kumudacandanasaptaprana
-naramgapadmacaturangulatulyagandhah
-phullananah kalabha kautukabanajasram
-manyosnya pushaninadah sa tu devasatvah[35]
 
 yah kantiman kumudacandanasaptaprana
 naramgapadmacaturangulatulyagandhah
@@ -1806,11 +1582,6 @@ mandasya naridrakasannikashah
 krishno bhavashcano hi hito mrigasya
 sangirna nagasya mado vimishrah[36]
 
-bhadrasya varno harito madashca
-mandasya naridrakasannikashah
-krishno bhavashcano hi hito mrigasya
-sangirna nagasya mado vimishrah[36]
-
 According to M.S. Joy must is also known as must, musth and matt; in Sanskrit it is called mada, means intoxication. It is only rupture.
 
 In Matangalila must is stated as a rupturous condition. Must is found majority in male elephants and very rarely in females on maturity, are subject to peculiar paroxysms of excitement which have some connection with the sexual functions it occurs. Most frequently in the cold season and may perhaps due to ungratified sexual desire in some cases, but not always. So since the society of female by no means always quells or even pacifics animals in must. Other times an animal in must. Other times an animal is must doubtedly seeks the opposite sex for mating. Some elephant becomes dull and morose. The behavioural changes shown by disobedience to commands trying to break away or shows violence to man or destructive tendencies and being altogether out of sorts. When must is established there is often a partial retention of urine the water to trickled away. As soon as the urine is passed freely the natives consider the dangerous stage is over. The attack may last for a few days, week or months. It is considered to be of sexual nature.
@@ -1838,21 +1609,6 @@ saptaparnavijayengudimadhu
 dugdapishtamidamangalepitam
 matta varanavaram vasham nayet[38]
 
-sahamritashigru baladvimurva
-kapitha saptacchada candananam
-kadambagunja madhukashvagandha
-jivantikashalmalisurananam.
-vrishcirasevyekshurakukkutanda
-gunjashvagandhayurugokshuranam
-keripayah kshaudrayuto gajanam
-pindah pradeyo madasambhaveyam.
-korandamallikanimbavilvamulaisasaindhavaih
-sengudairmadhuna pindo deyo roshavivardhanah
-matalanga suvahasahakana.
-saptaparnavijayengudimadhu
-dugdapishtamidamangalepitam
-matta varanavaram vasham nayet[38]
-
 M.S. Joy in his text named Ana mentions that must gland is the differentiation of an elephant. He further states that if there is an elephant with must in the town or the country the earth Goddess be pleased to shower good food, which could be attained easily. If the must found in its right ear side, that elephants owner becomes a victor, and if it is found in the left side then there is plenty of rain fallen in the earth. If it is seen in the penis then the king become luminory person (Kubera).
 
 The must is related to the sexual sensitive swoon. But it is not connected with last perplexity. Matangalila and other connected works reveal it is an excitement or rupture state of an elephant.
@@ -1864,10 +1620,6 @@ Matangalila is filled with observations reflecting elephants biological behaviou
 Hastyayurveda and Matangalila are revealing almost the same matters, even if there is no other best work, on Gajashastra like Matangalila, which caused for simple description of a monstrous topic.
 
 Various phases of development of elephant is an interesting topic.
-
-Footnotes and references:
-
-[back to top]
 
 [1]:
 
@@ -2025,21 +1777,13 @@ Matangalila. IX. 20-23. 55.
 
 ## 7. Chapter 6 - Capturing of Elephants
 
-
 Elephantology and its Ancient Sanskrit Sources
 
-by Geetha N. | 2012 | 36,369 words
-
 Elephant is considered as an inevitable part of Indian community. So they developed the study of Elephant which is based on Hastyayurveda and Matangalila. Even from the ancient time Indians were awareness about their hygiene and health. They were protected against diseases. They protected not just their own race but also plants and animals. Therefo...
-
-Go directly to: 
-Footnotes.
 
 Chapter 6 - Capturing of Elephants
 
 Most of the Gajashastras accept five methods, of capturing wild elephants. This job was carried out at the end of the rainy season. In Matangalila, Nilakantha also mentions the five operations for capturing elephants as follows:—
-
-Varikarma vashavilobhanavidhibhyam canugatya tadai-Vapatena tato'vapadattaa iti-hebhagrah pancadha nindyaste tu yatchottaram kila gaja nashyanti yasmattato varjyavantyabhavavubhavapi visheshadetayoshcantimah[1]
 
 Varikarma vashavilobhanavidhibhyam canugatya tadai-Vapatena tato'vapadattaa iti-hebhagrah pancadha nindyaste tu yatchottaram kila gaja nashyanti yasmattato varjyavantyabhavavubhavapi visheshadetayoshcantimah[1]
 
@@ -2058,11 +1802,6 @@ In 1890, G.P. Sanderson who was the manager of elephant capturing at Mysore and 
 Taking five or six elephants and covering their backs with leather, elephant tenders shall hide under these skins armed with ropes etc. then by striking them with their hands they shall drive the cows straight ahead and shall quickly tie up five or six elephants and they are trained by the elephant-cows. This type of catching is known as Vashavilobhana or cow seduction.
 
 3. Anugata
-
-Bherituryakakahaladininadairvidravya nagan brisam
-bhianashu sada sasainyamanudhavanto bhata nirbhayah
-yavad pada parishramena kalubhah stabdah syuretanstada
-bbadniyudchatura javatanugatakhyosƒ am. gajanamgrah[3]
 
 Bherituryakakahaladininadairvidravya nagan brisam
 bhianashu sada sasainyamanudhavanto bhata nirbhayah
@@ -2104,17 +1843,7 @@ bandashcanugatah parah
 Uttamastriprakarah syat
 bandhah karatinamayam[6]
 
-Vashabandha varibandho
-bandashcanugatah parah
-Uttamastriprakarah syat
-bandhah karatinamayam[6]
-
 It states that the last two methods are not considered as good.
-
-apadashca'vapatashca dvau
-bhandhanu ninditau matau
-vinashyanti gaja yasmat
-tasmat tau parivarjayet[7]
 
 apadashca'vapatashca dvau
 bhandhanu ninditau matau
@@ -2126,15 +1855,7 @@ Gajagrahanaprakara describes that:—
 anugata-bandhasyapi prayogavid bhupatshreshtah
 labhate hytutam siddhim sahasa hastigrahnakale[8]
 
-anugata-bandhasyapi prayogavid bhupatshreshtah
-labhate hytutam siddhim sahasa hastigrahnakale[8]
-
 It is also mentioned in the MU.
-
-apadakhyah samakhyato
-bandho’ yam hastibandhakaih
-nindhitashca bhavatyesha
-simhasamashayitah sada[9]
 
 apadakhyah samakhyato
 bandho’ yam hastibandhakaih
@@ -2166,8 +1887,6 @@ Among the three, Rekhavan is the best one. The second place is held by Yuktiman,
 The best mahout is intelligent, brave, kinglike, righteous, devoted to his lord, pure, veravious, free from voice, mortificated by self, courages, energetic, merciful, well trained, renowned for curing diseases, and possessing all knowledge about elephants.
 
 The characteristics of a mahout are–
-
-Shikshaprakrama dakshamam kushagada Sanjarana prakriya bhedanjam baludesha kalanipunam danakriya. dakshinam arohaneshvarohaneshu kushalam santamvayomarmanam njataram munayo vadanti nripate tvadhoraham dantinam[13]
 
 Shikshaprakrama dakshamam kushagada Sanjarana prakriya bhedanjam baludesha kalanipunam danakriya. dakshinam arohaneshvarohaneshu kushalam santamvayomarmanam njataram munayo vadanti nripate tvadhoraham dantinam[13]
 
@@ -2231,10 +1950,6 @@ The two fold training mentioned two eyes for the human beings. The point is that
 M.S. Joy, author, Ana, mentions the training time of elephant is fixed both in the morning and evening which extends of to one hour daily. If they obey then they should be pleased with came or another tasty food. First training is occurs in the cage after that they had to be lead for both. The newly tamed elephants had given more attention especially in the first two years. The elephant’s reaction is of seven types. That is extreme, shallow, deep confirmable contrary to meaning, harsh and perfect. Each of them reacts according to their own character.
 
 Always the newly captured elephants will be furnished by thinking of its past life. So it is essential to protect them from diseases. Elephant keeping in various seasons and Kerala Style-Ayurvedic treatment etc. is explained in the next chapter.
-
-Footnotes and references:
-
-[back to top]
 
 [1]:
 
@@ -2316,15 +2031,9 @@ Gajagrahanaprakara. 4. 429. 536.44.
 
 ## 8. Chapter 5 - The Life-cycles of Elephants
 
-
 Elephantology and its Ancient Sanskrit Sources
 
-by Geetha N. | 2012 | 36,369 words
-
 Elephant is considered as an inevitable part of Indian community. So they developed the study of Elephant which is based on Hastyayurveda and Matangalila. Even from the ancient time Indians were awareness about their hygiene and health. They were protected against diseases. They protected not just their own race but also plants and animals. Therefo...
-
-Go directly to: 
-Footnotes.
 
 Chapter 5 - The Life-cycles of Elephants
 
@@ -2429,11 +2138,6 @@ prarohashandana khanastrinapriyah
 Krishnantataluh prithulashcatushkaye
 manak prarohat dashanohi barbarah[2]
 
-Vilaganishkosha vilohitah payodvit
-prarohashandana khanastrinapriyah
-Krishnantataluh prithulashcatushkaye
-manak prarohat dashanohi barbarah[2]
-
 5 Kalabha
 
 With hard, skin, sewing up of a wound, in the skull, thin hair, fond of mud, water and dust shows a very little sexual excitement, becomes angry controlled by a mahout, and also understand the commands, sensitive to pleasure and pain, tusks become prominent. In this stage, it is known as Kalabha.
@@ -2483,15 +2187,6 @@ Shurofti sarvamsaho
 youdho nama sada madavilakatah
 prapto dasham pancamim[3]
 
-Sandana prabritipradesha vilasat
-danavilodyadvai-
-Sandrah karnakatakshayeshu sahaja
-mayati ca shreshtatam
-drang madyatya nimittameva muditah
-Shurofti sarvamsaho
-youdho nama sada madavilakatah
-prapto dasham pancamim[3]
-
 When the elephant reached its fifth stage, then it is called yaudha.
 
 VI Kshinita
@@ -2527,20 +2222,11 @@ ccalatkaro?sdh shcalakarnabalah
 prastabdagatrah paravanajasram
 Sa dvadashim prapya dasham swapecca[5]
 
-nicaishca mandam pramrishesca yaya-
-ccalatkaro?sdh shcalakarnabalah
-prastabdagatrah paravanajasram
-Sa dvadashim prapya dasham swapecca[5]
-
 Its trunks, ears and tail, swaying downward fore-and hind-limbs are stiff and he sleeps constantly. The age of up to 120 is considered as the last stage of an elephant. At this stage the elephant called Atyavashah.
 
 Having performed many duties the elephant goes to heaven in his hundred and twenty year.
 
 Elephant is considered as wild animal and the same as a domestic animal. To bringing the elephant from forest is a strenuous work. Next chapter introduce how to catch the wild elephants.
-
-Footnotes and references:
-
-[back to top]
 
 [1]:
 
@@ -2566,15 +2252,9 @@ Matangalila. 5. 23. 26.
 
 ## 9. Chapter 8 - The Uses and Values of Elephants
 
-
 Elephantology and its Ancient Sanskrit Sources
 
-by Geetha N. | 2012 | 36,369 words
-
 Elephant is considered as an inevitable part of Indian community. So they developed the study of Elephant which is based on Hastyayurveda and Matangalila. Even from the ancient time Indians were awareness about their hygiene and health. They were protected against diseases. They protected not just their own race but also plants and animals. Therefo...
-
-Go directly to: 
-Footnotes.
 
 Chapter 8 - The Uses and Values of Elephants
 
@@ -2609,19 +2289,11 @@ bhahuprishtipradam caitra durjarom mandavahnidam
 virukshano lavamascesham viryoshnapittadushanah
 svadamla lavomascesham gajah shleshmanilapaha
 
-Hastikravyam gurusnigdam vatalano shleshmakarakam
-bhahuprishtipradam caitra durjarom mandavahnidam
-virukshano lavamascesham viryoshnapittadushanah
-svadamla lavomascesham gajah shleshmanilapaha
-
 According to Caraka, elephant flesh is beneficial to those who suffering from constipation. Taken regularly, it helps to build up the body.
 
 Elephant pearl
 
 It is seems to be only an assumption:—
-
-ete karacaranadahatoklamavipakasha
-bhupadukakshagajavarma ketushsyanasanairdustaih[3]
 
 ete karacaranadahatoklamavipakasha
 bhupadukakshagajavarma ketushsyanasanairdustaih[3]
@@ -2688,9 +2360,6 @@ Bone
 danti shyamasmritasangah paravatashanguka
 pralepa syadgajastani nimbo bhallatakani ca[7]
 
-danti shyamasmritasangah paravatashanguka
-pralepa syadgajastani nimbo bhallatakani ca[7]
-
 It is used for curing for piles which are not bleeding, Caraka recommends an ointment made from elephant bone and neem. It is also used as a poison ditector and penis as an aphrodisiac.
 
 Teeth
@@ -2698,13 +2367,6 @@ Teeth
 A paste made of elephant teeth is applied to remove pimples and boils[8] and is used for some medicinal purposes like the mumps treatment. It is also used head ache. The teeth mixed with water and Kibble it and make paste, which is used for headache.
 
 Milk
-
-Ushtrinamatha naginam vadavayah striyastatha
-prayasho madhuram shitam stanyam payo matam
-prinanam brihanam vrishyam medhyam balyam manaskaram
-jivaniyam shramakaram shvasakasanibarhanam
-nasyalepavagaheshu vamanasthapaneshu ca
-virecane snehena ca yayah sarvatra yujyate[9]
 
 Ushtrinamatha naginam vadavayah striyastatha
 prayasho madhuram shitam stanyam payo matam
@@ -2746,10 +2408,6 @@ v) their ability to create light gaps in the forest for establishment of seedlin
 vi) creation of light gaps harmful to fungal pathogens that cause damping off of seedlings.
 
 Thus elephant is a useful animal like coconut tree. Now elephant had a bracelet badge to considered it as a lineal animal from the above consideration the elephants are considered to be a tiger in its position.[12] Almost all poets signifies elephants in their Kavyas.
-
-Footnotes and references:
-
-[back to top]
 
 [1]:
 
@@ -2803,10 +2461,7 @@ Malayala Manorama Newspaper report 1.09.2010.
 
 ## 10. Conclusion
 
-
 Elephantology and its Ancient Sanskrit Sources
-
-by Geetha N. | 2012 | 36,369 words
 
 Elephant is considered as an inevitable part of Indian community. So they developed the study of Elephant which is based on Hastyayurveda and Matangalila. Even from the ancient time Indians were awareness about their hygiene and health. They were protected against diseases. They protected not just their own race but also plants and animals. Therefo...
 
@@ -2862,10 +2517,7 @@ To conclude, Sanskrit literature contains substantial evidences to highlight the
 
 ## 11. Appendix 1 - Glossary Of Technical Terms
 
-
 Elephantology and its Ancient Sanskrit Sources
-
-by Geetha N. | 2012 | 36,369 words
 
 Elephant is considered as an inevitable part of Indian community. So they developed the study of Elephant which is based on Hastyayurveda and Matangalila. Even from the ancient time Indians were awareness about their hygiene and health. They were protected against diseases. They protected not just their own race but also plants and animals. Therefo...
 
@@ -2875,15 +2527,9 @@ Appendix 1 - Glossary Of Technical Terms
 
 ## 12. Chapter 7 - Ayurvedic treatments of Elephants in Kerala style
 
-
 Elephantology and its Ancient Sanskrit Sources
 
-by Geetha N. | 2012 | 36,369 words
-
 Elephant is considered as an inevitable part of Indian community. So they developed the study of Elephant which is based on Hastyayurveda and Matangalila. Even from the ancient time Indians were awareness about their hygiene and health. They were protected against diseases. They protected not just their own race but also plants and animals. Therefo...
-
-Go directly to: 
-Footnotes.
 
 Chapter 7 - Ayurvedic treatments of Elephants in Kerala style
 
@@ -3001,11 +2647,6 @@ grivagatrafparamghrirbahubhugarunadringdurbalo bahvalikah
 chayecchurdveshti gharmam visyajati naciraddanamuttanavedi
 hiyetoccaih prahi nam shrayatipunaribhah paittiko natishobhah[6]
 
-Cando nirmanditakshastanukararadanatvagnakhashrotrarma
-grivagatrafparamghrirbahubhugarunadringdurbalo bahvalikah
-chayecchurdveshti gharmam visyajati naciraddanamuttanavedi
-hiyetoccaih prahi nam shrayatipunaribhah paittiko natishobhah[6]
-
 The cause for bile is irritable in nature. Reddish eye, thin trunk, emancipate bodies, tendency to remain in to shade, dislike heat, immediate animosity in things, slow flow of must fluid, etc. are the symptoms of blemish of the bile.
 
 III Phlem
@@ -3017,19 +2658,9 @@ natikrudhyati, mandarahni, rabhayo gambhiravedi stirah
 akshhobhyah sumukho vilinataralo vinadigtapriyah
 pina snigdara doftimandagamanah kamigajah shleshmalah[7]
 
-haryakshah sumahangulikarashirah kumbhadirishatpriyo
-natikrudhyati, mandarahni, rabhayo gambhiravedi stirah
-akshhobhyah sumukho vilinataralo vinadigtapriyah
-pina snigdara doftimandagamanah kamigajah shleshmalah[7]
-
 Daily bathing decreases the bodily sickness like skin diseases, wounds due to binding, weapons, and cuts, dryness, stiffness of the limbs, etc. It also helps to destroy wind diseases, give strengthness, gentleness and comfort. If their tusks are anoint constantly it made stout, with firm sockets, smooth, immune to perforation and capable of tusks fights.
 
 It says that salt is like elixir to elephant.
-
-jayanti ca bahu bhuktam shodhanam mutravasteh
-krimihridanilahari vyadividvamsanam ca
-arucishamanamashu kledanam varananam
-lavanamamritatulyam vakti dharmavatare[8]
 
 jayanti ca bahu bhuktam shodhanam mutravasteh
 krimihridanilahari vyadividvamsanam ca
@@ -3085,10 +2716,6 @@ XIII Fever
 The normal body temperature of an elephant varies from 35.5 to 36.6 degree celsius Elephants temperature of 37.8 degree centigrade indicates considerable fever. Arise in temperature of two to three degree centigrade is considered grave. Wounds or injuries caused for its fever. It is prevented by only the help of a veterinary surgeon.
 
 Hastyayurveda's first chapter describes it as:—
-
-rite manushyadrajendra nanyo vishahate jvaram
-tejotika manushyastu sahante tenate jvaram
-esha ghoro mahavyadhir jvarah pakalasamjnitah[9]
 
 rite manushyadrajendra nanyo vishahate jvaram
 tejotika manushyastu sahante tenate jvaram
@@ -3151,11 +2778,6 @@ niravahanti na sidanti salilenaiva kevalam
 yada na parishicyanta karmdakasikaraih
 bhavanti kushtinosntashca hastinastena hetuma[12]
 
-Ayojanashatam sardam vicaranto'pi kunjarah
-niravahanti na sidanti salilenaiva kevalam
-yada na parishicyanta karmdakasikaraih
-bhavanti kushtinosntashca hastinastena hetuma[12]
-
 Decamali oil is massaging elephant's body for insisting the bascillus and for not affecting the leg or feet diseases.
 
 Wound
@@ -3209,9 +2831,6 @@ This helps to remove all germs.
 In the event of severe injury in the war, balls of (flesh of) crows, hens, cuckoos and owls must be given mixed with honey.
 
 The 3rd chapter of Hastyayurveda deals with the treatment of wounds and their characteristics:—
-
-vrinasyopakaramo tneyamstirvidhatmanah
-sodhanam ropananam caiva savarnakarannam tatha[13]
 
 vrinasyopakaramo tneyamstirvidhatmanah
 sodhanam ropananam caiva savarnakarannam tatha[13]
@@ -3279,17 +2898,9 @@ In the 2nd chapter of Hastyayurveda describes it elaborately:—
 Visham pradadusyate papa gajanam dehanashanam
 bhaksha bhojyannapaneshu dupane vtancaneshu ca[14]
 
-Visham pradadusyate papa gajanam dehanashanam
-bhaksha bhojyannapaneshu dupane vtancaneshu ca[14]
-
 Disorders of the eyes
 
 Cataract, Keralite and phihalmia are the common eye disorders seem in elephants. It may affect the vision of the elephant. If vision is partially impaired ointment is applied. If visual impairment is complete say blind due to cataract surgery ie. Keratoplasty is indicated. If there is any swelling of eyes, then massage the eye lids and lashes using castrol oil.
-
-apasmritam apakrishtam gunam pashcat svabavavenuto?piva
-tavisham vishatatatvatnjai dushi vishamiti smritam
-dushitam deshakalanna divavaprati bhojanaih
-Yosmat duayet dhshtumtasmat dushatvisham smritam[15]
 
 apasmritam apakrishtam gunam pashcat svabavavenuto?piva
 tavisham vishatatatvatnjai dushi vishamiti smritam
@@ -3343,9 +2954,6 @@ The 4th chapter of Hastyayurveda mentions the daily life of elephants, various s
 paccanyadapi naganam kartavyam hitarniccate
 tadasheshena bhagavatsarvam vyakhyatumarhasi[17]
 
-paccanyadapi naganam kartavyam hitarniccate
-tadasheshena bhagavatsarvam vyakhyatumarhasi[17]
-
 1) Autumn season
 
 In this season they had given rice with abundant blossoms and plentiful sap up to the neck in a cool place, beans to be administered with their flowers along with masha and makushta and wheat jaggery with butter. Bathing in cool water daily, day and evening, food with boiled water, milk, enriched with ghee and broath are given.
@@ -3357,11 +2965,6 @@ A rice porridge, in evening the same with salt is given. In this time they have 
 3) Cold Season
 
 In cold season elephants’ regimen is thus:—
-
-shala channa savahnistrikatupatuyuta varuni vaprasanna
-mandoshna sayamannam diadhirasasahita kambalai ravritishca
-ikosseva somatra kabalakavalayoh shilanam nityacarah
-pathah kridavimuktiryavasaparihriti shshaishro yam vidhisyat[18]
 
 shala channa savahnistrikatupatuyuta varuni vaprasanna
 mandoshna sayamannam diadhirasasahita kambalai ravritishca
@@ -3397,9 +3000,6 @@ Manasollasa deals the elephant treatment in detail. Some medicines are indicatin
 tia nimbasya partani rajaniceti peshitam matuyuktam
 vrananam syatccotanam ropanampuram[19]
 
-tia nimbasya partani rajaniceti peshitam matuyuktam
-vrananam syatccotanam ropanampuram[19]
-
 Hastyayurveda mentions a detailed description of the elephant management. The 1st Chapter furnishes the fever known as pakala and then pan·u and shotha.
 
 Pandu (white leprosy)is thewhite disease; the shotha is swelling disease, which is a type of fever.
@@ -3423,11 +3023,6 @@ Ayurvedic treatments of elephants in Kerala style
 “Observing 'Dinacarya' and ‘Ritucarya’ and firmly accurate the body health; is called recuperative, treatment”[20]. According to
 
 Nilakantha dinacarya is:—
-
-Shayya toyavagahashcatmamaiyumam bheshajam, dhutivrishtih
-Shalastambharpravesh a, ghritagulasahitam bhojanam puladanam
-nirvanam toya pomam tilsahitamidam bhojanam, caparahne
-bhaishajyam cadasamveshmamithi dinacarya gajanam kramam[21]
 
 Shayya toyavagahashcatmamaiyumam bheshajam, dhutivrishtih
 Shalastambharpravesh a, ghritagulasahitam bhojanam puladanam
@@ -3516,11 +3111,6 @@ te te prokta doshadushyadhikeshu
 tasmad ttanjair vyadhibhedam vivitva
 martyanamevatra karya cikitsa[22]
 
-Ye ye bheda manushyebhyo gajanam
-te te prokta doshadushyadhikeshu
-tasmad ttanjair vyadhibhedam vivitva
-martyanamevatra karya cikitsa[22]
-
 Elephants tired by continuous procession or hard work. So the elephant had given exceptional care, food and medicines to recovering their health. At this time they must given special attention, food, bathing and best management, which is known as recuperative treatment. At this time the elephant must give complete rest.
 
 According to K.C. Panicker, in Kerala August to October (August, September, October) are selected for recuperative treatment. According to their age, each elephant’s treatment is varies. At the time of recuperative treatment, the elephant given to be rub bathing where, coconut scrub and stone are used. By rub bathing the blood circulation increases. In addition to palmyra leaf and water, they are given special food items. In the evening, after the bath the recuperative treatment is given.
@@ -3530,11 +3120,6 @@ At first the worm spear medicines are given to elephants. Then giving fried padd
 Elephant is a pure vegetarian, but at the period of recuperative treatment it eats demolishing mutton, chicken, and duck. In two or three weeks, sesame and jaggery are given first to them and those demolishing meat or soup are given. In addition to this, Mahacurna and 5kg. Boiled rice mixed with 5kg, onion, ariyaru, cumin seed, ayamodaka are given in the last 15th day[23].
 
 According to Palakapya, if the elephant has giving non vegetables it must be thus:—
-
-Shashatittira lavanam mahishasya vrishanayoh,
-pippali cairyuktah shundigudasamanvitah,
-Khamghavata mayurairvesvaram prakeepayet
-vesavarah pradeyah syadrasam tenaiva karayet
 
 Shashatittira lavanam mahishasya vrishanayoh,
 pippali cairyuktah shundigudasamanvitah,
@@ -3564,11 +3149,6 @@ It is said that, in Malabar, sick elephants, are sometimes fed on the fed on the
 Generally all diseases are affected in various seasons;not in elephant diseases but all creatures. So the treatments are also being seasonal. According to the world all creatures diseases are start in various seasons similar to man. So elephant diseases are also be seasonal.
 
 The elephants tamed by man from the forest bear more from their managers, so they thinking of their past lavish life and became tired.
-
-Anitan vanato gajan himajalaihsinjettadha payaye
-tvakarshanam tvavagahaye dushaasi tadgtanya dishantcnjal
-evam eada dinavasanasamaye swairam tadatanayet
-pashcat seeanalepanado satadhautajyea kuryadapi[25]
 
 Anitan vanato gajan himajalaihsinjettadha payaye
 tvakarshanam tvavagahaye dushaasi tadgtanya dishantcnjal
@@ -3609,23 +3189,11 @@ sayam tallavnena tailasahitam caayeshu tadvaityayat
 kulmasham gulayuktamodanayutam cadapayeddantinam
 tattejobalavarhnikrdgulayutananyam paraganapi[28]
 
-pratah sajyagulam saratsu vihitam grishme eashalyodanam
-sayam tallavnena tailasahitam caayeshu tadvaityayat
-kulmasham gulayuktamodanayutam cadapayeddantinam
-tattejobalavarhnikrdgulayutananyam paraganapi[28]
-
 In Sharat season, the elephant must given jaggery mixed with ghee in the morning. Boiled paddy rice must given in the morning at Grishma season and at evening the elephant must given boiled paddy rice mixed with oil and salt. In all ritus the elephant must given patutora, rice and jaggery and it will produce strength and magnificence.
 
 Considering natural variations, Keralas season are varies from other states. According to Kerala the seasonal differences are like:
 
 Beginning the half month of Makara and ends of he Meena half is considered as Vasantaritu up to Kanni half is calculated as ‘Sharat considering up to vriishcika half as shishira, and upto Makara half is considering as Hemanda.
-
-Medam, Idavam-Grishma
-Midhunam, karkidakam-sharat
-Cinnga, kanni-varsha
-Tulam, vrishckam-sharatt
-Dhanu, makaram-Vasanta
-Kumbha, meena-Hemanda.
 
 Medam, Idavam-Grishma
 Midhunam, karkidakam-sharat
@@ -3682,17 +3250,7 @@ prayo rohanti dantinam
 nashyanti kshutpipasadyah
 padmayoneranugrahat[30]
 
-pranah sarve jalenaiva
-prayo rohanti dantinam
-nashyanti kshutpipasadyah
-padmayoneranugrahat[30]
-
 Kaikkulmagra Ramavarier stated the importance of water:—
-
-paniyam praninam pranah
-vishweneva ca tanmayam
-atotyantha nishedhana
-na kvacitvari varyate[31]
 
 paniyam praninam pranah
 vishweneva ca tanmayam
@@ -3712,9 +3270,6 @@ According to Nilakantha that treatment explains below:—
 Hingvashtakam curnarajam saptavimshati gulgulu
 ityadini ca curnani dadyattailaghritani ca[32]
 
-Hingvashtakam curnarajam saptavimshati gulgulu
-ityadini ca curnani dadyattailaghritani ca[32]
-
 Recuperative treatment of elephants in Tamilnadu
 
 Not only in Kerala but also in Tamilnadu, the recuperative treatment is available for them.
@@ -3724,8 +3279,6 @@ Chennai
 Fifty percentage (50%) of elephants in Tamilnadu, affected diabetics, join pain and wind. After awaring this report, the government of Tamilnadu decided to gave recuperative treatment to elephants. Hindu caste endowment Department undertakes this project.
 
 Their plan is describing below:—
-
-Daily 6km. walking, two times bathing 250 kg grass; 50 kg, mango, 7kg rice, 1.5kg jaggery, 100gram salt, 250 gram turmeric powder, 350 liter water, 12 banana, 3-5 liter coconut oil. 1 kg Ashtacurnam, 50 gram ginger and pepper, 3-5. Cyavanaprasham, 28 vitamin tablets etc., are given to the elephants at the time of their recuperative treatment.[33]
 
 Daily 6km. walking, two times bathing 250 kg grass; 50 kg, mango, 7kg rice, 1.5kg jaggery, 100gram salt, 250 gram turmeric powder, 350 liter water, 12 banana, 3-5 liter coconut oil. 1 kg Ashtacurnam, 50 gram ginger and pepper, 3-5. Cyavanaprasham, 28 vitamin tablets etc., are given to the elephants at the time of their recuperative treatment.[33]
 
@@ -3770,10 +3323,6 @@ Vidanga, indrayava, asafoetida, jaggery and the two varieties of turmeric could 
 By applying recuperative treatment, elephant’s diseases are decreasing or may affect disease, the treatment become easier.
 
 In many ways elephant is considered as valuable one. Elephant is a serviceable animal and it provides economical benefits to the country.
-
-Footnotes and references:
-
-[back to top]
 
 [1]:
 
@@ -3915,10 +3464,7 @@ The Agnipurana, N. Gangadharan. 287. 781-795.
 
 ## 13. Bibliography
 
-
 Elephantology and its Ancient Sanskrit Sources
-
-by Geetha N. | 2012 | 36,369 words
 
 Elephant is considered as an inevitable part of Indian community. So they developed the study of Elephant which is based on Hastyayurveda and Matangalila. Even from the ancient time Indians were awareness about their hygiene and health. They were protected against diseases. They protected not just their own race but also plants and animals. Therefo...
 
@@ -4170,15 +3716,9 @@ Narendra Sharma. Jathakakathakal. Sadhana Paket Books. 39 UM. Bangalow Road, Dil
 
 ## 14. Chapter 9 - Elephants In Kavyas
 
-
 Elephantology and its Ancient Sanskrit Sources
 
-by Geetha N. | 2012 | 36,369 words
-
 Elephant is considered as an inevitable part of Indian community. So they developed the study of Elephant which is based on Hastyayurveda and Matangalila. Even from the ancient time Indians were awareness about their hygiene and health. They were protected against diseases. They protected not just their own race but also plants and animals. Therefo...
-
-Go directly to: 
-Footnotes.
 
 Chapter 9 - Elephants In Kavyas
 
@@ -4217,11 +3757,6 @@ raja dharasthadha amatah sena hastyashvapattayah
 radha kunjara vajistha avatiryamahim gatah
 dadrishuste vimanasthan janasoma mivambard[2]
 
-varahamukhyaca shataso niryashcadyaia sankashsah
-raja dharasthadha amatah sena hastyashvapattayah
-radha kunjara vajistha avatiryamahim gatah
-dadrishuste vimanasthan janasoma mivambard[2]
-
 About ten crores of monkey forces went and plastered the asura guard of the palace and all the horses and the elephants they found there.
 
 That group consisted of a hundred of thousand horses, thousand elephants and ten thousand chariots with golden decoration. The people following were all carrying objects fit for presentation to royalty.
@@ -4244,17 +3779,9 @@ For the service of the King valiant soldiers and elephants are take importance
 Prajapataye purushanhastina alabhate vace
 plushtishcakshushe mashakashcrotraya brringah[4]
 
-Prajapataye purushanhastina alabhate vace
-plushtishcakshushe mashakashcrotraya brringah[4]
-
 The brave soldiers and elephants should be secured, white ants for eloquence, mosquitoes for fight, black bees for hearing for the service of the king.
 
 Just as the drivers strikes his sharp good in the head of gambhiravedi elephant, who is not easily sensitive to pan, similarly Raghu, a mighty warrior plants his mighty prowess on the head of the mountain mahendra which is not easy to be conquered.
-
-Sapratapam mahendrasya
-murdhini tikshnam nyaveshacyat
-angusham dviradasyeva
-yantagambhiravedina[5]
 
 Sapratapam mahendrasya
 murdhini tikshnam nyaveshacyat
@@ -4270,25 +3797,15 @@ atmanam yo na janati sa syat gambhiravedinah
 cirakalena yo vetti shiksham paricitamapi
 gambhiravedi vinjeyah sa gajo gajavedibhih[6]
 
-tvagvebhedashconitasaravanmamsasya kradhanadapi
-atmanam yo na janati sa syat gambhiravedinah
-cirakalena yo vetti shiksham paricitamapi
-gambhiravedi vinjeyah sa gajo gajavedibhih[6]
-
 An elephant who is slow in understanding even well-awaring matter signs is also called gambhiravedih.
 
 The valiance of elephant is describing in the malavikagnimitram. i.e.,
 
 na hi kamalinim drishtva grahamavekshate matangajah[7]
 
-na hi kamalinim drishtva grahamavekshate matangajah[7]
-
 The elephant is slopping the lake and eat lotus, he is not fear of the crocodiles.
 
 The Atharvaveda describes elephant as a superior animal among the wild beasts.
-
-Hastimriganam sushatamatishtavan babhuvahi[8]
-aditya yat tatvasshmbabhuva[9]
 
 Hastimriganam sushatamatishtavan babhuvahi[8]
 aditya yat tatvasshmbabhuva[9]
@@ -4302,19 +3819,11 @@ The valiance of elephant is described in Atharveda
 Ya hastini dvipini ya hiranyenvishirapsugoshuyapurusheshu
 Indram ya devi subhaga jajana sa na ete varcasasamvidina[10]
 
-Ya hastini dvipini ya hiranyenvishirapsugoshuyapurusheshu
-Indram ya devi subhaga jajana sa na ete varcasasamvidina[10]
-
 All energy of elephant and panther all halo and insture of gold, men, kin and waters and the blessed spiritual force that makes a ma, king, may that come unto conjoined with strength and vigor.
 
 Victory
 
 Bhavabhuti in his Uttararamacaritam narrates the young elephant had scored the victor over the tasks, which indicates the victory of Lava and Kusha over Rama, their father.
-
-Yenotgaccat bisakisalaya snigda dantankaran
-vyakrishtaste sutanu lavalipallavba kannmulat
-sosyam putrastava madamucam varananam vijeta
-yatkalyanam vayasi tarune bhajanam tasya jatah[11]
 
 Yenotgaccat bisakisalaya snigda dantankaran
 vyakrishtaste sutanu lavalipallavba kannmulat
@@ -4332,19 +3841,9 @@ Vailoppilli Shridharamenon narrates the elephant as a symbol of Nature. In festi
 ???
 ???[12]
 
-???
-???
-???
-???[12]
-
 Here the poet describes the elephant is same as a huge blackstone. The stone is a part of nature which stands in the lap of the earth, like her son elephant is standing in the temple is a stone.
 
 In Kiratarjuniya the beauty of nature is thus:—
-
-madasikta mughairmrigadhipah
-karibhirvartayate swayam hatah
-laghayam khali tejasajaganna
-mahaniccantoi bhuutimanyatah[13]
 
 madasikta mughairmrigadhipah
 karibhirvartayate swayam hatah
@@ -4356,15 +3855,9 @@ The lion is dead, elephant stood like as musted, the earth is like in this way. 
 Shailendra kalobhopama
 jaladhya kriidatatakopama[14]
 
-Shailendra kalobhopama
-jaladhya kriidatatakopama[14]
-
 Angry
 
 The angry of an elephant is seen in Malavikagnimitram (mm) i.e,
-
-Anyonya kalahapriyayormatiahastinoreka
-tarasminna nirjite kata upashamah[15]
 
 Anyonya kalahapriyayormatiahastinoreka
 tarasminna nirjite kata upashamah[15]
@@ -4378,17 +3871,9 @@ nabvhasi vikshya navambudamambare
 abhisasara navallabhamangana
 na caka me cakamekarasam baha[16]
 
-gajakadamabka mecakamuccalcair
-nabvhasi vikshya navambudamambare
-abhisasara navallabhamangana
-na caka me cakamekarasam baha[16]
-
 Clouds assume various shapes sometimes. A fantastic shape of an elephant is described here according to the view of Magha.
 
 Kalidasa in his Meghasandesha also describes the cloud like the peak of mountains, elephant is stooping in down in his butting sport against the bank.
-
-Ashadhasya pradhama divase megha maslishtasanum
-vaprakriidaoarinatagaja prekshaniyam dadarsha[17]
 
 Ashadhasya pradhama divase megha maslishtasanum
 vaprakriidaoarinatagaja prekshaniyam dadarsha[17]
@@ -4399,16 +3884,9 @@ Puranasarvasva illustrates elephants shape is like a baffaloes, pigs, and the li
 
 "Mahisashca varahashca mattamatangarupinah"
 
-"Mahisashca varahashca mattamatangarupinah"
-
 Beauty
 
 The bark of the birch trees, red in colour with characters written on them by Vidyadhara ladies, with mineral fluid are imagined to resemble the red spots on elephants.
-
-nyastakshara dhaturasena yatra
-bhurjatvajah kunjarabindhushonah
-vrajanti vidhyadharasundarinam
-an angalekha kriyayopago gam[18]
 
 nyastakshara dhaturasena yatra
 bhurjatvajah kunjarabindhushonah
@@ -4424,19 +3902,9 @@ stava ripushastraparirakshitangau ca
 avanti talagatau samikshya bhahu
 harivara! ha patatir mesdhya cittam[19]
 
-karikarasadrishau gajendragamin
-stava ripushastraparirakshitangau ca
-avanti talagatau samikshya bhahu
-harivara! ha patatir mesdhya cittam[19]
-
 Like the elephant's trunk Bali's hands are as the same long whose walk is like an elephant's walk, and the like.
 
 In Madhyamavyayoga, Khatotkaca is imagined as the same:—
-
-kalabhadashanadamstra lagalakaranasah
-karivara karabhahur nilajimutavarnah
-huta hutavahadipto yah stito bhati Bhima
-stripurapura nihantuh shankarasyeva roshah[20]
 
 kalabhadashanadamstra lagalakaranasah
 karivara karabhahur nilajimutavarnah
@@ -4448,11 +3916,6 @@ His (Khatotkaca's) dhamshtra (teeth) is like the tusk of baby elephant, nose lik
 Shelter (Refuge)
 
 In Pratimanataka elephant is imagined as a shelter, to a husband for his wife.
-
-Anucarati shashankam Rahudoshepi Tara
-patatica vanvrikshe yati bhumim lata ca
-tyajati na karenuh pankalagnam gajendra
-vrajatu caratu dharmam bhartrunadhahinaryah[21]
 
 Anucarati shashankam Rahudoshepi Tara
 patatica vanvrikshe yati bhumim lata ca
@@ -4497,11 +3960,6 @@ tejo visheshanumaitam dadhana
 asidanavishkritadamarajira-
 ntarmadavasta iva dvipendrah[24]
 
-sa nyasta cihnamapi rajalakshmim
-tejo visheshanumaitam dadhana
-asidanavishkritadamarajira-
-ntarmadavasta iva dvipendrah[24]
-
 In this shloka, the poet explains the King Dilipa, which is to have followed the path of a cow. He castaside its royal insignia. But his kingly fortune could be inferred from the super eminence of majesty. He, therefore, can be well compared to be like the elephant who is in orderly in condition of rut but without the line of inchor manifested externally.
 
 In Megasandesha, the poet says that, the way of elephant is indicating the path of the cloud.
@@ -4511,17 +3969,7 @@ ravirbhuta pradhamamukulah kandalishcanukaccam
 jagdvasranyeshvadhika surabhim gandhamaradhyacorvyam
 sarangaste jalalavamucaih sucayishyantimargam[25]
 
-nipam drishtva haritakapishsam kesarairardharudam
-ravirbhuta pradhamamukulah kandalishcanukaccam
-jagdvasranyeshvadhika surabhim gandhamaradhyacorvyam
-sarangaste jalalavamucaih sucayishyantimargam[25]
-
 Kadambha flowers are green and brown on account of half growth filements, eating the kandalis on mastery banks with the first buds appearing on them and smell the strong odour of the ground in the forest respectively, the beeds, and the elephants will indicate the path of you, showing drop water.
-
-yam candrakairmadajalasya mahanadinam
-netrashriyam vikasato vidatturgajendrah
-tam pratya vapuravilambitamuttaranto
-doutanga lagnaranilapayojapatraih[26]
 
 yam candrakairmadajalasya mahanadinam
 netrashriyam vikasato vidatturgajendrah
@@ -4539,11 +3987,6 @@ gajaya gandushajalam karenuh
 ardhopayaktena bisena jayam
 sambhavayamasa rathangananam (angananam)[27]
 
-dadan rasat pankajarenugmthi
-gajaya gandushajalam karenuh
-ardhopayaktena bisena jayam
-sambhavayamasa rathangananam (angananam)[27]
-
 The female elephant with love, gave the elephant, a task full of water scanted with the pollen of lotuses.
 
 In Vikramorvashiya the warmth of kindliness showed by the elephant below.
@@ -4551,17 +3994,9 @@ In Vikramorvashiya the warmth of kindliness showed by the elephant below.
 'aye!esanipasacandhnishannahastahkarini
 sahayo nagarajastishtati[28]
 
-'aye!esanipasacandhnishannahastahkarini
-sahayo nagarajastishtati[28]
-
 This statement proves that the elephant also aware of his wife's mind.
 
 Love with other animal is shows in Ritusamhara:—
-
-trisha mahatya hatavikramodyamah
-shvasam mahar duravidaritananah
-na hantya durespi gajan mrigeshvaro
-vilolajihavshcalitagrakesarah[29]
 
 trisha mahatya hatavikramodyamah
 shvasam mahar duravidaritananah
@@ -4583,11 +4018,6 @@ cchatram camaram divya gajorajo tadai va ca
 abhishiktam samayatam gajarudam stitanvitam
 shvetashcateeradharam tatra lakshmanam lakshitanivtram[30]
 
-brahamanah kshatriyah vaishyah kanyakastratha
-cchatram camaram divya gajorajo tadai va ca
-abhishiktam samayatam gajarudam stitanvitam
-shvetashcateeradharam tatra lakshmanam lakshitanivtram[30]
-
 When it was day break, there assembled at the central gate all who had been ordered to do so by Vasishta, citizens of the four classes maidens, those holding superb ceremonial umbrellas and chowris, elephants and horses, dancing girls and general residence of the city and the village.
 
 Bible
@@ -4599,10 +4029,6 @@ Quran
 Quran contains a chapter on describing elephant army. Ethyopyan emporor's governor Abrahath, ripping 'Kabah' in Makka, stir into Makka, with C.6000 elephants. But this armies are destroyed by some small birds, their lips and legs have had sweltering (red hoted) stones, which are fallen on the body and enegma (nucleus) of the elephant and they died soon. From this incident is calculated 'Anakkalahavarshsam' or (elephant quarrel year). After some year Hijjara is considered to calculate the year. In Khuran elephant is known as pheel.[32]
 
 All these references will enable to argue the significance of this animal.
-
-Footnotes and references:
-
-[back to top]
 
 [1]:
 

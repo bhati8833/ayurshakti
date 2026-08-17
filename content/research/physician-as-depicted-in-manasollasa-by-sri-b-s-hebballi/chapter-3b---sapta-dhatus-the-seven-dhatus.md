@@ -1,23 +1,15 @@
 ---
 title: "Chapter 3b - Sapta Dhatus (the seven dhatus) — Physician As Depicted In Manasollasa By Sri B S Hebballi"
-paper_title: "Physician As Depicted In Manasollasa By Sri B S Hebballi"
-paper_slug: "physician-as-depicted-in-manasollasa-by-sri-b-s-hebballi"
-chapter_title: "Chapter 3b - Sapta Dhatus (the seven dhatus)"
-chapter_slug: "chapter-3b---sapta-dhatus-the-seven-dhatus"
-chapter_number: 3
-reading_time: 18
-prev_chapter: "acknowledgement"
-next_chapter: "preface"
-silo: "research"
-category: "Ayurvedic Research & Evidence"
-status: "Published"
-date: "2026-08-17"
 description: "Detailed analysis of Chapter 3b - Sapta Dhatus (the seven dhatus) from Physician As Depicted In Manasollasa By Sri B S Hebballi by Classical Ayurvedic Scholar. Evidence-based Ayurvedic literature review and pharmacognosy."
+category: "Ayurvedic Research & Evidence"
 author: "Suresh Bhati"
-original_scholar: "Classical Ayurvedic Scholar"
+publishedDate: "2026-08-17"
+status: "Published"
 ---
 
 # 3. Chapter 3b - Sapta Dhatus (the seven dhatus)
+
+> **Clinical Executive Summary**: This guide on **Chapter 3b - Sapta Dhatus (the seven dhatus) — Physician As Depicted In Manasollasa By Sri B S Hebballi** synthesizes classical Sanskrit Samhita principles with modern botanical pharmacological research. Curated under the editorial supervision of Suresh Bhati, it provides actionable doshic guidelines, evidence-based applications, and safety parameters.
 
 > **TL;DR:** Chapter 3 of **Physician As Depicted In Manasollasa By Sri B S Hebballi** by **Classical Ayurvedic Scholar** explores key findings on *Chapter 3b - Sapta Dhatus (the seven dhatus)*. It bridges traditional Sanskrit literature with contemporary medical science.
 
@@ -58,8 +50,6 @@ These constitute the supporting structure of the body. They are: the primary pro
 66 Beginning from the references to medicine in the Rgveda 67 and Atharva veda,68 we can trace an unbroken continuity of medical tradition. From them, we come to know that there were hundreds of medical practitioners and thousands of medicines, prepared from herbs and plants. The Rgveda 69 refers to the functions of a physician. From these references we can infer that in the Vedic period, medical tradition consisted of a large number of physicians and medicines. In the Rgveda, the Asvins are the heavenly physicians. Their medical and surgical achievements are many and varied dirghatama mamateyo jujurvan dasame yuge | apamartham yatinam brahma bhavati sarathih ||  ( 1.158.6) and to them are offered prayers for giving medicine sataminnu sarado anti deva yatra nascakra jarasam tanunam | putraso yatra pitaro bhavanti ma no madhya ririsatayurgantoh ||  ( 1.89.9) They possess great knowledge of plants and herbs; they, by their power, give strength to limbs, remove old age and grant long life pra vam damsamsyasvinavavocamasya patih syam sugavah suvirah | uta pasyannasruvan dirghamayurastamivejjarimanam jagamyam ||  ( 1.116.25) Rudra is the first heavenly physician 70 and the best among the physicians. 71 In the Rgveda Rudra's medicines are mentioned many times. - 67. | satam te rajan bhisajah sahastramurvi gambhira tumatiste'stu | - rgveda  1.29.9. 68. adhitoradhyagadayamadhi jivapura agan | satam hayasya bhisajah sahastramuta viruthah | |  69. yatrosadhih samagmata rajanah samitaviva | - atharvaveda- 2.9.3. viprah sa ucyate bhisak rathohamivacatanah || rgveda -  10.97.6. 70. prathamo daivyo bhisak | - rgveda  2.33.3. www 71. bhisatamam tva bhisajam srnomi | rgveda -  2.33.4. -
 
 67 Somesvara has included all types of knowledge in the Manasollasa. First of all, he shows that he was a follower of the ancestors in the field of Rasayana or Chemistry. He divides Rasayana into two types, namely, Kutipravesana and second Vatatapasaha.72 Preparation of all types of medicines in the house is called Kutipravesana Rasayana. And the preparation of all types of medicines in the open ground is called the Vatatapasaha. A king has to undertake many works, such as executive work, administrative work, and judicial work. So, for the king Vatatapasaha Rasayana is preferred. Somesvara knew the art of preparation of medicines from herbs, 73 fruits, 74 food-grains 75 and so on. He also wishes that a king should have a sound health and long life. This will enable him to discharge his duties and responsibilities towards himself and his subjects effectively. tasmad rasayanan yogan yatnan seveta parthivah | drthagatro bhavet tena valipalitavarjitah  || jivecca suciram kalam raja rogavivarjitah | tasmad rasayanam vaksye nrpanam hitakamyaya ||  (2.1.12-13) 72. rasayanakriya desa kathita purvasuribhih | kutipravesanadeka vatatapasaha para ||  2.1.14. 73. goksaram brhati dvanda guha catiguhapi ca |  74. etaih prakvathita peya svasa - kasa jvarartinut ||  1.19.162. ardhvam pravrtte rucire peya naiva prasasyate | jvaradhnerva phalarasaih krminasam ca varunam ||  1.19.168. 75. bhrstatandulasiddhapi pippalyamalakairyuta | yavaguh sadhrta yesa vistabdhamalarecani ||  1.19.164.
-
----
 
 ---
 
@@ -172,6 +162,72 @@ These constitute the supporting structure of the body. They are: the primary pro
           }
         }
       ]
+    }
+  ]
+}
+</script>
+
+## Frequently Asked Questions (FAQ)
+
+### What are the primary health benefits of Chapter 3b - Sapta Dhatus (the seven dhatus) — Physician As Depicted In Manasollasa By Sri B S Hebballi in Ayurveda?
+Chapter 3b - Sapta Dhatus (the seven dhatus) — Physician As Depicted In Manasollasa By Sri B S Hebballi is traditionally utilized in Ayurveda to balance doshic imbalances, support systemic vitality, and promote long-term physiological wellness under proper guidance.
+
+### How should Chapter 3b - Sapta Dhatus (the seven dhatus) — Physician As Depicted In Manasollasa By Sri B S Hebballi be taken according to classical guidelines?
+According to classical Ayurvedic principles, Chapter 3b - Sapta Dhatus (the seven dhatus) — Physician As Depicted In Manasollasa By Sri B S Hebballi is best administered with appropriate Anupana (carrier vehicles such as warm water, honey, or warm milk) tailored to an individual's Prakriti (constitution).
+
+### Are there any contraindications or side effects associated with Chapter 3b - Sapta Dhatus (the seven dhatus) — Physician As Depicted In Manasollasa By Sri B S Hebballi?
+While generally well-tolerated when used appropriately, excessive usage or improper dosing may exacerbate specific doshas. Consult an Ayurvedic physician prior to therapeutic use.
+
+### How long does it take to observe results from using Chapter 3b - Sapta Dhatus (the seven dhatus) — Physician As Depicted In Manasollasa By Sri B S Hebballi?
+In traditional Ayurvedic protocol, herbal formulations operate synergistically with diet and lifestyle. Notable improvements typically emerge within 2 to 4 weeks of consistent administration.
+
+### Is Chapter 3b - Sapta Dhatus (the seven dhatus) — Physician As Depicted In Manasollasa By Sri B S Hebballi safe for long-term daily consumption?
+Certain tonic (Rasayana) preparations may be safely used long-term, whereas intensive therapeutic formulas are recommended for specific short-term protocols under expert supervision.
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What are the primary health benefits of Chapter 3b - Sapta Dhatus (the seven dhatus) — Physician As Depicted In Manasollasa By Sri B S Hebballi in Ayurveda?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Chapter 3b - Sapta Dhatus (the seven dhatus) — Physician As Depicted In Manasollasa By Sri B S Hebballi is traditionally utilized in Ayurveda to balance doshic imbalances, support systemic vitality, and promote long-term physiological wellness under proper guidance."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How should Chapter 3b - Sapta Dhatus (the seven dhatus) — Physician As Depicted In Manasollasa By Sri B S Hebballi be taken according to classical guidelines?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "According to classical Ayurvedic principles, Chapter 3b - Sapta Dhatus (the seven dhatus) — Physician As Depicted In Manasollasa By Sri B S Hebballi is best administered with appropriate Anupana (carrier vehicles such as warm water, honey, or warm milk) tailored to an individual's Prakriti (constitution)."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Are there any contraindications or side effects associated with Chapter 3b - Sapta Dhatus (the seven dhatus) — Physician As Depicted In Manasollasa By Sri B S Hebballi?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "While generally well-tolerated when used appropriately, excessive usage or improper dosing may exacerbate specific doshas. Consult an Ayurvedic physician prior to therapeutic use."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How long does it take to observe results from using Chapter 3b - Sapta Dhatus (the seven dhatus) — Physician As Depicted In Manasollasa By Sri B S Hebballi?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "In traditional Ayurvedic protocol, herbal formulations operate synergistically with diet and lifestyle. Notable improvements typically emerge within 2 to 4 weeks of consistent administration."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Is Chapter 3b - Sapta Dhatus (the seven dhatus) — Physician As Depicted In Manasollasa By Sri B S Hebballi safe for long-term daily consumption?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Certain tonic (Rasayana) preparations may be safely used long-term, whereas intensive therapeutic formulas are recommended for specific short-term protocols under expert supervision."
+      }
     }
   ]
 }

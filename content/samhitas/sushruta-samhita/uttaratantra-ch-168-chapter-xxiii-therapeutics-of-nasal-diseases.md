@@ -20,17 +20,11 @@ This chapter from **Sushruta Samhita (Uttaratantra)** represents the classical s
 
 ---
 
-
 Sushruta Samhita, Volume 6: Uttara-tantra
-
-by Kaviraj Kunja Lal Bhishagratna | 1916 | 113,078 words
 
 This current book, the Uttara-tantra (english translation) is the supplementary part of the Sushrutasamhita and deals various subjects such as diseases of the eye, treatment of fever, diarrhea, diseases resulting from superhuman influences, insanity, rules of health etc.
 
 The Sushruta Samhita is the most representative work of the Hindu system of m...
-
-Go directly to: 
-Footnotes.
 
 Chapter XXIII - Therapeutics of nasal diseases
 
@@ -57,10 +51,6 @@ Treatment of Nasa-Shosha:—
 The use of clarified butter churned out of milk, as well as that of the oil as an errhine prepared in the manner of Anu-taila are pre-eminently the best cures in a case of Nasa-Shosha. Potions of clarified butter, meals with Jangala meat-soup, applications of Sneha and of Sveda, and fumigating the affected part with lardacious drugs may be similarly prescribed with best advantage. The remaining nasal diseases should be duly treated according to the specific treatment of each case as described before. 10–11.
 
 Thus ends the twenty-third chapter of the Uttara-Tantra in the Sushruta Samhita which deals with the treatment of the diseases of the nose.
-
-Footnotes and references:
-
-[back to top]
 
 [1]:
 

@@ -9,19 +9,11 @@ date: "2026-08-17"
 description: "text includes treatments, recipes and remedies and is categorised as Rasa Shastra: an important branch of Ayurveda that specialises in medicinal/ herbal chemistry, alchemy and mineralogy, for the p..."
 ---
 
-**Author / Source:** by Bhudeb Mookerjee
-
-
-**Total Chapters/Sections:** 56
-
 ---
 
 ## 1. A Brief History of Indian Chemistry and Medicine
 
-
 Rasa Jala Nidhi, vol 5: Treatment of various afflictions
-
-by Bhudeb Mookerjee | 1938 | 63,627 words | ISBN-10: 8170305829 | ISBN-13: 9788170305828
 
 This fifth volume of the Rasa-jala-nidhi deals with the symptoms, treatment and dietary prescriptions of various afflictions. For example, ratapitta (haemoptysis), cough, asthma, tumours and obesity are dealth with and various Iatro-chemical recipes are provided for these diseases.
 
@@ -39,10 +31,7 @@ This concludes ‘A Brief History of Indian Chemistry and Medicine’ included i
 
 ## 2. Select opinions on Rasa-jala-nidhi
 
-
 Rasa Jala Nidhi, vol 5: Treatment of various afflictions
-
-by Bhudeb Mookerjee | 1938 | 63,627 words | ISBN-10: 8170305829 | ISBN-13: 9788170305828
 
 This fifth volume of the Rasa-jala-nidhi deals with the symptoms, treatment and dietary prescriptions of various afflictions. For example, ratapitta (haemoptysis), cough, asthma, tumours and obesity are dealth with and various Iatro-chemical recipes are provided for these diseases.
 
@@ -54,11 +43,7 @@ Select opinions on Rasa-jala-nidhi
 
 I consider you are performing one of the world’s greatest good works to-day, in making available this marvellous ancient wisdom of India, which is the only source and storehouse of real knowledge. I shall anxiously await the publication of the remaining volumes of your priceless work.
 
-I consider you are performing one of the world’s greatest good works to-day, in making available this marvellous ancient wisdom of India, which is the only source and storehouse of real knowledge. I shall anxiously await the publication of the remaining volumes of your priceless work.
-
 (2) Albert G. Ingalls, Associate Editor, “Scientific American”:—
-
-These books have been given a special place in the library of the journal, reserved for works which are eminently worthy of preservation for the edification of future editors.
 
 These books have been given a special place in the library of the journal, reserved for works which are eminently worthy of preservation for the edification of future editors.
 
@@ -66,11 +51,7 @@ These books have been given a special place in the library of the journal, reser
 
 It is an interesting contribution to our knowledge of Hindu Chemistry, alchemy, and medicine. I shall make a mention of your great work in the revised edition of Vol III of my History of Indian literature.
 
-It is an interesting contribution to our knowledge of Hindu Chemistry, alchemy, and medicine. I shall make a mention of your great work in the revised edition of Vol III of my History of Indian literature.
-
 (4) Chemiecl News of London, dated 13-1-28:—
-
-Dr. Bhudeb Mookerji has undertaken the heavy task of compiling, in about 10 volumes, a systematic and comprehensive treatise on the almost lost and little known Science of Hindu Chemistry. His first volume was well received and the second part has quickly followed it. Succeeding volumes will be awaited with impatience. Dr. Bhudeb Mookerji’s second volume maintains the high standard of his first, and is a valuable contribution to alchemical literature.
 
 Dr. Bhudeb Mookerji has undertaken the heavy task of compiling, in about 10 volumes, a systematic and comprehensive treatise on the almost lost and little known Science of Hindu Chemistry. His first volume was well received and the second part has quickly followed it. Succeeding volumes will be awaited with impatience. Dr. Bhudeb Mookerji’s second volume maintains the high standard of his first, and is a valuable contribution to alchemical literature.
 
@@ -90,11 +71,7 @@ E. J. Holmyard.
 
 It is indeed very creditable to you to have carried on your researches in Indian Chemistry and publish the results in such comprehensive form,
 
-It is indeed very creditable to you to have carried on your researches in Indian Chemistry and publish the results in such comprehensive form,
-
 (7) “Bharatvarsha” the leading Bengali magazine of Calcutta:—
-
-The work, when completed, will no doubt prove to be the greatest and the most comprehensive treatise on Hindu Chemistry and alchemy... The author is an eminent and successful physician and most probably he has been able to earn a high reputation by prescribing the medicines described in the book under review. Physicians in general, we are sure, will be profited by a study of the book.
 
 The work, when completed, will no doubt prove to be the greatest and the most comprehensive treatise on Hindu Chemistry and alchemy... The author is an eminent and successful physician and most probably he has been able to earn a high reputation by prescribing the medicines described in the book under review. Physicians in general, we are sure, will be profited by a study of the book.
 
@@ -118,10 +95,7 @@ This concludes ‘Select opinions on Rasa-jala-nidhi’ included in Bhudeb Mooke
 
 ## 3. Preface
 
-
 Rasa Jala Nidhi, vol 5: Treatment of various afflictions
-
-by Bhudeb Mookerjee | 1938 | 63,627 words | ISBN-10: 8170305829 | ISBN-13: 9788170305828
 
 This fifth volume of the Rasa-jala-nidhi deals with the symptoms, treatment and dietary prescriptions of various afflictions. For example, ratapitta (haemoptysis), cough, asthma, tumours and obesity are dealth with and various Iatro-chemical recipes are provided for these diseases.
 
@@ -165,10 +139,7 @@ This concludes ‘Preface’ included in Bhudeb Mookerjee Rasa Jala Nidhi, vol 5
 
 ## 4. Part 1 - Introduction (justifying ancient Indian knowledge of the use of mercury)
 
-
 Rasa Jala Nidhi, vol 5: Treatment of various afflictions
-
-by Bhudeb Mookerjee | 1938 | 63,627 words | ISBN-10: 8170305829 | ISBN-13: 9788170305828
 
 This fifth volume of the Rasa-jala-nidhi deals with the symptoms, treatment and dietary prescriptions of various afflictions. For example, ratapitta (haemoptysis), cough, asthma, tumours and obesity are dealth with and various Iatro-chemical recipes are provided for these diseases.
 
@@ -196,10 +167,7 @@ This concludes ‘Introduction (justifying ancient Indian knowledge of the use o
 
 ## 5. Part 2 - Charaka, Sushruta, and their predecessors
 
-
 Rasa Jala Nidhi, vol 5: Treatment of various afflictions
-
-by Bhudeb Mookerjee | 1938 | 63,627 words | ISBN-10: 8170305829 | ISBN-13: 9788170305828
 
 This fifth volume of the Rasa-jala-nidhi deals with the symptoms, treatment and dietary prescriptions of various afflictions. For example, ratapitta (haemoptysis), cough, asthma, tumours and obesity are dealth with and various Iatro-chemical recipes are provided for these diseases.
 
@@ -223,17 +191,11 @@ This concludes ‘Charaka, Sushruta, and their predecessors’ included in Bhude
 
 ## 6. Part 4 - Chemists of the Metallic School: Introduction
 
-
 Rasa Jala Nidhi, vol 5: Treatment of various afflictions
-
-by Bhudeb Mookerjee | 1938 | 63,627 words | ISBN-10: 8170305829 | ISBN-13: 9788170305828
 
 This fifth volume of the Rasa-jala-nidhi deals with the symptoms, treatment and dietary prescriptions of various afflictions. For example, ratapitta (haemoptysis), cough, asthma, tumours and obesity are dealth with and various Iatro-chemical recipes are provided for these diseases.
 
 The Rasa-jala-nidhi (“the ocean of Iatrochemistry, or, chemical me...
-
-Go directly to: 
-Footnotes.
 
 Part 4 - Chemists of the Metallic School: Introduction
 
@@ -253,16 +215,9 @@ The above 17 were better known as compilers of chemical treatises than as origin
 
 Vagbhata, the compiler of “Rasaratna-samuchchaya” says that he consulted the treatises of all the authors named above. It is unfortunate that most of these treatises have been lost to us, To compile a systematic history of Hindu chemistry appears therefore to be a hopeless task. We shall however try to utilise the materials available to us at present, and deal with only those of the authors named above who have not yet passed completely into the region of oblivion.
 
-Footnotes and references:
-
-[back to top]
-
 [1]:
 
 There are two different readings on this point, viz.
-
-1) khaḍeśastasya (?) ghātakaḥ |
-2) khaḍeśaśca (?) viśāradaḥ |
 
 1) khaḍeśastasya (?) ghātakaḥ |
 2) khaḍeśaśca (?) viśāradaḥ |
@@ -277,10 +232,7 @@ This concludes ‘Chemists of the Metallic School: Introduction’ included in B
 
 ## 7. Part 5 - Chemists of the Metallic School: Adima
 
-
 Rasa Jala Nidhi, vol 5: Treatment of various afflictions
-
-by Bhudeb Mookerjee | 1938 | 63,627 words | ISBN-10: 8170305829 | ISBN-13: 9788170305828
 
 This fifth volume of the Rasa-jala-nidhi deals with the symptoms, treatment and dietary prescriptions of various afflictions. For example, ratapitta (haemoptysis), cough, asthma, tumours and obesity are dealth with and various Iatro-chemical recipes are provided for these diseases.
 
@@ -300,17 +252,11 @@ This concludes ‘Chemists of the Metallic School: Adima’ included in Bhudeb M
 
 ## 8. Part 6 - Chemists of the Metallic School: Chandra Sena
 
-
 Rasa Jala Nidhi, vol 5: Treatment of various afflictions
-
-by Bhudeb Mookerjee | 1938 | 63,627 words | ISBN-10: 8170305829 | ISBN-13: 9788170305828
 
 This fifth volume of the Rasa-jala-nidhi deals with the symptoms, treatment and dietary prescriptions of various afflictions. For example, ratapitta (haemoptysis), cough, asthma, tumours and obesity are dealth with and various Iatro-chemical recipes are provided for these diseases.
 
 The Rasa-jala-nidhi (“the ocean of Iatrochemistry, or, chemical me...
-
-Go directly to: 
-Footnotes.
 
 Part 6 - Chemists of the Metallic School: Chandra Sena
 
@@ -319,10 +265,6 @@ The second name in the first list is that of Chandra Sena. He appears to be the 
 But the question which now arises is this: what are the grounds on which we can base our assumption that this Chandra Sena is no other than King Chandra, the founder of the Chandra dynasty? The line of argument which led us to arrive at this conclusion is this: Chandra Sena or King Chandra[1] erected the iron pillar on a hill in Gaya as a monument of his success in conquest. The pillar was subsequently removed by some one to a place near Delhi. The removal of the pillar from such a long distance must have caused a good deal of trouble and expense. The motive underlying the removal was not an idea of vandalism, as no harm was done to the pillar. It was, on the other hand, re-erected very securely in its present position. This must have been done by some king of Delhi with a view to protecting the pillar. The Hindu kings of Delhi or Hastinapur (founded by Hastina, a descendant of king Chandra, the founder of the Chandra dynasty) mostly belonged to the Chandra dynasty. Some of these king must have taken the trouble of removing the pillar from Gaya to Hastinapur out of respect for the founder of their family. In the long list of kings ruling in Delhi the only person of the name of Chandra is Chandra, the founder of the dynasty. We are therefore forced to identify this Chandra Sena with king Chandra, father of Budha, and grandfather of Pururava, referred to in the Vedas.
 
 Chandra was about 32 generations ahead of Yudhisthira, who flourished about 3139 B.C. The date of Chandra may, therefore, be approximately fixed to be not less than 5000 B.C. He was the author of a treatise named “Rasa-chandrodaya” from which the preparation of “Chandrodaya Makaradhvaja” has been obtained.
-
-Footnotes and references:
-
-[back to top]
 
 [1]:
 
@@ -336,10 +278,7 @@ This concludes ‘Chemists of the Metallic School: Chandra Sena’ included in B
 
 ## 9. Part 3 - The Age of the Mahabharata War
 
-
 Rasa Jala Nidhi, vol 5: Treatment of various afflictions
-
-by Bhudeb Mookerjee | 1938 | 63,627 words | ISBN-10: 8170305829 | ISBN-13: 9788170305828
 
 This fifth volume of the Rasa-jala-nidhi deals with the symptoms, treatment and dietary prescriptions of various afflictions. For example, ratapitta (haemoptysis), cough, asthma, tumours and obesity are dealth with and various Iatro-chemical recipes are provided for these diseases.
 
@@ -379,8 +318,6 @@ tribhāgaśeṣaḥ pakṣoyaṃ śuklo bhavitumarhati ||
 By good luck, O son of Kunti, thou hast come here with all thy Councillors, O Yudhistira! The thousand rayed maker of day, the holy sun has begun Ms northward course.
 
 I have been lying on my bed for fifty eight nights.
-
-“O Yudhisthira, the Lunar month of Magha has come. This is, again, the lighted fortnight and a fourth part of it ought by this (according to my calculations) be over,—” (Shanti Parva Chapter 46, Verses 1-4)
 
 “O Yudhisthira, the Lunar month of Magha has come. This is, again, the lighted fortnight and a fourth part of it ought by this (according to my calculations) be over,—” (Shanti Parva Chapter 46, Verses 1-4)
 
@@ -442,10 +379,7 @@ This concludes ‘The Age of the Mahabharata War’ included in Bhudeb Mookerjee
 
 ## 10. Part 7 - Chemists of the Metallic School: Ravana, King of Lanka
 
-
 Rasa Jala Nidhi, vol 5: Treatment of various afflictions
-
-by Bhudeb Mookerjee | 1938 | 63,627 words | ISBN-10: 8170305829 | ISBN-13: 9788170305828
 
 This fifth volume of the Rasa-jala-nidhi deals with the symptoms, treatment and dietary prescriptions of various afflictions. For example, ratapitta (haemoptysis), cough, asthma, tumours and obesity are dealth with and various Iatro-chemical recipes are provided for these diseases.
 
@@ -469,10 +403,7 @@ This concludes ‘Chemists of the Metallic School: Ravana, King of Lanka’ incl
 
 ## 11. Part 8 - Chemists of the Metallic School: King Rama Chandra
 
-
 Rasa Jala Nidhi, vol 5: Treatment of various afflictions
-
-by Bhudeb Mookerjee | 1938 | 63,627 words | ISBN-10: 8170305829 | ISBN-13: 9788170305828
 
 This fifth volume of the Rasa-jala-nidhi deals with the symptoms, treatment and dietary prescriptions of various afflictions. For example, ratapitta (haemoptysis), cough, asthma, tumours and obesity are dealth with and various Iatro-chemical recipes are provided for these diseases.
 
@@ -515,10 +446,7 @@ This concludes ‘Chemists of the Metallic School: King Rama Chandra’ included
 
 ## 12. Part 9 - Chemists of the Metallic School: Kapali, author of Rasa-raja-mahodadhi
 
-
 Rasa Jala Nidhi, vol 5: Treatment of various afflictions
-
-by Bhudeb Mookerjee | 1938 | 63,627 words | ISBN-10: 8170305829 | ISBN-13: 9788170305828
 
 This fifth volume of the Rasa-jala-nidhi deals with the symptoms, treatment and dietary prescriptions of various afflictions. For example, ratapitta (haemoptysis), cough, asthma, tumours and obesity are dealth with and various Iatro-chemical recipes are provided for these diseases.
 
@@ -536,10 +464,7 @@ This concludes ‘Chemists of the Metallic School: Kapali, author of Rasa-raja-m
 
 ## 13. Part 10 - Chemists of the Metallic School: Matta
 
-
 Rasa Jala Nidhi, vol 5: Treatment of various afflictions
-
-by Bhudeb Mookerjee | 1938 | 63,627 words | ISBN-10: 8170305829 | ISBN-13: 9788170305828
 
 This fifth volume of the Rasa-jala-nidhi deals with the symptoms, treatment and dietary prescriptions of various afflictions. For example, ratapitta (haemoptysis), cough, asthma, tumours and obesity are dealth with and various Iatro-chemical recipes are provided for these diseases.
 
@@ -557,10 +482,7 @@ This concludes ‘Chemists of the Metallic School: Matta’ included in Bhudeb M
 
 ## 14. Part 12 - Chemists of the Metallic School: Surasena
 
-
 Rasa Jala Nidhi, vol 5: Treatment of various afflictions
-
-by Bhudeb Mookerjee | 1938 | 63,627 words | ISBN-10: 8170305829 | ISBN-13: 9788170305828
 
 This fifth volume of the Rasa-jala-nidhi deals with the symptoms, treatment and dietary prescriptions of various afflictions. For example, ratapitta (haemoptysis), cough, asthma, tumours and obesity are dealth with and various Iatro-chemical recipes are provided for these diseases.
 
@@ -578,10 +500,7 @@ This concludes ‘Chemists of the Metallic School: Surasena’ included in Bhude
 
 ## 15. Part 13 - Chemists of the Metallic School: Ratnakosha
 
-
 Rasa Jala Nidhi, vol 5: Treatment of various afflictions
-
-by Bhudeb Mookerjee | 1938 | 63,627 words | ISBN-10: 8170305829 | ISBN-13: 9788170305828
 
 This fifth volume of the Rasa-jala-nidhi deals with the symptoms, treatment and dietary prescriptions of various afflictions. For example, ratapitta (haemoptysis), cough, asthma, tumours and obesity are dealth with and various Iatro-chemical recipes are provided for these diseases.
 
@@ -599,17 +518,11 @@ This concludes ‘Chemists of the Metallic School: Ratnakosha’ included in Bhu
 
 ## 16. Part 14 - Chemists of the Metallic School: Shambhu
 
-
 Rasa Jala Nidhi, vol 5: Treatment of various afflictions
-
-by Bhudeb Mookerjee | 1938 | 63,627 words | ISBN-10: 8170305829 | ISBN-13: 9788170305828
 
 This fifth volume of the Rasa-jala-nidhi deals with the symptoms, treatment and dietary prescriptions of various afflictions. For example, ratapitta (haemoptysis), cough, asthma, tumours and obesity are dealth with and various Iatro-chemical recipes are provided for these diseases.
 
 The Rasa-jala-nidhi (“the ocean of Iatrochemistry, or, chemical me...
-
-Go directly to: 
-Footnotes.
 
 Part 14 - Chemists of the Metallic School: Shambhu
 
@@ -625,10 +538,6 @@ Nityanatha has given the source of his information in this way: “whatever has 
 
 It appears from the above that Nityanatha, who flourished long before 587 A.D., considered Shambhu to be an earlier authority than Nagarjuna, who flourished, according to the “Raja-tarangini”, in the 14th century B.C. Shambhu occupies the 14th, whereas, Nagarjuna the 18th position in the list. In accordance with the principle we have been acting upon, Shambhu may be placed between the 12th and the 15th centuries B.C. He is not to be confused with the God, Siva, one of whose names is Shambhu.
 
-Footnotes and references:
-
-[back to top]
-
 [1]:
 
 Dr. Roy’s translation of this line has not been happy. It runs as follows “Whatever has been revealed by Siva in Rasarnava”...... Here “Sambhu” does not mean Siva, the God, but Sambhu, the human chemist, referred to in several books.
@@ -641,10 +550,7 @@ This concludes ‘Chemists of the Metallic School: Shambhu’ included in Bhudeb
 
 ## 17. Part 16 - Chemists of the Metallic School: Vyari
 
-
 Rasa Jala Nidhi, vol 5: Treatment of various afflictions
-
-by Bhudeb Mookerjee | 1938 | 63,627 words | ISBN-10: 8170305829 | ISBN-13: 9788170305828
 
 This fifth volume of the Rasa-jala-nidhi deals with the symptoms, treatment and dietary prescriptions of various afflictions. For example, ratapitta (haemoptysis), cough, asthma, tumours and obesity are dealth with and various Iatro-chemical recipes are provided for these diseases.
 
@@ -662,10 +568,7 @@ This concludes ‘Chemists of the Metallic School: Vyari’ included in Bhudeb M
 
 ## 18. Part 17 - Chemists of the Metallic School: Nagarjuna
 
-
 Rasa Jala Nidhi, vol 5: Treatment of various afflictions
-
-by Bhudeb Mookerjee | 1938 | 63,627 words | ISBN-10: 8170305829 | ISBN-13: 9788170305828
 
 This fifth volume of the Rasa-jala-nidhi deals with the symptoms, treatment and dietary prescriptions of various afflictions. For example, ratapitta (haemoptysis), cough, asthma, tumours and obesity are dealth with and various Iatro-chemical recipes are provided for these diseases.
 
@@ -707,10 +610,7 @@ This concludes ‘Chemists of the Metallic School: Nagarjuna’ included in Bhud
 
 ## 19. Part 11 - Chemists of the Metallic School: Mandavya
 
-
 Rasa Jala Nidhi, vol 5: Treatment of various afflictions
-
-by Bhudeb Mookerjee | 1938 | 63,627 words | ISBN-10: 8170305829 | ISBN-13: 9788170305828
 
 This fifth volume of the Rasa-jala-nidhi deals with the symptoms, treatment and dietary prescriptions of various afflictions. For example, ratapitta (haemoptysis), cough, asthma, tumours and obesity are dealth with and various Iatro-chemical recipes are provided for these diseases.
 
@@ -728,10 +628,7 @@ This concludes ‘Chemists of the Metallic School: Mandavya’ included in Bhude
 
 ## 20. Part 15 - Chemists of the Metallic School: Satvika, Naravahana, Indrada, Gomukha, and Kambali
 
-
 Rasa Jala Nidhi, vol 5: Treatment of various afflictions
-
-by Bhudeb Mookerjee | 1938 | 63,627 words | ISBN-10: 8170305829 | ISBN-13: 9788170305828
 
 This fifth volume of the Rasa-jala-nidhi deals with the symptoms, treatment and dietary prescriptions of various afflictions. For example, ratapitta (haemoptysis), cough, asthma, tumours and obesity are dealth with and various Iatro-chemical recipes are provided for these diseases.
 
@@ -749,10 +646,7 @@ This concludes ‘Chemists of the Metallic School: Satvika, Naravahana, Indrada,
 
 ## 21. Part 18 - Chemists of the Metallic School: Surananda and Nagabodhi
 
-
 Rasa Jala Nidhi, vol 5: Treatment of various afflictions
-
-by Bhudeb Mookerjee | 1938 | 63,627 words | ISBN-10: 8170305829 | ISBN-13: 9788170305828
 
 This fifth volume of the Rasa-jala-nidhi deals with the symptoms, treatment and dietary prescriptions of various afflictions. For example, ratapitta (haemoptysis), cough, asthma, tumours and obesity are dealth with and various Iatro-chemical recipes are provided for these diseases.
 
@@ -770,10 +664,7 @@ This concludes ‘Chemists of the Metallic School: Surananda and Nagabodhi’ in
 
 ## 22. Part 19 - Chemists of the Metallic School: Jasodhana or Jasodhara
 
-
 Rasa Jala Nidhi, vol 5: Treatment of various afflictions
-
-by Bhudeb Mookerjee | 1938 | 63,627 words | ISBN-10: 8170305829 | ISBN-13: 9788170305828
 
 This fifth volume of the Rasa-jala-nidhi deals with the symptoms, treatment and dietary prescriptions of various afflictions. For example, ratapitta (haemoptysis), cough, asthma, tumours and obesity are dealth with and various Iatro-chemical recipes are provided for these diseases.
 
@@ -791,10 +682,7 @@ This concludes ‘Chemists of the Metallic School: Jasodhana or Jasodhara’ inc
 
 ## 23. Part 21 - Chemists of the Metallic School: Govinda or Bhikshu Govinda
 
-
 Rasa Jala Nidhi, vol 5: Treatment of various afflictions
-
-by Bhudeb Mookerjee | 1938 | 63,627 words | ISBN-10: 8170305829 | ISBN-13: 9788170305828
 
 This fifth volume of the Rasa-jala-nidhi deals with the symptoms, treatment and dietary prescriptions of various afflictions. For example, ratapitta (haemoptysis), cough, asthma, tumours and obesity are dealth with and various Iatro-chemical recipes are provided for these diseases.
 
@@ -826,10 +714,7 @@ This concludes ‘Chemists of the Metallic School: Govinda or Bhikshu Govinda’
 
 ## 24. Part 23 - Chemists of the Metallic School: Ananta Deva Suri
 
-
 Rasa Jala Nidhi, vol 5: Treatment of various afflictions
-
-by Bhudeb Mookerjee | 1938 | 63,627 words | ISBN-10: 8170305829 | ISBN-13: 9788170305828
 
 This fifth volume of the Rasa-jala-nidhi deals with the symptoms, treatment and dietary prescriptions of various afflictions. For example, ratapitta (haemoptysis), cough, asthma, tumours and obesity are dealth with and various Iatro-chemical recipes are provided for these diseases.
 
@@ -847,10 +732,7 @@ This concludes ‘Chemists of the Metallic School: Ananta Deva Suri’ included 
 
 ## 25. Part 20 - Chemists of the Metallic School: Nitya-natha
 
-
 Rasa Jala Nidhi, vol 5: Treatment of various afflictions
-
-by Bhudeb Mookerjee | 1938 | 63,627 words | ISBN-10: 8170305829 | ISBN-13: 9788170305828
 
 This fifth volume of the Rasa-jala-nidhi deals with the symptoms, treatment and dietary prescriptions of various afflictions. For example, ratapitta (haemoptysis), cough, asthma, tumours and obesity are dealth with and various Iatro-chemical recipes are provided for these diseases.
 
@@ -870,10 +752,7 @@ This concludes ‘Chemists of the Metallic School: Nitya-natha’ included in Bh
 
 ## 26. Part 24 - Hindu Chemistry before the advent of the Mahomedans
 
-
 Rasa Jala Nidhi, vol 5: Treatment of various afflictions
-
-by Bhudeb Mookerjee | 1938 | 63,627 words | ISBN-10: 8170305829 | ISBN-13: 9788170305828
 
 This fifth volume of the Rasa-jala-nidhi deals with the symptoms, treatment and dietary prescriptions of various afflictions. For example, ratapitta (haemoptysis), cough, asthma, tumours and obesity are dealth with and various Iatro-chemical recipes are provided for these diseases.
 
@@ -893,10 +772,7 @@ This concludes ‘Hindu Chemistry before the advent of the Mahomedans’ include
 
 ## 27. Part 22 - Chemists of the Metallic School: Vagbhata, the junior
 
-
 Rasa Jala Nidhi, vol 5: Treatment of various afflictions
-
-by Bhudeb Mookerjee | 1938 | 63,627 words | ISBN-10: 8170305829 | ISBN-13: 9788170305828
 
 This fifth volume of the Rasa-jala-nidhi deals with the symptoms, treatment and dietary prescriptions of various afflictions. For example, ratapitta (haemoptysis), cough, asthma, tumours and obesity are dealth with and various Iatro-chemical recipes are provided for these diseases.
 
@@ -918,17 +794,11 @@ This concludes ‘Chemists of the Metallic School: Vagbhata, the junior’ inclu
 
 ## 28. Part 25 - Ar-Razi and the Indian knowledge of metallic chemistry
 
-
 Rasa Jala Nidhi, vol 5: Treatment of various afflictions
-
-by Bhudeb Mookerjee | 1938 | 63,627 words | ISBN-10: 8170305829 | ISBN-13: 9788170305828
 
 This fifth volume of the Rasa-jala-nidhi deals with the symptoms, treatment and dietary prescriptions of various afflictions. For example, ratapitta (haemoptysis), cough, asthma, tumours and obesity are dealth with and various Iatro-chemical recipes are provided for these diseases.
 
 The Rasa-jala-nidhi (“the ocean of Iatrochemistry, or, chemical me...
-
-Go directly to: 
-Footnotes.
 
 Part 25 - Ar-Razi and the Indian knowledge of metallic chemistry
 
@@ -1003,10 +873,6 @@ Dhatu Vidya or Dhatu Veda (industrial or applied chemistry)
 Roga-chikitsa (treatment of diseases)
 Rasayana-chikitsa (treatment for the cure and prevention of senile decay)
 
-Footnotes and references:
-
-[back to top]
-
 [1]:
 
 I have edited this most difficult of the astrological books with a Bengali translation, a portion of which was published some eight years back in the Sahitya Samhita of Calcutta.
@@ -1019,10 +885,7 @@ This concludes ‘Ar-Razi and the Indian knowledge of metallic chemistry’ incl
 
 ## 29. Introduction
 
-
 Rasa Jala Nidhi, vol 5: Treatment of various afflictions
-
-by Bhudeb Mookerjee | 1938 | 63,627 words | ISBN-10: 8170305829 | ISBN-13: 9788170305828
 
 This fifth volume of the Rasa-jala-nidhi deals with the symptoms, treatment and dietary prescriptions of various afflictions. For example, ratapitta (haemoptysis), cough, asthma, tumours and obesity are dealth with and various Iatro-chemical recipes are provided for these diseases.
 
@@ -1040,10 +903,7 @@ This concludes ‘Introduction’ included in Bhudeb Mookerjee Rasa Jala Nidhi, 
 
 ## 30. Chapter 1 - Symptoms and treatment of Raktapitta (Hemoptysis)
 
-
 Rasa Jala Nidhi, vol 5: Treatment of various afflictions
-
-by Bhudeb Mookerjee | 1938 | 63,627 words | ISBN-10: 8170305829 | ISBN-13: 9788170305828
 
 This fifth volume of the Rasa-jala-nidhi deals with the symptoms, treatment and dietary prescriptions of various afflictions. For example, ratapitta (haemoptysis), cough, asthma, tumours and obesity are dealth with and various Iatro-chemical recipes are provided for these diseases.
 
@@ -1155,10 +1015,7 @@ This concludes ‘Symptoms and treatment of Raktapitta (Hemoptysis)’ included 
 
 ## 31. Measures of Weight
 
-
 Rasa Jala Nidhi, vol 5: Treatment of various afflictions
-
-by Bhudeb Mookerjee | 1938 | 63,627 words | ISBN-10: 8170305829 | ISBN-13: 9788170305828
 
 This fifth volume of the Rasa-jala-nidhi deals with the symptoms, treatment and dietary prescriptions of various afflictions. For example, ratapitta (haemoptysis), cough, asthma, tumours and obesity are dealth with and various Iatro-chemical recipes are provided for these diseases.
 
@@ -1184,10 +1041,7 @@ This concludes ‘Measures of Weight’ included in Bhudeb Mookerjee Rasa Jala N
 
 ## 32. Chapter 3 - Symptoms and treatment of Kasa (cough)
 
-
 Rasa Jala Nidhi, vol 5: Treatment of various afflictions
-
-by Bhudeb Mookerjee | 1938 | 63,627 words | ISBN-10: 8170305829 | ISBN-13: 9788170305828
 
 This fifth volume of the Rasa-jala-nidhi deals with the symptoms, treatment and dietary prescriptions of various afflictions. For example, ratapitta (haemoptysis), cough, asthma, tumours and obesity are dealth with and various Iatro-chemical recipes are provided for these diseases.
 
@@ -1355,17 +1209,11 @@ This concludes ‘Symptoms and treatment of Kasa (cough)’ included in Bhudeb M
 
 ## 33. Chapter 4 - Symptoms and treatment of Asthma (shvasa) and Cough (hikka)
 
-
 Rasa Jala Nidhi, vol 5: Treatment of various afflictions
-
-by Bhudeb Mookerjee | 1938 | 63,627 words | ISBN-10: 8170305829 | ISBN-13: 9788170305828
 
 This fifth volume of the Rasa-jala-nidhi deals with the symptoms, treatment and dietary prescriptions of various afflictions. For example, ratapitta (haemoptysis), cough, asthma, tumours and obesity are dealth with and various Iatro-chemical recipes are provided for these diseases.
 
 The Rasa-jala-nidhi (“the ocean of Iatrochemistry, or, chemical me...
-
-Go directly to: 
-Footnotes.
 
 Chapter 4 - Symptoms and treatment of Asthma (shvasa) and Cough (hikka)
 
@@ -1535,10 +1383,6 @@ Food and actions injurious in asthma (shvasa).
 
 suppression of urine, belching, vomiting, thirst, and cough; use of snuff, douche, tooth-brush, physical exertion, walking, carrying loads, inhaling of dust, exposure to the rays of the sun, food which lies in the stomach undigested for a long time, sexual intercourse, bidahi food, meat of animals called “anupa,” food fried with oil, beans of all kinds, food and actions tending to increase phlegm, masa-grams, blood shed, wind blowing towards the east (which generally is the case in winter. This therefore means cold wind), drinking water after completion of meals (see page 20, Vol. IV), ram’s milk and butter and clarified butter prepared from the same; impure water, fish, tubers (such as shurana, mana, potatoes), mustard seeds, food and drinks which are coarse and not seasoned with butter or clarified butter,[3] and cold food and drinks.
 
-Footnotes and references:
-
-[back to top]
-
 [1]:
 
 This medicine, if not mixed with aconite, may be used in doses from 2 to 10 raktis, and in the same way as rasa-papati (See page 262 Vol. IV).
@@ -1559,10 +1403,7 @@ This concludes ‘Symptoms and treatment of Asthma (shvasa) and Cough (hikka)’
 
 ## 34. Chapter 5 - Symptoms and treatment of Hoarseness (svarabheda)
 
-
 Rasa Jala Nidhi, vol 5: Treatment of various afflictions
-
-by Bhudeb Mookerjee | 1938 | 63,627 words | ISBN-10: 8170305829 | ISBN-13: 9788170305828
 
 This fifth volume of the Rasa-jala-nidhi deals with the symptoms, treatment and dietary prescriptions of various afflictions. For example, ratapitta (haemoptysis), cough, asthma, tumours and obesity are dealth with and various Iatro-chemical recipes are provided for these diseases.
 
@@ -1606,17 +1447,11 @@ This concludes ‘Symptoms and treatment of Hoarseness (svarabheda)’ included 
 
 ## 35. Chapter 6 - Diseases affecting the heart (hridroga)
 
-
 Rasa Jala Nidhi, vol 5: Treatment of various afflictions
-
-by Bhudeb Mookerjee | 1938 | 63,627 words | ISBN-10: 8170305829 | ISBN-13: 9788170305828
 
 This fifth volume of the Rasa-jala-nidhi deals with the symptoms, treatment and dietary prescriptions of various afflictions. For example, ratapitta (haemoptysis), cough, asthma, tumours and obesity are dealth with and various Iatro-chemical recipes are provided for these diseases.
 
 The Rasa-jala-nidhi (“the ocean of Iatrochemistry, or, chemical me...
-
-Go directly to: 
-Footnotes.
 
 Chapter 6 - Diseases affecting the heart (hridroga)
 
@@ -1716,10 +1551,6 @@ Articles of food stuff and deeds injurious in heart-diseases (hridroga):—
 
 Suppression of calls of nature in respect of thirst, vomiting, discharge of urine, wind formed in the stomach, semen, cough, belching, respiration, stool, and tears, drinking of water of rivers issuing out of the Sahya and the vindhyas mountains, milk of rams, impure water, taking of astringents, food incongenial by combination, hot food, heavy food, bitters, sours, constant taking of pot herbs (leaf-vegetables), alkali, madhuka fruits (mahua), cleansing of teeth by means of sticks (or brushes), and letting out of blood.
 
-Footnotes and references:
-
-[back to top]
-
 [1]:
 
 Some texts have replaced these lines by “feeling of exertion, fatigue”.
@@ -1732,10 +1563,7 @@ This concludes ‘Diseases affecting the heart (hridroga)’ included in Bhudeb 
 
 ## 36. Chapter 7 - Symptoms and treatment of Urograha
 
-
 Rasa Jala Nidhi, vol 5: Treatment of various afflictions
-
-by Bhudeb Mookerjee | 1938 | 63,627 words | ISBN-10: 8170305829 | ISBN-13: 9788170305828
 
 This fifth volume of the Rasa-jala-nidhi deals with the symptoms, treatment and dietary prescriptions of various afflictions. For example, ratapitta (haemoptysis), cough, asthma, tumours and obesity are dealth with and various Iatro-chemical recipes are provided for these diseases.
 
@@ -1773,10 +1601,7 @@ This concludes ‘Symptoms and treatment of Urograha’ included in Bhudeb Mooke
 
 ## 37. Chapter 9 - Treatment of an abnormal excess of Pitta
 
-
 Rasa Jala Nidhi, vol 5: Treatment of various afflictions
-
-by Bhudeb Mookerjee | 1938 | 63,627 words | ISBN-10: 8170305829 | ISBN-13: 9788170305828
 
 This fifth volume of the Rasa-jala-nidhi deals with the symptoms, treatment and dietary prescriptions of various afflictions. For example, ratapitta (haemoptysis), cough, asthma, tumours and obesity are dealth with and various Iatro-chemical recipes are provided for these diseases.
 
@@ -1818,17 +1643,11 @@ This concludes ‘Treatment of an abnormal excess of Pitta’ included in Bhudeb
 
 ## 38. Chapter 8 - Symptoms and treatment of Amlapitta (acidity and biliousness)
 
-
 Rasa Jala Nidhi, vol 5: Treatment of various afflictions
-
-by Bhudeb Mookerjee | 1938 | 63,627 words | ISBN-10: 8170305829 | ISBN-13: 9788170305828
 
 This fifth volume of the Rasa-jala-nidhi deals with the symptoms, treatment and dietary prescriptions of various afflictions. For example, ratapitta (haemoptysis), cough, asthma, tumours and obesity are dealth with and various Iatro-chemical recipes are provided for these diseases.
 
 The Rasa-jala-nidhi (“the ocean of Iatrochemistry, or, chemical me...
-
-Go directly to: 
-Footnotes.
 
 Chapter 8 - Symptoms and treatment of Amlapitta (acidity and biliousness)
 
@@ -1908,10 +1727,6 @@ Food and deeds considered injurious in amlapitta:—
 
 Rice, wheat, barley, and mudga gram—of recent growth, articles of food-stuff incongenial by combination, food having the property of increasing pitta, suppression of calls of nature in respect of stools, urine, vomiting, and sneezing; eating of sesamum seeds, dhanyamla (see page 380, Vol. III)[1] salt in excess, sours, pungents, heavy food, curd, and wine.
 
-Footnotes and references:
-
-[back to top]
-
 [1]:
 
 Except at the time of taking such medicines as baryanna rasa.
@@ -1924,17 +1739,11 @@ This concludes ‘Symptoms and treatment of Amlapitta (acidity and biliousness)�
 
 ## 39. Chapter 10 - Symptoms and treatment of Shula (pain in the belly)
 
-
 Rasa Jala Nidhi, vol 5: Treatment of various afflictions
-
-by Bhudeb Mookerjee | 1938 | 63,627 words | ISBN-10: 8170305829 | ISBN-13: 9788170305828
 
 This fifth volume of the Rasa-jala-nidhi deals with the symptoms, treatment and dietary prescriptions of various afflictions. For example, ratapitta (haemoptysis), cough, asthma, tumours and obesity are dealth with and various Iatro-chemical recipes are provided for these diseases.
 
 The Rasa-jala-nidhi (“the ocean of Iatrochemistry, or, chemical me...
-
-Go directly to: 
-Footnotes.
 
 Chapter 10 - Symptoms and treatment of Shula (pain in the belly)
 
@@ -2174,10 +1983,6 @@ Articles of food-stuff and deeds injurious in shula:—
 
 Food and drinks in congenial by combination, keeping late hours at night, taking meals at irregular hours and in unusual quantities, food not softened with clarified butter or any other animal fat, bitters, astringents, cold food, heavy food, physical exercise, sexual intercourse, wine, pulses, excess of salt, sesamum seeds, suppression of calls of nature, grief, and anger.
 
-Footnotes and references:
-
-[back to top]
-
 [1]:
 
 These three are grasses yielding rice-like seeds.
@@ -2198,10 +2003,7 @@ This concludes ‘Symptoms and treatment of Shula (pain in the belly)’ include
 
 ## 40. Chapter 11 - Symptoms and treatment of Gulma (tumour in the belly)
 
-
 Rasa Jala Nidhi, vol 5: Treatment of various afflictions
-
-by Bhudeb Mookerjee | 1938 | 63,627 words | ISBN-10: 8170305829 | ISBN-13: 9788170305828
 
 This fifth volume of the Rasa-jala-nidhi deals with the symptoms, treatment and dietary prescriptions of various afflictions. For example, ratapitta (haemoptysis), cough, asthma, tumours and obesity are dealth with and various Iatro-chemical recipes are provided for these diseases.
 
@@ -2319,17 +2121,11 @@ This concludes ‘Symptoms and treatment of Gulma (tumour in the belly)’ inclu
 
 ## 41. Chapter 12 - Symptoms and treatment of Worms and Bacilli (krimi)
 
-
 Rasa Jala Nidhi, vol 5: Treatment of various afflictions
-
-by Bhudeb Mookerjee | 1938 | 63,627 words | ISBN-10: 8170305829 | ISBN-13: 9788170305828
 
 This fifth volume of the Rasa-jala-nidhi deals with the symptoms, treatment and dietary prescriptions of various afflictions. For example, ratapitta (haemoptysis), cough, asthma, tumours and obesity are dealth with and various Iatro-chemical recipes are provided for these diseases.
 
 The Rasa-jala-nidhi (“the ocean of Iatrochemistry, or, chemical me...
-
-Go directly to: 
-Footnotes.
 
 Chapter 12 - Symptoms and treatment of Worms and Bacilli (krimi)
 
@@ -2481,10 +2277,6 @@ Articles of food-stuff and deeds injurious in worm (krimi)s:—
 
 Vomiting, suppression of vomiting, articles of food-stuff incongenial by combination, sleeping in day time; drinking of liquid food, food pestled and baked (pistaka), indigestion, clarified butter, masha-grams, curd, pot-herbs, meat, milk, sours, and sweets.
 
-Footnotes and references:
-
-[back to top]
-
 [1]:
 
 See page 379, Vol. III.
@@ -2505,10 +2297,7 @@ This concludes ‘Symptoms and treatment of Worms and Bacilli (krimi)’ include
 
 ## 42. Chapter 13 - Symptoms and treatment of Pandu (anemia) and Kamala (jaundice)
 
-
 Rasa Jala Nidhi, vol 5: Treatment of various afflictions
-
-by Bhudeb Mookerjee | 1938 | 63,627 words | ISBN-10: 8170305829 | ISBN-13: 9788170305828
 
 This fifth volume of the Rasa-jala-nidhi deals with the symptoms, treatment and dietary prescriptions of various afflictions. For example, ratapitta (haemoptysis), cough, asthma, tumours and obesity are dealth with and various Iatro-chemical recipes are provided for these diseases.
 
@@ -2744,10 +2533,7 @@ This concludes ‘Symptoms and treatment of Pandu (anemia) and Kamala (jaundice)
 
 ## 43. Chapter 14 - Symptoms and treatment of Arochaka (aversion to food)
 
-
 Rasa Jala Nidhi, vol 5: Treatment of various afflictions
-
-by Bhudeb Mookerjee | 1938 | 63,627 words | ISBN-10: 8170305829 | ISBN-13: 9788170305828
 
 This fifth volume of the Rasa-jala-nidhi deals with the symptoms, treatment and dietary prescriptions of various afflictions. For example, ratapitta (haemoptysis), cough, asthma, tumours and obesity are dealth with and various Iatro-chemical recipes are provided for these diseases.
 
@@ -2793,10 +2579,7 @@ This concludes ‘Symptoms and treatment of Arochaka (aversion to food)’ inclu
 
 ## 44. Chapter 15 - Symptoms and treatment of Chardi (vomiting)
 
-
 Rasa Jala Nidhi, vol 5: Treatment of various afflictions
-
-by Bhudeb Mookerjee | 1938 | 63,627 words | ISBN-10: 8170305829 | ISBN-13: 9788170305828
 
 This fifth volume of the Rasa-jala-nidhi deals with the symptoms, treatment and dietary prescriptions of various afflictions. For example, ratapitta (haemoptysis), cough, asthma, tumours and obesity are dealth with and various Iatro-chemical recipes are provided for these diseases.
 
@@ -2858,10 +2641,7 @@ This concludes ‘Symptoms and treatment of Chardi (vomiting)’ included in Bhu
 
 ## 45. Chapter 16 - Symptoms and treatment of Trishna (thirst)
 
-
 Rasa Jala Nidhi, vol 5: Treatment of various afflictions
-
-by Bhudeb Mookerjee | 1938 | 63,627 words | ISBN-10: 8170305829 | ISBN-13: 9788170305828
 
 This fifth volume of the Rasa-jala-nidhi deals with the symptoms, treatment and dietary prescriptions of various afflictions. For example, ratapitta (haemoptysis), cough, asthma, tumours and obesity are dealth with and various Iatro-chemical recipes are provided for these diseases.
 
@@ -2911,17 +2691,11 @@ This concludes ‘Symptoms and treatment of Trishna (thirst)’ included in Bhud
 
 ## 46. Chapter 17 - Symptoms and Treatment of Medoroga (obesity)
 
-
 Rasa Jala Nidhi, vol 5: Treatment of various afflictions
-
-by Bhudeb Mookerjee | 1938 | 63,627 words | ISBN-10: 8170305829 | ISBN-13: 9788170305828
 
 This fifth volume of the Rasa-jala-nidhi deals with the symptoms, treatment and dietary prescriptions of various afflictions. For example, ratapitta (haemoptysis), cough, asthma, tumours and obesity are dealth with and various Iatro-chemical recipes are provided for these diseases.
 
 The Rasa-jala-nidhi (“the ocean of Iatrochemistry, or, chemical me...
-
-Go directly to: 
-Footnotes.
 
 Chapter 17 - Symptoms and Treatment of Medoroga (obesity)
 
@@ -2999,10 +2773,6 @@ Taking bath, faking such medicines as are called rasayana (i.e., medicine which 
 
 Vomiting is injurious to a highly fatty man.
 
-Footnotes and references:
-
-[back to top]
-
 [1]:
 
 Dhatus are the constituent parts of the body. They are: chyle, blood, flesh, bone, marrow, fat, and semen.
@@ -3019,10 +2789,7 @@ This concludes ‘Symptoms and Treatment of Medoroga (obesity)’ included in Bh
 
 ## 47. Chapter 18 - Symptoms and Treatment of Karshya (thinness)
 
-
 Rasa Jala Nidhi, vol 5: Treatment of various afflictions
-
-by Bhudeb Mookerjee | 1938 | 63,627 words | ISBN-10: 8170305829 | ISBN-13: 9788170305828
 
 This fifth volume of the Rasa-jala-nidhi deals with the symptoms, treatment and dietary prescriptions of various afflictions. For example, ratapitta (haemoptysis), cough, asthma, tumours and obesity are dealth with and various Iatro-chemical recipes are provided for these diseases.
 
@@ -3062,10 +2829,7 @@ This concludes ‘Symptoms and Treatment of Karshya (thinness)’ included in Bh
 
 ## 48. Chapter 19 - Symptoms and Treatment of Daha (sensation of heat)
 
-
 Rasa Jala Nidhi, vol 5: Treatment of various afflictions
-
-by Bhudeb Mookerjee | 1938 | 63,627 words | ISBN-10: 8170305829 | ISBN-13: 9788170305828
 
 This fifth volume of the Rasa-jala-nidhi deals with the symptoms, treatment and dietary prescriptions of various afflictions. For example, ratapitta (haemoptysis), cough, asthma, tumours and obesity are dealth with and various Iatro-chemical recipes are provided for these diseases.
 
@@ -3141,10 +2905,7 @@ This concludes ‘Symptoms and Treatment of Daha (sensation of heat)’ included
 
 ## 49. Chapter 20 - Symptoms and Treatment of Madya-pana-vikara
 
-
 Rasa Jala Nidhi, vol 5: Treatment of various afflictions
-
-by Bhudeb Mookerjee | 1938 | 63,627 words | ISBN-10: 8170305829 | ISBN-13: 9788170305828
 
 This fifth volume of the Rasa-jala-nidhi deals with the symptoms, treatment and dietary prescriptions of various afflictions. For example, ratapitta (haemoptysis), cough, asthma, tumours and obesity are dealth with and various Iatro-chemical recipes are provided for these diseases.
 
@@ -3220,10 +2981,7 @@ This concludes ‘Symptoms and Treatment of Madya-pana-vikara’ included in Bhu
 
 ## 50. Chapter 21 - Symptoms and Treatment of Murcha (loss of consciousness)
 
-
 Rasa Jala Nidhi, vol 5: Treatment of various afflictions
-
-by Bhudeb Mookerjee | 1938 | 63,627 words | ISBN-10: 8170305829 | ISBN-13: 9788170305828
 
 This fifth volume of the Rasa-jala-nidhi deals with the symptoms, treatment and dietary prescriptions of various afflictions. For example, ratapitta (haemoptysis), cough, asthma, tumours and obesity are dealth with and various Iatro-chemical recipes are provided for these diseases.
 
@@ -3305,10 +3063,7 @@ This concludes ‘Symptoms and Treatment of Murcha (loss of consciousness)’ in
 
 ## 51. Chapter 22 - Symptoms and Treatment of Sannyasa (malignant swoon)
 
-
 Rasa Jala Nidhi, vol 5: Treatment of various afflictions
-
-by Bhudeb Mookerjee | 1938 | 63,627 words | ISBN-10: 8170305829 | ISBN-13: 9788170305828
 
 This fifth volume of the Rasa-jala-nidhi deals with the symptoms, treatment and dietary prescriptions of various afflictions. For example, ratapitta (haemoptysis), cough, asthma, tumours and obesity are dealth with and various Iatro-chemical recipes are provided for these diseases.
 
@@ -3348,17 +3103,11 @@ This concludes ‘Symptoms and Treatment of Sannyasa (malignant swoon)’ includ
 
 ## 52. Chapter 23 - Bhrama (vertigo), Nidra (sleeping disease), and Tandra (drowsiness)
 
-
 Rasa Jala Nidhi, vol 5: Treatment of various afflictions
-
-by Bhudeb Mookerjee | 1938 | 63,627 words | ISBN-10: 8170305829 | ISBN-13: 9788170305828
 
 This fifth volume of the Rasa-jala-nidhi deals with the symptoms, treatment and dietary prescriptions of various afflictions. For example, ratapitta (haemoptysis), cough, asthma, tumours and obesity are dealth with and various Iatro-chemical recipes are provided for these diseases.
 
 The Rasa-jala-nidhi (“the ocean of Iatrochemistry, or, chemical me...
-
-Go directly to: 
-Footnotes.
 
 Chapter 23 - Bhrama (vertigo), Nidra (sleeping disease), and Tandra (drowsiness)
 
@@ -3398,10 +3147,6 @@ Iatro-chemical remedies and Dietary in sleepiness and drowsiness:
 
 The same as in swoon.
 
-Footnotes and references:
-
-[back to top]
-
 [1]:
 
 Indian philosophers attribute three different properties to mind, viz. sattva (refinement, sobriety, wisdom, and consciousness), rajas (excitement, activity, and egoism), and tamas (ignorance and absence of consciousness).
@@ -3414,10 +3159,7 @@ This concludes ‘Bhrama (vertigo), Nidra (sleeping disease), and Tandra (drowsi
 
 ## 53. Chapter 24 - Symptoms and treatment of Apasmara (epilepsy)
 
-
 Rasa Jala Nidhi, vol 5: Treatment of various afflictions
-
-by Bhudeb Mookerjee | 1938 | 63,627 words | ISBN-10: 8170305829 | ISBN-13: 9788170305828
 
 This fifth volume of the Rasa-jala-nidhi deals with the symptoms, treatment and dietary prescriptions of various afflictions. For example, ratapitta (haemoptysis), cough, asthma, tumours and obesity are dealth with and various Iatro-chemical recipes are provided for these diseases.
 
@@ -3519,10 +3261,7 @@ This concludes ‘Symptoms and treatment of Apasmara (epilepsy)’ included in B
 
 ## 54. Chapter 25 - Symptoms and treatment of Unmada (insanity)
 
-
 Rasa Jala Nidhi, vol 5: Treatment of various afflictions
-
-by Bhudeb Mookerjee | 1938 | 63,627 words | ISBN-10: 8170305829 | ISBN-13: 9788170305828
 
 This fifth volume of the Rasa-jala-nidhi deals with the symptoms, treatment and dietary prescriptions of various afflictions. For example, ratapitta (haemoptysis), cough, asthma, tumours and obesity are dealth with and various Iatro-chemical recipes are provided for these diseases.
 
@@ -3646,17 +3385,11 @@ This concludes ‘Symptoms and treatment of Unmada (insanity)’ included in Bhu
 
 ## 55. Chapter 26 - Symptoms and treatment of Amavata (gout and rheumatism)
 
-
 Rasa Jala Nidhi, vol 5: Treatment of various afflictions
-
-by Bhudeb Mookerjee | 1938 | 63,627 words | ISBN-10: 8170305829 | ISBN-13: 9788170305828
 
 This fifth volume of the Rasa-jala-nidhi deals with the symptoms, treatment and dietary prescriptions of various afflictions. For example, ratapitta (haemoptysis), cough, asthma, tumours and obesity are dealth with and various Iatro-chemical recipes are provided for these diseases.
 
 The Rasa-jala-nidhi (“the ocean of Iatrochemistry, or, chemical me...
-
-Go directly to: 
-Footnotes.
 
 Chapter 26 - Symptoms and treatment of Amavata (gout and rheumatism)
 
@@ -3744,10 +3477,6 @@ Diet and deeds injurious in rheumatism.
 
 Curd, fish, molasses, milk, white basil, masha-grams, (Phased lous Radiatus) cake prepared of rice, unfiltered water, wind blowing from eastern horizon, incongenial foods, unwholesome diet and deeds, heavy food, keeping late hour at night, suppression of calls of nature.
 
-Footnotes and references:
-
-[back to top]
-
 [1]:
 
 Physical exercise is ordinarily beneficial to those who take fatty food. What is objectionable is taking physical exercise before the fat is digested, partially at least Physical exercise increases vayu which evaporates the fat if undigested.
@@ -3764,17 +3493,11 @@ This concludes ‘Symptoms and treatment of Amavata (gout and rheumatism)’ inc
 
 ## 56. Chapter 2 - Symptoms and treatment of Rajayakshma (Phthisis or consumption)
 
-
 Rasa Jala Nidhi, vol 5: Treatment of various afflictions
-
-by Bhudeb Mookerjee | 1938 | 63,627 words | ISBN-10: 8170305829 | ISBN-13: 9788170305828
 
 This fifth volume of the Rasa-jala-nidhi deals with the symptoms, treatment and dietary prescriptions of various afflictions. For example, ratapitta (haemoptysis), cough, asthma, tumours and obesity are dealth with and various Iatro-chemical recipes are provided for these diseases.
 
 The Rasa-jala-nidhi (“the ocean of Iatrochemistry, or, chemical me...
-
-Go directly to: 
-Footnotes.
 
 Chapter 2 - Symptoms and treatment of Rajayakshma (Phthisis or consumption)
 
@@ -4004,10 +3727,6 @@ In the case of the patient being strong and the dosas (i.e. vayu, pitta, and kap
 Articles of food-stuff and deeds considered injurious in phthisis.
 
 Purgation, suppression of calls of nature, mental and physical labour, association with wife, fomenting the body, using collyrium, keeping late hours at night, performance of daring acts, exposure to the rays of the sun (except in the frizid climate), taking of food or drink, not mixed with clarified butter or animal fat, taking meals at irregular times and in excessive quantities; betel leaves, water melon, kulattha grams, masa grams, garlics, sprouts of bamboos, hingu, sours, bitters, astringents, pungents, all sorts of pot herbs, alkalis, articles of food-stuff incongenial by combination (see page 9, Vol. 17), beans, karkota, all bidahi articles (see page 7, Vol. IV), betel nuts, pippali, brinjals, taking of oil, sleeping in day time, bilva fruit, anger, sexual intercourse, grief, vexation, envy, and jealousy.
-
-Footnotes and references:
-
-[back to top]
 
 [1]:
 

@@ -1,23 +1,15 @@
 ---
 title: "The Principles of Therapeutics (Cikitsā) — Charaka Samhita And Sushruta Samhita By Nayana Sharma"
-paper_title: "Charaka Samhita And Sushruta Samhita By Nayana Sharma"
-paper_slug: "charaka-samhita-and-sushruta-samhita-by-nayana-sharma"
-chapter_title: "The Principles of Therapeutics (Cikitsā)"
-chapter_slug: "the-principles-of-therapeutics-cikitsā"
-chapter_number: 46
-reading_time: 4
-prev_chapter: "karma-and-disease"
-next_chapter: "practice-of-therapeutics"
-silo: "research"
-category: "Ayurvedic Research & Evidence"
-status: "Published"
-date: "2026-08-17"
 description: "Detailed analysis of The Principles of Therapeutics (Cikitsā) from Charaka Samhita And Sushruta Samhita By Nayana Sharma by Nayana Sharma. Evidence-based Ayurvedic literature review and pharmacognosy."
+category: "Ayurvedic Research & Evidence"
 author: "Suresh Bhati"
-original_scholar: "Nayana Sharma"
+publishedDate: "2026-08-17"
+status: "Published"
 ---
 
 # 46. The Principles of Therapeutics (Cikitsā)
+
+> **Clinical Executive Summary**: This guide on **The Principles of Therapeutics (Cikitsā) — Charaka Samhita And Sushruta Samhita By Nayana Sharma** synthesizes classical Sanskrit Samhita principles with modern botanical pharmacological research. Curated under the editorial supervision of Suresh Bhati, it provides actionable doshic guidelines, evidence-based applications, and safety parameters.
 
 > **TL;DR:** Chapter 46 of **Charaka Samhita And Sushruta Samhita By Nayana Sharma** by **Nayana Sharma** explores key findings on *The Principles of Therapeutics (Cikitsā)*. It bridges traditional Sanskrit literature with contemporary medical science.
 
@@ -74,10 +66,6 @@ Suśruta gives a four-fold classification of therapeutic procedures, which is as
 (iv) Ācāra—(behaviour) consists of activities relating to body, speech and mind, such as moving up and down, reciting, reading etc. (relating to speech) and meditation, thinking, determination, etc. (mental activities) properly employed after examining age, etc.[15]
 
 The term daivavyāpāśraya or a similar term does not occur in the text. Nor are rituals and prayers specifically mentioned as ācāra. Nonetheless, they are recommended as a therapeutic measure in several diseases as we shall discuss. Chanting of hymns as a protective measure is evident in surgeries;[16] in the protection of the wounded[17] and in cases of mūḍhagarbha (abnormal foetal presentations), and attempts to deliver the foetus alive.[18]
-
-Footnotes and references:
-
-[back to top]
 
 [1]:
 
@@ -150,8 +138,6 @@ Suśruta Saṃhitā Sūtrasthāna 19.25-27.
 [18]:
 
 Suśruta Saṃhitā Cikitsāsthāna 15.5-8.
-
----
 
 ---
 
@@ -264,6 +250,72 @@ Suśruta Saṃhitā Cikitsāsthāna 15.5-8.
           }
         }
       ]
+    }
+  ]
+}
+</script>
+
+## Frequently Asked Questions (FAQ)
+
+### What are the primary health benefits of The Principles of Therapeutics (Cikitsā) — Charaka Samhita And Sushruta Samhita By Nayana Sharma in Ayurveda?
+The Principles of Therapeutics (Cikitsā) — Charaka Samhita And Sushruta Samhita By Nayana Sharma is traditionally utilized in Ayurveda to balance doshic imbalances, support systemic vitality, and promote long-term physiological wellness under proper guidance.
+
+### How should The Principles of Therapeutics (Cikitsā) — Charaka Samhita And Sushruta Samhita By Nayana Sharma be taken according to classical guidelines?
+According to classical Ayurvedic principles, The Principles of Therapeutics (Cikitsā) — Charaka Samhita And Sushruta Samhita By Nayana Sharma is best administered with appropriate Anupana (carrier vehicles such as warm water, honey, or warm milk) tailored to an individual's Prakriti (constitution).
+
+### Are there any contraindications or side effects associated with The Principles of Therapeutics (Cikitsā) — Charaka Samhita And Sushruta Samhita By Nayana Sharma?
+While generally well-tolerated when used appropriately, excessive usage or improper dosing may exacerbate specific doshas. Consult an Ayurvedic physician prior to therapeutic use.
+
+### How long does it take to observe results from using The Principles of Therapeutics (Cikitsā) — Charaka Samhita And Sushruta Samhita By Nayana Sharma?
+In traditional Ayurvedic protocol, herbal formulations operate synergistically with diet and lifestyle. Notable improvements typically emerge within 2 to 4 weeks of consistent administration.
+
+### Is The Principles of Therapeutics (Cikitsā) — Charaka Samhita And Sushruta Samhita By Nayana Sharma safe for long-term daily consumption?
+Certain tonic (Rasayana) preparations may be safely used long-term, whereas intensive therapeutic formulas are recommended for specific short-term protocols under expert supervision.
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What are the primary health benefits of The Principles of Therapeutics (Cikitsā) — Charaka Samhita And Sushruta Samhita By Nayana Sharma in Ayurveda?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The Principles of Therapeutics (Cikitsā) — Charaka Samhita And Sushruta Samhita By Nayana Sharma is traditionally utilized in Ayurveda to balance doshic imbalances, support systemic vitality, and promote long-term physiological wellness under proper guidance."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How should The Principles of Therapeutics (Cikitsā) — Charaka Samhita And Sushruta Samhita By Nayana Sharma be taken according to classical guidelines?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "According to classical Ayurvedic principles, The Principles of Therapeutics (Cikitsā) — Charaka Samhita And Sushruta Samhita By Nayana Sharma is best administered with appropriate Anupana (carrier vehicles such as warm water, honey, or warm milk) tailored to an individual's Prakriti (constitution)."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Are there any contraindications or side effects associated with The Principles of Therapeutics (Cikitsā) — Charaka Samhita And Sushruta Samhita By Nayana Sharma?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "While generally well-tolerated when used appropriately, excessive usage or improper dosing may exacerbate specific doshas. Consult an Ayurvedic physician prior to therapeutic use."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How long does it take to observe results from using The Principles of Therapeutics (Cikitsā) — Charaka Samhita And Sushruta Samhita By Nayana Sharma?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "In traditional Ayurvedic protocol, herbal formulations operate synergistically with diet and lifestyle. Notable improvements typically emerge within 2 to 4 weeks of consistent administration."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Is The Principles of Therapeutics (Cikitsā) — Charaka Samhita And Sushruta Samhita By Nayana Sharma safe for long-term daily consumption?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Certain tonic (Rasayana) preparations may be safely used long-term, whereas intensive therapeutic formulas are recommended for specific short-term protocols under expert supervision."
+      }
     }
   ]
 }

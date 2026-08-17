@@ -20,17 +20,11 @@ This chapter from **Sushruta Samhita (Uttaratantra)** represents the classical s
 
 ---
 
-
 Sushruta Samhita, Volume 6: Uttara-tantra
-
-by Kaviraj Kunja Lal Bhishagratna | 1916 | 113,078 words
 
 This current book, the Uttara-tantra (english translation) is the supplementary part of the Sushrutasamhita and deals various subjects such as diseases of the eye, treatment of fever, diarrhea, diseases resulting from superhuman influences, insanity, rules of health etc.
 
 The Sushruta Samhita is the most representative work of the Hindu system of m...
-
-Go directly to: 
-Footnotes.
 
 Chapter LX - Symptoms and Treatment of demonology (Amanusha)
 
@@ -81,10 +75,6 @@ Matured clarified butter, Lashuna, Hingu, Siddharthaka, Vaca, Golomi, Ajalomi, B
 Unholy and improper articles should not be employed  in a case due to the influence of any Deva Graha (divine spirit). No hostile measure should be adopted in a case of possession by a Graha other than that due to the influence of a Pishacha Graha in as much as the mighty Grahas, if offended, might kill both the patient and the physician for the act. A physician, treating such a case with discretion according to the rules laid dawn in the chapter known as the Hitahita (Ch. XX, Sutra-Sthana) may acquire both fame and wealth. 30–31.
 
 Thus ends the sixtieth chapter of the Uttara-Tantra in the Sushruta-Samhita which deals with the (symptoms and) treatment of the disease brought on through super human influences.
-
-Footnotes and references:
-
-[back to top]
 
 [1]:
 

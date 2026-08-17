@@ -20,15 +20,9 @@ This chapter from **Sushruta Samhita (Sutrasthana)** represents the classical su
 
 ---
 
-
 Sushruta Samhita, volume 1: Sutrasthana
 
-by Kaviraj Kunja Lal Bhishagratna | 1907 | 148,756 words
-
 This current book, the Sutra-sthana (english translation), is the first part of this voluminous medical work. It contains a large summary of the knowledge envelopig the medical aspects of Ayurveda. Descriptions of diseases, various diets and drugs, the duties of a surgeon, surgical procedures, medical training; these are only some of the numerous s...
-
-Go directly to: 
-Footnotes.
 
 Chapter XII - Thermal cautery
 
@@ -81,10 +75,6 @@ Now hear me discourse on the course of medical treatment to be adopted in the ca
 Cooling measures or applications should be prescribed or made in the event of any part of the body being scorched by excessive heat, or by being exposed to a draught of hot and parched wind. Similarly, hot and emollient measures or applications should be resorted to where any part of the body has become frozen or shrivelled by snow or cold winds. A person struck by lightning should be regarded as beyond the pale of medicine.[4]
 
 Thus ends the twelfth Chapter of the Sutrasthana in the Sushruta Samhita which treats of Cauteries and the rules to be observed in their use.
-
-Footnotes and references:
-
-[back to top]
 
 [1]:
 

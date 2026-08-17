@@ -20,17 +20,11 @@ This chapter from **Sushruta Samhita (Chikitsasthana)** represents the classical
 
 ---
 
-
 Sushruta Samhita, volume 4: Cikitsasthana
-
-by Kaviraj Kunja Lal Bhishagratna | 1911 | 123,229 words
 
 This current book, the Chikitsa-sthana (english translation), deals with therapeutics, surgical emergencies, geriatrics, aphrodisiacs and various other subjects.
 
 The Sushruta Samhita is the most representative work of the Hindu system of medicine. It embraces all that can possibly appertain to the science of medicine. Susruta-samhita is recognized...
-
-Go directly to: 
-Footnotes.
 
 Chapter XXXVI - The injudicious application of the Netra and Vasti
 
@@ -77,10 +71,6 @@ The foregoing nine kinds of distressing symptoms (Vyapat) resulting from an inju
 A purgative should be given after the lapse of a fortnight from the date of the exhibition of an emetic drug. An Asthapana-vasti should be applied a week after the date of purging. An Anuvasana-vasti should also be applied on the very same day. 19.
 
 Thus ends the Thirty-sixth Chapter of the Chikitsita Sthana in the Sushruta Samhita which treats of the medical treatment of the diseases consequent on the injudicious applications of a Vasti.
-
-Footnotes and references:
-
-[back to top]
 
 [1]:
 

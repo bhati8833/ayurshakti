@@ -20,17 +20,11 @@ This chapter from **Sushruta Samhita (Chikitsasthana)** represents the classical
 
 ---
 
-
 Sushruta Samhita, volume 4: Cikitsasthana
-
-by Kaviraj Kunja Lal Bhishagratna | 1911 | 123,229 words
 
 This current book, the Chikitsa-sthana (english translation), deals with therapeutics, surgical emergencies, geriatrics, aphrodisiacs and various other subjects.
 
 The Sushruta Samhita is the most representative work of the Hindu system of medicine. It embraces all that can possibly appertain to the science of medicine. Susruta-samhita is recognized...
-
-Go directly to: 
-Footnotes.
 
 Chapter XXXIV - The injudicious use of emetics and purgatives
 
@@ -119,10 +113,6 @@ Memorable Verse:—
 The fifteen kinds of distempers (Vyapat) described in the present chapter originate through an excessive, injudicious or insufficient use of purgatives or emetics. 22.
 
 Thus ends the Thirty-fourth Chapter of the Chikitsita Sthana in the Sushruta Samhita which deals with the treatment of the disorders resulting from an injudicious use of purgatives and emetics.
-
-Footnotes and references:
-
-[back to top]
 
 [1]:
 

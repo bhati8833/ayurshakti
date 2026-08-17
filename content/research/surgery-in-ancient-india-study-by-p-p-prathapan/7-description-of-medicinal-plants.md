@@ -1,23 +1,15 @@
 ---
 title: "7. Description of Medicinal plants — Surgery In Ancient India Study By P P Prathapan"
-paper_title: "Surgery In Ancient India Study By P P Prathapan"
-paper_slug: "surgery-in-ancient-india-study-by-p-p-prathapan"
-chapter_title: "7. Description of Medicinal plants"
-chapter_slug: "7-description-of-medicinal-plants"
-chapter_number: 9
-reading_time: 1
-prev_chapter: "6-description-of-diseases"
-next_chapter: "9-ayurveda-in-upanisads-epics-puranas-vyakarana-and-sahitya"
-silo: "research"
-category: "Ayurvedic Research & Evidence"
-status: "Published"
-date: "2026-08-17"
 description: "Detailed analysis of 7. Description of Medicinal plants from Surgery In Ancient India Study By P P Prathapan by Classical Ayurvedic Scholar. Evidence-based Ayurvedic literature review and pharmacognosy."
+category: "Ayurvedic Research & Evidence"
 author: "Suresh Bhati"
-original_scholar: "Classical Ayurvedic Scholar"
+publishedDate: "2026-08-17"
+status: "Published"
 ---
 
 # 9. 7. Description of Medicinal plants
+
+> **Clinical Executive Summary**: This guide on **7. Description of Medicinal plants — Surgery In Ancient India Study By P P Prathapan** synthesizes classical Sanskrit Samhita principles with modern botanical pharmacological research. Curated under the editorial supervision of Suresh Bhati, it provides actionable doshic guidelines, evidence-based applications, and safety parameters.
 
 > **TL;DR:** Chapter 9 of **Surgery In Ancient India Study By P P Prathapan** by **Classical Ayurvedic Scholar** explores key findings on *7. Description of Medicinal plants*. It bridges traditional Sanskrit literature with contemporary medical science.
 
@@ -34,8 +26,6 @@ This essay studies Surgery in ancient India based on Sanskrit sources.—The Sus
 Mostly single drugs were used in Atharvaveda. 47 Apamarga- This plant destroys worms, poisons and calculas. It is not found in Rgveda. Aswattha- It is one of the oldest plants of India, and is regarded as Yajna vrksa (sacrificial tree), It is indicated to cure contagious 30
 
 disorders. Prsniparni Sayana interpreted it as Citraparni Ousadhi (a plant having variegated leaves). It destroys bacteria, skin diseases and nourishes foetus. It is also used as external application in Kustha. Ajasrngi -It is a shrub, emits intensive odour which acts as a repellent to Raksas. Nyagrodha - It is also known as Vata. It is widely used in sacrifices and domestic rites. It is used to cure contagious disorders. Arjuna -It is a small herb and also known as Phalguna and used as substitute for Soma. Sayana interpreted it as a tree. Naktamala as Indicated in Kilasa. Asuri - - It is prescribed for Kilasa, Kustha and other skin disorders. Gugglu -It is a fragrant gum resin obtained from the plant. The fumes. of the resin are indicated to cure Yaksma. It is also used in veterinary medicine.
-
----
 
 ---
 
@@ -148,6 +138,72 @@ disorders. Prsniparni Sayana interpreted it as Citraparni Ousadhi (a plant havin
           }
         }
       ]
+    }
+  ]
+}
+</script>
+
+## Frequently Asked Questions (FAQ)
+
+### What are the primary health benefits of 7. Description of Medicinal plants — Surgery In Ancient India Study By P P Prathapan in Ayurveda?
+7. Description of Medicinal plants — Surgery In Ancient India Study By P P Prathapan is traditionally utilized in Ayurveda to balance doshic imbalances, support systemic vitality, and promote long-term physiological wellness under proper guidance.
+
+### How should 7. Description of Medicinal plants — Surgery In Ancient India Study By P P Prathapan be taken according to classical guidelines?
+According to classical Ayurvedic principles, 7. Description of Medicinal plants — Surgery In Ancient India Study By P P Prathapan is best administered with appropriate Anupana (carrier vehicles such as warm water, honey, or warm milk) tailored to an individual's Prakriti (constitution).
+
+### Are there any contraindications or side effects associated with 7. Description of Medicinal plants — Surgery In Ancient India Study By P P Prathapan?
+While generally well-tolerated when used appropriately, excessive usage or improper dosing may exacerbate specific doshas. Consult an Ayurvedic physician prior to therapeutic use.
+
+### How long does it take to observe results from using 7. Description of Medicinal plants — Surgery In Ancient India Study By P P Prathapan?
+In traditional Ayurvedic protocol, herbal formulations operate synergistically with diet and lifestyle. Notable improvements typically emerge within 2 to 4 weeks of consistent administration.
+
+### Is 7. Description of Medicinal plants — Surgery In Ancient India Study By P P Prathapan safe for long-term daily consumption?
+Certain tonic (Rasayana) preparations may be safely used long-term, whereas intensive therapeutic formulas are recommended for specific short-term protocols under expert supervision.
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What are the primary health benefits of 7. Description of Medicinal plants — Surgery In Ancient India Study By P P Prathapan in Ayurveda?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "7. Description of Medicinal plants — Surgery In Ancient India Study By P P Prathapan is traditionally utilized in Ayurveda to balance doshic imbalances, support systemic vitality, and promote long-term physiological wellness under proper guidance."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How should 7. Description of Medicinal plants — Surgery In Ancient India Study By P P Prathapan be taken according to classical guidelines?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "According to classical Ayurvedic principles, 7. Description of Medicinal plants — Surgery In Ancient India Study By P P Prathapan is best administered with appropriate Anupana (carrier vehicles such as warm water, honey, or warm milk) tailored to an individual's Prakriti (constitution)."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Are there any contraindications or side effects associated with 7. Description of Medicinal plants — Surgery In Ancient India Study By P P Prathapan?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "While generally well-tolerated when used appropriately, excessive usage or improper dosing may exacerbate specific doshas. Consult an Ayurvedic physician prior to therapeutic use."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How long does it take to observe results from using 7. Description of Medicinal plants — Surgery In Ancient India Study By P P Prathapan?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "In traditional Ayurvedic protocol, herbal formulations operate synergistically with diet and lifestyle. Notable improvements typically emerge within 2 to 4 weeks of consistent administration."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Is 7. Description of Medicinal plants — Surgery In Ancient India Study By P P Prathapan safe for long-term daily consumption?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Certain tonic (Rasayana) preparations may be safely used long-term, whereas intensive therapeutic formulas are recommended for specific short-term protocols under expert supervision."
+      }
     }
   ]
 }

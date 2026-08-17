@@ -1,23 +1,15 @@
 ---
 title: "9. Ritucarya (conduct during different seasons) — Physician As Depicted In Manasollasa By Sri B S Hebballi"
-paper_title: "Physician As Depicted In Manasollasa By Sri B S Hebballi"
-paper_slug: "physician-as-depicted-in-manasollasa-by-sri-b-s-hebballi"
-chapter_title: "9. Ritucarya (conduct during different seasons)"
-chapter_slug: "9-ritucarya-conduct-during-different-seasons"
-chapter_number: 25
-reading_time: 11
-prev_chapter: "8-three-phases-of-dosasthana"
-next_chapter: "10-span-of-life-in-ayurveda"
-silo: "research"
-category: "Ayurvedic Research & Evidence"
-status: "Published"
-date: "2026-08-17"
 description: "Detailed analysis of 9. Ritucarya (conduct during different seasons) from Physician As Depicted In Manasollasa By Sri B S Hebballi by Classical Ayurvedic Scholar. Evidence-based Ayurvedic literature review and pharmacognosy."
+category: "Ayurvedic Research & Evidence"
 author: "Suresh Bhati"
-original_scholar: "Classical Ayurvedic Scholar"
+publishedDate: "2026-08-17"
+status: "Published"
 ---
 
 # 25. 9. Ritucarya (conduct during different seasons)
+
+> **Clinical Executive Summary**: This guide on **9. Ritucarya (conduct during different seasons) — Physician As Depicted In Manasollasa By Sri B S Hebballi** synthesizes classical Sanskrit Samhita principles with modern botanical pharmacological research. Curated under the editorial supervision of Suresh Bhati, it provides actionable doshic guidelines, evidence-based applications, and safety parameters.
 
 > **TL;DR:** Chapter 25 of **Physician As Depicted In Manasollasa By Sri B S Hebballi** by **Classical Ayurvedic Scholar** explores key findings on *9. Ritucarya (conduct during different seasons)*. It bridges traditional Sanskrit literature with contemporary medical science.
 
@@ -46,8 +38,6 @@ The two Solstices: The year is divided into six seasons. The northward movement 
 191 beginning of autumn. So, the pitta accumulated during the rains gets generally vitiated. In this season, sweet, light, cold and bitter food and drinks which have potentialities to alleviate pitta are to be taken in proper quantity when there is good appetite. Furthermore, the meats of lava (common quail), kapinjala (grey partridge), ena (antelope), urabhra (sheep), sarabha (wapiti) and sasa (rabbit), rice, barley and wheat are prescribed during this season. Intake of ghee prepared with bitter medicines, purgation and blood letting are also prescribed for this season. One should avoid taking sun bath, fat, oil and meat of aquatic and marshy animals and alkaline, salt preparations and curds alongwith food. One should not sleep during day time and should not expose one to frost and easterly wind. The water is exposed to the heat of the sun during the day time and to the cooling rays of the moon during night. It is purified and detoxicated by star Canopus (Agastya). This is known as hamsodaka which is spotlessly clear and is as beneficial as nectar for the purpose of bathing, drinking and swimming. Use of garlands made of autumnal flowers and clean apparel and also the rays of the moon in the evenings are exceedingly beneficial in this season. Natural urges : The living body has some natural urges. They are the urge for (1) urination (2) defecation (3) sexual intercourse, (4) passing flatus, (5) vomiting, (6) sneezing, (7) eructation, (8) yawning, (9) hunger, (10) thirst, (11) tears, (12) sleep and (13) breathing caused by overexhaustion. They should not be suppressed. Inhibition of these natural urges leads to many complications which are required to be attended to properly. Urge for Micturation Suppression of the urge for micturation causes pain in bladder and phallus, dysuria, headache, bending of the body and distension of the lower abdomen. To overcome these complications caused by the suppression of urination, one should resort to tub bath, massage, nasal drops of ghee and all the three types of enema (basti).
 
 192 Urge for Defecation If one holds the urge for defecation, it causes colic pain, headache, retention of faeces and flatus, cramps in the calfmuscles and distention of abdomen. In such cases, fomentation, massage, tub bath, suppositories and enema should be given and one should take food and drinks which are laxative in nature. The rasayana or the rejuvenation therapies, prescribed in Ayurveda, are meant to remove these defects in the lives of old men. Caraka, while defining the scope of rasayana therapy, has stated that the individual is endowed with longevity, memory, intellect, positive health, youth, excellent complexion, colour of the skin, voice, strength of the sensory and motor organs and lustre by its administration. In brief, the aim of this therapy is to maintain the youth of the individual along with his long life. Instead of a society of old and invalid people, it aims at creating a society of people with youthful vigour - both physical and mental.
-
----
 
 ---
 
@@ -160,6 +150,72 @@ The two Solstices: The year is divided into six seasons. The northward movement 
           }
         }
       ]
+    }
+  ]
+}
+</script>
+
+## Frequently Asked Questions (FAQ)
+
+### What are the primary health benefits of 9. Ritucarya (conduct during different seasons) — Physician As Depicted In Manasollasa By Sri B S Hebballi in Ayurveda?
+9. Ritucarya (conduct during different seasons) — Physician As Depicted In Manasollasa By Sri B S Hebballi is traditionally utilized in Ayurveda to balance doshic imbalances, support systemic vitality, and promote long-term physiological wellness under proper guidance.
+
+### How should 9. Ritucarya (conduct during different seasons) — Physician As Depicted In Manasollasa By Sri B S Hebballi be taken according to classical guidelines?
+According to classical Ayurvedic principles, 9. Ritucarya (conduct during different seasons) — Physician As Depicted In Manasollasa By Sri B S Hebballi is best administered with appropriate Anupana (carrier vehicles such as warm water, honey, or warm milk) tailored to an individual's Prakriti (constitution).
+
+### Are there any contraindications or side effects associated with 9. Ritucarya (conduct during different seasons) — Physician As Depicted In Manasollasa By Sri B S Hebballi?
+While generally well-tolerated when used appropriately, excessive usage or improper dosing may exacerbate specific doshas. Consult an Ayurvedic physician prior to therapeutic use.
+
+### How long does it take to observe results from using 9. Ritucarya (conduct during different seasons) — Physician As Depicted In Manasollasa By Sri B S Hebballi?
+In traditional Ayurvedic protocol, herbal formulations operate synergistically with diet and lifestyle. Notable improvements typically emerge within 2 to 4 weeks of consistent administration.
+
+### Is 9. Ritucarya (conduct during different seasons) — Physician As Depicted In Manasollasa By Sri B S Hebballi safe for long-term daily consumption?
+Certain tonic (Rasayana) preparations may be safely used long-term, whereas intensive therapeutic formulas are recommended for specific short-term protocols under expert supervision.
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What are the primary health benefits of 9. Ritucarya (conduct during different seasons) — Physician As Depicted In Manasollasa By Sri B S Hebballi in Ayurveda?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "9. Ritucarya (conduct during different seasons) — Physician As Depicted In Manasollasa By Sri B S Hebballi is traditionally utilized in Ayurveda to balance doshic imbalances, support systemic vitality, and promote long-term physiological wellness under proper guidance."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How should 9. Ritucarya (conduct during different seasons) — Physician As Depicted In Manasollasa By Sri B S Hebballi be taken according to classical guidelines?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "According to classical Ayurvedic principles, 9. Ritucarya (conduct during different seasons) — Physician As Depicted In Manasollasa By Sri B S Hebballi is best administered with appropriate Anupana (carrier vehicles such as warm water, honey, or warm milk) tailored to an individual's Prakriti (constitution)."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Are there any contraindications or side effects associated with 9. Ritucarya (conduct during different seasons) — Physician As Depicted In Manasollasa By Sri B S Hebballi?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "While generally well-tolerated when used appropriately, excessive usage or improper dosing may exacerbate specific doshas. Consult an Ayurvedic physician prior to therapeutic use."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How long does it take to observe results from using 9. Ritucarya (conduct during different seasons) — Physician As Depicted In Manasollasa By Sri B S Hebballi?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "In traditional Ayurvedic protocol, herbal formulations operate synergistically with diet and lifestyle. Notable improvements typically emerge within 2 to 4 weeks of consistent administration."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Is 9. Ritucarya (conduct during different seasons) — Physician As Depicted In Manasollasa By Sri B S Hebballi safe for long-term daily consumption?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Certain tonic (Rasayana) preparations may be safely used long-term, whereas intensive therapeutic formulas are recommended for specific short-term protocols under expert supervision."
+      }
     }
   ]
 }

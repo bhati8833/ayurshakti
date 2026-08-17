@@ -9,19 +9,11 @@ date: "2026-08-17"
 description: "Samhita."
 ---
 
-**Author / Source:** by Kaviraj Kunja Lal Bhishagratna
-
-
-**Total Chapters/Sections:** 54
-
 ---
 
 ## 1. Preface
 
-
 Sushruta Samhita, volume 1: Sutrasthana
-
-by Kaviraj Kunja Lal Bhishagratna | 1907 | 148,756 words
 
 This current book, the Sutra-sthana (english translation), is the first part of this voluminous medical work. It contains a large summary of the knowledge envelopig the medical aspects of Ayurveda. Descriptions of diseases, various diets and drugs, the duties of a surgeon, surgical procedures, medical training; these are only some of the numerous s...
 
@@ -39,7 +31,7 @@ For the sake of convenience we have divided the entire work into three volumes, 
 
 We have adopted the diagrams of surgical instruments from that most valuable work of the Thakore Saheb of Gondal, called the History of the Aryan Medical Science, for which I am particularly indebted to His Highness.
 
-In conclusion, we beg to convey our sincerest thanks to our preceptor’s son Kaviraj Jogendranath Sen Vidyabhusana M. A., Dr. U. D. Banerji L. R. C. P., M. R. C. S. (Lond), and Lt. Col. K. P. Gupta M. A., M. D., I. M. S., Professor Janakinath Bhattacarya M.A. B.L., P.R.S. for having kindly examined the different portions of the manuscript. I am grateful to Dr. Surendranath Gosvami B. A., L. M. S. too, for the kind interest he has all along taken indhe publication of this work and for various intelligent suggestions, which have been of considerable help to me.
+In summary, we beg to convey our sincerest thanks to our preceptor’s son Kaviraj Jogendranath Sen Vidyabhusana M. A., Dr. U. D. Banerji L. R. C. P., M. R. C. S. (Lond), and Lt. Col. K. P. Gupta M. A., M. D., I. M. S., Professor Janakinath Bhattacarya M.A. B.L., P.R.S. for having kindly examined the different portions of the manuscript. I am grateful to Dr. Surendranath Gosvami B. A., L. M. S. too, for the kind interest he has all along taken indhe publication of this work and for various intelligent suggestions, which have been of considerable help to me.
 
 My thanks are also due to numerous learned authors, ancient and modern from whose writings, I have found it necessary to make frequent quotations.
 
@@ -54,10 +46,7 @@ Kaviraj.
 
 ## 2. Invocation
 
-
 Sushruta Samhita, volume 1: Sutrasthana
-
-by Kaviraj Kunja Lal Bhishagratna | 1907 | 148,756 words
 
 This current book, the Sutra-sthana (english translation), is the first part of this voluminous medical work. It contains a large summary of the knowledge envelopig the medical aspects of Ayurveda. Descriptions of diseases, various diets and drugs, the duties of a surgeon, surgical procedures, medical training; these are only some of the numerous s...
 
@@ -93,10 +82,7 @@ tasmai bhaktya'vanamro vitarati gurave kuñjalalo hijanma || 3 ||
 
 ## 3. Plate I
 
-
 Sushruta Samhita, volume 1: Sutrasthana
-
-by Kaviraj Kunja Lal Bhishagratna | 1907 | 148,756 words
 
 This current book, the Sutra-sthana (english translation), is the first part of this voluminous medical work. It contains a large summary of the knowledge envelopig the medical aspects of Ayurveda. Descriptions of diseases, various diets and drugs, the duties of a surgeon, surgical procedures, medical training; these are only some of the numerous s...
 
@@ -121,15 +107,9 @@ Plate I
 
 ## 4. Introduction
 
-
 Sushruta Samhita, volume 1: Sutrasthana
 
-by Kaviraj Kunja Lal Bhishagratna | 1907 | 148,756 words
-
 This current book, the Sutra-sthana (english translation), is the first part of this voluminous medical work. It contains a large summary of the knowledge envelopig the medical aspects of Ayurveda. Descriptions of diseases, various diets and drugs, the duties of a surgeon, surgical procedures, medical training; these are only some of the numerous s...
-
-Go directly to: 
-Footnotes.
 
 Introduction
 
@@ -217,8 +197,6 @@ Doctor Hirschberg of Berlin says—
 
 “the whole plastic surgery in Europe took a new flight when these cunning devices of Indian workmen became known to us.”
 
-“the whole plastic surgery in Europe took a new flight when these cunning devices of Indian workmen became known to us.”
-
 The transplanting of sensible skin-flaps is also an entirely. Indian method (Sushruta, Sutrasthana, Ch. XVI). It is Sushruta who first successfully demonstrated the feasibility of mending a dipt earlobe with a patch of sensible skin-flap scraped from the neck or the adjoining part.
 
 To Sushruta is attributed the glory of discovering the art of cataract-crouching which was unknown to the surgeons of ancient Greece and Egypt. Limbs were amputated, abdominal sections were performed, fractures were set, dislocations, hernia and ruptures were reduced, hemorrhoids and fistula were removed, and we take pride in saying that the methods recommended in the Sushruta Samhita sometimes prove more successful than those adopted by the surgeons of modern Europe, as we shall have occasion to observe later on. In the case where the intestines are injured, Sushruta advises that “the protruded part should be gently replaced by following with the finger.” A surgeon should enlarge the wound in it, if necessary, by means of a knife.
@@ -228,8 +206,6 @@ In the case where the intestine is severed, the severed parts should be held tog
 Lithotomic Operations:—
 
 In these cases, elaborate instructions have been given for making the perineal incision, as well as about the care and general management of the patient after the operation. In a case of Shukrashmari (seminal or spermatic concretion) the formation and existence of which have been very recently discovered by English pathologists, Sushruta enjoins that the stone, if in the urethra, should be removed with the help of Anuvasana and urethral enematas, failing which the penis should be cut open and the concretion extracted with the help of a hook. Kaviraj Umesh Candra Gupta in the introduction to his Vaidyaka Shavda-Sindhu remarks, that he and Dr. Durgadasa Gupta M. B. translated the Chapters on lithotomic operations and instrumental parturition of the Sushruta Samhita for the perusal of Dr Charles, the then Principal of the Medical College, Calcutta.
-
-“Dr. Charles highly praised the process of delivery in difficult cases and even confessed that with all his great experience in midwifery and surgery he never had any idea of the like being found in all the medical works that came under his observation.”
 
 “Dr. Charles highly praised the process of delivery in difficult cases and even confessed that with all his great experience in midwifery and surgery he never had any idea of the like being found in all the medical works that came under his observation.”
 
@@ -293,11 +269,7 @@ Rightly translated, the verse would read as follows:—
 
 “May Vishnu (the presiding deity of ether and nerve force) expand thy uterus, may Tvashta (the presiding deity of heat and metabolism) bring about the full differentiation of the limbs and the sex of the fetus, may Prajapati (the presiding deity of the ovum) sprinkle thy uterus, and mayst thou conceive through the blessing of the lord of human destiny. May Sarasvati (goddess of intellect) and the Ashvins, the surgeons of the gods (the presiding deity of fission, etc.) help thee in taking the seed.”
 
-“May Vishnu (the presiding deity of ether and nerve force) expand thy uterus, may Tvashta (the presiding deity of heat and metabolism) bring about the full differentiation of the limbs and the sex of the fetus, may Prajapati (the presiding deity of the ovum) sprinkle thy uterus, and mayst thou conceive through the blessing of the lord of human destiny. May Sarasvati (goddess of intellect) and the Ashvins, the surgeons of the gods (the presiding deity of fission, etc.) help thee in taking the seed.”
-
 Now, the development of the fetal body takes place after the pattern of its father’s species, and this conformity to the pattern of its species represents an act of intellection. Hence, the aid of the goddess of intellect has been invoked with that of the celestial surgeons, who preside over the process of cell-division, so essential to the formation of the fetal limbs. Divested of its allegory, the verse would mean that the sperm led into a healthy and well-developed uterus through the agency of the Vayu (increased activity of the local nerves) meets the maternal element (ovum) in that viscus. Then the impregnated matter undergoes a process of fission, and takes shape after the pattern of its father’s species. When we think of so many idle speculations as regards the process of fertilisation, which obtained credence so late as the begiuning of the 18th century in Europe, and the controversies that arose between the Ovists, Performists and Animalculists[46], we cannot help regretting that the Ayurvedic Embryology, which started under such happy auspices, could not fully solve the problem of fertilisation even before the advent of the Tantrik age. The fundamental principles with which the Embryology of the Acaryayas (Sushruta, Dhanvantari, etc.) was started are substantially the same as have now been discovered by the researches of the Western workers. Sushruta in his dissertation on the subject showed the illegitimacy which lay at the root of his predecessor’s theory (Sharirasthana Chap. II.) and took up research exactly where the Vedic Rishis had left off. He clearly demonstrated the fact that
-
-“by a physiological process known as Rasapaka (metabolism) the lymph chyle is metamorphosed into sperm in men, or into ovum in women, in the course of a month. The catamenial fluid is carried down into the uterus through its proper ducts. The sperm or ovum is thus the quintessence of a man’s or a woman’s body. The sperm meets the ovum (Artava) in the uterus, which resembles a lotus-bud in shape, and whose aperture is shut up with a mucous deposit as soon as fecundation takes place. The most favourable time for fecundation is between the fourth and twelfth day after the appearance of the flow (Garbhakala)”
 
 “by a physiological process known as Rasapaka (metabolism) the lymph chyle is metamorphosed into sperm in men, or into ovum in women, in the course of a month. The catamenial fluid is carried down into the uterus through its proper ducts. The sperm or ovum is thus the quintessence of a man’s or a woman’s body. The sperm meets the ovum (Artava) in the uterus, which resembles a lotus-bud in shape, and whose aperture is shut up with a mucous deposit as soon as fecundation takes place. The most favourable time for fecundation is between the fourth and twelfth day after the appearance of the flow (Garbhakala)”
 
@@ -306,8 +278,6 @@ as has been lately demonstrated by Uhe researches of Prof. Von Ott.[47]
 Sexual Diamorphism:—
 
 Some light is thrown on the relative preponderance of the sperm and ovum in the Birth of a female child.
-
-“When the maternal element prepon-derates the child is female; when the paternal element is stronger the child is male. When both the elements are equal, the child is of no sex.”
 
 “When the maternal element prepon-derates the child is female; when the paternal element is stronger the child is male. When both the elements are equal, the child is of no sex.”
 
@@ -447,8 +417,6 @@ Diet:—
 
 “A good and proper diet in disease is worth a hundred medicines and no amount of medication can do good to a patient who does not observe a strict regimen of diet.”
 
-“A good and proper diet in disease is worth a hundred medicines and no amount of medication can do good to a patient who does not observe a strict regimen of diet.”
-
 Our Ayurveda, instead of being content with specifying the nature of diet in diseases in general, mentions the names of articles, which should, or should not be taken in any specific malady, judged by the light of their properties of aggravating Vayu, Pitta or Kapha. The dietic or therapeutic properties of a large number of articles of human consumption, as well as the chemical changes they undergo in the digestive apparatus of different mammals, have been studied and analysed, and so we find in our physique, medical Samhitas, such injunctions that barleycorns passed undigested with the feces of a cow or horse, should form the diet of a Prameha patient[102] that the milk of a she-camel should be given to a patient suffering from a cutaneous affection, and that the flesh of any carnivorous beast or bird should be given to one suffering from pulmonary consumption and so on. It was a cardinal doctrine with Ayurvedic dietists that the longing of a patient for any particular kind of food in a certain disease, emphatically shows that his organism is in want of those elements which enter into the composition of the article offered. Hence elaborate dietetics were formulated, which cannot but be acceptable to the most fastidious patient.
 
 Therapeutics:—
@@ -485,10 +453,6 @@ Sushruta as an Observer It has been lately discovered by a German physiologist t
 
 in its origin and in no way inferior to the modern introduction of Cogghill’s respirators. The microscopic germs that are said to propagate septic fever otherwise called bhūtabhi ṣaṅgottha (saṅgottha?) viṣasajvara are found very often to disappear under this Indian device where no medicines produce any impression. Thus many a wonderful discovery like the above hails from the dimness of a bygone age. Many truths lie embedded in the vast medical literature of the Brahmanas which claimed close attention and devout study, even by the western savants. We have not laboured in vain if these pages can help a little to revive the old genius of the Ayurveda, or help the progress of human Science one step onward towards the attainment of its goal.
 
-Footnotes and references:
-
-[back to top]
-
 [1]:
 
 śyāmāyano'tha gārgyaśca jābāliḥ suśrutastathā | 
@@ -514,9 +478,6 @@ bhīmarathaḥ ketumato divodāsastadātmajaḥ ||
 Dallana mentions the names of Jejjada, Gayadasa etc., as the redactors of the original Samhita, and rejects as spurious or of questionable authority the texts which cannot be found in their editions of the work. Most probably the authoritative verses are quotations from the Vriddha Sushruta.
 
 Recension or Pratisamskara consists in curtailing statements that have been made inordinately elaborate, and in dilating upon truths that have been very succinctly dealt with in the original book. A Redactor or Pratisamaskarta makes an old book new again.
-
-saṃkṣipatyativistīrṇaṃ leśoktaṃ vistṛṇāti ca | 
-saṃskarttā kurute tantraṃ purāṇañca punarnavaṃ ||
 
 saṃkṣipatyativistīrṇaṃ leśoktaṃ vistṛṇāti ca | 
 saṃskarttā kurute tantraṃ purāṇañca punarnavaṃ ||
@@ -716,13 +677,7 @@ mūryya cakṣurgaccatu vātamātmādyāṃ cagaccha pṛthivīṃ ca dharmmaṇ
 āponāgaccha yadi tatra te hitamoṣadhīṣu pratitiṣṭhāśarīraiḥ |
       Rik Samhita X M. 16 S. 3.
 
-mūryya cakṣurgaccatu vātamātmādyāṃ cagaccha pṛthivīṃ ca dharmmaṇā 
-āponāgaccha yadi tatra te hitamoṣadhīṣu pratitiṣṭhāśarīraiḥ |
-      Rik Samhita X M. 16 S. 3.
-
 Which being translated reads:—
-
-“Let his eye go to the sun, let his breath-wind mix with the wind of the atmosphere, and to the sky, earth and the cereals the parts which have sprung out of them, &c.”
 
 “Let his eye go to the sun, let his breath-wind mix with the wind of the atmosphere, and to the sky, earth and the cereals the parts which have sprung out of them, &c.”
 
@@ -826,11 +781,7 @@ The Evolution of Sex. Ch. XVIII. (Prof. P. Geddes and J. A. Thomson.)
 
 “thus appears to a certain extent as a subsidiary appendage of the true bearers of the life,—the reproductive cells”.
 
-“thus appears to a certain extent as a subsidiary appendage of the true bearers of the life,—the reproductive cells”.
-
 Ray Lankester has again well expressed this:—
-
-“Among the multicellular animals, certain cells are separated from the rest of the constituent units of the body, as egg-cells and sperm-cells; these conjugate and continue to live, whilst the remaining cells, the mere carriers as it were of the immortal reproductive cells, die and disintegrate. The bodies of the higher animals which die, may from this point of view be regarded as something temporary and non-essential, destined merely to carry for a time, to nurse, and to nourish the more important and deathless fission-products of the unicellular egg.”
 
 “Among the multicellular animals, certain cells are separated from the rest of the constituent units of the body, as egg-cells and sperm-cells; these conjugate and continue to live, whilst the remaining cells, the mere carriers as it were of the immortal reproductive cells, die and disintegrate. The bodies of the higher animals which die, may from this point of view be regarded as something temporary and non-essential, destined merely to carry for a time, to nurse, and to nourish the more important and deathless fission-products of the unicellular egg.”
 
@@ -1131,30 +1082,13 @@ tairāvṛtagatirvāyuroja ādāya gaccati |
 yadāvastiṃ tadākṛccho madhumehaḥ pravarttate ||
       carakaḥ
 
-(76) gurusnigdhāmlalavaṇānyatimātraṃ samaśnatām | 
-navamannañca pānañca nidrāmāsyāsukhāni ca || 
-tyaktavyāyāmacintānāṃ saṃśodhanamakurvvatām | 
-śleṣmā pittañca medaśca māṃsañcāti pravarttate || 
-tairāvṛtagatirvāyuroja ādāya gaccati | 
-yadāvastiṃ tadākṛccho madhumehaḥ pravarttate ||
-      carakaḥ
-
 76. “Those who partake of heavy and cooling food abounding in acids and salts, of new rice, and beverages, or constantly enjoy sleep and luxuries, or neglect the exercise of body and mind, or who habitually abstain from the use of corrective medicines, help to accumulate in their bodies phlegm, bile, fat and flesh; and these interfere with the functions of the Vayu, which causes the Ojah to be displaced from its proper place down in the bladder and produces glycosuria,”
 
 (77) ghṛtaṃ yathā kṛtsnakṣīrasnehaḥ 
 tathaiva tejo'pi kṛtsnadhātusnehaḥ | 
       dallanamishraḥ
 
-(77) ghṛtaṃ yathā kṛtsnakṣīrasnehaḥ 
-tathaiva tejo'pi kṛtsnadhātusnehaḥ | 
-      dallanamishraḥ
-
 77. “As Ghee pervades the whole of milk, so Teja (ojah) permeates all the tissues of the body.”
-
-(78) tejo'pyāgneyaṃ kramaśaḥ pacyamānānānaṃ 
-dhātunāmabhinivṛttamantarasthaṃ snehajātaṃ vasākhyam 
-strīṇāṃ viśeṣato bhavati tena mārdavaṃ saukumāryyaṃ bhavati | 
-      Ibid.
 
 (78) tejo'pyāgneyaṃ kramaśaḥ pacyamānānānaṃ 
 dhātunāmabhinivṛttamantarasthaṃ snehajātaṃ vasākhyam 
@@ -1237,10 +1171,7 @@ apasvaṃtarasṛtamapsu bheṣajamapāmata praśāntaye ||
 
 ## 5. Title Page
 
-
 Sushruta Samhita, volume 1: Sutrasthana
-
-by Kaviraj Kunja Lal Bhishagratna | 1907 | 148,756 words
 
 This current book, the Sutra-sthana (english translation), is the first part of this voluminous medical work. It contains a large summary of the knowledge envelopig the medical aspects of Ayurveda. Descriptions of diseases, various diets and drugs, the duties of a surgeon, surgical procedures, medical training; these are only some of the numerous s...
 
@@ -1280,10 +1211,7 @@ I907.
 
 ## 6. Plate II
 
-
 Sushruta Samhita, volume 1: Sutrasthana
-
-by Kaviraj Kunja Lal Bhishagratna | 1907 | 148,756 words
 
 This current book, the Sutra-sthana (english translation), is the first part of this voluminous medical work. It contains a large summary of the knowledge envelopig the medical aspects of Ayurveda. Descriptions of diseases, various diets and drugs, the duties of a surgeon, surgical procedures, medical training; these are only some of the numerous s...
 
@@ -1308,10 +1236,7 @@ Plate II
 
 ## 7. Plate III
 
-
 Sushruta Samhita, volume 1: Sutrasthana
-
-by Kaviraj Kunja Lal Bhishagratna | 1907 | 148,756 words
 
 This current book, the Sutra-sthana (english translation), is the first part of this voluminous medical work. It contains a large summary of the knowledge envelopig the medical aspects of Ayurveda. Descriptions of diseases, various diets and drugs, the duties of a surgeon, surgical procedures, medical training; these are only some of the numerous s...
 
@@ -1330,10 +1255,7 @@ Plate III
 
 ## 8. Plate IV
 
-
 Sushruta Samhita, volume 1: Sutrasthana
-
-by Kaviraj Kunja Lal Bhishagratna | 1907 | 148,756 words
 
 This current book, the Sutra-sthana (english translation), is the first part of this voluminous medical work. It contains a large summary of the knowledge envelopig the medical aspects of Ayurveda. Descriptions of diseases, various diets and drugs, the duties of a surgeon, surgical procedures, medical training; these are only some of the numerous s...
 
@@ -1355,15 +1277,9 @@ Plate IV
 
 ## 9. Chapter I - Origin of Ayurveda
 
-
 Sushruta Samhita, volume 1: Sutrasthana
 
-by Kaviraj Kunja Lal Bhishagratna | 1907 | 148,756 words
-
 This current book, the Sutra-sthana (english translation), is the first part of this voluminous medical work. It contains a large summary of the knowledge envelopig the medical aspects of Ayurveda. Descriptions of diseases, various diets and drugs, the duties of a surgeon, surgical procedures, medical training; these are only some of the numerous s...
-
-Go directly to: 
-Footnotes.
 
 Chapter I - Origin of Ayurveda
 
@@ -1373,11 +1289,7 @@ Once upon a time, when the holy Dhanvantari, the greatest of the mighty celestia
 
 “O Sire, it grieves us much to find men, though otherwise well befriended by their kin and relations, falling a prey to diseases, mental, physical, traumatic, or natural, and piteously wailing in agony like utterly friendless creatures on earth; and we supplicate thee, O Lord, to illumine our minds with the truths of the Eternal Ayurveda (Medical Science) so that we may faithfully discharge the duties allotted to us in life, and alleviate the sufferings of humanity at large. Bliss in this life and hereafter, is in the gift of this eternal Ayurveda, and for this, O Lord, we have made bold to approach thee as thy humble disciples.”
 
-“O Sire, it grieves us much to find men, though otherwise well befriended by their kin and relations, falling a prey to diseases, mental, physical, traumatic, or natural, and piteously wailing in agony like utterly friendless creatures on earth; and we supplicate thee, O Lord, to illumine our minds with the truths of the Eternal Ayurveda (Medical Science) so that we may faithfully discharge the duties allotted to us in life, and alleviate the sufferings of humanity at large. Bliss in this life and hereafter, is in the gift of this eternal Ayurveda, and for this, O Lord, we have made bold to approach thee as thy humble disciples.”
-
 To them, thus replied the holy Dhanvantari:—
-
-“Welcome to all of you to this blissful hermitage. All of you are worthy of the honour of true pupilship or tutelage.”
 
 “Welcome to all of you to this blissful hermitage. All of you are worthy of the honour of true pupilship or tutelage.”
 
@@ -1429,11 +1341,7 @@ Whereupon the gods approached the celestial Ashvins, and addressed them as follo
 
 “You twins, O lords, who are to be the greatest of us all, connect the head of Yajna with his decapitated trunk.”
 
-“You twins, O lords, who are to be the greatest of us all, connect the head of Yajna with his decapitated trunk.”
-
 To them, replied the divine Ashvins:—
-
-“We shall do, O lords, as you command us to do.”
 
 “We shall do, O lords, as you command us to do.”
 
@@ -1493,10 +1401,6 @@ The man who reads this Eternal Science of Medicine (Ayurveda-Shastram) discourse
 
 Thus ends the first chapter of the Sutra-Sthana in the Sushruta Samhita which deals with the origin of the Ayurveda.
 
-Footnotes and references:
-
-[back to top]
-
 [1]:
 
 The present work which originally formed the subject of a discourse by the holy sage Dhanvantari to his disciple Sushruta, has been compiled in its present form by the venerable Nagarjuna, and is accordingly designated as the Sushruta Samhita.
@@ -1553,10 +1457,7 @@ Oxide of Iron, sand, yellow sulphurate of arsenic (Orpiment), salt, Gairika (fer
 
 ## 10. Chapter III - Classification of Ayurveda
 
-
 Sushruta Samhita, volume 1: Sutrasthana
-
-by Kaviraj Kunja Lal Bhishagratna | 1907 | 148,756 words
 
 This current book, the Sutra-sthana (english translation), is the first part of this voluminous medical work. It contains a large summary of the knowledge envelopig the medical aspects of Ayurveda. Descriptions of diseases, various diets and drugs, the duties of a surgeon, surgical procedures, medical training; these are only some of the numerous s...
 
@@ -2006,10 +1907,7 @@ Thus ends the third Chapter of the Sutrasthana in the Sushruta Samhita which dea
 
 ## 11. Chapter IV - General explanations
 
-
 Sushruta Samhita, volume 1: Sutrasthana
-
-by Kaviraj Kunja Lal Bhishagratna | 1907 | 148,756 words
 
 This current book, the Sutra-sthana (english translation), is the first part of this voluminous medical work. It contains a large summary of the knowledge envelopig the medical aspects of Ayurveda. Descriptions of diseases, various diets and drugs, the duties of a surgeon, surgical procedures, medical training; these are only some of the numerous s...
 
@@ -2039,15 +1937,9 @@ Thus ends the fourth chapter of the Sutrasthana in the Sushruta Samhita which de
 
 ## 12. Chapter V - Preliminary measures
 
-
 Sushruta Samhita, volume 1: Sutrasthana
 
-by Kaviraj Kunja Lal Bhishagratna | 1907 | 148,756 words
-
 This current book, the Sutra-sthana (english translation), is the first part of this voluminous medical work. It contains a large summary of the knowledge envelopig the medical aspects of Ayurveda. Descriptions of diseases, various diets and drugs, the duties of a surgeon, surgical procedures, medical training; these are only some of the numerous s...
-
-Go directly to: 
-Footnotes.
 
 Chapter V - Preliminary measures
 
@@ -2149,10 +2041,6 @@ Clarified butter boiled with Yashtimadhu, and applied tepid to a wound, incident
 
 Thus ends the fifth chapter, of the Sutrasthana in the Sushruta Samhita which treats of Preliminary measures.
 
-Footnotes and references:
-
-[back to top]
-
 [1]:
 
 Several authorities hold that acts such as fasting, administration of purgatives, etc. should be included within the preliminary measures; application of absorbent (Pacana) or healing medicinal agents, within the second or the principal measures; and the administration of tonics or restoratives within the third or the after-measure group. Others, on the contrary, lay down that measures adopted for the absorption, lubrication (pacification by the application of oily substances) or elimination of the deranged bodily humours by sweating should be grouped under the first subhead (Purva-karma), the administration of active purgatives, emetics etc., under the second (Pradhana-karma) and the giving of rice meal, etc. to the patient under the (Paschat-karma) last; while according to others the active medicinal agents employed to cope with the deranged humours in the incubative stage of a bodily disease till the appearance of its first characteristic symptoms, should be denominated as the Preliminary measure; measures employed for the subjugation of a disease in its patent or fully developed stage as the Pradhana-karma, and measures employed to guard against the recrudescence of a disease and for the restoration of health in a patient is the sequel treatment or the Paschat-karma.
@@ -2169,15 +2057,9 @@ Even the bedsheets, etc. of the patient should be fumigated as above. This fores
 
 ## 13. Chapter II - Initiation of the pupil
 
-
 Sushruta Samhita, volume 1: Sutrasthana
 
-by Kaviraj Kunja Lal Bhishagratna | 1907 | 148,756 words
-
 This current book, the Sutra-sthana (english translation), is the first part of this voluminous medical work. It contains a large summary of the knowledge envelopig the medical aspects of Ayurveda. Descriptions of diseases, various diets and drugs, the duties of a surgeon, surgical procedures, medical training; these are only some of the numerous s...
-
-Go directly to: 
-Footnotes.
 
 Chapter II - Initiation of the pupil
 
@@ -2215,10 +2097,6 @@ The day of the new moon, the eighth day of the moon’s wane, the fourteenth day
 
 Thus ends the second chapter of the Sutrasthana in the Sushruta Samhita which treats of the formal initiation of a student into the avurveda.
 
-Footnotes and references:
-
-[back to top]
-
 [1]:
 
 The libations should be offered as follows—Svaha (obeisance) to Brahma, Svaha to Prajapati (the lord of the created beings), Svaha to Ashvins, Svaha to Indra, Svaha to Dhanvantari, Svaha to Bharadvaja, and Svaha to Atreya.
@@ -2227,15 +2105,9 @@ The libations should be offered as follows—Svaha (obeisance) to Brahma, Svaha 
 
 ## 14. Chapter VI - Different seasons of the year
 
-
 Sushruta Samhita, volume 1: Sutrasthana
 
-by Kaviraj Kunja Lal Bhishagratna | 1907 | 148,756 words
-
 This current book, the Sutra-sthana (english translation), is the first part of this voluminous medical work. It contains a large summary of the knowledge envelopig the medical aspects of Ayurveda. Descriptions of diseases, various diets and drugs, the duties of a surgeon, surgical procedures, medical training; these are only some of the numerous s...
-
-Go directly to: 
-Footnotes.
 
 Chapter VI - Different seasons of the year
 
@@ -2303,10 +2175,6 @@ The bodily humours such as wind, etc. are disturbed and aggravated by the contra
 
 Thus ends the sixth chapter of the Sutrasthana in the Sushruta Samhita which treats of the characteristic features of the seasons and their influence on health and drugs.
 
-Footnotes and references:
-
-[back to top]
-
 [1]:
 
 This should be regarded as the excited, aggravated or agitated state of bile (Pitta) in the parlance of Ayurveda.
@@ -2327,15 +2195,9 @@ Marriages with girls of prohibited description have been known as well to have u
 
 ## 15. Chapter VII - Surgical appliances
 
-
 Sushruta Samhita, volume 1: Sutrasthana
 
-by Kaviraj Kunja Lal Bhishagratna | 1907 | 148,756 words
-
 This current book, the Sutra-sthana (english translation), is the first part of this voluminous medical work. It contains a large summary of the knowledge envelopig the medical aspects of Ayurveda. Descriptions of diseases, various diets and drugs, the duties of a surgeon, surgical procedures, medical training; these are only some of the numerous s...
-
-Go directly to: 
-Footnotes.
 
 Chapter VII - Surgical appliances
 
@@ -2387,10 +2249,6 @@ The use of an instrument devoid of the abovesaid defects and measuring eighteen 
 
 Thus ends the seventh chapter of the Sutrasthana of the Sushruta Samhita which treats of the shape, construction and dimensions of surgical appliances.
 
-Footnotes and references:
-
-[back to top]
-
 [1]:
 
 According to certain authorities hundred is here indefinitely used for a large number.
@@ -2399,15 +2257,9 @@ According to certain authorities hundred is here indefinitely used for a large n
 
 ## 16. Chapter VIII - Surgical instruments
 
-
 Sushruta Samhita, volume 1: Sutrasthana
 
-by Kaviraj Kunja Lal Bhishagratna | 1907 | 148,756 words
-
 This current book, the Sutra-sthana (english translation), is the first part of this voluminous medical work. It contains a large summary of the knowledge envelopig the medical aspects of Ayurveda. Descriptions of diseases, various diets and drugs, the duties of a surgeon, surgical procedures, medical training; these are only some of the numerous s...
-
-Go directly to: 
-Footnotes.
 
 Chapter VIII - Surgical instruments
 
@@ -2447,10 +2299,6 @@ The four articles such as strips of bamboo skin, crystals, bits of glass, and th
 
 Thus ends the eighth chapter of the Sutrasthana in the Sushruta Samhita which treats of Surgical Instruments.
 
-Footnotes and references:
-
-[back to top]
-
 [1]:
 
 The Mandalagra measures six fingers in length and is provided with a round or circular face. The Karapatra is the same as the modern saw. The term Vriddhipatra signifies a razor. A Vriddhipatra measures seven fingers in length, the handle alone measuring five fingers. The Nakhasastra is the same as the modern nail-clipper, the blade of the instrument measuring a finger in breadth. The Utpalapatra resembles a lotus leaf in shape. The Arddhadhara (lancet) measures eight fingers’ breadth in length, being one finger broad at the middle, and two fingers at the blade. The Suchi. is the same as the modern needle. The Kushapatra is so called from its resemblance to the blade of a Kusha-grass. An atemukha resembles the bill of a bird of the ate species. The blade of an atemukha measures two fingers in length, the handle measuring five fingers and thus giving an entire length of seven fingers. The Shararimukha (scissors) is so-called from the resemblance of its blades to the bills of a Sharari bird and looks somewhat like a modern black-smith’s clipper, the measure of its entire length being twelve fingers. The Antarmukha is semicircular in shape and is provided with a toothed edge like that of a hand-saw. The Trikurchaka (trocar) is provided with three separate blades. The intervening space between the couple of blades attached to a handle measuring five fingers in length, is equal to the width of a Vrihiseed, its entire length being eight fingers.
@@ -2459,10 +2307,7 @@ The Mandalagra measures six fingers in length and is provided with a round or ci
 
 ## 17. Chapter IX - Practical surgical instructions
 
-
 Sushruta Samhita, volume 1: Sutrasthana
-
-by Kaviraj Kunja Lal Bhishagratna | 1907 | 148,756 words
 
 This current book, the Sutra-sthana (english translation), is the first part of this voluminous medical work. It contains a large summary of the knowledge envelopig the medical aspects of Ayurveda. Descriptions of diseases, various diets and drugs, the duties of a surgeon, surgical procedures, medical training; these are only some of the numerous s...
 
@@ -2482,15 +2327,9 @@ Thus ends the ninth chapter of the Sutrasthana in the Sushruta Samhita which tre
 
 ## 18. Chapter X - Qualifications of a physician
 
-
 Sushruta Samhita, volume 1: Sutrasthana
 
-by Kaviraj Kunja Lal Bhishagratna | 1907 | 148,756 words
-
 This current book, the Sutra-sthana (english translation), is the first part of this voluminous medical work. It contains a large summary of the knowledge envelopig the medical aspects of Ayurveda. Descriptions of diseases, various diets and drugs, the duties of a surgeon, surgical procedures, medical training; these are only some of the numerous s...
-
-Go directly to: 
-Footnotes.
 
 Chapter X - Qualifications of a physician
 
@@ -2516,10 +2355,6 @@ A physician should abjure the company of women, nor should he speak in private t
 
 Thus ends the tenth Chapter of the Sutrasthana in the Sushruta Samhita which treats of the essential qualifications of a physician.
 
-Footnotes and references:
-
-[back to top]
-
 [1]:
 
 The sweet, or any other taste of the discharges should be inferred from the fact of their being or not being swarmed with hosts of ants or flies, etc.
@@ -2528,15 +2363,9 @@ The sweet, or any other taste of the discharges should be inferred from the fact
 
 ## 19. Chapter XII - Thermal cautery
 
-
 Sushruta Samhita, volume 1: Sutrasthana
 
-by Kaviraj Kunja Lal Bhishagratna | 1907 | 148,756 words
-
 This current book, the Sutra-sthana (english translation), is the first part of this voluminous medical work. It contains a large summary of the knowledge envelopig the medical aspects of Ayurveda. Descriptions of diseases, various diets and drugs, the duties of a surgeon, surgical procedures, medical training; these are only some of the numerous s...
-
-Go directly to: 
-Footnotes.
 
 Chapter XII - Thermal cautery
 
@@ -2590,10 +2419,6 @@ Cooling measures or applications should be prescribed or made in the event of an
 
 Thus ends the twelfth Chapter of the Sutrasthana in the Sushruta Samhita which treats of Cauteries and the rules to be observed in their use.
 
-Footnotes and references:
-
-[back to top]
-
 [1]:
 
 By arresting the radiation of the incarcerated heat and thereby favouring the elevation of the local temperature and the increase of the burning sensation.
@@ -2614,15 +2439,9 @@ Additional texts:—Where the scorching would be found to be considerably extens
 
 ## 20. Chapter XIII - Usage of leeches
 
-
 Sushruta Samhita, volume 1: Sutrasthana
 
-by Kaviraj Kunja Lal Bhishagratna | 1907 | 148,756 words
-
 This current book, the Sutra-sthana (english translation), is the first part of this voluminous medical work. It contains a large summary of the knowledge envelopig the medical aspects of Ayurveda. Descriptions of diseases, various diets and drugs, the duties of a surgeon, surgical procedures, medical training; these are only some of the numerous s...
-
-Go directly to: 
-Footnotes.
 
 Chapter XIII - Usage of leeches
 
@@ -2674,10 +2493,6 @@ The physician who is fully conversant with the habitat, mode of catching, preser
 
 Thus ends the thirteenth Chapter of the Sutrasthana in the Sushruta Samhita which treats of Leeches and of how and which to use.
 
-Footnotes and references:
-
-[back to top]
-
 [1]:
 
 The leeches, though a blissful dispensation of Nature in themselves, instinctively draw off the vitiated blood from a diseased part, attacking the healthy vital fluid (red blood) when the former has been completely tapped or sucked.
@@ -2690,15 +2505,9 @@ In case of full and proper bleeding (Yoga) the ulcer should be rubbed with clari
 
 ## 21. Chapter XIV - Description of blood
 
-
 Sushruta Samhita, volume 1: Sutrasthana
 
-by Kaviraj Kunja Lal Bhishagratna | 1907 | 148,756 words
-
 This current book, the Sutra-sthana (english translation), is the first part of this voluminous medical work. It contains a large summary of the knowledge envelopig the medical aspects of Ayurveda. Descriptions of diseases, various diets and drugs, the duties of a surgeon, surgical procedures, medical training; these are only some of the numerous s...
-
-Go directly to: 
-Footnotes.
 
 Chapter XIV - Description of blood
 
@@ -2790,10 +2599,6 @@ The Vayu of a person who has been bled, and which has been aggravated by constan
 
 Thus ends the fourteenth Chapter of the Sutrasthana in the Sushruta Samhita which treats of Blood.
 
-Footnotes and references:
-
-[back to top]
-
 [1]:
 
 It is free from all sorts of impurities such as fecal matter, etc., and permeates the minutest vessels and capillaries.
@@ -2810,15 +2615,9 @@ Additional texts:—Later on we shall have occasion to speak of the principles k
 
 ## 22. Chapter XI - Alkaline cautery
 
-
 Sushruta Samhita, volume 1: Sutrasthana
 
-by Kaviraj Kunja Lal Bhishagratna | 1907 | 148,756 words
-
 This current book, the Sutra-sthana (english translation), is the first part of this voluminous medical work. It contains a large summary of the knowledge envelopig the medical aspects of Ayurveda. Descriptions of diseases, various diets and drugs, the duties of a surgeon, surgical procedures, medical training; these are only some of the numerous s...
-
-Go directly to: 
-Footnotes.
 
 Chapter XI - Alkaline cautery
 
@@ -2837,8 +2636,6 @@ Alkalis or alkaline potions will prove positively injurious to a patient laid up
 Alkalis for external application are prepared in three different potencies; the mild, middling and strong (extremely irritant. A physician wishing to prepare such an alkali, should first purify his body and mind, and observe a fast on a day in autumn marked by auspicious astral combinations. Then having ascended the brow of a hill, he should select a full grown Ashita-mushka (Ghanta parul) tree of middle age, and growing on soil recommended in the works on pharmacy and not anywise affected.
 
 Then having formally invoked the spirit of the aforesaid tree, which bears no white flowers) the physician should fell it on the day following,—reciting the Mantra which reads as:—
-
-“O thou possessed of mighty virtues, O thou endued with fiery potency, may thy potency never decrease or vanish. Stay here, O thou blissful one, execute my work, and after the performance thereof thou shalt be at liberty to ascend to the heavenly regions.”
 
 “O thou possessed of mighty virtues, O thou endued with fiery potency, may thy potency never decrease or vanish. Stay here, O thou blissful one, execute my work, and after the performance thereof thou shalt be at liberty to ascend to the heavenly regions.”
 
@@ -2872,10 +2669,6 @@ An Alkali administered by an ignorant physician is to be dreaded more than poiso
 
 Thus ends the eleventh Chapter of the Sutrasthana in the Sushruta Samhita which treats of the Pharmacy of Alkalis.
 
-Footnotes and references:
-
-[back to top]
-
 [1]:
 
 Two parts of the burnt ashes of Ghanta-parula and one part of the ashes of Kutaja, etc.
@@ -2896,15 +2689,9 @@ In a case of deranged phlegm (Kapha) the affected part being marked by itching a
 
 ## 23. Chapter XV - Knowledge of doshas etc
 
-
 Sushruta Samhita, volume 1: Sutrasthana
 
-by Kaviraj Kunja Lal Bhishagratna | 1907 | 148,756 words
-
 This current book, the Sutra-sthana (english translation), is the first part of this voluminous medical work. It contains a large summary of the knowledge envelopig the medical aspects of Ayurveda. Descriptions of diseases, various diets and drugs, the duties of a surgeon, surgical procedures, medical training; these are only some of the numerous s...
-
-Go directly to: 
-Footnotes.
 
 Chapter XV - Knowledge of doshas etc
 
@@ -3016,10 +2803,6 @@ An intelligent physician should preserve the state of health in a healthy indivi
 
 Thus ends the fifteenth Chapter of the Sutrasthana in the Sushruta Samhita which treats of the Development and Non-development of the humoral constituents of the bodv.
 
-Footnotes and references:
-
-[back to top]
-
 [1]:
 
 They are called Prana, Udana, Samana, Vyana and Apana.
@@ -3072,15 +2855,9 @@ Several editions read Rasa, meaning it to be possessed of a sweet taste.
 
 ## 24. Chapter XVI - Puncturing and Bandaging the ear
 
-
 Sushruta Samhita, volume 1: Sutrasthana
 
-by Kaviraj Kunja Lal Bhishagratna | 1907 | 148,756 words
-
 This current book, the Sutra-sthana (english translation), is the first part of this voluminous medical work. It contains a large summary of the knowledge envelopig the medical aspects of Ayurveda. Descriptions of diseases, various diets and drugs, the duties of a surgeon, surgical procedures, medical training; these are only some of the numerous s...
-
-Go directly to: 
-Footnotes.
 
 Chapter XVI - Puncturing and Bandaging the ear
 
@@ -3146,10 +2923,6 @@ In a case of ulceration, the ulcerated ear-lobe should be rubbed with the oil pr
 
 Thus ends the sixteenth chapter of the Sutra-Sthana n in the Sushruta Samhita which treats of the Piercing and Bandaging of lobes.
 
-Footnotes and references:
-
-[back to top]
-
 [1]:
 
 See Additional Text and Remedies at the near end of this chapter.
@@ -3158,10 +2931,7 @@ See Additional Text and Remedies at the near end of this chapter.
 
 ## 25. Chapter XVII - Features of unripe and ripe swelling
 
-
 Sushruta Samhita, volume 1: Sutrasthana
-
-by Kaviraj Kunja Lal Bhishagratna | 1907 | 148,756 words
 
 This current book, the Sutra-sthana (english translation), is the first part of this voluminous medical work. It contains a large summary of the knowledge envelopig the medical aspects of Ayurveda. Descriptions of diseases, various diets and drugs, the duties of a surgeon, surgical procedures, medical training; these are only some of the numerous s...
 
@@ -3219,15 +2989,9 @@ Thus ends the seventeenth Chapter of the Sutrasthana in the Sushruta Samhita whi
 
 ## 26. Chapter XIX - Care of the wounded
 
-
 Sushruta Samhita, volume 1: Sutrasthana
 
-by Kaviraj Kunja Lal Bhishagratna | 1907 | 148,756 words
-
 This current book, the Sutra-sthana (english translation), is the first part of this voluminous medical work. It contains a large summary of the knowledge envelopig the medical aspects of Ayurveda. Descriptions of diseases, various diets and drugs, the duties of a surgeon, surgical procedures, medical training; these are only some of the numerous s...
-
-Go directly to: 
-Footnotes.
 
 Chapter XIX - Care of the wounded
 
@@ -3307,10 +3071,6 @@ An ulcer-patient, not given to sleep in the day, and liying in a room protected 
 
 Thus ends the nineteenth Chapter of the Sutrasthana in the Sushruta Samhita which treats of the nursing or management of an ulcer-patient.
 
-Footnotes and references:
-
-[back to top]
-
 [1]:
 
 Different reading:—Riding in a carriage or on horseback, and garrulousness.
@@ -3323,15 +3083,9 @@ The species of wine which are made of the expressed juice of grapes and are anta
 
 ## 27. Chapter XX - Suitable and unsuitables for health
 
-
 Sushruta Samhita, volume 1: Sutrasthana
 
-by Kaviraj Kunja Lal Bhishagratna | 1907 | 148,756 words
-
 This current book, the Sutra-sthana (english translation), is the first part of this voluminous medical work. It contains a large summary of the knowledge envelopig the medical aspects of Ayurveda. Descriptions of diseases, various diets and drugs, the duties of a surgeon, surgical procedures, medical training; these are only some of the numerous s...
-
-Go directly to: 
-Footnotes.
 
 Chapter XX - Suitable and unsuitables for health
 
@@ -3417,10 +3171,6 @@ The North wind is cold, crisp, mild, of a sweet taste terminating in an astringe
 
 Thus ends the twentieth Chapter of the Sutrasthana in the Sushruta samhita which treats of salutary and nonsalutary effects of the regimen.
 
-Footnotes and references:
-
-[back to top]
-
 [1]:
 
 The propriety and impropriety of a particular diet should be determined with a full regard to the antecedent and attending circumstances of a particular malady.
@@ -3437,15 +3187,9 @@ Different Reading:—In a child or in a man of voracious appetite.
 
 ## 28. Chapter XVIII - Poulticing and bandaging of wounds
 
-
 Sushruta Samhita, volume 1: Sutrasthana
 
-by Kaviraj Kunja Lal Bhishagratna | 1907 | 148,756 words
-
 This current book, the Sutra-sthana (english translation), is the first part of this voluminous medical work. It contains a large summary of the knowledge envelopig the medical aspects of Ayurveda. Descriptions of diseases, various diets and drugs, the duties of a surgeon, surgical procedures, medical training; these are only some of the numerous s...
-
-Go directly to: 
-Footnotes.
 
 Chapter XVIII - Poulticing and bandaging of wounds
 
@@ -3537,10 +3281,6 @@ An ulcer, properly bandaged, has a greater chance of not being affected by lying
 
 Thus ends the eighteenth Chapter of the Sutrasthana in the Sushruta Samhita which treats of the dressing and bandaging of ulcers.
 
-Footnotes and references:
-
-[back to top]
-
 [1]:
 
 As in the case of a Pidayitavya ulcer, described before, where the withdrawing or gathering of pus to a definite head is desired.
@@ -3571,15 +3311,9 @@ Several authorities such as Gayadasa, Brahmadeva, etc. hold this portion of the 
 
 ## 29. Chapter XXI - Questions concerning wounds
 
-
 Sushruta Samhita, volume 1: Sutrasthana
 
-by Kaviraj Kunja Lal Bhishagratna | 1907 | 148,756 words
-
 This current book, the Sutra-sthana (english translation), is the first part of this voluminous medical work. It contains a large summary of the knowledge envelopig the medical aspects of Ayurveda. Descriptions of diseases, various diets and drugs, the duties of a surgeon, surgical procedures, medical training; these are only some of the numerous s...
-
-Go directly to: 
-Footnotes.
 
 Chapter XXI - Questions concerning wounds
 
@@ -3751,10 +3485,6 @@ A concourse of deranged humours, affecting and appearing in a particular part of
 
 Thus ends the twenty-first chapter of the Sutrasthana in the Sushruta Samhita which treats of investigation into the nature ot the humours giving rise to an ulcer.
 
-Footnotes and references:
-
-[back to top]
-
 [1]:
 
 From this should be inferred that motion and smell are the natural attributes of the vital Vayu, heat and burning are those of Pitta, and union and integration are those of Kapha.
@@ -3775,10 +3505,7 @@ Additional text:—Reaching down and confined in the bone-systems of the body, t
 
 ## 30. Chapter XXII - Knowledge of exudates of wounds
 
-
 Sushruta Samhita, volume 1: Sutrasthana
-
-by Kaviraj Kunja Lal Bhishagratna | 1907 | 148,756 words
 
 This current book, the Sutra-sthana (english translation), is the first part of this voluminous medical work. It contains a large summary of the knowledge envelopig the medical aspects of Ayurveda. Descriptions of diseases, various diets and drugs, the duties of a surgeon, surgical procedures, medical training; these are only some of the numerous s...
 
@@ -3850,10 +3577,7 @@ Thus ends the twenty-second Chapter of the Sutrasthana in the Sushruta Samhita w
 
 ## 31. Chapter XXIII - Prognosis of wounds
 
-
 Sushruta Samhita, volume 1: Sutrasthana
-
-by Kaviraj Kunja Lal Bhishagratna | 1907 | 148,756 words
 
 This current book, the Sutra-sthana (english translation), is the first part of this voluminous medical work. It contains a large summary of the knowledge envelopig the medical aspects of Ayurveda. Descriptions of diseases, various diets and drugs, the duties of a surgeon, surgical procedures, medical training; these are only some of the numerous s...
 
@@ -3917,15 +3641,9 @@ Thus ends the twenty-third Chapter of the Sutrasthana in the Sushruta Samhita, w
 
 ## 32. Chapter XXIV - Knowledge of diseases
 
-
 Sushruta Samhita, volume 1: Sutrasthana
 
-by Kaviraj Kunja Lal Bhishagratna | 1907 | 148,756 words
-
 This current book, the Sutra-sthana (english translation), is the first part of this voluminous medical work. It contains a large summary of the knowledge envelopig the medical aspects of Ayurveda. Descriptions of diseases, various diets and drugs, the duties of a surgeon, surgical procedures, medical training; these are only some of the numerous s...
-
-Go directly to: 
-Footnotes.
 
 Chapter XXIV - Knowledge of diseases
 
@@ -4019,10 +3737,6 @@ We shall describe the nature, intensity and quality of diseases with their compl
 
 Thus ends the twenty-fourth Chapter of the Sutrasthana in the Sushruta Samhita which treats of the classification of diseases according to their specific nature.
 
-Footnotes and references:
-
-[back to top]
-
 [1]:
 
 Certain commentators interpret the term “Atman” in “Adhyatmika” to mean body only, and accordingly designate all phenomena that may be manifest in the body as Adhyatmika.
@@ -4047,15 +3761,9 @@ This answers the question, “how can the deranged bodily humours bring about a 
 
 ## 33. Chapter XXVI - Knowledge of foreign bodies
 
-
 Sushruta Samhita, volume 1: Sutrasthana
 
-by Kaviraj Kunja Lal Bhishagratna | 1907 | 148,756 words
-
 This current book, the Sutra-sthana (english translation), is the first part of this voluminous medical work. It contains a large summary of the knowledge envelopig the medical aspects of Ayurveda. Descriptions of diseases, various diets and drugs, the duties of a surgeon, surgical procedures, medical training; these are only some of the numerous s...
-
-Go directly to: 
-Footnotes.
 
 Chapter XXVI - Knowledge of foreign bodies
 
@@ -4111,10 +3819,6 @@ The physician, who is fully conversant with the five different courses or flight
 
 Thus ends the twenty-sixth Chapter of the Sutrasthana in the Sushruta Samhita which treats of exploration of splinters.
 
-Footnotes and references:
-
-[back to top]
-
 [1]:
 
 Embolism and Thrombosis have been included within Shalya by the Ayurvedic Pathologists.
@@ -4139,10 +3843,7 @@ Accordingly measures enjoined to be adopted in connection with a shaft (Shalya) 
 
 ## 34. Chapter XXVII - Removal of foreign bodies
 
-
 Sushruta Samhita, volume 1: Sutrasthana
-
-by Kaviraj Kunja Lal Bhishagratna | 1907 | 148,756 words
 
 This current book, the Sutra-sthana (english translation), is the first part of this voluminous medical work. It contains a large summary of the knowledge envelopig the medical aspects of Ayurveda. Descriptions of diseases, various diets and drugs, the duties of a surgeon, surgical procedures, medical training; these are only some of the numerous s...
 
@@ -4212,15 +3913,9 @@ Thus ends the twenty-seventh Chapter of the Sutrasthana in the Sushruta Samhita,
 
 ## 35. Chapter XXVIII - Prognosis of wounds
 
-
 Sushruta Samhita, volume 1: Sutrasthana
 
-by Kaviraj Kunja Lal Bhishagratna | 1907 | 148,756 words
-
 This current book, the Sutra-sthana (english translation), is the first part of this voluminous medical work. It contains a large summary of the knowledge envelopig the medical aspects of Ayurveda. Descriptions of diseases, various diets and drugs, the duties of a surgeon, surgical procedures, medical training; these are only some of the numerous s...
-
-Go directly to: 
-Footnotes.
 
 Chapter XXVIII - Prognosis of wounds
 
@@ -4246,10 +3941,6 @@ A wise physician, with any regard to his own reputation, should abandon a patien
 
 Thus ends the twenty-eighth Chapter of the Sutrasthana in the Sushruta Samhita, which deals with the favourable and unfavourable prognosis of ulcers.
 
-Footnotes and references:
-
-[back to top]
-
 [1]:
 
 The symptoms which are developed by the deranged bodily humours in the organism of a man at a time when they have passed beyond all medical cure, and when the body serves as a mere passive back-ground for those phenomena, awaiting its impending dissolution, are called Arishtas.
@@ -4258,15 +3949,9 @@ The symptoms which are developed by the deranged bodily humours in the organism 
 
 ## 36. Chapter XXV - Eight kinds of surgical operations
 
-
 Sushruta Samhita, volume 1: Sutrasthana
 
-by Kaviraj Kunja Lal Bhishagratna | 1907 | 148,756 words
-
 This current book, the Sutra-sthana (english translation), is the first part of this voluminous medical work. It contains a large summary of the knowledge envelopig the medical aspects of Ayurveda. Descriptions of diseases, various diets and drugs, the duties of a surgeon, surgical procedures, medical training; these are only some of the numerous s...
-
-Go directly to: 
-Footnotes.
 
 Chapter XXV - Eight kinds of surgical operations
 
@@ -4338,10 +4023,6 @@ The patient, who may mistrust his own parents, sons and relations, should repose
 
 Thus ends the twenty-fifth Chapter of the Sutrasthana in the Sushruta Samhita which treats of the eight forms of Surgical operations.
 
-Footnotes and references:
-
-[back to top]
-
 [1]:
 
 Granthi (gland), Galaganda (goitre), Vriddhi (scrotal tumour) Apachi (scrofula) and Arvuda (tumour) are the fat-origined diseases contemplated as instances.
@@ -4358,10 +4039,7 @@ Other than the one situated in any of the abovesaid vital parts of the body.
 
 ## 37. Chapter XXX - Good and bad sensory perceptions
 
-
 Sushruta Samhita, volume 1: Sutrasthana
-
-by Kaviraj Kunja Lal Bhishagratna | 1907 | 148,756 words
 
 This current book, the Sutra-sthana (english translation), is the first part of this voluminous medical work. It contains a large summary of the knowledge envelopig the medical aspects of Ayurveda. Descriptions of diseases, various diets and drugs, the duties of a surgeon, surgical procedures, medical training; these are only some of the numerous s...
 
@@ -4391,15 +4069,9 @@ Thus ends the thirtieth Chapter of the Sutrasthana in the Sushruta Samhita which
 
 ## 38. Chapter XXXI - Good And Bad Colour Etc. Fatal Signs
 
-
 Sushruta Samhita, volume 1: Sutrasthana
 
-by Kaviraj Kunja Lal Bhishagratna | 1907 | 148,756 words
-
 This current book, the Sutra-sthana (english translation), is the first part of this voluminous medical work. It contains a large summary of the knowledge envelopig the medical aspects of Ayurveda. Descriptions of diseases, various diets and drugs, the duties of a surgeon, surgical procedures, medical training; these are only some of the numerous s...
-
-Go directly to: 
-Footnotes.
 
 Chapter XXXI - Good And Bad Colour Etc. Fatal Signs
 
@@ -4431,10 +4103,6 @@ Ghosts, evil spirits, Pishachas and monsters of various shapes and denomination,
 
 Thus ends the Thirty-first Chapter of the Sutrasthana in the Sushruta-Sanihita which deals with prognosis from perverted features.
 
-Footnotes and references:
-
-[back to top]
-
 [1]:
 
 Physicians of the Ayurvedic School, however, observe a distinction between Chaya (shade of complexion), Prabha (healthful glow of the complexion), and Varna (natural colour of the complexion) itself. The Chaya or the shade of one’s complexion may be easily distinguished as clear, rough or cool, etc. and can be detected only on a close view. The Prabha, on the other hand, is visible from a distance and admits of of being divided into seven different types, such as red, yellow, white, brown, greenish, pale, and black. The Varna or the natural colour of the complexion of a man is found to be either fair, black, dusky leaning towards the fair, according to his race and habitation. The term also includes natural modesty, look and ease.
@@ -4447,10 +4115,7 @@ Such as Chlorosis, Ascites, Hemorrhoids.
 
 ## 39. Chapter XXXIII - Fatal Signs of Diseases
 
-
 Sushruta Samhita, volume 1: Sutrasthana
-
-by Kaviraj Kunja Lal Bhishagratna | 1907 | 148,756 words
 
 This current book, the Sutra-sthana (english translation), is the first part of this voluminous medical work. It contains a large summary of the knowledge envelopig the medical aspects of Ayurveda. Descriptions of diseases, various diets and drugs, the duties of a surgeon, surgical procedures, medical training; these are only some of the numerous s...
 
@@ -4488,15 +4153,9 @@ Thus ends the the thirty-third Chapter of the Sutrasthana in the Sushruta Samhit
 
 ## 40. Chapter XXXII - Good and bad nature of body parts fatal signs
 
-
 Sushruta Samhita, volume 1: Sutrasthana
 
-by Kaviraj Kunja Lal Bhishagratna | 1907 | 148,756 words
-
 This current book, the Sutra-sthana (english translation), is the first part of this voluminous medical work. It contains a large summary of the knowledge envelopig the medical aspects of Ayurveda. Descriptions of diseases, various diets and drugs, the duties of a surgeon, surgical procedures, medical training; these are only some of the numerous s...
-
-Go directly to: 
-Footnotes.
 
 Chapter XXXII - Good and bad nature of body parts fatal signs
 
@@ -4521,10 +4180,6 @@ A disease, appearing in an enfeebled and emaciated subject and refusing to yield
 A Mahavyadhi[12] (lit:—a deep seated disease) suddenly abating in a person in whom nourishment fails to produce any perceptible effect forebodes a fatal termination. The physician, who can detect and fully interpret these fatal indications, is honoured by the king for determining the curable or incurable nature of a disease.
 
 Thus ends the thirty-second Chapter of Sutrasthana in the Sushruta-Samhita which deals with the prognosis based on perversion of the natural appearances of the body.
-
-Footnotes and references:
-
-[back to top]
 
 [1]:
 
@@ -4578,15 +4233,9 @@ Any deep seated disease, which seriously affects the vital principles of a man, 
 
 ## 41. Chapter XXXIV - Duties of army surgeon
 
-
 Sushruta Samhita, volume 1: Sutrasthana
 
-by Kaviraj Kunja Lal Bhishagratna | 1907 | 148,756 words
-
 This current book, the Sutra-sthana (english translation), is the first part of this voluminous medical work. It contains a large summary of the knowledge envelopig the medical aspects of Ayurveda. Descriptions of diseases, various diets and drugs, the duties of a surgeon, surgical procedures, medical training; these are only some of the numerous s...
-
-Go directly to: 
-Footnotes.
 
 Chapter XXXIV - Duties of army surgeon
 
@@ -4626,10 +4275,6 @@ That person alone is fit to nurse or to attend the bedside of a patient, who is 
 
 Thus ends the thirty-fourth Chapter of the Sutrasthana in the Sushruta Samhita, which treats of preserving the life of a king whose soldiers are on march.
 
-Footnotes and references:
-
-[back to top]
-
 [1]:
 
 Udgatri: —One of the four principal priests at a sacrifice, who chants the hymns of the Sama Veda.
@@ -4646,15 +4291,9 @@ Adhvaryyu— A priest of the Yayur Veda, whose duty is to cast the sacrificial b
 
 ## 42. Chapter XXIX - Auspicious and inauspicious dreams
 
-
 Sushruta Samhita, volume 1: Sutrasthana
 
-by Kaviraj Kunja Lal Bhishagratna | 1907 | 148,756 words
-
 This current book, the Sutra-sthana (english translation), is the first part of this voluminous medical work. It contains a large summary of the knowledge envelopig the medical aspects of Ayurveda. Descriptions of diseases, various diets and drugs, the duties of a surgeon, surgical procedures, medical training; these are only some of the numerous s...
-
-Go directly to: 
-Footnotes.
 
 Chapter XXIX - Auspicious and inauspicious dreams
 
@@ -4724,10 +4363,6 @@ Dreams of ascending the terrace of a royal palace, of climbing a tree or a hill,
 
 Thus ends the twenty-ninth Chapter of the Sutrasthana in the Sushruta Samhita, which deals with favourable or unfavourable prognosis from messengers, birds, omens etc.
 
-Footnotes and references:
-
-[back to top]
-
 [1]:
 
 A Pashanda messenger should be despatched to call in a physician where a member of the same community would fall ill; a householder, in the case of a patient of the same social order; a Brahmana, in the case of a Brahmana patient, and so on; while an infringement of the rule would be looked upon as an evil omen.
@@ -4740,15 +4375,9 @@ A messenger, visiting a physician in the afternoon or during a heavy rain or sto
 
 ## 43. Chapter XXXVI - Drugs of specific actions
 
-
 Sushruta Samhita, volume 1: Sutrasthana
 
-by Kaviraj Kunja Lal Bhishagratna | 1907 | 148,756 words
-
 This current book, the Sutra-sthana (english translation), is the first part of this voluminous medical work. It contains a large summary of the knowledge envelopig the medical aspects of Ayurveda. Descriptions of diseases, various diets and drugs, the duties of a surgeon, surgical procedures, medical training; these are only some of the numerous s...
-
-Go directly to: 
-Footnotes.
 
 Chapter XXXVI - Drugs of specific actions
 
@@ -4822,10 +4451,6 @@ A wise physician should use all the drugs and substances as have been enumerated
 
 Thus ends the thirty-sixth Chapter of the Sutrasthana in the Sushruta Samhita which treats of miscellaneous remedies for inflammatory swellings.
 
-Footnotes and references:
-
-[back to top]
-
 [1]:
 
 The nomenclature of the chapter is based, according to certain authorities, on the fact of its jointly treating of eight principal processes of absorption, suppuration, spontaneous bursting, etc. of a swelling; while some there are who hold that the name of the chapter is derived from the fact of its containing remedial measures commonly (Mishraka) beneficial to swellings and ulcers.
@@ -4850,15 +4475,9 @@ The process consists in mixing the drugs with water weighing eight or sixteen ti
 
 ## 44. Chapter XXXV - Examination of the patient
 
-
 Sushruta Samhita, volume 1: Sutrasthana
 
-by Kaviraj Kunja Lal Bhishagratna | 1907 | 148,756 words
-
 This current book, the Sutra-sthana (english translation), is the first part of this voluminous medical work. It contains a large summary of the knowledge envelopig the medical aspects of Ayurveda. Descriptions of diseases, various diets and drugs, the duties of a surgeon, surgical procedures, medical training; these are only some of the numerous s...
-
-Go directly to: 
-Footnotes.
 
 Chapter XXXV - Examination of the patient
 
@@ -5014,10 +4633,6 @@ In the case of a former medicine proving abortive, a different one should not be
 
 Thus ends the Thirty-fifth Chapter of the Sutrasthana in the Sushruta Samhita, which treats of clinical observations.
 
-Footnotes and references:
-
-[back to top]
-
 [1]:
 
 There is a difference between “Agni” and “appetite.” Agni includes bile and pancreatic secretions, and hence indicates the stale of one’s digestion. Appetite, though not an unerring indicator of the process, is the effect of Agni.
@@ -5042,10 +4657,7 @@ As the appearance of a Kaphaja disease in a subject habituated to the use of via
 
 ## 45. Chapter XXXIX - Purificatory and Palliative Drugs
 
-
 Sushruta Samhita, volume 1: Sutrasthana
-
-by Kaviraj Kunja Lal Bhishagratna | 1907 | 148,756 words
 
 This current book, the Sutra-sthana (english translation), is the first part of this voluminous medical work. It contains a large summary of the knowledge envelopig the medical aspects of Ayurveda. Descriptions of diseases, various diets and drugs, the duties of a surgeon, surgical procedures, medical training; these are only some of the numerous s...
 
@@ -5095,15 +4707,9 @@ Thus ends the thirty-ninth Chapter of the Sutrasthana in the Sushruta Samhita, w
 
 ## 46. Chapter XXXVII - Kinds of land regions
 
-
 Sushruta Samhita, volume 1: Sutrasthana
 
-by Kaviraj Kunja Lal Bhishagratna | 1907 | 148,756 words
-
 This current book, the Sutra-sthana (english translation), is the first part of this voluminous medical work. It contains a large summary of the knowledge envelopig the medical aspects of Ayurveda. Descriptions of diseases, various diets and drugs, the duties of a surgeon, surgical procedures, medical training; these are only some of the numerous s...
-
-Go directly to: 
-Footnotes.
 
 Chapter XXXVII - Kinds of land regions
 
@@ -5141,10 +4747,6 @@ The pharmacy and the medicinal store of a physician should occupy a commendable 
 
 Thus ends the thirty-seventh Chapter of the Sutrasthana in the Sushruta Samhita which treats of the Classification of grounds for the culture of medicinal plants and herbs, etc.
 
-Footnotes and references:
-
-[back to top]
-
 [1]:
 
 Herbs or drugs, which in virtue of their own essential properties soothe or subdue a disease without eliminating the morbid humours or without exercising any emetic or purgative action.
@@ -5157,15 +4759,9 @@ Hence the doctrine, as regards the culling of the different parts of a medicinal
 
 ## 47. Chapter XXXVIII - Groups of drugs
 
-
 Sushruta Samhita, volume 1: Sutrasthana
 
-by Kaviraj Kunja Lal Bhishagratna | 1907 | 148,756 words
-
 This current book, the Sutra-sthana (english translation), is the first part of this voluminous medical work. It contains a large summary of the knowledge envelopig the medical aspects of Ayurveda. Descriptions of diseases, various diets and drugs, the duties of a surgeon, surgical procedures, medical training; these are only some of the numerous s...
-
-Go directly to: 
-Footnotes.
 
 Chapter XXXVIII - Groups of drugs
 
@@ -5465,10 +5061,6 @@ An intelligent physician should prepare plasters, decoctions, medicated oils, Gh
 
 Thus ends the thirty-eighth Chapter of the Sutrasthana in the Sushruta Samhita, which deals with the classification of drugs according to their therapeutical use.
 
-Footnotes and references:
-
-[back to top]
-
 [1]:
 
 Additional Text:—These drugs may be duly culled in all seasons of the year, and should be stored in a room protected from smoke, blasts of cold, wind and rain.
@@ -5477,15 +5069,9 @@ Additional Text:—These drugs may be duly culled in all seasons of the year, an
 
 ## 48. Chapter XL - Knowledge of taste etc of drugs
 
-
 Sushruta Samhita, volume 1: Sutrasthana
 
-by Kaviraj Kunja Lal Bhishagratna | 1907 | 148,756 words
-
 This current book, the Sutra-sthana (english translation), is the first part of this voluminous medical work. It contains a large summary of the knowledge envelopig the medical aspects of Ayurveda. Descriptions of diseases, various diets and drugs, the duties of a surgeon, surgical procedures, medical training; these are only some of the numerous s...
-
-Go directly to: 
-Footnotes.
 
 Chapter XL - Knowledge of taste etc of drugs
 
@@ -5523,10 +5109,6 @@ Unscrutable and unthinkable are the virtues of drugs (medicines), which are abov
 
 Thus ends the fortieth Chapter of the Sutrasthana in the Sushruta Samhita, which deals with drugs and their flavours, virtues, and digestive (chemical) transformation.
 
-Footnotes and references:
-
-[back to top]
-
 [1]:
 
 Flavours such as, sweet, acid and saline, subdue the deranged Vayu. Tastes such as, sweet, bitter and astringent are antibilious in their efficacy, while those, which are pungent, bitter and astringent, are antiphlegmagogic in their virtues.
@@ -5539,15 +5121,9 @@ The process of digestion is followed by a reactionary taste, which may be either
 
 ## 49. Chapter XLII - Knowledge of tastes of drugs
 
-
 Sushruta Samhita, volume 1: Sutrasthana
 
-by Kaviraj Kunja Lal Bhishagratna | 1907 | 148,756 words
-
 This current book, the Sutra-sthana (english translation), is the first part of this voluminous medical work. It contains a large summary of the knowledge envelopig the medical aspects of Ayurveda. Descriptions of diseases, various diets and drugs, the duties of a surgeon, surgical procedures, medical training; these are only some of the numerous s...
-
-Go directly to: 
-Footnotes.
 
 Chapter XLII - Knowledge of tastes of drugs
 
@@ -5633,10 +5209,6 @@ The man, who gradually habituates himself to the use of each of the six aforesai
 
 Thus ends the forty-second Chapter of the Sutrasthana in the Sushruta Samhita, which treats of the specific properties of flavours.
 
-Footnotes and references:
-
-[back to top]
-
 [1]:
 
 To put it more explicitly the property of sound belongs to the sky (Akasha). The properties of sound and touch appertain to the air (Vayu). The properties of sound, touch and colour form the characteristics of Fire (Teja). Sound, touch, colour and taste form the specific properties of water (Toya). Sound, touch, colour, taste and smell mark the earth matter (Bhumi).
@@ -5645,15 +5217,9 @@ To put it more explicitly the property of sound belongs to the sky (Akasha). The
 
 ## 50. Chapter XLI - Knowledge of categories of drugs
 
-
 Sushruta Samhita, volume 1: Sutrasthana
 
-by Kaviraj Kunja Lal Bhishagratna | 1907 | 148,756 words
-
 This current book, the Sutra-sthana (english translation), is the first part of this voluminous medical work. It contains a large summary of the knowledge envelopig the medical aspects of Ayurveda. Descriptions of diseases, various diets and drugs, the duties of a surgeon, surgical procedures, medical training; these are only some of the numerous s...
-
-Go directly to: 
-Footnotes.
 
 Chapter XLI - Knowledge of categories of drugs
 
@@ -5705,10 +5271,6 @@ Properties, which characterise drugs and substances, may be as well found in a h
 
 Thus ends the forty-first Chapter of the Sutrasthana in the Sushruta Samhita which treats of specific properties of drugs.
 
-Footnotes and references:
-
-[back to top]
-
 [1]:
 
 These may be translated as Solid, Liquid, Gas, Ether, and Etherion in the parlance of modern science.
@@ -5717,15 +5279,9 @@ These may be translated as Solid, Liquid, Gas, Ether, and Etherion in the parlan
 
 ## 51. Chapter XLIII - Recipes of emetic drugs
 
-
 Sushruta Samhita, volume 1: Sutrasthana
 
-by Kaviraj Kunja Lal Bhishagratna | 1907 | 148,756 words
-
 This current book, the Sutra-sthana (english translation), is the first part of this voluminous medical work. It contains a large summary of the knowledge envelopig the medical aspects of Ayurveda. Descriptions of diseases, various diets and drugs, the duties of a surgeon, surgical procedures, medical training; these are only some of the numerous s...
-
-Go directly to: 
-Footnotes.
 
 Chapter XLIII - Recipes of emetic drugs
 
@@ -5753,10 +5309,6 @@ Thus a general outline of the leading characteristics of the emetic drugs in gen
 
 Thus ends the forty-third Chapter of the Sutrasthana in the Sushruta Samhita which deals with the choice and mode of administering emetics.
 
-Footnotes and references:
-
-[back to top]
-
 [1]:
 
 Fruits include flowers.
@@ -5765,15 +5317,9 @@ Fruits include flowers.
 
 ## 52. Chapter XLIV - Recipes of purgative drugs
 
-
 Sushruta Samhita, volume 1: Sutrasthana
 
-by Kaviraj Kunja Lal Bhishagratna | 1907 | 148,756 words
-
 This current book, the Sutra-sthana (english translation), is the first part of this voluminous medical work. It contains a large summary of the knowledge envelopig the medical aspects of Ayurveda. Descriptions of diseases, various diets and drugs, the duties of a surgeon, surgical procedures, medical training; these are only some of the numerous s...
-
-Go directly to: 
-Footnotes.
 
 Chapter XLIV - Recipes of purgative drugs
 
@@ -5872,10 +5418,6 @@ A compound consisting of three Shana weights (one tola and a half) of powdered T
 
 Thus ends the forty-fourth Chapter of the Sutrasthana in the Sushruta Samhita, which treats of the choice of purgatives.
 
-Footnotes and references:
-
-[back to top]
-
 [1]:
 
 The quantity of old treacle should be equal to the aggregate weight of the other drugs in the compound under similar circumstances.
@@ -5908,15 +5450,9 @@ The mode of preparing the porridge is as follows:—First the wheat should be sa
 
 ## 53. Chapter XLV - Knowledge of liquid substances
 
-
 Sushruta Samhita, volume 1: Sutrasthana
 
-by Kaviraj Kunja Lal Bhishagratna | 1907 | 148,756 words
-
 This current book, the Sutra-sthana (english translation), is the first part of this voluminous medical work. It contains a large summary of the knowledge envelopig the medical aspects of Ayurveda. Descriptions of diseases, various diets and drugs, the duties of a surgeon, surgical procedures, medical training; these are only some of the numerous s...
-
-Go directly to: 
-Footnotes.
 
 Chapter XLV - Knowledge of liquid substances
 
@@ -6242,10 +5778,6 @@ I have now briefly described the properties of all kinds of liquid food or drink
 
 Thus ends the forty-fifth Chapter of the Sutrasthana in the Sushruta Samhita which treats of liquids.
 
-Footnotes and references:
-
-[back to top]
-
 [1]:
 
 Enlivens the body during fits of fainting and such like cases.
@@ -6332,15 +5864,9 @@ The urine of a cow, she-buffalo, ewe and she-goat should be taken and used, whil
 
 ## 54. Chapter XLVI - Diet articles and regimen of diet
 
-
 Sushruta Samhita, volume 1: Sutrasthana
 
-by Kaviraj Kunja Lal Bhishagratna | 1907 | 148,756 words
-
 This current book, the Sutra-sthana (english translation), is the first part of this voluminous medical work. It contains a large summary of the knowledge envelopig the medical aspects of Ayurveda. Descriptions of diseases, various diets and drugs, the duties of a surgeon, surgical procedures, medical training; these are only some of the numerous s...
-
-Go directly to: 
-Footnotes.
 
 Chapter XLVI - Diet articles and regimen of diet
 
@@ -6839,10 +6365,6 @@ He, who carefully peruses these rules regarding the regimen of diet as approved 
 Thus ends the forty-sixth Chapter of the Sutrasthana in the Sushruta Samhita which treats of Food and Drink.
 
 Here ends the Sutrastharna
-
-Footnotes and references:
-
-[back to top]
 
 [1]:
 

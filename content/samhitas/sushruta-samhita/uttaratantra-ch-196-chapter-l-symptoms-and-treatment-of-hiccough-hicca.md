@@ -20,17 +20,11 @@ This chapter from **Sushruta Samhita (Uttaratantra)** represents the classical s
 
 ---
 
-
 Sushruta Samhita, Volume 6: Uttara-tantra
-
-by Kaviraj Kunja Lal Bhishagratna | 1916 | 113,078 words
 
 This current book, the Uttara-tantra (english translation) is the supplementary part of the Sushrutasamhita and deals various subjects such as diseases of the eye, treatment of fever, diarrhea, diseases resulting from superhuman influences, insanity, rules of health etc.
 
 The Sushruta Samhita is the most representative work of the Hindu system of m...
-
-Go directly to: 
-Footnotes.
 
 Chapter L - Symptoms and Treatment of Hiccough (Hicca)
 
@@ -89,10 +83,6 @@ The soup prepared with the meat of Shallaka (porcupine), Shvadamshtra, Godha, Vr
 Purgatives as well as potions of tepid clarified butter mixed with Saindhava- salt and sugar should be regarded as highly beneficial in an up-coursing of the bodily Vayu in cases of Hicca. Some authorities are of opinion that the application of an Anuvasana-vasti would be also beneficial in such cases. 18.
 
 Thus ends the fiftieth chapter in the Uttara-Tantra of the Sushruta Samhita which deals with the (symptoms and) treatment of hiccough.
-
-Footnotes and references:
-
-[back to top]
 
 [1]:
 

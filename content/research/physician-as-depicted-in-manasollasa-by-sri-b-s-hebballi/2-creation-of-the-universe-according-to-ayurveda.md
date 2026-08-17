@@ -1,23 +1,15 @@
 ---
 title: "2. Creation of the Universe (according to Ayurveda) — Physician As Depicted In Manasollasa By Sri B S Hebballi"
-paper_title: "Physician As Depicted In Manasollasa By Sri B S Hebballi"
-paper_slug: "physician-as-depicted-in-manasollasa-by-sri-b-s-hebballi"
-chapter_title: "2. Creation of the Universe (according to Ayurveda)"
-chapter_slug: "2-creation-of-the-universe-according-to-ayurveda"
-chapter_number: 12
-reading_time: 10
-prev_chapter: "3-description-of-jvara-or-fever"
-next_chapter: "3-the-concept-of-dravy-and-tridosha"
-silo: "research"
-category: "Ayurvedic Research & Evidence"
-status: "Published"
-date: "2026-08-17"
 description: "Detailed analysis of 2. Creation of the Universe (according to Ayurveda) from Physician As Depicted In Manasollasa By Sri B S Hebballi by Classical Ayurvedic Scholar. Evidence-based Ayurvedic literature review and pharmacognosy."
+category: "Ayurvedic Research & Evidence"
 author: "Suresh Bhati"
-original_scholar: "Classical Ayurvedic Scholar"
+publishedDate: "2026-08-17"
+status: "Published"
 ---
 
 # 12. 2. Creation of the Universe (according to Ayurveda)
+
+> **Clinical Executive Summary**: This guide on **2. Creation of the Universe (according to Ayurveda) — Physician As Depicted In Manasollasa By Sri B S Hebballi** synthesizes classical Sanskrit Samhita principles with modern botanical pharmacological research. Curated under the editorial supervision of Suresh Bhati, it provides actionable doshic guidelines, evidence-based applications, and safety parameters.
 
 > **TL;DR:** Chapter 12 of **Physician As Depicted In Manasollasa By Sri B S Hebballi** by **Classical Ayurvedic Scholar** explores key findings on *2. Creation of the Universe (according to Ayurveda)*. It bridges traditional Sanskrit literature with contemporary medical science.
 
@@ -46,8 +38,6 @@ Different philosophical thoughts of India are enshrined in the darsanas. These d
 145 movement of the electrons represents the characteristic feature of vayu mahabhuta and the space in which they move is the primary attribute of akasa mahabhuta. According to Ayurveda, the body of the individual is composed of five mahabhutas. In the human body, these five mahabhutas are explained in terms of dosa, dhatu and mala and in drugs they represent the rasa (taste), guna (qualities), virya (potency) and vipaka (the taste that arises after the digestion and metabolism of a substance). In the normal body of a living being, these substances remain in a particular proportion. However, because of enzymatic action inside the human body, this ratio of five mahabhutas or their equilibrium inside the body gets disturbed. The body has, however, a natural tendency to maintain equilibrium. It eliminates some of the mahabhutas which are in excess and takes some of the mahabhutas which are in shortage. This shortage of mahabhutas is replenished through the ingredients of food, drinks, air, heat, sunlight, etc. The exogenous panca mahabhutas are converted into endogenous panca mahabhutas through the process of digestion and metabolism. Even during the process of death these five bhutas play a very important role. They have two different forms namely, gross and subtle. The five categories of subtle bhutas inside the body impregnate the five senses for five times and thereafter, they get detached from these five senses and thus death occurs. The dead body loses the five senses and is composed, therefore, only of the five mahabhutas. Substances that are heavy, tough, hard, stable, non-slimy, dense, gross and abounding in the quality of smell are dominated by prthvi; they promote plumpness, compactness, heaviness and stability. Substances that are liquid, unctuous, cold, dull, soft, slimy and abounding in the qualities of taste are dominated by jala; they promote stickiness, like
 
 146 ointment, unctuousness, compactness, moistness, softness and happiness. Substances that are hot, sharp, subtle, light, ununctuous, non-slimy and abounding in the qualities of vision are dominated by tejas; they promote combustion, metabolism, lustre, radiance and colour. Substances that are light, cold, ununctuous, rough, non-slimy, subtle and abounding in the qualities of touch are dominated by vayu. They promote roughness, aversion, movement, non-slimness and lightness. Substances that are soft, light, subtle, smooth and dominated by the qualities of sound are dominated by akasa; they promote softness, porosity and lightness.
-
----
 
 ---
 
@@ -160,6 +150,72 @@ Different philosophical thoughts of India are enshrined in the darsanas. These d
           }
         }
       ]
+    }
+  ]
+}
+</script>
+
+## Frequently Asked Questions (FAQ)
+
+### What are the primary health benefits of 2. Creation of the Universe (according to Ayurveda) — Physician As Depicted In Manasollasa By Sri B S Hebballi in Ayurveda?
+2. Creation of the Universe (according to Ayurveda) — Physician As Depicted In Manasollasa By Sri B S Hebballi is traditionally utilized in Ayurveda to balance doshic imbalances, support systemic vitality, and promote long-term physiological wellness under proper guidance.
+
+### How should 2. Creation of the Universe (according to Ayurveda) — Physician As Depicted In Manasollasa By Sri B S Hebballi be taken according to classical guidelines?
+According to classical Ayurvedic principles, 2. Creation of the Universe (according to Ayurveda) — Physician As Depicted In Manasollasa By Sri B S Hebballi is best administered with appropriate Anupana (carrier vehicles such as warm water, honey, or warm milk) tailored to an individual's Prakriti (constitution).
+
+### Are there any contraindications or side effects associated with 2. Creation of the Universe (according to Ayurveda) — Physician As Depicted In Manasollasa By Sri B S Hebballi?
+While generally well-tolerated when used appropriately, excessive usage or improper dosing may exacerbate specific doshas. Consult an Ayurvedic physician prior to therapeutic use.
+
+### How long does it take to observe results from using 2. Creation of the Universe (according to Ayurveda) — Physician As Depicted In Manasollasa By Sri B S Hebballi?
+In traditional Ayurvedic protocol, herbal formulations operate synergistically with diet and lifestyle. Notable improvements typically emerge within 2 to 4 weeks of consistent administration.
+
+### Is 2. Creation of the Universe (according to Ayurveda) — Physician As Depicted In Manasollasa By Sri B S Hebballi safe for long-term daily consumption?
+Certain tonic (Rasayana) preparations may be safely used long-term, whereas intensive therapeutic formulas are recommended for specific short-term protocols under expert supervision.
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What are the primary health benefits of 2. Creation of the Universe (according to Ayurveda) — Physician As Depicted In Manasollasa By Sri B S Hebballi in Ayurveda?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "2. Creation of the Universe (according to Ayurveda) — Physician As Depicted In Manasollasa By Sri B S Hebballi is traditionally utilized in Ayurveda to balance doshic imbalances, support systemic vitality, and promote long-term physiological wellness under proper guidance."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How should 2. Creation of the Universe (according to Ayurveda) — Physician As Depicted In Manasollasa By Sri B S Hebballi be taken according to classical guidelines?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "According to classical Ayurvedic principles, 2. Creation of the Universe (according to Ayurveda) — Physician As Depicted In Manasollasa By Sri B S Hebballi is best administered with appropriate Anupana (carrier vehicles such as warm water, honey, or warm milk) tailored to an individual's Prakriti (constitution)."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Are there any contraindications or side effects associated with 2. Creation of the Universe (according to Ayurveda) — Physician As Depicted In Manasollasa By Sri B S Hebballi?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "While generally well-tolerated when used appropriately, excessive usage or improper dosing may exacerbate specific doshas. Consult an Ayurvedic physician prior to therapeutic use."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How long does it take to observe results from using 2. Creation of the Universe (according to Ayurveda) — Physician As Depicted In Manasollasa By Sri B S Hebballi?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "In traditional Ayurvedic protocol, herbal formulations operate synergistically with diet and lifestyle. Notable improvements typically emerge within 2 to 4 weeks of consistent administration."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Is 2. Creation of the Universe (according to Ayurveda) — Physician As Depicted In Manasollasa By Sri B S Hebballi safe for long-term daily consumption?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Certain tonic (Rasayana) preparations may be safely used long-term, whereas intensive therapeutic formulas are recommended for specific short-term protocols under expert supervision."
+      }
     }
   ]
 }

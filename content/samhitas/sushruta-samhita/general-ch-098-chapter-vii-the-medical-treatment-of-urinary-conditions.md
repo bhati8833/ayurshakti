@@ -20,17 +20,11 @@ This chapter from **Sushruta Samhita (Chikitsasthana)** represents the classical
 
 ---
 
-
 Sushruta Samhita, volume 4: Cikitsasthana
-
-by Kaviraj Kunja Lal Bhishagratna | 1911 | 123,229 words
 
 This current book, the Chikitsa-sthana (english translation), deals with therapeutics, surgical emergencies, geriatrics, aphrodisiacs and various other subjects.
 
 The Sushruta Samhita is the most representative work of the Hindu system of medicine. It embraces all that can possibly appertain to the science of medicine. Susruta-samhita is recognized...
-
-Go directly to: 
-Footnotes.
 
 Chapter VII - The medical treatment of urinary conditions
 
@@ -101,10 +95,6 @@ Memorable Verses:—
 The surgeon who is not well cognisant of the nature and positions of the Marmas or vulnerable parts seated in the eight Srotas (ducts) of the body such as, the raphe of the perineum, the spermatic cords, the cords of the testes and the corresponding ones in females (Yoni), the anal region, the urinary ducts, the urine-carrying ducts, and the urinary bladder and is not practiced in the art of surgery brings about the death of many an innocent victim. 20.
 
 Thus ends the seventh Chapter of the Chikitsita Sthana in the Sushruta Samhita which deals with the treatment of Urinary calculus.
-
-Footnotes and references:
-
-[back to top]
 
 [1]:
 

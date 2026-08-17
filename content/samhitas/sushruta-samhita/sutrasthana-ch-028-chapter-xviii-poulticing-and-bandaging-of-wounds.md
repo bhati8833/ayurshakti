@@ -20,15 +20,9 @@ This chapter from **Sushruta Samhita (Sutrasthana)** represents the classical su
 
 ---
 
-
 Sushruta Samhita, volume 1: Sutrasthana
 
-by Kaviraj Kunja Lal Bhishagratna | 1907 | 148,756 words
-
 This current book, the Sutra-sthana (english translation), is the first part of this voluminous medical work. It contains a large summary of the knowledge envelopig the medical aspects of Ayurveda. Descriptions of diseases, various diets and drugs, the duties of a surgeon, surgical procedures, medical training; these are only some of the numerous s...
-
-Go directly to: 
-Footnotes.
 
 Chapter XVIII - Poulticing and bandaging of wounds
 
@@ -119,10 +113,6 @@ The rules laid down under the head of adhesioning the parts of a bifurcated ear-
 An ulcer, properly bandaged, has a greater chance of not being affected by lying down, sitting up, or any other movement of the patient, nor by the joltings of a conveyance he may ride or be carried in. An ulcer affecting a vein or a ligament or the skin (superficial) or the flesh or the bones cannot be healed without bandaging it. An ulcer situated in any of the internal chambers (cavities) of the body, or occurring at any junction of the limbs or organs, etc. or having its seat in a bone and whether of a deep, superficial, malignant, or corrosive character, cannot be brought to a successful termination without the help of a bandage.
 
 Thus ends the eighteenth Chapter of the Sutrasthana in the Sushruta Samhita which treats of the dressing and bandaging of ulcers.
-
-Footnotes and references:
-
-[back to top]
 
 [1]:
 

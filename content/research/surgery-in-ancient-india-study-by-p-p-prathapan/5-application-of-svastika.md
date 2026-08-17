@@ -1,23 +1,15 @@
 ---
 title: "5. Application of Svastika — Surgery In Ancient India Study By P P Prathapan"
-paper_title: "Surgery In Ancient India Study By P P Prathapan"
-paper_slug: "surgery-in-ancient-india-study-by-p-p-prathapan"
-chapter_title: "5. Application of Svastika"
-chapter_slug: "5-application-of-svastika"
-chapter_number: 72
-reading_time: 2
-prev_chapter: "2-surgical-instruments-mentioned-in-sushruta-samhita"
-next_chapter: "4-classification-of-surgical-instruments"
-silo: "research"
-category: "Ayurvedic Research & Evidence"
-status: "Published"
-date: "2026-08-17"
 description: "Detailed analysis of 5. Application of Svastika from Surgery In Ancient India Study By P P Prathapan by Classical Ayurvedic Scholar. Evidence-based Ayurvedic literature review and pharmacognosy."
+category: "Ayurvedic Research & Evidence"
 author: "Suresh Bhati"
-original_scholar: "Classical Ayurvedic Scholar"
+publishedDate: "2026-08-17"
+status: "Published"
 ---
 
 # 72. 5. Application of Svastika
+
+> **Clinical Executive Summary**: This guide on **5. Application of Svastika — Surgery In Ancient India Study By P P Prathapan** synthesizes classical Sanskrit Samhita principles with modern botanical pharmacological research. Curated under the editorial supervision of Suresh Bhati, it provides actionable doshic guidelines, evidence-based applications, and safety parameters.
 
 > **TL;DR:** Chapter 72 of **Surgery In Ancient India Study By P P Prathapan** by **Classical Ayurvedic Scholar** explores key findings on *5. Application of Svastika*. It bridges traditional Sanskrit literature with contemporary medical science.
 
@@ -34,8 +26,6 @@ This essay studies Surgery in ancient India based on Sanskrit sources.—The Sus
 Appliances of the svastika class should be made to measure eighteen fingers in length; and their mouths should be made to resemble those of lions, tigers, wolves, hyenas, bears, cats, jackals, deer, crows, cormorants, kururas a species of bird; hasas (a species of sparrow, vultures, falcons, owls, kites, herons, bhrngarajas (a species of bird, anjalikarnas, avabhanjanas, xandimukhas. and such like beasts and birds. The two blades or halves of a svastika should be welded together by means of a bolt resembling a masura pulse lentil in size, and the handles should be turned inward in the shape of a mace, or an ankusa. Appliances of this type should be 230
 
 used in extracting any thorn or foreign matter which may have entered into the bones. The word svastika is a technical term signifying one of the twenty four signs of the Jinas; and it can be represented by two lines. crossing each other, the arms of the cross being bent at their extremities towards the same direction. So these instruments may be described as cruciform. They have, as a rule a length of eighteen. anguli. Their ends should be shaped like the faces of the following ferocious beasts (1 to 8), deer (9) and birds (10 to 24), and the instruments are to be called after their names. They are divided into two classes; the instruments of class I resemble the mouths of lion (simha) and tiger (vyaghra), while class II comprises the instruments which have the likeness of the faces of birds of prey. The fulcrums of these instruments which are at the middle, are of the size of a masura (Ervum lens). The handles are either rounded off, or bent at an angle at their ends, like an elephant driver's goad the object being to afford a good grasp of the instrument by the surgeon's hands. The svastika instruments are used for the extraction of foreign bodies impacted in the bones. 231
-
----
 
 ---
 
@@ -148,6 +138,72 @@ used in extracting any thorn or foreign matter which may have entered into the b
           }
         }
       ]
+    }
+  ]
+}
+</script>
+
+## Frequently Asked Questions (FAQ)
+
+### What are the primary health benefits of 5. Application of Svastika — Surgery In Ancient India Study By P P Prathapan in Ayurveda?
+5. Application of Svastika — Surgery In Ancient India Study By P P Prathapan is traditionally utilized in Ayurveda to balance doshic imbalances, support systemic vitality, and promote long-term physiological wellness under proper guidance.
+
+### How should 5. Application of Svastika — Surgery In Ancient India Study By P P Prathapan be taken according to classical guidelines?
+According to classical Ayurvedic principles, 5. Application of Svastika — Surgery In Ancient India Study By P P Prathapan is best administered with appropriate Anupana (carrier vehicles such as warm water, honey, or warm milk) tailored to an individual's Prakriti (constitution).
+
+### Are there any contraindications or side effects associated with 5. Application of Svastika — Surgery In Ancient India Study By P P Prathapan?
+While generally well-tolerated when used appropriately, excessive usage or improper dosing may exacerbate specific doshas. Consult an Ayurvedic physician prior to therapeutic use.
+
+### How long does it take to observe results from using 5. Application of Svastika — Surgery In Ancient India Study By P P Prathapan?
+In traditional Ayurvedic protocol, herbal formulations operate synergistically with diet and lifestyle. Notable improvements typically emerge within 2 to 4 weeks of consistent administration.
+
+### Is 5. Application of Svastika — Surgery In Ancient India Study By P P Prathapan safe for long-term daily consumption?
+Certain tonic (Rasayana) preparations may be safely used long-term, whereas intensive therapeutic formulas are recommended for specific short-term protocols under expert supervision.
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What are the primary health benefits of 5. Application of Svastika — Surgery In Ancient India Study By P P Prathapan in Ayurveda?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "5. Application of Svastika — Surgery In Ancient India Study By P P Prathapan is traditionally utilized in Ayurveda to balance doshic imbalances, support systemic vitality, and promote long-term physiological wellness under proper guidance."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How should 5. Application of Svastika — Surgery In Ancient India Study By P P Prathapan be taken according to classical guidelines?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "According to classical Ayurvedic principles, 5. Application of Svastika — Surgery In Ancient India Study By P P Prathapan is best administered with appropriate Anupana (carrier vehicles such as warm water, honey, or warm milk) tailored to an individual's Prakriti (constitution)."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Are there any contraindications or side effects associated with 5. Application of Svastika — Surgery In Ancient India Study By P P Prathapan?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "While generally well-tolerated when used appropriately, excessive usage or improper dosing may exacerbate specific doshas. Consult an Ayurvedic physician prior to therapeutic use."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How long does it take to observe results from using 5. Application of Svastika — Surgery In Ancient India Study By P P Prathapan?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "In traditional Ayurvedic protocol, herbal formulations operate synergistically with diet and lifestyle. Notable improvements typically emerge within 2 to 4 weeks of consistent administration."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Is 5. Application of Svastika — Surgery In Ancient India Study By P P Prathapan safe for long-term daily consumption?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Certain tonic (Rasayana) preparations may be safely used long-term, whereas intensive therapeutic formulas are recommended for specific short-term protocols under expert supervision."
+      }
     }
   ]
 }

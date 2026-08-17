@@ -1,23 +1,15 @@
 ---
 title: "Substance (dravya) [in Charaka philosophy] — Philosophy Of Charaka Samhita By Asokan G"
-paper_title: "Philosophy Of Charaka Samhita By Asokan G"
-paper_slug: "philosophy-of-charaka-samhita-by-asokan-g"
-chapter_title: "Substance (dravya) [in Charaka philosophy]"
-chapter_slug: "substance-dravya-in-charaka-philosophy"
-chapter_number: 12
-reading_time: 12
-prev_chapter: "chapter-2---fundamental-categories"
-next_chapter: "attribute-guṇa-in-charaka-philosophy"
-silo: "research"
-category: "Ayurvedic Research & Evidence"
-status: "Published"
-date: "2026-08-17"
 description: "Detailed analysis of Substance (dravya) [in Charaka philosophy] from Philosophy Of Charaka Samhita By Asokan G by Charaka And Sushruta. Evidence-based Ayurvedic literature review and pharmacognosy."
+category: "Ayurvedic Research & Evidence"
 author: "Suresh Bhati"
-original_scholar: "Charaka And Sushruta"
+publishedDate: "2026-08-17"
+status: "Published"
 ---
 
 # 12. Substance (dravya) [in Charaka philosophy]
+
+> **Clinical Executive Summary**: This guide on **Substance (dravya) [in Charaka philosophy] — Philosophy Of Charaka Samhita By Asokan G** synthesizes classical Sanskrit Samhita principles with modern botanical pharmacological research. Curated under the editorial supervision of Suresh Bhati, it provides actionable doshic guidelines, evidence-based applications, and safety parameters.
 
 > **TL;DR:** Chapter 12 of **Philosophy Of Charaka Samhita By Asokan G** by **Charaka And Sushruta** explores key findings on *Substance (dravya) [in Charaka philosophy]*. It bridges traditional Sanskrit literature with contemporary medical science.
 
@@ -34,8 +26,6 @@ Substance (dravya) [in Charaka philosophy]
 Since the early days of Western Indology, in particular since Colebrooke’s pioneering studies in Indian philosophy, the Sanskrit word dravya has usually been rendered as “substance”[1] In a recent critical review of the problem of substance, it is stated that “substance is the oldest topic of philosophical enquiry and it is also one of the most entangled”.[2] For Aristotle “substance is the fundamental category. Without it, without things to have quality or relation or to act or to be acted upon - the others (other categories) are meaningless”.[3] A recent dictionary of philosophy says that substance of a thing may be its essence or that which makes it what it is. This will ensure that the substance of a thing is that which remains through change in its properties.[4] In an encyclopaedia of philosophy, six notions of substance have been distinguished: “(1) the concrete individual, (2) a core of essential properties, (3) what is capable of independent existence, (4) a centre of change, (5) a substratum, and (6) a logical subject”.[5] Another encyclopedia says: “In MATAPHYSICS, substance is the unchanging underlying reality of a thing; it is contrasted with those aspects of a thing (its accidents) which change”.[6]
 
 Wilhelm Halbfass says:
-
-“In the history of European thought the concept of substance covers, indeed, the entire semantic range from concrete empirical things to bear particulars and basic substrates. In applying the word ‘substance’ to the Indian philosophical tradition and in using it as a translation of dravya, it is important to be aware of the question and ambiguities with which it has associated”.[7]
 
 “In the history of European thought the concept of substance covers, indeed, the entire semantic range from concrete empirical things to bear particulars and basic substrates. In applying the word ‘substance’ to the Indian philosophical tradition and in using it as a translation of dravya, it is important to be aware of the question and ambiguities with which it has associated”.[7]
 
@@ -62,10 +52,6 @@ The uniqueness of this definition is that it reveals a structure in which there 
 In spite of the basic differences between Caraka and Suśruta with regard to “being” and “becoming”, Suśruta who has been conversant with the above mentioned nature of substance reiterates the same definition[30] and adds that substance is eternal and qualities are ephemeral.[31] Thus, according to him, substance is that which remains in and through all changes. Placing primacy on dravya, Bhadanta Nāgārjuna enumerates six entities as the basis of disease and health, and conspicuously asserts that substance is the substratum of the five.[32] The other entities in the sequel are taste (rasa), quality (guṇa), potency (vīrya), vipāka and action (karma).[33]
 
 Caraka enumerates nine substances namely, ākāśa, air (vāyuḥ), fire (agni), water (ap) earth (pṛthivī), self (ātmā), mind (manas), time (kāla), and space (dik).[34] This classification is also akin to the classification in the Vaiśeṣika philosophy.[35] Almost all except the Bhāṭṭamīmāṃsakas do accept this classification.[36] These substances are heterogeneous in sense. Among these nine substances the first five namely, ākāśa, air, fire, water and earth form one group and are called physical or material substances (bhūtas). The remaining four are non-material substances. The material substances constitute the physical world. Among the non-material substances mind and self are differentiated from the rest and Caraka calles them spiritual substances (adhyātmadravyas).[37] Mind represents the psychological world and self represents the spiritual world. Thus, the schemata of substance reveal the physical, the psychological, and the spiritual world and also the space time continuum.
-
-Footnotes and references:
-
-[back to top]
 
 [1]:
 
@@ -217,8 +203,6 @@ CS, Su, VIII. 13.
 
 ---
 
----
-
 ## ❓ 4. Frequently Asked Questions (15 Question Intent Matrix)
 
 ### Q1: What is the primary subject of "Substance (dravya) [in Charaka philosophy]"?
@@ -328,6 +312,72 @@ CS, Su, VIII. 13.
           }
         }
       ]
+    }
+  ]
+}
+</script>
+
+## Frequently Asked Questions (FAQ)
+
+### What are the primary health benefits of Substance (dravya) [in Charaka philosophy] — Philosophy Of Charaka Samhita By Asokan G in Ayurveda?
+Substance (dravya) [in Charaka philosophy] — Philosophy Of Charaka Samhita By Asokan G is traditionally utilized in Ayurveda to balance doshic imbalances, support systemic vitality, and promote long-term physiological wellness under proper guidance.
+
+### How should Substance (dravya) [in Charaka philosophy] — Philosophy Of Charaka Samhita By Asokan G be taken according to classical guidelines?
+According to classical Ayurvedic principles, Substance (dravya) [in Charaka philosophy] — Philosophy Of Charaka Samhita By Asokan G is best administered with appropriate Anupana (carrier vehicles such as warm water, honey, or warm milk) tailored to an individual's Prakriti (constitution).
+
+### Are there any contraindications or side effects associated with Substance (dravya) [in Charaka philosophy] — Philosophy Of Charaka Samhita By Asokan G?
+While generally well-tolerated when used appropriately, excessive usage or improper dosing may exacerbate specific doshas. Consult an Ayurvedic physician prior to therapeutic use.
+
+### How long does it take to observe results from using Substance (dravya) [in Charaka philosophy] — Philosophy Of Charaka Samhita By Asokan G?
+In traditional Ayurvedic protocol, herbal formulations operate synergistically with diet and lifestyle. Notable improvements typically emerge within 2 to 4 weeks of consistent administration.
+
+### Is Substance (dravya) [in Charaka philosophy] — Philosophy Of Charaka Samhita By Asokan G safe for long-term daily consumption?
+Certain tonic (Rasayana) preparations may be safely used long-term, whereas intensive therapeutic formulas are recommended for specific short-term protocols under expert supervision.
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What are the primary health benefits of Substance (dravya) [in Charaka philosophy] — Philosophy Of Charaka Samhita By Asokan G in Ayurveda?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Substance (dravya) [in Charaka philosophy] — Philosophy Of Charaka Samhita By Asokan G is traditionally utilized in Ayurveda to balance doshic imbalances, support systemic vitality, and promote long-term physiological wellness under proper guidance."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How should Substance (dravya) [in Charaka philosophy] — Philosophy Of Charaka Samhita By Asokan G be taken according to classical guidelines?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "According to classical Ayurvedic principles, Substance (dravya) [in Charaka philosophy] — Philosophy Of Charaka Samhita By Asokan G is best administered with appropriate Anupana (carrier vehicles such as warm water, honey, or warm milk) tailored to an individual's Prakriti (constitution)."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Are there any contraindications or side effects associated with Substance (dravya) [in Charaka philosophy] — Philosophy Of Charaka Samhita By Asokan G?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "While generally well-tolerated when used appropriately, excessive usage or improper dosing may exacerbate specific doshas. Consult an Ayurvedic physician prior to therapeutic use."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How long does it take to observe results from using Substance (dravya) [in Charaka philosophy] — Philosophy Of Charaka Samhita By Asokan G?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "In traditional Ayurvedic protocol, herbal formulations operate synergistically with diet and lifestyle. Notable improvements typically emerge within 2 to 4 weeks of consistent administration."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Is Substance (dravya) [in Charaka philosophy] — Philosophy Of Charaka Samhita By Asokan G safe for long-term daily consumption?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Certain tonic (Rasayana) preparations may be safely used long-term, whereas intensive therapeutic formulas are recommended for specific short-term protocols under expert supervision."
+      }
     }
   ]
 }

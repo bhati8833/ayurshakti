@@ -20,15 +20,9 @@ This chapter from **Sushruta Samhita (Sutrasthana)** represents the classical su
 
 ---
 
-
 Sushruta Samhita, volume 1: Sutrasthana
 
-by Kaviraj Kunja Lal Bhishagratna | 1907 | 148,756 words
-
 This current book, the Sutra-sthana (english translation), is the first part of this voluminous medical work. It contains a large summary of the knowledge envelopig the medical aspects of Ayurveda. Descriptions of diseases, various diets and drugs, the duties of a surgeon, surgical procedures, medical training; these are only some of the numerous s...
-
-Go directly to: 
-Footnotes.
 
 Chapter XI - Alkaline cautery
 
@@ -47,8 +41,6 @@ Alkalis or alkaline potions will prove positively injurious to a patient laid up
 Alkalis for external application are prepared in three different potencies; the mild, middling and strong (extremely irritant. A physician wishing to prepare such an alkali, should first purify his body and mind, and observe a fast on a day in autumn marked by auspicious astral combinations. Then having ascended the brow of a hill, he should select a full grown Ashita-mushka (Ghanta parul) tree of middle age, and growing on soil recommended in the works on pharmacy and not anywise affected.
 
 Then having formally invoked the spirit of the aforesaid tree, which bears no white flowers) the physician should fell it on the day following,—reciting the Mantra which reads as:—
-
-“O thou possessed of mighty virtues, O thou endued with fiery potency, may thy potency never decrease or vanish. Stay here, O thou blissful one, execute my work, and after the performance thereof thou shalt be at liberty to ascend to the heavenly regions.”
 
 “O thou possessed of mighty virtues, O thou endued with fiery potency, may thy potency never decrease or vanish. Stay here, O thou blissful one, execute my work, and after the performance thereof thou shalt be at liberty to ascend to the heavenly regions.”
 
@@ -81,10 +73,6 @@ Authoritative verse on the subject:—
 An Alkali administered by an ignorant physician is to be dreaded more than poison, fire, blows with a weapon, thunder-bolts, or death itself; while in the hand of an intelligent physician it is potent enough to speedily subdue all serious diseases in which its use is indicated.
 
 Thus ends the eleventh Chapter of the Sutrasthana in the Sushruta Samhita which treats of the Pharmacy of Alkalis.
-
-Footnotes and references:
-
-[back to top]
 
 [1]:
 

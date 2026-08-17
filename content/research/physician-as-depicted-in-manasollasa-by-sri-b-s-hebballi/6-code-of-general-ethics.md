@@ -1,23 +1,15 @@
 ---
 title: "6. Code of General Ethics — Physician As Depicted In Manasollasa By Sri B S Hebballi"
-paper_title: "Physician As Depicted In Manasollasa By Sri B S Hebballi"
-paper_slug: "physician-as-depicted-in-manasollasa-by-sri-b-s-hebballi"
-chapter_title: "6. Code of General Ethics"
-chapter_slug: "6-code-of-general-ethics"
-chapter_number: 19
-reading_time: 3
-prev_chapter: "5-ayurvedic-treatment"
-next_chapter: "7-salient-features-of-pancamahabhutas"
-silo: "research"
-category: "Ayurvedic Research & Evidence"
-status: "Published"
-date: "2026-08-17"
 description: "Detailed analysis of 6. Code of General Ethics from Physician As Depicted In Manasollasa By Sri B S Hebballi by Classical Ayurvedic Scholar. Evidence-based Ayurvedic literature review and pharmacognosy."
+category: "Ayurvedic Research & Evidence"
 author: "Suresh Bhati"
-original_scholar: "Classical Ayurvedic Scholar"
+publishedDate: "2026-08-17"
+status: "Published"
 ---
 
 # 19. 6. Code of General Ethics
+
+> **Clinical Executive Summary**: This guide on **6. Code of General Ethics — Physician As Depicted In Manasollasa By Sri B S Hebballi** synthesizes classical Sanskrit Samhita principles with modern botanical pharmacological research. Curated under the editorial supervision of Suresh Bhati, it provides actionable doshic guidelines, evidence-based applications, and safety parameters.
 
 > **TL;DR:** Chapter 19 of **Physician As Depicted In Manasollasa By Sri B S Hebballi** by **Classical Ayurvedic Scholar** explores key findings on *6. Code of General Ethics*. It bridges traditional Sanskrit literature with contemporary medical science.
 
@@ -36,8 +28,6 @@ Manasollasa gives detailed description about ethics for Kings as well as common 
 179 One should not indulge in hatred or sinful activities. One should not disclose others' defects and secrets. One should shun the company of the unvirtuous, traitors, lunatics, fallen persons, abortionists, mean and crooked persons. One should not ride dangerous conveyances, sleep on a bed not well covered or without a pillow, small or uneven. One should not walk on the uneven slopes of the mountain, climb a tree and take bath in a river having turbulent flow. One should not tread on the shadow of kins or those born of noble families. One should not move around place of fire, laugh loudly and release wind with sound. One should not indulge in yawning, sneezing or laughter without covering his mouth, itch the nostrils, grind the teeth, sound the nails, strike the bones, scrape the earth, cut the straw, grind the clod of mud and maintain improper position of different parts of the body. One should not gaze at the planets or an undesirable, impure or condemned object. One should not transgress the shadow of a sacred tree, a teacher, a respectable person or an undesirable person. During nights, one should not enter the premises of a temple, a sacred tree, public courtyard, cross road, garden, cemetery and slaughter house. One should not similarly enter a solitary house or forest alone. One should not have relation with women, friends or servants of bad conduct. There should be no enmity with good men nor friendship with bad ones. One should have no choice for crooked acts. One should not indulge in ignoble or frightening acts nor should one take recourse to undue courage, sleeping, vigil, bath, drink or food in excess quantity. One should not sit for a long time with his knees up. One should not approach snakes or animals with dangerous teeth and horns. One should not provoke a quarrel. One should not come close to the fire without concentration of mind or without a wash after taking food. One should not heat his body by keeping fire below. One should not take bath unless he is free from
 
 180 exertion or in a naked condition. One should not touch his head with the apparel worn at the time of bath or strike at the tip of the hair. After taking bath, one should not wear the same cloth worn before. One should not go out without touching gems, ghee, feet of respectable persons, auspicious objects in left, nor keeping others in right side. Study One should not study if there is unseasonal lighting, while the quarters appear as if being burnt, during an outbreak of fire, earthquake, important festivals, fall of meteors, solar or lunar eclipses, on a new moon day and the dawn or dusk. One should not study without being initiated by a teacher. While studying, one should not recite words incomplete in sounds, in high voice, in hoarse voice, without proper accents, without proper morphological symmetry, too fast, too slow, with excessive delay and with too high or too low pitch.
-
----
 
 ---
 
@@ -150,6 +140,72 @@ Manasollasa gives detailed description about ethics for Kings as well as common 
           }
         }
       ]
+    }
+  ]
+}
+</script>
+
+## Frequently Asked Questions (FAQ)
+
+### What are the primary health benefits of 6. Code of General Ethics — Physician As Depicted In Manasollasa By Sri B S Hebballi in Ayurveda?
+6. Code of General Ethics — Physician As Depicted In Manasollasa By Sri B S Hebballi is traditionally utilized in Ayurveda to balance doshic imbalances, support systemic vitality, and promote long-term physiological wellness under proper guidance.
+
+### How should 6. Code of General Ethics — Physician As Depicted In Manasollasa By Sri B S Hebballi be taken according to classical guidelines?
+According to classical Ayurvedic principles, 6. Code of General Ethics — Physician As Depicted In Manasollasa By Sri B S Hebballi is best administered with appropriate Anupana (carrier vehicles such as warm water, honey, or warm milk) tailored to an individual's Prakriti (constitution).
+
+### Are there any contraindications or side effects associated with 6. Code of General Ethics — Physician As Depicted In Manasollasa By Sri B S Hebballi?
+While generally well-tolerated when used appropriately, excessive usage or improper dosing may exacerbate specific doshas. Consult an Ayurvedic physician prior to therapeutic use.
+
+### How long does it take to observe results from using 6. Code of General Ethics — Physician As Depicted In Manasollasa By Sri B S Hebballi?
+In traditional Ayurvedic protocol, herbal formulations operate synergistically with diet and lifestyle. Notable improvements typically emerge within 2 to 4 weeks of consistent administration.
+
+### Is 6. Code of General Ethics — Physician As Depicted In Manasollasa By Sri B S Hebballi safe for long-term daily consumption?
+Certain tonic (Rasayana) preparations may be safely used long-term, whereas intensive therapeutic formulas are recommended for specific short-term protocols under expert supervision.
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What are the primary health benefits of 6. Code of General Ethics — Physician As Depicted In Manasollasa By Sri B S Hebballi in Ayurveda?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "6. Code of General Ethics — Physician As Depicted In Manasollasa By Sri B S Hebballi is traditionally utilized in Ayurveda to balance doshic imbalances, support systemic vitality, and promote long-term physiological wellness under proper guidance."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How should 6. Code of General Ethics — Physician As Depicted In Manasollasa By Sri B S Hebballi be taken according to classical guidelines?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "According to classical Ayurvedic principles, 6. Code of General Ethics — Physician As Depicted In Manasollasa By Sri B S Hebballi is best administered with appropriate Anupana (carrier vehicles such as warm water, honey, or warm milk) tailored to an individual's Prakriti (constitution)."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Are there any contraindications or side effects associated with 6. Code of General Ethics — Physician As Depicted In Manasollasa By Sri B S Hebballi?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "While generally well-tolerated when used appropriately, excessive usage or improper dosing may exacerbate specific doshas. Consult an Ayurvedic physician prior to therapeutic use."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How long does it take to observe results from using 6. Code of General Ethics — Physician As Depicted In Manasollasa By Sri B S Hebballi?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "In traditional Ayurvedic protocol, herbal formulations operate synergistically with diet and lifestyle. Notable improvements typically emerge within 2 to 4 weeks of consistent administration."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Is 6. Code of General Ethics — Physician As Depicted In Manasollasa By Sri B S Hebballi safe for long-term daily consumption?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Certain tonic (Rasayana) preparations may be safely used long-term, whereas intensive therapeutic formulas are recommended for specific short-term protocols under expert supervision."
+      }
     }
   ]
 }

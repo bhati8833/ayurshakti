@@ -20,17 +20,11 @@ This chapter from **Sushruta Samhita (Uttaratantra)** represents the classical s
 
 ---
 
-
 Sushruta Samhita, Volume 6: Uttara-tantra
-
-by Kaviraj Kunja Lal Bhishagratna | 1916 | 113,078 words
 
 This current book, the Uttara-tantra (english translation) is the supplementary part of the Sushrutasamhita and deals various subjects such as diseases of the eye, treatment of fever, diarrhea, diseases resulting from superhuman influences, insanity, rules of health etc.
 
 The Sushruta Samhita is the most representative work of the Hindu system of m...
-
-Go directly to: 
-Footnotes.
 
 Chapter XXVII - Specific features of nine malignant Grahas
 
@@ -76,13 +70,7 @@ Libations of clarified butter with the drugs of the Sarva-gandha and Sarvaushadh
 
 “Obeisance to thee, O fire-god, obeisance to thee, O goddess Krittika, obeisance to thee, O Skanda, obeisance to thee, O lord of the Grahas (which has cast this malignant influence). With head down with deep humility, I supplicate thy favour. Dost thou accept the offerings I have made to thee. May my child get rid of the disease it has been suffering from. Makest it hale and hearty again.” 15.
 
-“Obeisance to thee, O fire-god, obeisance to thee, O goddess Krittika, obeisance to thee, O Skanda, obeisance to thee, O lord of the Grahas (which has cast this malignant influence). With head down with deep humility, I supplicate thy favour. Dost thou accept the offerings I have made to thee. May my child get rid of the disease it has been suffering from. Makest it hale and hearty again.” 15.
-
 Thus ends the twenty-seventh chapter of the Uttara-Tantra in the Sushruta-Samhita which deals with the specific features of an attack by the nine (malignant) Grahas.
-
-Footnotes and references:
-
-[back to top]
 
 [1]:
 

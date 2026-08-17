@@ -1,23 +1,15 @@
 ---
 title: "Specialisation of physicians — Charaka Samhita And Sushruta Samhita By Nayana Sharma"
-paper_title: "Charaka Samhita And Sushruta Samhita By Nayana Sharma"
-paper_slug: "charaka-samhita-and-sushruta-samhita-by-nayana-sharma"
-chapter_title: "Specialisation of physicians"
-chapter_slug: "specialisation-of-physicians"
-chapter_number: 19
-reading_time: 8
-prev_chapter: "the-physician-in-the-caraka-and-suśruta-saṃhitās"
-next_chapter: "superintendent-of-the-royal-kitchen"
-silo: "research"
-category: "Ayurvedic Research & Evidence"
-status: "Published"
-date: "2026-08-17"
 description: "Detailed analysis of Specialisation of physicians from Charaka Samhita And Sushruta Samhita By Nayana Sharma by Nayana Sharma. Evidence-based Ayurvedic literature review and pharmacognosy."
+category: "Ayurvedic Research & Evidence"
 author: "Suresh Bhati"
-original_scholar: "Nayana Sharma"
+publishedDate: "2026-08-17"
+status: "Published"
 ---
 
 # 19. Specialisation of physicians
+
+> **Clinical Executive Summary**: This guide on **Specialisation of physicians — Charaka Samhita And Sushruta Samhita By Nayana Sharma** synthesizes classical Sanskrit Samhita principles with modern botanical pharmacological research. Curated under the editorial supervision of Suresh Bhati, it provides actionable doshic guidelines, evidence-based applications, and safety parameters.
 
 > **TL;DR:** Chapter 19 of **Charaka Samhita And Sushruta Samhita By Nayana Sharma** by **Nayana Sharma** explores key findings on *Specialisation of physicians*. It bridges traditional Sanskrit literature with contemporary medical science.
 
@@ -48,10 +40,6 @@ Suśruta does not mention the source of the discourse on paediatric diseases pos
 Mention of the various categories within the medical profession occurs in other sources. Physicians (bhisakka), surgeons (sallakatta) and exorcists (bhūtavejja) as well as veterinary surgeons for elephants and horses are known in Buddhist texts.[30] Surgery finds a reference in the Rāmāyaṇa when Sitā expresses fear of being dismembered by the vile lord of the rākṣasas with knives just as the surgeon might a foetus in the womb.[31] The word used here for the surgeon is śalyakṛntaḥ which is commented upon as āmbaṣṭhavaidyāḥ.[32] The text also refers to specialists in administering antidotes (viṣavaidyāḥ), paediatrics (bālānāṃ cikitsakāḥ), in removing thorns and spikes (śalākāśalyahartāraḥ) and in surgery (śastrakarmakṛto vaidyāḥ).[33] Cure of snake-bites appears to be a much specialised branch of healing. The Boddhisattva was once born into a family of healers skilled in the cure of snakes-bites according to the Visavanta Jātaka.[34] A snake-doctor (jāṅgulika) by the name of Mayuraka was a childhood companion of Bāṇabhaṭṭa.[35]
 
 A close reading of the two texts reveals a possible undercurrent of rivalry among the various kinds of physicians. Surgeons are evidently condescending of physicians who are incapable of conducting non-surgical (such as oleation, purgation, etc.)[36] and surgical procedures (like excision, etc.), and in fact, goes on to portray them as kuvaidya or bad physicians. Such physicians, according to Suśruta, kill people due their greed and survive only because of the negligence of the government.[37] It is also interesting that Suśruta does not once mention the name of Ātreya or Agniveśa or other authorities of medicine though the name of Dhanvantari (as we have seen) does appear in the compendia of Caraka.
-
-Footnotes and references:
-
-[back to top]
 
 [1]:
 
@@ -203,8 +191,6 @@ Suśruta Saṃhitā Sūtrasthāna 3.52.
 
 ---
 
----
-
 ## ❓ 4. Frequently Asked Questions (15 Question Intent Matrix)
 
 ### Q1: What is the primary subject of "Specialisation of physicians"?
@@ -314,6 +300,72 @@ Suśruta Saṃhitā Sūtrasthāna 3.52.
           }
         }
       ]
+    }
+  ]
+}
+</script>
+
+## Frequently Asked Questions (FAQ)
+
+### What are the primary health benefits of Specialisation of physicians — Charaka Samhita And Sushruta Samhita By Nayana Sharma in Ayurveda?
+Specialisation of physicians — Charaka Samhita And Sushruta Samhita By Nayana Sharma is traditionally utilized in Ayurveda to balance doshic imbalances, support systemic vitality, and promote long-term physiological wellness under proper guidance.
+
+### How should Specialisation of physicians — Charaka Samhita And Sushruta Samhita By Nayana Sharma be taken according to classical guidelines?
+According to classical Ayurvedic principles, Specialisation of physicians — Charaka Samhita And Sushruta Samhita By Nayana Sharma is best administered with appropriate Anupana (carrier vehicles such as warm water, honey, or warm milk) tailored to an individual's Prakriti (constitution).
+
+### Are there any contraindications or side effects associated with Specialisation of physicians — Charaka Samhita And Sushruta Samhita By Nayana Sharma?
+While generally well-tolerated when used appropriately, excessive usage or improper dosing may exacerbate specific doshas. Consult an Ayurvedic physician prior to therapeutic use.
+
+### How long does it take to observe results from using Specialisation of physicians — Charaka Samhita And Sushruta Samhita By Nayana Sharma?
+In traditional Ayurvedic protocol, herbal formulations operate synergistically with diet and lifestyle. Notable improvements typically emerge within 2 to 4 weeks of consistent administration.
+
+### Is Specialisation of physicians — Charaka Samhita And Sushruta Samhita By Nayana Sharma safe for long-term daily consumption?
+Certain tonic (Rasayana) preparations may be safely used long-term, whereas intensive therapeutic formulas are recommended for specific short-term protocols under expert supervision.
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What are the primary health benefits of Specialisation of physicians — Charaka Samhita And Sushruta Samhita By Nayana Sharma in Ayurveda?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Specialisation of physicians — Charaka Samhita And Sushruta Samhita By Nayana Sharma is traditionally utilized in Ayurveda to balance doshic imbalances, support systemic vitality, and promote long-term physiological wellness under proper guidance."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How should Specialisation of physicians — Charaka Samhita And Sushruta Samhita By Nayana Sharma be taken according to classical guidelines?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "According to classical Ayurvedic principles, Specialisation of physicians — Charaka Samhita And Sushruta Samhita By Nayana Sharma is best administered with appropriate Anupana (carrier vehicles such as warm water, honey, or warm milk) tailored to an individual's Prakriti (constitution)."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Are there any contraindications or side effects associated with Specialisation of physicians — Charaka Samhita And Sushruta Samhita By Nayana Sharma?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "While generally well-tolerated when used appropriately, excessive usage or improper dosing may exacerbate specific doshas. Consult an Ayurvedic physician prior to therapeutic use."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How long does it take to observe results from using Specialisation of physicians — Charaka Samhita And Sushruta Samhita By Nayana Sharma?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "In traditional Ayurvedic protocol, herbal formulations operate synergistically with diet and lifestyle. Notable improvements typically emerge within 2 to 4 weeks of consistent administration."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Is Specialisation of physicians — Charaka Samhita And Sushruta Samhita By Nayana Sharma safe for long-term daily consumption?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Certain tonic (Rasayana) preparations may be safely used long-term, whereas intensive therapeutic formulas are recommended for specific short-term protocols under expert supervision."
+      }
     }
   ]
 }

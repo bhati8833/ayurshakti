@@ -20,17 +20,11 @@ This chapter from **Sushruta Samhita (Chikitsasthana)** represents the classical
 
 ---
 
-
 Sushruta Samhita, volume 4: Cikitsasthana
-
-by Kaviraj Kunja Lal Bhishagratna | 1911 | 123,229 words
 
 This current book, the Chikitsa-sthana (english translation), deals with therapeutics, surgical emergencies, geriatrics, aphrodisiacs and various other subjects.
 
 The Sushruta Samhita is the most representative work of the Hindu system of medicine. It embraces all that can possibly appertain to the science of medicine. Susruta-samhita is recognized...
-
-Go directly to: 
-Footnotes.
 
 Chapter XI - The diseases of the urinary tracts
 
@@ -85,10 +79,6 @@ Memorable Verse:—
 A poor patient, carefully following these directions of his medical advisers without the least demur or delay, should be able to get rid of the disease (Prameha) in the course of a year or even in less than that time. 13.
 
 Thus ends the eleventh Chapter of the Chikitsita Sthana in the Sushruta Samhita which deals with the medical treatment of Prameha.
-
-Footnotes and references:
-
-[back to top]
 
 [1]:
 

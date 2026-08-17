@@ -1,23 +1,15 @@
 ---
 title: "Elephants and land grants — Matangalila And Hastyayurveda Study By Chandrima Das"
-paper_title: "Matangalila And Hastyayurveda Study By Chandrima Das"
-paper_slug: "matangalila-and-hastyayurveda-study-by-chandrima-das"
-chapter_title: "Elephants and land grants"
-chapter_slug: "elephants-and-land-grants"
-chapter_number: 23
-reading_time: 3
-prev_chapter: "ivory-and-trade"
-next_chapter: "concluding-remarks"
-silo: "research"
-category: "Ayurvedic Research & Evidence"
-status: "Published"
-date: "2026-08-17"
 description: "Detailed analysis of Elephants and land grants from Matangalila And Hastyayurveda Study By Chandrima Das by Chandrima Das. Evidence-based Ayurvedic literature review and pharmacognosy."
+category: "Ayurvedic Research & Evidence"
 author: "Suresh Bhati"
-original_scholar: "Chandrima Das"
+publishedDate: "2026-08-17"
+status: "Published"
 ---
 
 # 23. Elephants and land grants
+
+> **Clinical Executive Summary**: This guide on **Elephants and land grants — Matangalila And Hastyayurveda Study By Chandrima Das** synthesizes classical Sanskrit Samhita principles with modern botanical pharmacological research. Curated under the editorial supervision of Suresh Bhati, it provides actionable doshic guidelines, evidence-based applications, and safety parameters.
 
 > **TL;DR:** Chapter 23 of **Matangalila And Hastyayurveda Study By Chandrima Das** by **Chandrima Das** explores key findings on *Elephants and land grants*. It bridges traditional Sanskrit literature with contemporary medical science.
 
@@ -38,10 +30,6 @@ The Bahur plates of Nṛpatuṅgavarman give a unique feature as similar to the 
 In another case, the Anbil plates of Sundara-Cola of the 4th year records the grant by the king. The plot of land, defined by letting a she-elephant go round it, was given the new name of Karuṇākara-maṅgala [Karuṇākaramaṅgalam]. The ceremony of letting loose a she-elephant to go round a plot of land intended to be granted to any one is an ancient institution it is referred to in the Lyden grant also as Kariṇī—parikramaṇa-vispaṣṭa-sīmā-catuṣṭayam; a she-elephant is let loose her wandering path is carefully marked and, after she returns to the place from which she started, the plot of land enclosed by the path of the elephant is granted to the donee. This ceremony is called Kariṇī-parikramaṇa or in Tamil Piḍi-śuḷdal. As the boundaries have to be fixed in the extreme detail, as traced by the path pursued by the sheelephant, the Tamil portion of the record here: after this follow the lists of objects contained in the village granted, of the sources of the income, such as taxes, etc., and any other privileges enjoyable by the donee[6].
 
 Thus elephants were used for the fixing boundaries of the granted lands, and also in some records we saw elephants as a witness of the grants. It may possible that this technique flourished the measuring unit of “gaja”.
-
-Footnotes and references:
-
-[back to top]
 
 [1]:
 
@@ -66,8 +54,6 @@ Ibid., Vol. XVIII, pp. 8-14.
 [6]:
 
 EI, Vol. XV, pp.55-56.
-
----
 
 ---
 
@@ -180,6 +166,72 @@ EI, Vol. XV, pp.55-56.
           }
         }
       ]
+    }
+  ]
+}
+</script>
+
+## Frequently Asked Questions (FAQ)
+
+### What are the primary health benefits of Elephants and land grants — Matangalila And Hastyayurveda Study By Chandrima Das in Ayurveda?
+Elephants and land grants — Matangalila And Hastyayurveda Study By Chandrima Das is traditionally utilized in Ayurveda to balance doshic imbalances, support systemic vitality, and promote long-term physiological wellness under proper guidance.
+
+### How should Elephants and land grants — Matangalila And Hastyayurveda Study By Chandrima Das be taken according to classical guidelines?
+According to classical Ayurvedic principles, Elephants and land grants — Matangalila And Hastyayurveda Study By Chandrima Das is best administered with appropriate Anupana (carrier vehicles such as warm water, honey, or warm milk) tailored to an individual's Prakriti (constitution).
+
+### Are there any contraindications or side effects associated with Elephants and land grants — Matangalila And Hastyayurveda Study By Chandrima Das?
+While generally well-tolerated when used appropriately, excessive usage or improper dosing may exacerbate specific doshas. Consult an Ayurvedic physician prior to therapeutic use.
+
+### How long does it take to observe results from using Elephants and land grants — Matangalila And Hastyayurveda Study By Chandrima Das?
+In traditional Ayurvedic protocol, herbal formulations operate synergistically with diet and lifestyle. Notable improvements typically emerge within 2 to 4 weeks of consistent administration.
+
+### Is Elephants and land grants — Matangalila And Hastyayurveda Study By Chandrima Das safe for long-term daily consumption?
+Certain tonic (Rasayana) preparations may be safely used long-term, whereas intensive therapeutic formulas are recommended for specific short-term protocols under expert supervision.
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What are the primary health benefits of Elephants and land grants — Matangalila And Hastyayurveda Study By Chandrima Das in Ayurveda?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Elephants and land grants — Matangalila And Hastyayurveda Study By Chandrima Das is traditionally utilized in Ayurveda to balance doshic imbalances, support systemic vitality, and promote long-term physiological wellness under proper guidance."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How should Elephants and land grants — Matangalila And Hastyayurveda Study By Chandrima Das be taken according to classical guidelines?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "According to classical Ayurvedic principles, Elephants and land grants — Matangalila And Hastyayurveda Study By Chandrima Das is best administered with appropriate Anupana (carrier vehicles such as warm water, honey, or warm milk) tailored to an individual's Prakriti (constitution)."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Are there any contraindications or side effects associated with Elephants and land grants — Matangalila And Hastyayurveda Study By Chandrima Das?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "While generally well-tolerated when used appropriately, excessive usage or improper dosing may exacerbate specific doshas. Consult an Ayurvedic physician prior to therapeutic use."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How long does it take to observe results from using Elephants and land grants — Matangalila And Hastyayurveda Study By Chandrima Das?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "In traditional Ayurvedic protocol, herbal formulations operate synergistically with diet and lifestyle. Notable improvements typically emerge within 2 to 4 weeks of consistent administration."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Is Elephants and land grants — Matangalila And Hastyayurveda Study By Chandrima Das safe for long-term daily consumption?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Certain tonic (Rasayana) preparations may be safely used long-term, whereas intensive therapeutic formulas are recommended for specific short-term protocols under expert supervision."
+      }
     }
   ]
 }

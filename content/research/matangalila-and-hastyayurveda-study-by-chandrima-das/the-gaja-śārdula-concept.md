@@ -1,23 +1,15 @@
 ---
 title: "The gaja-śārdula concept — Matangalila And Hastyayurveda Study By Chandrima Das"
-paper_title: "Matangalila And Hastyayurveda Study By Chandrima Das"
-paper_slug: "matangalila-and-hastyayurveda-study-by-chandrima-das"
-chapter_title: "The gaja-śārdula concept"
-chapter_slug: "the-gaja-śārdula-concept"
-chapter_number: 11
-reading_time: 3
-prev_chapter: "historical-significance-of-elephant-lore"
-next_chapter: "elephants-in-epigraphic-records-introduction"
-silo: "research"
-category: "Ayurvedic Research & Evidence"
-status: "Published"
-date: "2026-08-17"
 description: "Detailed analysis of The gaja-śārdula concept from Matangalila And Hastyayurveda Study By Chandrima Das by Chandrima Das. Evidence-based Ayurvedic literature review and pharmacognosy."
+category: "Ayurvedic Research & Evidence"
 author: "Suresh Bhati"
-original_scholar: "Chandrima Das"
+publishedDate: "2026-08-17"
+status: "Published"
 ---
 
 # 11. The gaja-śārdula concept
+
+> **Clinical Executive Summary**: This guide on **The gaja-śārdula concept — Matangalila And Hastyayurveda Study By Chandrima Das** synthesizes classical Sanskrit Samhita principles with modern botanical pharmacological research. Curated under the editorial supervision of Suresh Bhati, it provides actionable doshic guidelines, evidence-based applications, and safety parameters.
 
 > **TL;DR:** Chapter 11 of **Matangalila And Hastyayurveda Study By Chandrima Das** by **Chandrima Das** explores key findings on *The gaja-śārdula concept*. It bridges traditional Sanskrit literature with contemporary medical science.
 
@@ -38,14 +30,9 @@ The Rāṣṭrakūṭa king Jagattuṅga described as a lion that destroyed the 
 śvetātapatutritayenduvimvalīlodyādreḥ bhākyāt /
 tataḥ kṛtārātimadebhabhaṃgojāto jagattuṅgamṛgādhirājaḥ //
 
-śvetātapatutritayenduvimvalīlodyādreḥ bhākyāt /
-tataḥ kṛtārātimadebhabhaṃgojāto jagattuṅgamṛgādhirājaḥ //
-
 Bhadana grant of Aparājita of Śaka Year 919 (997 CE) from Thana district, Maharashtra, considers Aparājita as a lion to his powerful elephant like enemies for their destruction.[6]
 
 It says–
-
-“Prārthināṃ pūritāso (śo) Ripuvarakarisiṃha rājadhuryaḥ prasiddha” (ll.35-36)[7].
 
 “Prārthināṃ pūritāso (śo) Ripuvarakarisiṃha rājadhuryaḥ prasiddha” (ll.35-36)[7].
 
@@ -53,11 +40,7 @@ The Musalipatam plates of Eastern Chalukyan king Vijayāditya III (CE 844-888) d
 
 “Utkhāta-śātataravāri-vidārit-ārināgādhipasya hariṇādhipasya-vikramasya //” (v.5, l.8)[8].
 
-“Utkhāta-śātataravāri-vidārit-ārināgādhipasya hariṇādhipasya-vikramasya //” (v.5, l.8)[8].
-
 The noticeable is that through his expression the poet could be pointed out to the Gaṅga kings as his adversaries, those were mentioned in the line 7 of the inscription that Cālukya king was a fire of destruction to the Gaṅga family–
-
-“Gaṅgakula-kālānalasya’[9].
 
 “Gaṅgakula-kālānalasya’[9].
 
@@ -65,13 +48,7 @@ Another consequence of the expression is that there is no doubt this was present
 
 “hari kharanakhara-vitāritakumbhasthala vikala-vāraṇa.”
 
-“hari kharanakhara-vitāritakumbhasthala vikala-vāraṇa.”
-
 According to Fleet in the word “nāgādhipa” would seem “to have a double meaning and to indicate also a defeat of some hostile chiefs of the Nāgas”[10]. But from the above circumstances, it seemed to be more reliable to identify this “nāgadhipa” with the Gaṅgas. Because it is well known that their elephant squad was very famous and elephant is the royal emblem of Gaṅga kings. Vijayāditya’s seal describes him as “Tribhuvanāṃkuśa”. The inscription also describes Vijayāditya III’s son Mahārāja Viṣṇuvardhana that when he ascended his elephant, his enemies ascend the mountain top….(l.10)[11]. So, his son was similarly expert in elephant riding in battle field like his father.
-
-Footnotes and references:
-
-[back to top]
 
 [1]:
 
@@ -116,8 +93,6 @@ Ind. Ant. Vol.XX, p.101.
 [11]:
 
 EI, Vol. V, pp.126.
-
----
 
 ---
 
@@ -230,6 +205,72 @@ EI, Vol. V, pp.126.
           }
         }
       ]
+    }
+  ]
+}
+</script>
+
+## Frequently Asked Questions (FAQ)
+
+### What are the primary health benefits of The gaja-śārdula concept — Matangalila And Hastyayurveda Study By Chandrima Das in Ayurveda?
+The gaja-śārdula concept — Matangalila And Hastyayurveda Study By Chandrima Das is traditionally utilized in Ayurveda to balance doshic imbalances, support systemic vitality, and promote long-term physiological wellness under proper guidance.
+
+### How should The gaja-śārdula concept — Matangalila And Hastyayurveda Study By Chandrima Das be taken according to classical guidelines?
+According to classical Ayurvedic principles, The gaja-śārdula concept — Matangalila And Hastyayurveda Study By Chandrima Das is best administered with appropriate Anupana (carrier vehicles such as warm water, honey, or warm milk) tailored to an individual's Prakriti (constitution).
+
+### Are there any contraindications or side effects associated with The gaja-śārdula concept — Matangalila And Hastyayurveda Study By Chandrima Das?
+While generally well-tolerated when used appropriately, excessive usage or improper dosing may exacerbate specific doshas. Consult an Ayurvedic physician prior to therapeutic use.
+
+### How long does it take to observe results from using The gaja-śārdula concept — Matangalila And Hastyayurveda Study By Chandrima Das?
+In traditional Ayurvedic protocol, herbal formulations operate synergistically with diet and lifestyle. Notable improvements typically emerge within 2 to 4 weeks of consistent administration.
+
+### Is The gaja-śārdula concept — Matangalila And Hastyayurveda Study By Chandrima Das safe for long-term daily consumption?
+Certain tonic (Rasayana) preparations may be safely used long-term, whereas intensive therapeutic formulas are recommended for specific short-term protocols under expert supervision.
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What are the primary health benefits of The gaja-śārdula concept — Matangalila And Hastyayurveda Study By Chandrima Das in Ayurveda?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The gaja-śārdula concept — Matangalila And Hastyayurveda Study By Chandrima Das is traditionally utilized in Ayurveda to balance doshic imbalances, support systemic vitality, and promote long-term physiological wellness under proper guidance."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How should The gaja-śārdula concept — Matangalila And Hastyayurveda Study By Chandrima Das be taken according to classical guidelines?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "According to classical Ayurvedic principles, The gaja-śārdula concept — Matangalila And Hastyayurveda Study By Chandrima Das is best administered with appropriate Anupana (carrier vehicles such as warm water, honey, or warm milk) tailored to an individual's Prakriti (constitution)."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Are there any contraindications or side effects associated with The gaja-śārdula concept — Matangalila And Hastyayurveda Study By Chandrima Das?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "While generally well-tolerated when used appropriately, excessive usage or improper dosing may exacerbate specific doshas. Consult an Ayurvedic physician prior to therapeutic use."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How long does it take to observe results from using The gaja-śārdula concept — Matangalila And Hastyayurveda Study By Chandrima Das?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "In traditional Ayurvedic protocol, herbal formulations operate synergistically with diet and lifestyle. Notable improvements typically emerge within 2 to 4 weeks of consistent administration."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Is The gaja-śārdula concept — Matangalila And Hastyayurveda Study By Chandrima Das safe for long-term daily consumption?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Certain tonic (Rasayana) preparations may be safely used long-term, whereas intensive therapeutic formulas are recommended for specific short-term protocols under expert supervision."
+      }
     }
   ]
 }

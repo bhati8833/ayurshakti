@@ -20,17 +20,11 @@ This chapter from **Sushruta Samhita (Nidanasthana)** represents the classical s
 
 ---
 
-
 Sushruta Samhita, volume 2: Nidanasthana
-
-by Kaviraj Kunja Lal Bhishagratna | 1911 | 37,609 words
 
 This current book, the Nidana-sthana (english translation), is the second part of this voluminous medical work. It deals with diseases: their prognosis, their cause, their symptoms and their pathogenesis (development of the disease).
 
 The Sushruta Samhita is the most representative work of the Hindu system of medicine. It embraces all that can poss...
-
-Go directly to: 
-Footnotes.
 
 Chapter XIV - Diagnosis of diseases of the penis
 
@@ -95,10 +89,6 @@ Prognosis:—
 Of the above enumerated malignant diseases of the penis, those known as Mansarvuda, Mansapaka, Vidradhi and Tilakalak shoulda be deemed as incurable. 22.
 
 Thus ends the fourteenth Chapter of the Nidana Sthana in the Sushruta Samhita which treats of Nidana of different types of Shukadohsa.
-
-Footnotes and references:
-
-[back to top]
 
 [1]:
 

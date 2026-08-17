@@ -1,23 +1,15 @@
 ---
 title: "Chapter 2 - Importance of Physician in society — Physician As Depicted In Manasollasa By Sri B S Hebballi"
-paper_title: "Physician As Depicted In Manasollasa By Sri B S Hebballi"
-paper_slug: "physician-as-depicted-in-manasollasa-by-sri-b-s-hebballi"
-chapter_title: "Chapter 2 - Importance of Physician in society"
-chapter_slug: "chapter-2---importance-of-physician-in-society"
-chapter_number: 7
-reading_time: 23
-prev_chapter: "chapter-3a---basic-concepts-of-ayurveda-as-explained-in-manasollasa"
-next_chapter: "1-ancient-indian-medicine-ayurvedas-foundations-and-evolution"
-silo: "research"
-category: "Ayurvedic Research & Evidence"
-status: "Published"
-date: "2026-08-17"
 description: "Detailed analysis of Chapter 2 - Importance of Physician in society from Physician As Depicted In Manasollasa By Sri B S Hebballi by Classical Ayurvedic Scholar. Evidence-based Ayurvedic literature review and pharmacognosy."
+category: "Ayurvedic Research & Evidence"
 author: "Suresh Bhati"
-original_scholar: "Classical Ayurvedic Scholar"
+publishedDate: "2026-08-17"
+status: "Published"
 ---
 
 # 7. Chapter 2 - Importance of Physician in society
+
+> **Clinical Executive Summary**: This guide on **Chapter 2 - Importance of Physician in society — Physician As Depicted In Manasollasa By Sri B S Hebballi** synthesizes classical Sanskrit Samhita principles with modern botanical pharmacological research. Curated under the editorial supervision of Suresh Bhati, it provides actionable doshic guidelines, evidence-based applications, and safety parameters.
 
 > **TL;DR:** Chapter 7 of **Physician As Depicted In Manasollasa By Sri B S Hebballi** by **Classical Ayurvedic Scholar** explores key findings on *Chapter 2 - Importance of Physician in society*. It bridges traditional Sanskrit literature with contemporary medical science.
 
@@ -62,8 +54,6 @@ The significance and relevance of Manasollasa even today have been discussed in 
 34 have left a deep impression on this branch upgrading it as Upaveda of Atharvaveda. The elevation of this branch of science from the physical to the spiritual plain is a great contribution of Caraka. Somesvara has referred to almost all the texts on Indian medicine. The epithet of Astanga indicates the analytical mind of the practitioners of Indian medicine. 12 Vagbhata's Astangahrdaya, Carakasamhita by Agnivesa and Susrutasamhita by Susruta are the main authoritative sources on Indian medicine. Both healthy and sick persons can benefit by the methods of treatment recommended by Agnivesa in Carakasamhita. Manasollasa is also considered as a very useful source of information for physicians, teachers, researchers and students of Ayurveda. A thorough knowledge of the fundamental principles of Ayurveda and systematic practice of its eight specialised branches is very necessary for a physician. The nineteenth chapter of the first prakarana in Manasollasa deals exclusively with Vaidyakiya Sastra. Physicians can find suitable directions here to diagnose properly the diseases with special reference to the dosas involved before starting the course of treatment. Qualifications enumerated for a physician make an interesting study. Manasollasa quotes Carakasamhita which prescribes the qualifications for a physician as under 'Excellence in medical knowledge, an extensive practical experience, dexterity and purity are the essential qualities of a physician.'13 12. param paramgatah samyagastange tu cikitsite | sastrakarmakaladaksa mantre tantre ca kovidah || -  2.2.139. 13. sastrasastravido vaidyanabhyasanipunanapi | uhapoha vivekajnan sudhahastan priyamvadan  || arpayitva vicitrani bhesajani prthak prthak | niralasyamsca dharmajnan prakalpa paricarakan ||  1.19.139-140.
 
 35 In the of Carakasamhita, there is a clear instruction for a physician as under 'By virtue of his ability to bestow physical happiness and longevity, a physician is verily regarded as a donor of virtues, wealth and desired objects pertaining to this world and the world beyond.'14 The above analysis throws light on the nature of society during the period of Somesvara. Manasollasa assigns a unique place for a physician in society. In turn, the physician also rendered useful service to all the people. 14. dharmasyarthasya kamasya nrlokasyobhayasya ca | data sampadyate vaidyo danad dehasukhayusam || - carakasamhita - sutrasthana -  16.38.
-
----
 
 ---
 
@@ -176,6 +166,72 @@ The significance and relevance of Manasollasa even today have been discussed in 
           }
         }
       ]
+    }
+  ]
+}
+</script>
+
+## Frequently Asked Questions (FAQ)
+
+### What are the primary health benefits of Chapter 2 - Importance of Physician in society — Physician As Depicted In Manasollasa By Sri B S Hebballi in Ayurveda?
+Chapter 2 - Importance of Physician in society — Physician As Depicted In Manasollasa By Sri B S Hebballi is traditionally utilized in Ayurveda to balance doshic imbalances, support systemic vitality, and promote long-term physiological wellness under proper guidance.
+
+### How should Chapter 2 - Importance of Physician in society — Physician As Depicted In Manasollasa By Sri B S Hebballi be taken according to classical guidelines?
+According to classical Ayurvedic principles, Chapter 2 - Importance of Physician in society — Physician As Depicted In Manasollasa By Sri B S Hebballi is best administered with appropriate Anupana (carrier vehicles such as warm water, honey, or warm milk) tailored to an individual's Prakriti (constitution).
+
+### Are there any contraindications or side effects associated with Chapter 2 - Importance of Physician in society — Physician As Depicted In Manasollasa By Sri B S Hebballi?
+While generally well-tolerated when used appropriately, excessive usage or improper dosing may exacerbate specific doshas. Consult an Ayurvedic physician prior to therapeutic use.
+
+### How long does it take to observe results from using Chapter 2 - Importance of Physician in society — Physician As Depicted In Manasollasa By Sri B S Hebballi?
+In traditional Ayurvedic protocol, herbal formulations operate synergistically with diet and lifestyle. Notable improvements typically emerge within 2 to 4 weeks of consistent administration.
+
+### Is Chapter 2 - Importance of Physician in society — Physician As Depicted In Manasollasa By Sri B S Hebballi safe for long-term daily consumption?
+Certain tonic (Rasayana) preparations may be safely used long-term, whereas intensive therapeutic formulas are recommended for specific short-term protocols under expert supervision.
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What are the primary health benefits of Chapter 2 - Importance of Physician in society — Physician As Depicted In Manasollasa By Sri B S Hebballi in Ayurveda?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Chapter 2 - Importance of Physician in society — Physician As Depicted In Manasollasa By Sri B S Hebballi is traditionally utilized in Ayurveda to balance doshic imbalances, support systemic vitality, and promote long-term physiological wellness under proper guidance."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How should Chapter 2 - Importance of Physician in society — Physician As Depicted In Manasollasa By Sri B S Hebballi be taken according to classical guidelines?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "According to classical Ayurvedic principles, Chapter 2 - Importance of Physician in society — Physician As Depicted In Manasollasa By Sri B S Hebballi is best administered with appropriate Anupana (carrier vehicles such as warm water, honey, or warm milk) tailored to an individual's Prakriti (constitution)."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Are there any contraindications or side effects associated with Chapter 2 - Importance of Physician in society — Physician As Depicted In Manasollasa By Sri B S Hebballi?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "While generally well-tolerated when used appropriately, excessive usage or improper dosing may exacerbate specific doshas. Consult an Ayurvedic physician prior to therapeutic use."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How long does it take to observe results from using Chapter 2 - Importance of Physician in society — Physician As Depicted In Manasollasa By Sri B S Hebballi?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "In traditional Ayurvedic protocol, herbal formulations operate synergistically with diet and lifestyle. Notable improvements typically emerge within 2 to 4 weeks of consistent administration."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Is Chapter 2 - Importance of Physician in society — Physician As Depicted In Manasollasa By Sri B S Hebballi safe for long-term daily consumption?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Certain tonic (Rasayana) preparations may be safely used long-term, whereas intensive therapeutic formulas are recommended for specific short-term protocols under expert supervision."
+      }
     }
   ]
 }

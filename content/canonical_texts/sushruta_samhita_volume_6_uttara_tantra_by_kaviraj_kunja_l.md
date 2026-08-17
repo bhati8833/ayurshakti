@@ -9,19 +9,11 @@ date: "2026-08-17"
 description: "samhita and deals various subjects such as diseases of the eye, treatment of fever, diarrhea, diseases resulting from superhuman influences, insanity, rules of health etc."
 ---
 
-**Author / Source:** by Kaviraj Kunja Lal Bhishagratna
-
-
-**Total Chapters/Sections:** 74
-
 ---
 
 ## 1. Plate I
 
-
 Sushruta Samhita, Volume 6: Uttara-tantra
-
-by Kaviraj Kunja Lal Bhishagratna | 1916 | 113,078 words
 
 This current book, the Uttara-tantra (english translation) is the supplementary part of the Sushrutasamhita and deals various subjects such as diseases of the eye, treatment of fever, diarrhea, diseases resulting from superhuman influences, insanity, rules of health etc.
 
@@ -35,10 +27,7 @@ Kaviraj Kunja Lall Bhishgratna, M.R.A.S. (Lond.)
 
 ## 2. Title Page
 
-
 Sushruta Samhita, Volume 6: Uttara-tantra
-
-by Kaviraj Kunja Lal Bhishagratna | 1916 | 113,078 words
 
 This current book, the Uttara-tantra (english translation) is the supplementary part of the Sushrutasamhita and deals various subjects such as diseases of the eye, treatment of fever, diarrhea, diseases resulting from superhuman influences, insanity, rules of health etc.
 
@@ -81,10 +70,7 @@ S. L. BHADURI, B. L.
 
 ## 3. Canto I - Shalakya-tantra (ears, eyes, nose, mouth and throat)
 
-
 Sushruta Samhita, Volume 6: Uttara-tantra
-
-by Kaviraj Kunja Lal Bhishagratna | 1916 | 113,078 words
 
 This current book, the Uttara-tantra (english translation) is the supplementary part of the Sushrutasamhita and deals various subjects such as diseases of the eye, treatment of fever, diarrhea, diseases resulting from superhuman influences, insanity, rules of health etc.
 
@@ -98,17 +84,11 @@ Canto I - Shalakya-tantra (ears, eyes, nose, mouth and throat)
 
 ## 4. Chapter III - Pathology of the diseases of the eye-lids
 
-
 Sushruta Samhita, Volume 6: Uttara-tantra
-
-by Kaviraj Kunja Lal Bhishagratna | 1916 | 113,078 words
 
 This current book, the Uttara-tantra (english translation) is the supplementary part of the Sushrutasamhita and deals various subjects such as diseases of the eye, treatment of fever, diarrhea, diseases resulting from superhuman influences, insanity, rules of health etc.
 
 The Sushruta Samhita is the most representative work of the Hindu system of m...
-
-Go directly to: 
-Footnotes.
 
 Chapter III - Pathology of the diseases of the eye-lids
 
@@ -144,10 +124,6 @@ An accumulation of the deranged Doshas about the eye-lashes makes them rough and
 
 Thus ends the third chapter of the Uttara-Tantra in the Sushruta Samhita which deals with the pathology of the diseases of the eye-lids.
 
-Footnotes and references:
-
-[back to top]
-
 [1]:
 
 This disease (Kumbhikā) is due to the concerted action of the three Doshas.
@@ -168,17 +144,11 @@ Certain editions read Nagana.
 
 ## 5. Chapter IV - Pathology of the diseases of the sclerotic coat
 
-
 Sushruta Samhita, Volume 6: Uttara-tantra
-
-by Kaviraj Kunja Lal Bhishagratna | 1916 | 113,078 words
 
 This current book, the Uttara-tantra (english translation) is the supplementary part of the Sushrutasamhita and deals various subjects such as diseases of the eye, treatment of fever, diarrhea, diseases resulting from superhuman influences, insanity, rules of health etc.
 
 The Sushruta Samhita is the most representative work of the Hindu system of m...
-
-Go directly to: 
-Footnotes.
 
 Chapter IV - Pathology of the diseases of the sclerotic coat
 
@@ -196,10 +166,6 @@ The appearance of dark brown specks resembling flesh in colour or of those havin
 
 Thus ends the fourth chapter of the Uttara-Tantra in the Sushruta Samhita which treats of the pathology of the diseases of the Sceloretic region of the eye.
 
-Footnotes and references:
-
-[back to top]
-
 [1]:
 
 The reading in Mādhava’s Nidāna is quite different here, and Dallana seems to support that. It is defined as the disease in which a hard speck appears like a drop of water on the white coat and looks like bell-metal in colour.
@@ -208,17 +174,11 @@ The reading in Mādhava’s Nidāna is quite different here, and Dallana seems t
 
 ## 6. Chapter II - Pathology of the diseases of the eye-joints
 
-
 Sushruta Samhita, Volume 6: Uttara-tantra
-
-by Kaviraj Kunja Lal Bhishagratna | 1916 | 113,078 words
 
 This current book, the Uttara-tantra (english translation) is the supplementary part of the Sushrutasamhita and deals various subjects such as diseases of the eye, treatment of fever, diarrhea, diseases resulting from superhuman influences, insanity, rules of health etc.
 
 The Sushruta Samhita is the most representative work of the Hindu system of m...
-
-Go directly to: 
-Footnotes.
 
 Chapter II - Pathology of the diseases of the eye-joints
 
@@ -241,10 +201,6 @@ Symptoms of Parvani, etc.:—
 A small, round and copper-coloured swelling occurring at the joining of the Krishna-mandala and Shukla-mandala, due to the vitiated state of the local blood and attended with a burning sensation and aching pain, is called Parvani. A swelling possessed of the preceding features and occurring at the very same joining is called Alaji (Keratitis)[6]. A cyst or swelling (Granthi) characterised by an itching sensation appearing on the joining of the eye-lids and eye-lashes owing to the germination of parasites (Krimi) in those localities, is called Krimi-granthi. Parasites of different forms in such a case are found to infest the regions where the inner lining of the Vartma-mandala (eye-lid) is connected with the Shukla-mandala (Sclerotic coat) of the eye and to invade and vitiate the substance of the eye-ball. 4—5.
 
 Thus ends the second chapter of the Uttara-Tantra in the Sushruta Samhita which deals with the pathology of the diseases peculiar to the Sandhi (unions) of the eye.
-
-Footnotes and references:
-
-[back to top]
 
 [1]:
 
@@ -274,17 +230,11 @@ The difference between a case of Parvani and that of Alaji is that the swelling 
 
 ## 7. Chapter V - Pathology of the diseases of the black part of the eye
 
-
 Sushruta Samhita, Volume 6: Uttara-tantra
-
-by Kaviraj Kunja Lal Bhishagratna | 1916 | 113,078 words
 
 This current book, the Uttara-tantra (english translation) is the supplementary part of the Sushrutasamhita and deals various subjects such as diseases of the eye, treatment of fever, diarrhea, diseases resulting from superhuman influences, insanity, rules of health etc.
 
 The Sushruta Samhita is the most representative work of the Hindu system of m...
-
-Go directly to: 
-Footnotes.
 
 Chapter V - Pathology of the diseases of the black part of the eye
 
@@ -304,10 +254,6 @@ The appearance of a whitish milky film over the black part of the eye slowly shr
 
 Thus ends the fifth chapter of the Uttara-Tantra in the Sushruta Samhita which treats of the pathology of the diseases of the black part of the eye.
 
-Footnotes and references:
-
-[back to top]
-
 [1]:
 
 According to Mādhava’s reading in his Nidāna, this disease need not necessarily result from an attack of Akshi-kopa, and there need not be an acute pain, and it would be incurable.
@@ -316,17 +262,11 @@ According to Mādhava’s reading in his Nidāna, this disease need not necessar
 
 ## 8. Chapter VI - Pathology of the diseases affecting the eyes as a whole
 
-
 Sushruta Samhita, Volume 6: Uttara-tantra
-
-by Kaviraj Kunja Lal Bhishagratna | 1916 | 113,078 words
 
 This current book, the Uttara-tantra (english translation) is the supplementary part of the Sushrutasamhita and deals various subjects such as diseases of the eye, treatment of fever, diarrhea, diseases resulting from superhuman influences, insanity, rules of health etc.
 
 The Sushruta Samhita is the most representative work of the Hindu system of m...
-
-Go directly to: 
-Footnotes.
 
 Chapter VI - Pathology of the diseases affecting the eyes as a whole
 
@@ -378,10 +318,6 @@ A case of Sirotpata, if not attended to and remedied in time through ignorance, 
 
 Thus ends the sixth chapter of the Uttara-Tantra in the Sushruta Samhita which treats of the diseases affecting the eye as a whole.
 
-Footnotes and references:
-
-[back to top]
-
 [1]:
 
 Mādhava in the Nidāna does not mention the eye-lashes.
@@ -394,10 +330,7 @@ Mādhava in the Nidāna reads “dandahyate” which means that a highly burning
 
 ## 9. Preface
 
-
 Sushruta Samhita, Volume 6: Uttara-tantra
-
-by Kaviraj Kunja Lal Bhishagratna | 1916 | 113,078 words
 
 This current book, the Uttara-tantra (english translation) is the supplementary part of the Sushrutasamhita and deals various subjects such as diseases of the eye, treatment of fever, diarrhea, diseases resulting from superhuman influences, insanity, rules of health etc.
 
@@ -419,11 +352,7 @@ Surgeon General Sir Pardey Lukis, M. D., I. M. S., K. C. S. I., Director-General
 
 “Many of the so-called discoveries of recent years are merely re-discoveries of the facts known centuries ago to the ancients (Indians).”
 
-“Many of the so-called discoveries of recent years are merely re-discoveries of the facts known centuries ago to the ancients (Indians).”
-
 In noticing the first volume of this very work, the British Medical Journal observed in its issue of November, 1912:—
-
-“It is certain that in this ancient medical book there are traces of knowledge which is comparatively recent in the West.”
 
 “It is certain that in this ancient medical book there are traces of knowledge which is comparatively recent in the West.”
 
@@ -441,17 +370,11 @@ May 25, 1916.
 
 ## 10. Chapter VIII - Classification and treatment of ocular affections
 
-
 Sushruta Samhita, Volume 6: Uttara-tantra
-
-by Kaviraj Kunja Lal Bhishagratna | 1916 | 113,078 words
 
 This current book, the Uttara-tantra (english translation) is the supplementary part of the Sushrutasamhita and deals various subjects such as diseases of the eye, treatment of fever, diarrhea, diseases resulting from superhuman influences, insanity, rules of health etc.
 
 The Sushruta Samhita is the most representative work of the Hindu system of m...
-
-Go directly to: 
-Footnotes.
 
 Chapter VIII - Classification and treatment of ocular affections
 
@@ -479,10 +402,6 @@ Palliative or temporary relief is all that can be offered in any of the six type
 
 Thus ends the eighth chapter of the Uttara-Tantra in the Sushruta Samhita which deals with the classification of eye-diseases according to the different modes of treatment.
 
-Footnotes and references:
-
-[back to top]
-
 [1]:
 
 See Chapter IV, para 2, Uttara-Tantara.
@@ -491,17 +410,11 @@ See Chapter IV, para 2, Uttara-Tantara.
 
 ## 11. Chapter VII - Pathology of the diseases of the Pupil
 
-
 Sushruta Samhita, Volume 6: Uttara-tantra
-
-by Kaviraj Kunja Lal Bhishagratna | 1916 | 113,078 words
 
 This current book, the Uttara-tantra (english translation) is the supplementary part of the Sushrutasamhita and deals various subjects such as diseases of the eye, treatment of fever, diarrhea, diseases resulting from superhuman influences, insanity, rules of health etc.
 
 The Sushruta Samhita is the most representative work of the Hindu system of m...
-
-Go directly to: 
-Footnotes.
 
 Chapter VII - Pathology of the diseases of the Pupil
 
@@ -557,10 +470,6 @@ We have thus finished describing separately the diagnostic traits of the seventy
 
 Thus ends the seventh chapter of the Uttara-Tantra in the Sushruta Samhita which treats of the pathology of the diseases peculiar to the pupil of the eye.
 
-Footnotes and references:
-
-[back to top]
-
 [1]:
 
 According to Nimi, quoted in Mādhava’s commentary by Śrīkantha, the dimension of the Drishti is equal to only a half of that of a Masura-pulse.
@@ -585,17 +494,11 @@ The head is liable to be over-heated by the smelling of poison or poisonous obje
 
 ## 12. Chapter IX - Treatment of Vataja Ophthalmia
 
-
 Sushruta Samhita, Volume 6: Uttara-tantra
-
-by Kaviraj Kunja Lal Bhishagratna | 1916 | 113,078 words
 
 This current book, the Uttara-tantra (english translation) is the supplementary part of the Sushrutasamhita and deals various subjects such as diseases of the eye, treatment of fever, diarrhea, diseases resulting from superhuman influences, insanity, rules of health etc.
 
 The Sushruta Samhita is the most representative work of the Hindu system of m...
-
-Go directly to: 
-Footnotes.
 
 Chapter IX - Treatment of Vataja Ophthalmia
 
@@ -614,10 +517,6 @@ Treatment of Shushkakshi-paka:—
 Saindhava, Devadaru and Shunthi and the expressed juice of Matulunga, water, breast-milk and clarified butter mixed together and duly prepared (in the manner of Rasa-kriya) should be prescribed as an Anjana in cases of Shushkakshi-paka. The taking of clarified butter cooked with the drugs of the Jivaniya group and the filling of the cavity of the eye with the same, as well as snuffing with the Anu-taila[4] are also efficacious in such cases. Washes composed of cold milk with the admixture of Saindhava salt or of milk cooked with Rajani and. Deva-daru and mixed with (a little quantity of) Saindhava are efficacious. Mahaushadha (Sunthi) rubbed over a stone-slab with clarified butter and breast-milk is also recommended as an Anjana (eye-salve)[5]. The Vasa (essence of the flesh) of aquatic animals or of those which frequent swampy grounds, mixed with a little quantity of powdered Shunthi and Sanidhava salt (and rubbed on stone-slab) should be applied to the eyes as an Anjana (collyrium) in a case of Shushkakshi-paka (Non-secreting type of conjunctivites). Let the intelligent physician treat the sight-destroying Vataja affections of the eye of what-soever kind in accordance with the principle herein inculcated. 4–5.
 
 Thus ends the ninth Chapter of the Uttara-Tantra in the Sushruta Samhita which deals with the medical treatment of Vataja Abhishyanda.
-
-Footnotes and references:
-
-[back to top]
 
 [1]:
 
@@ -643,17 +542,11 @@ This couplet may also be translated as follows:—“Anjana (black-antimony) rub
 
 ## 13. Chapter X - Treatment of Pittaja Ophthalmia
 
-
 Sushruta Samhita, Volume 6: Uttara-tantra
-
-by Kaviraj Kunja Lal Bhishagratna | 1916 | 113,078 words
 
 This current book, the Uttara-tantra (english translation) is the supplementary part of the Sushrutasamhita and deals various subjects such as diseases of the eye, treatment of fever, diarrhea, diseases resulting from superhuman influences, insanity, rules of health etc.
 
 The Sushruta Samhita is the most representative work of the Hindu system of m...
-
-Go directly to: 
-Footnotes.
 
 Chapter X - Treatment of Pittaja Ophthalmia
 
@@ -682,10 +575,6 @@ In a case of Shukti-paka an Anjana with cooling drugs should be speedily employe
 Clarified butter should be administered in a case of Dhuma-darshin and the procedure and the remedial measures laid down in connection with Rakta-pitta and Pitta-origined Visarpa (Erysipelas) as well as the Pitta-sub-duing remedies[7] should be likewise employed therein. 9.
 
 Thus ends the tenth chapter in the Uttra-Tantra of the Sushruta Samhita which deals with of the curative treatment of Pittabhishyanda.
-
-Footnotes and references:
-
-[back to top]
 
 [1]:
 
@@ -719,17 +608,11 @@ Traiphala-Ghrita is prepared by duly cooking clarified butter with the Kalka and
 
 ## 14. Chapter XIV - Treatment of eye-diseases which require Incision
 
-
 Sushruta Samhita, Volume 6: Uttara-tantra
-
-by Kaviraj Kunja Lal Bhishagratna | 1916 | 113,078 words
 
 This current book, the Uttara-tantra (english translation) is the supplementary part of the Sushrutasamhita and deals various subjects such as diseases of the eye, treatment of fever, diarrhea, diseases resulting from superhuman influences, insanity, rules of health etc.
 
 The Sushruta Samhita is the most representative work of the Hindu system of m...
-
-Go directly to: 
-Footnotes.
 
 Chapter XIV - Treatment of eye-diseases which require Incision
 
@@ -755,10 +638,6 @@ In the foregoing five cases of incisable eye-disease, until the setting in of su
 
 Thus ends the fourteenth chapter of the Uttara-Tantra of the Sushruta Samhita which deals with the curative treatment of (eye-) diseases requiring incisions.
 
-Footnotes and references:
-
-[back to top]
-
 [1]:
 
 Both Vrinda and Chakradatta read only the first two lines of the text and hold that the incision should be dusted with Saindhava only. Their commentators, however, accept the reading there to be Suśruta’s. They supply the next two lines of Suśruta, and notice the consequent alteration in the sense.
@@ -771,17 +650,11 @@ Both Vrinda and Cakrapāni read ‘Mutra’ (cow’s urine) in place of ‘Tutth
 
 ## 15. Chapter XIII - Treatment of Lekhya-roga
 
-
 Sushruta Samhita, Volume 6: Uttara-tantra
-
-by Kaviraj Kunja Lal Bhishagratna | 1916 | 113,078 words
 
 This current book, the Uttara-tantra (english translation) is the supplementary part of the Sushrutasamhita and deals various subjects such as diseases of the eye, treatment of fever, diarrhea, diseases resulting from superhuman influences, insanity, rules of health etc.
 
 The Sushruta Samhita is the most representative work of the Hindu system of m...
-
-Go directly to: 
-Footnotes.
 
 Chapter XIII - Treatment of Lekhya-roga
 
@@ -801,10 +674,6 @@ In the following diseases of the eye, viz., Vartma-vabandha, Klishta-vartma, Bah
 
 Thus ends the thirteenth chapter of the Uttara-Tantra in the Sushruta Samhita which treats of the curative treatment of (eye-) diseases amenable to scarification.
 
-Footnotes and references:
-
-[back to top]
-
 [1]:
 
 It should be noted that the patient should also be fomented (Sveda) after being treated with the emulsive measures.
@@ -821,17 +690,11 @@ Dallana says that some read ‘svehayitvā’ (fomenting) in place of ‘snehayi
 
 ## 16. Chapter XVI - Treatment of diseases peculiar to eye-lashes and eye-lids
 
-
 Sushruta Samhita, Volume 6: Uttara-tantra
-
-by Kaviraj Kunja Lal Bhishagratna | 1916 | 113,078 words
 
 This current book, the Uttara-tantra (english translation) is the supplementary part of the Sushrutasamhita and deals various subjects such as diseases of the eye, treatment of fever, diarrhea, diseases resulting from superhuman influences, insanity, rules of health etc.
 
 The Sushruta Samhita is the most representative work of the Hindu system of m...
-
-Go directly to: 
-Footnotes.
 
 Chapter XVI - Treatment of diseases peculiar to eye-lashes and eye-lids
 
@@ -846,10 +709,6 @@ Cauterisation:—
 In case of the failure of the preceding measure, the eye-lid should be carefully examined and lifted up in an inverted posture and the diseased cyst (Bali) should be very carefully cauterised with fire or alkali. As an alternative, the Pakshma-mala (eye-lashes) should be ail removed and the affected eye-lid having been carefully secured with three hooks (Vadisha) should be rubbed with pasted Haritaki and Tuvaraka (Lodhra). The four aforesaid measures[2] as well as purgatives, eye-drops (Ashchyotana), medicinal snuffs, inhalations (fumigations), Plasters, Collyrium, Sneha and Rasa-kriya, should be likewise held as beneficial[3] in cases of Pakshma-kopa. 3-5.
 
 Thus ends the sixteenth chapter of the Uttara-Tantra in the Shushruta Samhita which treats of the remedies of Pakshma-kopa.
-
-Footnotes and references:
-
-[back to top]
 
 [1]:
 
@@ -867,17 +726,11 @@ It should be noted that this disease cannot be radically cured, but is amenable 
 
 ## 17. Chapter XII - Treatment of Raktaja Ophthalmia
 
-
 Sushruta Samhita, Volume 6: Uttara-tantra
-
-by Kaviraj Kunja Lal Bhishagratna | 1916 | 113,078 words
 
 This current book, the Uttara-tantra (english translation) is the supplementary part of the Sushrutasamhita and deals various subjects such as diseases of the eye, treatment of fever, diarrhea, diseases resulting from superhuman influences, insanity, rules of health etc.
 
 The Sushruta Samhita is the most representative work of the Hindu system of m...
-
-Go directly to: 
-Footnotes.
 
 Chapter XII - Treatment of Raktaja Ophthalmia
 
@@ -945,10 +798,6 @@ An eye-salve or an Anjana made of Samudra-phena, Saindhava, conch-shell, Mudga a
 
 Thus ends the twelfth chapter of the Uttara-Tantra in the Sushruta Samhita which treats of the curative treatment of Raktabhishyanda.
 
-Footnotes and references:
-
-[back to top]
-
 [1]:
 
 See Chapter XLV, Sutra-Sthāna.
@@ -1013,17 +862,11 @@ Dallana recommends ‘rain water’ as the liquid for the preparation.
 
 ## 18. Chapter XV - Treatment of eye-diseases which require Excision
 
-
 Sushruta Samhita, Volume 6: Uttara-tantra
-
-by Kaviraj Kunja Lal Bhishagratna | 1916 | 113,078 words
 
 This current book, the Uttara-tantra (english translation) is the supplementary part of the Sushrutasamhita and deals various subjects such as diseases of the eye, treatment of fever, diarrhea, diseases resulting from superhuman influences, insanity, rules of health etc.
 
 The Sushruta Samhita is the most representative work of the Hindu system of m...
-
-Go directly to: 
-Footnotes.
 
 Chapter XV - Treatment of eye-diseases which require Excision
 
@@ -1057,10 +900,6 @@ The mode of treatment in a case of any affection in the inner lining of the Vart
 
 Thus ends the fifteenth chapter in the Uttara-Tantra of the Sushruta Samhita which treats of the remedies of eye-diseases requiring excisions or surgical operation.
 
-Footnotes and references:
-
-[back to top]
-
 [1]:
 
 In place of ‘deśa’—the particular part and nature of the country, some read ‘deṣa’—the particular Dosha involved in each case.
@@ -1089,17 +928,11 @@ Some commentators say that emetics and purgatives should be internally administe
 
 ## 19. Chapter XI - Treatment of Shleshma Ophthalmia
 
-
 Sushruta Samhita, Volume 6: Uttara-tantra
-
-by Kaviraj Kunja Lal Bhishagratna | 1916 | 113,078 words
 
 This current book, the Uttara-tantra (english translation) is the supplementary part of the Sushrutasamhita and deals various subjects such as diseases of the eye, treatment of fever, diarrhea, diseases resulting from superhuman influences, insanity, rules of health etc.
 
 The Sushruta Samhita is the most representative work of the Hindu system of m...
-
-Go directly to: 
-Footnotes.
 
 Chapter XI - Treatment of Shleshma Ophthalmia
 
@@ -1124,10 +957,6 @@ Kashisha (Sulphate of iron), Samudra[7], Rasanjana and buds of Jati flowers past
 A single application as an Anjana of the compound composed of excellent Nadeya (Saindhava)[8] salt, white pipper[9] and Nepala-jata, (Realgar-lit., that which is produced in Nepala) taken in equal parts and pasted together with the expressed juice of Matulanga, would alleviate the itching sensation (Kandu) in the eyes. Similarly a compound of Shringa-vera, Deva-daru, Musta, Saindhava salt and buds of Jati flowers pasted together with wine and used as an Anjana would prove efficacious in a case of swelling (Sopha) and itching sensation of the eyes. The above eye-diseases should be judiciously treated in accordance with the principles laid down in the treatment of the cases of Abhi-shyanda and Adhi-mantha. 10.
 
 Thus ends the eleventh chapter of the Uttara-Tantra in the Sushruta Samhita which treats of the curative treatment of Shleshmabhishyanda.
-
-Footnotes and references:
-
-[back to top]
 
 [1]:
 
@@ -1169,17 +998,11 @@ Dallana explains “Śveta-Marica” as “Śigru-seeds”, but there is a parti
 
 ## 20. Chapter XVII - Treatment of diseases of pupil and crystalline lens
 
-
 Sushruta Samhita, Volume 6: Uttara-tantra
-
-by Kaviraj Kunja Lal Bhishagratna | 1916 | 113,078 words
 
 This current book, the Uttara-tantra (english translation) is the supplementary part of the Sushrutasamhita and deals various subjects such as diseases of the eye, treatment of fever, diarrhea, diseases resulting from superhuman influences, insanity, rules of health etc.
 
 The Sushruta Samhita is the most representative work of the Hindu system of m...
-
-Go directly to: 
-Footnotes.
 
 Chapter XVII - Treatment of diseases of pupil and crystalline lens
 
@@ -1288,10 +1111,6 @@ Eye sight-invigorating Anjana:—
 Now hear me describe two beneficial recipes of Anjana which would invigorate the eye-sight and impart a clearness of vision. Flowers of Mesha-Shringi, Shirisha, Dhava and of Malati together with pearl and Vaidurya (ruby) should be pounded and made into a paste with the addition of the milk of a she-goat. The compound thus prepared should be kept in a copper vessel for a week and then made into Vartis (sticks) of convenient lengths and applied to the eyes in the manner of an Anjana. A Varti (stick) should be similarly prepared with Srotonjana, coral, Samudra-phena, Manah-shila and Marica and used similarly as an Anjana (eye-salve). It imparts steadiness of vision. The many other Anjanas to be described in the next Chapter (Kriya-kalpa) may also be beneficially applied for the purpose. 47-48.
 
 Thus ends the seventeenth chapter in the Uttara-Tantra of the Sushruta-Samhita which treats of the curative measures of the diseases of the Drishti (pupil).
-
-Footnotes and references:
-
-[back to top]
 
 [1]:
 
@@ -1405,17 +1224,11 @@ Vrinda and Chakradatta following Vāgbhata do not read “Payas” (milk) and th
 
 ## 21. Chapter XVIII - Preparations and medicinal measures for ocular affections in general
 
-
 Sushruta Samhita, Volume 6: Uttara-tantra
-
-by Kaviraj Kunja Lal Bhishagratna | 1916 | 113,078 words
 
 This current book, the Uttara-tantra (english translation) is the supplementary part of the Sushrutasamhita and deals various subjects such as diseases of the eye, treatment of fever, diarrhea, diseases resulting from superhuman influences, insanity, rules of health etc.
 
 The Sushruta Samhita is the most representative work of the Hindu system of m...
-
-Go directly to: 
-Footnotes.
 
 Chapter XVIII - Preparations and medicinal measures for ocular affections in general
 
@@ -1527,10 +1340,6 @@ One part each of Haritaki, Yashti-madhu with sixteen parts of Marica should be p
 
 Thus ends the eighteenth chapter of the Uttara-Tantra in the Sushruta Samhita whieh deals with the preparations and uses of the medicinal measures to be used in different ocular affections.
 
-Footnotes and references:
-
-[back to top]
-
 [1]:
 
 According to some, the ‘Purana’ should be retained in the eye for a period required to count one thousand syllables in cases of Sarva-gata and eighteen hundred words in cases of Drishti-gata eye-diseases.
@@ -1613,17 +1422,11 @@ According to some the weight of the Yashti-madhu to be used in this Anjana shoul
 
 ## 22. Chapter XIX - Treatment of hurt or injnry to the eye
 
-
 Sushruta Samhita, Volume 6: Uttara-tantra
-
-by Kaviraj Kunja Lal Bhishagratna | 1916 | 113,078 words
 
 This current book, the Uttara-tantra (english translation) is the supplementary part of the Sushrutasamhita and deals various subjects such as diseases of the eye, treatment of fever, diarrhea, diseases resulting from superhuman influences, insanity, rules of health etc.
 
 The Sushruta Samhita is the most representative work of the Hindu system of m...
-
-Go directly to: 
-Footnotes.
 
 Chapter XIX - Treatment of hurt or injnry to the eye
 
@@ -1655,10 +1458,6 @@ The Science of medicine is as incomprehensible as the ocean. It cannot be fully 
 
 Thus ends the nineteenth chapter of the Uttara-Tantra in the Sushruta Samhita which deals with the medical treatment to be adopted in cases of hurt or injury to the eye.
 
-Footnotes and references:
-
-[back to top]
-
 [1]:
 
 See Chikitsita-sthāna, Chapter II, Para 29.
@@ -1675,17 +1474,11 @@ The method of preparing this Anjana, as explained by Dallana on the authority of
 
 ## 23. Chapter XX - Causes and symptoms of Ear-disease
 
-
 Sushruta Samhita, Volume 6: Uttara-tantra
-
-by Kaviraj Kunja Lal Bhishagratna | 1916 | 113,078 words
 
 This current book, the Uttara-tantra (english translation) is the supplementary part of the Sushrutasamhita and deals various subjects such as diseases of the eye, treatment of fever, diarrhea, diseases resulting from superhuman influences, insanity, rules of health etc.
 
 The Sushruta Samhita is the most representative work of the Hindu system of m...
-
-Go directly to: 
-Footnotes.
 
 Chapter XX - Causes and symptoms of Ear-disease
 
@@ -1721,10 +1514,6 @@ A process of suppuration setting in (in any of these boils) in the ear through t
 
 Thus ends the twentieth chapter of the Uttara-Tantra in the Sushruta Samhita which deals with the causes and symptoms of the diseases peculiar to the ear.
 
-Footnotes and references:
-
-[back to top]
-
 [1]:
 
 Tha difference in the “Karna-nāda” and “Kshveda” is that in the former the sound in the ear is produced by the deranged Vāyu alone and is of various kinds, whereas, in the latter it is of a special kind, viz., that of a wind-pipe—the exciting cause being the deranged local Pitta, Kapha and blood.—Videha.
@@ -1745,17 +1534,11 @@ See chapter VI, XVIII and XXIII, Chikitsita-Sthāna.
 
 ## 24. Chapter XXI - Medical Treatment of Ear-disease
 
-
 Sushruta Samhita, Volume 6: Uttara-tantra
-
-by Kaviraj Kunja Lal Bhishagratna | 1916 | 113,078 words
 
 This current book, the Uttara-tantra (english translation) is the supplementary part of the Sushrutasamhita and deals various subjects such as diseases of the eye, treatment of fever, diarrhea, diseases resulting from superhuman influences, insanity, rules of health etc.
 
 The Sushruta Samhita is the most representative work of the Hindu system of m...
-
-Go directly to: 
-Footnotes.
 
 Chapter XXI - Medical Treatment of Ear-disease
 
@@ -1835,10 +1618,6 @@ Remedies and remedial measures described in connection with Pittaja Visarpa[15] 
 
 Thus ends the twenty-first chapter of the Uttara-Tantra in the Sushruta Samhita which deals with the treatment of the diseases peculiar to the ear.
 
-Footnotes and references:
-
-[back to top]
-
 [1]:
 
 In place of “Rasāyana” (use of tonic) some read “Rasāśanam” (use of meat-soup with meal).
@@ -1903,17 +1682,11 @@ In place of ‘Pittaja-Visarpa’, both Vrinda and Chakradatta read ‘Kshataja-
 
 ## 25. Chapter XXIV - Symptoms and treatment of Catarrh
 
-
 Sushruta Samhita, Volume 6: Uttara-tantra
-
-by Kaviraj Kunja Lal Bhishagratna | 1916 | 113,078 words
 
 This current book, the Uttara-tantra (english translation) is the supplementary part of the Sushrutasamhita and deals various subjects such as diseases of the eye, treatment of fever, diarrhea, diseases resulting from superhuman influences, insanity, rules of health etc.
 
 The Sushruta Samhita is the most representative work of the Hindu system of m...
-
-Go directly to: 
-Footnotes.
 
 Chapter XXIV - Symptoms and treatment of Catarrh
 
@@ -1973,10 +1746,6 @@ All the foregoing preparations should be surcharged with the urine and bile of a
 
 Thus ends the twenty-fourth chapter of the Uttara-Tantra in the Sushruta Samhita which deals with the (symptoms and) medical treatment of Pratishyaya.
 
-Footnotes and references:
-
-[back to top]
-
 [1]:
 
 In place of “bhavedguru śiromukhaḥ”’—some read “bhavedguruśiro naraḥ”—i.e., “the man (patient) gets heaviness of the head.” In this case the flabbiness of the face is not seperately mentioned.
@@ -2021,17 +1790,11 @@ In places of “yāpanārtha’ Chakradatta reads “nāvanārthaṃ” as an er
 
 ## 26. Chapter XXIII - Therapeutics of nasal diseases
 
-
 Sushruta Samhita, Volume 6: Uttara-tantra
-
-by Kaviraj Kunja Lal Bhishagratna | 1916 | 113,078 words
 
 This current book, the Uttara-tantra (english translation) is the supplementary part of the Sushrutasamhita and deals various subjects such as diseases of the eye, treatment of fever, diarrhea, diseases resulting from superhuman influences, insanity, rules of health etc.
 
 The Sushruta Samhita is the most representative work of the Hindu system of m...
-
-Go directly to: 
-Footnotes.
 
 Chapter XXIII - Therapeutics of nasal diseases
 
@@ -2059,10 +1822,6 @@ The use of clarified butter churned out of milk, as well as that of the oil as a
 
 Thus ends the twenty-third chapter of the Uttara-Tantra in the Sushruta Samhita which deals with the treatment of the diseases of the nose.
 
-Footnotes and references:
-
-[back to top]
-
 [1]:
 
 Śivāti may mean either white Punarnavā or Śephālikā. Neither Cakrapāni nor Vrinda reads it in the text.
@@ -2083,17 +1842,11 @@ See ch. XVII of the Chikitsita-Sthāna.
 
 ## 27. Chapter XXV - Symptoms of diseases of the head
 
-
 Sushruta Samhita, Volume 6: Uttara-tantra
-
-by Kaviraj Kunja Lal Bhishagratna | 1916 | 113,078 words
 
 This current book, the Uttara-tantra (english translation) is the supplementary part of the Sushrutasamhita and deals various subjects such as diseases of the eye, treatment of fever, diarrhea, diseases resulting from superhuman influences, insanity, rules of health etc.
 
 The Sushruta Samhita is the most representative work of the Hindu system of m...
-
-Go directly to: 
-Footnotes.
 
 Chapter XXV - Symptoms of diseases of the head
 
@@ -2125,10 +1878,6 @@ The disease of the head in which a violent and excruciating pain of a piercing o
 
 Thus ends the twenty-fifth chapter in the Uttara Tantra of the Sushruta Samhita which deals with the symptoms of the diseases of the head.
 
-Footnotes and references:
-
-[back to top]
-
 [1]:
 
 In place of “śirogalaṃ” some read “śiro bhavet”. This reading is adopted by Mādhava. There seems to be no difference in the meaning?s? the word “śiras” (head) may include both the palate and the throat.
@@ -2141,17 +1890,11 @@ Dallana here comments that the term “Vasā” means all the fatty substances i
 
 ## 28. Chapter XXVII - Specific features of nine malignant Grahas
 
-
 Sushruta Samhita, Volume 6: Uttara-tantra
-
-by Kaviraj Kunja Lal Bhishagratna | 1916 | 113,078 words
 
 This current book, the Uttara-tantra (english translation) is the supplementary part of the Sushrutasamhita and deals various subjects such as diseases of the eye, treatment of fever, diarrhea, diseases resulting from superhuman influences, insanity, rules of health etc.
 
 The Sushruta Samhita is the most representative work of the Hindu system of m...
-
-Go directly to: 
-Footnotes.
 
 Chapter XXVII - Specific features of nine malignant Grahas
 
@@ -2197,13 +1940,7 @@ Libations of clarified butter with the drugs of the Sarva-gandha and Sarvaushadh
 
 “Obeisance to thee, O fire-god, obeisance to thee, O goddess Krittika, obeisance to thee, O Skanda, obeisance to thee, O lord of the Grahas (which has cast this malignant influence). With head down with deep humility, I supplicate thy favour. Dost thou accept the offerings I have made to thee. May my child get rid of the disease it has been suffering from. Makest it hale and hearty again.” 15.
 
-“Obeisance to thee, O fire-god, obeisance to thee, O goddess Krittika, obeisance to thee, O Skanda, obeisance to thee, O lord of the Grahas (which has cast this malignant influence). With head down with deep humility, I supplicate thy favour. Dost thou accept the offerings I have made to thee. May my child get rid of the disease it has been suffering from. Makest it hale and hearty again.” 15.
-
 Thus ends the twenty-seventh chapter of the Uttara-Tantra in the Sushruta-Samhita which deals with the specific features of an attack by the nine (malignant) Grahas.
-
-Footnotes and references:
-
-[back to top]
 
 [1]:
 
@@ -2217,10 +1954,7 @@ The drugs of the Elādi group are known as Sarva-gandha. Sarvaushadhi drugs here
 
 ## 29. Canto II - Kaumarabhritya-tantra (pediatrics, gynecology and pregnancy)
 
-
 Sushruta Samhita, Volume 6: Uttara-tantra
-
-by Kaviraj Kunja Lal Bhishagratna | 1916 | 113,078 words
 
 This current book, the Uttara-tantra (english translation) is the supplementary part of the Sushrutasamhita and deals various subjects such as diseases of the eye, treatment of fever, diarrhea, diseases resulting from superhuman influences, insanity, rules of health etc.
 
@@ -2234,17 +1968,11 @@ Canto II - Kaumarabhritya-tantra (pediatrics, gynecology and pregnancy)
 
 ## 30. Chapter XXVI - Treatment of diseases of the head
 
-
 Sushruta Samhita, Volume 6: Uttara-tantra
-
-by Kaviraj Kunja Lal Bhishagratna | 1916 | 113,078 words
 
 This current book, the Uttara-tantra (english translation) is the supplementary part of the Sushrutasamhita and deals various subjects such as diseases of the eye, treatment of fever, diarrhea, diseases resulting from superhuman influences, insanity, rules of health etc.
 
 The Sushruta Samhita is the most representative work of the Hindu system of m...
-
-Go directly to: 
-Footnotes.
 
 Chapter XXVI - Treatment of diseases of the head
 
@@ -2294,10 +2022,6 @@ Thus ends the twenty-sixth chapter of the Uttara-Tantra in the Sushruta Samhita 
 
 Here ends the Shalakya Tantra (Surgery Minor).
 
-Footnotes and references:
-
-[back to top]
-
 [1]:
 
 In place of ‘vasā’ (lard) some read ‘rasā’ which means meat-soup.
@@ -2326,17 +2050,11 @@ In place of the Kaphaja type some read the Kshayaja type. But it is not accepted
 
 ## 31. Chapter XXII - Causes and symptoms of diseases of the nose
 
-
 Sushruta Samhita, Volume 6: Uttara-tantra
-
-by Kaviraj Kunja Lal Bhishagratna | 1916 | 113,078 words
 
 This current book, the Uttara-tantra (english translation) is the supplementary part of the Sushrutasamhita and deals various subjects such as diseases of the eye, treatment of fever, diarrhea, diseases resulting from superhuman influences, insanity, rules of health etc.
 
 The Sushruta Samhita is the most representative work of the Hindu system of m...
-
-Go directly to: 
-Footnotes.
 
 Chapter XXII - Causes and symptoms of diseases of the nose
 
@@ -2370,10 +2088,6 @@ Local Arshas (polypoids) as well as local Shopha (four each) are due to the acti
 
 Thus ends the twenty-second chapter in the Uttara-Tantra of the Sushruta Samhita which deals with the causes and symptoms of the diseases of the nose.
 
-Footnotes and references:
-
-[back to top]
-
 [1]:
 
 The four kinds are due to vitiated Vāyu, Pitta and Kapha as well as their concerted action. The two origins are (a) the spleen and the liver, or (b) the Āmāśaya (stomach) and the Pakvāśaya (intestines). The two courses are (a) the upper and the lower orifice, or (b) the mouth and the nostrils. (2)
@@ -2386,17 +2100,11 @@ The sneezing is here said to be of two kinds (1) Doshaja and (2) traumatic. Here
 
 ## 32. Chapter XXVIII - Therapeutics of an attack by Skanda-graha
 
-
 Sushruta Samhita, Volume 6: Uttara-tantra
-
-by Kaviraj Kunja Lal Bhishagratna | 1916 | 113,078 words
 
 This current book, the Uttara-tantra (english translation) is the supplementary part of the Sushrutasamhita and deals various subjects such as diseases of the eye, treatment of fever, diarrhea, diseases resulting from superhuman influences, insanity, rules of health etc.
 
 The Sushruta Samhita is the most representative work of the Hindu system of m...
-
-Go directly to: 
-Footnotes.
 
 Chapter XXVIII - Therapeutics of an attack by Skanda-graha
 
@@ -2418,10 +2126,6 @@ The body of the child should be guarded by a careful physician against the influ
 
 Thus ends the twenty-eighth chapter of the Uttara-Tantra in the Sushruta Samhita which deals with the Therapeutics of Skanda-Graha.
 
-Footnotes and references:
-
-[back to top]
-
 [1]:
 
 Kaitaryya, according to Dallana, means Nimba or Guduci.
@@ -2430,17 +2134,11 @@ Kaitaryya, according to Dallana, means Nimba or Guduci.
 
 ## 33. Chapter XXX - Treatment of an attack by Shakuni-graha
 
-
 Sushruta Samhita, Volume 6: Uttara-tantra
-
-by Kaviraj Kunja Lal Bhishagratna | 1916 | 113,078 words
 
 This current book, the Uttara-tantra (english translation) is the supplementary part of the Sushrutasamhita and deals various subjects such as diseases of the eye, treatment of fever, diarrhea, diseases resulting from superhuman influences, insanity, rules of health etc.
 
 The Sushruta Samhita is the most representative work of the Hindu system of m...
-
-Go directly to: 
-Footnotes.
 
 Chapter XXX - Treatment of an attack by Shakuni-graha
 
@@ -2456,13 +2154,7 @@ Various sorts of worship should be made with the offerings of various species of
 
 “May the ever down-looking sharp-beaked goddess, Shakuni, who (with her keen and far-seeing eyes) is decked with all sorts of ornaments and who traverses the ethereal sky in her flight, be propitious to thee. May the brown-eyed, fierce-looking, huge-bodied, large-bellied, and spike-eared Shakuni, who strikes terror into the heart of man with her terrible voice, be pleased with thee.” 2.
 
-“May the ever down-looking sharp-beaked goddess, Shakuni, who (with her keen and far-seeing eyes) is decked with all sorts of ornaments and who traverses the ethereal sky in her flight, be propitious to thee. May the brown-eyed, fierce-looking, huge-bodied, large-bellied, and spike-eared Shakuni, who strikes terror into the heart of man with her terrible voice, be pleased with thee.” 2.
-
 Thus ends the thirtieth chapter of the Uttara Tantra in the Sushruta Samhita which deals with the treatment of (an attack) by Shakuni.
-
-Footnotes and references:
-
-[back to top]
 
 [1]:
 
@@ -2472,17 +2164,11 @@ See Chapter I, Chikitshita Sthāna.
 
 ## 34. Chapter I - Diseases of the eye and its appendages
 
-
 Sushruta Samhita, Volume 6: Uttara-tantra
-
-by Kaviraj Kunja Lal Bhishagratna | 1916 | 113,078 words
 
 This current book, the Uttara-tantra (english translation) is the supplementary part of the Sushrutasamhita and deals various subjects such as diseases of the eye, treatment of fever, diarrhea, diseases resulting from superhuman influences, insanity, rules of health etc.
 
 The Sushruta Samhita is the most representative work of the Hindu system of m...
-
-Go directly to: 
-Footnotes.
 
 Chapter I - Diseases of the eye and its appendages
 
@@ -2556,10 +2242,6 @@ Thus we have finished enumerating the seventy-six types of eye-diseases, of whic
 
 Thus ends the first chapter of the Uttra-tantra in the Sushruta Samhita which deals with the diseases, viz. of the eye, etc.
 
-Footnotes and references:
-
-[back to top]
-
 [1]:
 
 The text has Āgantuka (traumatic diseases). Gayadasa explains it to mean Apasmāra, Unmāda, etc. (Hysteria, insanity, etc.).
@@ -2584,17 +2266,11 @@ The one due to any external blow or hurt (Sanimitta) and the other originating f
 
 ## 35. Chapter XXIX - Therapeutics of an attack by Skandapasmara
 
-
 Sushruta Samhita, Volume 6: Uttara-tantra
-
-by Kaviraj Kunja Lal Bhishagratna | 1916 | 113,078 words
 
 This current book, the Uttara-tantra (english translation) is the supplementary part of the Sushrutasamhita and deals various subjects such as diseases of the eye, treatment of fever, diarrhea, diseases resulting from superhuman influences, insanity, rules of health etc.
 
 The Sushruta Samhita is the most representative work of the Hindu system of m...
-
-Go directly to: 
-Footnotes.
 
 Chapter XXIX - Therapeutics of an attack by Skandapasmara
 
@@ -2608,13 +2284,7 @@ The physician (or the votary officiating for him) should worship the presiding d
 
 “O thou, the trusted and beloved friend of the god Skanda, O Skandapasmara, O thou ugly-faced one whom the world knows by the epithet of Visakha, may good befall this child in distress.” 2.
 
-“O thou, the trusted and beloved friend of the god Skanda, O Skandapasmara, O thou ugly-faced one whom the world knows by the epithet of Visakha, may good befall this child in distress.” 2.
-
 Thus ends the twenty-ninth chapter of the Uttara-Tantra in the Sushruta Samhita which deals with the Therapeutics of an attack by Skandapasmara.
-
-Footnotes and references:
-
-[back to top]
 
 [1]:
 
@@ -2624,17 +2294,11 @@ Although Dallana prescribes the drugs oi the Kākolyādi group to be used as Kal
 
 ## 36. Chapter XXXI - Theraputics Of An Attack By Revati-Graha
 
-
 Sushruta Samhita, Volume 6: Uttara-tantra
-
-by Kaviraj Kunja Lal Bhishagratna | 1916 | 113,078 words
 
 This current book, the Uttara-tantra (english translation) is the supplementary part of the Sushrutasamhita and deals various subjects such as diseases of the eye, treatment of fever, diarrhea, diseases resulting from superhuman influences, insanity, rules of health etc.
 
 The Sushruta Samhita is the most representative work of the Hindu system of m...
-
-Go directly to: 
-Footnotes.
 
 Chapter XXXI - Theraputics Of An Attack By Revati-Graha
 
@@ -2650,10 +2314,6 @@ The presiding deity of the disease known as Revati should be worshipped in a cow
 
 Thus ends the thirty-first chapter of the Uttara-Tantra in the Sushruta Samhita which deals with the Therapeutics of an attack by Revati.
 
-Footnotes and references:
-
-[back to top]
-
 [1]:
 
 There is an additional text in the Bhāvaprakāśa which says that Guggulu (Palamkashā), Nalada (Khus-khus) and Giri-kadamba should also be used in the preparation of the medicated oil.
@@ -2662,17 +2322,11 @@ There is an additional text in the Bhāvaprakāśa which says that Guggulu (Pala
 
 ## 37. Chapter XXXIII - Treatment of Andha-putana-graha
 
-
 Sushruta Samhita, Volume 6: Uttara-tantra
-
-by Kaviraj Kunja Lal Bhishagratna | 1916 | 113,078 words
 
 This current book, the Uttara-tantra (english translation) is the supplementary part of the Sushrutasamhita and deals various subjects such as diseases of the eye, treatment of fever, diarrhea, diseases resulting from superhuman influences, insanity, rules of health etc.
 
 The Sushruta Samhita is the most representative work of the Hindu system of m...
-
-Go directly to: 
-Footnotes.
 
 Chapter XXXIII - Treatment of Andha-putana-graha
 
@@ -2688,13 +2342,7 @@ The Mantra runs as follows:—
 
 “May the dreadful, brown-coloured, bald-headed, goddess Andha-putana, wearing a red-coloured garment be pleased to save this child.” 2.
 
-“May the dreadful, brown-coloured, bald-headed, goddess Andha-putana, wearing a red-coloured garment be pleased to save this child.” 2.
-
 Thus ends the thirty-third chapter in the Uttara-Tantra of the Sushruta Samhita which deals with the medical treatment of (an attack) by Andha-putana.
-
-Footnotes and references:
-
-[back to top]
 
 [1]:
 
@@ -2708,10 +2356,7 @@ Bhāvaprakāśa reads “jīrṇañjābhīkṣṇaśo vāsaḥ” very old cloth
 
 ## 38. Chapter XXXIV - Treatment of an attack by Shita-putana
 
-
 Sushruta Samhita, Volume 6: Uttara-tantra
-
-by Kaviraj Kunja Lal Bhishagratna | 1916 | 113,078 words
 
 This current book, the Uttara-tantra (english translation) is the supplementary part of the Sushrutasamhita and deals various subjects such as diseases of the eye, treatment of fever, diarrhea, diseases resulting from superhuman influences, insanity, rules of health etc.
 
@@ -2731,18 +2376,13 @@ The Mantra is as follows:—
 
 “May the goddess Sita-putana, who is fond of the preparation of rice and Mudga pulse, who delights in drinking wine and blood and who resides by the side of a river or a tank, preserve thee.” 2.
 
-“May the goddess Sita-putana, who is fond of the preparation of rice and Mudga pulse, who delights in drinking wine and blood and who resides by the side of a river or a tank, preserve thee.” 2.
-
 Thus ends the thirty-fourth chapter in the Uttara-Tantra of the Sushruta Samhita which deals with the medical treatment of (an attack by) Shitaputana.
 
 ---
 
 ## 39. Chapter XXXV - Treatment of an attack by Mukha-mandika
 
-
 Sushruta Samhita, Volume 6: Uttara-tantra
-
-by Kaviraj Kunja Lal Bhishagratna | 1916 | 113,078 words
 
 This current book, the Uttara-tantra (english translation) is the supplementary part of the Sushrutasamhita and deals various subjects such as diseases of the eye, treatment of fever, diarrhea, diseases resulting from superhuman influences, insanity, rules of health etc.
 
@@ -2762,18 +2402,13 @@ The Mantra runs as follows:—
 
 “May the beautiful and blessed goddess, Mukhamandika, who is decked with ornaments, who can assume different forms at will and who resides in cow-sheds, preserve thee”.
 
-“May the beautiful and blessed goddess, Mukhamandika, who is decked with ornaments, who can assume different forms at will and who resides in cow-sheds, preserve thee”.
-
 Thus ends the thirty-fifth Chapter of the Uttara-Tantra in the Sushruta Samhita which deals with the medical treatment of (an attack by) Mukhamandika.
 
 ---
 
 ## 40. Chapter XXXII - Treatment of an attack by Putana-graha
 
-
 Sushruta Samhita, Volume 6: Uttara-tantra
-
-by Kaviraj Kunja Lal Bhishagratna | 1916 | 113,078 words
 
 This current book, the Uttara-tantra (english translation) is the supplementary part of the Sushrutasamhita and deals various subjects such as diseases of the eye, treatment of fever, diarrhea, diseases resulting from superhuman influences, insanity, rules of health etc.
 
@@ -2795,25 +2430,17 @@ The worshipping Mantra is as follows:—
 
 “May the slovenly shag-haired goddess, Putana, who is dressed in dirty clothes, and who loves to haunt lonely dwellings, preserve the child. May the fierce-looking, frightful goddess who is as black as a dark rain-cloud, who loves to haunt lonely and dilapidated human dwellings and whose body gives off filthy odours protect the child from all evils.” 7.
 
-“May the slovenly shag-haired goddess, Putana, who is dressed in dirty clothes, and who loves to haunt lonely dwellings, preserve the child. May the fierce-looking, frightful goddess who is as black as a dark rain-cloud, who loves to haunt lonely and dilapidated human dwellings and whose body gives off filthy odours protect the child from all evils.” 7.
-
 Thus ends the thirty-second chapter of the Uttara-Tantra in the Sushruta Samhita which deals with the medical treatment (of an attack) by Putana.
 
 ---
 
 ## 41. Chapter XXXVIII - Treatment of the diseases of the female organ of generation
 
-
 Sushruta Samhita, Volume 6: Uttara-tantra
-
-by Kaviraj Kunja Lal Bhishagratna | 1916 | 113,078 words
 
 This current book, the Uttara-tantra (english translation) is the supplementary part of the Sushrutasamhita and deals various subjects such as diseases of the eye, treatment of fever, diarrhea, diseases resulting from superhuman influences, insanity, rules of health etc.
 
 The Sushruta Samhita is the most representative work of the Hindu system of m...
-
-Go directly to: 
-Footnotes.
 
 Chapter XXXVIII - Treatment of the diseases of the female organ of generation
 
@@ -2859,10 +2486,6 @@ We have already described the nature of the medical treatment and the remedial a
 
 Thus ends the thirty-eighth chapter of the Uttara Tantra in the Sushruta Samhita which deals with the therapeutics of the female organ of generation.
 
-Footnotes and references:
-
-[back to top]
-
 [1]:
 
 The term “yoni” is here used in a very comprehensive sense and means the whole female organ of generation, i.e., Uterus, Vagina, etc.
@@ -2875,10 +2498,7 @@ These three lines correspond verbatim with three lines in the Charaka Samhitā (
 
 ## 42. Chapter XXXVI - Treatment of an attack by Naigamesha
 
-
 Sushruta Samhita, Volume 6: Uttara-tantra
-
-by Kaviraj Kunja Lal Bhishagratna | 1916 | 113,078 words
 
 This current book, the Uttara-tantra (english translation) is the supplementary part of the Sushrutasamhita and deals various subjects such as diseases of the eye, treatment of fever, diarrhea, diseases resulting from superhuman influences, insanity, rules of health etc.
 
@@ -2898,18 +2518,13 @@ The Mantra runs as follows:—
 
 “May the far-famed god, Naigamesha, the preserver of children, who has a goat’s face with moving brow and rolling eyes and who can assume different forms at will, preserve the child.” 2.
 
-“May the far-famed god, Naigamesha, the preserver of children, who has a goat’s face with moving brow and rolling eyes and who can assume different forms at will, preserve the child.” 2.
-
 Thus ends the thirty-sixth chapter of the Uttara-Tantra in the Sushruta Samhita which deals with the medical treatment of (an attack by) Naigamesha.
 
 ---
 
 ## 43. Canto III - Kaya-chikitsa-tantra (internal medicine)
 
-
 Sushruta Samhita, Volume 6: Uttara-tantra
-
-by Kaviraj Kunja Lal Bhishagratna | 1916 | 113,078 words
 
 This current book, the Uttara-tantra (english translation) is the supplementary part of the Sushrutasamhita and deals various subjects such as diseases of the eye, treatment of fever, diarrhea, diseases resulting from superhuman influences, insanity, rules of health etc.
 
@@ -2923,17 +2538,11 @@ Canto III - Kaya-chikitsa-tantra (internal medicine)
 
 ## 44. Chapter XXXIX - Symptoms and Treatment of Fever (Jvara)
 
-
 Sushruta Samhita, Volume 6: Uttara-tantra
-
-by Kaviraj Kunja Lal Bhishagratna | 1916 | 113,078 words
 
 This current book, the Uttara-tantra (english translation) is the supplementary part of the Sushrutasamhita and deals various subjects such as diseases of the eye, treatment of fever, diarrhea, diseases resulting from superhuman influences, insanity, rules of health etc.
 
 The Sushruta Samhita is the most representative work of the Hindu system of m...
-
-Go directly to: 
-Footnotes.
 
 Chapter XXXIX - Symptoms and Treatment of Fever (Jvara)
 
@@ -3237,10 +2846,6 @@ Fever originating from the wrath-fire of the god Shambhu, is a dangerous disease
 
 Thus ends the thirty-ninth chapter of the Uttara Tantra in the Sushruta Samhita which deals with the (symptoms and) medical treatment of fever.
 
-Footnotes and references:
-
-[back to top]
-
 [1]:
 
 There can be three cases of fever due to the derangement of the three Doshas separately, three cases from the derangement of two of them at a time and one case only from the concerted action of the three Doshas These are the seven cases while that due to an extraneous cause is the eighth.
@@ -3403,17 +3008,11 @@ Dallana seems to read “Mākshika.” and explains it as honey. “Madhvika” 
 
 ## 45. Chapter XLI - Symptoms and Treatment of Phthisis (Shosha)
 
-
 Sushruta Samhita, Volume 6: Uttara-tantra
-
-by Kaviraj Kunja Lal Bhishagratna | 1916 | 113,078 words
 
 This current book, the Uttara-tantra (english translation) is the supplementary part of the Sushrutasamhita and deals various subjects such as diseases of the eye, treatment of fever, diarrhea, diseases resulting from superhuman influences, insanity, rules of health etc.
 
 The Sushruta Samhita is the most representative work of the Hindu system of m...
-
-Go directly to: 
-Footnotes.
 
 Chapter XLI - Symptoms and Treatment of Phthisis (Shosha)
 
@@ -3485,10 +3084,6 @@ He should not allow any grief, anger or jealousy to disturb the equilibrium of h
 
 Thus ends the forty-first chapter of the Uttara Tantra in the Sushruta Samhita which deals with the (symptoms and) treatment of Phthisis.
 
-Footnotes and references:
-
-[back to top]
-
 [1]:
 
 Cf. Scrofula which is now know n as the “King’s disease.”
@@ -3505,17 +3100,11 @@ Chakradatta does not read Ugrā in the list.
 
 ## 46. Chapter XLIII - Symptoms and Treatment of Heart-disease (Hridroga)
 
-
 Sushruta Samhita, Volume 6: Uttara-tantra
-
-by Kaviraj Kunja Lal Bhishagratna | 1916 | 113,078 words
 
 This current book, the Uttara-tantra (english translation) is the supplementary part of the Sushrutasamhita and deals various subjects such as diseases of the eye, treatment of fever, diarrhea, diseases resulting from superhuman influences, insanity, rules of health etc.
 
 The Sushruta Samhita is the most representative work of the Hindu system of m...
-
-Go directly to: 
-Footnotes.
 
 Chapter XLIII - Symptoms and Treatment of Heart-disease (Hridroga)
 
@@ -3555,10 +3144,6 @@ In the type (Krimija) characterised by the persence of worms, the patient should
 
 Thus ends the forty-third chapter of the Ullara Tantra in the Sushruta Samhita which treats of the (symptoms and) treatment of Hridroga.
 
-Footnotes and references:
-
-[back to top]
-
 [1]:
 
 Some read “Su-pala-lair-jogaih” in place of ‘Salava-nair-jogaih’. It would mean that the compound should be mixed with fried and powdered sesamum.
@@ -3567,17 +3152,11 @@ Some read “Su-pala-lair-jogaih” in place of ‘Salava-nair-jogaih’. It wou
 
 ## 47. Chapter XLIV - Symptoms and Treatment of Jaundice (Pandu-roga)
 
-
 Sushruta Samhita, Volume 6: Uttara-tantra
-
-by Kaviraj Kunja Lal Bhishagratna | 1916 | 113,078 words
 
 This current book, the Uttara-tantra (english translation) is the supplementary part of the Sushrutasamhita and deals various subjects such as diseases of the eye, treatment of fever, diarrhea, diseases resulting from superhuman influences, insanity, rules of health etc.
 
 The Sushruta Samhita is the most representative work of the Hindu system of m...
-
-Go directly to: 
-Footnotes.
 
 Chapter XLIV - Symptoms and Treatment of Jaundice (Pandu-roga)
 
@@ -3637,10 +3216,6 @@ If a patient afflicted with Pandu have an edematious swelling of the extremities
 
 Thus ends the forty-fourth chapter of the Uttara-Tantra in the Sushruta Samhita which deals with the (symptoms and) medical treatment of Pandu-roga.
 
-Footnotes and references:
-
-[back to top]
-
 [1]:
 
 Mādhava in his Nidāna reads “Vyāyāma” (physical exercise) in the place of “Vyavāya” “sexual enjoyment.” Charaka, however, includes both “Vyavāyā” and Vyāyāma” in the long list of the causes of Pāndu-roga.
@@ -3677,17 +3252,11 @@ Mantha is prepared by mixing powdered grains of barley with clarified butter and
 
 ## 48. Chapter XLV - Symptoms and Treatment of Hemorrhage (Rakta-pitta)
 
-
 Sushruta Samhita, Volume 6: Uttara-tantra
-
-by Kaviraj Kunja Lal Bhishagratna | 1916 | 113,078 words
 
 This current book, the Uttara-tantra (english translation) is the supplementary part of the Sushrutasamhita and deals various subjects such as diseases of the eye, treatment of fever, diarrhea, diseases resulting from superhuman influences, insanity, rules of health etc.
 
 The Sushruta Samhita is the most representative work of the Hindu system of m...
-
-Go directly to: 
-Footnotes.
 
 Chapter XLV - Symptoms and Treatment of Hemorrhage (Rakta-pitta)
 
@@ -3749,10 +3318,6 @@ Urethral-injections composed of the aforesaid drugs should be applied (after the
 
 Thus ends the forty-fifth chapter of the Uttara-Tantra in the Sushruta Samhita which deals with (the symptoms and) the medical treatment of Rakta-pitta.
 
-Footnotes and references:
-
-[back to top]
-
 [1]:
 
 Both Cakrapāni and Vrinda read “hṛtapāṇ?ugrahaṇī etc.” i.e., they say that it may bring on an attack of heart-disease also.
@@ -3781,17 +3346,11 @@ Kālānjana is a variant, in place of Lāja and Anjana. For Kālānjana Dallana 
 
 ## 49. Chapter XLVI - Symptoms and Treatment of Fainting fits (Murccha)
 
-
 Sushruta Samhita, Volume 6: Uttara-tantra
-
-by Kaviraj Kunja Lal Bhishagratna | 1916 | 113,078 words
 
 This current book, the Uttara-tantra (english translation) is the supplementary part of the Sushrutasamhita and deals various subjects such as diseases of the eye, treatment of fever, diarrhea, diseases resulting from superhuman influences, insanity, rules of health etc.
 
 The Sushruta Samhita is the most representative work of the Hindu system of m...
-
-Go directly to: 
-Footnotes.
 
 Chapter XLVI - Symptoms and Treatment of Fainting fits (Murccha)
 
@@ -3831,10 +3390,6 @@ The patient should be tried to be roused up with the application of strong eye-s
 
 Thus ends the forty-sixth chapter of the Uttara-Tantra in the Sushruta Samhita which deals with the (symptoms and) treatment of Murccha.
 
-Footnotes and references:
-
-[back to top]
-
 [1]:
 
 Chakrapāni and Vrinda both-read Mudga also in the list of the diet.
@@ -3847,17 +3402,11 @@ According to Dallana Śilājatu should be prepared with the said drugs after the
 
 ## 50. Chapter XLVII - Symptoms and Treatment of Alcoholism (Panatyaya)
 
-
 Sushruta Samhita, Volume 6: Uttara-tantra
-
-by Kaviraj Kunja Lal Bhishagratna | 1916 | 113,078 words
 
 This current book, the Uttara-tantra (english translation) is the supplementary part of the Sushrutasamhita and deals various subjects such as diseases of the eye, treatment of fever, diarrhea, diseases resulting from superhuman influences, insanity, rules of health etc.
 
 The Sushruta Samhita is the most representative work of the Hindu system of m...
-
-Go directly to: 
-Footnotes.
 
 Chapter XLVII - Symptoms and Treatment of Alcoholism (Panatyaya)
 
@@ -3967,10 +3516,6 @@ Wine mixed with half its quantity of water and scented with Jiraka, Sauvarchala,
 
 Thus ends the forty-seventh chapter of the Uttara-Tantra in the Sushruta Samhita which deals with the (symptoms and) medical treatment of alcoholism.
 
-Footnotes and references:
-
-[back to top]
-
 [1]:
 
 Dallana in his commentatory says that some read “madyauḥ” in place of “hṛdyauḥ” others read “phalauḥ” in place of “khaḍauḥ”.
@@ -3983,17 +3528,11 @@ Decoction of the drugs of Madhura-gana and of the drugs of cold virtues.
 
 ## 51. Chapter XLVIII - Symptoms and Treatment of thirst (Trishna)
 
-
 Sushruta Samhita, Volume 6: Uttara-tantra
-
-by Kaviraj Kunja Lal Bhishagratna | 1916 | 113,078 words
 
 This current book, the Uttara-tantra (english translation) is the supplementary part of the Sushrutasamhita and deals various subjects such as diseases of the eye, treatment of fever, diarrhea, diseases resulting from superhuman influences, insanity, rules of health etc.
 
 The Sushruta Samhita is the most representative work of the Hindu system of m...
-
-Go directly to: 
-Footnotes.
 
 Chapter XLVIII - Symptoms and Treatment of thirst (Trishna)
 
@@ -4051,10 +3590,6 @@ Vomiting should be induced in these cases with the decoction of such drugs as ar
 
 Thus ends the forty-eighth chapter of the Uttara-Tantra in the Sushruta Samhita which deals with the (symptoms and) treatment of thirst.
 
-Footnotes and references:
-
-[back to top]
-
 [1]:
 
 The five Panca-mula groups are
@@ -4091,17 +3626,11 @@ Warm Yavāgu should be prescribed in cases where Vāyu pre-ponderates and cold M
 
 ## 52. Chapter XLII - Symptoms and Treatment of Abdominal Tumors (Gulma)
 
-
 Sushruta Samhita, Volume 6: Uttara-tantra
-
-by Kaviraj Kunja Lal Bhishagratna | 1916 | 113,078 words
 
 This current book, the Uttara-tantra (english translation) is the supplementary part of the Sushrutasamhita and deals various subjects such as diseases of the eye, treatment of fever, diarrhea, diseases resulting from superhuman influences, insanity, rules of health etc.
 
 The Sushruta Samhita is the most representative work of the Hindu system of m...
-
-Go directly to: 
-Footnotes.
 
 Chapter XLII - Symptoms and Treatment of Abdominal Tumors (Gulma)
 
@@ -4277,10 +3806,6 @@ A voracious eating in an impaired state of digestive fire, aggravate the local V
 
 Thus ends the forty-second chapter of the Uttara-Tantra in the Sushruta Samhita which deals with the medical treatment of Gulma.
 
-Footnotes and references:
-
-[back to top]
-
 [1]:
 
 This Raktaja Gulma is peculiar to the females only. But some authorities are of opinion that a kind of Raktaja (blood-origined) Gulma due to the vitiated blood of the organism may be possible both in the males and females.
@@ -4347,17 +3872,11 @@ Hingu, Sauvarchala and Vit salt should be used as an after-throw.
 
 ## 53. Chapter XLIX - Symptoms and Treatment of Vomiting (Chardi)
 
-
 Sushruta Samhita, Volume 6: Uttara-tantra
-
-by Kaviraj Kunja Lal Bhishagratna | 1916 | 113,078 words
 
 This current book, the Uttara-tantra (english translation) is the supplementary part of the Sushrutasamhita and deals various subjects such as diseases of the eye, treatment of fever, diarrhea, diseases resulting from superhuman influences, insanity, rules of health etc.
 
 The Sushruta Samhita is the most representative work of the Hindu system of m...
-
-Go directly to: 
-Footnotes.
 
 Chapter XLIX - Symptoms and Treatment of Vomiting (Chardi)
 
@@ -4419,10 +3938,6 @@ The meat of any Jangala animal and palatable cordials and victuals of various pl
 
 Thus ends the forty-ninth chapter of the Uttara-Tantra in the Sushruta Samhita which deals with the (symptoms and) treatment of Vomiting.
 
-Footnotes and references:
-
-[back to top]
-
 [1]:
 
 The supervening symptoms are:—Cough, asthma, fever, hiccough, thirst, mental dejection, heart-disease and Tamaka-Śvāsa.
@@ -4447,17 +3962,11 @@ Vāgbhata prescribes the decoction alone as a separate remedy.
 
 ## 54. Chapter L - Symptoms and Treatment of Hiccough (Hicca)
 
-
 Sushruta Samhita, Volume 6: Uttara-tantra
-
-by Kaviraj Kunja Lal Bhishagratna | 1916 | 113,078 words
 
 This current book, the Uttara-tantra (english translation) is the supplementary part of the Sushrutasamhita and deals various subjects such as diseases of the eye, treatment of fever, diarrhea, diseases resulting from superhuman influences, insanity, rules of health etc.
 
 The Sushruta Samhita is the most representative work of the Hindu system of m...
-
-Go directly to: 
-Footnotes.
 
 Chapter L - Symptoms and Treatment of Hiccough (Hicca)
 
@@ -4517,10 +4026,6 @@ Purgatives as well as potions of tepid clarified butter mixed with Saindhava- sa
 
 Thus ends the fiftieth chapter in the Uttara-Tantra of the Sushruta Samhita which deals with the (symptoms and) treatment of hiccough.
 
-Footnotes and references:
-
-[back to top]
-
 [1]:
 
 By the word “Mula” (i.e., root) of the Jatru (clavicles) Gayadāśa understands the regions of the heart, Kloma, throat, etc.—Dallana.
@@ -4553,17 +4058,11 @@ According to Vrinda and Cakrapāni lambatives should be prepared with these drug
 
 ## 55. Chapter XL - Symptoms and treatment of Diarrhea (Atisara)
 
-
 Sushruta Samhita, Volume 6: Uttara-tantra
-
-by Kaviraj Kunja Lal Bhishagratna | 1916 | 113,078 words
 
 This current book, the Uttara-tantra (english translation) is the supplementary part of the Sushrutasamhita and deals various subjects such as diseases of the eye, treatment of fever, diarrhea, diseases resulting from superhuman influences, insanity, rules of health etc.
 
 The Sushruta Samhita is the most representative work of the Hindu system of m...
-
-Go directly to: 
-Footnotes.
 
 Chapter XL - Symptoms and treatment of Diarrhea (Atisara)
 
@@ -4783,10 +4282,6 @@ Appropriate emetics and purgatives should be exhibted (for cleansing the upper a
 
 Thus ends the fortieth chapter of the Uttara-Tantra in the Sushruta Samhita which deals with the (symptoms) and medical treatment of Atisara.
 
-Footnotes and references:
-
-[back to top]
-
 [1]:
 
 We have the recipe of this Ghrita in Charaka Samhitā also. But there we find Kshārā in place of Kshira and that appears to be the better reading. See Chapter XIX,—under Cāngeri Ghrita, Charaka Samhitā.
@@ -4819,17 +4314,11 @@ The use of “api” in the text shows, say the commentators, that Grahani is po
 
 ## 56. Chapter LI - Symptoms and Treatment of Asthma (Shvasa)
 
-
 Sushruta Samhita, Volume 6: Uttara-tantra
-
-by Kaviraj Kunja Lal Bhishagratna | 1916 | 113,078 words
 
 This current book, the Uttara-tantra (english translation) is the supplementary part of the Sushrutasamhita and deals various subjects such as diseases of the eye, treatment of fever, diarrhea, diseases resulting from superhuman influences, insanity, rules of health etc.
 
 The Sushruta Samhita is the most representative work of the Hindu system of m...
-
-Go directly to: 
-Footnotes.
 
 Chapter LI - Symptoms and Treatment of Asthma (Shvasa)
 
@@ -4915,10 +4404,6 @@ Irresistible is an attack of asthma like that of a fire fed with heaps of fuel (
 
 Thus ends the fifty-first chapter in the Uttara-Tantra of the Sushruta-Samhita which deals with the (symptoms and) treatment of asthma.
 
-Footnotes and references:
-
-[back to top]
-
 [1]:
 
 Some prescribe the Kalkas to be taken in the ordinary way and say that the dose would be one Kola weight.
@@ -4951,17 +4436,11 @@ We do not know what ‘Tala-kīta’ is. Some printed editions read “Talpa-kī
 
 ## 57. Chapter LII - Symptoms and Treatment of Cough (Kasa)
 
-
 Sushruta Samhita, Volume 6: Uttara-tantra
-
-by Kaviraj Kunja Lal Bhishagratna | 1916 | 113,078 words
 
 This current book, the Uttara-tantra (english translation) is the supplementary part of the Sushrutasamhita and deals various subjects such as diseases of the eye, treatment of fever, diarrhea, diseases resulting from superhuman influences, insanity, rules of health etc.
 
 The Sushruta Samhita is the most representative work of the Hindu system of m...
-
-Go directly to: 
-Footnotes.
 
 Chapter LII - Symptoms and Treatment of Cough (Kasa)
 
@@ -5033,10 +4512,6 @@ Clarified butter duly cooked with the decoction made by boiling the drugs of the
 
 Thus ends the fifty-second chapter of the Uttara Tantra in the Sushruta Samhita which deals with the (symptoms and) treatment of cough.
 
-Footnotes and references:
-
-[back to top]
-
 [1]:
 
 Dallana explains as (leaves of bamboo).
@@ -5069,17 +4544,11 @@ Some lake ‘Krimighna’ to mean Vidanga, others take it to mean any antiparasi
 
 ## 58. Chapter LIII - Symptoms and Treatment of Hoarseness (Svara-bheda)
 
-
 Sushruta Samhita, Volume 6: Uttara-tantra
-
-by Kaviraj Kunja Lal Bhishagratna | 1916 | 113,078 words
 
 This current book, the Uttara-tantra (english translation) is the supplementary part of the Sushrutasamhita and deals various subjects such as diseases of the eye, treatment of fever, diarrhea, diseases resulting from superhuman influences, insanity, rules of health etc.
 
 The Sushruta Samhita is the most representative work of the Hindu system of m...
-
-Go directly to: 
-Footnotes.
 
 Chapter LIII - Symptoms and Treatment of Hoarseness (Svara-bheda)
 
@@ -5119,10 +4588,6 @@ The medical treatment in the case of the Medoja type of Svarabheda should be the
 
 Thus ends the fifty-third chapter of the Uttara-Tantra in the Sushruta Samhita which deals with the (symptoms and) treatment of hoarseness.
 
-Footnotes and references:
-
-[back to top]
-
 [1]:
 
 Here Pitta-aggravating and Vayu-aggravating causes also are intended by the word “ādi” i.e., etc. in “śītādibhiḥ” |
@@ -5143,17 +4608,11 @@ Milk of a cow or of a she-buffalo, etc., may be used here.—Dallana.
 
 ## 59. Chapter LIV - Symptoms and Treatment of Worms (Krimi-roga)
 
-
 Sushruta Samhita, Volume 6: Uttara-tantra
-
-by Kaviraj Kunja Lal Bhishagratna | 1916 | 113,078 words
 
 This current book, the Uttara-tantra (english translation) is the supplementary part of the Sushrutasamhita and deals various subjects such as diseases of the eye, treatment of fever, diarrhea, diseases resulting from superhuman influences, insanity, rules of health etc.
 
 The Sushruta Samhita is the most representative work of the Hindu system of m...
-
-Go directly to: 
-Footnotes.
 
 Chapter LIV - Symptoms and Treatment of Worms (Krimi-roga)
 
@@ -5209,10 +4668,6 @@ Meals composed of the articles of bitter and pungent tastes as well as draughts 
 
 Thus ends the fifty-fourth chapter in the Uttara-Tantra of the Sushruta Samhita which deals with the (symptoms and) treatment of Krimi-Roga.
 
-Footnotes and references:
-
-[back to top]
-
 [1]:
 
 Charaka speaks of another kind viz. Malaja (produced from the external filth of the body), over and above that kind of worms which are present in every organism from the very birth (Sahaja).
@@ -5249,17 +4704,11 @@ Both internally and externally e.g. as a drink or bath.
 
 ## 60. Chapter LV - Symptoms and Treatment of repression of natural urging (Udavarta)
 
-
 Sushruta Samhita, Volume 6: Uttara-tantra
-
-by Kaviraj Kunja Lal Bhishagratna | 1916 | 113,078 words
 
 This current book, the Uttara-tantra (english translation) is the supplementary part of the Sushrutasamhita and deals various subjects such as diseases of the eye, treatment of fever, diarrhea, diseases resulting from superhuman influences, insanity, rules of health etc.
 
 The Sushruta Samhita is the most representative work of the Hindu system of m...
-
-Go directly to: 
-Footnotes.
 
 Chapter LV - Symptoms and Treatment of repression of natural urging (Udavarta)
 
@@ -5331,10 +4780,6 @@ A compound consisting of the pulverised seeds of Madana and of Alavu, Pippali an
 
 Thus ends the fifty-fifth chapter of the Uttara-Tantra in the Sushruta Samhita which deals with the (symptoms and) treatment of Udavarta.
 
-Footnotes and references:
-
-[back to top]
-
 [1]:
 
 The symptoms mentioned in this sentence (which comprises a line in the verse) is taken by Mādhava with the following line which enumerates the symptoms of Udāvarta due to the voluntary repression of eructation.
@@ -5387,17 +4832,11 @@ Dallana recommends the major Panca-mula; but according to Cakrapāni’s comment
 
 ## 61. Chapter LVI - Symptoms and Treatment of Cholera (Visuchika)
 
-
 Sushruta Samhita, Volume 6: Uttara-tantra
-
-by Kaviraj Kunja Lal Bhishagratna | 1916 | 113,078 words
 
 This current book, the Uttara-tantra (english translation) is the supplementary part of the Sushrutasamhita and deals various subjects such as diseases of the eye, treatment of fever, diarrhea, diseases resulting from superhuman influences, insanity, rules of health etc.
 
 The Sushruta Samhita is the most representative work of the Hindu system of m...
-
-Go directly to: 
-Footnotes.
 
 Chapter LVI - Symptoms and Treatment of Cholera (Visuchika)
 
@@ -5451,10 +4890,6 @@ In a case of Anaha due to the presense of Ama, the patient should be treated wit
 
 Thus ends the fifty-sixth chapter in the Uttara-Tantra of the Sushruta Samhita which deals with the (symptoms and) treatment of Visuchika.
 
-Footnotes and references:
-
-[back to top]
-
 [1]:
 
 According to Śrikantha the commentator on Mādhava’s Nidāna—the patient himself makes an indistinct sound.
@@ -5485,17 +4920,11 @@ Kārtika Kundu does not include “urine” in this list. He reads “mātrārdd
 
 ## 62. Chapter LIX - Symptoms and Treatment of the defects of Urine (Mutra-dosha)
 
-
 Sushruta Samhita, Volume 6: Uttara-tantra
-
-by Kaviraj Kunja Lal Bhishagratna | 1916 | 113,078 words
 
 This current book, the Uttara-tantra (english translation) is the supplementary part of the Sushrutasamhita and deals various subjects such as diseases of the eye, treatment of fever, diarrhea, diseases resulting from superhuman influences, insanity, rules of health etc.
 
 The Sushruta Samhita is the most representative work of the Hindu system of m...
-
-Go directly to: 
-Footnotes.
 
 Chapter LIX - Symptoms and Treatment of the defects of Urine (Mutra-dosha)
 
@@ -5537,10 +4966,6 @@ Thus ends the fifty-ninth chapter of the Uttara-Tantra in the Sushruta Samhita w
 
 Here ends the Kaya-Chikitsa.
 
-Footnotes and references:
-
-[back to top]
-
 [1]:
 
 Dallana’s reading evidently is Mutra-kricchra (Strangury), for he says that the variant here in some Mss. is Mutra-dosha. He says further that some do not read this chapter at all on the ground that the matter in this chapter is included in the chapters on Aśmari, Mutrāghāta and Udāvarta, etc. But, according to him, it must be read here for treatment’s sake as well as on the ground of its being separately treated in other authoritative works. Mādhava, Chakra-pāni, Vrinda and other compilers have read this as Mutra-kricchra in a separate chapter as here.
@@ -5553,17 +4978,11 @@ Dallana says that the presence of the particle “ca” (meaning also) indicates
 
 ## 63. Chapter LVII - Symptoms and Treatment of aversion to food (Arochaka)
 
-
 Sushruta Samhita, Volume 6: Uttara-tantra
-
-by Kaviraj Kunja Lal Bhishagratna | 1916 | 113,078 words
 
 This current book, the Uttara-tantra (english translation) is the supplementary part of the Sushrutasamhita and deals various subjects such as diseases of the eye, treatment of fever, diarrhea, diseases resulting from superhuman influences, insanity, rules of health etc.
 
 The Sushruta Samhita is the most representative work of the Hindu system of m...
-
-Go directly to: 
-Footnotes.
 
 Chapter LVII - Symptoms and Treatment of aversion to food (Arochaka)
 
@@ -5609,10 +5028,6 @@ In a case of impaired digestion due to the effects of any ungratified desire, fe
 
 Thus ends the fifty-seventh chapter in the Uttara-Tantra of the Sushruta Samhita which deals with the (symptoms and) treatment of Arocaka.
 
-Footnotes and references:
-
-[back to top]
-
 [1]:
 
 Elā—Dallana says that some take Elā in the sense of Ela-vālukā (a part used for the whole). Śivadāsa, however, refutes this and asserts, on the authority of Vāgbhata, that “Ela” should mean Elā.
@@ -5645,17 +5060,11 @@ Dallana interprets “Rasa” by meat-soup but we are inclined to take it in the
 
 ## 64. Chapter LVIII - Symptoms and Treatment of suppression of Urine (Mutra-ghata)
 
-
 Sushruta Samhita, Volume 6: Uttara-tantra
-
-by Kaviraj Kunja Lal Bhishagratna | 1916 | 113,078 words
 
 This current book, the Uttara-tantra (english translation) is the supplementary part of the Sushrutasamhita and deals various subjects such as diseases of the eye, treatment of fever, diarrhea, diseases resulting from superhuman influences, insanity, rules of health etc.
 
 The Sushruta Samhita is the most representative work of the Hindu system of m...
-
-Go directly to: 
-Footnotes.
 
 Chapter LVIII - Symptoms and Treatment of suppression of Urine (Mutra-ghata)
 
@@ -5749,10 +5158,6 @@ Equal parts of Vala, stones of Kola -fruits, Yashti-madhu, Shvadamshtra (Gokshur
 
 Thus ends the fifty-eighth chapter in the Uttara-Tantra of the Sushruta Samhita which deals with the (symptoms and) treatment of the suppression of urine (Mutraghata).
 
-Footnotes and references:
-
-[back to top]
-
 [1]:
 
 Mādhava reads thirteen different kinds of this disease. He reads only one kind of Mutra-sāda and adds Vid-vighāta and Vasti-kundala.
@@ -5789,17 +5194,11 @@ Additional Text:—Powders of Tugā-kshiri and sugar should be mixed together wi
 
 ## 65. Chapter LX - Symptoms and Treatment of demonology (Amanusha)
 
-
 Sushruta Samhita, Volume 6: Uttara-tantra
-
-by Kaviraj Kunja Lal Bhishagratna | 1916 | 113,078 words
 
 This current book, the Uttara-tantra (english translation) is the supplementary part of the Sushrutasamhita and deals various subjects such as diseases of the eye, treatment of fever, diarrhea, diseases resulting from superhuman influences, insanity, rules of health etc.
 
 The Sushruta Samhita is the most representative work of the Hindu system of m...
-
-Go directly to: 
-Footnotes.
 
 Chapter LX - Symptoms and Treatment of demonology (Amanusha)
 
@@ -5851,10 +5250,6 @@ Unholy and improper articles should not be employed  in a case due to the influe
 
 Thus ends the sixtieth chapter of the Uttara-Tantra in the Sushruta-Samhita which deals with the (symptoms and) treatment of the disease brought on through super human influences.
 
-Footnotes and references:
-
-[back to top]
-
 [1]:
 
 Amānusha—lit. non-mānusha, i.e., other than human. It includes the deities, demons, ghosts, monsters and the manes and even the serpent-deities.
@@ -5895,10 +5290,7 @@ The word in the text is ‘Karabha’ which many mean a camel or an elephant. Da
 
 ## 66. Canto IV - Bhuta-vidya-tantra (psychology and psychiatry)
 
-
 Sushruta Samhita, Volume 6: Uttara-tantra
-
-by Kaviraj Kunja Lal Bhishagratna | 1916 | 113,078 words
 
 This current book, the Uttara-tantra (english translation) is the supplementary part of the Sushrutasamhita and deals various subjects such as diseases of the eye, treatment of fever, diarrhea, diseases resulting from superhuman influences, insanity, rules of health etc.
 
@@ -5912,17 +5304,11 @@ Canto IV - Bhuta-vidya-tantra (psychology and psychiatry)
 
 ## 67. Chapter LXI - Symptoms and Treatment of Epilepsy (Apasmara)
 
-
 Sushruta Samhita, Volume 6: Uttara-tantra
-
-by Kaviraj Kunja Lal Bhishagratna | 1916 | 113,078 words
 
 This current book, the Uttara-tantra (english translation) is the supplementary part of the Sushrutasamhita and deals various subjects such as diseases of the eye, treatment of fever, diarrhea, diseases resulting from superhuman influences, insanity, rules of health etc.
 
 The Sushruta Samhita is the most representative work of the Hindu system of m...
-
-Go directly to: 
-Footnotes.
 
 Chapter LXI - Symptoms and Treatment of Epilepsy (Apasmara)
 
@@ -5978,10 +5364,6 @@ Milk should be duly cooked with Bhargi and Payasa (porridge) should be prepared 
 
 Thus ends the sixty first chapter in the Uttara Tantra of the Sushruta Samhita which deals with the (symptoms and) treatment of Apasmara.
 
-Footnotes and references:
-
-[back to top]
-
 [1]:
 
 According to Dallana, the Ghrita should be cooked with the decoction of Krishnā and Vaca, while the drugs of the Āragvadhādi group should be used as Kalka.
@@ -5998,17 +5380,11 @@ Bhārgi—Dallana explains it as Goshthodumbara—the wild fig.
 
 ## 68. Chapter LXII - Symptoms and Treatment of Insanity (Unmada)
 
-
 Sushruta Samhita, Volume 6: Uttara-tantra
-
-by Kaviraj Kunja Lal Bhishagratna | 1916 | 113,078 words
 
 This current book, the Uttara-tantra (english translation) is the supplementary part of the Sushrutasamhita and deals various subjects such as diseases of the eye, treatment of fever, diarrhea, diseases resulting from superhuman influences, insanity, rules of health etc.
 
 The Sushruta Samhita is the most representative work of the Hindu system of m...
-
-Go directly to: 
-Footnotes.
 
 Chapter LXII - Symptoms and Treatment of Insanity (Unmada)
 
@@ -6058,10 +5434,6 @@ In a case of the fifth kind (viz. Shokaja) of insanity the cause of grief should
 
 Thus ends the sixty-second chapter in the Uttara-Tantra of the Sushruta Samhita which deals with the (symptoms and) treatment of Insanity.
 
-Footnotes and references:
-
-[back to top]
-
 [1]:
 
 Additional Text:—The patient should likewise be threatened with being forced into a burning hut. He should be also kept immersed in water or threatened with the fall of a thunder bolt.
@@ -6074,10 +5446,7 @@ According to Dallana the mentions of these two recipes (Kalyāna Ghrita and Phal
 
 ## 69. Canto V - Tantra-bhusana-adhyaya (embellishing chapters)
 
-
 Sushruta Samhita, Volume 6: Uttara-tantra
-
-by Kaviraj Kunja Lal Bhishagratna | 1916 | 113,078 words
 
 This current book, the Uttara-tantra (english translation) is the supplementary part of the Sushrutasamhita and deals various subjects such as diseases of the eye, treatment of fever, diarrhea, diseases resulting from superhuman influences, insanity, rules of health etc.
 
@@ -6091,10 +5460,7 @@ Canto V - Tantra-bhusana-adhyaya (embellishing chapters)
 
 ## 70. Chapter LXIII - Different Combinations of six different Rasas
 
-
 Sushruta Samhita, Volume 6: Uttara-tantra
-
-by Kaviraj Kunja Lal Bhishagratna | 1916 | 113,078 words
 
 This current book, the Uttara-tantra (english translation) is the supplementary part of the Sushrutasamhita and deals various subjects such as diseases of the eye, treatment of fever, diarrhea, diseases resulting from superhuman influences, insanity, rules of health etc.
 
@@ -6230,8 +5596,6 @@ Sweet, acid, bitter and astringent,
 
 Sweet, saline, pungent and astringent,
 
-Sweet, saline, pungent and astringent,
-
 and Sweet, pungent, bitter and astringent
 
 —these are the ten combinations (taken four at a time and) beginning with Madhura (sweet) Rasa.
@@ -6302,17 +5666,11 @@ Thus ends the sixty-third chapter of the Uttara-Tantra in the Sushruta Samhita w
 
 ## 71. Chapter LXIV - Rules of Health
 
-
 Sushruta Samhita, Volume 6: Uttara-tantra
-
-by Kaviraj Kunja Lal Bhishagratna | 1916 | 113,078 words
 
 This current book, the Uttara-tantra (english translation) is the supplementary part of the Sushrutasamhita and deals various subjects such as diseases of the eye, treatment of fever, diarrhea, diseases resulting from superhuman influences, insanity, rules of health etc.
 
 The Sushruta Samhita is the most representative work of the Hindu system of m...
-
-Go directly to: 
-Footnotes.
 
 Chapter LXIV - Rules of Health
 
@@ -6380,10 +5738,6 @@ The proper time for giving diet to a patient is when he gets free stool, urine a
 
 Thus ends the sixty-fourth chapter in the Uttara-tantra of the Sushruta-Samhita which deals with the Rules of Hygiene.
 
-Footnotes and references:
-
-[back to top]
-
 [1]:
 
 Some explain ‘Kriyā’ separately as the organic functions e. g. sleep and awakening, etc.—Dallana.
@@ -6412,17 +5766,11 @@ The whole of this Para is an interpolation in as much as Jejjata does not read t
 
 ## 72. Chapter LXV - The Technical terms used in the treatise
 
-
 Sushruta Samhita, Volume 6: Uttara-tantra
-
-by Kaviraj Kunja Lal Bhishagratna | 1916 | 113,078 words
 
 This current book, the Uttara-tantra (english translation) is the supplementary part of the Sushrutasamhita and deals various subjects such as diseases of the eye, treatment of fever, diarrhea, diseases resulting from superhuman influences, insanity, rules of health etc.
 
 The Sushruta Samhita is the most representative work of the Hindu system of m...
-
-Go directly to: 
-Footnotes.
 
 Chapter LXV - The Technical terms used in the treatise
 
@@ -6584,10 +5932,6 @@ Here have been fully described by me the thirty-two technical terms for the inve
 
 Thus ends the sixty-fifth chapter of the Uttara-Tantra in the Sushruta-Samhita which deals with the technical terms used in this work
 
-Footnotes and references:
-
-[back to top]
-
 [1]:
 
 The common example of an Arthāpatti (presumption) in Sanskrit philosophy is ‘Pino Devadatto divā na bhumkte,’ (i.e., Fat Devadatta does not eat at day-time), from which it is evident that he certainly eats at night, otherwise he could not have become fat.
@@ -6600,17 +5944,11 @@ Udāharana has been recognised here as a technical term. But it should not have 
 
 ## 73. Chapter LXVI - The different Modifications of the different Doshas
 
-
 Sushruta Samhita, Volume 6: Uttara-tantra
-
-by Kaviraj Kunja Lal Bhishagratna | 1916 | 113,078 words
 
 This current book, the Uttara-tantra (english translation) is the supplementary part of the Sushrutasamhita and deals various subjects such as diseases of the eye, treatment of fever, diarrhea, diseases resulting from superhuman influences, insanity, rules of health etc.
 
 The Sushruta Samhita is the most representative work of the Hindu system of m...
-
-Go directly to: 
-Footnotes.
 
 Chapter LXVI - The different Modifications of the different Doshas
 
@@ -6640,10 +5978,6 @@ Here ends the Uttara-Tantra.
 
 THE END
 
-Footnotes and references:
-
-[back to top]
-
 [1]:
 
 The reference is to chapter LXIII, but there the number is sixty-three and not sixty-two. The three Dhātus Vāyu, Pitta and Kapha, in their normal state, cannot properly be called Doshas. The state in which all the three Dhātus are in their normal state, is said to be the 63 rd. combination (see also para. 8 below).
@@ -6656,17 +5990,11 @@ The sixteen sub-strata are the five elementary principles, (viz. —Earth, Water
 
 ## 74. Chapter XXXVII - Origin of nine Grahas
 
-
 Sushruta Samhita, Volume 6: Uttara-tantra
-
-by Kaviraj Kunja Lal Bhishagratna | 1916 | 113,078 words
 
 This current book, the Uttara-tantra (english translation) is the supplementary part of the Sushrutasamhita and deals various subjects such as diseases of the eye, treatment of fever, diarrhea, diseases resulting from superhuman influences, insanity, rules of health etc.
 
 The Sushruta Samhita is the most representative work of the Hindu system of m...
-
-Go directly to: 
-Footnotes.
 
 Chapter XXXVII - Origin of nine Grahas
 
@@ -6693,10 +6021,6 @@ Children of the families in which the gods, the Titris (departed fathers), the B
 Thus the Grahas came into being and began to attack the children (of iniquitious parents), and it is therefore that a child attacked by a malignant Graha becomes very hard to be cured. Death or permanent disfigurement of any limb or organ is sure to ensue from an attack of Skanda Graha, since he is the most dreadful of all the Grahas. A case of full-developed attack by any other Graha should be likewise held as incurable. 3.
 
 Thus ends the thirty-seventh chapter of the Uttara Tantra in the Sushruta Samhita which deals with the origin of the Grahas.
-
-Footnotes and references:
-
-[back to top]
 
 [1]:
 

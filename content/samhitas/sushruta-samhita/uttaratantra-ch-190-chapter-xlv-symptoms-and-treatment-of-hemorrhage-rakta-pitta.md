@@ -20,17 +20,11 @@ This chapter from **Sushruta Samhita (Uttaratantra)** represents the classical s
 
 ---
 
-
 Sushruta Samhita, Volume 6: Uttara-tantra
-
-by Kaviraj Kunja Lal Bhishagratna | 1916 | 113,078 words
 
 This current book, the Uttara-tantra (english translation) is the supplementary part of the Sushrutasamhita and deals various subjects such as diseases of the eye, treatment of fever, diarrhea, diseases resulting from superhuman influences, insanity, rules of health etc.
 
 The Sushruta Samhita is the most representative work of the Hindu system of m...
-
-Go directly to: 
-Footnotes.
 
 Chapter XLV - Symptoms and Treatment of Hemorrhage (Rakta-pitta)
 
@@ -91,10 +85,6 @@ The application of an Asthapana-Vasti charged with milk duly cooked with the dru
 Urethral-injections composed of the aforesaid drugs should be applied (after the manner of Uttara-vasti) in the event of bleeding from the bladder. Measures laid down in connection with the treatment of Rakta-pitta should be resorted to in cases of bleeding-piles. In cases of menorrhagia as well as in cases of excessive bleeding incidental to any surgical operation, the above measures (of the medical treatment) should be adopted by an experienced physician. The subsequent treatment of the cases should be determined by the nature and intensity of the deranged bodily Doshas as well as of the blood involved therein. 28-29.
 
 Thus ends the forty-fifth chapter of the Uttara-Tantra in the Sushruta Samhita which deals with (the symptoms and) the medical treatment of Rakta-pitta.
-
-Footnotes and references:
-
-[back to top]
 
 [1]:
 

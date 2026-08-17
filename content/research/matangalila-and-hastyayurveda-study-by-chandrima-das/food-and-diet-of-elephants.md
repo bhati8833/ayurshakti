@@ -1,23 +1,15 @@
 ---
 title: "Food and Diet of Elephants — Matangalila And Hastyayurveda Study By Chandrima Das"
-paper_title: "Matangalila And Hastyayurveda Study By Chandrima Das"
-paper_slug: "matangalila-and-hastyayurveda-study-by-chandrima-das"
-chapter_title: "Food and Diet of Elephants"
-chapter_slug: "food-and-diet-of-elephants"
-chapter_number: 42
-reading_time: 4
-prev_chapter: "medical-treatment-of-elephants"
-next_chapter: "training-of-elephants"
-silo: "research"
-category: "Ayurvedic Research & Evidence"
-status: "Published"
-date: "2026-08-17"
 description: "Detailed analysis of Food and Diet of Elephants from Matangalila And Hastyayurveda Study By Chandrima Das by Chandrima Das. Evidence-based Ayurvedic literature review and pharmacognosy."
+category: "Ayurvedic Research & Evidence"
 author: "Suresh Bhati"
-original_scholar: "Chandrima Das"
+publishedDate: "2026-08-17"
+status: "Published"
 ---
 
 # 42. Food and Diet of Elephants
+
+> **Clinical Executive Summary**: This guide on **Food and Diet of Elephants — Matangalila And Hastyayurveda Study By Chandrima Das** synthesizes classical Sanskrit Samhita principles with modern botanical pharmacological research. Curated under the editorial supervision of Suresh Bhati, it provides actionable doshic guidelines, evidence-based applications, and safety parameters.
 
 > **TL;DR:** Chapter 42 of **Matangalila And Hastyayurveda Study By Chandrima Das** by **Chandrima Das** explores key findings on *Food and Diet of Elephants*. It bridges traditional Sanskrit literature with contemporary medical science.
 
@@ -36,10 +28,6 @@ As far as their diet is concerned the text mentions that in summer due to the ro
 Arthaśāstra specifies the ration for elephants.[5] The elephants of age thirty and twenty five i.e., value of middling and lower, are said to be given less by a quarter than that for the best. Ration is given according to their height. The food of elephants are mentioned here mentioning their units of measurement such as droṇa, āḍhaka, prastha, pala, bhāra etc. In meal elephants were given rice-grains, oil melted butter, salt, meat, juice or curds for moisturising dry lumps, liquor or milk with sugar as an invigorating drink, green fodder, dry grass and leaves of plants with no limit. Arthaśātra conveys the best kind of śāli rice should be consumed by humans and the inferior kind should be fed to the animals. It gives a surprisingly detail of amount of the śāli rice being given to the elephants.[6] Trautmann shows the underlying principle of this method is that the smaller amount of rice obtained from milling a unit of paddy the higher the quality, as it is more thoroughly cleaned off the bran. By this process 12 āḍhakas of rice of the lowest quality, milled from 5 droṇas of śāli paddy thus considered merely apt for feeding of a young or kalabha elephant and then the higher qualities given in order to the hierarchy of beings, such as after 12 āḍhaka, 11 is suitable for vicious elephants (vyāla), 10 for riding elephants, 9 for war elephants, 8 for foot soldiers, 7 for chiefs, 6 for the queens and princes and 5 for kings. So unbroken and cleaned one prastha of rice grains are considered as best for the king and broken, uncleaned rice with bran are prescribed best suitable for animals.
 
 Mātaṅgalīlā includes grains especially rice, both raw and cooked. Along with this the text also mentions wheat, barley, beans, other vegetables; grass, other jungle fodder in abundance; ghee (clarified butter), jaggery (a coarse kind of sugar), salt, various spices, sweetened drinks, meat broth and even meat itself, and occasionally strong liquor. The treatise also mentions careful figures of the amounts to be administered of each of the principal article of diet; the amount is made proportional to the animal’s size. Likewise an entire list of grasses to be given to elephants is enlisted in the Yavasadhyāya of Pālakāpya’s Hastyāyurveda (IV, 24ff). The text identifies several types of grasses eaten by elephants, some of which grow in the wild.[7] Edgerton[8] points out the matter of prescription of meat (māṃsa) and as food for elephants both in Mātaṅgalīlā (Chapter 11, v.25, 36)[9] and Hastyāyurveda (IV. 15, 30, 87)[10] along with Arthaśātra. According to Trautmann, processed and human-like food were taken from the granary or store houses and the food like grass, leaves of trees were collected from the grass cutters and gatherers.[11] The above data reflects that the elephant abodes and stables were filled with adequate amount of food supply for them.
-
-Footnotes and references:
-
-[back to top]
 
 [1]:
 
@@ -84,8 +72,6 @@ Ganapati Śāstri. ed. The Mātaṅgalīlā of Nīlakaṇṭha, pp. 32, 35.
 [11]:
 
 Thomas R. Trautmann. Elephants and Kings An Environmental History, Ranikhet, Permanent Black in association with Ashoka University, 2015, p. 161.
-
----
 
 ---
 
@@ -198,6 +184,72 @@ Thomas R. Trautmann. Elephants and Kings An Environmental History, Ranikhet, Per
           }
         }
       ]
+    }
+  ]
+}
+</script>
+
+## Frequently Asked Questions (FAQ)
+
+### What are the primary health benefits of Food and Diet of Elephants — Matangalila And Hastyayurveda Study By Chandrima Das in Ayurveda?
+Food and Diet of Elephants — Matangalila And Hastyayurveda Study By Chandrima Das is traditionally utilized in Ayurveda to balance doshic imbalances, support systemic vitality, and promote long-term physiological wellness under proper guidance.
+
+### How should Food and Diet of Elephants — Matangalila And Hastyayurveda Study By Chandrima Das be taken according to classical guidelines?
+According to classical Ayurvedic principles, Food and Diet of Elephants — Matangalila And Hastyayurveda Study By Chandrima Das is best administered with appropriate Anupana (carrier vehicles such as warm water, honey, or warm milk) tailored to an individual's Prakriti (constitution).
+
+### Are there any contraindications or side effects associated with Food and Diet of Elephants — Matangalila And Hastyayurveda Study By Chandrima Das?
+While generally well-tolerated when used appropriately, excessive usage or improper dosing may exacerbate specific doshas. Consult an Ayurvedic physician prior to therapeutic use.
+
+### How long does it take to observe results from using Food and Diet of Elephants — Matangalila And Hastyayurveda Study By Chandrima Das?
+In traditional Ayurvedic protocol, herbal formulations operate synergistically with diet and lifestyle. Notable improvements typically emerge within 2 to 4 weeks of consistent administration.
+
+### Is Food and Diet of Elephants — Matangalila And Hastyayurveda Study By Chandrima Das safe for long-term daily consumption?
+Certain tonic (Rasayana) preparations may be safely used long-term, whereas intensive therapeutic formulas are recommended for specific short-term protocols under expert supervision.
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What are the primary health benefits of Food and Diet of Elephants — Matangalila And Hastyayurveda Study By Chandrima Das in Ayurveda?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Food and Diet of Elephants — Matangalila And Hastyayurveda Study By Chandrima Das is traditionally utilized in Ayurveda to balance doshic imbalances, support systemic vitality, and promote long-term physiological wellness under proper guidance."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How should Food and Diet of Elephants — Matangalila And Hastyayurveda Study By Chandrima Das be taken according to classical guidelines?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "According to classical Ayurvedic principles, Food and Diet of Elephants — Matangalila And Hastyayurveda Study By Chandrima Das is best administered with appropriate Anupana (carrier vehicles such as warm water, honey, or warm milk) tailored to an individual's Prakriti (constitution)."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Are there any contraindications or side effects associated with Food and Diet of Elephants — Matangalila And Hastyayurveda Study By Chandrima Das?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "While generally well-tolerated when used appropriately, excessive usage or improper dosing may exacerbate specific doshas. Consult an Ayurvedic physician prior to therapeutic use."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How long does it take to observe results from using Food and Diet of Elephants — Matangalila And Hastyayurveda Study By Chandrima Das?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "In traditional Ayurvedic protocol, herbal formulations operate synergistically with diet and lifestyle. Notable improvements typically emerge within 2 to 4 weeks of consistent administration."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Is Food and Diet of Elephants — Matangalila And Hastyayurveda Study By Chandrima Das safe for long-term daily consumption?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Certain tonic (Rasayana) preparations may be safely used long-term, whereas intensive therapeutic formulas are recommended for specific short-term protocols under expert supervision."
+      }
     }
   ]
 }

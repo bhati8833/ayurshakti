@@ -20,15 +20,9 @@ This chapter from **Sushruta Samhita (Sutrasthana)** represents the classical su
 
 ---
 
-
 Sushruta Samhita, volume 1: Sutrasthana
 
-by Kaviraj Kunja Lal Bhishagratna | 1907 | 148,756 words
-
 This current book, the Sutra-sthana (english translation), is the first part of this voluminous medical work. It contains a large summary of the knowledge envelopig the medical aspects of Ayurveda. Descriptions of diseases, various diets and drugs, the duties of a surgeon, surgical procedures, medical training; these are only some of the numerous s...
-
-Go directly to: 
-Footnotes.
 
 Chapter VIII - Surgical instruments
 
@@ -67,10 +61,6 @@ Metrical texts:—
 The four articles such as strips of bamboo skin, crystals, bits of glass, and the rock known as Kuruvinda, should be used by an intelligent physician in incising or excising (Bhedana) operations, where the patient would be found to have a dread of the knife, or too young to be surgically operated upon with it, or where the proper instrument cannot be procured. The nails of fingers should be used in operations of incising, excising or extracting in (substitution for the instruments enjoined to be used for the purpose), when such a course would appear feasible. The processes of applying alkalis, leeches and cauterisation will be dealt with later on. In Diseases affecting the eyelids or the cavity of the mouth, operations for the purposes of secreting or evacuating (the accumulated pus or phlegm), may be performed with the leaves of Shakapatra, Shephalika or Gojis. In the absence of a probe or director, searching may be done with the help of a finger, or with a hair, or with a corn sprout. An intelligent physician should deem it his imperative duty to get his surgical instruments made by a skilful and experienced blacksmith, and of pure, strong and sharp iron (steel). A physician, skilled in the art of using surgical instruments, is always successful in his professional practice, and hence the practice of surgery should be commenced at the very outset of medical studies.
 
 Thus ends the eighth chapter of the Sutrasthana in the Sushruta Samhita which treats of Surgical Instruments.
-
-Footnotes and references:
-
-[back to top]
 
 [1]:
 

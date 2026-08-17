@@ -9,19 +9,11 @@ date: "2026-08-17"
 description: "Samhita is the most representative work of the Hindu system of medicine."
 ---
 
-**Author / Source:** by Kaviraj Kunja Lal Bhishagratna
-
-
-**Total Chapters/Sections:** 43
-
 ---
 
 ## 1. Title Page
 
-
 Sushruta Samhita, volume 4: Cikitsasthana
-
-by Kaviraj Kunja Lal Bhishagratna | 1911 | 123,229 words
 
 This current book, the Chikitsa-sthana (english translation), deals with therapeutics, surgical emergencies, geriatrics, aphrodisiacs and various other subjects.
 
@@ -62,10 +54,7 @@ No. 10, KASHI GHOSE’S LANE.
 
 ## 2. Introduction
 
-
 Sushruta Samhita, volume 4: Cikitsasthana
-
-by Kaviraj Kunja Lal Bhishagratna | 1911 | 123,229 words
 
 This current book, the Chikitsa-sthana (english translation), deals with therapeutics, surgical emergencies, geriatrics, aphrodisiacs and various other subjects.
 
@@ -79,10 +68,7 @@ Please refer to the introduction attached to the first part of the second volume
 
 ## 3. Preface
 
-
 Sushruta Samhita, volume 4: Cikitsasthana
-
-by Kaviraj Kunja Lal Bhishagratna | 1911 | 123,229 words
 
 This current book, the Chikitsa-sthana (english translation), deals with therapeutics, surgical emergencies, geriatrics, aphrodisiacs and various other subjects.
 
@@ -96,17 +82,11 @@ For the preface of this edition, see the Nidanasthana.
 
 ## 4. Chapter I - The medical treatment of inflamed ulcers
 
-
 Sushruta Samhita, volume 4: Cikitsasthana
-
-by Kaviraj Kunja Lal Bhishagratna | 1911 | 123,229 words
 
 This current book, the Chikitsa-sthana (english translation), deals with therapeutics, surgical emergencies, geriatrics, aphrodisiacs and various other subjects.
 
 The Sushruta Samhita is the most representative work of the Hindu system of medicine. It embraces all that can possibly appertain to the science of medicine. Susruta-samhita is recognized...
-
-Go directly to: 
-Footnotes.
 
 Chapter I - The medical treatment of inflamed ulcers
 
@@ -388,10 +368,6 @@ The distressing supervening symptoms which are found to attend a case of ulcer, 
 
 Thus ends the first Chapter of the Chikitsita-Sthana in the Sushruta Samhita which deals with the treatment of the two kinds of ulcer.
 
-Footnotes and references:
-
-[back to top]
-
 [1]:
 
 Fragments of broken pottery.—Dallana.
@@ -484,17 +460,11 @@ The sixty medicinal measures and remedies are those described before in the pres
 
 ## 5. Chapter III - The medical treatments of fractures and dislocations
 
-
 Sushruta Samhita, volume 4: Cikitsasthana
-
-by Kaviraj Kunja Lal Bhishagratna | 1911 | 123,229 words
 
 This current book, the Chikitsa-sthana (english translation), deals with therapeutics, surgical emergencies, geriatrics, aphrodisiacs and various other subjects.
 
 The Sushruta Samhita is the most representative work of the Hindu system of medicine. It embraces all that can possibly appertain to the science of medicine. Susruta-samhita is recognized...
-
-Go directly to: 
-Footnotes.
 
 Chapter III - The medical treatments of fractures and dislocations
 
@@ -554,10 +524,6 @@ A physician should exert his utmost to guard against the advent of any suppurati
 
 Thus ends the third Chapter of the Chikitsita Sthana in the Sushruta Samhita which deals with the medical treatment of fractures and dislocations.
 
-Footnotes and references:
-
-[back to top]
-
 [1]:
 
 Jejjata does not read the first verse, but Gayi does.
@@ -614,17 +580,11 @@ There should be three parts of sesamum powder and one part of the powders of Kak
 
 ## 6. Chapter IV - The medical treatment of nervous disorders
 
-
 Sushruta Samhita, volume 4: Cikitsasthana
-
-by Kaviraj Kunja Lal Bhishagratna | 1911 | 123,229 words
 
 This current book, the Chikitsa-sthana (english translation), deals with therapeutics, surgical emergencies, geriatrics, aphrodisiacs and various other subjects.
 
 The Sushruta Samhita is the most representative work of the Hindu system of medicine. It embraces all that can possibly appertain to the science of medicine. Susruta-samhita is recognized...
-
-Go directly to: 
-Footnotes.
 
 Chapter IV - The medical treatment of nervous disorders
 
@@ -680,10 +640,6 @@ The remedy proves efficacious in Vata-roga through its heat-making potency, powe
 
 Thus ends the fourth Chapter of the Chikitsita Sthana in the Sushruta Samhita which deals with the treatment of Vata-Ayadhi.
 
-Footnotes and references:
-
-[back to top]
-
 [1]:
 
 One Dharana is equal to four Mashas.
@@ -724,17 +680,11 @@ The total weight of these powders should be one-fourth of the weight of the rock
 
 ## 7. Chapter V - The diseases affecting the nervous system
 
-
 Sushruta Samhita, volume 4: Cikitsasthana
-
-by Kaviraj Kunja Lal Bhishagratna | 1911 | 123,229 words
 
 This current book, the Chikitsa-sthana (english translation), deals with therapeutics, surgical emergencies, geriatrics, aphrodisiacs and various other subjects.
 
 The Sushruta Samhita is the most representative work of the Hindu system of medicine. It embraces all that can possibly appertain to the science of medicine. Susruta-samhita is recognized...
-
-Go directly to: 
-Footnotes.
 
 Chapter V - The diseases affecting the nervous system
 
@@ -872,10 +822,6 @@ Guggulu is aromatic, light, penetrating into the minutest parts of the body, sha
 
 Thus ends the fifth Chapter of the Chikitsita Sthana in the Sushruta-Samhita which deals with the medical treatment of Maha-Vata-Vyadhi.
 
-Footnotes and references:
-
-[back to top]
-
 [1]:
 
 According to Jejjata Acaryya, the “Vala-Taila”, which is administered in the medical treatment of Mudha-garbha, should be prescribed in this case.
@@ -974,17 +920,11 @@ Some read “Kshira” (milk) in the place of “Kshara” (alkali).
 
 ## 8. Chapter II - The medical treatment of wounds or sores
 
-
 Sushruta Samhita, volume 4: Cikitsasthana
-
-by Kaviraj Kunja Lal Bhishagratna | 1911 | 123,229 words
 
 This current book, the Chikitsa-sthana (english translation), deals with therapeutics, surgical emergencies, geriatrics, aphrodisiacs and various other subjects.
 
 The Sushruta Samhita is the most representative work of the Hindu system of medicine. It embraces all that can possibly appertain to the science of medicine. Susruta-samhita is recognized...
-
-Go directly to: 
-Footnotes.
 
 Chapter II - The medical treatment of wounds or sores
 
@@ -1064,10 +1004,6 @@ The recognised school of physicians, which recognises these six types of traumat
 
 Thus ends the second Chapter of the Chikitsita Sthana of the Sushruta Samhita which deals with the treatment of Sadyo-vrana (traumatic sores).
 
-Footnotes and references:
-
-[back to top]
-
 [1]:
 
 Snehapana is recommended when the ulcer is in a region above the umbilicus and Vasti-karma when the ulcer is in a subumbilical region.
@@ -1120,17 +1056,11 @@ With oil in autumn and in the case of a patient of Rakta-pitta temperament, and 
 
 ## 9. Chapter VIII - The medical treatment of Fistula-in-ano
 
-
 Sushruta Samhita, volume 4: Cikitsasthana
-
-by Kaviraj Kunja Lal Bhishagratna | 1911 | 123,229 words
 
 This current book, the Chikitsa-sthana (english translation), deals with therapeutics, surgical emergencies, geriatrics, aphrodisiacs and various other subjects.
 
 The Sushruta Samhita is the most representative work of the Hindu system of medicine. It embraces all that can possibly appertain to the science of medicine. Susruta-samhita is recognized...
-
-Go directly to: 
-Footnotes.
 
 Chapter VIII - The medical treatment of Fistula-in-ano
 
@@ -1182,10 +1112,6 @@ The bulb-like protrusion above the hole of the instrument (speculum), mentioned 
 
 Thus ends the eighth Chapter of the Chikitsita Sthana of the Sushruta-Samhita which deals with the treatment of Bhagandara.
 
-Footnotes and references:
-
-[back to top]
-
 [1]:
 
 Apatarpana, Alepa, Parisheka, Abhyanga, Sveda, Vimlapana, Upanaha, Pacana, Visravana, Sneha, and Vamana.
@@ -1202,17 +1128,11 @@ Four seers of oil, one seer of the drugs and sixteen seers of water should be ta
 
 ## 10. Chapter VII - The medical treatment of urinary conditions
 
-
 Sushruta Samhita, volume 4: Cikitsasthana
-
-by Kaviraj Kunja Lal Bhishagratna | 1911 | 123,229 words
 
 This current book, the Chikitsa-sthana (english translation), deals with therapeutics, surgical emergencies, geriatrics, aphrodisiacs and various other subjects.
 
 The Sushruta Samhita is the most representative work of the Hindu system of medicine. It embraces all that can possibly appertain to the science of medicine. Susruta-samhita is recognized...
-
-Go directly to: 
-Footnotes.
 
 Chapter VII - The medical treatment of urinary conditions
 
@@ -1284,10 +1204,6 @@ The surgeon who is not well cognisant of the nature and positions of the Marmas 
 
 Thus ends the seventh Chapter of the Chikitsita Sthana in the Sushruta Samhita which deals with the treatment of Urinary calculus.
 
-Footnotes and references:
-
-[back to top]
-
 [1]:
 
 Chakradatta reads “Kopotavaktra” in place of “Kapotavamka” “Kancana” in place of “Kakubha”; and “Gulmaka” in place of “Kubjaka From an examination of Dallana it appears that “Kacchaka” is also a reading of “Kakubha.”
@@ -1328,17 +1244,11 @@ The urine-purifying drugs are the Trina-Pancamulas, Gokshura, Kasamarda, Pashana
 
 ## 11. Chapter VI - The medical treatment of Hemorrhoids
 
-
 Sushruta Samhita, volume 4: Cikitsasthana
-
-by Kaviraj Kunja Lal Bhishagratna | 1911 | 123,229 words
 
 This current book, the Chikitsa-sthana (english translation), deals with therapeutics, surgical emergencies, geriatrics, aphrodisiacs and various other subjects.
 
 The Sushruta Samhita is the most representative work of the Hindu system of medicine. It embraces all that can possibly appertain to the science of medicine. Susruta-samhita is recognized...
-
-Go directly to: 
-Footnotes.
 
 Chapter VI - The medical treatment of Hemorrhoids
 
@@ -1406,10 +1316,6 @@ Medicated Ghritas, appetising drugs, electuaries, medicinal wines, Ayaskriti and
 
 Thus ends the sixth Chapter in the Chikitsita Sthana of the Sushruta Samhita which deals with the medical treatment of Arshas.
 
-Footnotes and references:
-
-[back to top]
-
 [1]:
 
 Such as the decoction of the drugs of the Bhadra-darvadi (Vayu- subduing) and Pippalyadi (Dipaniya) groups. This Ghrita should be prescribed in a Vataja Arshas.
@@ -1458,17 +1364,11 @@ Boiled with sixteen times of water in the event of the Bhallataka being dry, oth
 
 ## 12. Chapter X - The medical treatment of major cutaneous affections
 
-
 Sushruta Samhita, volume 4: Cikitsasthana
-
-by Kaviraj Kunja Lal Bhishagratna | 1911 | 123,229 words
 
 This current book, the Chikitsa-sthana (english translation), deals with therapeutics, surgical emergencies, geriatrics, aphrodisiacs and various other subjects.
 
 The Sushruta Samhita is the most representative work of the Hindu system of medicine. It embraces all that can possibly appertain to the science of medicine. Susruta-samhita is recognized...
-
-Go directly to: 
-Footnotes.
 
 Chapter X - The medical treatment of major cutaneous affections
 
@@ -1536,10 +1436,6 @@ An intelligent physician may prepare a thousand varieties of medicated remedies,
 
 Thus ends the tenth Chapter of Chikitsita Sthana in the Sushruta Samhita which deals with the medical treatment of Maha-Kushtha.
 
-Footnotes and references:
-
-[back to top]
-
 [1]:
 
 Kushtha which affects the deeper tissues and fundamental principles of the body is called Maha-Kushtha.
@@ -1594,17 +1490,11 @@ The decoction of Khadira-wood for drink should be prepared after the manner of S
 
 ## 13. Chapter XI - The diseases of the urinary tracts
 
-
 Sushruta Samhita, volume 4: Cikitsasthana
-
-by Kaviraj Kunja Lal Bhishagratna | 1911 | 123,229 words
 
 This current book, the Chikitsa-sthana (english translation), deals with therapeutics, surgical emergencies, geriatrics, aphrodisiacs and various other subjects.
 
 The Sushruta Samhita is the most representative work of the Hindu system of medicine. It embraces all that can possibly appertain to the science of medicine. Susruta-samhita is recognized...
-
-Go directly to: 
-Footnotes.
 
 Chapter XI - The diseases of the urinary tracts
 
@@ -1659,10 +1549,6 @@ Memorable Verse:—
 A poor patient, carefully following these directions of his medical advisers without the least demur or delay, should be able to get rid of the disease (Prameha) in the course of a year or even in less than that time. 13.
 
 Thus ends the eleventh Chapter of the Chikitsita Sthana in the Sushruta Samhita which deals with the medical treatment of Prameha.
-
-Footnotes and references:
-
-[back to top]
 
 [1]:
 
@@ -1720,17 +1606,11 @@ Some explain the phrase “brahmarathamupadharayet” to mean that he should ret
 
 ## 14. Chapter XII - The medical treatment of abscesses sequeling Prameha
 
-
 Sushruta Samhita, volume 4: Cikitsasthana
-
-by Kaviraj Kunja Lal Bhishagratna | 1911 | 123,229 words
 
 This current book, the Chikitsa-sthana (english translation), deals with therapeutics, surgical emergencies, geriatrics, aphrodisiacs and various other subjects.
 
 The Sushruta Samhita is the most representative work of the Hindu system of medicine. It embraces all that can possibly appertain to the science of medicine. Susruta-samhita is recognized...
-
-Go directly to: 
-Footnotes.
 
 Chapter XII - The medical treatment of abscesses sequeling Prameha
 
@@ -1767,10 +1647,6 @@ Traits of cure:—
 The cure of Prameha-patients should be understood from the non-slimy and unturbid condition of the urine and from its clear transparent aspect and bitter or pungent taste. 12.
 
 Thus ends the twelfth Chapter of the Chikitsita Sthana in the Sushruta Sambita which deals with the medical treatment of Prameha-Pidaka.
-
-Footnotes and references:
-
-[back to top]
 
 [1]:
 
@@ -1818,8 +1694,6 @@ The recipe of Loharishta, according to Vagbhata, is as follows:—
 
 The drugs of the Asanadi group (which corresponds with Sushruta’s Shala-saradi group), each weighing twenty Palas, should be boiled in eight Dronas of water down to a quarter part of its weight. Two hundred Pala weight of treacle and half an Adhaka (four seers) of honey and the powders of the drugs of the Vatsakadi group (which corresponds with the Pippalyadi group of Sushruta), each weighing one Pala, should be mixed with the above decoction when cooled. A (new earthen) pitcher should be plastered inside with (an adequate quantity of) Pippali-powder and honey, the outer side being plastered with shellac. The above preparation should now be poured into this pitcher which should be kept in a heap of barley. A fire should be kindled with Khadira charcoal. Thin iron-foils should be alternately heated in this fire and immersed in the above preparation until the iron-foils are powdered.
 
-The drugs of the Asanadi group (which corresponds with Sushruta’s Shala-saradi group), each weighing twenty Palas, should be boiled in eight Dronas of water down to a quarter part of its weight. Two hundred Pala weight of treacle and half an Adhaka (four seers) of honey and the powders of the drugs of the Vatsakadi group (which corresponds with the Pippalyadi group of Sushruta), each weighing one Pala, should be mixed with the above decoction when cooled. A (new earthen) pitcher should be plastered inside with (an adequate quantity of) Pippali-powder and honey, the outer side being plastered with shellac. The above preparation should now be poured into this pitcher which should be kept in a heap of barley. A fire should be kindled with Khadira charcoal. Thin iron-foils should be alternately heated in this fire and immersed in the above preparation until the iron-foils are powdered.
-
 Vagbhata gives the name of Ayaskriti to this preparation.
 
 We, however, follow Vagbhata in the preparation of this Arishta with good results.—Ed.
@@ -1828,17 +1702,11 @@ We, however, follow Vagbhata in the preparation of this Arishta with good result
 
 ## 15. Chapter XIII - The medical treatment of Diabetes
 
-
 Sushruta Samhita, volume 4: Cikitsasthana
-
-by Kaviraj Kunja Lal Bhishagratna | 1911 | 123,229 words
 
 This current book, the Chikitsa-sthana (english translation), deals with therapeutics, surgical emergencies, geriatrics, aphrodisiacs and various other subjects.
 
 The Sushruta Samhita is the most representative work of the Hindu system of medicine. It embraces all that can possibly appertain to the science of medicine. Susruta-samhita is recognized...
-
-Go directly to: 
-Footnotes.
 
 Chapter XIII - The medical treatment of Diabetes
 
@@ -1872,8 +1740,6 @@ He should be made to recite, at the time of his taking the fourth dose, a Mantra
 
 “Cleansest and purifiest, O Thou potent essence of seed- marrow, all the essential principles of (my) vital organism. The deity who knows no decay and suffers no change and who weilds a discus, a mace and a conch-shell in his arms, commands thee on that behalf.”
 
-“Cleansest and purifiest, O Thou potent essence of seed- marrow, all the essential principles of (my) vital organism. The deity who knows no decay and suffers no change and who weilds a discus, a mace and a conch-shell in his arms, commands thee on that behalf.”
-
 The Doshas in both the upper and the lower parts of a patient’s body are cleansed with the help of this oil (which should be given to the patient in the morning); while a cold gruel, unseasoned[5] with salt and not mixed with any emollient substance (oil or clarified butter) should be given to him in the afternoon. The use of this oil should be repeated in the same manner for five days in succession, and the patient should avoid anger, etc., and live on Mudga soup (Yusha) and boiled rice for a fortnight. A five days’ use of this oil would ensure the cure of every types of Kushtha (and Madhu- meha). 8-9.
 
 The foregoing (Tuvaraka) oil should be boiled and prepared with a decoction of Khadira weighing three times the quantity of the oil and taken internally with patience for a month for the same purpose. The patient should anoint his body with the same and then take his meals in the prescribed form. A Kushtha-patient (as well as a Meha-patient) suffering from hoarseness, redeyes and with worm-eaten and emaciated limbs should be speedily treated with this oil as an anointment and a drink. Regular potions of the above medicinal (Tuvaraka) oil taken with honey, clarified butter and a decoction of Khadira and a diet consisting of the soups of bird’s flesh (during its course) would enable the user to live for a period of two hundred years. A use of this oil as errhines (Nasya) for a period of fifty consecutive days would enable the user to witness three hundred years on earth, in the full enjoyment of bodily vigour and a youthful glow of complexion, as well as with a very powerful retentive memory.
@@ -1883,10 +1749,6 @@ A regular use (in an adequate dose) of the pith of Tuvaraka cleanses the system 
 The pith (inner pulp of the seeds' of the Tuvaraka burnt in a closed vessel (Antar-dhuma) should be mixed with Saindhava-salt, Anjana[6] and Tuvaraka oil. This prepared compound, used as a collyrium, is efficacious in cases of eye-diseases, such as night-blindness, Arman, Nili, Kacha-roga (dimness of sight) and Timira. 11.
 
 Thus ends the thirteenth Chapter of the Chikitsita Sthana in the Sushruta Samhita which deals with the treatment of Madhu-Meha.
-
-Footnotes and references:
-
-[back to top]
 
 [1]:
 
@@ -1916,17 +1778,11 @@ Dallana recommends the three things, viz., the pith of the Tuvaraka, the Saindha
 
 ## 16. Chapter XIV - The medical treatment of dropsy
 
-
 Sushruta Samhita, volume 4: Cikitsasthana
-
-by Kaviraj Kunja Lal Bhishagratna | 1911 | 123,229 words
 
 This current book, the Chikitsa-sthana (english translation), deals with therapeutics, surgical emergencies, geriatrics, aphrodisiacs and various other subjects.
 
 The Sushruta Samhita is the most representative work of the Hindu system of medicine. It embraces all that can possibly appertain to the science of medicine. Susruta-samhita is recognized...
-
-Go directly to: 
-Footnotes.
 
 Chapter XIV - The medical treatment of dropsy
 
@@ -2026,10 +1882,6 @@ Skilled physicians should prescribe boiled milk and the soup of the flesh of ani
 
 Thus ends the fourteenth Chapter in the Chikitsita Sthana of the Sushruta Samhita which deals with the treatment of Udara.
 
-Footnotes and references:
-
-[back to top]
-
 [1]:
 
 If this be not done, the patient is sure to die j but it is not certain whether he would get any relief from this treatment. It being, however, possible in some cases to save the life of a patient by the application of this medicine, it should be used, as the last resort with the permission of the king.—Dallana.
@@ -2056,8 +1908,6 @@ Dallana explains the sentence as follows:—
 
 Asavas, Arishtas and Suras should be prepared with urine (instead of the liquid i.e., water) and the milky exudation of Maha-vriksha (as an after-throw), and should be constantly used.
 
-Asavas, Arishtas and Suras should be prepared with urine (instead of the liquid i.e., water) and the milky exudation of Maha-vriksha (as an after-throw), and should be constantly used.
-
 [7]:
 
 Dropsical swelling of the abdomen owing to an enlargement of the spleen.
@@ -2072,11 +1922,7 @@ The use of water is forbidden during these nine months.
 
 “During the first six months, drinking, washing, etc., should be done with milk or the soup of Jangala animals. After this period, the said purposes should be served with half-diluted milk or meat-soup seasoned with the juice of acid fruits. Water may be used during the period of the next three ninths.”—Dallana.
 
-“During the first six months, drinking, washing, etc., should be done with milk or the soup of Jangala animals. After this period, the said purposes should be served with half-diluted milk or meat-soup seasoned with the juice of acid fruits. Water may be used during the period of the next three ninths.”—Dallana.
-
 Vagbhata following Charaka says: —
-
-“The patient should live only on milk for six months. After this period, he should live on porridge (Peya) boiled with milk; and for the next three months he should live on boiled Shyama-rice with milk, or with the soup of meat seasoned with the juice or acid fruits and mixed with clarified butter and a small quantity of salt.”
 
 “The patient should live only on milk for six months. After this period, he should live on porridge (Peya) boiled with milk; and for the next three months he should live on boiled Shyama-rice with milk, or with the soup of meat seasoned with the juice or acid fruits and mixed with clarified butter and a small quantity of salt.”
 
@@ -2086,17 +1932,11 @@ The water of tender and green cocoanuts is used in cases of Udara in place of pu
 
 ## 17. Chapter IX - The medical treatment of cutaneous affections
 
-
 Sushruta Samhita, volume 4: Cikitsasthana
-
-by Kaviraj Kunja Lal Bhishagratna | 1911 | 123,229 words
 
 This current book, the Chikitsa-sthana (english translation), deals with therapeutics, surgical emergencies, geriatrics, aphrodisiacs and various other subjects.
 
 The Sushruta Samhita is the most representative work of the Hindu system of medicine. It embraces all that can possibly appertain to the science of medicine. Susruta-samhita is recognized...
-
-Go directly to: 
-Footnotes.
 
 Chapter IX - The medical treatment of cutaneous affections
 
@@ -2200,10 +2040,6 @@ The paring of the nails and shaving the hair off, light physical exercise, the u
 
 Thus ends the ninth Chapter of the Chikitsita Sthana in the Sushruta Samhita which deals with the medical treatment of Kushtha.
 
-Footnotes and references:
-
-[back to top]
-
 [1]:
 
 An unsalted decoction of any substance not seasoned with any spices whatever is called Yusha, while the one salted and seasoned with spices is called Supa. In preparing the soup of any pulse, all husks should be carefully thrashed out and the grain should be slightly fried before boiling.
@@ -2258,8 +2094,6 @@ The leaves and bark respectively of the Amra and the Haritaki  should be taken i
 
 “tailena siktaṃ kaṭuna samastamalepayedevamupaiti shantim ||”
 
-“tailena siktaṃ kaṭuna samastamalepayedevamupaiti shantim ||”
-
 This seems to be a better reading. It removes the difficulty in the construction, but it omits also the word “Kilasa” from the text. This, however, is also an improvement, inasmuch as this preparation seems to be a remedy for Shvitra (which is only a variety of Kilasa) like the preceding and the following ones; and it seems unlikely that Sushruta would introduce a remedy for Kilasa in general in the special treatment of Shvitra.
 
 [14]:
@@ -2306,17 +2140,11 @@ The decoction of Khadira in the bath as well as in the preparation of the gruel 
 
 ## 18. Chapter XV - The medical/surgical treatment of the fetus
 
-
 Sushruta Samhita, volume 4: Cikitsasthana
-
-by Kaviraj Kunja Lal Bhishagratna | 1911 | 123,229 words
 
 This current book, the Chikitsa-sthana (english translation), deals with therapeutics, surgical emergencies, geriatrics, aphrodisiacs and various other subjects.
 
 The Sushruta Samhita is the most representative work of the Hindu system of medicine. It embraces all that can possibly appertain to the science of medicine. Susruta-samhita is recognized...
-
-Go directly to: 
-Footnotes.
 
 Chapter XV - The medical/surgical treatment of the fetus
 
@@ -2378,10 +2206,6 @@ Nilotpala and Shatavari should be cooked in milk. The milk thus prepared should 
 
 Thus ends the fifteenth Chapter of the Chikitsita Sthana in the Sushruta Samhita which deals with the medical treatment of Mudha- garbha.
 
-Footnotes and references:
-
-[back to top]
-
 [1]:
 
 The oil should be introduced into the vaginal canal by means of Pichu, i e., cotton plugs soaked in oil, etc.
@@ -2402,17 +2226,11 @@ Vala would be the Kalka in this oil, says Dallana. But he also says that some au
 
 ## 19. Chapter XVI - The medical treatment of Abscesses and Tumours
 
-
 Sushruta Samhita, volume 4: Cikitsasthana
-
-by Kaviraj Kunja Lal Bhishagratna | 1911 | 123,229 words
 
 This current book, the Chikitsa-sthana (english translation), deals with therapeutics, surgical emergencies, geriatrics, aphrodisiacs and various other subjects.
 
 The Sushruta Samhita is the most representative work of the Hindu system of medicine. It embraces all that can possibly appertain to the science of medicine. Susruta-samhita is recognized...
-
-Go directly to: 
-Footnotes.
 
 Chapter XVI - The medical treatment of Abscesses and Tumours
 
@@ -2458,10 +2276,6 @@ The medical treatment of a patient, afflicated with a Majja-jata abscess (absces
 
 Thus ends the sixteenth Chapter of the Chikitsita Sthana in the Sushruta Samhita which deals with the treatment of abscess.
 
-Footnotes and references:
-
-[back to top]
-
 [1]:
 
 Commencing with Apatarpana up to purgative measures (Chikitsa, chapter.–I).
@@ -2494,17 +2308,11 @@ Dallana reads “Tini” in place of “Nemi,” both of which, however, mean �
 
 ## 20. Chapter XVIII - The medical treatment of Glandular Swellings
 
-
 Sushruta Samhita, volume 4: Cikitsasthana
-
-by Kaviraj Kunja Lal Bhishagratna | 1911 | 123,229 words
 
 This current book, the Chikitsa-sthana (english translation), deals with therapeutics, surgical emergencies, geriatrics, aphrodisiacs and various other subjects.
 
 The Sushruta Samhita is the most representative work of the Hindu system of medicine. It embraces all that can possibly appertain to the science of medicine. Susruta-samhita is recognized...
-
-Go directly to: 
-Footnotes.
 
 Chapter XVIII - The medical treatment of Glandular Swellings
 
@@ -2579,10 +2387,6 @@ In a case of a Medoja goitre (due to the deranged fat), the patient should be fi
 As an alternative, the Goitre (Gala ganda) should be opened, its fatty contents fully removed and the wound then sutured. Or it should be cauterised with the application of heated animal marrow, clarified butter, lard, or honey; after which it should be lubricated with clarified butter and honey (mixed together), and a pulverised compound of Kasisa, Tuttha, and Gorocanay should be applied to it; or after lubricating it with oil, it should be dusted with the ashes of cow- dung and of Shala-sara. Daily washings with the decoction of Triphala, hard bandaging and a diet of barley, prove efficacious (in cases of goitre). 40.
 
 Thus ends the Eighteenth Chapter of the Chikitsita Sthana in the Sushruta Samhita, which deals with the medical treatment of Glands, Scrofula, Tumour and Goitre.
-
-Footnotes and references:
-
-[back to top]
 
 [1]:
 
@@ -2688,17 +2492,11 @@ Some say that the oil should be prepared with the decoction as well as with Kalk
 
 ## 21. Chapter XXI - The medical treatment of poison caused by a Shuka (water insect)
 
-
 Sushruta Samhita, volume 4: Cikitsasthana
-
-by Kaviraj Kunja Lal Bhishagratna | 1911 | 123,229 words
 
 This current book, the Chikitsa-sthana (english translation), deals with therapeutics, surgical emergencies, geriatrics, aphrodisiacs and various other subjects.
 
 The Sushruta Samhita is the most representative work of the Hindu system of medicine. It embraces all that can possibly appertain to the science of medicine. Susruta-samhita is recognized...
-
-Go directly to: 
-Footnotes.
 
 Chapter XXI - The medical treatment of poison caused by a Shuka (water insect)
 
@@ -2734,10 +2532,6 @@ The medical treatment of the patient affected with any of the following types of
 
 Thus ends the twenty-first Chapter of the Chikitsita Sthana in the Sushruta Samhita which deals with the treatment of Shuka-Roga.
 
-Footnotes and references:
-
-[back to top]
-
 [1]:
 
 Shiva-dasa in his commentary on Chikra-datta quotes this couplet from Sushruta, but there he reads amrakṛtena in place of amratakena that is to say, he says that Amra should be used in place of Amrataka. He further adds that the stones of Amra and Tinduka fruits should be taken.
@@ -2754,17 +2548,11 @@ This seems to be the general treatment of all the types of Shuka-Roga.
 
 ## 22. Chapter XVII - The medical treatment of erysipelas
 
-
 Sushruta Samhita, volume 4: Cikitsasthana
-
-by Kaviraj Kunja Lal Bhishagratna | 1911 | 123,229 words
 
 This current book, the Chikitsa-sthana (english translation), deals with therapeutics, surgical emergencies, geriatrics, aphrodisiacs and various other subjects.
 
 The Sushruta Samhita is the most representative work of the Hindu system of medicine. It embraces all that can possibly appertain to the science of medicine. Susruta-samhita is recognized...
-
-Go directly to: 
-Footnotes.
 
 Chapter XVII - The medical treatment of erysipelas
 
@@ -2825,10 +2613,6 @@ In cases of a derangement of the milk (of the breast) a draught of clarified but
 The above are the general remedial measures which are to be adopted in the affections of breast-milk. Any other defect in the breast-milk should be corrected specially with an eye to the nature of the Dosha involved in the case. In cases of inflammatory swellings of the breasts, the physician should remedy them by means of any one of the various measures laid down under the head of Vidradhi with a due consideration to the requirements of each particular case. Medicinal remedies should only be internally employed and no poultices should be applied for the speedy suppuration of the swelling of the breast, even if found to have already commenced to suppurate; since the breasts are of an extremely soft and fleshy growth, any tight bandaging about those parts may be followed by local sloughing or even bursting. In a case where suppuration had already taken place, an operation should be made in the affected part, avoiding the milk-carrying veins as well as the nipple with its black surroundings. In all the cases of Stana-Vidradhi—whether non-suppurated, suppurating, or suppurated—the milk should be pressed out from the breast of the Dhatri[16] 27-29.
 
 Thus ends the Seventeenth Chapter of the Chikitsita Sthana in the Sushruta Samhita which deals with the treatment of erysipelas, sinus and the diseases of the mammary glands.
-
-Footnotes and references:
-
-[back to top]
 
 [1]:
 
@@ -2898,17 +2682,11 @@ The milk should be pressed out of the Dhatri’s breasts in the non-suppurated s
 
 ## 23. Chapter XXII - The affections of the mouth
 
-
 Sushruta Samhita, volume 4: Cikitsasthana
-
-by Kaviraj Kunja Lal Bhishagratna | 1911 | 123,229 words
 
 This current book, the Chikitsa-sthana (english translation), deals with therapeutics, surgical emergencies, geriatrics, aphrodisiacs and various other subjects.
 
 The Sushruta Samhita is the most representative work of the Hindu system of medicine. It embraces all that can possibly appertain to the science of medicine. Susruta-samhita is recognized...
-
-Go directly to: 
-Footnotes.
 
 Chapter XXII - The affections of the mouth
 
@@ -2996,10 +2774,6 @@ Now we shall enumerate the different incurable types of mouth-diseases. Of the t
 
 Thus ends the Twenty-second Chapter of the Chikitsita-Sthana in the Sushruta Samhita which deals with the medical treatment of the diseases of the mouth.
 
-Footnotes and references:
-
-[back to top]
-
 [1]:
 
 Vagbhata reads “madhuciṣṭaṃ (madhṛciṣṭaṃ?)” i.e., wax, in place of “shrīveṣṭaka |”
@@ -3056,17 +2830,11 @@ Dallana and Nishchala explain the term “cūrṇairlavaṇaiḥ” as the powde
 
 ## 24. Chapter XX - The medical treatment of the minor ailments
 
-
 Sushruta Samhita, volume 4: Cikitsasthana
-
-by Kaviraj Kunja Lal Bhishagratna | 1911 | 123,229 words
 
 This current book, the Chikitsa-sthana (english translation), deals with therapeutics, surgical emergencies, geriatrics, aphrodisiacs and various other subjects.
 
 The Sushruta Samhita is the most representative work of the Hindu system of medicine. It embraces all that can possibly appertain to the science of medicine. Susruta-samhita is recognized...
-
-Go directly to: 
-Footnotes.
 
 Chapter XX - The medical treatment of the minor ailments
 
@@ -3150,10 +2918,6 @@ In a case of Guda-Bhramsha, the protruded part should be fomented and lubricated
 
 Thus ends the twentieth Chapter of the Chikitsita Sthana in the Sushruta Samhita which deals with the treatment of minor ailments.
 
-Footnotes and references:
-
-[back to top]
-
 [1]:
 
 Gayadasa explains that a non-suppurated Aja-gallika should be first plastered with Yava-kshara, oyster-shells and Saurashtri. Leeches should be next applied to it.
@@ -3206,17 +2970,11 @@ According to Shiva-dasa, cow’s fat only should be used.
 
 ## 25. Chapter XXIII - The medical treatment of swellings
 
-
 Sushruta Samhita, volume 4: Cikitsasthana
-
-by Kaviraj Kunja Lal Bhishagratna | 1911 | 123,229 words
 
 This current book, the Chikitsa-sthana (english translation), deals with therapeutics, surgical emergencies, geriatrics, aphrodisiacs and various other subjects.
 
 The Sushruta Samhita is the most representative work of the Hindu system of medicine. It embraces all that can possibly appertain to the science of medicine. Susruta-samhita is recognized...
-
-Go directly to: 
-Footnotes.
 
 Chapter XXIII - The medical treatment of swellings
 
@@ -3262,10 +3020,6 @@ A patient wishing to get rid of an attack of Shopha (edematous swelling) should 
 
 Thus ends the Twenty-third Chapter in the Chikitsita Sthana of the Sushruta Samhita which deals with the medical treatment of Shopha.
 
-Footnotes and references:
-
-[back to top]
-
 [1]:
 
 See Sutra-sthana, Chapter XVII.
@@ -3298,17 +3052,11 @@ Some read “gudam” i.e., treacle in place of “ghṛta ,” clarified butter
 
 ## 26. Chapter XIX - The medical treatment of hernia
 
-
 Sushruta Samhita, volume 4: Cikitsasthana
-
-by Kaviraj Kunja Lal Bhishagratna | 1911 | 123,229 words
 
 This current book, the Chikitsa-sthana (english translation), deals with therapeutics, surgical emergencies, geriatrics, aphrodisiacs and various other subjects.
 
 The Sushruta Samhita is the most representative work of the Hindu system of medicine. It embraces all that can possibly appertain to the science of medicine. Susruta-samhita is recognized...
-
-Go directly to: 
-Footnotes.
 
 Chapter XIX - The medical treatment of hernia
 
@@ -3402,10 +3150,6 @@ The ashes of the Dravanti, Trivrit, Danti, Nili, Shyama, Saptala and Shamkhini s
 
 Thus ends the nineteenth Chapter of the Chikitsita Sthana in the Sushruta Samhita which deals with the medical treatment of Vriddhi, Upadamsha and Shlipada.
 
-Footnotes and references:
-
-[back to top]
-
 [1]:
 
 After a period of one week from the time of the application of purgatives and in case the patient is strong enough to undergo the Niruha. Vasti measure.
@@ -3466,17 +3210,11 @@ It evidently means that the expressed juice of Putranjivaka should be taken with
 
 ## 27. Chapter XXV - The medical treatment of a variety of diseases
 
-
 Sushruta Samhita, volume 4: Cikitsasthana
-
-by Kaviraj Kunja Lal Bhishagratna | 1911 | 123,229 words
 
 This current book, the Chikitsa-sthana (english translation), deals with therapeutics, surgical emergencies, geriatrics, aphrodisiacs and various other subjects.
 
 The Sushruta Samhita is the most representative work of the Hindu system of medicine. It embraces all that can possibly appertain to the science of medicine. Susruta-samhita is recognized...
-
-Go directly to: 
-Footnotes.
 
 Chapter XXV - The medical treatment of a variety of diseases
 
@@ -3526,10 +3264,6 @@ Laksha, Rodhra, the two kinds of Haridra, Manah shila, Haritala, Kushtha, Naga (
 
 Thus ends the Twenty-fifth Chapter of the Chikitsita Sthana in the Sushruta Samhita which deals with the treatment of a variety of diseases.
 
-Footnotes and references:
-
-[back to top]
-
 [1]:
 
 Madhava in his compilation reads “stabdhamavedana” (that the swelling is attended with a numbness and no pain) in place of “taharṇavedana” Vagbhata also supports this.—Ed.
@@ -3570,17 +3304,11 @@ This is the first time that we come across the mention and use of “Parada” (
 
 ## 28. Chapter XXVII - Elixirs (rasayana) for invulnerability to disease
 
-
 Sushruta Samhita, volume 4: Cikitsasthana
-
-by Kaviraj Kunja Lal Bhishagratna | 1911 | 123,229 words
 
 This current book, the Chikitsa-sthana (english translation), deals with therapeutics, surgical emergencies, geriatrics, aphrodisiacs and various other subjects.
 
 The Sushruta Samhita is the most representative work of the Hindu system of medicine. It embraces all that can possibly appertain to the science of medicine. Susruta-samhita is recognized...
-
-Go directly to: 
-Footnotes.
 
 Chapter XXVII - Elixirs (rasayana) for invulnerability to disease
 
@@ -3620,10 +3348,6 @@ The use of Shana (seeds) boiled with milk and taken also with milk guards agains
 
 Thus ends the Twenty-seventh Chapter of the Chikitsita Sthana in the Sushruta Samhita which deals with elixirs and rejuvenators.
 
-Footnotes and references:
-
-[back to top]
-
 [1]:
 
 The mental Doshas are Rajas and Tamas, whereas the physical Doshas are Vayu, Pitta and Kapha.
@@ -3656,17 +3380,11 @@ Dallana says that some commentators do not read this, since they do not consider
 
 ## 29. Chapter XXVIII - Elixirs (rasayana) to improve memory and life span
 
-
 Sushruta Samhita, volume 4: Cikitsasthana
-
-by Kaviraj Kunja Lal Bhishagratna | 1911 | 123,229 words
 
 This current book, the Chikitsa-sthana (english translation), deals with therapeutics, surgical emergencies, geriatrics, aphrodisiacs and various other subjects.
 
 The Sushruta Samhita is the most representative work of the Hindu system of medicine. It embraces all that can possibly appertain to the science of medicine. Susruta-samhita is recognized...
-
-Go directly to: 
-Footnotes.
 
 Chapter XXVIII - Elixirs (rasayana) to improve memory and life span
 
@@ -3718,10 +3436,6 @@ The Tri-padi (lit. three-footed) Gayatri should be recited in connection with th
 
 Thus ends the Twenty-eighth Chapter of the Chikitsita-Sthana in the Sushruta Samhita which deals with elixirs and remedial agents for improving the memory and intellect and increasing longevity.
 
-Footnotes and references:
-
-[back to top]
-
 [1]:
 
 Jejjata explains “Krishna” to mean Pippali. But both Gayi and Dallana explain it to mean the black Avalguja. It should be mentioned, here, that Dallana recommends the roots of black Avalguja, but we think that its seeds should be taken.—Ed.
@@ -3742,17 +3456,11 @@ According to Dallana, this preparation of Vaca should be prepared by boiling it 
 
 ## 30. Chapter XXIV - The rules of hygiene and general conduct
 
-
 Sushruta Samhita, volume 4: Cikitsasthana
-
-by Kaviraj Kunja Lal Bhishagratna | 1911 | 123,229 words
 
 This current book, the Chikitsa-sthana (english translation), deals with therapeutics, surgical emergencies, geriatrics, aphrodisiacs and various other subjects.
 
 The Sushruta Samhita is the most representative work of the Hindu system of medicine. It embraces all that can possibly appertain to the science of medicine. Susruta-samhita is recognized...
-
-Go directly to: 
-Footnotes.
 
 Chapter XXIV - The rules of hygiene and general conduct
 
@@ -3908,10 +3616,6 @@ Hence these (injurious and harmful) practices should be shunned by a man for his
 
 Thus ends the Twenty-fourth Chapter in the Chikitsita Sthana of the Sushruta Samhita which deals with the rules of Hygiene and the prophylactic measures in general.
 
-Footnotes and references:
-
-[back to top]
-
 [1]:
 
 A man of a Kaphaja temperament should use a twig of a plant possessed of a pungent taste (Tikta) in brushing his teeth. A man of a Pittaja temperament should brush his teeth with a twig possessed of a s wēet taste (Madhura), while a man of a Vatika temperament (nervous) should use that with an astringent (Kasaya) taste. This rule should be observed even in respect of the preponderant Doshas of the body, in a disease.
@@ -3990,17 +3694,11 @@ A bath is recommended for a man of strong virile power, in case of sexual interc
 
 ## 31. Chapter XXVI - The medical treatment for increasing virility
 
-
 Sushruta Samhita, volume 4: Cikitsasthana
-
-by Kaviraj Kunja Lal Bhishagratna | 1911 | 123,229 words
 
 This current book, the Chikitsa-sthana (english translation), deals with therapeutics, surgical emergencies, geriatrics, aphrodisiacs and various other subjects.
 
 The Sushruta Samhita is the most representative work of the Hindu system of medicine. It embraces all that can possibly appertain to the science of medicine. Susruta-samhita is recognized...
-
-Go directly to: 
-Footnotes.
 
 Chapter XXVI - The medical treatment for increasing virility
 
@@ -4040,10 +3738,6 @@ The use of the milk of a Griskti (a cow delivered only once) with a grown up cal
 
 Thus ends the Twenty-sixth Chapter of the Chikitsita Sthana in the Sushruta Samhita which deals with the treatment of the virile impotency.
 
-Footnotes and references:
-
-[back to top]
-
 [1]:
 
 The Vaji-Karana remedies are of three kinds, viz., (1) those producing the semen, (2) those secreting the semen, and (3) those producing as well as secreting the semen.
@@ -4068,17 +3762,11 @@ Some read “śṛtena” (boiled) in place of “dhṛtena” In that case the 
 
 ## 32. Chapter XXIX - Elixirs (rasayana) for the prevention of death and decay
 
-
 Sushruta Samhita, volume 4: Cikitsasthana
-
-by Kaviraj Kunja Lal Bhishagratna | 1911 | 123,229 words
 
 This current book, the Chikitsa-sthana (english translation), deals with therapeutics, surgical emergencies, geriatrics, aphrodisiacs and various other subjects.
 
 The Sushruta Samhita is the most representative work of the Hindu system of medicine. It embraces all that can possibly appertain to the science of medicine. Susruta-samhita is recognized...
-
-Go directly to: 
-Footnotes.
 
 Chapter XXIX - Elixirs (rasayana) for the prevention of death and decay
 
@@ -4132,10 +3820,6 @@ The Soma plants are invisible to the impious or to the ungrateful as well to the
 
 Thus ends the Twenty-ninth Chapter of the Chikitsita Sthana in the Sushruta Samhita which deals with the Prophylactic elixirs for the innate maladies.
 
-Footnotes and references:
-
-[back to top]
-
 [1]:
 
 These are decrepitude, death, hunger, thirst, sleep, etc.
@@ -4149,15 +3833,6 @@ Here death may mean, accordirg to some authorities, the death of tissues as well
 The whole of the hymns in the 9th Book of the Rig-veda, besides a few in other places, are dedicated to the honour of Soma, but these twenty- four names do not occur there. The plant is there represented as a god, and his worship must at one time have attained a remarkable popularity. The extraordinary properties of the exhilarating juice of the Soma are frequently mentioned in the Rig-veda and the language throughout in which it is behymned could not be more eulogistic.
 
 As an instance of this we might refer to Rig-veda VIII. 48.3 which has been metrically translated by Muir as follows:—
-
-We’ve quaffed the Soma bright, 
-And are immortal grown; 
-We’ve entered into light, 
-And all the gods have known. 
-What mortal now can harm, 
-Or foeman vex us more? 
-Through thee, beyond alarm, 
-Immortal god, we soar.
 
 We’ve quaffed the Soma bright, 
 And are immortal grown; 
@@ -4207,15 +3882,9 @@ The eight godly powers, according to some authorities, are:—
 aṇima ladhima vyaptiḥ prakamyaṃ mahima tatha | 
 īshitvañca vashitvañca tatha kamavasayita ||
 
-aṇima ladhima vyaptiḥ prakamyaṃ mahima tatha | 
-īshitvañca vashitvañca tatha kamavasayita ||
-
 [8]:
 
 The allied branches of the study of the Vedas are six in num They are:—
-
-shikṣa kalpo vyakaraṇaṃ niruktaṃ candasaṃ cayaḥ | 
-jyotiṣamayanañcaiva bedaṅgani ṣadeva tu ||
 
 shikṣa kalpo vyakaraṇaṃ niruktaṃ candasaṃ cayaḥ | 
 jyotiṣamayanañcaiva bedaṅgani ṣadeva tu ||
@@ -4227,15 +3896,9 @@ The eight godly powers, according to some authorities, are:—
 aṇima ladhima vyaptiḥ prakamyaṃ mahima tatha | 
 īśitvañca vaśitvañca tatha kamavasayita ||
 
-aṇima ladhima vyaptiḥ prakamyaṃ mahima tatha | 
-īśitvañca vaśitvañca tatha kamavasayita ||
-
 [10]:
 
 The allied branches of the study of the Vedas are six in num They are:—
-
-śikṣa kalpo vyakaraṇaṃ niruktaṃ candasaṃ cayaḥ | 
-jyotiṣamayanañcaiva bedaṅgani ṣadeva tu ||
 
 śikṣa kalpo vyakaraṇaṃ niruktaṃ candasaṃ cayaḥ | 
 jyotiṣamayanañcaiva bedaṅgani ṣadeva tu ||
@@ -4244,17 +3907,11 @@ jyotiṣamayanañcaiva bedaṅgani ṣadeva tu ||
 
 ## 33. Chapter XXX - Elixirs (rasayana) to remove mental and physical distress
 
-
 Sushruta Samhita, volume 4: Cikitsasthana
-
-by Kaviraj Kunja Lal Bhishagratna | 1911 | 123,229 words
 
 This current book, the Chikitsa-sthana (english translation), deals with therapeutics, surgical emergencies, geriatrics, aphrodisiacs and various other subjects.
 
 The Sushruta Samhita is the most representative work of the Hindu system of medicine. It embraces all that can possibly appertain to the science of medicine. Susruta-samhita is recognized...
-
-Go directly to: 
-Footnotes.
 
 Chapter XXX - Elixirs (rasayana) to remove mental and physical distress
 
@@ -4292,8 +3949,6 @@ The first seven of the all-healing Oshadi plants enumerated above should be cull
 
 “We appease thee with the holy energy and dignity of Mahendra, Rama, Krishna and of the Brahmanas and of cows. Exert your beneficial virtues for the good of mankind”.
 
-“We appease thee with the holy energy and dignity of Mahendra, Rama, Krishna and of the Brahmanas and of cows. Exert your beneficial virtues for the good of mankind”.
-
 The intelligent one should consecrate all these Oshadhis with this Mantra. The lazy, the impious, the ungrateful and the unbelieving invariably fail to see and secure the Soma plants, or the drugs possessed of similar virtues. The gods after having drunk the celestial ambrosia to their fill cast the residue to the Somas and kindred plants as well as to the moon, the lord of the Oshadhis. 10-A.
 
 Their habitats:—
@@ -4309,10 +3964,6 @@ The Soma as well all the other Oshadhi plants may be had on (the summits of) the
 These ambrosial plants (as well as other drugs) are to be sought in the rivers, the holy forests and hermitages, as well as in lakes and on hills, since this world is a bed of gems and is known to hold priceless treasures in all places. 11.
 
 Thus ends the Thirtieth Chapter of the Chikitsita Sthana in the Sushruta Samhita which deals with the tonic remedies which have the power of removing the mental and physical distresses.
-
-Footnotes and references:
-
-[back to top]
 
 [1]:
 
@@ -4334,17 +3985,11 @@ There is no mention of “Ajagari” in the list (para. 2) and there is no menti
 
 ## 34. Chapter XXXI - The medicinal use of Sneha (oleaginous substances)
 
-
 Sushruta Samhita, volume 4: Cikitsasthana
-
-by Kaviraj Kunja Lal Bhishagratna | 1911 | 123,229 words
 
 This current book, the Chikitsa-sthana (english translation), deals with therapeutics, surgical emergencies, geriatrics, aphrodisiacs and various other subjects.
 
 The Sushruta Samhita is the most representative work of the Hindu system of medicine. It embraces all that can possibly appertain to the science of medicine. Susruta-samhita is recognized...
-
-Go directly to: 
-Footnotes.
 
 Chapter XXXI - The medicinal use of Sneha (oleaginous substances)
 
@@ -4428,10 +4073,6 @@ The blessings which attend a person who has duly taken a Sneha are improved dige
 
 Thus ends the Thirty-first Chapter in the Chikitsita Sthana of the Sushruta Samhita which deals with the treatment of the diseases where oleaginous medicines are useful.
 
-Footnotes and references:
-
-[back to top]
-
 [1]:
 
 The Sneha is of four kinds, viz., clarified butter, oil, lard and marrow, of which clarified butter and oil are generally used.
@@ -4480,17 +4121,11 @@ In place of “payaḥsiddha” (prepared with milk), Chakradatta reads “bahut
 
 ## 35. Chapter XXXIII - Description of purgative and emetic medicines
 
-
 Sushruta Samhita, volume 4: Cikitsasthana
-
-by Kaviraj Kunja Lal Bhishagratna | 1911 | 123,229 words
 
 This current book, the Chikitsa-sthana (english translation), deals with therapeutics, surgical emergencies, geriatrics, aphrodisiacs and various other subjects.
 
 The Sushruta Samhita is the most representative work of the Hindu system of medicine. It embraces all that can possibly appertain to the science of medicine. Susruta-samhita is recognized...
-
-Go directly to: 
-Footnotes.
 
 Chapter XXXIII - Description of purgative and emetic medicines
 
@@ -4580,10 +4215,6 @@ The body (health) of a patient to whom a purgative or emetic medicine is adminis
 
 Thus ends the Thirty-third Chapter of the Chikitsita Sthana in the Sushruta Samhita which deals with the treatment of diseases amenable to the use of emetics and purgatives.
 
-Footnotes and references:
-
-[back to top]
-
 [1]:
 
 Vrinda reads “shloṣmalaiḥ”(?) in place of “peshalaiḥ”(?) but they would ultimately mean almost the same thing.
@@ -4648,17 +4279,11 @@ Some explain “rasaiḥ snegdhaiḥ”(?) to mean “with emollient meat-soup�
 
 ## 36. Chapter XXXII - Description of Sveda (fomentation, calorification, etc.)
 
-
 Sushruta Samhita, volume 4: Cikitsasthana
-
-by Kaviraj Kunja Lal Bhishagratna | 1911 | 123,229 words
 
 This current book, the Chikitsa-sthana (english translation), deals with therapeutics, surgical emergencies, geriatrics, aphrodisiacs and various other subjects.
 
 The Sushruta Samhita is the most representative work of the Hindu system of medicine. It embraces all that can possibly appertain to the science of medicine. Susruta-samhita is recognized...
-
-Go directly to: 
-Footnotes.
 
 Chapter XXXII - Description of Sveda (fomentation, calorification, etc.)
 
@@ -4713,10 +4338,6 @@ Sveda should be applied unto a patient in a covered and windless place and after
 After a full and complete application of Sveda, the (body of the) patient should be well rubbed with a Sneha (oil, etc.) and a hot bath should be prescribed. The patient should then be made to keep his body well covered (with warm clothes) and be removed to a windless chamber (immediately afterwards). The diet should consist of such articles as would not produce any internal secretion (in the channels of the system) and he should observe, if necessary, the ether rules of Conduct (enjoined in such cases). 16.
 
 Thus ends the Thirty-second Chapter in the Chikitsita Sthana of the Sushruta Samhita which treats of the applications of Sveda.
-
-Footnotes and references:
-
-[back to top]
 
 [1]:
 
@@ -4774,17 +4395,11 @@ Vrinda evidently quotes this verse from Sushruta Samhita but by a little change 
 
 ## 37. Chapter XXXV - Description of a Netra and a Vasti (pipes, nozzles and apparatus)
 
-
 Sushruta Samhita, volume 4: Cikitsasthana
-
-by Kaviraj Kunja Lal Bhishagratna | 1911 | 123,229 words
 
 This current book, the Chikitsa-sthana (english translation), deals with therapeutics, surgical emergencies, geriatrics, aphrodisiacs and various other subjects.
 
 The Sushruta Samhita is the most representative work of the Hindu system of medicine. It embraces all that can possibly appertain to the science of medicine. Susruta-samhita is recognized...
-
-Go directly to: 
-Footnotes.
 
 Chapter XXXV - Description of a Netra and a Vasti (pipes, nozzles and apparatus)
 
@@ -4848,10 +4463,6 @@ The seventy-six kinds of the distressing symptoms (Vyapad) have been briefly des
 
 Thus ends the Thirty-fifth Chapter in the Chikitsita Sthana in the Sushruta Samhita which deals with the dimensions, classifications and therapeutical applications of a Netra and a Vasti.
 
-Footnotes and references:
-
-[back to top]
-
 [1]:
 
 The Karnikas are attached to the pipes for guarding against their being thrust into the rectum.
@@ -4872,17 +4483,11 @@ Srikantha Dutta in his commentary quotes this sloka, but he reads there “sakap
 
 ## 38. Chapter XXXVI - The injudicious application of the Netra and Vasti
 
-
 Sushruta Samhita, volume 4: Cikitsasthana
-
-by Kaviraj Kunja Lal Bhishagratna | 1911 | 123,229 words
 
 This current book, the Chikitsa-sthana (english translation), deals with therapeutics, surgical emergencies, geriatrics, aphrodisiacs and various other subjects.
 
 The Sushruta Samhita is the most representative work of the Hindu system of medicine. It embraces all that can possibly appertain to the science of medicine. Susruta-samhita is recognized...
-
-Go directly to: 
-Footnotes.
 
 Chapter XXXVI - The injudicious application of the Netra and Vasti
 
@@ -4930,10 +4535,6 @@ A purgative should be given after the lapse of a fortnight from the date of the 
 
 Thus ends the Thirty-sixth Chapter of the Chikitsita Sthana in the Sushruta Samhita which treats of the medical treatment of the diseases consequent on the injudicious applications of a Vasti.
 
-Footnotes and references:
-
-[back to top]
-
 [1]:
 
 These are strangury (Mutra-kricchra), suppression of urine (Mutra- ghata), etc.
@@ -4962,17 +4563,11 @@ Jejjata’s reading of this passage does not include the application of Sveda bu
 
 ## 39. Chapter XXXVII - The treatment with an Anuvasana-vasti and an Uttara-vasti
 
-
 Sushruta Samhita, volume 4: Cikitsasthana
-
-by Kaviraj Kunja Lal Bhishagratna | 1911 | 123,229 words
 
 This current book, the Chikitsa-sthana (english translation), deals with therapeutics, surgical emergencies, geriatrics, aphrodisiacs and various other subjects.
 
 The Sushruta Samhita is the most representative work of the Hindu system of medicine. It embraces all that can possibly appertain to the science of medicine. Susruta-samhita is recognized...
-
-Go directly to: 
-Footnotes.
 
 Chapter XXXVII - The treatment with an Anuvasana-vasti and an Uttara-vasti
 
@@ -5100,10 +4695,6 @@ Diseases such as derangements of the semen, or of ovum, or difficult menstruatio
 
 Thus ends the Thirty-seventh Chapter of the Chikitsita Sthana in the Sushruta Samhita which deals with the Anuvasana-vasti and the Uttara-vasti.
 
-Footnotes and references:
-
-[back to top]
-
 [1]:
 
 Dallana explains “Shyama” as “Priyangu” and “Jimuta” as “Mustaka.”
@@ -5188,17 +4779,11 @@ According to Dallana a quantity of sugar and honey should be added in each of th
 
 ## 40. Chapter XXXIV - The injudicious use of emetics and purgatives
 
-
 Sushruta Samhita, volume 4: Cikitsasthana
-
-by Kaviraj Kunja Lal Bhishagratna | 1911 | 123,229 words
 
 This current book, the Chikitsa-sthana (english translation), deals with therapeutics, surgical emergencies, geriatrics, aphrodisiacs and various other subjects.
 
 The Sushruta Samhita is the most representative work of the Hindu system of medicine. It embraces all that can possibly appertain to the science of medicine. Susruta-samhita is recognized...
-
-Go directly to: 
-Footnotes.
 
 Chapter XXXIV - The injudicious use of emetics and purgatives
 
@@ -5288,10 +4873,6 @@ The fifteen kinds of distempers (Vyapat) described in the present chapter origin
 
 Thus ends the Thirty-fourth Chapter of the Chikitsita Sthana in the Sushruta Samhita which deals with the treatment of the disorders resulting from an injudicious use of purgatives and emetics.
 
-Footnotes and references:
-
-[back to top]
-
 [1]:
 
 For the meaning of “Bala” here see Chapter XV., Sutra-Sthana.
@@ -5332,17 +4913,11 @@ See Chapter XXXIX., Sutra-Sthana.
 
 ## 41. Chapter XXXIX - The treatment of distressing symptoms
 
-
 Sushruta Samhita, volume 4: Cikitsasthana
-
-by Kaviraj Kunja Lal Bhishagratna | 1911 | 123,229 words
 
 This current book, the Chikitsa-sthana (english translation), deals with therapeutics, surgical emergencies, geriatrics, aphrodisiacs and various other subjects.
 
 The Sushruta Samhita is the most representative work of the Hindu system of medicine. It embraces all that can possibly appertain to the science of medicine. Susruta-samhita is recognized...
-
-Go directly to: 
-Footnotes.
 
 Chapter XXXIX - The treatment of distressing symptoms
 
@@ -5390,10 +4965,6 @@ A diet consisting of cooked Shashti grain (Tandula) or matured Shali rice, Mudga
 
 Thus ends the Thirty-ninth Chapter of the Chikitsita Sthana in the Sushruta Samhita which deals with the treatment of distressing symptoms which are manifested in a patient.
 
-Footnotes and references:
-
-[back to top]
-
 [1]:
 
 By “distressing symptoms” are generally meant those complications that follow the exhibition of emetics, purgatives, Vastis, etc.
@@ -5414,8 +4985,6 @@ The line is as follows:—
 
 “shleṣmantatvahirekasya na tamicchanti tahidaḥ |”
 
-“shleṣmantatvahirekasya na tamicchanti tahidaḥ |”
-
 [5]:
 
 Some commentators explain this verse to mean that the patient should observe the rules of diet and conduct (prescribed hereafter) for a period of three days after each application of a Vasti, but after the third application the rules of diet and conduct should be determined according to requirements.
@@ -5425,8 +4994,6 @@ Some commentators explain this verse to mean that the patient should observe the
 Here a line is not found in the printed edition of the Sushruta Samhita, which is evident from Dallana’s commentary and supported by Shrikantha Datta in his commentary on Vrinda.
 
 The line is as follows:—
-
-“śleṣmantatvahirekasya na tamicchanti tahidaḥ |”
 
 “śleṣmantatvahirekasya na tamicchanti tahidaḥ |”
 
@@ -5446,17 +5013,11 @@ In place of “śītasambhogatoyanaṃ (?)” Gayadasa reads “śītabhojanatoy
 
 ## 42. Chapter XL - Description of medicated fumes, snuffs, errhines and gargles
 
-
 Sushruta Samhita, volume 4: Cikitsasthana
-
-by Kaviraj Kunja Lal Bhishagratna | 1911 | 123,229 words
 
 This current book, the Chikitsa-sthana (english translation), deals with therapeutics, surgical emergencies, geriatrics, aphrodisiacs and various other subjects.
 
 The Sushruta Samhita is the most representative work of the Hindu system of medicine. It embraces all that can possibly appertain to the science of medicine. Susruta-samhita is recognized...
-
-Go directly to: 
-Footnotes.
 
 Chapter XL - Description of medicated fumes, snuffs, errhines and gargles
 
@@ -5616,10 +5177,6 @@ Thus ends the Fortieth Chapter of the Chikitsita Sthana in the Susruta Samhita w
 
 Here ends the Chikitsita Sthana
 
-Footnotes and references:
-
-[back to top]
-
 [1]:
 
 Charaka, however, divides Dhuma into three classes only—viz,,  Prayogika, Snaihika and Vairecanaka, and includes the Kasa-hara into the Prayogika, and Vamaniya into the Vairecana Dhuma.
@@ -5706,17 +5263,11 @@ Commentators, on the authority of Videha, hold that gargles should be used with 
 
 ## 43. Chapter XXXVIII - The treatment with a Nirudha-vasti
 
-
 Sushruta Samhita, volume 4: Cikitsasthana
-
-by Kaviraj Kunja Lal Bhishagratna | 1911 | 123,229 words
 
 This current book, the Chikitsa-sthana (english translation), deals with therapeutics, surgical emergencies, geriatrics, aphrodisiacs and various other subjects.
 
 The Sushruta Samhita is the most representative work of the Hindu system of medicine. It embraces all that can possibly appertain to the science of medicine. Susruta-samhita is recognized...
-
-Go directly to: 
-Footnotes.
 
 Chapter XXXVIII - The treatment with a Nirudha-vasti
 
@@ -5853,10 +5404,6 @@ A judicious physician may prepare, in the light of the principle laid down in co
 The compound Madhu-Tailika Vasti is so called from the facts of its being principally composed of Madhu (honey) and Taila (oil) The term Yukta-Ratha Vasti owes its nomenclature to the fact of its imposing no restriction as regards riding in carnages (Rathas), or on horses and elephants after their application. The Siddha-Vasti derives its name from the uniform success (Siddhi) which attends its application in a large number of cases of bodily distempers and from its irresistible power in improving the strength and complexion of the body. Madhu-Tailika Vastis are recommended to persons of easy and luxurious habits as well as in respect of those whose bowels can be easily moved, or who are in the habit of being daily treated with emulsive measures (Sneha-karma) and whose organisms are marked by scanty accumulations of the bodily Doshas. A Siddha-Vasti does not produce any distress or discomfort, since it is mild in potency and is applied in only three quarters of the usual dose (nine Prasritas only) and does not entail any strict observance of the regimen of diet and conduct (such as the previous administration of emetics and purgatives, etc.), and since it produces a satisfactory result by a single application. 47.
 
 Thus ends the Thirty-eighth Chapter of the Chikitsita Sthana in the Sushruta Samhita which deals with Niruha-Vastis.
-
-Footnotes and references:
-
-[back to top]
 
 [1]:
 

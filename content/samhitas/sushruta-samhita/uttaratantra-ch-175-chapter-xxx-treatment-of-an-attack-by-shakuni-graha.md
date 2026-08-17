@@ -20,17 +20,11 @@ This chapter from **Sushruta Samhita (Uttaratantra)** represents the classical s
 
 ---
 
-
 Sushruta Samhita, Volume 6: Uttara-tantra
-
-by Kaviraj Kunja Lal Bhishagratna | 1916 | 113,078 words
 
 This current book, the Uttara-tantra (english translation) is the supplementary part of the Sushrutasamhita and deals various subjects such as diseases of the eye, treatment of fever, diarrhea, diseases resulting from superhuman influences, insanity, rules of health etc.
 
 The Sushruta Samhita is the most representative work of the Hindu system of m...
-
-Go directly to: 
-Footnotes.
 
 Chapter XXX - Treatment of an attack by Shakuni-graha
 
@@ -46,13 +40,7 @@ Various sorts of worship should be made with the offerings of various species of
 
 “May the ever down-looking sharp-beaked goddess, Shakuni, who (with her keen and far-seeing eyes) is decked with all sorts of ornaments and who traverses the ethereal sky in her flight, be propitious to thee. May the brown-eyed, fierce-looking, huge-bodied, large-bellied, and spike-eared Shakuni, who strikes terror into the heart of man with her terrible voice, be pleased with thee.” 2.
 
-“May the ever down-looking sharp-beaked goddess, Shakuni, who (with her keen and far-seeing eyes) is decked with all sorts of ornaments and who traverses the ethereal sky in her flight, be propitious to thee. May the brown-eyed, fierce-looking, huge-bodied, large-bellied, and spike-eared Shakuni, who strikes terror into the heart of man with her terrible voice, be pleased with thee.” 2.
-
 Thus ends the thirtieth chapter of the Uttara Tantra in the Sushruta Samhita which deals with the treatment of (an attack) by Shakuni.
-
-Footnotes and references:
-
-[back to top]
 
 [1]:
 

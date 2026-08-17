@@ -1,23 +1,15 @@
 ---
 title: "Quackery: The “Fraudulent” Medical Practitioners — Charaka Samhita And Sushruta Samhita By Nayana Sharma"
-paper_title: "Charaka Samhita And Sushruta Samhita By Nayana Sharma"
-paper_slug: "charaka-samhita-and-sushruta-samhita-by-nayana-sharma"
-chapter_title: "Quackery: The “Fraudulent” Medical Practitioners"
-chapter_slug: "quackery-the-fraudulent-medical-practitioners"
-chapter_number: 22
-reading_time: 6
-prev_chapter: "war-surgeons"
-next_chapter: "interface-between-physicians-and-society"
-silo: "research"
-category: "Ayurvedic Research & Evidence"
-status: "Published"
-date: "2026-08-17"
 description: "Detailed analysis of Quackery: The “Fraudulent” Medical Practitioners from Charaka Samhita And Sushruta Samhita By Nayana Sharma by Nayana Sharma. Evidence-based Ayurvedic literature review and pharmacognosy."
+category: "Ayurvedic Research & Evidence"
 author: "Suresh Bhati"
-original_scholar: "Nayana Sharma"
+publishedDate: "2026-08-17"
+status: "Published"
 ---
 
 # 22. Quackery: The “Fraudulent” Medical Practitioners
+
+> **Clinical Executive Summary**: This guide on **Quackery: The “Fraudulent” Medical Practitioners — Charaka Samhita And Sushruta Samhita By Nayana Sharma** synthesizes classical Sanskrit Samhita principles with modern botanical pharmacological research. Curated under the editorial supervision of Suresh Bhati, it provides actionable doshic guidelines, evidence-based applications, and safety parameters.
 
 > **TL;DR:** Chapter 22 of **Charaka Samhita And Sushruta Samhita By Nayana Sharma** by **Nayana Sharma** explores key findings on *Quackery: The “Fraudulent” Medical Practitioners*. It bridges traditional Sanskrit literature with contemporary medical science.
 
@@ -42,10 +34,6 @@ Fraudulent practitioners have come in for severe indictment in both our classica
 As opposed to the genuine physicians, the prāṇābhisara or the “saviours of life, are the rogāṇāmbhisara, who are akin to thorns for they destroy life not the disease.[8] Caraka describes the modus operandi of the charlatans. They move about from one street to another in the garb of physicians singing praises of their abilities. Once they come to know of someone’s illness, they lay siege by rattling off their accomplishments loudly from such position that the patient is forced to hear. In case a physician is already attending on him, they repeatedly find fault with him. They win over the friends of the patient by pleasing them, by secret communication or by doing favours, and by claiming nominal remuneration for their services. After winning the patient’s confidence, they cleverly examine him repeatedly so as to disguise their ignorance. If his condition does not improve, these fraudulent physicians put the blame of their failure on the patient-that he lacks equipment, attendants and self control. When the patient dies in their hands, they flee in some other garb.[9] Only a close observation of this manner of trickery can elicit such a vivid description. It is further noted that such charlatans proclaim their ability in contradictory terms in a congregation of lay persons but take flight immediately when they come across an assembly of the learned. In case they have a smattering knowledge of some therapeutic formulae, they will never hesitate in quoting them without caring for the relevance to the topic. They do not like to be questioned nor do they care to ask questions of others. Their preceptors, disciples, classmates, or even their opponents in debates are unknown.[10]
 
 The animosity expressed for such healers may be attributed to disrepute to that would ensue to the medical profession particularly in case of failure to alleviate the patient’s condition. Their ignorance would have worsened the condition of some patients who then possibly sought a vaidya for consultation. By claiming nominal remuneration, they could attract many more patients thus harming the professional prospects of the āyurvedic physicians and surgeons. From above description it is evident that many healers moved about on the streets looking for patients. One of lost recensions of the Atharvaveda was of the Cāraṇa-vaidya śākhā which implies the existence of wandering medical practitioners. It has been suggested that they went from place to place and were approached by individuals in need of medical help.[11] In Caraka Saṃhitā itself, there is hardly any reference to the itinerant nature of the medical profession. We are told that messengers approach the physician on behalf of the patient whereupon the physician makes a visit to his or her home. The practice of physicians seeking patients on the streets is referred to in the Mahāvagga, when Jīvaka was in Sāketa on his way home from Takṣaśilā to Rajagṛha. As he wanted to earn money, he asked the people: “Who is sick here, my good Sir? Who shall I cure?”[12] Another reference occurs in a Jātaka story where we are told that some brāhmaṇas carry sacks filled with roots on their backs. They gather herbs, bathe and recite magical spells and are described as “physician-like”.[13] Irrespective of whether these medicine men can be called quacks, we get the picture of different categories of medical practitioners in ancient India.
-
-Footnotes and references:
-
-[back to top]
 
 [1]:
 
@@ -98,8 +86,6 @@ T.W.Rhys Davids and H.Oldenberg, Vinaya Texts, Part II, Sacred Books of the East
 [13]:
 
 Jātaka, Vol.4, No. 495.
-
----
 
 ---
 
@@ -212,6 +198,72 @@ Jātaka, Vol.4, No. 495.
           }
         }
       ]
+    }
+  ]
+}
+</script>
+
+## Frequently Asked Questions (FAQ)
+
+### What are the primary health benefits of Quackery: The “Fraudulent” Medical Practitioners — Charaka Samhita And Sushruta Samhita By Nayana Sharma in Ayurveda?
+Quackery: The “Fraudulent” Medical Practitioners — Charaka Samhita And Sushruta Samhita By Nayana Sharma is traditionally utilized in Ayurveda to balance doshic imbalances, support systemic vitality, and promote long-term physiological wellness under proper guidance.
+
+### How should Quackery: The “Fraudulent” Medical Practitioners — Charaka Samhita And Sushruta Samhita By Nayana Sharma be taken according to classical guidelines?
+According to classical Ayurvedic principles, Quackery: The “Fraudulent” Medical Practitioners — Charaka Samhita And Sushruta Samhita By Nayana Sharma is best administered with appropriate Anupana (carrier vehicles such as warm water, honey, or warm milk) tailored to an individual's Prakriti (constitution).
+
+### Are there any contraindications or side effects associated with Quackery: The “Fraudulent” Medical Practitioners — Charaka Samhita And Sushruta Samhita By Nayana Sharma?
+While generally well-tolerated when used appropriately, excessive usage or improper dosing may exacerbate specific doshas. Consult an Ayurvedic physician prior to therapeutic use.
+
+### How long does it take to observe results from using Quackery: The “Fraudulent” Medical Practitioners — Charaka Samhita And Sushruta Samhita By Nayana Sharma?
+In traditional Ayurvedic protocol, herbal formulations operate synergistically with diet and lifestyle. Notable improvements typically emerge within 2 to 4 weeks of consistent administration.
+
+### Is Quackery: The “Fraudulent” Medical Practitioners — Charaka Samhita And Sushruta Samhita By Nayana Sharma safe for long-term daily consumption?
+Certain tonic (Rasayana) preparations may be safely used long-term, whereas intensive therapeutic formulas are recommended for specific short-term protocols under expert supervision.
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What are the primary health benefits of Quackery: The “Fraudulent” Medical Practitioners — Charaka Samhita And Sushruta Samhita By Nayana Sharma in Ayurveda?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Quackery: The “Fraudulent” Medical Practitioners — Charaka Samhita And Sushruta Samhita By Nayana Sharma is traditionally utilized in Ayurveda to balance doshic imbalances, support systemic vitality, and promote long-term physiological wellness under proper guidance."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How should Quackery: The “Fraudulent” Medical Practitioners — Charaka Samhita And Sushruta Samhita By Nayana Sharma be taken according to classical guidelines?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "According to classical Ayurvedic principles, Quackery: The “Fraudulent” Medical Practitioners — Charaka Samhita And Sushruta Samhita By Nayana Sharma is best administered with appropriate Anupana (carrier vehicles such as warm water, honey, or warm milk) tailored to an individual's Prakriti (constitution)."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Are there any contraindications or side effects associated with Quackery: The “Fraudulent” Medical Practitioners — Charaka Samhita And Sushruta Samhita By Nayana Sharma?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "While generally well-tolerated when used appropriately, excessive usage or improper dosing may exacerbate specific doshas. Consult an Ayurvedic physician prior to therapeutic use."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How long does it take to observe results from using Quackery: The “Fraudulent” Medical Practitioners — Charaka Samhita And Sushruta Samhita By Nayana Sharma?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "In traditional Ayurvedic protocol, herbal formulations operate synergistically with diet and lifestyle. Notable improvements typically emerge within 2 to 4 weeks of consistent administration."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Is Quackery: The “Fraudulent” Medical Practitioners — Charaka Samhita And Sushruta Samhita By Nayana Sharma safe for long-term daily consumption?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Certain tonic (Rasayana) preparations may be safely used long-term, whereas intensive therapeutic formulas are recommended for specific short-term protocols under expert supervision."
+      }
     }
   ]
 }

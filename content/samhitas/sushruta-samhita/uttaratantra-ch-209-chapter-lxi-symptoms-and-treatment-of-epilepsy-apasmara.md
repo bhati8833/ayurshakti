@@ -20,17 +20,11 @@ This chapter from **Sushruta Samhita (Uttaratantra)** represents the classical s
 
 ---
 
-
 Sushruta Samhita, Volume 6: Uttara-tantra
-
-by Kaviraj Kunja Lal Bhishagratna | 1916 | 113,078 words
 
 This current book, the Uttara-tantra (english translation) is the supplementary part of the Sushrutasamhita and deals various subjects such as diseases of the eye, treatment of fever, diarrhea, diseases resulting from superhuman influences, insanity, rules of health etc.
 
 The Sushruta Samhita is the most representative work of the Hindu system of m...
-
-Go directly to: 
-Footnotes.
 
 Chapter LXI - Symptoms and Treatment of Epilepsy (Apasmara)
 
@@ -85,10 +79,6 @@ Vastis should be applied in the Vataja, purgatives, in the Pittaja and emetics, 
 Milk should be duly cooked with Bhargi and Payasa (porridge) should be prepared by cooking grains of Shali rice with this milk. This preparation should be given to a boar kept fasting for three days. When it is assured that the food taken has acquired a sweet taste (i.e. that the process of digestion has-begun in the stomach of the boar) and when the symptoms of poisoning come to be exhibited in the boar, the contents should be taken out (of the boar’s stomach) and (should be dried and) powdered. Three parts of this powder and one part of Kinva (the sediment of wine) should be mixed together and made to ferment in a cleansed earthen pitcher with the addition of the cooled decoction of Bhargi. The wine (Sura) thus prepared should be given in proper doses to the patient as soon as it would acquire its (particular) taste and aroma. Venesection (in the forehead) as recommended before (Sharira-sthana, Chap. VIII, 25-26) should be resorted to and prophylactic and auspicious articles should be used (by the patient). 22-23.
 
 Thus ends the sixty first chapter in the Uttara Tantra of the Sushruta Samhita which deals with the (symptoms and) treatment of Apasmara.
-
-Footnotes and references:
-
-[back to top]
 
 [1]:
 

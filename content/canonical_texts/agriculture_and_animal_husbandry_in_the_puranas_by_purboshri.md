@@ -9,24 +9,13 @@ date: "2026-08-17"
 description: "study on agriculture and animal husbandry in the Puranas—a category of Sanskrit literature describing the culture and heritage of ancient Indian society."
 ---
 
-**Author / Source:** by Purboshri Borpuzari
-
-
-**Total Chapters/Sections:** 120
-
 ---
 
 ## 1. Part 1 - The Meaning and Scope of the word Purāṇa
 
-
 Agriculture and Animal husbandry in the Puranas
 
-by Purboshri Borpuzari | 2019 | 74,328 words
-
 This page relates ‘Meaning and Scope of the word Purana’ of the study on agriculture and animal husbandry in the Puranas—a category of Sanskrit literature describing the culture and heritage of ancient Indian society. Besides detailing animal care, the six chapters of this essay also documents various Puranic agricultural science: ploughing, sowing, soil-types/fertility tests, transplantation, manuring, irrigation/water-management, tanks, rainfall–Sun dependence, horticulture, plus crop lists (e.g., Vrihi, Yava, Godhuma) and festivals/rites.
-
-Go directly to: 
-Footnotes.
 
 Part 1 - The Meaning and Scope of the word Purāṇa
 
@@ -44,8 +33,6 @@ purā navaṃ bhavati[6]
 i.e. it was new in the days of yore.
 
 Sāyaṇācārya in the Ṛgveda[7] explains the word purāṇyā as—
-
-purā kṛtayā.
 
 purā kṛtayā.
 
@@ -68,11 +55,7 @@ That is why the Purāṇa is regarded as the fifth Veda in addition to the four 
 
 purāṇaṃ pañcamo vedaḥ.[11]
 
-purāṇaṃ pañcamo vedaḥ.[11]
-
 The Chāndogya Upaniṣad too mentions the Itihāsa-Purāṇa as the fifth Veda—
-
-itihāsapurāṇaṃ pañcamaṃ vedānām.[12]
 
 itihāsapurāṇaṃ pañcamaṃ vedānām.[12]
 
@@ -99,10 +82,6 @@ purātanasya kalpasya purāṇāni vidurbudhāḥ.[17]
 The Padma Purāṇa says that it is called Purāṇa because it is interested in the past and therefore, it describes about the past.[18] Amarasiṃha in the Amarakoṣa describes Purāṇa as ancient tales.[19]
 
 The Purāṇas have been utilized through centuries not only for educating the mass mind and infusing it with the nobler ideas of life but also for tactfully solving the religious, social and economic problems which were created in ancient India by the rise of various religious movements and the repeated invasions made by foreign races.[20] These works afford us, more than other works of the time a great insight into all phases and aspects of Hinduism.[21] For the modern Hinduism, the Purāṇas are religious treatises of divine origin. Hence, they have been a great source of inspiration to the mass-mind, especially, on religious matter.[22] That is why, the Purāṇas ought to have more careful study than has previously been dedicated to them.
-
-Footnotes and references:
-
-[back to top]
 
 [1]:
 
@@ -205,10 +184,7 @@ Gyani, S.D., Agni-Purāṇa:A Study, p. 33
 
 ## 2. Acknowledgement
 
-
 Agriculture and Animal husbandry in the Puranas
-
-by Purboshri Borpuzari | 2019 | 74,328 words
 
 This page relates ‘Acknowledgement’ of the study on agriculture and animal husbandry in the Puranas—a category of Sanskrit literature describing the culture and heritage of ancient Indian society. Besides detailing animal care, the six chapters of this essay also documents various Puranic agricultural science: ploughing, sowing, soil-types/fertility tests, transplantation, manuring, irrigation/water-management, tanks, rainfall–Sun dependence, horticulture, plus crop lists (e.g., Vrihi, Yava, Godhuma) and festivals/rites.
 
@@ -239,10 +215,7 @@ Place: Gauhati University, Guwahati
 
 ## 3. Preface
 
-
 Agriculture and Animal husbandry in the Puranas
-
-by Purboshri Borpuzari | 2019 | 74,328 words
 
 This page relates ‘Preface’ of the study on agriculture and animal husbandry in the Puranas—a category of Sanskrit literature describing the culture and heritage of ancient Indian society. Besides detailing animal care, the six chapters of this essay also documents various Puranic agricultural science: ploughing, sowing, soil-types/fertility tests, transplantation, manuring, irrigation/water-management, tanks, rainfall–Sun dependence, horticulture, plus crop lists (e.g., Vrihi, Yava, Godhuma) and festivals/rites.
 
@@ -258,15 +231,9 @@ With these prefatory words, I with all modesty and sincerity put forward this wo
 
 ## 4. Part 2 - Characteristics of the Purāṇas
 
-
 Agriculture and Animal husbandry in the Puranas
 
-by Purboshri Borpuzari | 2019 | 74,328 words
-
 This page relates ‘Characteristics of the Puranas’ of the study on agriculture and animal husbandry in the Puranas—a category of Sanskrit literature describing the culture and heritage of ancient Indian society. Besides detailing animal care, the six chapters of this essay also documents various Puranic agricultural science: ploughing, sowing, soil-types/fertility tests, transplantation, manuring, irrigation/water-management, tanks, rainfall–Sun dependence, horticulture, plus crop lists (e.g., Vrihi, Yava, Godhuma) and festivals/rites.
-
-Go directly to: 
-Footnotes.
 
 Part 2 - Characteristics of the Purāṇas
 
@@ -337,11 +304,6 @@ karmaṇāṃ vāsanā vārtā manūnāṃ cākrameṇa ca// 
 varṇanaṃ pralayānāṃ ca mokṣasya ca nirūpaṇam/ 
 tatkīrtanaṃ harereva vedānāṃ ca pṛthak pṛthak//
 
-sṛṣṭiścāpi visṛṣṭiśca sthitisteṣāṃ ca pālanam/ 
-karmaṇāṃ vāsanā vārtā manūnāṃ cākrameṇa ca// 
-varṇanaṃ pralayānāṃ ca mokṣasya ca nirūpaṇam/ 
-tatkīrtanaṃ harereva vedānāṃ ca pṛthak pṛthak//
-
 These are as follows—
 
 sṛṣṭi (original creation),
@@ -405,10 +367,6 @@ the Matsya Purāṇa the fat,
 the Garuḍa Purāṇa being the marrow and
 
 the Brahmāṇḍa Purāṇa the bones.
-
-Footnotes and references:
-
-[back to top]
 
 [1]:
 
@@ -519,15 +477,9 @@ Padma Purāṇa , 3.62.2-8
 
 ## 5. Part 3 - Authorship of the Purāṇas
 
-
 Agriculture and Animal husbandry in the Puranas
 
-by Purboshri Borpuzari | 2019 | 74,328 words
-
 This page relates ‘Authorship of the Puranas’ of the study on agriculture and animal husbandry in the Puranas—a category of Sanskrit literature describing the culture and heritage of ancient Indian society. Besides detailing animal care, the six chapters of this essay also documents various Puranic agricultural science: ploughing, sowing, soil-types/fertility tests, transplantation, manuring, irrigation/water-management, tanks, rainfall–Sun dependence, horticulture, plus crop lists (e.g., Vrihi, Yava, Godhuma) and festivals/rites.
-
-Go directly to: 
-Footnotes.
 
 Part 3 - Authorship of the Purāṇas
 
@@ -568,10 +520,6 @@ Akṛtavraṇa,
 Vaiśampāyana and
 
 Hārita.[16]
-
-Footnotes and references:
-
-[back to top]
 
 [1]:
 
@@ -658,15 +606,9 @@ vaiśampāyanahārītau ṣaḍvai paurāṇikā ime// Bhāgavata Purāṇa , 12
 
 ## 6. Part 4 - Date of the Purāṇas
 
-
 Agriculture and Animal husbandry in the Puranas
 
-by Purboshri Borpuzari | 2019 | 74,328 words
-
 This page relates ‘Date of the Puranas’ of the study on agriculture and animal husbandry in the Puranas—a category of Sanskrit literature describing the culture and heritage of ancient Indian society. Besides detailing animal care, the six chapters of this essay also documents various Puranic agricultural science: ploughing, sowing, soil-types/fertility tests, transplantation, manuring, irrigation/water-management, tanks, rainfall–Sun dependence, horticulture, plus crop lists (e.g., Vrihi, Yava, Godhuma) and festivals/rites.
-
-Go directly to: 
-Footnotes.
 
 Part 4 - Date of the Purāṇas
 
@@ -677,10 +619,6 @@ The Agni Purāṇa says that Kṛṣṇa Dvaipāyana Vyāsa divided the Vedas in
 F.E. Pargiter opines that the Purāṇas began long before Āpastamba's time. His sūtra work is estimated by Bühler as not later than the third century B.C., and possibly 150-200 years earlier. Hence, the Purāṇas must have existed at least as early as the beginning of the fifth century B.C.[11] Winternitz says that the earlier Purāṇas must have commentary into being before the 7th century.[12] Again, discovery of a Bengal Manuscript of the Skanda Purāṇa, written in Gupta script, shows that this Purāṇa was in existence in the 7th Century A.D.[13] Kumārila Bhaṭṭa, the philosopher, (about 750 A.D) takes the Purāṇas as sources of law, while Śaṃkarācārya (9th century A.D) and Rāmānuja (12th century A.D) quote the Purāṇas as holy texts.[14] R.C. Hazra in his Studies on the Purāṇic Records of Hindu Rites and Customs mentions that as the Mahābhārata and the Harivaṃśa mentions about the eighteen Purāṇas, so it can only just be doubted that the Purāṇas were originated not later than the first quarter of the seventh century A.D.[15]
 
 According to Pargiter, the Vāyu Purāṇa existed before A.D. 620, because it is referred to by poet Bāṇabhaṭṭa in his historical novel Harṣa-carita, and the writing in a Manuscript of the Skanda in the Royal Library of Nepal shows that that Purāṇa also existed about that time.[16] V.R.R. Dikshitar in his Some Aspects of the Vāyu Purāṇa opines that the epic Mahābhārata and its supplement the Harivaṃśa quote the Vāyu Purāṇa. This shows that this Purāṇa is much anterior to the epic Mahābhārata.[17] Again, the origin of the Bhāgavata Purāṇa may be assigned to the 13th century according to Colebrooke, Burnouf and Wilson.[18] Regarding the composition of the Viṣṇu Purāṇa it is stated that this Purāṇa was composed most probably in the last quarter of the third or the first quarter of the fourth century A.D.[19] The Agni Purāṇa is said to have been composed during the ninth century.[20] Regarding the date of the Matsya Purāṇa, Pargiter in his The Purāṇa Text of the Dynasties of the Kali Age opines that the compilation of the Matsya Purāṇa was begun in the latter part of the 2nd century in the reign of the Andhra king Yajña-Śrī Sātakarṇi.[21] A.M.T. Jackson thinks that Megasthenes was acquainted with part, at least, of a Purāṇic cosmogony and with a Purāṇic list of kings and also with a Purāṇic description of the upper and the lower world.[22] Observing Jackson’s point of view S.D. Gyani opines that Megasthenes had before him the same Purāṇa that has already been shown to have existed from the Vedic times to the 2nd Century B.C., the contents of which are, more or less, reproduced in the more primitive parts of the existing Purāṇas. The earliest part of the Purāṇas therefore, was compiled not later than the last quarter of the 4th century B.C.[23]
-
-Footnotes and references:
-
-[back to top]
 
 [1]:
 
@@ -790,10 +728,7 @@ Ibid., p. 29
 
 ## 7. Chapter 1 - An introduction to the Purāṇas
 
-
 Agriculture and Animal husbandry in the Puranas
-
-by Purboshri Borpuzari | 2019 | 74,328 words
 
 This page relates ‘introduction to the Puranas’ of the study on agriculture and animal husbandry in the Puranas—a category of Sanskrit literature describing the culture and heritage of ancient Indian society. Besides detailing animal care, the six chapters of this essay also documents various Puranic agricultural science: ploughing, sowing, soil-types/fertility tests, transplantation, manuring, irrigation/water-management, tanks, rainfall–Sun dependence, horticulture, plus crop lists (e.g., Vrihi, Yava, Godhuma) and festivals/rites.
 
@@ -805,15 +740,9 @@ Chapter 1 - An introduction to the Purāṇas
 
 ## 8. Part 6 - Description of the Upapurāṇas
 
-
 Agriculture and Animal husbandry in the Puranas
 
-by Purboshri Borpuzari | 2019 | 74,328 words
-
 This page relates ‘Description of the Upapuranas’ of the study on agriculture and animal husbandry in the Puranas—a category of Sanskrit literature describing the culture and heritage of ancient Indian society. Besides detailing animal care, the six chapters of this essay also documents various Puranic agricultural science: ploughing, sowing, soil-types/fertility tests, transplantation, manuring, irrigation/water-management, tanks, rainfall–Sun dependence, horticulture, plus crop lists (e.g., Vrihi, Yava, Godhuma) and festivals/rites.
-
-Go directly to: 
-Footnotes.
 
 Part 6 - Description of the Upapurāṇas
 
@@ -900,10 +829,6 @@ b) Nandī Upapurāṇa, where Kārtikeya has described the glory of Nandī
 c) Śāmba Upapurāṇa, deals with the nature of Śāmba and
 d) Āditya Upapurāṇa, deals with the nature of Āditya.[4]
 
-Footnotes and references:
-
-[back to top]
-
 [1]:
 
 aṣṭādaśapurāṇānāmevameva vidurbudhāḥ/
@@ -934,15 +859,9 @@ evamādityasaṃjñā ca tatraiva parigadyate// Matsya Purāṇa , 53.59-62
 
 ## 9. Part 7 - Division of the Purāṇas
 
-
 Agriculture and Animal husbandry in the Puranas
 
-by Purboshri Borpuzari | 2019 | 74,328 words
-
 This page relates ‘Division of the Puranas’ of the study on agriculture and animal husbandry in the Puranas—a category of Sanskrit literature describing the culture and heritage of ancient Indian society. Besides detailing animal care, the six chapters of this essay also documents various Puranic agricultural science: ploughing, sowing, soil-types/fertility tests, transplantation, manuring, irrigation/water-management, tanks, rainfall–Sun dependence, horticulture, plus crop lists (e.g., Vrihi, Yava, Godhuma) and festivals/rites.
-
-Go directly to: 
-Footnotes.
 
 Part 7 - Division of the Purāṇas
 
@@ -955,10 +874,6 @@ According to the Padma Purāṇa, the classification based on guṇa is as follo
 3 Tāmasika Purāṇas—Matsya, Kūrma, Liṅga,Śiva, Skanda and Agni.
 
 The Garuḍa Purāṇa[3] also gives this classification with a slight modification. According to the Garuḍa Purāṇa, the Bhāgavata, Viṣṇu, Garuḍa, Matsya, Kūrma and Vāyu are described as Sāttvika Purāṇas.[4] Among these six Purāṇas, the Bhāgavata Purāṇa, Viṣṇu Purāṇa and Garuḍa Purāṇa are exalted as superior, as they are the object of special favor of the god Viṣṇu or Hari.[5] The Rājasa Purāṇas are the Skanda, Padma, Vāmana, Varāha, Agni and Bhaviṣya.[6] The Tāmasa Purāṇas are Brahmāṇḍa, Liṅga, Brahmavaivarta, Mārkaṇḍeya, Brahma and Āditya.[7] In the Garuḍa Purāṇa the Sāttvika Purāṇas are divided into three classes. These classes are Sāttvika uttama, Sāttvika madhyama and Sāttvika adhama. Among the Sāttvika Purāṇas, Viṣṇu, Bhāgavata and Garuḍa are Sāttvika uttama, Vāyu is Sāttvika Madhyama and Matsya and Kūrma are Sāttvika adhama.[8]
-
-Footnotes and references:
-
-[back to top]
 
 [1]:
 
@@ -1002,15 +917,9 @@ viṣṇoḥ purāṇaṃ bhāgavataṃ purāṇaṃ sattvottamaṃ gāruḍaṃ
 
 ## 10. Part 5 - Number of the Purāṇas
 
-
 Agriculture and Animal husbandry in the Puranas
 
-by Purboshri Borpuzari | 2019 | 74,328 words
-
 This page relates ‘Number of the Puranas’ of the study on agriculture and animal husbandry in the Puranas—a category of Sanskrit literature describing the culture and heritage of ancient Indian society. Besides detailing animal care, the six chapters of this essay also documents various Puranic agricultural science: ploughing, sowing, soil-types/fertility tests, transplantation, manuring, irrigation/water-management, tanks, rainfall–Sun dependence, horticulture, plus crop lists (e.g., Vrihi, Yava, Godhuma) and festivals/rites.
-
-Go directly to: 
-Footnotes.
 
 Part 5 - Number of the Purāṇas
 
@@ -1063,11 +972,6 @@ nāradīyaṃ bhāgavatamāgneyaṃ skāndasaṃjñitam//
 bhaviṣyaṃ brahmavaivarttaṃ mārkaṇḍeyaṃ savāmanam/
 vārāhaṃ mātsyaṃ kaurmaṃca brahmāṇḍākhyamiti triṣaṭ//[11]
 
-brāhmaṃ pādmaṃ vaiṣṇavaṃca śaivaṃ laiṅgaṃ sagāruḍam/
-nāradīyaṃ bhāgavatamāgneyaṃ skāndasaṃjñitam//
-bhaviṣyaṃ brahmavaivarttaṃ mārkaṇḍeyaṃ savāmanam/
-vārāhaṃ mātsyaṃ kaurmaṃca brahmāṇḍākhyamiti triṣaṭ//[11]
-
 The Vāyu Purāṇa[12] too gives the list of the Purāṇas in a different order as follows—
 
 Matsya-purāṇa;
@@ -1105,9 +1009,6 @@ Skanda-purāṇa.
 In the Vāyu Purāṇa, the names of only sixteen Purāṇas are given although ‘eighteen Purāṇas’ are spoken with reference to.[13] And instead of the terms Garuḍa and Varāha, Vainateya and Saukara are used.
 
 The Devi Bhāgavata Purāṇa has stated the following sonnet for memorizing the names of the Purāṇas easily—
-
-madvayaṃ bhadvayaṃ caiva bratrayaṃ vacatuṣṭayam/
-anāpaliṃ gakūskāni purāṇāni pṛthakpṛthak//[14]
 
 madvayaṃ bhadvayaṃ caiva bratrayaṃ vacatuṣṭayam/
 anāpaliṃ gakūskāni purāṇāni pṛthakpṛthak//[14]
@@ -1151,10 +1052,6 @@ Matsya: 14000 verses;
 Garuḍa: 19000 verses and
 
 Brahmāṇḍa: 12800 verses.
-
-Footnotes and references:
-
-[back to top]
 
 [1]:
 
@@ -1234,15 +1131,9 @@ Skanda Purāṇa ,5.3.1.31-45
 
 ## 11. Part 8.2 - Contents of the Bhāgavata Purāṇa
 
-
 Agriculture and Animal husbandry in the Puranas
 
-by Purboshri Borpuzari | 2019 | 74,328 words
-
 This page relates ‘Contents of the Bhagavata Purana’ of the study on agriculture and animal husbandry in the Puranas—a category of Sanskrit literature describing the culture and heritage of ancient Indian society. Besides detailing animal care, the six chapters of this essay also documents various Puranic agricultural science: ploughing, sowing, soil-types/fertility tests, transplantation, manuring, irrigation/water-management, tanks, rainfall–Sun dependence, horticulture, plus crop lists (e.g., Vrihi, Yava, Godhuma) and festivals/rites.
-
-Go directly to: 
-Footnotes.
 
 Part 8.2 - Contents of the Bhāgavata Purāṇa
 
@@ -1274,10 +1165,6 @@ The Bhāgavata Purāṇa[26] has ten topics in it. They are as follows—
 10 Āśraya (the last resort of the universe, the ultimate reality)—The Final Resort, Para-Brahman or Paramātman from creation or dissolution both proceed.[36]
 
 The Bhāgavata Purāṇa contains twelve Skandhas. The first Skandha presents a discourse between Vyāsa and Nārada,[37] as well as accounts of Nārada.[38] The second Skandha describes what men are to do and what they are forbidden to do,[39] about the creation of the Universe-the Bhāgavata Purāṇa as related by Brahmā to Nārada,[40] description of the Virāṭ Puruṣa,[41] preservation by Līlā-Avatāras[42].The third Skandha describes about the creation of Bhāgavata as related by Maitreya to Vidura,[43] the ten-fold creation by Brahmā,[44] divisions of Kāla,[45] the descriptions of the various creations of Brahmā,[46] the first or the Svāyambhuva–Manvantara,[47] Deva and Deva-yoni creation.[48] Kapila, the founder of Sāṃkhya school is mentioned in the third Skandha as an incarnation of Viṣṇu, who instructs his mother Devāhuti about the yoga philosophy of the Bhāgavata Purāṇa.[49] The Fourth Skandha describes about the genealogy of Manu and the Ṛṣis,[50] the story of Dhruva,[51] the story of Pṛthu, etc.[52] The fifth and the sixth Skandha describes about the Bhuvanakoṣa, Earth-chain,[53] story of Ajāmila,[54] the progeny of Dakṣa,[55] the story of Vṛtra,[56] etc. The seventh Skandha includes the account of Hiraṇyakaśipu and Prahlāda,[57] description of Varṇa and Āśrama,[58] etc. The eight Skandha gives description about the second to fourteenth Manvantaras. The ninth Skandha narrates about the Vaivasvata-Manvantara,[59] the dynasty of Ikṣvāku,[60] the Lunar dynasty,[61] etc. The tenth Skandha includes the description of the life of Kṛṣṇa. The love-scenes with the Gopīs have been described elaborately. Referring to the tenth Skandha Winternitz says that the tenth book is the most popular and most widely read by all. This book is translated into almost all popular Indian languages of India and is a favourite book of all classes of the Indian folk.[62] The eleventh Skandha describes about the destruction of the Yādavas and the death of Kṛṣṇa, and the twelfth Skandha encloses the usual predictions on the Kaliyuga and the destruction of the world.
-
-Footnotes and references:
-
-[back to top]
 
 [1]:
 
@@ -1563,15 +1450,9 @@ Vide, Winternitz, M., op.cit., volume 1, p.532
 
 ## 12. Part 8.3 - Contents of the Matsya Purāṇa
 
-
 Agriculture and Animal husbandry in the Puranas
 
-by Purboshri Borpuzari | 2019 | 74,328 words
-
 This page relates ‘Contents of the Matsya Purana’ of the study on agriculture and animal husbandry in the Puranas—a category of Sanskrit literature describing the culture and heritage of ancient Indian society. Besides detailing animal care, the six chapters of this essay also documents various Puranic agricultural science: ploughing, sowing, soil-types/fertility tests, transplantation, manuring, irrigation/water-management, tanks, rainfall–Sun dependence, horticulture, plus crop lists (e.g., Vrihi, Yava, Godhuma) and festivals/rites.
-
-Go directly to: 
-Footnotes.
 
 Part 8.3 - Contents of the Matsya Purāṇa
 
@@ -1582,10 +1463,6 @@ The Purāṇa, in which the lord speaks the glory of Narasiṃha to Vaivasvata M
 There are descriptions about glorification of the sacred places of Allahabad (Prayāga Māhātmya),[21] Benares (Vārānasī and Avimukta-Māhātmya),[22] of the river Narmadā,[23] the duties of a king,[24] the ceremonies at the building of a house,[25] the excretion and dedication of statues of deities, temples and palaces,[26] the sixteen kinds of donations,[27] etc.
 
 As far as religious content is concerned, the Matsya Purāṇa might be called Śaivite with just as much reason as it is classed as Viṣṇuite. Religious festivals of the Vaiṣṇavas are described side by side with those of the Śaivas, and both Viṣṇu and Śiva-legends are related.[28]
-
-Footnotes and references:
-
-[back to top]
 
 [1]:
 
@@ -1713,15 +1590,9 @@ Winternitz, M., op.cit., volume 1, p.549-55
 
 ## 13. Part 8.4 - Contents of the Vāyu Purāṇa
 
-
 Agriculture and Animal husbandry in the Puranas
 
-by Purboshri Borpuzari | 2019 | 74,328 words
-
 This page relates ‘Contents of the Vayu Purana’ of the study on agriculture and animal husbandry in the Puranas—a category of Sanskrit literature describing the culture and heritage of ancient Indian society. Besides detailing animal care, the six chapters of this essay also documents various Puranic agricultural science: ploughing, sowing, soil-types/fertility tests, transplantation, manuring, irrigation/water-management, tanks, rainfall–Sun dependence, horticulture, plus crop lists (e.g., Vrihi, Yava, Godhuma) and festivals/rites.
-
-Go directly to: 
-Footnotes.
 
 Part 8.4 - Contents of the Vāyu Purāṇa
 
@@ -1752,10 +1623,6 @@ The second section (Ānusaṅga Pāda) comprises 58 chapters of the book, beginn
 The third section (Upodghāta Pāda) contains 34 chapters (65-99).[17] This section gives the description of the races of Prajāpati, Kāśyapa, Varuṇa, Vaivasvata Manu, Viṣṇu, and the Gandharvas. Moreover, there are accounts of Śrāddhas to which more than ten chapters are devoted. Descendants of Soma and Yadu race and the dynasties of kali age are also met with there.
 
 The last section (Upasaṃhāra Pāda) consists of chapters 100 to the end.[18] Periods of seven Manus[19] are described here. Moreover, descriptions of periodical destructions and regenerations[20] have also been elaborated. The concluding chapters on the greatness of Gayā seem to be out of place and indicate a definite interpolation.[21] The Vāyu Purāṇa states that, a Brāhmaṇa, who may understand the four Vedas along with the six Vedāṅgas and Upaniṣads, but if he does not understand this Purāṇa then he may be called as an inexpert.[22]
-
-Footnotes and references:
-
-[back to top]
 
 [1]:
 
@@ -1853,10 +1720,7 @@ na cetpurāṇaṃ saṃvidyānnaiva sa syādvicakṣaṇaḥ // Vāyu Purāṇa
 
 ## 14. Part 9 - Justification of Studying the Five Purāṇas
 
-
 Agriculture and Animal husbandry in the Puranas
-
-by Purboshri Borpuzari | 2019 | 74,328 words
 
 This page relates ‘Justification of Studying the Five Puranas’ of the study on agriculture and animal husbandry in the Puranas—a category of Sanskrit literature describing the culture and heritage of ancient Indian society. Besides detailing animal care, the six chapters of this essay also documents various Puranic agricultural science: ploughing, sowing, soil-types/fertility tests, transplantation, manuring, irrigation/water-management, tanks, rainfall–Sun dependence, horticulture, plus crop lists (e.g., Vrihi, Yava, Godhuma) and festivals/rites.
 
@@ -1872,15 +1736,9 @@ Moreover, the limitation of the length of the thesis also compelled me to take t
 
 ## 15. Part 8.1 - Contents of the Agni Purāṇa
 
-
 Agriculture and Animal husbandry in the Puranas
 
-by Purboshri Borpuzari | 2019 | 74,328 words
-
 This page relates ‘Contents of the Agni Purana’ of the study on agriculture and animal husbandry in the Puranas—a category of Sanskrit literature describing the culture and heritage of ancient Indian society. Besides detailing animal care, the six chapters of this essay also documents various Puranic agricultural science: ploughing, sowing, soil-types/fertility tests, transplantation, manuring, irrigation/water-management, tanks, rainfall–Sun dependence, horticulture, plus crop lists (e.g., Vrihi, Yava, Godhuma) and festivals/rites.
-
-Go directly to: 
-Footnotes.
 
 Part 8.1 - Contents of the Agni Purāṇa
 
@@ -1891,10 +1749,6 @@ Considering himself as Viṣṇu, Kālāgni and Rudra the god Agni converses the
 The Agni Purāṇa discusses about all branches of knowledge.[10] Knowledge according to the Agni Purāṇa is of two sorts-Parā Vidyā (the superior) and Aparā Vidyā (the inferior). The Vedas namely the Ṛgveda, the Yajurveda, the Sāmaveda and the Atharvaveda, the Vedāṅgas (the six auxiliaries of the Vedas), namely Śikṣā (phonetics), Kalpa (rules governing rituals), Vyākaraṇa (grammar), Nirukta (etymological science), Chanda (science of prosody) and Jyotiṣa (the science dealing with the movement of the luminary bodies), Abhidhāna (lexicon), Mīmāṃsā (investigation of the interpretation of the rituals of the Vedas), Dharmaśāstras(law-books), Purāṇas (18 in number), Nyāya (logical philosophical system), Vaidya (Medical Science), Gandharva (Musical Science), Dhanurveda (the science of archery) and Arthaśāstra (polity)-these all belong to Aparā Vidyā. The Parā Vidyā is that by which Brahman is realized.[11] This Purāṇa deals with the great and eternal science of Brahmā which is invisible, incomprehensible and stable.[12]
 
 The Agni Purāṇa is sacred and admirable. It gives pleasure, satisfaction and liberation to men.[13] The superiority of Agni Purāṇa is declared in the last chapter of this Purāṇa itself. There is nothing richer in substance than the Agni Purāṇa. Nothing is a better friend than this Purāṇa. There is no greater treatise than this Purāṇa. It is the best of the scriptures, the best of the Smṛtis and the best of the philosophies. There is no superior knowledge than this Purāṇa. This Purāṇa is extremely auspicious. It is the foremost among the Purāṇas.[14] The Agni Purāṇa encloses chapter on Harivaṃśa,[15] incarnations of lord Viṣṇu as Matsya etc. (matsyāvatārādyā), Gītā, Rāmāyaṇa (gītā rāmāyaṇaṃ tviha), Mahābhārata(harivaṃśo bhārataṃ ca) etc.[16] Moreover, it deals with Āgamas of the Śaiva, Śākta and Saura, Maṇḍalas, Vāstuśāstra, various types of Mantras, Pratisarga, Brahmāṇḍa, Dvīpa, Bhuvanakoṣa etc.[17] Discussions on topics like Astrology, victory in war, Manvantaras, Prāyaścitta, Rājadharma, Dānadharma, Vratas, Sūryavaṃśa, Somavaṃśa, Dhanurveda, Āyurveda, Gāndharvaveda, Arthaśāstra, Mīmāṃsā, Nyāya etc. are also met with in this Purāṇa.[18]
-
-Footnotes and references:
-
-[back to top]
 
 [1]:
 
@@ -1998,10 +1852,7 @@ Ibid., 383.57-60
 
 ## 16. Part 10 - Literature Review
 
-
 Agriculture and Animal husbandry in the Puranas
-
-by Purboshri Borpuzari | 2019 | 74,328 words
 
 This page relates ‘Literature Review’ of the study on agriculture and animal husbandry in the Puranas—a category of Sanskrit literature describing the culture and heritage of ancient Indian society. Besides detailing animal care, the six chapters of this essay also documents various Puranic agricultural science: ploughing, sowing, soil-types/fertility tests, transplantation, manuring, irrigation/water-management, tanks, rainfall–Sun dependence, horticulture, plus crop lists (e.g., Vrihi, Yava, Godhuma) and festivals/rites.
 
@@ -2023,15 +1874,9 @@ Hence, it is seen that till now there are various works on agriculture and anima
 
 ## 17. Part 8.5 - Contents of the Viṣṇu Purāṇa
 
-
 Agriculture and Animal husbandry in the Puranas
 
-by Purboshri Borpuzari | 2019 | 74,328 words
-
 This page relates ‘Contents of the Vishnu Purana’ of the study on agriculture and animal husbandry in the Puranas—a category of Sanskrit literature describing the culture and heritage of ancient Indian society. Besides detailing animal care, the six chapters of this essay also documents various Puranic agricultural science: ploughing, sowing, soil-types/fertility tests, transplantation, manuring, irrigation/water-management, tanks, rainfall–Sun dependence, horticulture, plus crop lists (e.g., Vrihi, Yava, Godhuma) and festivals/rites.
-
-Go directly to: 
-Footnotes.
 
 Part 8.5 - Contents of the Viṣṇu Purāṇa
 
@@ -2054,10 +1899,6 @@ This book deals with details of creation, recreation[15], measure of time[16], o
 (5) The fifth book of the Viṣṇu Purāṇa is exclusively occupied with the life of Kṛṣṇa.[33] It is the longest book in this Purāṇa which gives us the account of marriage of Vāsudeva and Devakī, Yogamāyā who enters into the womb of Yaśodā and Hari who enters into the womb of Devakī,[34] holding of Govardhana Mountain by Kṛṣṇa,[35] Kṛṣṇa’s marriage with Rukmiṇī,[36] destruction of the Yadu race[37] etc.
 
 The last book contains an account of the dissolution of the world, in both its major and minor cataclysms; and, in the particulars of the end of all things by fire and water, as well as in the principle of their perpetual renovation, presents a faithful exhibition of opinions that were general in the ancient world.[38] The sixth book is the shortest among all the books. It describes the nature of the Kali age,[39] nature of elemental dissolution (prakṛta pralaya),[40] description of Brahma yoga, and the greatness of the Viṣṇu Purāṇa.[41]
-
-Footnotes and references:
-
-[back to top]
 
 [1]:
 
@@ -2237,15 +2078,9 @@ Ibid., Book 6, Ch.7-8
 
 ## 18. Part 1 - Introduction and history of ancient Indian Agriculture
 
-
 Agriculture and Animal husbandry in the Puranas
 
-by Purboshri Borpuzari | 2019 | 74,328 words
-
 This page relates ‘Introduction and history of ancient Indian Agriculture’ of the study on agriculture and animal husbandry in the Puranas—a category of Sanskrit literature describing the culture and heritage of ancient Indian society. Besides detailing animal care, the six chapters of this essay also documents various Puranic agricultural science: ploughing, sowing, soil-types/fertility tests, transplantation, manuring, irrigation/water-management, tanks, rainfall–Sun dependence, horticulture, plus crop lists (e.g., Vrihi, Yava, Godhuma) and festivals/rites.
-
-Go directly to: 
-Footnotes.
 
 Part 1 - Introduction and history of ancient Indian Agriculture
 
@@ -2256,10 +2091,6 @@ Although Indus Valley Civilization, according to available facts, is supposed to
 Harappan people cultivated several cereals, pulses, oilseeds, fibre crops, fruits and vegetables.They knew crops of different seasons like kharif and rabi.Among cereals they cultivated wheat, barley, rice, jowar, bajra(pearl millet), ragi(finger millet), foxtail(Italian millet);among pulses lentil, chick pea(Bengal gram), field pea, green gram, black gram; linseed, mustard, sesame and among fibre crops they cultivated cotton.[7] Information of animal husbandry is also found. The figure of a bull on a Mahenjo-daro seal is interpreted as indicating that great importance was attached to cattle breeding in those days.The skeletal remains of the humped bull, buffalo, sheep, elephant, and camel unearthed in the Indus valley area show that these animals were domesticated.[8]
 
 Agriculturists in ancient India were quite aware of the nature of soil and its relations to the production of a particular crop of economic importance. The Aryans were an active pastoral people and agriculture was the backbone of economy at that time.[9] According to the historians, the Aryan tribes entered India from Central Asia in the 2nd millennium BC.[10] The Vedas are the main source of information regarding agricultural activities practiced by the Aryans. The Vedas attach great importance to agriculture. Among the ancient Vedic treatises mainly the Ṛgveda records various aspects of agriculture. In the Ṛgveda, the gambler is advised to stop gambling and engage himself in agriculture to improve his condition.[11] The Śatapatha Brāhmaṇa has mentioned the four principal operations of agriculture. They are ploughing, sowing, reaping and threshing.[12] It also refers to the practice of yoking six, twelve or twenty-four bullocks.[13] The epic Rāmāyaṇa clearly states that people, who are engaged in agriculture and cattle rearing, can live happily and can prosper in life.[14] The Purāṇas too provide many additional aspects regarding agriculture.These are discussed in details in this chapter.
-
-Footnotes and references:
-
-[back to top]
 
 [1]:
 
@@ -2323,15 +2154,9 @@ vārtāyāṃ saṃśritastāta loko’yaṃ sukhamedhate// Rāmāyaṇa , 2.100
 
 ## 19. Part 3 - Importance of Agriculture
 
-
 Agriculture and Animal husbandry in the Puranas
 
-by Purboshri Borpuzari | 2019 | 74,328 words
-
 This page relates ‘Importance of Agriculture’ of the study on agriculture and animal husbandry in the Puranas—a category of Sanskrit literature describing the culture and heritage of ancient Indian society. Besides detailing animal care, the six chapters of this essay also documents various Puranic agricultural science: ploughing, sowing, soil-types/fertility tests, transplantation, manuring, irrigation/water-management, tanks, rainfall–Sun dependence, horticulture, plus crop lists (e.g., Vrihi, Yava, Godhuma) and festivals/rites.
-
-Go directly to: 
-Footnotes.
 
 Part 3 - Importance of Agriculture
 
@@ -2339,11 +2164,7 @@ In the Kṛṣi-parāśara the importance of kṛṣi is very aptly brought out 
 
 kṛṣirdhanyā kṛṣirmedhyā jantūnāṃ jīvanaṃ kṛṣiḥ.[1]
 
-kṛṣirdhanyā kṛṣirmedhyā jantūnāṃ jīvanaṃ kṛṣiḥ.[1]
-
 One who is related to agriculture can become a king—
-
-kṛṣyanvito hi loke’smin bhūyādekaśca bhūpatiḥ.[2]
 
 kṛṣyanvito hi loke’smin bhūyādekaśca bhūpatiḥ.[2]
 
@@ -2351,19 +2172,13 @@ Agriculture is the only means of livelihood for which one is not compelled to be
 
 ekayā ca punaḥ kṛṣyā prārthako naiva jāyate.[3]
 
-ekayā ca punaḥ kṛṣyā prārthako naiva jāyate.[3]
-
 Parāśara again states that rice, which is the main food of the majority of the people all over the world, is produced from the agricultural crop paddy and without agriculture paddy cannot be produced—
-
-annaṃ hi dhānya sañjātaṃ dhānyaṃ kṛṣyā vinā na ca.[4]
 
 annaṃ hi dhānya sañjātaṃ dhānyaṃ kṛṣyā vinā na ca.[4]
 
 It is rice which besides providing sustenance to the gods, demons and human beings (devāsuramanuṣyāśca sarve cānnopajīvinaḥ) constitutes the very vitality (annaṃ prāṇā), vigour (balaṃ cānnam) and the means of fulfillment of all the ends of life (annaṃ sarvārtha sādhanam).[5] A person may be with gold ornaments in his neck, ears and hands (kaṇṭhe karṇe ca haste ca suvarṇaṃ vidyate yadi), when denied of rice, is inevitably threatened with starvation and death (upavāsastathāpi syādannābhāvena dehīnām).[6]
 
 The Taittirīya Upaniṣad too states that living beings are born from food; when born, by food they grow.It is fed upon, and it feeds on beings; so it is called food—
-
-annādbhūtāni jāyante/ jātānyannena vardhante/ adyate’tti ca bhūtāni/ tasmādannaṃ taducyata iti.[7]
 
 annādbhūtāni jāyante/ jātānyannena vardhante/ adyate’tti ca bhūtāni/ tasmādannaṃ taducyata iti.[7]
 
@@ -2375,13 +2190,7 @@ The Viṣṇu Purāṇa states that agriculture is the survival of farmers—
 
 karṣakāṇāṃ kṛṣirvṛttiḥ.[10]
 
-karṣakāṇāṃ kṛṣirvṛttiḥ.[10]
-
 According to the Vāyu Purāṇa, agriculture along with the profession of trading and animal husbandry was not for Brāhmaṇas.[11] The Vāyu Purāṇa mentions that of the four castes, the Vaiśyas were specially connected with agriculture and commerce.[12] The Bhāgavata Purāṇa mentions that the main profession of the Vaiśyas was to carry on business (vārtā-vṛtti). Vārtā comprises of tending cattle, tilling agricultural fields, carrying on trade and lending for profit.[13] The Vāyu Purāṇa states that Svayambhū Brahmā devised plans for the purpose of agricultural cultivation.[14] He ordained animal husbandry or cattle rearing, trade and agriculture for the Vaiśyas.[15] The Viṣṇu Purāṇa states that Brahmā, the great parent of creation, gave to the Vaiśyas, the occupation of commerce and agriculture and the feeding of flocks and herds, for means of livelihood.[16] The Mārkaṇḍeya Purāṇa too points out that agriculture and tending of cattle were the means of livelihood for the Vaiśyas.[17] The custom of field-gifting is also met with in the Purāṇas.The Agni Purāṇa states that by making the gift of a field in full harvest, to a Brāhmaṇa, a man attains everything.[18] It is also mentioned in the Viṣṇu Purāṇa that in the Kali age, oppressed by famine and taxation, men will desert their native lands, and go to those countries which are fit for coarse grains.[19]
-
-Footnotes and references:
-
-[back to top]
 
 [1]:
 
@@ -2469,15 +2278,9 @@ gavedhukakadannādyān deśān yāsyanti duhkhitāḥ// Viṣṇu Purāṇa , 6.
 
 ## 20. Part 2 - The Meaning of the Word Kṛṣi (Agriculture)
 
-
 Agriculture and Animal husbandry in the Puranas
 
-by Purboshri Borpuzari | 2019 | 74,328 words
-
 This page relates ‘Meaning of the Word Krishi (Agriculture)’ of the study on agriculture and animal husbandry in the Puranas—a category of Sanskrit literature describing the culture and heritage of ancient Indian society. Besides detailing animal care, the six chapters of this essay also documents various Puranic agricultural science: ploughing, sowing, soil-types/fertility tests, transplantation, manuring, irrigation/water-management, tanks, rainfall–Sun dependence, horticulture, plus crop lists (e.g., Vrihi, Yava, Godhuma) and festivals/rites.
-
-Go directly to: 
-Footnotes.
 
 Part 2 - The Meaning of the Word Kṛṣi (Agriculture)
 
@@ -2487,11 +2290,7 @@ Further Amarakoṣa mentions kṛṣi as one of the Vṛttis i.e. livelihood of
 
 kṛṣiḥ paśupālyaṃ vāṇijyaṃ ceti vṛttayaḥ.[2]
 
-kṛṣiḥ paśupālyaṃ vāṇijyaṃ ceti vṛttayaḥ.[2]
-
 In the Śabdakalpadruma, the word kṛṣi is explained as the occupation of the Vaiśyas—
-
-vaiśyavṛttiviśeṣaḥ.[3]
 
 vaiśyavṛttiviśeṣaḥ.[3]
 
@@ -2501,13 +2300,7 @@ The Nirukta adds that kṣetraṃ (abode) is derived from the root kṣi, meanin
 
 kṣetrasya patiḥ/ kṣetraṃ kṣiyaternivāsakarmaṇaḥ/tasya pātā vā pālayitā vā//.[7]
 
-kṣetrasya patiḥ/ kṣetraṃ kṣiyaternivāsakarmaṇaḥ/tasya pātā vā pālayitā vā//.[7]
-
 Here mention can be made of the word kṣetrapati as it has been revealed by the seer Vāmadeva in the Ṛgveda.[8] Here in this hymn the Vedic God Rudra has been worshipped as the lord of kṣetra i.e. a field or a fertile soil.[9] There are many ideas related to agriculture in this hymn.A study of this hymn shows that the Vedic seer Vāmadeva was quite conversant with ancient Indian advanced agriculture.The term kṛṣi is a feminine word.It also means karṣaṇam. Amarakoṣa has given the synonyms of kṛṣīvala as such, kṣetrājīvaḥ karṣakaśca kṛṣakaśca etc. Here kṛṣīvalaḥ means farmer.In this regard Amarasiṃha refers to kṣetrājīva i.e. a farmer who lives by land i.e. the act of ploughing.[10]
-
-Footnotes and references:
-
-[back to top]
 
 [1]:
 
@@ -2553,10 +2346,7 @@ Amarakoṣa, 2.9.5
 
 ## 21. Chapter 2 - Agriculture and its importance
 
-
 Agriculture and Animal husbandry in the Puranas
-
-by Purboshri Borpuzari | 2019 | 74,328 words
 
 This page relates ‘Agriculture and its importance’ of the study on agriculture and animal husbandry in the Puranas—a category of Sanskrit literature describing the culture and heritage of ancient Indian society. Besides detailing animal care, the six chapters of this essay also documents various Puranic agricultural science: ploughing, sowing, soil-types/fertility tests, transplantation, manuring, irrigation/water-management, tanks, rainfall–Sun dependence, horticulture, plus crop lists (e.g., Vrihi, Yava, Godhuma) and festivals/rites.
 
@@ -2568,23 +2358,15 @@ Chapter 2 - Agriculture and its importance
 
 ## 22. Part 4 - Agriculture from the Vedic Point of View
 
-
 Agriculture and Animal husbandry in the Puranas
 
-by Purboshri Borpuzari | 2019 | 74,328 words
-
 This page relates ‘Agriculture from the Vedic Point of View’ of the study on agriculture and animal husbandry in the Puranas—a category of Sanskrit literature describing the culture and heritage of ancient Indian society. Besides detailing animal care, the six chapters of this essay also documents various Puranic agricultural science: ploughing, sowing, soil-types/fertility tests, transplantation, manuring, irrigation/water-management, tanks, rainfall–Sun dependence, horticulture, plus crop lists (e.g., Vrihi, Yava, Godhuma) and festivals/rites.
-
-Go directly to: 
-Footnotes.
 
 Part 4 - Agriculture from the Vedic Point of View
 
 The Vedas, being the sources of sacred knowledge occupy a very important position in the history of world literature. Man can know the code of right activity and the body of right knowledge from the Vedas.
 
 The Ṛgvedādibhāṣyabhūmikā, opines that the Vedas are those scriptures through which men know all true sciences, in whom all true sciences exist, by studying which men become learned—
-
-vidanti jānanti, vidyante bhavanti, vindati vindate labhante, vindate vicārayanti sarve manuṣyāḥ sarvāḥ satyavidyā yairyeṣu vā tathā vidvāṃsaśca bhavanti te vedāḥ/[1]
 
 vidanti jānanti, vidyante bhavanti, vindati vindate labhante, vindate vicārayanti sarve manuṣyāḥ sarvāḥ satyavidyā yairyeṣu vā tathā vidvāṃsaśca bhavanti te vedāḥ/[1]
 
@@ -2604,10 +2386,6 @@ Atharvaveda Kṛṣatu - 3.17.6
 Kṛṣim- 3.12.4, 8.10.11 and 12, 10.5.34 and 10.6.12 Kṛṣi saṃśitaḥ -10.5.34
 Kṛṣate - 12.2.36
 
-Footnotes and references:
-
-[back to top]
-
 [1]:
 
 Sarasvati, Srimad Dayananda, Ṛgvedādibhāṣyabhūmikā, p.24
@@ -2620,15 +2398,9 @@ purāṇaṃ vedasammitam/ Viṣṇu Purāṇa , 1.1.3
 
 ## 23. Part 5 - Agriculture in the Ṛgveda Saṃhitā
 
-
 Agriculture and Animal husbandry in the Puranas
 
-by Purboshri Borpuzari | 2019 | 74,328 words
-
 This page relates ‘Agriculture in the Rigveda Samhita’ of the study on agriculture and animal husbandry in the Puranas—a category of Sanskrit literature describing the culture and heritage of ancient Indian society. Besides detailing animal care, the six chapters of this essay also documents various Puranic agricultural science: ploughing, sowing, soil-types/fertility tests, transplantation, manuring, irrigation/water-management, tanks, rainfall–Sun dependence, horticulture, plus crop lists (e.g., Vrihi, Yava, Godhuma) and festivals/rites.
-
-Go directly to: 
-Footnotes.
 
 Part 5 - Agriculture in the Ṛgveda Saṃhitā
 
@@ -2638,13 +2410,9 @@ Sāyaṇācārya in the Ṛgveda explains in this context thus—
 
 ‘vāhāḥ balīvardāḥ śunaṃ / sukhanāmaitat/sukhaṃ yathā bhavati tathā vahantviti śeṣaḥ/tathā naraḥ netāro manuṣyāḥ karṣakāḥ śunaṃ kurvantu/tathā lāṅgalam api śunaṃ kṛṣatu’.[8]
 
-‘vāhāḥ balīvardāḥ śunaṃ / sukhanāmaitat/sukhaṃ yathā bhavati tathā vahantviti śeṣaḥ/tathā naraḥ netāro manuṣyāḥ karṣakāḥ śunaṃ kurvantu/tathā lāṅgalam api śunaṃ kṛṣatu’.[8]
-
 Glorifying the auspicious Sītā(furrow) the Ṛgvedic seer prays that being favorable to all, the furrow may provide abundant fruit.[9] The owner of the field was called as kṣetrapati. Sāyaṇācārya interprets the word kṣetrapati as the lord Rudra-‘rudraṃ kṣetrapatiṃ prāhuḥ...’.[10] Considering him as friend the seer prays him to bestow cattle, horses, nourishment upon him and make all happy.[11] Again, the Ṛgvedic seer Vāmadeva Gautama prays for the herbs (oṣadhīḥ) of the field to be sweet, the heavens, the sky and the waters to be kind, the lord of the field to be gracious, for all the people.[12]
 
 Sāyaṇācārya here mentions the term oṣadhīḥ to indicate the agricultural product such as vrīhi, priyaṅgu, etc.—
-
-‘oṣadhīḥ oṣadhyo vrīhipriyaṅgvādayaḥ naḥ asmabhyaṃ madhumatīḥ madhumatyaḥ bhavantu.’[13]
 
 ‘oṣadhīḥ oṣadhyo vrīhipriyaṅgvādayaḥ naḥ asmabhyaṃ madhumatīḥ madhumatyaḥ bhavantu.’[13]
 
@@ -2656,15 +2424,11 @@ Sāyaṇācārya interprets this idea in the commentary as follows—
 
 ‘āryāya viduṣe/manuṣaśabdo manuśabdaparyāyaḥ/manuṣāya manave manorarthaṃ he dastrā darśanīyāvaśvinau vṛkeṇa lāṅgalena karṣakaiḥ kṛṣṭadeśe yavaṃ yavādyupalakṣitaṃ sarvaṃ dhānyajātaṃ vapantā vāpayantau tathā iṣam/annanāmaitat’.[21]
 
-‘āryāya viduṣe/manuṣaśabdo manuśabdaparyāyaḥ/manuṣāya manave manorarthaṃ he dastrā darśanīyāvaśvinau vṛkeṇa lāṅgalena karṣakaiḥ kṛṣṭadeśe yavaṃ yavādyupalakṣitaṃ sarvaṃ dhānyajātaṃ vapantā vāpayantau tathā iṣam/annanāmaitat’.[21]
-
 Besides plough, the agricultural tools in the Vedic period included khanitra[22] (a ‘shovel’ or ‘spade’ for digging), dātra[23] (cutter) and sṛṇi[24] (sickle) etc. Dātra or sṛṇi was used to cut the ripe grain. The grain was grinded out on the khala[25] (the floor of the granary or a mill). Titau(sieve) was used to separate grain from the straw.[26] Dhānyākṛt[27] was the farmer and the grain-measuring vessel was called ūrdara.[28] The paraśu (axe or hatchet) and its practice are also referred to in the Ṛgveda.[29]
 
 Ṛgvedic seer declares that the ploughshare furrowing the field provides food for the ploughman.[30]
 
 Sāyaṇācārya interprets this as
-
-—‘kṛṣan kṛṣiṃ kurvan phālaḥ āśitaṃ karṣakaṃ bhoktāraṃ kṛṇoti karoti’.[31]
 
 —‘kṛṣan kṛṣiṃ kurvan phālaḥ āśitaṃ karṣakaṃ bhoktāraṃ kṛṇoti karoti’.[31]
 
@@ -2674,13 +2438,9 @@ Sāyaṇācārya thus comments—
 
 ‘yathā kaścitsaktuṃ durdhāvaṃ punāti tadvat prakṛtitaḥ pratyataśca śabdānutpunantaḥ dhirāḥ dhīmanto vidvāṃsaḥ …vācamakrata akṛṣata kurvanti’.[36]
 
-‘yathā kaścitsaktuṃ durdhāvaṃ punāti tadvat prakṛtitaḥ pratyataśca śabdānutpunantaḥ dhirāḥ dhīmanto vidvāṃsaḥ …vācamakrata akṛṣata kurvanti’.[36]
-
 The term yavyāvatyām[37] is uttered to specify the term hariyūpīyā, which denotes a river or a city on the bank of which the Vṛcīvata, certain Asuras dwelt upon.Indra killed these Asuras on the bank of above mentioned river.[38] Here the word yavyāvatyām denotes ‘on the bank of the speedy river’.[39] But N.M. Kansara has pointed out that the term yavyāvatī denotes a river where yavas or barleys are produced abundantly.[40] The seer in the Ṛgveda urges to harness the ploughs, fit on the yokes, after that the womb of earth is ready, the seeds must be sown therein, and it is prayed that may there be abundant food; may the grain fall ripe towards the sickle.[41]
 
 In this regard Sāyaṇācārya’s views are worthy to mention—
-
-‘he sakhāyo yūyaṃ sīrā sirāṇi yunakta yuṅgdhvamaṇḍudbhiḥ saha/tadarthaṃ yugā yugāni vi tanudhvaṃ vistārayadhvam/ kṛte sa yonau iha sītāyāṃ bījaṃ grāmyamāraṇyaṃ ca vapata nidhatta/ tilamāṣavrīhyādikaṃ grāmyasaptakaṃ veṇuśyāmākanīvārādikamāraṇyabījasaptakaṃ ca kṛṣṭākṛṣṭayornivapatetyarthaḥ/tathā naḥ asmākaṃ girā stutyā praśastyā sahāsmākaṃ śruṣṭiḥ annaṃ sabharāḥ sabharam asat bhavati bhavatu/tathā nedīya it antikameva sṛṇyaḥ/ sṛṇiraṅkuśaḥ/aṅkuśavadvakro lavitraḥ/pakvaṃ stambam eyāt ābhimukhyena gacchatu’.
 
 ‘he sakhāyo yūyaṃ sīrā sirāṇi yunakta yuṅgdhvamaṇḍudbhiḥ saha/tadarthaṃ yugā yugāni vi tanudhvaṃ vistārayadhvam/ kṛte sa yonau iha sītāyāṃ bījaṃ grāmyamāraṇyaṃ ca vapata nidhatta/ tilamāṣavrīhyādikaṃ grāmyasaptakaṃ veṇuśyāmākanīvārādikamāraṇyabījasaptakaṃ ca kṛṣṭākṛṣṭayornivapatetyarthaḥ/tathā naḥ asmākaṃ girā stutyā praśastyā sahāsmākaṃ śruṣṭiḥ annaṃ sabharāḥ sabharam asat bhavati bhavatu/tathā nedīya it antikameva sṛṇyaḥ/ sṛṇiraṅkuśaḥ/aṅkuśavadvakro lavitraḥ/pakvaṃ stambam eyāt ābhimukhyena gacchatu’.
 
@@ -2692,13 +2452,7 @@ Thus, Sāyaṇa’s interpretation of these two terms goes as follows:
 
 ‘apnasvatīṣu khananaprokṣaṇādikarmopetāsu urvarāsu/ kiṃca ārtanāsu/ ārtān karotyārtayati’.[44]
 
-‘apnasvatīṣu khananaprokṣaṇādikarmopetāsu urvarāsu/ kiṃca ārtanāsu/ ārtān karotyārtayati’.[44]
-
 The sandy desert land is referred to as dhanva.[45] The Ṛgvedic seer says that the cultivators harvest the crop in general, separately and in due order.[46] The Ṛgveda mentions the terms dhāna,[47] dhānā[48] and dhānya[49] in the sense of ‘grain or corn’ in general. The Vedic seers pray for abundance in rain since rainfall is very much important for agriculture. The seer in the Ṛgveda too prays to god Tvaṣṭṛ to send us the quick falling wonderful abundant water, for our nourishment and prosperity.[50] Seer Hiraṇyastūpa Āṅgirasa refers to the flooded rivers speaking that the flowing waters quickly rushed to the ocean, like the cows running after the calves.[51]
-
-Footnotes and references:
-
-[back to top]
 
 [1]:
 
@@ -2920,15 +2674,9 @@ vāśrā iva dhenavaḥ syandamānā añjaḥ samudramava jagmurāpaḥ// Ibid.,
 
 ## 24. Part 7 - Agriculture in the Atharvaveda Saṃhitā
 
-
 Agriculture and Animal husbandry in the Puranas
 
-by Purboshri Borpuzari | 2019 | 74,328 words
-
 This page relates ‘Agriculture in the Atharvaveda Samhita’ of the study on agriculture and animal husbandry in the Puranas—a category of Sanskrit literature describing the culture and heritage of ancient Indian society. Besides detailing animal care, the six chapters of this essay also documents various Puranic agricultural science: ploughing, sowing, soil-types/fertility tests, transplantation, manuring, irrigation/water-management, tanks, rainfall–Sun dependence, horticulture, plus crop lists (e.g., Vrihi, Yava, Godhuma) and festivals/rites.
-
-Go directly to: 
-Footnotes.
 
 Part 7 - Agriculture in the Atharvaveda Saṃhitā
 
@@ -2952,14 +2700,10 @@ Sāyaṇācārya interprets that—
 
 suphālāḥ śobhanāni lāṅgalamukhāni asmākaṃ śunaṃ sukhaṃ yathā bhavati tatha bhūmi vi tudantu vikṛṣantu/kīnāśāḥ karṣakāḥ śunaṃ yathā bhavati tathā vāhān balīvardān anu yantu anugacchantu/vāhyanta iti vāhāḥ/ śunāsīrā he śunāsīrau vāyvādityau /tau yuvāṃ haviṣā asmadīyena toṣamāṇā toṣamāṇau tuṣyantau asme yajamānāya oṣadhīḥ vrīhiyavādyāḥ supippalāḥ śobhanaphalopetāḥ kartam kurutam.[14]
 
-suphālāḥ śobhanāni lāṅgalamukhāni asmākaṃ śunaṃ sukhaṃ yathā bhavati tatha bhūmi vi tudantu vikṛṣantu/kīnāśāḥ karṣakāḥ śunaṃ yathā bhavati tathā vāhān balīvardān anu yantu anugacchantu/vāhyanta iti vāhāḥ/ śunāsīrā he śunāsīrau vāyvādityau /tau yuvāṃ haviṣā asmadīyena toṣamāṇā toṣamāṇau tuṣyantau asme yajamānāya oṣadhīḥ vrīhiyavādyāḥ supippalāḥ śobhanaphalopetāḥ kartam kurutam.[14]
-
 The furrows are mentioned to have been anointed with ghee (ghṛta) and honey (madhu).[15] The seer too prays Śunāsīrā to sprinkle the milk (water) on the fields which have been made in the heaven by him.[16] The farmer ploughed the field with plough by means of the bulls. Rope (varatrā) were used for tying the bulls to the yoke, the whips (aṣṭrā) were used for urging the bulls.[17] Again, the seer Brahmā in the Atharvaveda invites the kine to come together, unaffrighted, rich in manure, bearing the sweet of soma and free from disease.[18]
 Wheat, barley, millet and rice were the important grains grown during the Vedic period. Seer Viśvāmitra in the Atharvaveda prays for the increase of barley grain like the sea.[19] The insect which damaged the barley crop was called yevāṣa.[20] There are numerous references to paddy in the Atharvaveda.[21] Sesamum has been mentioned several times in the Atharvaveda.[22] There are also references of tilpiñja (white sesamum)[23] and tailakuṇḍa.[24] The grain māṣa, popularly known as urada in north–Indian languages has been mentioned in the Atharvaveda.[25] References of citraparṇi or pṛśni-parṇi[26], tārṣṭāghī or tṛṣṭāgha[27] are found.These were considered to be the same as sarṣapa. Baja[28], identified with white mustard (śvetasarṣapa) are also found in the Atharvaveda. Atharvavedic seer Bhṛgu prays for abundance of grain.
 
 As a fountain of a hundred and a thousand streams remain unexhausted, like that this grain of ours too may remain unexhausted in a thousand streams.[29] Sāyaṇācārya explains this in his commentary as follows—
-
-‘utsam jalotpattisthānaṃ śatadhāram śatasaṃkhyākābhirudakasya dhārābhiryutam tathā sahasradhāram aparimitadhāropetaṃ sat akṣitam kṣayarahitam/ut udbhavatītyarthaḥ/ eva evam asmāka asmākam /idam paridṛśyamānaṃ kusūlādisthaṃ dhānyaṃ sahasradhāram aparimitadhārābhiryuktaṃ bahuprakāreṇa upāyena abhivṛddhaṃ sat akṣitam kṣayarahitaṃ bhavatu’.[30]
 
 ‘utsam jalotpattisthānaṃ śatadhāram śatasaṃkhyākābhirudakasya dhārābhiryutam tathā sahasradhāram aparimitadhāropetaṃ sat akṣitam kṣayarahitam/ut udbhavatītyarthaḥ/ eva evam asmāka asmākam /idam paridṛśyamānaṃ kusūlādisthaṃ dhānyaṃ sahasradhāram aparimitadhārābhiryuktaṃ bahuprakāreṇa upāyena abhivṛddhaṃ sat akṣitam kṣayarahitaṃ bhavatu’.[30]
 
@@ -2968,10 +2712,6 @@ According to fertility, soil is mainly divided into two classes: fertile (urvar�
 Since water is the most important for growing the crops therefore, the seer in the Atharvaveda prays the waters to unite themselves with the rice-grain.[32] References to water in the barren land (dhanvanyā āpaḥ), that in the ponds(anūpyā),that produced by digging a well(khanitrimā) that brought in a pitcher (ābhṛtā) and the rain water (varṣikī) are also found in the Atharvaveda.[33] The successful agriculture depends on timely rain. The natural means of watering is the rain water. If sometimes the rain fails, the farmers become helpless. So the seer Atharvā in the Vṛṣṭi-sūkta[34] prays to Maruts and Parjanya to pour down rain.
 
 The Vedic people considered agriculture as the act of reproduction and compared that with human procreation. Regarding the sowing of seeds we find that seer Viśvāmitra in the Atharvaveda urges to scatter (vapa) the seed here in the prepared womb(yoni).[35]
-
-Footnotes and references:
-
-[back to top]
 
 [1]:
 
@@ -3134,15 +2874,9 @@ virājaḥ śnuṣṭiḥ sabharā asanno nedīya it sṛṇyaḥ pakvamā yavan
 
 ## 25. Part 9 - The concept of Ploughing (Hala and Lāṅgala)
 
-
 Agriculture and Animal husbandry in the Puranas
 
-by Purboshri Borpuzari | 2019 | 74,328 words
-
 This page relates ‘concept of Ploughing (Hala and Langala)’ of the study on agriculture and animal husbandry in the Puranas—a category of Sanskrit literature describing the culture and heritage of ancient Indian society. Besides detailing animal care, the six chapters of this essay also documents various Puranic agricultural science: ploughing, sowing, soil-types/fertility tests, transplantation, manuring, irrigation/water-management, tanks, rainfall–Sun dependence, horticulture, plus crop lists (e.g., Vrihi, Yava, Godhuma) and festivals/rites.
-
-Go directly to: 
-Footnotes.
 
 Part 9 - The concept of Ploughing (Hala and Lāṅgala)
 
@@ -3151,10 +2885,6 @@ According to the Agni Purāṇa, agriculture (farming) and animal husbandry has 
 Sometimes it is also found that the Brāhmaṇas used golden plough (svarṇa-lāṅgala) to till up the sacrificial grounds(at the Rājasūya sacrifice, where gods are to be worshipped with oblations)[9], which suggests the use of the plough to till the fields in those days. The word hala and lāṅgala are referred to in the Pūrāṇas, which indicates the use of plough for tilling lands.[10] In the Purāṇas, Halāyudha i.e. Balarāma is described as the holder of the plough,[11] which seems to symbolize agriculture.As Balarāma had the ploughshare as his weapon, so he was also called as Sīrāyudha.[12] In the Viṣṇu Pūrāṇa, lāṅgala (plough) is referred to as a weapon of Śeṣa.[13] It can be added herewith that Śeṣa is the great serpent on which Viṣṇu sleeps during the intervals of creation, and upon whose numerous heads the world is supported. The Purāṇas, make him one with Balarāma who is an incarnation of Śeṣa.[14] Again it is found that Sītā, the supernatural daughter of Janaka was discovered at the point of the ploughshare by Sīradhvaja, a son of Hrasvaromā[15];when he was ploughing the earth for a sacrifice.[16]
 
 The man who fails to cultivate a plot of ground or to cause it to be tilled by others, should be disposed thereof and his field of virgin soil, should be handed over to another for cultivation.[17] A plough-man should abandon a barren and unyielding soil or otherwise engage labourers to till the ground for him in the event of his physical incapacity.[18] The purity which is achieved by ploughing is mentioned in the Purāṇas. It is stated that by different process of agriculture such as ploughing the fields, cutting the herbs on the soil, the tillers get rid of sin and achieve purity by pacifying the gods through sacrifice.[19] It is mentioned there that persons who have handled the plough, become pure and clean by worshipping the gods.[20] The Agni Purāṇa enjoins the ritual-gift called saṃyuktahala-paṅkti (a line of closely knit ploughs); according to it the paṅkti (line) consists of ten ploughs, along with the required number of bullocks. If the gift is accompanied by a golden fillet, the donor is installed in heaven after death.[21]
-
-Footnotes and references:
-
-[back to top]
 
 [1]:
 
@@ -3261,23 +2991,15 @@ paṅktirdaśahalā proktā dārujā vṛṣasaṃyutā// Ibid., 211.7
 
 ## 26. Part 6 - Agriculture in the Yajurveda Saṃhitā
 
-
 Agriculture and Animal husbandry in the Puranas
 
-by Purboshri Borpuzari | 2019 | 74,328 words
-
 This page relates ‘Agriculture in the Yajurveda Samhita’ of the study on agriculture and animal husbandry in the Puranas—a category of Sanskrit literature describing the culture and heritage of ancient Indian society. Besides detailing animal care, the six chapters of this essay also documents various Puranic agricultural science: ploughing, sowing, soil-types/fertility tests, transplantation, manuring, irrigation/water-management, tanks, rainfall–Sun dependence, horticulture, plus crop lists (e.g., Vrihi, Yava, Godhuma) and festivals/rites.
-
-Go directly to: 
-Footnotes.
 
 Part 6 - Agriculture in the Yajurveda Saṃhitā
 
 The Śukla Yajurveda or the Vājasaneyī Saṃhitā mentions a number of crops like rice, barley, beans, sesamum, millet, wild rice, lentil etc., which were produced and harvested in different seasons.[1] It emphasizes the importance of the knowledge of the climate aspects which contributes to agriculture and the seer in this Veda prays for making all these favourable.[2]
 
 Mahīdhara elaborates this concept as follows—
-
-‘luśodhānākadṛṣṭā vaiśvadevī triṣṭup/adyāsmin dine viśve sarve marutaḥ saptakagaṇā āgamantu āgacchantu/viśve anye ca sarve gaṇadevatā vasavo rudrā ādityāśca ūtī ūtyā pūrvasavarṇaḥ/anena tarpaṇena nimittenāgamantu tṛptyarthamāgacchantvityarthaḥ/ viśvedevāḥ ca gaṇadevatā no’smākamavasānnena haviṣā nimittena havirgrahaṇāyāgamantu/tadāgamanena ca viśve sarve’gnayaḥ gārhapatyādayaḥ samiddhāḥ samyagdīptā bhavantu tadarthaṃ homenetyarthaḥ/teṣāṃ devānāṃ tuṣṭyā viśvaṃ sarvaṃ draviṇaṃ dhanaṃ gobhūhiraṇyādi vājo’nnaṃ cāsme’smākamastu’.
 
 ‘luśodhānākadṛṣṭā vaiśvadevī triṣṭup/adyāsmin dine viśve sarve marutaḥ saptakagaṇā āgamantu āgacchantu/viśve anye ca sarve gaṇadevatā vasavo rudrā ādityāśca ūtī ūtyā pūrvasavarṇaḥ/anena tarpaṇena nimittenāgamantu tṛptyarthamāgacchantvityarthaḥ/ viśvedevāḥ ca gaṇadevatā no’smākamavasānnena haviṣā nimittena havirgrahaṇāyāgamantu/tadāgamanena ca viśve sarve’gnayaḥ gārhapatyādayaḥ samiddhāḥ samyagdīptā bhavantu tadarthaṃ homenetyarthaḥ/teṣāṃ devānāṃ tuṣṭyā viśvaṃ sarvaṃ draviṇaṃ dhanaṃ gobhūhiraṇyādi vājo’nnaṃ cāsme’smākamastu’.
 
@@ -3290,18 +3012,6 @@ Mahīdhara elaborates this concept as follows—
 5) The fertility—viśvamastu draviṇo vājo asme/[8]
 6) The manure—saṃ mā sṛjāmyadbhirauṣadhībhiḥ/[9]
 7) The protection of the crops—viśve no devā avasāgamantu…/[10]
-
-1) The Mother Earth, i.e. the soil—vājasya no prasave mātaraṃ mahīmaditiṃ nāma vacasā karāmahe/[4]
-2) The Sun rays, which provide heat—viśve bhavantvagnayaḥ samiddhāḥ/[5]
-3) The water—saṃ mā sṛjāmi payasā pṛthivyāḥ/[6]
-4) The winds—viśve adya maruto…/[7]
-5) The fertility—viśvamastu draviṇo vājo asme/[8]
-6) The manure—saṃ mā sṛjāmyadbhirauṣadhībhiḥ/[9]
-7) The protection of the crops—viśve no devā avasāgamantu…/[10]
-
-Footnotes and references:
-
-[back to top]
 
 [1]:
 
@@ -3348,24 +3058,15 @@ Ibid.,18.31c
 
 ## 27. Part 10 - Favourable Time for Various Methods of Agriculture
 
-
 Agriculture and Animal husbandry in the Puranas
 
-by Purboshri Borpuzari | 2019 | 74,328 words
-
 This page relates ‘Favourable Time for Various Methods of Agriculture’ of the study on agriculture and animal husbandry in the Puranas—a category of Sanskrit literature describing the culture and heritage of ancient Indian society. Besides detailing animal care, the six chapters of this essay also documents various Puranic agricultural science: ploughing, sowing, soil-types/fertility tests, transplantation, manuring, irrigation/water-management, tanks, rainfall–Sun dependence, horticulture, plus crop lists (e.g., Vrihi, Yava, Godhuma) and festivals/rites.
-
-Go directly to: 
-Footnotes.
 
 Part 10 - Favourable Time for Various Methods of Agriculture
 
 The Purāṇas provide us different types of knowledge regarding ancient agriculture. According to the Agni Purāṇa agriculture should be started with the support of the asterisms Punarvasū, Uttarā, Bhaga, Mūlā, Jyeṣṭhā, Śatabhiṣā, and it should be done on Thursdays, Fridays, Mondays and Sundays or when the sun enters the sign of Taurus,Virgo and Gemini respectively.[1] Regarding the sowing of seeds it is suggested there that the seeds should be sown on the second, fifth, seventh, tenth, third or the thirteenth of a fortnight or on the days indicated by the asterisms of Revatī, Rohiṇī, Viśākhā, Hastā, Anurādhā, Uttarā, Mūlā, Śravaṇā and Bhaga.[2] In the Kṛṣi-parāśara, Parāśara too points out that stars like Uttaraphālgunī, Uttarāṣāḍhā, Uttarabhādrapada, Mūla, Jyeṣṭhā, Anurādhā, Maghā, Mṛgaśirā, Rohiṇī, Hastā and Svāti are propitious for sowing of seeds.[3]
 
 Again, according to the Purāṇas, the harvests of rice should be reaped on the appearance of the asterism Mṛgaśirā or in the asterism which is presided over by the Pitṛs (Manes) i.e. Maghā or under the auspicious influence of the asterisms Hastā, Citrā, Aditi, Svātī, Revatī and the three asterisms Śravaṇā, Dhaniṣṭhā and Śatabhiṣā as follows:
-
-pitṛdaive tathā saumye dhānyacchedaṃ mṛgodaye/
-hastacitrāditisvātīrevatyāṃ śravaṇatraye//[4],
 
 pitṛdaive tathā saumye dhānyacchedaṃ mṛgodaye/
 hastacitrāditisvātīrevatyāṃ śravaṇatraye//[4],
@@ -3377,14 +3078,7 @@ The following mantra written on a leaf, amidst the heap of rice under the influe
 dhanadāya sarvadhaneśāya dehi me dhanaṃ svāhā/
 nave harṣe ilādevi lokasaṃvardhini kāmarūpiṇi dehi me dhanaṃ svāhā//
 
-dhanadāya sarvadhaneśāya dehi me dhanaṃ svāhā/
-nave harṣe ilādevi lokasaṃvardhini kāmarūpiṇi dehi me dhanaṃ svāhā//
-
 Rice should be taken out of a granary on days indicated by the six above said asterisms i.e., Pūrvaphālgunī, Pūrvāṣāḍhā, Pūrvabhādrapada, Viśākhā, Dhaniṣṭhā and Śatabhiṣā.[7] New fruits and new rice should be first eaten on days when the Moon is in the asterisms Aśvinī, Revatī, Puṣyā, Hastā, Jyeṣṭhā, Rohiṇī or Śravaṇā.[8]
-
-Footnotes and references:
-
-[back to top]
 
 [1]:
 
@@ -3430,23 +3124,15 @@ puṣyo hastastathā jyeṣṭhā rohiṇī śravaṇāśvinī// Ibid., 121.13
 
 ## 28. Part 11 - Sowing of Seeds (Bīja/Vīja)
 
-
 Agriculture and Animal husbandry in the Puranas
 
-by Purboshri Borpuzari | 2019 | 74,328 words
-
 This page relates ‘Sowing of Seeds (Bija/Vija)’ of the study on agriculture and animal husbandry in the Puranas—a category of Sanskrit literature describing the culture and heritage of ancient Indian society. Besides detailing animal care, the six chapters of this essay also documents various Puranic agricultural science: ploughing, sowing, soil-types/fertility tests, transplantation, manuring, irrigation/water-management, tanks, rainfall–Sun dependence, horticulture, plus crop lists (e.g., Vrihi, Yava, Godhuma) and festivals/rites.
-
-Go directly to: 
-Footnotes.
 
 Part 11 - Sowing of Seeds (Bīja/Vīja)
 
 The successful cultivation of crops depends on the viability of seeds, their good health, proper sowing time and good soil moisture conditions. The importance of good seed for better crop has been emphasized by Manu that good seed alone sown in good land is successfully raised.[1] The seeds sown in poor land are destroyed within that very land.[2]
 
 The Nighaṇṭu opines that seeds (vīja) are the cause of crop growing—
-
-vījiḥ syātpreraṇakriyā/preryate hi kāryakāraṇāya vā vījam/ yathā dhānyādivījamuttarottaraṃ svābhivṛddhaye bhavati evamapatyamapi pitṛṇāmabhivṛddhiheturiti vījamityucyate.[3]
 
 vījiḥ syātpreraṇakriyā/preryate hi kāryakāraṇāya vā vījam/ yathā dhānyādivījamuttarottaraṃ svābhivṛddhaye bhavati evamapatyamapi pitṛṇāmabhivṛddhiheturiti vījamityucyate.[3]
 
@@ -3485,10 +3171,6 @@ tila and
 śyāmāka.
 
 If masūra and kalāya are added there, that will be ‘seven-grain’ formula.[8] In the Agni Purāṇa, the god Janārdana is prayed to destroy all the dangers of corn-fields, such as fire, ashes etc.[9]
-
-Footnotes and references:
-
-[back to top]
 
 [1]:
 
@@ -3537,23 +3219,13 @@ tāni sarvāṇi sarvātmā paramātmā janārdanaḥ// Agni Purāṇa ,31.36
 
 ## 29. Part 13 - Process for Checking the Fertility of the Soil
 
-
 Agriculture and Animal husbandry in the Puranas
 
-by Purboshri Borpuzari | 2019 | 74,328 words
-
 This page relates ‘Process for Checking the Fertility of the Soil’ of the study on agriculture and animal husbandry in the Puranas—a category of Sanskrit literature describing the culture and heritage of ancient Indian society. Besides detailing animal care, the six chapters of this essay also documents various Puranic agricultural science: ploughing, sowing, soil-types/fertility tests, transplantation, manuring, irrigation/water-management, tanks, rainfall–Sun dependence, horticulture, plus crop lists (e.g., Vrihi, Yava, Godhuma) and festivals/rites.
-
-Go directly to: 
-Footnotes.
 
 Part 13 - Process for Checking the Fertility of the Soil
 
 With regard to the fertility of the soil, it is mentioned in the Bhāgavata Purāṇa that if the seeds are sown in the same plot of land, time and again without manuring, the land would lose its fertility and consequently the seeds would get destroyed.[1] But when a piece of land is cultivated every year, the seeds there not being destroyed, grow up again as plants and creepers.[2] The Matsya Purāṇa refers to a simple test to check the fertility of land and its suitability for cultivation.It states that at first the land should be ploughed and sown with some seeds; if the seeds sprout and become big in three, five or seven days, the land should be recognized to be the best; if the sprouts are small, that land should be avoided; again, if the sprouts are adequately high that land should be known to be average.[3]
-
-Footnotes and references:
-
-[back to top]
 
 [1]:
 
@@ -3574,15 +3246,9 @@ jyeṣṭhottamā kaniṣṭhā bhūrvarjjanīyatarā sadā// Matsya Purāṇa ,
 
 ## 30. Part 8 - Methods of Agriculture in the Purāṇas
 
-
 Agriculture and Animal husbandry in the Puranas
 
-by Purboshri Borpuzari | 2019 | 74,328 words
-
 This page relates ‘Methods of Agriculture in the Puranas’ of the study on agriculture and animal husbandry in the Puranas—a category of Sanskrit literature describing the culture and heritage of ancient Indian society. Besides detailing animal care, the six chapters of this essay also documents various Puranic agricultural science: ploughing, sowing, soil-types/fertility tests, transplantation, manuring, irrigation/water-management, tanks, rainfall–Sun dependence, horticulture, plus crop lists (e.g., Vrihi, Yava, Godhuma) and festivals/rites.
-
-Go directly to: 
-Footnotes.
 
 Part 8 - Methods of Agriculture in the Purāṇas
 
@@ -3639,14 +3305,7 @@ The Brahma Purāṇa states that at the very beginning, the earth yielded rich h
 akṛṣṭapacyā pṛthivī siddhyantyannāni cintayā/
 sarvakāmadudhā gāvaḥ puṭake puṭake madhu.[1]
 
-akṛṣṭapacyā pṛthivī siddhyantyannāni cintayā/
-sarvakāmadudhā gāvaḥ puṭake puṭake madhu.[1]
-
 Besides, Pṛthu, the son of Vena, is said to grant the anūpa land (the land which is fit for agriculture), to the Sūta, as the means of subsistence.[2] It is described that the agricultural fields rich with the wealth of crops yielded pleasure to the peasants[3]. In order to protect the paddy fields from the wild animals, towers had been constructed and men were watching the fields sitting on the towers.[4] In view of the references of the word kṛṣi i.e. agriculture and agricultural products like tila[5] dhānya[6] (eighteen sorts of grain), vrīhi[7] (a kind of paddy), śyāmāka[8] saktu[9] (the flour of grain), nīvāra[10] (a kind of corn for śrāddha), māṣa[11] (a kind of grain), droṇa,[12] (a measure of grain), masūra, yava and godhūma[13] etc. that are found in the Purāṇas, it can be easily guessed that people in the days of the Purāṇas had paid attention to the field of agriculture.
-
-Footnotes and references:
-
-[back to top]
 
 [1]:
 
@@ -3706,15 +3365,9 @@ Viṣṇu Purāṇa , 1.6.21-23a; Vāyu Purāṇa , 8.150-152
 
 ## 31. Part 15 - The concept of Manuring (in the Purāṇas)
 
-
 Agriculture and Animal husbandry in the Puranas
 
-by Purboshri Borpuzari | 2019 | 74,328 words
-
 This page relates ‘concept of Manuring (in the Puranas)’ of the study on agriculture and animal husbandry in the Puranas—a category of Sanskrit literature describing the culture and heritage of ancient Indian society. Besides detailing animal care, the six chapters of this essay also documents various Puranic agricultural science: ploughing, sowing, soil-types/fertility tests, transplantation, manuring, irrigation/water-management, tanks, rainfall–Sun dependence, horticulture, plus crop lists (e.g., Vrihi, Yava, Godhuma) and festivals/rites.
-
-Go directly to: 
-Footnotes.
 
 Part 15 - The concept of Manuring (in the Purāṇas)
 
@@ -3723,10 +3376,6 @@ Only good ploughing is not essential for a good harvest. The soil is one of the 
 The Purāṇas mention the using of manure in the fields to increase the fertility of the soil as well as for the growth of crops. The Agni Purāṇa mentions that to increase the production of flowers and fruits, one should sprinkle ghee with cold milk.[1] Different kinds of plants required various kinds of manures for a specific period, which have been described in the Agni Purāṇa. For good growth of trees, it suggests that a mixture of sesame, excreta of goats and sheep, and barley powder, soaked in meat and water for seven nights, should then be poured round the roots of plants.[2] The Bṛhat Saṃhitā too mentions that one ought to sow sesamum in the soil, which must be crushed when in bloom, to mix with the soil. This is the first treatment to be done with the soil.[3] The sesamum plants in bloom, when cut into pieces and allowed to mingle with the soil, would become an excellent green manure for preparing the soil for further cultivation. The Agni Purāṇa also suggests that viḍaṅga mixed with rice, fish flesh, mixed together, constitutes a remedy giving energy to the plants and curative of their diseases.[4] A hot decoction should be made of kulattha, māṣa, tila and yava which, when cooled, should be poured round the roots.[5] Normal salt is the best manure for palms and coconut trees, while manure composed of powdered viḍaṅga and washings of meat or fish, suit all trees extremely well.[6]
 
 For the increase of the produce of corn, the Bhaviṣya Purāṇa enjoins that a special type of incense be burnt in the midst of grain-heaps. This incense is to be produced from seven hairs of a goat and peacock feathers. These are to be soaked in castor-oil and are to be burnt in the grain-store at the evening time.[7]
-
-Footnotes and references:
-
-[back to top]
 
 [1]:
 
@@ -3765,15 +3414,9 @@ eraṇḍatailayogena dadyāddhūpaṃ niśāgame/ Bhaviṣya Purāṇa , 2.(1),
 
 ## 32. Part 12 - Types of Soil (Bhauma)
 
-
 Agriculture and Animal husbandry in the Puranas
 
-by Purboshri Borpuzari | 2019 | 74,328 words
-
 This page relates ‘Types of Soil (Bhauma)’ of the study on agriculture and animal husbandry in the Puranas—a category of Sanskrit literature describing the culture and heritage of ancient Indian society. Besides detailing animal care, the six chapters of this essay also documents various Puranic agricultural science: ploughing, sowing, soil-types/fertility tests, transplantation, manuring, irrigation/water-management, tanks, rainfall–Sun dependence, horticulture, plus crop lists (e.g., Vrihi, Yava, Godhuma) and festivals/rites.
-
-Go directly to: 
-Footnotes.
 
 Part 12 - Types of Soil (Bhauma)
 
@@ -3829,10 +3472,6 @@ The Agni Purāṇa[6] refers to the following three kinds of regions—
 
 3 Sādhāraṇa—A country that has trees and water in moderate quantity is known as sādhāraṇa (ordinary) country The sādhāraṇa type is known as moderate.
 
-Footnotes and references:
-
-[back to top]
-
 [1]:
 
 śuklājyagandhā raktā ca raktagandhā sugandhinī/
@@ -3866,15 +3505,9 @@ jāṅgalaḥ pittabahulo madhyaḥ sādhāraṇaḥ smṛtaḥ// Ibid., 280.15-
 
 ## 33. Part 16 - Irrigation and Water Management
 
-
 Agriculture and Animal husbandry in the Puranas
 
-by Purboshri Borpuzari | 2019 | 74,328 words
-
 This page relates ‘Irrigation and Water Management’ of the study on agriculture and animal husbandry in the Puranas—a category of Sanskrit literature describing the culture and heritage of ancient Indian society. Besides detailing animal care, the six chapters of this essay also documents various Puranic agricultural science: ploughing, sowing, soil-types/fertility tests, transplantation, manuring, irrigation/water-management, tanks, rainfall–Sun dependence, horticulture, plus crop lists (e.g., Vrihi, Yava, Godhuma) and festivals/rites.
-
-Go directly to: 
-Footnotes.
 
 Part 16 - Irrigation and Water Management
 
@@ -3884,23 +3517,15 @@ Parāśara says that all agriculture has rainfall as its root—
 
 vṛṣṭimūlā kṛṣiḥ sarvā vṛṣṭimūlaṃ ca jīvanam.[5]
 
-vṛṣṭimūlā kṛṣiḥ sarvā vṛṣṭimūlaṃ ca jīvanam.[5]
-
 As seeds in a well-cultivated field begin to sprout when watered by rain, so rain is much more essential for growing agricultural crops.The Matsya Purāṇa states that agricultural prospects flourish by rain which again depends on fixed time.[6]
 
 It also clearly states that the Sun is the producer of the rain—
 
 sūrya eva tu vṛṣṭīnāṃ sraṣṭā samupadiśyate.[7]
 
-sūrya eva tu vṛṣṭīnāṃ sraṣṭā samupadiśyate.[7]
-
 The rays of the Sun are the cause of rain.[8] Good rain on earth helps the plants to grow up and thus, the hunger of all living beings is fulfilled.[9] The Agni Purāṇa mentions that the god Parjanya, Arka and Indu, should be worshipped to guard against any disturbance that affects the annual rainfall of a country[10] The mantra sacred to God Varuṇa,should be repeated on the occasion of a river’s changing its former channel or invading upon the site of a village or on the occasion of a fountain, pool or any other natural reservoir of water which gets dry.[11] It is clarified in the Purāṇas that Parjanya (the rain god), Vāyu (the wind god) and Āditya (the sun god) grows and nourishes the vegetables and cereals by giving rise to heat and moisture.[12] During sacrifices libations of clarified butter casted into the fire are carried to the sun that creates the rain-clouds.[13] Rain causes the stalks of food grains (annaṃ) to shoot out and man is the offspring of food (annaṃ).[14] The Bhagavadgītā too points out that, all created beings are sustained by food and it is Parjanya, the rain-god, who produces this food.[15]
 
 While it is suggested in the Agni Purāṇa that a King should select for his kingdom such a country which does not depend on the perennial rains for its water supply,[16] which is provided with abundant water supply dotted over by holy cities,[17] moreover, which is communicated by nets of water ways.[18] The fort of a king should be situated in a country watered by large rivers not depending upon the atmospheric causes for its water -supply.[19] The fort of a king should be filled with grains and provided with ample water supply.[20] In the Rāmāyaṇa also that country is praised for agriculture, which is adevamātṛkā (na devo megho mātā vṛṣṭikārakaḥ yasya).[21] The term adevamātṛkā indicates-which is not rained upon; not having the god of rain as mother to suckle; hence, artificially supplied with the waters of rivers and canals.[22] The Purāṇas too refer to the pleasure gardens which were equipped with artificial reservoirs of water such as tanks (vāpī), wells (kūpa), ponds(puṣkariṇī or taḍāga) etc.[23] References of lake, stream and river water are also met with.[24]
-
-Footnotes and references:
-
-[back to top]
 
 [1]:
 
@@ -4010,25 +3635,15 @@ Bhāgavata Purāṇa , 5.17.10; 11.18.19; Agni Purāṇa , 69.14
 
 ## 34. Part 17 - Excavation as well as Consecration of Tanks
 
-
 Agriculture and Animal husbandry in the Puranas
 
-by Purboshri Borpuzari | 2019 | 74,328 words
-
 This page relates ‘Excavation as well as Consecration of Tanks’ of the study on agriculture and animal husbandry in the Puranas—a category of Sanskrit literature describing the culture and heritage of ancient Indian society. Besides detailing animal care, the six chapters of this essay also documents various Puranic agricultural science: ploughing, sowing, soil-types/fertility tests, transplantation, manuring, irrigation/water-management, tanks, rainfall–Sun dependence, horticulture, plus crop lists (e.g., Vrihi, Yava, Godhuma) and festivals/rites.
-
-Go directly to: 
-Footnotes.
 
 Part 17 - Excavation as well as Consecration of Tanks
 
 Mention is made in the Purāṇas about the excavation of the tanks in the garden. It is there met with that the tanks should be dig out in the garden and arms of river should be made to run into the same. The excavation of tanks or artificial reservoirs of water should be first commenced with the support of the asterisms Hastā, Maghā, Anurādhā, Aśvinī, Puṣyā, Jyeṣṭhā, and the three Uttarās.[1] The gods Varuṇa, Viṣṇu and Parjanya should be first worshipped and propitiated before the excavation would take in hand.[2] In respect of merit, the waters of a sacred place, a river, a tank, flowing water, water present in the well and water drawn from the well, the previous one is more purifying than the following one.[3]
 
 Reference of consecration of tanks and ponds are found in the Purāṇas.While speaking about the process of consecration of tanks and ponds, where in the god Varuṇa resides, it is there stated that water containing solution of vegetable matters should be kept in the pitcher at the north.[4] It should be poured out on the head of god Varuṇa, accompanied by the mantra having in its beginning the term udbhijja (vegetable) etc.[5]
-
-Footnotes and references:
-
-[back to top]
 
 [1]:
 
@@ -4058,15 +3673,9 @@ udbhijjādibhaścodbhidena pāvamānyā’tha tīrthakaiḥ/
 
 ## 35. Part 14 - Rites and Methods of Sowing and Transplantation
 
-
 Agriculture and Animal husbandry in the Puranas
 
-by Purboshri Borpuzari | 2019 | 74,328 words
-
 This page relates ‘Rites and Methods of Sowing and Transplantation’ of the study on agriculture and animal husbandry in the Puranas—a category of Sanskrit literature describing the culture and heritage of ancient Indian society. Besides detailing animal care, the six chapters of this essay also documents various Puranic agricultural science: ploughing, sowing, soil-types/fertility tests, transplantation, manuring, irrigation/water-management, tanks, rainfall–Sun dependence, horticulture, plus crop lists (e.g., Vrihi, Yava, Godhuma) and festivals/rites.
-
-Go directly to: 
-Footnotes.
 
 Part 14 - Rites and Methods of Sowing and Transplantation
 
@@ -4077,14 +3686,9 @@ According to the Purāṇas, before cultivating his field, a farmer should offer
 indrāya ca marudbhyastu parjanyāya bhagāya ca/
 yathāliṅgaṃ tu viharellāṅgalaṃ tu kṛṣīvalaḥ.[5]
 
-indrāya ca marudbhyastu parjanyāya bhagāya ca/
-yathāliṅgaṃ tu viharellāṅgalaṃ tu kṛṣīvalaḥ.[5]
-
 Then the plough-man should drive his plough and worship the aforesaid gods with garlands of white flowers and perfumes and other articles of offering, for a good harvest of paddy. After this the god Śunāsīra(Indra) should be invoked and worshipped.[6] The Vedic texts[7] mention the performance of an iṣṭi named Śunāsīrīya which is dedicated to Śunāsīrau, who bless the plough. Śunāsīrīya is the fourth one of the seasonal sacrifices (Cāturmāsya).The special offerings in this iṣṭi are a cake on twelve potsherds to Śunāsīrau.[8] The other three seasonal sacrifices are Vaiśvadeva, Varuṇapraghāsa, and Sākamedha.According to the Nirukta[9]
 
 Śuna and Sīra means Vāyu and Āditya respectively—
-
-śuno vāyuḥ/śu etyantarikṣe/sīra ādityaḥ saraṇāt /tayoreṣā bhavati.
 
 śuno vāyuḥ/śu etyantarikṣe/sīra ādityaḥ saraṇāt /tayoreṣā bhavati.
 
@@ -4092,21 +3696,13 @@ The Atharvaveda too mentions Śuna and Sīra as the two agricultural deities Vā
 
 śunāsīrau vāyvādityau.[10]
 
-śunāsīrau vāyvādityau.[10]
-
 Sāyaṇa further personifies Śuna as the god of happiness and Sīra as the god of plough—
-
-śunaḥ sukhakaro devaḥ/sīro lāṅgalābhimānī devaḥ.[11]
 
 śunaḥ sukhakaro devaḥ/sīro lāṅgalābhimānī devaḥ.[11]
 
 But according to the Śatapatha Brāhmaṇa[12], śuna means prosperity and sīra means essence or sap(sāra) and this iṣṭi is so called because the sacrifice thereby secures both prosperity and sap. European scholars see in this name a reference to the plough and ploughshare.[13] The dakṣiṇā for the rite is a plough with six bulls or two big bulls and to Sūrya, a white horse or a white bull.[14] The Agni Purāṇa mentions that a man, who is about to cultivate a field, should look to the sun in a pure spirit by repeating the mantra running as ‘haṃsaḥ śuci ṣat’ etc. and offer five oblations of sthālipāka (i.e. rice cooked in a particular jar) with the mantra beginning with ‘muniḥ svāhā’.[15] The above ceremonies should be conducted on the occasion of transplanting or mowing down the rows of paddy plants or on the occasion of releasing the plough-share or on the occasion of removing the threshing plank. As a result of which, a good harvest would be gleaned and gathered home and agriculture would develop well.[16] A good harvest is sure to be gathered in arid by a man, who recites the mantras, running as oṣadhī etc. at the time of mowing or cutting down.[17] Again, by casting oblations into the fire with the mantra running as ‘apāṃ garbhaṃ’ etc., a man is sure to bring down a good shower of rain.[18] Again, by performing a homa ceremony with the mantra of ‘apaḥ piva’, etc., a man is able to inundate earth with a heavy rainfall.[19] The Ṛgveda too states that if curd is offered into the fire with the mantra ‘apāṃ garbhaṃ’ it causes rain.[20] Similarly a homa ceremony performed with the oblations of boiled rice and by reciting the mantra, running as ‘annapati’ etc., supplies plenty of food every day.[21]
 
 Moreover, the Agni Purāṇa also speaks about the rites of consecrating trees and fruit-gardens, which imparts enjoyment in this world and salvation in the next.[22]
-
-Footnotes and references:
-
-[back to top]
 
 [1]:
 
@@ -4205,15 +3801,9 @@ Ibid., 70
 
 ## 36. Part 18 - Rainfall, the Support of Agriculture that Depends upon the Sun
 
-
 Agriculture and Animal husbandry in the Puranas
 
-by Purboshri Borpuzari | 2019 | 74,328 words
-
 This page relates ‘Rainfall, the Support of Agriculture that Depends upon the Sun’ of the study on agriculture and animal husbandry in the Puranas—a category of Sanskrit literature describing the culture and heritage of ancient Indian society. Besides detailing animal care, the six chapters of this essay also documents various Puranic agricultural science: ploughing, sowing, soil-types/fertility tests, transplantation, manuring, irrigation/water-management, tanks, rainfall–Sun dependence, horticulture, plus crop lists (e.g., Vrihi, Yava, Godhuma) and festivals/rites.
-
-Go directly to: 
-Footnotes.
 
 Part 18 - Rainfall, the Support of Agriculture that Depends upon the Sun
 
@@ -4232,10 +3822,6 @@ Pakṣaja.[14]
 The same Purāṇa points out that the universe is supported by the Moon as the water of the universe in whole filters down from the Moon in the sky.[15]
 
 The heat generates from the Sun and the coldness gets into being, from the Moon. Thus, these two have the power to sustain the universe.[16] The Viṣṇu Purāṇa too adds that the Moon with its cooling rays nourishes the vegetables with the cool nectary atoms (containing water), it sheds upon them and through their development it sustains living beings.[17] The Matsya Purāṇa discloses that the Sun always pleases men by producing herbs.[18] It imparts strength in the herbs and plants.[19] During spring and hot weather the Sun passes on heat by his three hundred rays, during the rainy and autumn season causes rain by his four hundred rays and during the dewy and winter season communicates cold by his three hundred rays.[20]
-
-Footnotes and references:
-
-[back to top]
 
 [1]:
 
@@ -4347,15 +3933,9 @@ hemante śiśire caiva himotsargastribhiḥ punaḥ// Ibid.,128.24-25a
 
 ## 37. Part 22 - Vegetables and Fruits (according to the Purāṇas)
 
-
 Agriculture and Animal husbandry in the Puranas
 
-by Purboshri Borpuzari | 2019 | 74,328 words
-
 This page relates ‘Vegetables and Fruits (according to the Puranas)’ of the study on agriculture and animal husbandry in the Puranas—a category of Sanskrit literature describing the culture and heritage of ancient Indian society. Besides detailing animal care, the six chapters of this essay also documents various Puranic agricultural science: ploughing, sowing, soil-types/fertility tests, transplantation, manuring, irrigation/water-management, tanks, rainfall–Sun dependence, horticulture, plus crop lists (e.g., Vrihi, Yava, Godhuma) and festivals/rites.
-
-Go directly to: 
-Footnotes.
 
 Part 22 - Vegetables and Fruits (according to the Purāṇas)
 
@@ -4473,10 +4053,6 @@ nārikela and
 
 The Padma Purāṇa[10] mentions one more fruit named ghoṇṭāphala (a kind of jujube).
 
-Footnotes and references:
-
-[back to top]
-
 [1]:
 
 Skanda Purāṇa ,2.7.20.80ff
@@ -4521,15 +4097,9 @@ Padma Purāṇa , 5.80.63
 
 ## 38. Part 21 - Agricultural Products as Mentioned in the Proposed Purāṇas
 
-
 Agriculture and Animal husbandry in the Puranas
 
-by Purboshri Borpuzari | 2019 | 74,328 words
-
 This page relates ‘Agricultural Products as Mentioned in the Proposed Puranas’ of the study on agriculture and animal husbandry in the Puranas—a category of Sanskrit literature describing the culture and heritage of ancient Indian society. Besides detailing animal care, the six chapters of this essay also documents various Puranic agricultural science: ploughing, sowing, soil-types/fertility tests, transplantation, manuring, irrigation/water-management, tanks, rainfall–Sun dependence, horticulture, plus crop lists (e.g., Vrihi, Yava, Godhuma) and festivals/rites.
-
-Go directly to: 
-Footnotes.
 
 Part 21 - Agricultural Products as Mentioned in the Proposed Purāṇas
 
@@ -4572,8 +4142,6 @@ Canaka;
 Śaṇa;
 
 The Amarakoṣa too mentions about seventeen kinds of grain and these are termed as dhānya—
-
-dhānyapadena saptadaśa dhānyāni ucyante / tad yathā vrīhi, yava, masūra, godhūma, mudga, māṣa, tila, canaka, aṇu, priyaṅgu, kodrava, makuṣṭha, kalyāya, kulattha,śaṇa, sarṣapa,atasī iti.[4]
 
 dhānyapadena saptadaśa dhānyāni ucyante / tad yathā vrīhi, yava, masūra, godhūma, mudga, māṣa, tila, canaka, aṇu, priyaṅgu, kodrava, makuṣṭha, kalyāya, kulattha,śaṇa, sarṣapa,atasī iti.[4]
 
@@ -4721,10 +4289,6 @@ yava and
 
 godhūma etc.[11]
 
-Footnotes and references:
-
-[back to top]
-
 [1]:
 
 annaṃ brahma yataḥ proktamanne prāṇāḥ pratiṣṭhitāḥ /
@@ -4788,23 +4352,13 @@ Ibid., 1.27
 
 ## 39. Part 19 - The Gleaning of Corns (from the field or market-place)
 
-
 Agriculture and Animal husbandry in the Puranas
 
-by Purboshri Borpuzari | 2019 | 74,328 words
-
 This page relates ‘Gleaning of Corns (from the field or market-place)’ of the study on agriculture and animal husbandry in the Puranas—a category of Sanskrit literature describing the culture and heritage of ancient Indian society. Besides detailing animal care, the six chapters of this essay also documents various Puranic agricultural science: ploughing, sowing, soil-types/fertility tests, transplantation, manuring, irrigation/water-management, tanks, rainfall–Sun dependence, horticulture, plus crop lists (e.g., Vrihi, Yava, Godhuma) and festivals/rites.
-
-Go directly to: 
-Footnotes.
 
 Part 19 - The Gleaning of Corns (from the field or market-place)
 
 The Bhāgavata Purāṇa defines that the gleaning of corns from the leftovers of field or of the market place is called as ṛta and the cultivation is called as pramṛta, while rendering service to the lowborn is known as śvavṛtti.[1] The same Purāṇa suggests that a person may sustain his life by following the professions which are known as ṛta or pramṛta, but even for preserving his life, he should never lead a dog’s life i.e., śvavṛtti.[2] The Bhāgavata Purāṇa mentions four types of means of livelihood for the Brāhmaṇas.Among these occupations, there were also agriculture, cattle breeding and gleaning grains of corn from the leftover of the threshing floor in the field (śila) or of the market place (uñcha).[3] It emphasizes on gleaning grains of corn from the field as the occupation of a Brāhmaṇa.[4] It enjoins that grain which is gleaned after the removal of corn from the fields and the grains of corn found after the market-day is over, these two forms the wealth.[5] He, whose mind is satisfied with gleaning grains of corn from the fields after the owner had reaped and taken home the food-grains and from the market-place when the market day is over, attains eternal spiritual peace.[6] It is recommended that a Sannyāsī should frequently visit the hermitages of the Vānaprasthas, because the food he gets is prepared out of food-grains which are gleaned from cornfields and market places and by such food from gleaned food-grains, his mind becomes quickly purified and he attains liberation.[7]
-
-Footnotes and references:
-
-[back to top]
 
 [1]:
 
@@ -4845,15 +4399,9 @@ vānaprasthāśramapadeṣvabhīṣṇaṃ bhaikṣamācaret// saṃsidhyatyāś
 
 ## 40. Part 20 - Ancient Indian Horticulture (the science of planting)—Introduction
 
-
 Agriculture and Animal husbandry in the Puranas
 
-by Purboshri Borpuzari | 2019 | 74,328 words
-
 This page relates ‘Ancient Indian Horticulture (the science of planting)—Introduction’ of the study on agriculture and animal husbandry in the Puranas—a category of Sanskrit literature describing the culture and heritage of ancient Indian society. Besides detailing animal care, the six chapters of this essay also documents various Puranic agricultural science: ploughing, sowing, soil-types/fertility tests, transplantation, manuring, irrigation/water-management, tanks, rainfall–Sun dependence, horticulture, plus crop lists (e.g., Vrihi, Yava, Godhuma) and festivals/rites.
-
-Go directly to: 
-Footnotes.
 
 Part 20 - Ancient Indian Horticulture (the science of planting)—Introduction
 
@@ -4868,10 +4416,6 @@ On the other hand, the thorny shrubs should be planted in the Southern boundary 
 Watering
 
 It is mentioned in the Purāṇas that the trees should be sprinkled with cold water, containing a solution of viḍaṅga (a medicinal plant) and clarified butter.[15] The trees are said to be grown by being sprinkled with fish-water.[16] Fish and meat, powdered and mixed with a quantity of pulverized viḍaṅga, should be sprinkled over a tree for the purpose of curing it of all distempers.[17] If the fruit-bearing trees get their fruit ruined, it is suggested there in the Agni Purāṇa, to sprinkle a mixture of kulattha, māṣa, mudga, tila or yava and cold water saturated with clarified butter over it. By doing so they are abundant with bumper flowers and fruits.[18] It is advised there in the Agni Purāṇa that any trees which are carefully planted in a garden, should be watered each morning and evening during the summer season, on each alternate day during the winter season and at the break of dawn during the rainy season, when the earth would get dry and require watering.[19]
-
-Footnotes and references:
-
-[back to top]
 
 [1]:
 
@@ -4973,15 +4517,9 @@ varṣārātrau bhuvaḥ śoṣe sektavyā ropita dromāḥ// Ibid., 282.6-7
 
 ## 41. Part 24 - Agriculture and its Related Concepts in the Proposed Purāṇas
 
-
 Agriculture and Animal husbandry in the Puranas
 
-by Purboshri Borpuzari | 2019 | 74,328 words
-
 This page relates ‘Agriculture and its Related Concepts in the Proposed Puranas’ of the study on agriculture and animal husbandry in the Puranas—a category of Sanskrit literature describing the culture and heritage of ancient Indian society. Besides detailing animal care, the six chapters of this essay also documents various Puranic agricultural science: ploughing, sowing, soil-types/fertility tests, transplantation, manuring, irrigation/water-management, tanks, rainfall–Sun dependence, horticulture, plus crop lists (e.g., Vrihi, Yava, Godhuma) and festivals/rites.
-
-Go directly to: 
-Footnotes.
 
 Part 24 - Agriculture and its Related Concepts in the Proposed Purāṇas
 
@@ -4996,10 +4534,6 @@ Auspiciousness of cereals and paddies are mentioned in the Agni Purāṇa. It is
 The Purāṇas describe the quantity of food grains and articles that are to be collected when natural phenomena such as the showers of meteors, earthquakes, falls or thunderbolts, hurricanes, eclipses and the appearance of the meteoric light take place in the different months of the year.[25] The food-stuff such as rice, wheat and barley stocked in the month of Jyeṣṭha under the mysterious influence of the above mentioned phenomena would bring in six times their value in the course of eight months.[26] Rice purchased in the month of Aśvina and rice bought and stocked in the month of Kārttika would sell at an advantage in the month of Māgha.[27]
 
 Reference of the use of forced labour in agriculture is met with in the Bhāgavata Purāṇa. Bharata, being made to engage in work by the instance of others, by viṣṭi(forced labour) or by wages, he ate whatever was obtained by alms or by chance, much or little, sweet or foul, but never for satisfaction of senses.[28] When he wished to have food(for his livelihood) in return(as wages) for work for others, he was asked even by his brothers to work in the fields and he did it, but he knew not whether it was level or uneven, whether he did more or less(in proportion to the wages).He swallowed, as if it were nectar, whether it was broken rice or other grain;oil-cake, husk, worm-eaten grains and charred rice sticking to the bottom of pot.[29]
-
-Footnotes and references:
-
-[back to top]
 
 [1]:
 
@@ -5137,15 +4671,9 @@ yadā tu parata āhāraṃ karamavetanata īhamānaḥ svabhrātṛbhirapi kedā
 
 ## 42. Part 23 - Oil Seeds (according to the Purāṇas)
 
-
 Agriculture and Animal husbandry in the Puranas
 
-by Purboshri Borpuzari | 2019 | 74,328 words
-
 This page relates ‘Oil Seeds (according to the Puranas)’ of the study on agriculture and animal husbandry in the Puranas—a category of Sanskrit literature describing the culture and heritage of ancient Indian society. Besides detailing animal care, the six chapters of this essay also documents various Puranic agricultural science: ploughing, sowing, soil-types/fertility tests, transplantation, manuring, irrigation/water-management, tanks, rainfall–Sun dependence, horticulture, plus crop lists (e.g., Vrihi, Yava, Godhuma) and festivals/rites.
-
-Go directly to: 
-Footnotes.
 
 Part 23 - Oil Seeds (according to the Purāṇas)
 
@@ -5170,10 +4698,6 @@ Moreover, [the following] the oil-seeds are also mentioned in the Purāṇas.—
 kṣauma (linseeds)[8], and
 
 akṣa (the seed of the bead of rosaries)[9]
-
-Footnotes and references:
-
-[back to top]
 
 [1]:
 
@@ -5215,15 +4739,9 @@ Ibid., 1.169.49
 
 ## 43. Part 27 - Agricultural Products Used as Medicines
 
-
 Agriculture and Animal husbandry in the Puranas
 
-by Purboshri Borpuzari | 2019 | 74,328 words
-
 This page relates ‘Agricultural Products Used as Medicines’ of the study on agriculture and animal husbandry in the Puranas—a category of Sanskrit literature describing the culture and heritage of ancient Indian society. Besides detailing animal care, the six chapters of this essay also documents various Puranic agricultural science: ploughing, sowing, soil-types/fertility tests, transplantation, manuring, irrigation/water-management, tanks, rainfall–Sun dependence, horticulture, plus crop lists (e.g., Vrihi, Yava, Godhuma) and festivals/rites.
-
-Go directly to: 
-Footnotes.
 
 Part 27 - Agricultural Products Used as Medicines
 
@@ -5298,10 +4816,6 @@ The following is a list of important agricultural products with their meanings a
 54) Veṇu-yava — Bamboo-seed
 55) Vrīhi — Rice (Oriza sativa)
 56) Yava — Barley (Horeum vulgare)
-
-Footnotes and references:
-
-[back to top]
 
 [1]:
 
@@ -5492,21 +5006,13 @@ pūpairvā viṣkiraiḥ siddhairdadhidāḍimasādhitaiḥ// Ibid., 279.19-20
 
 ## 44. Part 1 - Meaning of the word Ākhyāna
 
-
 Agriculture and Animal husbandry in the Puranas
 
-by Purboshri Borpuzari | 2019 | 74,328 words
-
 This page relates ‘Meaning of the word Akhyana’ of the study on agriculture and animal husbandry in the Puranas—a category of Sanskrit literature describing the culture and heritage of ancient Indian society. Besides detailing animal care, the six chapters of this essay also documents various Puranic agricultural science: ploughing, sowing, soil-types/fertility tests, transplantation, manuring, irrigation/water-management, tanks, rainfall–Sun dependence, horticulture, plus crop lists (e.g., Vrihi, Yava, Godhuma) and festivals/rites.
-
-Go directly to: 
-Footnotes.
 
 Part 1 - Meaning of the word Ākhyāna
 
 The word ākhyāna in Sanskrit is used to indicate myth, story or tale. It is derived as—
-
-āṅ khyā lyuṭ /kathanam iti.[1]
 
 āṅ khyā lyuṭ /kathanam iti.[1]
 
@@ -5517,10 +5023,6 @@ The Encyclopaedia Britannica defines the word myth as traditional story of osten
 According to The Encyclopaedia of Religion and Ethics a myth is usually, directly or indirectly, in narrative form; its difference from ordinary tales seems to lie partly in the fact that it is believed to be substantially true, at least by those among whom it is first repeated;it thus differs from a parable or allegory, as well as from a fiction or romance. Moreover, most myths, if not all, are etiological; this is to say, they grew up or were invented to explain certain phenomena, beliefs or customs.[6] Sukumari Bhattacharji in her Literature in the Vedic Age states that a myth is a statement of the state of affairs in illo tempore, i.e. something which happened at the beginning of time with cosmic or minor etiological creations subsumed under it. The concern and obligation of the socially responsible man is to preserve creation by re-enacting through prescribed sacraments that which the gods performed for creation and preservation.[7]
 
 The myths are the stories which were handed down from olden times. They are the stories with a veiled meaning. They were originated in ancient times. In the Purāṇas we come across various myths viz., the myth behind the creation of Agriculture, the myth of Vena and Pṛthu, the Indra-Vṛtra myth, the myth of Indra and Ahalyā, the myth of the king Kuru, the myth of Viśvāmitra etc. which are directly or indirectly connected with agriculture. An attempt has been made in this chapter to discuss some of the important myths in the Purāṇas, which are related to agriculture.
-
-Footnotes and references:
-
-[back to top]
 
 [1]:
 
@@ -5554,10 +5056,7 @@ Vide, Bhattacharji, Sukumari, Literature in the Vedic Age, volume 1, p.128
 
 ## 45. Chapter 3 - Purāṇic myths related to Agriculture
 
-
 Agriculture and Animal husbandry in the Puranas
-
-by Purboshri Borpuzari | 2019 | 74,328 words
 
 This page relates ‘Puranic myths related to Agriculture’ of the study on agriculture and animal husbandry in the Puranas—a category of Sanskrit literature describing the culture and heritage of ancient Indian society. Besides detailing animal care, the six chapters of this essay also documents various Puranic agricultural science: ploughing, sowing, soil-types/fertility tests, transplantation, manuring, irrigation/water-management, tanks, rainfall–Sun dependence, horticulture, plus crop lists (e.g., Vrihi, Yava, Godhuma) and festivals/rites.
 
@@ -5569,15 +5068,9 @@ Chapter 3 - Purāṇic myths related to Agriculture
 
 ## 46. Part 26 - Agricultural Products Used as Gifts
 
-
 Agriculture and Animal husbandry in the Puranas
 
-by Purboshri Borpuzari | 2019 | 74,328 words
-
 This page relates ‘Agricultural Products Used as Gifts’ of the study on agriculture and animal husbandry in the Puranas—a category of Sanskrit literature describing the culture and heritage of ancient Indian society. Besides detailing animal care, the six chapters of this essay also documents various Puranic agricultural science: ploughing, sowing, soil-types/fertility tests, transplantation, manuring, irrigation/water-management, tanks, rainfall–Sun dependence, horticulture, plus crop lists (e.g., Vrihi, Yava, Godhuma) and festivals/rites.
-
-Go directly to: 
-Footnotes.
 
 Part 26 - Agricultural Products Used as Gifts
 
@@ -5586,9 +5079,6 @@ The Purāṇas mention a variety of gifts to be given at important occasions. Th
 The Skanda Purāṇa traces various beliefs regarding barley.It remarks that Indra stays in barley and is engaged in the welfare of living beings.Resorting to yava is meritorious.
 
 So also is its sight and touch—
-
-mahendro yavamāsthāya sthito bhūtahite rataḥ// 
-yavasya sevanaṃ puṇyaṃ darśanaṃ sparśanaṃ tathā//[8]
 
 mahendro yavamāsthāya sthito bhūtahite rataḥ// 
 yavasya sevanaṃ puṇyaṃ darśanaṃ sparśanaṃ tathā//[8]
@@ -5672,10 +5162,6 @@ In the Matsya Purāṇa, Lord Śiva explained to Nārada, about the giving away 
 He gets long life, children and grandchildren and goes to heaven, where he is honoured by the Devas, Pitṛs and Gandharvas.[41] The Matsya Purāṇa adds that one, who gives away a cow and sesamum to a Brāhmaṇa well-versed in Vedas, gets the benefit of having given away lands beyond the seas.[42] According to the Vāyu Purāṇa, he who sells sesamum falls into the terrific hell Pūyavaha.[43] Matsya in the Matsya Purāṇa narrates about the Pañca-Lāṅgalaka ordinance which is the dispeller of all great sins.[44] On an auspicious day, during the commencement of a yuga or on the occasion of an eclipse, a land should be given away measuring five lāṅgalaka (ploughs).[45] Any market, town or residence of an agriculturist or a village should be given away after making the fields prosperous with harvest, or only half of the village may be given with its good harvest according to one’s means.[46] By the donation of oxen, lands and ploughs with yokes etc., the donor is freed of his sins and obtains the position of Indra. A wealthy man should therefore, give this gift to remove his sins and acquire prosperity for himself.[47]
 
 Moreover, it is stated there in the Agni Purāṇa that a man by casting oblations of vessel full (droṇas) of barley, soaked in clarified butter, into the fire and by repeating the mantras vāta āvātu, etc., is enabled to cast off all charms.[48] Again, a man by performing a homa ceremony with oblations of sesamum and by repeating the mantras known as pradeva dāsa followed by Vaṣaṭs, become an expert in all trades.[49]
-
-Footnotes and references:
-
-[back to top]
 
 [1]:
 
@@ -5918,15 +5404,9 @@ abhi tvāṃ śūra nonumo vaṣaṭkārasamanvitam// Ibid., 261.20
 
 ## 47. Part 2 - The Myth of Pṛthu, the Son of Vena
 
-
 Agriculture and Animal husbandry in the Puranas
 
-by Purboshri Borpuzari | 2019 | 74,328 words
-
 This page relates ‘Myth of Prithu, the Son of Vena’ of the study on agriculture and animal husbandry in the Puranas—a category of Sanskrit literature describing the culture and heritage of ancient Indian society. Besides detailing animal care, the six chapters of this essay also documents various Puranic agricultural science: ploughing, sowing, soil-types/fertility tests, transplantation, manuring, irrigation/water-management, tanks, rainfall–Sun dependence, horticulture, plus crop lists (e.g., Vrihi, Yava, Godhuma) and festivals/rites.
-
-Go directly to: 
-Footnotes.
 
 Part 2 - The Myth of Pṛthu, the Son of Vena
 
@@ -5935,14 +5415,9 @@ The myth of Vena and Pṛthu is found in several Purāṇas.[1] Pṛthu is the n
 tāṃ pṛthī vanyo’dhok tāṃ kṛṣiṃ ca sasyaṃ cādhok//
 te kṛṣiṃ ca sasyaṃ ca manuṣyā upa jīvanti kṛṣṭarādhirupajīvanīyo bhavati ya evaṃ veda//[2]
 
-tāṃ pṛthī vanyo’dhok tāṃ kṛṣiṃ ca sasyaṃ cādhok//
-te kṛṣiṃ ca sasyaṃ ca manuṣyā upa jīvanti kṛṣṭarādhirupajīvanīyo bhavati ya evaṃ veda//[2]
-
 The Ṛgveda[3], the Jaiminīya Brāhmaṇa[4], the Śatapatha Brāhmaṇa[5] too refers to Pṛthu as Vainya-the son of Vena. The Brahma Purāṇa introduces Pṛthu as the protector and Supreme lord of the Earth. He was the oldest of KṢatriyas. He was the first and foremost of those whose coronations were performed with a Rājasūya sacrifice.[6]
 
 In the commentary of the Śatapatha Brāhmaṇa, Sāyaṇācārya explains that Pṛthu appropriated all the food on Earth—
-
-pṛthī heti/ vainyaḥ veno nāma rājā, tasya putraḥ pṛthīṃ nāma, manuṣyāṇāṃ madhye prathamaḥ abhiṣiktaḥ/ sarvam annādyam avarundhīya svādhīnaṃ kuryām iti kāmayamānāya tasmai pṛthaye etāni pārthāni ajuhavuḥ adhvayavaḥ/tataḥ saḥ rājā idaṃ sarvamannādyam avarurudhe svādhīnaṃ kṛtavān.[7]
 
 pṛthī heti/ vainyaḥ veno nāma rājā, tasya putraḥ pṛthīṃ nāma, manuṣyāṇāṃ madhye prathamaḥ abhiṣiktaḥ/ sarvam annādyam avarundhīya svādhīnaṃ kuryām iti kāmayamānāya tasmai pṛthaye etāni pārthāni ajuhavuḥ adhvayavaḥ/tataḥ saḥ rājā idaṃ sarvamannādyam avarurudhe svādhīnaṃ kṛtavān.[7]
 
@@ -5965,14 +5440,7 @@ It is stated in the Brahma Purāṇa that as the Earth yields everything that ev
 sarvakāmadudhā dogdhrī sarvasasyaprarohiṇī/
 āsīdiyaṃ samudrāntā medinī pariviśrutā.[24]
 
-sarvakāmadudhā dogdhrī sarvasasyaprarohiṇī/
-āsīdiyaṃ samudrāntā medinī pariviśrutā.[24]
-
 The descriptions that occur in the Bhāgavata Purāṇa and Brahma Purāṇa are almost same as in the Matsya Purāṇa.
-
-Footnotes and references:
-
-[back to top]
 
 [1]:
 
@@ -6117,15 +5585,9 @@ Brahma Purāṇa , 2.111
 
 ## 48. Part 3 - The Myth of Kuru (son of king Saṃvaraṇa)
 
-
 Agriculture and Animal husbandry in the Puranas
 
-by Purboshri Borpuzari | 2019 | 74,328 words
-
 This page relates ‘Myth of Kuru (son of king Samvarana)’ of the study on agriculture and animal husbandry in the Puranas—a category of Sanskrit literature describing the culture and heritage of ancient Indian society. Besides detailing animal care, the six chapters of this essay also documents various Puranic agricultural science: ploughing, sowing, soil-types/fertility tests, transplantation, manuring, irrigation/water-management, tanks, rainfall–Sun dependence, horticulture, plus crop lists (e.g., Vrihi, Yava, Godhuma) and festivals/rites.
-
-Go directly to: 
-Footnotes.
 
 Part 3 - The Myth of Kuru (son of king Saṃvaraṇa)
 
@@ -6136,18 +5598,11 @@ He prepared a plough of gold and fastened the bull of Rudra to its one side and 
 kṛtvā sīraṃ sasauvarṇaṃ gṛhya rudravṛṣaṃ prabhuḥ/
 boḍhāraṃ yāmyamahiṣaṃ svayaṃ karṣitumudyataḥ//[2]
 
-kṛtvā sīraṃ sasauvarṇaṃ gṛhya rudravṛṣaṃ prabhuḥ/
-boḍhāraṃ yāmyamahiṣaṃ svayaṃ karṣitumudyataḥ//[2]
-
 He then started to cultivate the land himself. While he was ploughing, Indra came there. But he did not pay any attention to Kuru and went away. Then Viṣṇu came and asked Kuru where the seed was which was to be sowed while ploughing. King replied that it was in his body. Replying thus, Kuru cut his hand and gave it to Viṣṇu. Viṣṇu cut it further into pieces with his cakra. Similarly other parts of his body were also cut. Finally Kuru had to offer his head too. Viṣṇu was extremely pleased with him and offered him a boon. Kuru wanted the place he tilled to be very auspicious and named as Dharma-kṣetra (the field of virtue). Viṣṇu granted his wish. This place is named as KurukṢetra and even now it is considered a holy place.
 
 In the Matsya Purāṇa, we find a little variation regarding this account. According to the Matsya Purāṇa, when the king Kuru ploughed the land of KurukṢetra for many years, Indra got frightened at his task and bestowed him a boon. As a result of which the land of KurukṢetra became auspicious.[3]
 
 The references of ploughing and tilling the field that found in this myth indicate the practice of agriculture in the days of the Purāṇas.
-
-Footnotes and references:
-
-[back to top]
 
 [1]:
 
@@ -6169,15 +5624,9 @@ puṇyaṃ ca ramaṇīyaṃ ca kurukṣetraṃ tu tatsmṛtam// Matsya Purāṇ
 
 ## 49. Part 25 - Festivals and Rites Related to Agriculture:
 
-
 Agriculture and Animal husbandry in the Puranas
 
-by Purboshri Borpuzari | 2019 | 74,328 words
-
 This page relates ‘Festivals and Rites Related to Agriculture:’ of the study on agriculture and animal husbandry in the Puranas—a category of Sanskrit literature describing the culture and heritage of ancient Indian society. Besides detailing animal care, the six chapters of this essay also documents various Puranic agricultural science: ploughing, sowing, soil-types/fertility tests, transplantation, manuring, irrigation/water-management, tanks, rainfall–Sun dependence, horticulture, plus crop lists (e.g., Vrihi, Yava, Godhuma) and festivals/rites.
-
-Go directly to: 
-Footnotes.
 
 Part 25 - Festivals and Rites Related to Agriculture:
 
@@ -6200,10 +5649,6 @@ In this rite one should draw the Aśoka tree with sindūra(Zink oxide) and other
 Saṃkrānti:
 
 According to the Skanda Purāṇa,[8] this festival was observed in the month of Māgha. At Jagannātha Puri in accordance with custom, the newly reaped rice (śāli) was to be deposited, on the east side of the Viṣṇu temple, after pounding it. It was to be covered with new clothes and was to be worshipped. Viṣṇu was to be worshipped and the nirmālya wreath of Viṣṇu was to be placed on the śāli rice.Then the image of Viṣṇu was to be carried three times around the temple.This indicates that he was going three times around the world.In the next morning varieties of cooked rice were to be placed in gold plates. Mixing curd, sugar, ghee, jujube fruits etc. with the rice, these plates were then taken around the temple.This is the festival where new rice was to be offered to the God.
-
-Footnotes and references:
-
-[back to top]
 
 [1]:
 
@@ -6242,21 +5687,13 @@ Skanda Purāṇa ,2.2.42.6-29
 
 ## 50. Part 6 - The Myth of Viśvāmitra
 
-
 Agriculture and Animal husbandry in the Puranas
 
-by Purboshri Borpuzari | 2019 | 74,328 words
-
 This page relates ‘Myth of Vishvamitra’ of the study on agriculture and animal husbandry in the Puranas—a category of Sanskrit literature describing the culture and heritage of ancient Indian society. Besides detailing animal care, the six chapters of this essay also documents various Puranic agricultural science: ploughing, sowing, soil-types/fertility tests, transplantation, manuring, irrigation/water-management, tanks, rainfall–Sun dependence, horticulture, plus crop lists (e.g., Vrihi, Yava, Godhuma) and festivals/rites.
-
-Go directly to: 
-Footnotes.
 
 Part 6 - The Myth of Viśvāmitra
 
 In the Ṛgveda, there is an indication that a dog was sacrificed for getting rain.[1] Sāyaṇa remarks this as—
-
-‘anayā vāmadevaḥ svakīyaṃ dāridryaṃ sūcayannidrasyotkarṣamāha/vāmadevo’haṃ avartyā jīvanopāyarāhityena śunaḥ śunakasaṃbandhīni āntrāṇi purītanti pece apacam/deveṣu dyotamāneṣu vahnayādiṣu madhye indrādanyaṃ marḍitāraṃ sukhayitāraṃ na vivide na lebhe/kiṃca jāyāṃ svakīyāṃ bhāryāṃ amahīyamānām aślāghanīyāṃ apaśyam adrākṣam/adha athānantaraṃ śyenaḥ śyenavacchīghragāmīndraḥ me mahyaṃ madhu madhuropetamudakam ā jabhāra ājahāra//’[2]
 
 ‘anayā vāmadevaḥ svakīyaṃ dāridryaṃ sūcayannidrasyotkarṣamāha/vāmadevo’haṃ avartyā jīvanopāyarāhityena śunaḥ śunakasaṃbandhīni āntrāṇi purītanti pece apacam/deveṣu dyotamāneṣu vahnayādiṣu madhye indrādanyaṃ marḍitāraṃ sukhayitāraṃ na vivide na lebhe/kiṃca jāyāṃ svakīyāṃ bhāryāṃ amahīyamānām aślāghanīyāṃ apaśyam adrākṣam/adha athānantaraṃ śyenaḥ śyenavacchīghragāmīndraḥ me mahyaṃ madhu madhuropetamudakam ā jabhāra ājahāra//’[2]
 
@@ -6267,14 +5704,7 @@ He became angry and scolded Indra, who instantly called the clouds and released 
 tato bhītaḥ sahasrākṣo meghānāhūya tatkṣaṇāt/ 
 vavarṣa cāmṛtaṃ vāri hyamṛtenārpitāḥ prajāḥ//[5]
 
-tato bhītaḥ sahasrākṣo meghānāhūya tatkṣaṇāt/ 
-vavarṣa cāmṛtaṃ vāri hyamṛtenārpitāḥ prajāḥ//[5]
-
 As rain is necessary for agriculture so this myth may be connected with the same. If there is rain then only agriculture thrives.
-
-Footnotes and references:
-
-[back to top]
 
 [1]:
 
@@ -6304,15 +5734,9 @@ Ibid., 2.23.23b-24a
 
 ## 51. Part 5 - The Myth of Indra and Vṛtra
 
-
 Agriculture and Animal husbandry in the Puranas
 
-by Purboshri Borpuzari | 2019 | 74,328 words
-
 This page relates ‘Myth of Indra and Vritra’ of the study on agriculture and animal husbandry in the Puranas—a category of Sanskrit literature describing the culture and heritage of ancient Indian society. Besides detailing animal care, the six chapters of this essay also documents various Puranic agricultural science: ploughing, sowing, soil-types/fertility tests, transplantation, manuring, irrigation/water-management, tanks, rainfall–Sun dependence, horticulture, plus crop lists (e.g., Vrihi, Yava, Godhuma) and festivals/rites.
-
-Go directly to: 
-Footnotes.
 
 Part 5 - The Myth of Indra and Vṛtra
 
@@ -6327,22 +5751,13 @@ yadvṛṇottadu vṛtrasya vṛtratvam/iti vijñāyate/
 yadvartata tadu vṛtrasya vṛtratvam/iti vijñāyate/
 yadvardhata tadu vṛtrasya vṛtratvam/iti vijñāyate.[18]
 
-vṛtro vṛṇotervā vartatervā vardhatervā/
-yadvṛṇottadu vṛtrasya vṛtratvam/iti vijñāyate/
-yadvartata tadu vṛtrasya vṛtratvam/iti vijñāyate/
-yadvardhata tadu vṛtrasya vṛtratvam/iti vijñāyate.[18]
-
 According to the etymologists Vṛtra is a cloud. According to the legendaries it is a demon, son of Tvaṣṭā.The phenomenon of rain is produced by the commingling of waters (vapours) and lightning (jyotiṣa).
 
 With reference to this, there are symbolic descriptions of battle—
 
 tatko vṛtraḥ? megha iti nairuktāḥ tvāṣṭro’sura ityaitihāsikāḥ apāṃ ca jyotiṣaśca miśrībhāvakarmaṇo varṣakarma jāyate/tatropamārthena yuddhavarṇā bhavanti.[19]
 
-tatko vṛtraḥ? megha iti nairuktāḥ tvāṣṭro’sura ityaitihāsikāḥ apāṃ ca jyotiṣaśca miśrībhāvakarmaṇo varṣakarma jāyate/tatropamārthena yuddhavarṇā bhavanti.[19]
-
 In the commentary of the Ṛgveda Sāyaṇācārya too follows the view of the Nairukta [nairuktāḥ] (etymologists) stating that Vṛtra means cloud—
-
-vṛtram/ vṛṇotyākāśamiti vṛtro meghaḥ.[20]
 
 vṛtram/ vṛṇotyākāśamiti vṛtro meghaḥ.[20]
 
@@ -6352,13 +5767,9 @@ Sāyaṇācārya states—
 
 ‘yaḥ ca tvaṃ divaḥ dyotamānasya sūryasya asamāḥ viṣamā nānāprakārāḥ didyutaḥ dīptīḥ ajanaḥ ajanayaḥ/yadvā divo nakṣatrāṇi’.[21]
 
-‘yaḥ ca tvaṃ divaḥ dyotamānasya sūryasya asamāḥ viṣamā nānāprakārāḥ didyutaḥ dīptīḥ ajanaḥ ajanayaḥ/yadvā divo nakṣatrāṇi’.[21]
-
 Also he is said to have directed the action of the waters downwards.[22] Indra is the force of thunder and lightning which kills Vṛtra, the obstructer of water and spares it for the human beings.[23]
 
 Sāyaṇācārya interprets this as—
-
-‘vṛtrahā vṛtrasya hantā purandaraḥ śambarapurāṃ dārayitā saḥ indraḥ…/kiṃca manave manorarthaṃ kṣāṃ pṛthivīm apaḥ udakāni ca ajanayat/yajamānasya satrā mahāntaṃ śaṃsam abhilāṣaṃ tūtot kāmapradānena pūrayatu’.[24]
 
 ‘vṛtrahā vṛtrasya hantā purandaraḥ śambarapurāṃ dārayitā saḥ indraḥ…/kiṃca manave manorarthaṃ kṣāṃ pṛthivīm apaḥ udakāni ca ajanayat/yajamānasya satrā mahāntaṃ śaṃsam abhilāṣaṃ tūtot kāmapradānena pūrayatu’.[24]
 
@@ -6368,21 +5779,13 @@ Sāyaṇācārya interprets this thus—
 
 ‘vṛtraṃ vṛtrākhyamasuraṃ jaghanvān hatavānindraḥ gūrtāḥ tamisrayā gīrṇāḥ pūrvīḥ bahnīḥ uṣasaḥ śaradaśca saṃvatsarāṃśca vi asṛjat viśeṣeṇa sasarja/tathā sindhūn vṛtreṇāvṛtānyudakāni vyasṛjat/ kiṃca indraḥ pariṣṭhitāḥ megheṣu paritaḥ sthitāḥ badbadhānāḥ vṛtreṇa parito badhyamānāḥ sīrāḥ nadīḥ/sīrā iti nadīnāmaitat/pṛthivyā pṛthvīrūpeṇa mārgeṇa sravitave sravituṃ gamanārthaṃ atṛṇat avidhyat//’[26]
 
-‘vṛtraṃ vṛtrākhyamasuraṃ jaghanvān hatavānindraḥ gūrtāḥ tamisrayā gīrṇāḥ pūrvīḥ bahnīḥ uṣasaḥ śaradaśca saṃvatsarāṃśca vi asṛjat viśeṣeṇa sasarja/tathā sindhūn vṛtreṇāvṛtānyudakāni vyasṛjat/ kiṃca indraḥ pariṣṭhitāḥ megheṣu paritaḥ sthitāḥ badbadhānāḥ vṛtreṇa parito badhyamānāḥ sīrāḥ nadīḥ/sīrā iti nadīnāmaitat/pṛthivyā pṛthvīrūpeṇa mārgeṇa sravitave sravituṃ gamanārthaṃ atṛṇat avidhyat//’[26]
-
 In the conflict and victory are seen the peculiar blessings to the Earth and man that Indra is able to grant. The battle is described at length; in which we have a graphic description of the commencement of the rainy season, with the severe thunderstorms which usually accompany the change of the seasons. At last the conflict is over. As a result of the victory of the god Indra(god of rain), the rains move downwards and the Earth is made fruitful.[27] R.N. Dandekar opines that Indra is said to be the personification of thunderstorm. He stands at the head of the gods of the antarikṣa and is verily the rain-god of the Vedic pantheon. The heavenly waters are obstructed by the cloud-demon, Vṛtra. Indra, therefore, smites down this cloud-demon by means of his vajra or thunderbolt, and releases the waters, which then flow down in the form of rain-showers.[28] Timely rain is very much necessary for carrying the process of agriculture. It was Vṛtra who withheld the timely rains, brought on distressing droughts that hampered the progress of agricultural work, resulting in a poor produce of food-grains.[29] Indra shouting in great anger cut Vṛtra into pieces part by part and the waters flowed into the ocean.
 
 According to Sāyaṇācārya—
 
 ‘asya indrasya manyuḥ krodhaḥ vṛtram āvṛtya tiṣṭhantamasuraṃ meghaṃ vā parvaśaḥ parvaṇi parvaṇi paruṣi paruṣi vi rujan vibhañjan yat yadā adhvanīt stanayitnulakṣaṇaṃ śabdamakarot tadānīṃ samudraṃ samundanīyamudadhiṃ prati apaḥ vṛṣṭyudakāni airayat sa indraḥ preritavān.’[30]
 
-‘asya indrasya manyuḥ krodhaḥ vṛtram āvṛtya tiṣṭhantamasuraṃ meghaṃ vā parvaśaḥ parvaṇi parvaṇi paruṣi paruṣi vi rujan vibhañjan yat yadā adhvanīt stanayitnulakṣaṇaṃ śabdamakarot tadānīṃ samudraṃ samundanīyamudadhiṃ prati apaḥ vṛṣṭyudakāni airayat sa indraḥ preritavān.’[30]
-
 After this blessing has been received, the sun shines, and Earth again is bright.[31] The land of Earth became suitable for agriculture.
-
-Footnotes and references:
-
-[back to top]
 
 [1]:
 
@@ -6548,24 +5951,15 @@ Wilkins, W.J., op. cit., p. 49
 
 ## 52. Part 4 - The Myth of Indra and Ahalyā
 
-
 Agriculture and Animal husbandry in the Puranas
 
-by Purboshri Borpuzari | 2019 | 74,328 words
-
 This page relates ‘Myth of Indra and Ahalya’ of the study on agriculture and animal husbandry in the Puranas—a category of Sanskrit literature describing the culture and heritage of ancient Indian society. Besides detailing animal care, the six chapters of this essay also documents various Puranic agricultural science: ploughing, sowing, soil-types/fertility tests, transplantation, manuring, irrigation/water-management, tanks, rainfall–Sun dependence, horticulture, plus crop lists (e.g., Vrihi, Yava, Godhuma) and festivals/rites.
-
-Go directly to: 
-Footnotes.
 
 Part 4 - The Myth of Indra and Ahalyā
 
 This is the myth of how Ahalyā was cursed by her husband, Gautama, and was turned into a stone. The Rāmāyaṇa[1] and the Purāṇas[2] record the myth of Ahalyā’s seduction by Indra. Ahalyā was the daughter of Brahmā and was given to Gautama for wife.
 
 Ahalyā was very famous in all the three worlds as a woman endowed with beauty and prime of youth—
-
-tasya patnī mahābhāgā hyahalyānāma viśrutā/ 
-rūpayauvanasampannā triṣu lukeṣu viśrutā.[3]
 
 tasya patnī mahābhāgā hyahalyānāma viśrutā/ 
 rūpayauvanasampannā triṣu lukeṣu viśrutā.[3]
@@ -6577,15 +5971,9 @@ But feeling pity on her the sage told that she would be free of sin and would t
 gate varṣasahasrānte rāmaṃ dṛṣṭvā yaśasvinam/ 
 tīrthayātrāprasaṃgena dhautapāpā bhaviṣyasi//[6]
 
-gate varṣasahasrānte rāmaṃ dṛṣṭvā yaśasvinam/ 
-tīrthayātrāprasaṃgena dhautapāpā bhaviṣyasi//[6]
-
 Thus, when Rāma in the Tretā yuga going to that place touched the stone by his foot, then Ahalyā regained her original form.
 
 The Brahmavaivarta Purāṇa states that for her misdeeds, after sixty thousand years Ahalyā was purified with the touch of the feet of Rāma—
-
-ṣaṣṭhivarṣasahasrāṇi bhuktvā bhogaṃ munipriyā/ 
-śrīrāmacaraṇasparśātsadyaḥ śuddhā babhūva ha//[7]
 
 ṣaṣṭhivarṣasahasrāṇi bhuktvā bhogaṃ munipriyā/ 
 śrīrāmacaraṇasparśātsadyaḥ śuddhā babhūva ha//[7]
@@ -6596,12 +5984,7 @@ Seeing Ahalyā worried, Gautama cursed her to be a river, devoid of water—
 
 tāmapyāha muniḥ kopāt tvaṃ ca śuṣkanadī bhava.[9]
 
-tāmapyāha muniḥ kopāt tvaṃ ca śuṣkanadī bhava.[9]
-
 As Ahalyā appealed her innocence, so Gautama said that she will gain the form of a normal river full of water after flowing together with the river Gautamī and then she would also regain her normal form—
-
-yadā tu saṃgatā bhadre gautamyā saridīśayā/ 
-nadī bhūtvā punā rūpaṃ prāpyase priyakṛnmama//[10]
 
 yadā tu saṃgatā bhadre gautamyā saridīśayā/ 
 nadī bhūtvā punā rūpaṃ prāpyase priyakṛnmama//[10]
@@ -6614,13 +5997,7 @@ The Śabdakalpadruma derives the term ahalyaḥ as—
 
 halena kṛṣyaṃ / tato nañsamāsaḥ / halānākṛṣṭakṣetrādiḥ / akṛṣṭabhūmiḥ.[14]
 
-halena kṛṣyaṃ / tato nañsamāsaḥ / halānākṛṣṭakṣetrādiḥ / akṛṣṭabhūmiḥ.[14]
-
 V.S. Apte in his The Practical Sanskrit-English Dictionary defines the word Ahalyā as unploughed and not arable.[15] Ahalyā represents Gautama’s infertile land. Gautama’s hermitage and field becoming barren required Indra’s rains. Indra is the god of rains. Before Indra came to Ahalyā, she remained sterile. But after Indra had carnally united with her, she became fertile and gained the power of productivity. This signifies the land which became suitable for growing crops i.e. became suitable for agriculture.
-
-Footnotes and references:
-
-[back to top]
 
 [1]:
 
@@ -6686,15 +6063,9 @@ Vide, Apte, V.S., op.cit., p. 195
 
 ## 53. Part 7 - The Myth behind the Creation of Agriculture
 
-
 Agriculture and Animal husbandry in the Puranas
 
-by Purboshri Borpuzari | 2019 | 74,328 words
-
 This page relates ‘Myth behind the Creation of Agriculture’ of the study on agriculture and animal husbandry in the Puranas—a category of Sanskrit literature describing the culture and heritage of ancient Indian society. Besides detailing animal care, the six chapters of this essay also documents various Puranic agricultural science: ploughing, sowing, soil-types/fertility tests, transplantation, manuring, irrigation/water-management, tanks, rainfall–Sun dependence, horticulture, plus crop lists (e.g., Vrihi, Yava, Godhuma) and festivals/rites.
-
-Go directly to: 
-Footnotes.
 
 Part 7 - The Myth behind the Creation of Agriculture
 
@@ -6704,13 +6075,9 @@ He created the plants ripening by cultivation—
 
 tataḥ prabhṛtyathauṣadhyaḥ kṛṣṭapacyāstu jajñire/[9]
 
-tataḥ prabhṛtyathauṣadhyaḥ kṛṣṭapacyāstu jajñire/[9]
-
 When the plants grew up Brahmā devised plans for the purpose of agricultural cultivation.
 
 He ordained agriculture and animal husbandry or cattle rearing for the Vaiśyas—
-
-pāśupālyaṃ vāṇijyaṃ kṛṣiṃ caiva viśāṃ dadau//[10]
 
 pāśupālyaṃ vāṇijyaṃ kṛṣiṃ caiva viśāṃ dadau//[10]
 
@@ -6718,15 +6085,9 @@ According to the Vāyu Purāṇa cultivators of the land, as organizers of means
 
 vaiśyānyeva tu tānāhuḥ kīnāśānvṛttisādhakān//[11]
 
-vaiśyānyeva tu tānāhuḥ kīnāśānvṛttisādhakān//[11]
-
 Myths about the Creation of Agricultural Products:
 
 The Matsya Purāṇa speaks that śāli (paddy), mudga (green-gram) and ikṣu (sugarcane) were produced from the drops of nectar fell from the mouth of the Sun while He was drinking it.[12] The same Purāṇa says that from the perspiration of ViṢṇu’s body, as he smote the demon Madhu, were produced the tila (sesame), the kuśa (sacred grass) and the māṣa (black gram).[13] The red variety of the kūṣmāṇḍa (cucumber) was produced from the fears of the Viśvedevas.[14] According to the Brahmāṇḍa Purāṇa, the date-palms were produced from the heads of the three sons of Varatrin, when they were killed by Indra.[15] Again the Skanda Purāṇa mentions that laśuna (garlic) and gṛñjana (turnip) were produced from the drops of the ocean at the churning by gods and demons, along with wine.[16]
-
-Footnotes and references:
-
-[back to top]
 
 [1]:
 
@@ -6806,15 +6167,9 @@ madirā vijayā bhṛṅgī tathā laśunagṛñjanāḥ// Skanda Purāṇa , 1.
 
 ## 54. Part 8 - The Myth of Gautama and Gaṇeśa
 
-
 Agriculture and Animal husbandry in the Puranas
 
-by Purboshri Borpuzari | 2019 | 74,328 words
-
 This page relates ‘Myth of Gautama and Ganesha’ of the study on agriculture and animal husbandry in the Puranas—a category of Sanskrit literature describing the culture and heritage of ancient Indian society. Besides detailing animal care, the six chapters of this essay also documents various Puranic agricultural science: ploughing, sowing, soil-types/fertility tests, transplantation, manuring, irrigation/water-management, tanks, rainfall–Sun dependence, horticulture, plus crop lists (e.g., Vrihi, Yava, Godhuma) and festivals/rites.
-
-Go directly to: 
-Footnotes.
 
 Part 8 - The Myth of Gautama and Gaṇeśa
 
@@ -6825,16 +6180,9 @@ He became a very weak cow and began grazing in the field of Gautama, filled with
 gautamasya ca kedāre tatrāsanvrīhayo yavāḥ/ 
 gaṇeśastatra gaurbhūtvā jagāma kila durbalā//[3]
 
-gautamasya ca kedāre tatrāsanvrīhayo yavāḥ/ 
-gaṇeśastatra gaurbhūtvā jagāma kila durbalā//[3]
-
 As Gautama tried to put off her with the help of a stalk, the cow fell down dead. After that the sages came on the sight and prescribed expiation. Either Gautama should go round the Earth thrice or he should bring the Gaṅgā there and take bath at that place in the water of Gaṅgā. Gautama then propitiated Śiva going to the Himalaya mountain and as a result of which the great river Gaṅgā was released, the dead cow got washed by the water of Gaṅgā and got up and the river Gaṅgā began to flow continuously.
 
 In this myth of sage Gautama as we find the references of field of Gautama, full with barley and paddy, so it clearly indicates the practicing of agriculture prevailed in the days of Purāṇas.
-
-Footnotes and references:
-
-[back to top]
 
 [1]:
 
@@ -6853,15 +6201,9 @@ Ibid., 4.25.29
 
 ## 55. Part 10 - The Account of King Ākāśa
 
-
 Agriculture and Animal husbandry in the Puranas
 
-by Purboshri Borpuzari | 2019 | 74,328 words
-
 This page relates ‘Account of King Akasha’ of the study on agriculture and animal husbandry in the Puranas—a category of Sanskrit literature describing the culture and heritage of ancient Indian society. Besides detailing animal care, the six chapters of this essay also documents various Puranic agricultural science: ploughing, sowing, soil-types/fertility tests, transplantation, manuring, irrigation/water-management, tanks, rainfall–Sun dependence, horticulture, plus crop lists (e.g., Vrihi, Yava, Godhuma) and festivals/rites.
-
-Go directly to: 
-Footnotes.
 
 Part 10 - The Account of King Ākāśa
 
@@ -6872,14 +6214,7 @@ According to the Skanda Purāṇa, king Ākāśa found a girl while he was plou
 yajñārthaṃ śodhayāmāsa bhuvamāraṇitīrataḥ/ 
 kāñcanena halenaiva kṛṣyamāṇe dharātale//[1]
 
-yajñārthaṃ śodhayāmāsa bhuvamāraṇitīrataḥ/ 
-kāñcanena halenaiva kṛṣyamāṇe dharātale//[1]
-
 The king named the girl Padminī.[2] Later Padminī was married to Śrīnivāsa. Reference of using golden plough for tilling is met with in this story. This too, indicates the practice of agriculture in the days of the Purāṇas.
-
-Footnotes and references:
-
-[back to top]
 
 [1]:
 
@@ -6893,15 +6228,9 @@ Ibid., 2.1.4.4
 
 ## 56. Part 9 - The Legend behind the Name Govardhana-Tīrtha
 
-
 Agriculture and Animal husbandry in the Puranas
 
-by Purboshri Borpuzari | 2019 | 74,328 words
-
 This page relates ‘Legend behind the Name Govardhana-Tirtha’ of the study on agriculture and animal husbandry in the Puranas—a category of Sanskrit literature describing the culture and heritage of ancient Indian society. Besides detailing animal care, the six chapters of this essay also documents various Puranic agricultural science: ploughing, sowing, soil-types/fertility tests, transplantation, manuring, irrigation/water-management, tanks, rainfall–Sun dependence, horticulture, plus crop lists (e.g., Vrihi, Yava, Godhuma) and festivals/rites.
-
-Go directly to: 
-Footnotes.
 
 Part 9 - The Legend behind the Name Govardhana-Tīrtha
 
@@ -6911,12 +6240,7 @@ According to the Brahma Purāṇa, once there was a Brāhmaṇa farmer, Jābāli
 
 brāhmaṇaḥ karṣakaḥ kaścijjābāliriti viśrutaḥ//[2]
 
-brāhmaṇaḥ karṣakaḥ kaścijjābāliriti viśrutaḥ//[2]
-
 He did not release the bullocks from the plough even at mid-day, and kept on stabbing them with the pointed staff even when they were tired—
-
-na vimuñcatyanaḍvāhau madhyaṃ yāte’pi bhāskare/ 
-pratodena pratudati pṛṣṭhato’pi ca pārśvayoḥ//[3]
 
 na vimuñcatyanaḍvāhau madhyaṃ yāte’pi bhāskare/ 
 pratodena pratudati pṛṣṭhato’pi ca pārśvayoḥ//[3]
@@ -6928,14 +6252,7 @@ The place where this sacrifice was performed came to be known as Go-vardhana i.e
 gautamyāśca śubhe pārśve gāvo vavṛdhire tataḥ/
 govarddhanaṃ tu tattīrthaṃ devānāṃ prītivardhanam//.[6]
 
-gautamyāśca śubhe pārśve gāvo vavṛdhire tataḥ/
-govarddhanaṃ tu tattīrthaṃ devānāṃ prītivardhanam//.[6]
-
 Here, in this myth, it is met with that people in the days of Purāṇas, used bullocks for the act of ploughing. This myth too gives us reference about the practice of agriculture which prevailed in the days of the Purāṇas.
-
-Footnotes and references:
-
-[back to top]
 
 [1]:
 
@@ -6970,10 +6287,7 @@ Brahma Purāṇa ,2.21.11
 
 ## 57. Chapter 4 - Animal husbandry in the Purāṇas
 
-
 Agriculture and Animal husbandry in the Puranas
-
-by Purboshri Borpuzari | 2019 | 74,328 words
 
 This page relates ‘Animal husbandry in the Puranas’ of the study on agriculture and animal husbandry in the Puranas—a category of Sanskrit literature describing the culture and heritage of ancient Indian society. Besides detailing animal care, the six chapters of this essay also documents various Puranic agricultural science: ploughing, sowing, soil-types/fertility tests, transplantation, manuring, irrigation/water-management, tanks, rainfall–Sun dependence, horticulture, plus crop lists (e.g., Vrihi, Yava, Godhuma) and festivals/rites.
 
@@ -6985,15 +6299,9 @@ Chapter 4 - Animal husbandry in the Purāṇas
 
 ## 58. Part 1 - Meaning of the term Paśu-pālana (Animal Husbandry)
 
-
 Agriculture and Animal husbandry in the Puranas
 
-by Purboshri Borpuzari | 2019 | 74,328 words
-
 This page relates ‘Meaning of the term Pashu-palana (Animal Husbandry)’ of the study on agriculture and animal husbandry in the Puranas—a category of Sanskrit literature describing the culture and heritage of ancient Indian society. Besides detailing animal care, the six chapters of this essay also documents various Puranic agricultural science: ploughing, sowing, soil-types/fertility tests, transplantation, manuring, irrigation/water-management, tanks, rainfall–Sun dependence, horticulture, plus crop lists (e.g., Vrihi, Yava, Godhuma) and festivals/rites.
-
-Go directly to: 
-Footnotes.
 
 Part 1 - Meaning of the term Paśu-pālana (Animal Husbandry)
 
@@ -7003,17 +6311,11 @@ The word paśu indicates cattle (both singly and collectively). It is derived as
 
 sarvamaviśeṣeṇa paśyati, dṛś-ku, paśādeśaḥ.[3]
 
-sarvamaviśeṣeṇa paśyati, dṛś-ku, paśādeśaḥ.[3]
-
 The term paśupālanam is used to denote animal husbandry, which literally means the tending or rearing of cattle[4] (paśūn pālayati iti).[5] M. Monier Williams in his A Sanskrit-English Dictionary too defines paśupālanam as the tending or rearing of cattle (the duty of a Vaiśya).[6] Animal husbandry was the occupation of most of the people since pre-Vedic time. Animals play a key role in keeping the balance of the environment. That’s why animals have been considered the backbone of Indian economy. Actually, the importance of animals was known to man well before he started organized agriculture. Man gets a number of useful products from animals, such as food, skin, cover, manure, power, etc. and thus, the domesticated animals have become an integral part of agriculture and rural life.Indians of Vedic age recognized the importance of animals and, therefore, they began to manage the forests and pastures for protecting and grazing their animals. The Ṛgveda mentions that the tasks of taking the cattle to the pastures and forests for grazing and bring them back safely were assigned to the herdsman. They used to graze their cattle by taking them to pastures or grasslands in the morning and bringing them back in the evening,[7] the practice which is still seen in the villages of India.This practice was also prevailed in the days of the Purāṇas.[8]
 
 There are voluminous treatises on animal husbandry.We find the name of Śālihotra, who is said to be the founder of Aśvavidyā (the science of horse).Therefore, the science of horse is not only the Aśvaśāstra but also Śālihotra.Since it describes treatment of diseases of horses, so it is called also Aśvacikitsā, Aśvavaidyaka or Aśvāyurveda, i.e., ‘science of healing horses.’ Moreover, the Aśvavaidyaka of Jayadattasūri and the Aśvacikitsā of Nakula also deals with the healing of diseases of horses as well as their breeding and training.[9]
 
 The originator of the science of elephants is said to be wise Pālakāpya.[10] The treatise on Hastyāyurveda (the science of healing elephants) is the Pālakāpyasaṃhitā which is attributed to sage Pālakāpya.It deals with anatomy, physiology, pathology, major and minor diseases with medical and surgical treatments, and drugs and diet.The Mātaṅgalīlā of Nīlakaṇṭhācārya is also a work on the science of healing elephants.[11]
-
-Footnotes and references:
-
-[back to top]
 
 [1]:
 
@@ -7070,24 +6372,15 @@ De, S. K., et al (ed.), The Cultural Heritage of India, volume 6, p.175
 
 ## 59. Part 11 - The Account of Uplifting the Mountain Govardhana
 
-
 Agriculture and Animal husbandry in the Puranas
 
-by Purboshri Borpuzari | 2019 | 74,328 words
-
 This page relates ‘Account of Uplifting the Mountain Govardhana’ of the study on agriculture and animal husbandry in the Puranas—a category of Sanskrit literature describing the culture and heritage of ancient Indian society. Besides detailing animal care, the six chapters of this essay also documents various Puranic agricultural science: ploughing, sowing, soil-types/fertility tests, transplantation, manuring, irrigation/water-management, tanks, rainfall–Sun dependence, horticulture, plus crop lists (e.g., Vrihi, Yava, Godhuma) and festivals/rites.
-
-Go directly to: 
-Footnotes.
 
 Part 11 - The Account of Uplifting the Mountain Govardhana
 
 The Bhāgavata Purāṇa mentions about the arrangements for the annual sacrifice to the rain-God Indra(Indra-yāga) for the protection of the agricultural products in its tenth Skandha.[1] In the Bhāgavata Purāṇa Nanda explained to curious Kṛṣṇa that god Indra is the presiding deity of the rainfall and clouds are his manifestations. They shower water which is the very source of pleasure and existence of all creatures.[2] People worship Indra, the ruler of clouds and regulator of the Earth, by performing sacrifices.[3] It is on the leftovers of the sacrifice that people survive for achieving their three purposes in life (viz. dharma, artha and kāma, which are known as trivarga). The rain-god is the genuine bestower of fruits to individuals who exercise in cultivation, trade and commerce etc.[4] He, who gives up the traditional religious rites, out of passion, greediness, panic or hatred, does not attain his real good.[5] Hearing his father’s words Kṛṣṇa replied with a view to arise extreme anger in Indra.[6] Kṛṣṇa said that it is not necessary to regain the favour of a divinity for the profit of mankind because a being comes into existence only by its own past deeds i.e. karma and passes away through the force of its own karmas.[7] A particular God is not to be worshipped. They who leave one God and run to worship another God do not gain anything.[8]
 
 According to the Viṣṇu Purāṇa, there are four branches of knowledge-logical, scriptural, practical and political—
-
-ānvīkṣikī trayī vārttā daṇḍanītistathāparā/ 
-vidyācatuṣṭayaṃ tvetat…//[9]
 
 ānvīkṣikī trayī vārttā daṇḍanītistathāparā/ 
 vidyācatuṣṭayaṃ tvetat…//[9]
@@ -7107,14 +6400,7 @@ In the Viṣṇu Purāṇa it is clearly pointed out that when the clouds are se
 nāśasyā nātṛṇā bhūmirna bubhukṣārddito janaḥ/ 
 dṛśyate yatra dṛśyante vṛṣṭimanto balāhakāḥ//[25]
 
-nāśasyā nātṛṇā bhūmirna bubhukṣārddito janaḥ/ 
-dṛśyate yatra dṛśyante vṛṣṭimanto balāhakāḥ//[25]
-
 S.S. Dange opines in his The Bhāgavata Purāṇa: Mytho-Social Study that the heap of boiled rice offered to the mountain Govardhana makes it the corn-spirit, and a special festival of offerings on the mountain identified with Kṛṣṇa shows Kṛṣṇa to be a vegetation God.[26] The Viṣṇu Purāṇa too narrates the story of uplifting the mountain Govardhana.[27] According to the Viṣṇu Purāṇa, as Kṛṣṇa preserved the cattle of Gokula by raising up Govardhana, the chief of mountains, so Indra being grateful, installed Kṛṣṇa as Upendra. And as Lord Kṛṣṇa was Indra of the cows, so he was called as Govinda.[28]
-
-Footnotes and references:
-
-[back to top]
 
 [1]:
 
@@ -7264,15 +6550,9 @@ upendratve gavāmindro govindastvaṃ bhaviṣyasi// Ibid., 5.12.11-12
 
 ## 60. Part 12 - Establishment of Vārtā-Vṛtti
 
-
 Agriculture and Animal husbandry in the Puranas
 
-by Purboshri Borpuzari | 2019 | 74,328 words
-
 This page relates ‘Establishment of Varta-Vritti’ of the study on agriculture and animal husbandry in the Puranas—a category of Sanskrit literature describing the culture and heritage of ancient Indian society. Besides detailing animal care, the six chapters of this essay also documents various Puranic agricultural science: ploughing, sowing, soil-types/fertility tests, transplantation, manuring, irrigation/water-management, tanks, rainfall–Sun dependence, horticulture, plus crop lists (e.g., Vrihi, Yava, Godhuma) and festivals/rites.
-
-Go directly to: 
-Footnotes.
 
 Part 12 - Establishment of Vārtā-Vṛtti
 
@@ -7283,16 +6563,9 @@ At that time of rainfall, the oṣadhīs were sprung up and vārtā-vṛtti was 
 oṣadhīṣu ca jātāsu pravṛtte vṛṣṭisarjjane/ 
 pratiṣṭhitāyāṃ vārttāyāṃ grāmeṣu ca pureṣu ca//[5]
 
-oṣadhīṣu ca jātāsu pravṛtte vṛṣṭisarjjane/ 
-pratiṣṭhitāyāṃ vārttāyāṃ grāmeṣu ca pureṣu ca//[5]
-
 This occurred in the Tretāyuga during the period of Svāyambhuva Manu.[6] According to the Bhāgavata Purāṇa, vārtā comprises of tending cattle, tilling agricultural fields, carrying on trade and lending for profit. The main profession of the Vaiśyas was to carry on vārtā-vṛtti.[7]
 
 Thus, various myths are found in the Purāṇas which are directly or indirectly associated with agriculture.
-
-Footnotes and references:
-
-[back to top]
 
 [1]:
 
@@ -7334,15 +6607,9 @@ vārtā caturvidhā tatra vayaṃ govṛttayo’niśam//
 
 ## 61. Part 2 - Animal Husbandry in the Vedic Period
 
-
 Agriculture and Animal husbandry in the Puranas
 
-by Purboshri Borpuzari | 2019 | 74,328 words
-
 This page relates ‘Animal Husbandry in the Vedic Period’ of the study on agriculture and animal husbandry in the Puranas—a category of Sanskrit literature describing the culture and heritage of ancient Indian society. Besides detailing animal care, the six chapters of this essay also documents various Puranic agricultural science: ploughing, sowing, soil-types/fertility tests, transplantation, manuring, irrigation/water-management, tanks, rainfall–Sun dependence, horticulture, plus crop lists (e.g., Vrihi, Yava, Godhuma) and festivals/rites.
-
-Go directly to: 
-Footnotes.
 
 Part 2 - Animal Husbandry in the Vedic Period
 
@@ -7352,13 +6619,9 @@ Sāyaṇācārya states this idea thus—
 
 ‘he āghṛṇe āgatadīpte puṣaṇ te tvadīyā yā aṣṭrā ārā goopaśā/upaśerate ityopaśāḥ / gāva opaśā yasyāstādṛśī / ataeva paśusādhanī paśūnāṃ sādhayitrī bhavati te tvadīyāyāḥ tasyāḥ saṃbandhi sumnaṃ sukham īmahe yācāmahe’.[3]
 
-‘he āghṛṇe āgatadīpte puṣaṇ te tvadīyā yā aṣṭrā ārā goopaśā/upaśerate ityopaśāḥ / gāva opaśā yasyāstādṛśī / ataeva paśusādhanī paśūnāṃ sādhayitrī bhavati te tvadīyāyāḥ tasyāḥ saṃbandhi sumnaṃ sukham īmahe yācāmahe’.[3]
-
 In the same text, Pūṣan is prayed for giving wide pastures.[4] Indra, who nourishes and guards the cows, feeding them with grass, is also praised as a good herdsman.[5]
 
 Sāyaṇācārya explains this context in the commentary as follows—
-
-‘he indra tvaṃ gambhīrān mahāvakāśān udadhīn samudrān udakairyathā poṣayasi tadvat kratuṃ yajñasya kartāramimaṃ yajamānamabhimataphalapradānena puṣyasi poṣayasi/atra dṛṣṭāntaḥ/ yathā sugopāḥ samīcīno gopālaḥ yavasena gāḥ poṣayati tadvat/yathā dhenavaḥ yavasaṃ tṛṇādikaṃ prāpnuvanti tadvat tvaṃ somān prāpnoṣi/te sa somāḥ kulyāiva kṛtrimsaritaḥ hradaṃ mahājalāśayaṃ yathā prāpnuvanti tadvat tvām pra āśata vyāpnuvanti.’[6]
 
 ‘he indra tvaṃ gambhīrān mahāvakāśān udadhīn samudrān udakairyathā poṣayasi tadvat kratuṃ yajñasya kartāramimaṃ yajamānamabhimataphalapradānena puṣyasi poṣayasi/atra dṛṣṭāntaḥ/ yathā sugopāḥ samīcīno gopālaḥ yavasena gāḥ poṣayati tadvat/yathā dhenavaḥ yavasaṃ tṛṇādikaṃ prāpnuvanti tadvat tvaṃ somān prāpnoṣi/te sa somāḥ kulyāiva kṛtrimsaritaḥ hradaṃ mahājalāśayaṃ yathā prāpnuvanti tadvat tvām pra āśata vyāpnuvanti.’[6]
 
@@ -7368,13 +6631,9 @@ This idea is interpreted by Sāyaṇācārya thus—
 
 ‘gavām/atra gośabdena gṛṣṭyo vivakṣitāḥ/gṛṣṭīnāṃ kṣīram abhinavaṃ payaḥ ājyena saṃ siñcāmi gavāṃ kṣīraṃ sam ājyena saṃpātayāmi/tathā ājyena valaṃ valakaram annaṃ rasam udakaṃ ca valakaraṃ rasameva vā/saṃ ciñcāmīti saṃbandhaḥ/asmākaṃ vīrāḥ putrādyāḥ saṃsiktāḥ ghṛtādinā saṃsiktaśarīrāḥ dṛḍhagātrāḥ/ bhavantu iti śeṣaḥ/tadarthaṃ gopatau gosvāmini mayi gāvaḥ dhruvāḥ sthirā bhavantu’.[10]
 
-‘gavām/atra gośabdena gṛṣṭyo vivakṣitāḥ/gṛṣṭīnāṃ kṣīram abhinavaṃ payaḥ ājyena saṃ siñcāmi gavāṃ kṣīraṃ sam ājyena saṃpātayāmi/tathā ājyena valaṃ valakaram annaṃ rasam udakaṃ ca valakaraṃ rasameva vā/saṃ ciñcāmīti saṃbandhaḥ/asmākaṃ vīrāḥ putrādyāḥ saṃsiktāḥ ghṛtādinā saṃsiktaśarīrāḥ dṛḍhagātrāḥ/ bhavantu iti śeṣaḥ/tadarthaṃ gopatau gosvāmini mayi gāvaḥ dhruvāḥ sthirā bhavantu’.[10]
-
 The cow was the symbol of wealth and prosperity in the life of Vedic people. According to the Atharvaveda all deities reside in a cow. It is omnipresent.[11] The Ṛgveda states that Cow is a great source of wealth and has positive impact on environment.[12]
 
 This idea is elaborated by Sāyaṇācārya as—
-
-‘gāvaḥ eva mahyaṃ bhagaḥ dhanaṃ bhavantu/indraḥ ca me mahyaṃ gāvaḥ gāḥ acchān yacchatu/ gāvaḥ prathamasya haviṣāṃ śreṣṭhasya somasya bhakṣaḥ bhakṣaṇaṃ bhavantu/abhiṣutasya hi somasya gavyenājyādinā saṃskriyamāṇatvāt/he janāsaḥ janāḥ imāḥ evaṃbhūtāḥ yā gāvaḥ santi saḥ/ tā ityarthaḥ/tā eva gāvaḥ indraḥ bhavanti/dadhighṛtādirūpeṇa indrasyāpyāyanatvāt/evaṃbhūtaṃ indraṃ hṛdā śraddhāyuktena manasā cit/cidityapyarthe/icchāmīt kāmaya eva/sādhanabhūtābhirgobhiḥ evaṃbhūtamindraṃ yaṣṭumicchāmītyarthaḥ.’[13]
 
 ‘gāvaḥ eva mahyaṃ bhagaḥ dhanaṃ bhavantu/indraḥ ca me mahyaṃ gāvaḥ gāḥ acchān yacchatu/ gāvaḥ prathamasya haviṣāṃ śreṣṭhasya somasya bhakṣaḥ bhakṣaṇaṃ bhavantu/abhiṣutasya hi somasya gavyenājyādinā saṃskriyamāṇatvāt/he janāsaḥ janāḥ imāḥ evaṃbhūtāḥ yā gāvaḥ santi saḥ/ tā ityarthaḥ/tā eva gāvaḥ indraḥ bhavanti/dadhighṛtādirūpeṇa indrasyāpyāyanatvāt/evaṃbhūtaṃ indraṃ hṛdā śraddhāyuktena manasā cit/cidityapyarthe/icchāmīt kāmaya eva/sādhanabhūtābhirgobhiḥ evaṃbhūtamindraṃ yaṣṭumicchāmītyarthaḥ.’[13]
 
@@ -7386,13 +6645,9 @@ According to Sāyaṇācārya—
 
 ‘he mahāmaha mahādhanendra gavyā /asmākaṃ gavāmicchayā asmākaṃ gā dātuṃ yathā purā pūrvaṃ yathāsmākaṃ gavādidānāya varivasyasi tadvadadyāpi su suṣṭhu varivasya paricara/āgacchetyarthaḥ/na kevalaṃ gavecchayā kiṃtu acchayā aśvapradānecchayā /uta api ca rathayā rathecchayā ca varivasyeti’.[16]
 
-‘he mahāmaha mahādhanendra gavyā /asmākaṃ gavāmicchayā asmākaṃ gā dātuṃ yathā purā pūrvaṃ yathāsmākaṃ gavādidānāya varivasyasi tadvadadyāpi su suṣṭhu varivasya paricara/āgacchetyarthaḥ/na kevalaṃ gavecchayā kiṃtu acchayā aśvapradānecchayā /uta api ca rathayā rathecchayā ca varivasyeti’.[16]
-
 The seer in the Ṛgveda prays the cows not to be lost; thief may not carry them away; may no weapon fall upon them.[17] The Atharvavedic seer has devoted a complete hymn of seven mantras to the extollation of cows.[18] Here the seer prays that may the cows stay in the stall (goṣṭha) with great pleasure and may they be rich in progenies there.[19] The seer in the Śukla Yajurveda refers to cow milking with ease and providing plentiful milk and ghee.[20] There are several references of mahiṣa (male buffalo) and mahiṣī (female buffalo) in the Vedas.[21] Female buffaloes were used for milk and the males were used for carrying load; their dung was used as manure.[22] The horse was called vāha, aśva, arvat, the mare was known as aśvā and arvatī and the mule was called aśvatara.[23] The seer in the Ṛgveda advises to satisfy the horses and achieve the good work of ploughing.[24]
 
 Sāyaṇācārya explains this thus—
-
-he ṛtvijo yūyam aśvān vyāpanaśīlān balīvardān prīṇīta ucitaghāsodakādipradānena prīṇayata/yathā kṣetrakarṣaṇāya prabhavanti tathā kurutetyarthaḥ/ tathā kṛtvā hitaṃ cayanāyocitaṃ karṣaṇaṃ jayātha jayatha sampādayatha/tathā rathaṃ cayanākhyaṃ halākhyaṃ vā svastivāhaṃ it sukhasya vāhakameva kṛṇudhvaṃ kurudhvam//[25]
 
 he ṛtvijo yūyam aśvān vyāpanaśīlān balīvardān prīṇīta ucitaghāsodakādipradānena prīṇayata/yathā kṣetrakarṣaṇāya prabhavanti tathā kurutetyarthaḥ/ tathā kṛtvā hitaṃ cayanāyocitaṃ karṣaṇaṃ jayātha jayatha sampādayatha/tathā rathaṃ cayanākhyaṃ halākhyaṃ vā svastivāhaṃ it sukhasya vāhakameva kṛṇudhvaṃ kurudhvam//[25]
 
@@ -7402,13 +6657,7 @@ Mahīdhara elaborates this verse as follows—
 
 ‘iha gṛheṣu gāva upahūtāḥ dhenavo balīvardāśca sukhena tiṣṭhantvityevamanujñātāḥ/yathā iha gṛheṣu ajāvayaḥ upahūtāḥ ajātvāvitvajātidvayayuktāḥ paśava upahūtāḥ sukhena vartantāmityasmābhiranujñātāḥ/atho apica annasya kīlālaḥ annasaṃbandhī rasaviśeṣo no’smadīyeṣu gṛheṣu upahūtaḥ samṛddho bhavatvityevamasmābhiranujñātaḥ.’[28]
 
-‘iha gṛheṣu gāva upahūtāḥ dhenavo balīvardāśca sukhena tiṣṭhantvityevamanujñātāḥ/yathā iha gṛheṣu ajāvayaḥ upahūtāḥ ajātvāvitvajātidvayayuktāḥ paśava upahūtāḥ sukhena vartantāmityasmābhiranujñātāḥ/atho apica annasya kīlālaḥ annasaṃbandhī rasaviśeṣo no’smadīyeṣu gṛheṣu upahūtaḥ samṛddho bhavatvityevamasmābhiranujñātaḥ.’[28]
-
 Varāha i.e., pig is mentioned as strong and purifying animal in the Ṛgveda.[29] Besides the above animals the Vedic texts also mentioned about elephants, camels, donkeys and dogs etc. The elephants were used for riding.[30] The camels were used for drawing carts and for gifts.[31] The donkeys were used for carrying loads.[32] The dogs were used for guarding cattle and houses.[33]
-
-Footnotes and references:
-
-[back to top]
 
 [1]:
 
@@ -7581,15 +6830,9 @@ namaḥ śvabhyaḥ śvapatibhyaśca/ Vājasaneyī Saṃhitā , 16.28
 
 ## 62. Part 3 - Animal Husbandry in the Purāṇas
 
-
 Agriculture and Animal husbandry in the Puranas
 
-by Purboshri Borpuzari | 2019 | 74,328 words
-
 This page relates ‘Animal Husbandry in the Puranas’ of the study on agriculture and animal husbandry in the Puranas—a category of Sanskrit literature describing the culture and heritage of ancient Indian society. Besides detailing animal care, the six chapters of this essay also documents various Puranic agricultural science: ploughing, sowing, soil-types/fertility tests, transplantation, manuring, irrigation/water-management, tanks, rainfall–Sun dependence, horticulture, plus crop lists (e.g., Vrihi, Yava, Godhuma) and festivals/rites.
-
-Go directly to: 
-Footnotes.
 
 Part 3 - Animal Husbandry in the Purāṇas
 
@@ -7598,10 +6841,6 @@ In Purānic India animals were held in high esteem. Owning cattle meant possessi
 The Purāṇas mention about paśu in various places.[4] Devapaśus, indicate the animals intended for temples and other religious purposes.[5] The Purāṇas specially the Agni Purāṇa, the Viṣṇu Purāṇa, the Garuḍa Purāṇa, and the Matsya Purāṇa deal with the care and management of animals. Various rites were performed for the welfare of animals. The Bhāgavaṭa Purāṇa advises that one should regard beasts, camels, donkeys, monkeys, rats, serpents, birds and flies as his own sons, and therefore, these should not be driven out of house or fields if they enter and begin to eat; because there is very little difference between them and his sons.[6] It is mentioned in the Matsya Purāṇa that, when a monarch builds a beautiful house for himself, he should have his residence full of the various things obtained from elephants, cows, donkeys, camels, horses, buffaloes and deer etc. A king should carefully conserve such things in his fort.[7] Among the seven highly esteemed gems (saptaratnāni) of all the paramount sovereigns, horses, elephants and chariots were also included.[8] Again, the horse and the elephant cubs or camel cubs were considered jewels among the seven jewels full of life.[9] It is suggested in the Agni Purāṇa that a man who wishes an increase of domestic animals should recite the Ṛk, which begins with vayaḥ suparṇā.[10] Stealing domestic animals was considered an offence in the Purāṇas.It is clearly mentioned that a man who steals cows, buffaloes and horses of a Brāhmaṇa should be immediately punished by a king.[11] Animals indicated a good chance of success in the Purāṇic period. According to the Garuḍa Purāṇa, deer, monkey, cat, dog, pig, bird, mongoose and mouse, when seen on the right side, at the time of departure, were considered auspicious.[12] The Purāṇas are the storehouse of traditional medicines prescribed for the treatment of various animal diseases like diarrhea, fatigue, cough, hematuria, diseases of horn, pain in head and teeth, wounds, bronchitis, abscess, anemia, arthritis, cold, constipation, digestive ailments, dysentery, infection of ears, tooth, throat, heart and navel, parasite/verminous diseases, less milk production, rabies, retention of urine, rheumatism, rhinitis, skin infection, sprain, stomach worms, urinary colic, etc. Before the arrival of the modern allopathic system of medicine, people were largely dependent on locally available plant resources to meet their medicinal requirements.This system of medicine is given the term ethno-medicine and ethno-veterinary medicine. In case of human treatment it is termed as ethnomedicine and in case of treatment of farm and domestic animals it is termed as ethno-veterinary medicine. The Purāṇas especially the Matsya Purāṇa, the Agni Purāṇa, and the Garuḍa Purāṇa prescribe the ethno-veterinary medicines. Modern veterinary doctors also follow some traditional treatment prescribed by the Purāṇas. An attempt has been made in this chapter to discuss the diseases of animals as well as their remedies.
 
 The Agni Purāṇa sorts out the characteristics of the elephants, the ways of caring, their food, and prescribes herbs for curing diseases[13]. The same Purāṇa describes the nature, traits, the methods of controlling of the horses and the training of the horses.[14] Moreover, the Agni Purāṇa also deals with the diseases and the treatments of the horses.[15] It prescribes the ways of breeding of the horses and the methods of worship for the good of horses in addition to medicines.[16] The methods of doing well to elephants, the utility of the rearing of cows, their diseases and treatments are also described by the same Purāṇa.[17] The chapter Gavāyurvedaḥ[18] of the Agni Purāṇa deals with treatment of the cows. The treatment of horses and elephants are also dealt with in the Garuḍa Purāṇa[19]
-
-Footnotes and references:
-
-[back to top]
 
 [1]:
 
@@ -7701,15 +6940,9 @@ Garuḍa Purāṇa , 1.201
 
 ## 63. Part 5 - The Cow in the Purāṇas—Introduction
 
-
 Agriculture and Animal husbandry in the Puranas
 
-by Purboshri Borpuzari | 2019 | 74,328 words
-
 This page relates ‘Cow in the Puranas—Introduction’ of the study on agriculture and animal husbandry in the Puranas—a category of Sanskrit literature describing the culture and heritage of ancient Indian society. Besides detailing animal care, the six chapters of this essay also documents various Puranic agricultural science: ploughing, sowing, soil-types/fertility tests, transplantation, manuring, irrigation/water-management, tanks, rainfall–Sun dependence, horticulture, plus crop lists (e.g., Vrihi, Yava, Godhuma) and festivals/rites.
-
-Go directly to: 
-Footnotes.
 
 Part 5 - The Cow in the Purāṇas—Introduction
 
@@ -7722,16 +6955,9 @@ They are the holiest and the best of all auspicious sights. They are the steppin
 gāvaḥ pavitraṃ paramaṃ gāvo māṅgalyamuttamam/ 
 gāvaḥ svargasya sopānaṃ gāvo dhanyāḥ sanātanāḥ//[17]
 
-gāvaḥ pavitraṃ paramaṃ gāvo māṅgalyamuttamam/ 
-gāvaḥ svargasya sopānaṃ gāvo dhanyāḥ sanātanāḥ//[17]
-
 Cows are mentioned as the abodes of all beauty, they are also considered the holiest daughters of the god of creation i.e. Prajāpati.[18] The cows and the Brāhmaṇas form the two branches of the same family. The mantras reside in the Brāhmaṇas and the libations reside in the cows.[19] In the Garuḍa Purāṇa, the Lord prays that the cows may remain ever in his heart.May the cow, the majesty of all living beings, dispel his sins. Again the Goddess Lakṣmī is prayed to assume the form of a cow and remove the sins.[20] Even the cow-stall was also considered sacred in the Purāṇas.
 
 At the śrāddha ceremony if fire is not available to offer into, then the offering may be placed in a cow-stall.[21] The Agni Purāṇa enjoins that the pools from where a cow would drink should be regarded as a holy place.[22] The ground on which cow stands upon was considered sacred. No sort of diseases could spoil that ground which was purified by the breath of a cow.[23] If a cow comes in front in the course of journey, it was deemed as a good scene.[24] The tail of a cow was waved round the face of a person for auspiciousness. The term gopucchabhramaṇam, indicates waving of cow’s tail over children to remove fear from their minds, which was an ancient Yādava practice.[25] Goḥ karīṣam refers to dried cow dung placed on the head of afflicted children to remove evils; which was also an ancient Yādava practice.[26] Yakṣī, one of the ten pīṭhas for images with three mekhalās, is the Vedī of prosperity.It gives one plenty of cows.[27]
-
-Footnotes and references:
-
-[back to top]
 
 [1]:
 
@@ -7856,25 +7082,15 @@ gopradā ca bhavedyakṣī vedī sampatpradā bhavet/ Matsya Purāṇa ,262.17,6
 
 ## 64. Part 8 - Rearing and Tending cattle
 
-
 Agriculture and Animal husbandry in the Puranas
 
-by Purboshri Borpuzari | 2019 | 74,328 words
-
 This page relates ‘Rearing and Tending cattle’ of the study on agriculture and animal husbandry in the Puranas—a category of Sanskrit literature describing the culture and heritage of ancient Indian society. Besides detailing animal care, the six chapters of this essay also documents various Puranic agricultural science: ploughing, sowing, soil-types/fertility tests, transplantation, manuring, irrigation/water-management, tanks, rainfall–Sun dependence, horticulture, plus crop lists (e.g., Vrihi, Yava, Godhuma) and festivals/rites.
-
-Go directly to: 
-Footnotes.
 
 Part 8 - Rearing and Tending cattle
 
 Reference is met with in the Viṣṇu Purāṇa that Dāmodara i.e., Kṛṣṇa himself being a cow-boy was engaged in tending cattle.[1] In the Viṣṇu Purāṇa, Lord Kṛṣṇa was called as Govinda. The Śabdakalpadruma[2] defines the term govinda as -gāṃ pṛthvīṃ dhenuṃ vā vindatīti i.e., Govinda is he who knows, finds or tends cattle. As Kṛṣṇa preserved the cattle of Gokula by raising up Govardhana, the chief of mountains, so Indra being grateful, installed Kṛṣṇa as Upendra. As Kṛṣṇa was Indra of the cows, so he was called as Govinda.[3]
 
 References of cowherds and their residence are met with in the Purāṇas.The Viṣṇu Purāṇa refers to the place Vraja (Gokula), which was the residence of cowherds.[4] Goṣṭha indicates the residential quarters of cowherds.[5] Bhāṇḍīravaṭa, was the sporting ground of the cow-herds.[6] Bṛhadvana was the forest of Nandagopa where he stocked his cows and cattle.[7] Giriyajña refers to the cult of mountains;appropriate for the environment of cow-herds.[8] Goyajña signifies the cult of cattle appropriate to the profession of a pastoral tribe.[9] Vṛndāvana,[10] which was a virgin forest track, along with Govardhana hill (nearby), pasturage, trees and plants, was suitable for cattle and was fit to be a happy settlement for milk-men and women.
-
-Footnotes and references:
-
-[back to top]
 
 [1]:
 
@@ -7924,15 +7140,9 @@ Bhāgavata Purāṇa , 10.11.27,35-36
 
 ## 65. Part 6 - Treatment and Care of Cow (according to Purāṇas)
 
-
 Agriculture and Animal husbandry in the Puranas
 
-by Purboshri Borpuzari | 2019 | 74,328 words
-
 This page relates ‘Treatment and Care of Cow (according to Puranas)’ of the study on agriculture and animal husbandry in the Puranas—a category of Sanskrit literature describing the culture and heritage of ancient Indian society. Besides detailing animal care, the six chapters of this essay also documents various Puranic agricultural science: ploughing, sowing, soil-types/fertility tests, transplantation, manuring, irrigation/water-management, tanks, rainfall–Sun dependence, horticulture, plus crop lists (e.g., Vrihi, Yava, Godhuma) and festivals/rites.
-
-Go directly to: 
-Footnotes.
 
 Part 6 - Treatment and Care of Cow (according to Purāṇas)
 
@@ -7966,10 +7176,6 @@ Precautionary and curative measures have been elaborated in the Purāṇas for t
 2) Fumigation of the cow-house with the vapours of devadāru, vacā, māṃsī, guggula, hiṅgu and sarṣapa mixed together to keep safe from the evil effects of malignant planets.[15]
 
 3) To improve the sanitary condition of a cow-house, a piṇyāka tree ought to be planted.The Goddess Lakṣmī should be worshipped with cow dung on the
-
-Footnotes and references:
-
-[back to top]
 
 [1]:
 
@@ -8050,25 +7256,15 @@ grahādigadanāśāya eṣa dhūpo gavāṃ hitaḥ// Ibid., 292.33b-34a
 
 ## 66. Part 7 - The Worship of Cow and Go-vrata
 
-
 Agriculture and Animal husbandry in the Puranas
 
-by Purboshri Borpuzari | 2019 | 74,328 words
-
 This page relates ‘Worship of Cow and Go-vrata’ of the study on agriculture and animal husbandry in the Puranas—a category of Sanskrit literature describing the culture and heritage of ancient Indian society. Besides detailing animal care, the six chapters of this essay also documents various Puranic agricultural science: ploughing, sowing, soil-types/fertility tests, transplantation, manuring, irrigation/water-management, tanks, rainfall–Sun dependence, horticulture, plus crop lists (e.g., Vrihi, Yava, Godhuma) and festivals/rites.
-
-Go directly to: 
-Footnotes.
 
 Part 7 - The Worship of Cow and Go-vrata
 
 The Agni Purāṇa states that the gods, the Brāhmaṇas, the cows and the holy sages are the objects of the worship as they are the chief support of the universe.[1] A man having subjugated his senses, should worship the cows each morning, chanting the verses beginning as gavyaṣ uṇa, etc. whereby he would have numerous heads of cattle in his house.[2] Considering cattle as gods (gāvaḥ śailāśca devatāḥ)[3] the Viṣṇu Purāṇa refers to Circumambulation of the cows and the bulls in due course of religious rites.[4]
 
 The Agni Purāṇa mentions the name of the penance go-vrata. In this penance a man should wash his body with the urine of a cow, live on a diet which consists of the preparations of her milk, should look after a herd of cows, and eat his meals after the cows had been fed up. In this penance, one should observe such a life for continuous one month. By practicing this vow one would be freed from all sins and ascended the Goloka i.e. the region of Viṣṇu, after death.[5]
-
-Footnotes and references:
-
-[back to top]
 
 [1]:
 
@@ -8099,25 +7295,15 @@ māsenaikena niṣpāpo golokī sagaṇo bhavet/ Agni Purāṇa , 292.12-13a
 
 ## 67. Part 9 - Rites Performed for the Welfare of Cow
 
-
 Agriculture and Animal husbandry in the Puranas
 
-by Purboshri Borpuzari | 2019 | 74,328 words
-
 This page relates ‘Rites Performed for the Welfare of Cow’ of the study on agriculture and animal husbandry in the Puranas—a category of Sanskrit literature describing the culture and heritage of ancient Indian society. Besides detailing animal care, the six chapters of this essay also documents various Puranic agricultural science: ploughing, sowing, soil-types/fertility tests, transplantation, manuring, irrigation/water-management, tanks, rainfall–Sun dependence, horticulture, plus crop lists (e.g., Vrihi, Yava, Godhuma) and festivals/rites.
-
-Go directly to: 
-Footnotes.
 
 Part 9 - Rites Performed for the Welfare of Cow
 
 The Agni Purāṇa mentions the rites which grant peace for the cow. On the bright half of the month (Śuklapakṣa) of Āśvina the owner should propitiate Hari, Rudra, Aja, Sūrya (the Sun god), Śrī (goddess Lakṣmī), and Agni (the fire god) by offering clarified butter. He should take curds, worship the cows and perform a circumambulation to the sacrificial fire. He should give salt to the cows and Dakṣiṇās should be paid to the Brāhmaṇas.The rite should be closed with song, music and bull fight.[1]
 
 In the Naimittika form of the pacificatory rite, the god Viṣṇu should be worshipped at the centre of the lotus shaped mystic diagram, laid out on the ground. The Gods should be worshipped on the petals of the lotus shaped diagram. Ravi(the Sun god) and Bahurūpa should be worshipped on the edge of the outer surface of the circle.The heaven, the Viśva-rūpas, the Siddhis, the Riddhis, the goddess of peace, Rohiṇī, the cows of the different quarters of heaven should also be worshipped.The moon, Īśvara and Dikpālas should be worshipped in the leaves of the lotus shaped diagram and sticks(samidha) of kṣīra tree sinked in clarified butter should be poured on the fire in honour of them.Sun-dried rice and mustard seeds should also be mixed with the clarified butter. Gold (suvarṇa) and kāṃsya should be given to the Brāhmaṇas.The cows should be worshipped and released for peace.[2]
-
-Footnotes and references:
-
-[back to top]
 
 [1]:
 
@@ -8135,15 +7321,9 @@ Ibid., 292.39b-43
 
 ## 68. Part 12 - Pañcagavya (Produced from Cow) used in different occasions
 
-
 Agriculture and Animal husbandry in the Puranas
 
-by Purboshri Borpuzari | 2019 | 74,328 words
-
 This page relates ‘Pancagavya (Produced from Cow) used in different occasions’ of the study on agriculture and animal husbandry in the Puranas—a category of Sanskrit literature describing the culture and heritage of ancient Indian society. Besides detailing animal care, the six chapters of this essay also documents various Puranic agricultural science: ploughing, sowing, soil-types/fertility tests, transplantation, manuring, irrigation/water-management, tanks, rainfall–Sun dependence, horticulture, plus crop lists (e.g., Vrihi, Yava, Godhuma) and festivals/rites.
-
-Go directly to: 
-Footnotes.
 
 Part 12 - Pañcagavya (Produced from Cow) used in different occasions
 
@@ -8154,10 +7334,6 @@ Cow-urine also has medicinal value. Cow urine and the powder of viḍaṅga (Emb
 A diet consisting of the dung and urine of a cow, and the curd and kṣīra prepared from her milk is an absolution for a sinner like cāṇḍāla.[20] In the vow known as Mahāsāntapanavrata, for expiation of sins, which is observed for three days, it is advised to have a diet composed of the substances produced and discharged from the body of a cow as well as of the different items prepared from her milk.[21] Again in the vow known as Kṛcchrāti-kṛcchram which is observed for twenty-one days, the diet should consist of only the milk of a cow. It is stated in the Purāṇas that ancient seers attained purity and ascended heaven by practicing this penance.[22] In the penance known as Tapta-kṛcchram, the practiser should take warm urine for first three days, warm clarified butter for the second three days, warm milk for the third three days and air for the last three days. One who practised this penance attained purity and the region of Brahmā.[23] In the penance known as Śīta-kṛcchram, the diet should consist of same substances, but should be taken cold.[24]
 
 The word paya in the Purāṇa referred to cow’s milk for śrāddha.[25] It is said that the cow’s milk mixed with honey and rice cooked in cow’s milk, clarified butter made of cow’s milk offered even in small quantity, satisfies Pitṛs, the Pūrvadevatās, to the maximum possible extant.[26] Curd is associated with the gain of rains. If curds, honey and clarified butter are offered with the mantra apaḥ piva, it causes torrential rains.[27]
-
-Footnotes and references:
-
-[back to top]
 
 [1]:
 
@@ -8288,15 +7464,9 @@ pravartayati dharmajña mahāvṛṣṭimanantaram// Agni Purāṇa , 260.50-51
 
 ## 69. Part 11 - Cows Used as Gifts in Various Rituals
 
-
 Agriculture and Animal husbandry in the Puranas
 
-by Purboshri Borpuzari | 2019 | 74,328 words
-
 This page relates ‘Cows Used as Gifts in Various Rituals’ of the study on agriculture and animal husbandry in the Puranas—a category of Sanskrit literature describing the culture and heritage of ancient Indian society. Besides detailing animal care, the six chapters of this essay also documents various Puranic agricultural science: ploughing, sowing, soil-types/fertility tests, transplantation, manuring, irrigation/water-management, tanks, rainfall–Sun dependence, horticulture, plus crop lists (e.g., Vrihi, Yava, Godhuma) and festivals/rites.
-
-Go directly to: 
-Footnotes.
 
 Part 11 - Cows Used as Gifts in Various Rituals
 
@@ -8329,10 +7499,6 @@ The Agni Purāṇa also mentions the go-meru to be gifted away. In such a gift t
 God Agni states the significance of offering gifts of cows and buffaloes to the Brāhmaṇas. By making the gift of a cow, a man becomes long-lived and prosperous and ascends heaven after death.[9] The owner of ten cows should make the gift of one, the owner of a hundred cows should make a gift of ten, while the owner of a thousand cows should make a gift of hundred cows, and the merit would be the same in all the cases.[10] Again a man enjoys earthly prosperity or goes to heaven after death, by giving a bullock or a she-buffalo to a Brāhmaṇa.[11] Similarly by making the gift of a kapila cow at the sacred shrine known as the great Puṣkara (Jyeṣṭha Puṣkara), a man acquires the same merit as the one acquires from the gift of a bullock i.e. acquires heaven after death.[12] The Matsya Purāṇa mentions about Pitṛvrata which was performed in honour of pitṛs.It includes gifts of milching cows;the performer becomes the king of kings on earth(Rājarājaḥ).[13] The Hiraṇyakāmadhenu indicates the gift of a cow and a calf in gold (3 to 100 palas in weight)on an auspicious day with preliminary prayers to the deities; the giver enjoys heaven.[14] Gāndinī, the daughter of Kāśirāja and wife of the great king Śvaphalka, used to present a cow everyday to a Brāhmaṇa.[15]
 
 The word Ratnadhenu in the Matsya Purāṇa indicates the gift of a cow with precious gems set in every part of its body.It takes one to the world of Viṣṇu and makes him attain the place of Śambhu with his sons, grandsons, etc.[16] The term pañcadaśī in the Matsya Purāṇa indicates the fifteenth day of the Āśvina month for making gift of a cow. One who gives away the Nāradīya Purāṇa in charity,on the full-moon day of Āśvina, along with a cow, attains bliss, and is liberated from the cycles of birth.[17] In the Māheśvara vrata (Śiva Caturdaśī), which begins on the 13th day of the bright half of Mārgaśīrṣa in honour of Śaṃkara, a gold cow and calf is to be offered as present to a śrotriya; ladies who perform this with permission from husband attains bliss by the grace of Pinākapāṇi(the holder of Pināka bow)Śiva.[18] The performer of Ahiṃsāvrata, becomes a king; he who becoming vegetarian and leaving to eat meat for a year, gives away a cow at the end.[19] The term Gosahasra signifies the gift of cows, a thousand in number properly adorned with bronze milking vessels and a bull in the midst, leads one to Śiva’s abode.[20] The Matsya Purāṇa mentions about Kapila Dhenu, the brown cow fit for gift in honour of the sun.[21] Gift of Kapila Dhenu is equal to hearing ten chapters of the Viṣṇu Purāṇa.[22] Reference is met with in the Bhāgavāta Purāṇa that, Balarāma made a gift of ten thousand cows to Brāhmaṇas.[23] Gift of a cow in Vaitaraṇī, the devanadī (the divine river), secures release for twenty-one generation.[24] Goloka, is the residence of Surabhi, the wish yielding heavenly cow;givers of cow with calf go to this region.[25]
-
-Footnotes and references:
-
-[back to top]
 
 [1]:
 
@@ -8443,15 +7609,9 @@ Bhāgavata Purāṇa , 10.27.1; Vāyu Purāṇa , 100.159; 104.53-55; Matsya Pur
 
 ## 70. Part 4 - Classification of Animals
 
-
 Agriculture and Animal husbandry in the Puranas
 
-by Purboshri Borpuzari | 2019 | 74,328 words
-
 This page relates ‘Classification of Animals’ of the study on agriculture and animal husbandry in the Puranas—a category of Sanskrit literature describing the culture and heritage of ancient Indian society. Besides detailing animal care, the six chapters of this essay also documents various Puranic agricultural science: ploughing, sowing, soil-types/fertility tests, transplantation, manuring, irrigation/water-management, tanks, rainfall–Sun dependence, horticulture, plus crop lists (e.g., Vrihi, Yava, Godhuma) and festivals/rites.
-
-Go directly to: 
-Footnotes.
 
 Part 4 - Classification of Animals
 
@@ -8464,10 +7624,6 @@ The Bhāgavaṭa Purāṇa[5] mentions twenty-eight kinds of creatures.They are�
 (ii) Nine kinds which have double or cloven hoofs: the cow, the goat, the buffalo, the hog, the gayal, the black deer, the antelope, the camel and the sheep comes under this group.[7]
 
 (iii) Thirteen kinds which have five claws or nails instead of hoofs: the dog, jackal, wolf, tiger, cat, hare, porcupine, lion, monkey, elephant, tortoise, lizard and alligator come under this group.[8]
-
-Footnotes and references:
-
-[back to top]
 
 [1]:
 
@@ -8524,15 +7680,9 @@ siṃhaḥ kapirgajaḥ kūrmo godhā ca makarādayaḥ// Ibid., 3.10.22
 
 ## 71. Part 13 - The Bull in the Purāṇas
 
-
 Agriculture and Animal husbandry in the Puranas
 
-by Purboshri Borpuzari | 2019 | 74,328 words
-
 This page relates ‘Bull in the Puranas’ of the study on agriculture and animal husbandry in the Puranas—a category of Sanskrit literature describing the culture and heritage of ancient Indian society. Besides detailing animal care, the six chapters of this essay also documents various Puranic agricultural science: ploughing, sowing, soil-types/fertility tests, transplantation, manuring, irrigation/water-management, tanks, rainfall–Sun dependence, horticulture, plus crop lists (e.g., Vrihi, Yava, Godhuma) and festivals/rites.
-
-Go directly to: 
-Footnotes.
 
 Part 13 - The Bull in the Purāṇas
 
@@ -8580,10 +7730,6 @@ The white coloured bull with black head, ears, forehead, tuft of hair at the end
 Gift of Bull:
 
 The gift of a bull, has been recommended. According to the Agni Purāṇa, if a person releases a bull on a day of the month of Kārttika and fasts at night, he gets to the region of Śiva.[22] The term Vṛṣotsarga in the Purāṇas signifies the rules for the dedication of a bull. Bull and cow with its calf were intended for gift for all castes.Gift of Nīla bull at Gayā, was considered best for pitṛs.[23] Vārṣavratam leads to the world of Śiva; consists of dedication of a bull in the month of Kārttika.[24]
-
-Footnotes and references:
-
-[back to top]
 
 [1]:
 
@@ -8705,15 +7851,9 @@ kārttikyāṃ ca vṛṣotsargaṃ kṛtvā naktaṃ samācaret/
 
 ## 72. Part 14 - The Elephant in the Purāṇas
 
-
 Agriculture and Animal husbandry in the Puranas
 
-by Purboshri Borpuzari | 2019 | 74,328 words
-
 This page relates ‘Elephant in the Puranas’ of the study on agriculture and animal husbandry in the Puranas—a category of Sanskrit literature describing the culture and heritage of ancient Indian society. Besides detailing animal care, the six chapters of this essay also documents various Puranic agricultural science: ploughing, sowing, soil-types/fertility tests, transplantation, manuring, irrigation/water-management, tanks, rainfall–Sun dependence, horticulture, plus crop lists (e.g., Vrihi, Yava, Godhuma) and festivals/rites.
-
-Go directly to: 
-Footnotes.
 
 Part 14 - The Elephant in the Purāṇas
 
@@ -8755,10 +7895,6 @@ the roundness of figures (kānti),
 the eager to fight (saṃhanana),
 
 the power of tolerance (java).
-
-Footnotes and references:
-
-[back to top]
 
 [1]:
 
@@ -8833,23 +7969,13 @@ saptasthito gajaścedṛksaṅgrāme’rīñjayetsadā// Ibid., 287.4
 
 ## 73. Part 10 - Expiation for Killing a Cow
 
-
 Agriculture and Animal husbandry in the Puranas
 
-by Purboshri Borpuzari | 2019 | 74,328 words
-
 This page relates ‘Expiation for Killing a Cow’ of the study on agriculture and animal husbandry in the Puranas—a category of Sanskrit literature describing the culture and heritage of ancient Indian society. Besides detailing animal care, the six chapters of this essay also documents various Puranic agricultural science: ploughing, sowing, soil-types/fertility tests, transplantation, manuring, irrigation/water-management, tanks, rainfall–Sun dependence, horticulture, plus crop lists (e.g., Vrihi, Yava, Godhuma) and festivals/rites.
-
-Go directly to: 
-Footnotes.
 
 Part 10 - Expiation for Killing a Cow
 
 The penance of killing a cow is as follows: The cow killer should drink barley soup for a month; he should stay in the cow-stall for that time, wearing the hide of the same cow. He should also eat once in four times without salt. Moreover, he should take bath with cow-urine for two months with full control over senses.[1] Rodha is a kind of hell; here falls slayers (killers) of cow.[2] Viśasana is one of the twenty-eight hells. It is a slaughter house for hypocritical sacrificers of animals.[3] Śūdrahatyā vratam is the vow for injuring bony animals. Killing animals having bones was considered a sin and to purify himself of such a sin one should observe the Śūdrahatyā vratam and also make some gift to a Brāhmaṇa.[4] Suvarṇam is a golden coin; a fine of hundred Suvarṇas for one who having been paid a wage, but does not protect the cow or milks it or uses it; besides he is liable to be bound by iron chains and made to work for his master.[5]
-
-Footnotes and references:
-
-[back to top]
 
 [1]:
 
@@ -8878,15 +8004,9 @@ Ibid., 227.23-24
 
 ## 74. Part 17 - Kingdoms Noted for Elephants and Kings Who Had Elephants
 
-
 Agriculture and Animal husbandry in the Puranas
 
-by Purboshri Borpuzari | 2019 | 74,328 words
-
 This page relates ‘Kingdoms Noted for Elephants and Kings Who Had Elephants’ of the study on agriculture and animal husbandry in the Puranas—a category of Sanskrit literature describing the culture and heritage of ancient Indian society. Besides detailing animal care, the six chapters of this essay also documents various Puranic agricultural science: ploughing, sowing, soil-types/fertility tests, transplantation, manuring, irrigation/water-management, tanks, rainfall–Sun dependence, horticulture, plus crop lists (e.g., Vrihi, Yava, Godhuma) and festivals/rites.
-
-Go directly to: 
-Footnotes.
 
 Part 17 - Kingdoms Noted for Elephants and Kings Who Had Elephants
 
@@ -8895,10 +8015,6 @@ Anuparvatam situated between the Lauhitya and Sindhu is the forest noted for Pad
 Elephants Used for Chariots:
 
 Airāvata, the lord of elephants (Gajendra), which was a species of white elephants with four tusks and was the vehicle of Indra, travelled in the sun’s chariot during the month of Kārtika.[9] At the time of the churning of the ocean of milk, when the elephant Airāvata came out, Lord Indra took him and employed him as his vehicle.[10] Añjana, the elephant belonging to Saṃkīrṇa variety, was the vehicle of Yama, Supratika was the vehicle of Varuṇa,Padma was the vehicle of Kuvera and Vāmana was the vehicle of Agni.[11] Demon Nimi had a chariot of elephants.[12]
-
-Footnotes and references:
-
-[back to top]
 
 [1]:
 
@@ -8953,15 +8069,9 @@ Matsya Purāṇa ,148.42,51
 
 ## 75. Part 16 - Rites Performed for the Welfare of Elephants
 
-
 Agriculture and Animal husbandry in the Puranas
 
-by Purboshri Borpuzari | 2019 | 74,328 words
-
 This page relates ‘Rites Performed for the Welfare of Elephants’ of the study on agriculture and animal husbandry in the Puranas—a category of Sanskrit literature describing the culture and heritage of ancient Indian society. Besides detailing animal care, the six chapters of this essay also documents various Puranic agricultural science: ploughing, sowing, soil-types/fertility tests, transplantation, manuring, irrigation/water-management, tanks, rainfall–Sun dependence, horticulture, plus crop lists (e.g., Vrihi, Yava, Godhuma) and festivals/rites.
-
-Go directly to: 
-Footnotes.
 
 Part 16 - Rites Performed for the Welfare of Elephants
 
@@ -8971,10 +8081,6 @@ The gods should be invoked and worshipped on the edge of the outer surface of th
 
 Then the priest who is familiar with the influences of stars and the significance of the time (kālavit), should ride on a female elephant and addressing her as the queen of elephant speak to her that he has performed this pacificatory rite.The king has made her the chief of his stable and he will worship her with flower-garlands and perfumes. Obeying the order of the king the people will also worship her.The elephant may protect the king in battle and home. Giving up her animal nature she may remember her divine origin.The gods created the heavenly elephants on the occasion of the war between them and the demons.Again, Ariṣṭa, who was the son of Airāvata derived the strength and the quality of showing good judgement from his divine father. Developing all these qualities the elephant may protect the king in battle.[5]
 Consecrating the elephant thus, the king should ride on its back and the warriors with their weapons should follow him. Again a mystical diagram should be placed on the ground of the elephant shed and the Dikpālas should be worshipped at its centre. Moreover, Godess Earth and Sarasvatī, Bala, Nāga should also be worshipped at its petals. The hand-drum should be worshipped and flowers, perfumes and garlands should also be offered to it.Libations in honour of the gods, should be poured on the fire. Pitchers full of juice should be given to a Brāhmaṇa.The superintendent of the elephants, the groom and the astrologer should be worshipped. Then the hand-drum should be given to the superintendent of the elephants who by beating it would greet his king with the continuous deep sound.[6]
-
-Footnotes and references:
-
-[back to top]
 
 [1]:
 
@@ -9004,23 +8110,13 @@ Ibid., 291.21-24
 
 ## 76. Part 18 - Elephants Used for Gifts
 
-
 Agriculture and Animal husbandry in the Puranas
 
-by Purboshri Borpuzari | 2019 | 74,328 words
-
 This page relates ‘Elephants Used for Gifts’ of the study on agriculture and animal husbandry in the Puranas—a category of Sanskrit literature describing the culture and heritage of ancient Indian society. Besides detailing animal care, the six chapters of this essay also documents various Puranic agricultural science: ploughing, sowing, soil-types/fertility tests, transplantation, manuring, irrigation/water-management, tanks, rainfall–Sun dependence, horticulture, plus crop lists (e.g., Vrihi, Yava, Godhuma) and festivals/rites.
-
-Go directly to: 
-Footnotes.
 
 Part 18 - Elephants Used for Gifts
 
 The elephants too were used for gift.The word hemahastiratha indicates the gift of a chariot with elephants in gold on an auspicious day with prayers to all deities which takes one to the abode of Lord Viṣṇu.[1] Vināyakavrata is the vrata in honour of Vināyaka. It bestows Śivaloka; one who observes this vrata and gives away a golden elephant on the fourth day of the moon (Caturthī tithi), achieves the place of Śiva.[2]
-
-Footnotes and references:
-
-[back to top]
 
 [1]:
 
@@ -9034,15 +8130,9 @@ Ibid., 101.61
 
 ## 77. Part 20 - Management of Horses
 
-
 Agriculture and Animal husbandry in the Puranas
 
-by Purboshri Borpuzari | 2019 | 74,328 words
-
 This page relates ‘Management of Horses’ of the study on agriculture and animal husbandry in the Puranas—a category of Sanskrit literature describing the culture and heritage of ancient Indian society. Besides detailing animal care, the six chapters of this essay also documents various Puranic agricultural science: ploughing, sowing, soil-types/fertility tests, transplantation, manuring, irrigation/water-management, tanks, rainfall–Sun dependence, horticulture, plus crop lists (e.g., Vrihi, Yava, Godhuma) and festivals/rites.
-
-Go directly to: 
-Footnotes.
 
 Part 20 - Management of Horses
 
@@ -9055,10 +8145,6 @@ The Agni Purāṇa enjoins that the whip should be most economically used; a hor
 A wise man should relax and ride a horse that raises its head from its knee onwards.One should ride a horse till its limbs are light.[17] A horse that is soft at its shoulder, light at its face and flexible in its joints, when becomes controlled by the rider, then it should be tamed.[18] A horse that does not kick up its back leg, should be deemed as gentle and obedient (na tyajetpaścimaṃ pādaṃ yadā sādhu bhavettadā) and should be then drawn forward by the rein or its forelock (tadākṛṣṭirvidhātavyā pāṇibhyāmiha valgayā).[19] A horse that lift up its head with flanks outstretched and eyes fixed to the sky and does not move when accordingly drawn, but jerks his body and swings its neck, should be brought under control by means of a rein and a bridle.[20]
 
 The Agni Purāṇa mentions the four sorts of political measures such asconciliation, division, punishment and gift–which may be emblematically expanded to hold good quality in the administration of a horse. Here conciliation would mean stroking. Division would denote separation from the companions of the stud. Punishment would incorporate whipping and so forth, while gift would imply long sufferingness or an act of restricting time.[21] Each succeeding measure should be taken on the disappointment of the former one. In the case of a riding horse, the reins should be attached to the loops of the curb lying on the tips of its jaws and the horse should be pulled to take the curb in its mouth.[22] On account of an ulcerated lip, the curb or the string controlling the tongue of the animal should be barred. The string ought to be clutched on until the horse would surrender the ferocious habit of jumping.[23] The string ought to be tied up more tightly in the case where the horse throws up it face on the slightest nose and shies and tries to lock at seeing an interesting object and the rider should always be alert to recognize such endeavours of horse as early as possible.[24] The left fore-leg should be tied with the curb to the left rear leg of a horse of ill-behaved habit, which should be driven by means of the left curb.[25] It is the nature of a horse to turn his face, once in a while and it ought not to be faulted for to the tying of his legs as stated above.[26]
-
-Footnotes and references:
-
-[back to top]
 
 [1]:
 
@@ -9187,15 +8273,9 @@ na caivetthaṃ turaṅgāṇāṃ pādagrahaṇahetavaḥ// Ibid., 288.3
 
 ## 78. Part 19 - Horse in the Purāṇas—Introduction
 
-
 Agriculture and Animal husbandry in the Puranas
 
-by Purboshri Borpuzari | 2019 | 74,328 words
-
 This page relates ‘Horse in the Puranas—Introduction’ of the study on agriculture and animal husbandry in the Puranas—a category of Sanskrit literature describing the culture and heritage of ancient Indian society. Besides detailing animal care, the six chapters of this essay also documents various Puranic agricultural science: ploughing, sowing, soil-types/fertility tests, transplantation, manuring, irrigation/water-management, tanks, rainfall–Sun dependence, horticulture, plus crop lists (e.g., Vrihi, Yava, Godhuma) and festivals/rites.
-
-Go directly to: 
-Footnotes.
 
 Part 19 - Horse in the Purāṇas—Introduction
 
@@ -9305,13 +8385,6 @@ The seasons winter, the spring, and the forepart of the cold months, are the mos
 
 hemantaḥ śiśiraścaiva vasantaścāścavāhane/ 
 grīṣme śaradi varṣāsu niṣiddhaṃ vāhanaṃ haye//[37]
-
-hemantaḥ śiśiraścaiva vasantaścāścavāhane/ 
-grīṣme śaradi varṣāsu niṣiddhaṃ vāhanaṃ haye//[37]
-
-Footnotes and references:
-
-[back to top]
 
 [1]:
 
@@ -9488,15 +8561,9 @@ Ibid., 288.3
 
 ## 79. Part 15 - Management and Treatment of Elephants
 
-
 Agriculture and Animal husbandry in the Puranas
 
-by Purboshri Borpuzari | 2019 | 74,328 words
-
 This page relates ‘Management and Treatment of Elephants’ of the study on agriculture and animal husbandry in the Puranas—a category of Sanskrit literature describing the culture and heritage of ancient Indian society. Besides detailing animal care, the six chapters of this essay also documents various Puranic agricultural science: ploughing, sowing, soil-types/fertility tests, transplantation, manuring, irrigation/water-management, tanks, rainfall–Sun dependence, horticulture, plus crop lists (e.g., Vrihi, Yava, Godhuma) and festivals/rites.
-
-Go directly to: 
-Footnotes.
 
 Part 15 - Management and Treatment of Elephants
 
@@ -9551,18 +8618,11 @@ Regarding the bed of an elephant it is stated there in the Agni Purāṇa that t
 śayyāsthānaṃ bhaveccāsya karīṣaiḥ pāṃsubhistathā/
 śarannidāghayoḥ sekaḥ sapirṣā ca tatheṣyate// [31]
 
-śayyāsthānaṃ bhaveccāsya karīṣaiḥ pāṃsubhistathā/
-śarannidāghayoḥ sekaḥ sapirṣā ca tatheṣyate// [31]
-
 Care Taken for War-Elephants:
 
 For victory in battle the body of the war-elephants should be fumigated with the vapour of kaṭu matsya, viḍaṅga, kṣāra(alkali),milk and haridrā.[32] A paste made of the waste matter of a sparrow or a pigeon and the sticky substance discharged from a kṣīra tree should be applied along the eyelids of elephants.This would make the elephant happy in a battle.[33]
 
 A liniment composed of pippala, oil, rice, madhvikā and makṣikā applied along the eyelids of an elephant, sharpens its eyesight.[34] The petals of blue lotus, muṣṭa and tagara crushed into a paste, mixing the water which is used to wash rice to it, would be beneficial for elephant’s eyes.Anointing with oil is the best remedy for a broken nail.[35]
-
-Footnotes and references:
-
-[back to top]
 
 [1]:
 
@@ -9733,15 +8793,9 @@ nakhavṛddhau nakhacchedastailasekaśca māsyapi// Ibid.,287.31b-32
 
 ## 80. Part 23 - Kingdoms Noted for Horses
 
-
 Agriculture and Animal husbandry in the Puranas
 
-by Purboshri Borpuzari | 2019 | 74,328 words
-
 This page relates ‘Kingdoms Noted for Horses’ of the study on agriculture and animal husbandry in the Puranas—a category of Sanskrit literature describing the culture and heritage of ancient Indian society. Besides detailing animal care, the six chapters of this essay also documents various Puranic agricultural science: ploughing, sowing, soil-types/fertility tests, transplantation, manuring, irrigation/water-management, tanks, rainfall–Sun dependence, horticulture, plus crop lists (e.g., Vrihi, Yava, Godhuma) and festivals/rites.
-
-Go directly to: 
-Footnotes.
 
 Part 23 - Kingdoms Noted for Horses
 
@@ -9750,10 +8804,6 @@ The Purāṇas refer to some kingdoms, which were noted for horses. Yavana was a
 Gāndhāra was the son of Śaradvat and the grandson of Druhyu. After him the country Gandhara was named.[3] Moreover, Gandharava (a kingdom)[4], Kāmboja (a northern kingdom)[5] and Darada (a northern kingdom)[6] were also noted for horses.
 
 In the Purāṇas, names of Kings are found, who kept horses in their kingdom. Pratarddana, the son of Divodāsa, who was from the race of Dhanvantari, had a horse (aśva) named Kuvalaya; therefore, Pratarddana was famous as Kuvalayāśca.[7] The Viṣṇu Purāṇa refers to the demon Narakāsura, the ruller of Prāgjyotiṣa, who beheld six thousand elephants having four tusks and twenty one lakhs horses of Kamboja and other excellent breeds.[8] Dhṛti, the son of Āhuka, had ten lakh and eighty youthful horses.[9] Candraprabhā was the name of Ilā’s horse which became a mare in the Śaravaṇa forest.[10] References of horse-riding are also found in the Purāṇas. Riding on a horse of Sindhu breed, Sudyumna, the foremost among men, rode to the northern forests.[11]
-
-Footnotes and references:
-
-[back to top]
 
 [1]:
 
@@ -9809,15 +8859,9 @@ Bhāgavata Purāṇa , 9.1.23
 
 ## 81. Part 22 - Rites Performed for the Welfare of Horses
 
-
 Agriculture and Animal husbandry in the Puranas
 
-by Purboshri Borpuzari | 2019 | 74,328 words
-
 This page relates ‘Rites Performed for the Welfare of Horses’ of the study on agriculture and animal husbandry in the Puranas—a category of Sanskrit literature describing the culture and heritage of ancient Indian society. Besides detailing animal care, the six chapters of this essay also documents various Puranic agricultural science: ploughing, sowing, soil-types/fertility tests, transplantation, manuring, irrigation/water-management, tanks, rainfall–Sun dependence, horticulture, plus crop lists (e.g., Vrihi, Yava, Godhuma) and festivals/rites.
-
-Go directly to: 
-Footnotes.
 
 Part 22 - Rites Performed for the Welfare of Horses
 
@@ -9836,10 +8880,6 @@ On an auspicious day one should worship Śrīdhara (The God Hari), Śrī (The Go
 Again on the fifteenth day of the bright half of the month Āśvina, the Aśvins and Varuṇa (the water god) are to be worshipped; then the image of the goddess should be surrounded by the branches of the sacrificial trees. On all sides, jars full of juices should be placed covered with linen cloth. Barley and ghee should be offered in the sacrificial fire; after that the horses and the Āśvin gods should be worshipped;the Brāhmaṇas should be given dakṣiṇā at last.[2]
 
 In the Naimittika form of pacificatory rite, the God Viṣṇu and the Goddess Lakṣmī is worshipped, when the sun enters the sign of the Capricorn. Brahmā, Śaṃkara, Soma, Āditya, Aśvina, Revanta, Uccaiḥśravā and the guardian deities (Dikpālaḥ) of the different quarters of the sky should also be worshipped. Jars full of water should be ceremonially assigned to the aforesaid deities.Oblations consist of sesamum, sun-dried rice and clarified butter should be poured on the sacrificial fire. Oblations consist of the same should also be offered hundred times in the honour of each deities. The performer should observe a fast that day.[3]
-
-Footnotes and references:
-
-[back to top]
 
 [1]:
 
@@ -9860,15 +8900,9 @@ Ibid.,290.6b-8
 
 ## 82. Part 21 - Treatment and Care of Horses
 
-
 Agriculture and Animal husbandry in the Puranas
 
-by Purboshri Borpuzari | 2019 | 74,328 words
-
 This page relates ‘Treatment and Care of Horses’ of the study on agriculture and animal husbandry in the Puranas—a category of Sanskrit literature describing the culture and heritage of ancient Indian society. Besides detailing animal care, the six chapters of this essay also documents various Puranic agricultural science: ploughing, sowing, soil-types/fertility tests, transplantation, manuring, irrigation/water-management, tanks, rainfall–Sun dependence, horticulture, plus crop lists (e.g., Vrihi, Yava, Godhuma) and festivals/rites.
-
-Go directly to: 
-Footnotes.
 
 Part 21 - Treatment and Care of Horses
 
@@ -9933,10 +8967,6 @@ Each meal of a horse should consist of four āḍhaka measures of yava, free of 
 Preservation of Horse-Life:
 
 References of shelters of elephants, stables of horses and references of chariots (hastyaśvarathaśālā) are met with in the Purāṇas.[34] While enumerating the ways of protecting the fort and the city of a king, the Matsya Purāṇa attests that the stables and cowsheds should be to the left side of the king’s palace. The stables should face to the north or to the south. If they face to other directions then it was considered bad. Moreover, there should be lamp burning in the stables through the whole night. The horses should stay in the stables.[35] It was customary to keep in the stables the following beasts for the welfare of the horses—the cocks, the monkeys, especially the apes, cows with their calves and she-goats. Dung should always be cleared away from the stables or elephant yards or cow sheds, before sunset. The quarters of the charioteers (sārathī) should be near the stables.[36] As diseases become more powerful in the fortress therefore, Veterinary doctors (govaidya, aśvavaidya and gajavaidya) should be provided lodging within the fortress.[37] It is suggested there in the Agni Purāṇa that, horses should be stabled in a well-ventilated house and dried bay should be strewn over its floors. The stable should be guarded well and lamps should be lighted there. Goats(aja), monkeys(kapaya), kṛkavākas, deers(mṛgas) should be kept in the stable.[38]
-
-Footnotes and references:
-
-[back to top]
 
 [1]:
 
@@ -10148,15 +9178,9 @@ kṛkavākvajakapayo dhāryāścāśvagṛhe mṛgāḥ// Agni Purāṇa , 289.5
 
 ## 83. Part 24 - Horses Used for Chariots
 
-
 Agriculture and Animal husbandry in the Puranas
 
-by Purboshri Borpuzari | 2019 | 74,328 words
-
 This page relates ‘Horses Used for Chariots’ of the study on agriculture and animal husbandry in the Puranas—a category of Sanskrit literature describing the culture and heritage of ancient Indian society. Besides detailing animal care, the six chapters of this essay also documents various Puranic agricultural science: ploughing, sowing, soil-types/fertility tests, transplantation, manuring, irrigation/water-management, tanks, rainfall–Sun dependence, horticulture, plus crop lists (e.g., Vrihi, Yava, Godhuma) and festivals/rites.
-
-Go directly to: 
-Footnotes.
 
 Part 24 - Horses Used for Chariots
 
@@ -10222,10 +9246,6 @@ Vyomamṛga.[7]
 
 Devadatta was the horse of Kalki.[8]
 
-Footnotes and references:
-
-[back to top]
-
 [1]:
 
 dhanūṃṣi daśa vistīrṇaḥ śrīmānrājapathaḥ smṛtaḥ/ nṛvājirathanāgānāmasambādhaḥ susaṃcaraḥ// Vāyu Purāṇa , 8.119
@@ -10270,23 +9290,13 @@ Bhāgavata Purāṇa , 12.2.20
 
 ## 84. Part 24 - Horses Used as Gifts
 
-
 Agriculture and Animal husbandry in the Puranas
 
-by Purboshri Borpuzari | 2019 | 74,328 words
-
 This page relates ‘Horses Used as Gifts’ of the study on agriculture and animal husbandry in the Puranas—a category of Sanskrit literature describing the culture and heritage of ancient Indian society. Besides detailing animal care, the six chapters of this essay also documents various Puranic agricultural science: ploughing, sowing, soil-types/fertility tests, transplantation, manuring, irrigation/water-management, tanks, rainfall–Sun dependence, horticulture, plus crop lists (e.g., Vrihi, Yava, Godhuma) and festivals/rites.
-
-Go directly to: 
-Footnotes.
 
 Part 24 - Horses Used as Gifts
 
 According to the Purāṇas the horses were also used as gifts. At the vow called Śarkarāsaptamī a horse made of gold worth 1,000 Niṣkas, 100 Niṣkas or 10 Niṣkas or even 5 Niṣkas, was to be donated.[1] He is said to be the very Viṣṇu in the form of the horse, the carrier of the Sun and the Moon.[2] The gift-horse made of gold was to be wrapped with a silk garment, and was to be presented to the preceptor.[3] For a king the gift of a horse-meru (aśva-meru) is prescribed. The Agni Purāṇa states that the aśva-meru consisting of fifteen or twelve horses should be donated after worshipping the gods.[4] Again the term Hiraṇyāśvaratha indicates the gift of a chariot with 7 or 8 horses in gold on an auspicious day. It keeps one away from hell and takes him to the abode of Śiva.[5] Hiraṇyaśva indicates the gift of a golden horse in an auspicious tithi leads one to the world of sun.[6]
-
-Footnotes and references:
-
-[back to top]
 
 [1]:
 
@@ -10322,10 +9332,7 @@ Ibid., 274.8;280.1-15
 
 ## 85. Chapter 5 - Modern relevance of Purāṇic agriculture and Animal Husbandry
 
-
 Agriculture and Animal husbandry in the Puranas
-
-by Purboshri Borpuzari | 2019 | 74,328 words
 
 This page relates ‘Modern relevance of Puranic agriculture and Animal Husbandry’ of the study on agriculture and animal husbandry in the Puranas—a category of Sanskrit literature describing the culture and heritage of ancient Indian society. Besides detailing animal care, the six chapters of this essay also documents various Puranic agricultural science: ploughing, sowing, soil-types/fertility tests, transplantation, manuring, irrigation/water-management, tanks, rainfall–Sun dependence, horticulture, plus crop lists (e.g., Vrihi, Yava, Godhuma) and festivals/rites.
 
@@ -10337,15 +9344,9 @@ Chapter 5 - Modern relevance of Purāṇic agriculture and Animal Husbandry
 
 ## 86. Part 25 - References of other Animals as found in the Purāṇas
 
-
 Agriculture and Animal husbandry in the Puranas
 
-by Purboshri Borpuzari | 2019 | 74,328 words
-
 This page relates ‘References of other Animals as found in the Puranas’ of the study on agriculture and animal husbandry in the Puranas—a category of Sanskrit literature describing the culture and heritage of ancient Indian society. Besides detailing animal care, the six chapters of this essay also documents various Puranic agricultural science: ploughing, sowing, soil-types/fertility tests, transplantation, manuring, irrigation/water-management, tanks, rainfall–Sun dependence, horticulture, plus crop lists (e.g., Vrihi, Yava, Godhuma) and festivals/rites.
-
-Go directly to: 
-Footnotes.
 
 Part 25 - References of other Animals as found in the Purāṇas
 
@@ -10374,10 +9375,6 @@ The goat, is the riding animal of Agni.[17] Its flesh pleases the Pitṛs for si
 Sheep and Deer, as Riding Animal:
 
 Śumbha, a commander of Tāraka’s force; had the gigantic black and white coloured sheep as his riding animal.[25] Deer (Mṛga) was the riding animal of the Goddess Patākinī.[26] Deer and other animals like hare were born of Mṛgī, who was the daughter of Krodhā and wife of Pulaha.[27] Again, Garuḍa was the riding animal of Goddess Vaiṣṇavī.[28]
-
-Footnotes and references:
-
-[back to top]
 
 [1]:
 
@@ -10506,10 +9503,7 @@ Matsya Purāṇa , 261.28
 
 ## 87. Part 26 - Herbs and Plants prescribed for the treatment of Animals
 
-
 Agriculture and Animal husbandry in the Puranas
-
-by Purboshri Borpuzari | 2019 | 74,328 words
 
 This page relates ‘Herbs and Plants prescribed for the treatment of Animals’ of the study on agriculture and animal husbandry in the Puranas—a category of Sanskrit literature describing the culture and heritage of ancient Indian society. Besides detailing animal care, the six chapters of this essay also documents various Puranic agricultural science: ploughing, sowing, soil-types/fertility tests, transplantation, manuring, irrigation/water-management, tanks, rainfall–Sun dependence, horticulture, plus crop lists (e.g., Vrihi, Yava, Godhuma) and festivals/rites.
 
@@ -10658,25 +9652,15 @@ Yūthikā (Jasminum auriculatum);
 
 ## 88. Part 2 - Ploughing for Sowing Seeds
 
-
 Agriculture and Animal husbandry in the Puranas
 
-by Purboshri Borpuzari | 2019 | 74,328 words
-
 This page relates ‘Ploughing for Sowing Seeds’ of the study on agriculture and animal husbandry in the Puranas—a category of Sanskrit literature describing the culture and heritage of ancient Indian society. Besides detailing animal care, the six chapters of this essay also documents various Puranic agricultural science: ploughing, sowing, soil-types/fertility tests, transplantation, manuring, irrigation/water-management, tanks, rainfall–Sun dependence, horticulture, plus crop lists (e.g., Vrihi, Yava, Godhuma) and festivals/rites.
-
-Go directly to: 
-Footnotes.
 
 Part 2 - Ploughing for Sowing Seeds
 
 So many procedures of sowing seeds have been pointed out in the Kāśyapīyakṛṣisūkti. In the śālī fields, ploughing by auspicious bullocks has been directed.[1] In pleasure grove, gardens, and royal parks, either on the outskirts or inside of villages and towns, ploughing of land by oxen, leveling with the axes and spades, adjustment of fields with the paring plow has been intended.[2] The experts in agriculture have advised ploughing, furrowing, or digging for the sowing of seeds.[3] Ploughing of land in the places for growing creepers is recommended. A farmer should undertake ploughing, digging of pits, and furrowing in the ground which is selected for growing vegetables, gardens or trees.[4] In planting creepers and trees, in placing the kadalī roots and in planting sprouts, one should organize all the agricultural operations such as ploughing etc. to get better results.[5] An intelligent agriculturist should begin the process of farming on an auspicious time at the beginning of the year.[6] Land should be first ploughed in the auspicious north east corner.[7] Kāśyapa refers to worship of plough as well as bullocks.[8] It is there mentioned that worship of the field or land yields good results.[9] Kāśyapa enjoins that bullocks must not be made to overwork.[10] He further asks pardon for any injuries made to Goddess Earth during plowing and prays for immense yields in the field.[11] The Purāṇas also lay down such practice of ploughing.
 
 The Bhaviṣya Purāṇa enjoins that after the process of ploughing, grains of paddy are to be sowed. It is also enjoined that, after ploughing and the grains are sown, gold dust(suvarṇa-mṛttikā) should be sprinkled in the central place.[12] The purity which is achieved by ploughing is mentioned in the Purāṇas. It is stated that by different process of agriculture such as ploughing the fields, cutting the herbs on the soil, the tillers get rid of sin and achieve purity by pacifying the gods through sacrifice.[13]
-
-Footnotes and references:
-
-[back to top]
 
 [1]:
 
@@ -10737,15 +9721,9 @@ Agni Purāṇa , 152.3
 
 ## 89. Part 3 - Sowing of Seeds
 
-
 Agriculture and Animal husbandry in the Puranas
 
-by Purboshri Borpuzari | 2019 | 74,328 words
-
 This page relates ‘Sowing of Seeds’ of the study on agriculture and animal husbandry in the Puranas—a category of Sanskrit literature describing the culture and heritage of ancient Indian society. Besides detailing animal care, the six chapters of this essay also documents various Puranic agricultural science: ploughing, sowing, soil-types/fertility tests, transplantation, manuring, irrigation/water-management, tanks, rainfall–Sun dependence, horticulture, plus crop lists (e.g., Vrihi, Yava, Godhuma) and festivals/rites.
-
-Go directly to: 
-Footnotes.
 
 Part 3 - Sowing of Seeds
 
@@ -10758,16 +9736,7 @@ guruṃ natvā dattvā vasu vasumatīṃ vā guṇavate/
 svayaṃ bījānyādau vapati katicidvāstupuruṣaṃ
 manasyantaḥ kṛtvā tadanu paritonyaḥ parijanaḥ//[3]
 
-śucisnāto vibhradbacanamamalaṃ pūjitasuro/
-guruṃ natvā dattvā vasu vasumatīṃ vā guṇavate/
-svayaṃ bījānyādau vapati katicidvāstupuruṣaṃ
-manasyantaḥ kṛtvā tadanu paritonyaḥ parijanaḥ//[3]
-
 Kauṭilya in his Arthaśāstra mentions that the superintendent of agriculture should employ labors to sow seeds after thoroughly ploughing the lands.[4] According to Kauṭilya, the superintendent of agriculture, possessed of the knowledge of the science of agriculture, dealing with the plantation of bushes and trees or assisted by those who are educated in such sciences, should collect the seeds of all kinds of grains, flowers, fruits, vegetables, bulbous roots, fibre-producing plants and cotton etc. in time.[5] Parāśara says that seeds that are to be sown on the same field, all of them should be of the same variety, because the seeds which are of the same class, yield a prosperous harvest.[6] The Purāṇas also refer to sowing of auspicious seeds, which comprise yava, śāli-rice, tila, mudga, godhūma and śvetasarṣapa(white mustard), kulattha and māṣa. It is suggested that these seeds should be well washed before sowing.[7] A śarāva (earthen saucer), a small water-pot and a small raised bank or embankments are the most convenient post or places for growing on the above seeds.[8]
-
-Footnotes and references:
-
-[back to top]
 
 [1]:
 
@@ -10810,15 +9779,9 @@ Ibid., 68.4
 
 ## 90. Part 1 - Agriculture In Post-Purāṇic Sanskrit Works
 
-
 Agriculture and Animal husbandry in the Puranas
 
-by Purboshri Borpuzari | 2019 | 74,328 words
-
 This page relates ‘Agriculture In Post-Puranic Sanskrit Works’ of the study on agriculture and animal husbandry in the Puranas—a category of Sanskrit literature describing the culture and heritage of ancient Indian society. Besides detailing animal care, the six chapters of this essay also documents various Puranic agricultural science: ploughing, sowing, soil-types/fertility tests, transplantation, manuring, irrigation/water-management, tanks, rainfall–Sun dependence, horticulture, plus crop lists (e.g., Vrihi, Yava, Godhuma) and festivals/rites.
-
-Go directly to: 
-Footnotes.
 
 Part 1 - Agriculture In Post-Purāṇic Sanskrit Works
 
@@ -10844,16 +9807,9 @@ So earth is also called as Medinī—
 dhānyādīnāmoṣadhīnāṃ jalānāṃ prasravādapi/ 
 dharā tu medinī khyātā prāṇināṃ prāṇavardhinī //[3]
 
-dhānyādīnāmoṣadhīnāṃ jalānāṃ prasravādapi/ 
-dharā tu medinī khyātā prāṇināṃ prāṇavardhinī //[3]
-
 Kāśyapa has argued the profession of farming as a noble one. He states that the occupation of farming is commendable which gives delight in numerous ways.
 
 Any other livelihood involves dependence.[4] According to Kāśyapa, agriculture is the highest of all wealth.[5] Yielding profuse returns, farming provides pure grains, and other things which please gods.[6] That’s why, qualified persons through their own efforts, being truthful and kind hearted, always engage them in agriculture.[7] It is found in the Kāśyapīyakṛṣisūkti that people of all castes were engaged to practice agriculture.[8] In the post-Purāṇic Sanskrit works, the process of agriculture can be sub divided under the following heads:
-
-Footnotes and references:
-
-[back to top]
 
 [1]:
 
@@ -10893,15 +9849,9 @@ Ibid., 1.47
 
 ## 91. Part 5 - Successful Production Depends on the Fertility of the Soil
 
-
 Agriculture and Animal husbandry in the Puranas
 
-by Purboshri Borpuzari | 2019 | 74,328 words
-
 This page relates ‘Successful Production Depends on the Fertility of the Soil’ of the study on agriculture and animal husbandry in the Puranas—a category of Sanskrit literature describing the culture and heritage of ancient Indian society. Besides detailing animal care, the six chapters of this essay also documents various Puranic agricultural science: ploughing, sowing, soil-types/fertility tests, transplantation, manuring, irrigation/water-management, tanks, rainfall–Sun dependence, horticulture, plus crop lists (e.g., Vrihi, Yava, Godhuma) and festivals/rites.
-
-Go directly to: 
-Footnotes.
 
 Part 5 - Successful Production Depends on the Fertility of the Soil
 
@@ -10970,10 +9920,6 @@ yellow soil,
 white soil and
 
 yellowish red soil.[17]
-
-Footnotes and references:
-
-[back to top]
 
 [1]:
 
@@ -11053,25 +9999,15 @@ Ibid.,219.52-53
 
 ## 92. Part 4 - Treatment of Seeds
 
-
 Agriculture and Animal husbandry in the Puranas
 
-by Purboshri Borpuzari | 2019 | 74,328 words
-
 This page relates ‘Treatment of Seeds’ of the study on agriculture and animal husbandry in the Puranas—a category of Sanskrit literature describing the culture and heritage of ancient Indian society. Besides detailing animal care, the six chapters of this essay also documents various Puranic agricultural science: ploughing, sowing, soil-types/fertility tests, transplantation, manuring, irrigation/water-management, tanks, rainfall–Sun dependence, horticulture, plus crop lists (e.g., Vrihi, Yava, Godhuma) and festivals/rites.
-
-Go directly to: 
-Footnotes.
 
 Part 4 - Treatment of Seeds
 
 The Vṛkṣāyurveda suggests the methods for making the seeds more viable. In the first method the seeds are said to be sprinkled with milk and then cow-dung should be pasted.Then paste containing honey and viḍaṅga powder should be rubbed on them.[1] In a different procedure, it is said that the seeds should be soaked in milk (kṣīreṇa bhāvitam) and then should be dried up. After that, powder consists of sarṣapa, vṛhatī, tila and nāla should be pasted. Thus, the seeds should be treated for perfect germination and for making them viable.[2] The seeds of mākanda, jambu and panasa if treated with this method, become better viable.[3] The seeds treated with proper procedures following the process previously described, become perfect for sowing and produce flowers and fruits in ample quantity.[4] The Bṛhatsaṃhitā too mentions about the treatment of seeds. According to Bṛhatsaṃhitā any seeds firstly soaked in milk for ten days, then taking them out daily with the hand smeared with ghee. After that they must be rolled many times in cow dung, there after they must be fumigated with the flesh of deer and hog; there upon with flesh and hog’s marrow, they should be then planted in a soil which was already prepared with sowing of sesamum. Seeds treated thus, and sprinkled with milk and water will grow and flourish.[5]
 
 Cakrapāṇi Miśra also mentions in Viśvavallabha that seeds should be treated with dried cow dung and then with clarified butter and honey. After rubbing them in dung or after smearing them with a paste of ashes of tila plants and seeds and clarified butter, one should sow the seeds at proper places.[6] Śārṅgadhara in the Upavana-Vinoda states that, one should smear the seeds sprinkled with milk, with powders of vṛhatī and sesamum mixed with ghee. Then the seeds should be dried. After that one should besmear the seeds with cow dung and then fumigate with fat of some animal. If the seeds are sown after treated thus, they would sprout within a night.[7]
-
-Footnotes and references:
-
-[back to top]
 
 [1]:
 
@@ -11115,23 +10051,13 @@ Upavana-Vinoda , 5.52
 
 ## 93. Part 6 - The modern relevance of ancient Indian Manuring
 
-
 Agriculture and Animal husbandry in the Puranas
 
-by Purboshri Borpuzari | 2019 | 74,328 words
-
 This page relates ‘modern relevance of ancient Indian Manuring’ of the study on agriculture and animal husbandry in the Puranas—a category of Sanskrit literature describing the culture and heritage of ancient Indian society. Besides detailing animal care, the six chapters of this essay also documents various Puranic agricultural science: ploughing, sowing, soil-types/fertility tests, transplantation, manuring, irrigation/water-management, tanks, rainfall–Sun dependence, horticulture, plus crop lists (e.g., Vrihi, Yava, Godhuma) and festivals/rites.
-
-Go directly to: 
-Footnotes.
 
 Part 6 - The modern relevance of ancient Indian Manuring
 
 Parāśara gives importance in the cattle manure for the stable and suitable growth of paddy. He says that without the application of manure the paddy plants do not give fruits, they only simply grow up.[1] Parāśara recommends the methods how dung is to be carefully maintained, stored up, crushed and at last applied to the field.[2]  Kauṭilya also refers to the use of manure in the process of agriculture. He states that sprout of seeds when grown are to be manured with a fresh hall of tiny fishes and should irrigated with the milk of snuhi (Euphorbia antiquorum).[3] Kāśyapa emphasizes in application of manures at proper time[4] which included cow-dung, goat-dung, and compost.[5] Cakrapāṇi Miśra in his Viśvavallabha mentions that all trees produce sweet fruits when sprinkled with milk.[6] It is suggested to smear the branches, roots and trunks of trees with cow dung and plant them in pits filled with soil and to sprinkle dried dung abundantly with water.[7] The Purāṇas mention the using of manure in the fields to increase the fertility of the soil as well as for the growth of crops. The Agni Purāṇa mentions that to increase the production of flowers and fruits, one should sprinkle ghee with cold milk.[8] It further mentions that maturing the soil with powdered barley, sesamum and the powder of dried dung of a goat, mixed together and soaked in meat and water for seven continuous nights is good for the increase of flowers and fruits.[9]
-
-Footnotes and references:
-
-[back to top]
 
 [1]:
 
@@ -11174,24 +10100,15 @@ Ibid., 282.11-12
 
 ## 94. Part 7 - Irrigation and Water Management
 
-
 Agriculture and Animal husbandry in the Puranas
 
-by Purboshri Borpuzari | 2019 | 74,328 words
-
 This page relates ‘Irrigation and Water Management’ of the study on agriculture and animal husbandry in the Puranas—a category of Sanskrit literature describing the culture and heritage of ancient Indian society. Besides detailing animal care, the six chapters of this essay also documents various Puranic agricultural science: ploughing, sowing, soil-types/fertility tests, transplantation, manuring, irrigation/water-management, tanks, rainfall–Sun dependence, horticulture, plus crop lists (e.g., Vrihi, Yava, Godhuma) and festivals/rites.
-
-Go directly to: 
-Footnotes.
 
 Part 7 - Irrigation and Water Management
 
 A tree should be planted in the morning and evening if it does not rain.[1] In rainy season plants should be watered at mid day. In winter season they should be watered in the morning and in the spring season they should be watered in the afternoon and in the summer season trees should be watered in the evening.[2] In the Vṛkṣāyurveda[3] and Upavana-Vinoda[4] mention is made about Kuṇapajala—the solution for nourishing, which is very healthy for plants. One should boil the flesh, fat and marrow of deer, pig, fish, goat and rhinoceros in water. When it is properly boiled then the mixture should be put in an earthen pot and milk, powder of sesamum oil cakes, māṣa boiled in honey, the decoction of pulses, clarified butter and hot water should be added there to. When this earthen pot is put in a warm place for a fortnight the compound becomes what is known as Kuṇapajala.[5]
 
 In the Kṛṣi-parāśara, Parāśara gives special stress in the conservation of water in the fields from mid-September to mid-November—
-
-āśvine kārtike caiva dhānyasya jalarakṣaṇam/
-na kṛtaṃ yena mūrkhena tasya kā sasyavāsanā//[6]
 
 āśvine kārtike caiva dhānyasya jalarakṣaṇam/
 na kṛtaṃ yena mūrkhena tasya kā sasyavāsanā//[6]
@@ -11237,10 +10154,6 @@ Parighra, and
 Nanda.[14]
 
 Techniques were used to keep water of wells safe using herbs or other materials. Even brackish, foul and turbid water was treated.[15] The Upavana-Vinoda too mentions the procedure of watering plants. It states that one should water the newly planted trees every alternate day in autumn and in winter seasons; every day in spring season and two times a day during summer season.[16] The Purāṇas too gave importance on rainfall for the growth of crops. The Matsya Purāṇa states that agricultural prospects flourish by rain which again depends on fixed time.[17] The Agni Purāṇa mentions that the god Parjanya, Arka and Indu,should be worshipped to guard against any disturbance that affects the annual rainfall of a country.[18] It is also recommended in the Purāṇas that the fort of a king should be situated in a country watered by large rivers not depending upon the atmospheric causes for its water -supply.[19]
-
-Footnotes and references:
-
-[back to top]
 
 [1]:
 
@@ -11329,24 +10242,15 @@ Ibid., 222.2b
 
 ## 95. Part 8 - Protection and Care (of crops)
 
-
 Agriculture and Animal husbandry in the Puranas
 
-by Purboshri Borpuzari | 2019 | 74,328 words
-
 This page relates ‘Protection and Care (of crops)’ of the study on agriculture and animal husbandry in the Puranas—a category of Sanskrit literature describing the culture and heritage of ancient Indian society. Besides detailing animal care, the six chapters of this essay also documents various Puranic agricultural science: ploughing, sowing, soil-types/fertility tests, transplantation, manuring, irrigation/water-management, tanks, rainfall–Sun dependence, horticulture, plus crop lists (e.g., Vrihi, Yava, Godhuma) and festivals/rites.
-
-Go directly to: 
-Footnotes.
 
 Part 8 - Protection and Care (of crops)
 
 Adequate attention is given to the protection and care of crops. The plantation (vṛkṣaropaṇaṃ) according to Surapāla is recognized as a source for attaining the puruṣārtha catuṣṭaya i.e. dharma, artha, kāma and mokṣa.[1] Rainy season is the best time for sowing all types of seeds and planting trees, etc. After rains the seeds should be planted. Autumn and spring season are average seasons for the purpose.[2] Winter and summer are both contraindicated for plantation. By the way all seasons are equally good for plantation if extra efforts are given on watering.[3] Kauṭilya states that the sprouting of seeds can be inferred from the Sun, the formation of grain can be inferred from the position of Jupiter, and rainfall can be inferred from the movement of Venus.[4]
 
 On the occasion of the sowing of seeds for the first time a handful of the seeds bathed in water with a piece of gold should be sown and the following mantra should be recited—
-
-prajāpataye kāśyapāya devāya namaḥ sadā/ 
-sītā me ṛdhyatāṃ devī bījeṣu ca dhaneṣu ca//
 
 prajāpataye kāśyapāya devāya namaḥ sadā/ 
 sītā me ṛdhyatāṃ devī bījeṣu ca dhaneṣu ca//
@@ -11358,14 +10262,7 @@ Reference of such recitation of mantra written in leaf is also met with in the A
 dhanadāya sarvadhaneśāya dehi me dhanaṃ svāhā/
 nave harṣe ilādevī lokasaṃvardhini kāmarūpiṇi dehi me dhanaṃ svāhā//
 
-dhanadāya sarvadhaneśāya dehi me dhanaṃ svāhā/
-nave harṣe ilādevī lokasaṃvardhini kāmarūpiṇi dehi me dhanaṃ svāhā//
-
 The Bṛhatsaṃhitā devotes a chapter to the growth of crops.[7] It states that when the sun enters into Vṛścika, Jupiter be posited in Kumbha, the Moon in Vṛṣabha, Mars and Saturn in Makara then there is great prosperity of corn.[8] Again when Venus or Mercury, or both, are posited in the second house from the Sun (in Vṛścika), or similarly in the twelfth house, summer corn will grow well.[9] When Venus, the Moon and Mercury are posited in their order in the 11th, 4th and 2nd from the Sun in Vṛścika, corn will thrive well. If in the above Yoga, Jupiter is posited in the 10th, great prosperity of cattle is also assured.[10] The Upavana-Vinoda mentions that trees get diseases through the affections of vāta, pitta and kapha. One should diagnose the diseases through their symptoms and cure them radically.[11]
-
-Footnotes and references:
-
-[back to top]
 
 [1]:
 
@@ -11419,15 +10316,9 @@ Upavana-Vinoda , 13.175
 
 ## 96. Part 11 - Rearing and Tending of Animals
 
-
 Agriculture and Animal husbandry in the Puranas
 
-by Purboshri Borpuzari | 2019 | 74,328 words
-
 This page relates ‘Rearing and Tending of Animals’ of the study on agriculture and animal husbandry in the Puranas—a category of Sanskrit literature describing the culture and heritage of ancient Indian society. Besides detailing animal care, the six chapters of this essay also documents various Puranic agricultural science: ploughing, sowing, soil-types/fertility tests, transplantation, manuring, irrigation/water-management, tanks, rainfall–Sun dependence, horticulture, plus crop lists (e.g., Vrihi, Yava, Godhuma) and festivals/rites.
-
-Go directly to: 
-Footnotes.
 
 Part 11 - Rearing and Tending of Animals
 
@@ -11464,10 +10355,6 @@ It is also advised there that the elephant doctors shall apply necessary medicin
 The Śukranītisāra suggests some points that are to be noticed in case of managing a horse. One should strike the horse at the breast if it is terrified, at the neck if it neighs, at the posterior if it slips, at the mouth if going astray, at the tail if it gets angry, at the belly if it is absent minded.[8] It is also prohibited to strike the horse very often and at wrong places.[9] It is suggested there that one should ride the horse in the morning and evening in October and November, winter and spring, in the evening in summer, in the morning in autumn.[10] One should not use the horse in the rainy season or on uneven grounds.[11]
 
 Reference of rearing and tending of animals are found in the Purāṇas. It is pointed out in the Matsya Purāṇa that a king’s Commander-in-chief should be expert in managing horses and elephants.[12] Regarding horse-care, it is said that the groom of a king should know about horses and how to treat the horses when ill.[13] A horse should be first ridden under the influence of the asterisms aśvinī, hastā and the three uttarās.[14] The seasons winter, the spring, and the forepart of the cold months, are the most favourable to ride a horse, on the other hand in summer and autumn, a horse should not be harnessed nor ridden upon.[15]
-
-Footnotes and references:
-
-[back to top]
 
 [1]:
 
@@ -11533,25 +10420,15 @@ Ibid., 288.3
 
 ## 97. Part 9 - Animal Husbandry in Post-Purāṇic Sanskrit Works—Introduction
 
-
 Agriculture and Animal husbandry in the Puranas
 
-by Purboshri Borpuzari | 2019 | 74,328 words
-
 This page relates ‘Animal Husbandry in Post-Puranic Sanskrit Works—Introduction’ of the study on agriculture and animal husbandry in the Puranas—a category of Sanskrit literature describing the culture and heritage of ancient Indian society. Besides detailing animal care, the six chapters of this essay also documents various Puranic agricultural science: ploughing, sowing, soil-types/fertility tests, transplantation, manuring, irrigation/water-management, tanks, rainfall–Sun dependence, horticulture, plus crop lists (e.g., Vrihi, Yava, Godhuma) and festivals/rites.
-
-Go directly to: 
-Footnotes.
 
 Part 9 - Animal Husbandry in Post-Purāṇic Sanskrit Works—Introduction
 
 [Full title: Animal Husbandry in Post-Purāṇic Sanskrit Works and its Relevance with the Purāṇas—Introduction]
 
 According to Kauṭilya, agriculture, cattle-breeding was the occupation for all classes of people.[1] As it gives grains and cattle, forests produce and free labour, so it is most useful.[2] Animals were used for various purposes. It is noticed that different animal products like pig’s fat, cow-dung, cow-bones etc. were required for fertilizing seeds or other parts of plants as pre-plantation treatment. Broad use of animal bones was required for this purpose.[3] Requirement of animal power (bullock) for raising water from well, for irrigation is also noticed.[4] The Bṛhatsaṃhitā and the Vṛkṣāyurveda mentions extensive use of various products of different species of animals in nourishment of plants. The Bṛhatsaṃhitā suggests that two āḍhakas (128 palas) of the powder of the dung of goats and sheep, one āḍhaka of sesamum, a prastha (16 palas) of wheat particles, a tulā (100 palas) of beef and a droṇa (256 palas) of water kept for seven nights should be sprinkled always for increasing the yield of flowers and fruits of trees, creepers and shrubs etc.[5] The Vṛkṣāyurveda mentions that the seeds of good quality (sādhuvīja) of kūṣmāṇḍa, vārttāka, paṭola and other vegetable fruits should be soaked in majjā of female beer (kroḍī) and after that should be sown in land. For irrigation, the water mixed with same animal majjā as stated above should be used. This produces fruits without seeds.[6]
-
-Footnotes and references:
-
-[back to top]
 
 [1]:
 
@@ -11584,15 +10461,9 @@ kūṣmaṇḍa-vārttāka-paṭolakādyāḥ// Vṛkṣāyurveda , 19.234
 
 ## 98. Part 10 - Breeds of Animals (in Post-Purāṇic Sanskrit Works)
 
-
 Agriculture and Animal husbandry in the Puranas
 
-by Purboshri Borpuzari | 2019 | 74,328 words
-
 This page relates ‘Breeds of Animals (in Post-Puranic Sanskrit Works)’ of the study on agriculture and animal husbandry in the Puranas—a category of Sanskrit literature describing the culture and heritage of ancient Indian society. Besides detailing animal care, the six chapters of this essay also documents various Puranic agricultural science: ploughing, sowing, soil-types/fertility tests, transplantation, manuring, irrigation/water-management, tanks, rainfall–Sun dependence, horticulture, plus crop lists (e.g., Vrihi, Yava, Godhuma) and festivals/rites.
-
-Go directly to: 
-Footnotes.
 
 Part 10 - Breeds of Animals (in Post-Purāṇic Sanskrit Works)
 
@@ -11656,10 +10527,6 @@ Moreover, mention of goats, sheep, buffaloes, camels, dogs is met with in the Pu
 Animal Breeding:
 
 The people fully knew the necessities of number of males of different animal species per herd of one hundred females of different types of domestic animals for the purpose of breeding. Kauṭilya in his Arthaśāstra mentions that in a herd of one hundred asses and mules there shall be five male animals and in the case of herds of goats and sheep there shall be ten males per hundred. For a herd of ten heads of cows or buffaloes there shall be four male animals each.[23]
-
-Footnotes and references:
-
-[back to top]
 
 [1]:
 
@@ -11758,15 +10625,9 @@ pañcarṣabhaṃ kharāśvānāmajāvīnāṃ daśarṣabham/
 
 ## 99. Part 15 - Major crops and Staple food
 
-
 Agriculture and Animal husbandry in the Puranas
 
-by Purboshri Borpuzari | 2019 | 74,328 words
-
 This page relates ‘Major crops and Staple food’ of the study on agriculture and animal husbandry in the Puranas—a category of Sanskrit literature describing the culture and heritage of ancient Indian society. Besides detailing animal care, the six chapters of this essay also documents various Puranic agricultural science: ploughing, sowing, soil-types/fertility tests, transplantation, manuring, irrigation/water-management, tanks, rainfall–Sun dependence, horticulture, plus crop lists (e.g., Vrihi, Yava, Godhuma) and festivals/rites.
-
-Go directly to: 
-Footnotes.
 
 Part 15 - Major crops and Staple food
 
@@ -11795,10 +10656,6 @@ In recent years the following plant species were introduced into India[6] :
 5) Gum-arabic (Acacia senegal);
 
 In the Purāṇas also various kinds of grains are mentioned. People in the days of the Purāṇas could recognize the crops. Mention of seventeen kinds of grāmya oṣadhis and fourteen kinds of yajñīya oṣadhis is met with in the Purāṇas.[7] Some of the agricultural crops mentioned in the Purāṇas are-tila[8] dhānya[9] (eighteen sorts of grain), vrīhi[10] (a kind of paddy), śyāmāka[11] saktu[12] (the flour of grain), nīvāra[13] (a kind of corn for śrāddha), māṣa[14] (a kind of grain), masūra, yava and godhūma[15] etc.
-
-Footnotes and references:
-
-[back to top]
 
 [1]:
 
@@ -11864,25 +10721,15 @@ Viṣṇu Purāṇa , 1.6.21-23a; Vāyu Purāṇa , 8.150-152
 
 ## 100. Part 14 - Agriculture in the Modern Age—Introduction
 
-
 Agriculture and Animal husbandry in the Puranas
 
-by Purboshri Borpuzari | 2019 | 74,328 words
-
 This page relates ‘Agriculture in the Modern Age—Introduction’ of the study on agriculture and animal husbandry in the Puranas—a category of Sanskrit literature describing the culture and heritage of ancient Indian society. Besides detailing animal care, the six chapters of this essay also documents various Puranic agricultural science: ploughing, sowing, soil-types/fertility tests, transplantation, manuring, irrigation/water-management, tanks, rainfall–Sun dependence, horticulture, plus crop lists (e.g., Vrihi, Yava, Godhuma) and festivals/rites.
-
-Go directly to: 
-Footnotes.
 
 Part 14 - Agriculture in the Modern Age—Introduction
 
 [Full title: Agriculture in the Modern Age of 20-21st Century]
 
 The Consultative Group on International Agricultural Research (CGIAR) states that sustainable agriculture is the successful management of resources to satisfy the quality of environment and conserving natural resources.[1] There is no doubt that the ancient treatises like the Vedas as well as the Purāṇas are the origin of agriculture and animal husbandry. The modern system of agriculture and animal husbandry has definitely inherited the process of the same from the Vedas and the Purāṇas. Obviously there may be some changes in the traditional agricultural system; some processes may be excluded from the indigenous system of agriculture and some different processes may be added to the modern agricultural system. But we cannot disregard our traditional knowledge system regarding agriculture and animal husbandry which is still prevailing in most of the parts of our country. The indigenous system of agriculture and animal husbandry has been achieving value day by day. The modern agriculturalists have improved these traditional methods gradually by applying science and technologies in the field of agriculture as well as in animal husbandry. So difference is observed in the system of agriculture of modern periods with that of the ancient texts. We have to give a look into the modern system of agriculture and animal husbandry to find out its relevance with the Purāṇic system. In the direction of modern agricultural research the establishment of Imperial Council of Agricultural Research (ICAR) in 1929, was the most significant step.[2]
-
-Footnotes and references:
-
-[back to top]
 
 [1]:
 
@@ -11896,15 +10743,9 @@ De, S.K., et al (ed.), The Cultural Heritage of India, volume 6, p. 405
 
 ## 101. Part 12 - Nourishment and Feeding of Animals
 
-
 Agriculture and Animal husbandry in the Puranas
 
-by Purboshri Borpuzari | 2019 | 74,328 words
-
 This page relates ‘Nourishment and Feeding of Animals’ of the study on agriculture and animal husbandry in the Puranas—a category of Sanskrit literature describing the culture and heritage of ancient Indian society. Besides detailing animal care, the six chapters of this essay also documents various Puranic agricultural science: ploughing, sowing, soil-types/fertility tests, transplantation, manuring, irrigation/water-management, tanks, rainfall–Sun dependence, horticulture, plus crop lists (e.g., Vrihi, Yava, Godhuma) and festivals/rites.
-
-Go directly to: 
-Footnotes.
 
 Part 12 - Nourishment and Feeding of Animals
 
@@ -11945,10 +10786,6 @@ one āḍhaka of liquor, or two āḍhakas of milk.
 One prastha of oil is required for smearing over the body. Moreover, one-eight prastha of oil for applying on the head and for use in a lamp is to be kept in the stables.[4] The Śukranītisāra too mentions that the horse should be made to take milk, ghee, water and powdered grains.[5] The horse should be given peas or grains, māṣa, mudga, both dry and wet, as well as well-cooked meat.[6] The best foods for horses are yava and caṇaka; māṣa and makuṣṭhaka are considered good and masūra and mudga are considered inferior stuff.[7]
 
 The Purāṇas too mention some diets for animals. It is recommended there that a calf should be given a food which consist of māṣa, tila, godhūma, payaḥ, kṣīra and ghṛta(clarified butter), mixed with lavaṇa, to develop well.[8] The Agni Purāṇa states that to give a morsel of grass to the cows(go-grāsa) was considered the daily duties of a householder. After go-grāsa and performing the ritual svastyayana and after worshipping the guests, the householder should take his food.[9] In case of diet of elephant it is said that the food which consists of ṣaṣṭi, vrīhi and śālī rice, is considered the best food for an elephant.[10] The food consists of wheat and barley should be ranked as second best, while the other sorts of food should be considered inferior sort.[11]
-
-Footnotes and references:
-
-[back to top]
 
 [1]:
 
@@ -11998,15 +10835,9 @@ Ibid., 287.24b
 
 ## 102. Part 16 - Tools Used for Agriculture
 
-
 Agriculture and Animal husbandry in the Puranas
 
-by Purboshri Borpuzari | 2019 | 74,328 words
-
 This page relates ‘Tools Used for Agriculture’ of the study on agriculture and animal husbandry in the Puranas—a category of Sanskrit literature describing the culture and heritage of ancient Indian society. Besides detailing animal care, the six chapters of this essay also documents various Puranic agricultural science: ploughing, sowing, soil-types/fertility tests, transplantation, manuring, irrigation/water-management, tanks, rainfall–Sun dependence, horticulture, plus crop lists (e.g., Vrihi, Yava, Godhuma) and festivals/rites.
-
-Go directly to: 
-Footnotes.
 
 Part 16 - Tools Used for Agriculture
 
@@ -12029,10 +10860,6 @@ The scope for tillage with tractors and tractor-drawn implements lie mostly in t
 (3) For the hot weather deep ploughing of the black cotton soil.[3]
 
 Indian farmers also are beginning to make great progress in the use of better implements. In many villages to-day we can see improved ploughs, hoes, water-lifts and other implements.[4] Likewise the use of plough is noticed in the Purāṇic days too. It is recommended in the Purāṇas that the ground for constructing a temple should be ploughed with white bullocks, that for a tank with bullocks of any colour, for preparing a garden and for digging well, black coloured bullocks are mentioned.[5] Hence, it can be known that the indigenous implements are still used today for the process of agriculture.
-
-Footnotes and references:
-
-[back to top]
 
 [1]:
 
@@ -12058,15 +10885,9 @@ Bhaviṣya Purāṇa , 2.1-3
 
 ## 103. Part 13 - Preservation of Animal Life
 
-
 Agriculture and Animal husbandry in the Puranas
 
-by Purboshri Borpuzari | 2019 | 74,328 words
-
 This page relates ‘Preservation of Animal Life’ of the study on agriculture and animal husbandry in the Puranas—a category of Sanskrit literature describing the culture and heritage of ancient Indian society. Besides detailing animal care, the six chapters of this essay also documents various Puranic agricultural science: ploughing, sowing, soil-types/fertility tests, transplantation, manuring, irrigation/water-management, tanks, rainfall–Sun dependence, horticulture, plus crop lists (e.g., Vrihi, Yava, Godhuma) and festivals/rites.
-
-Go directly to: 
-Footnotes.
 
 Part 13 - Preservation of Animal Life
 
@@ -12075,10 +10896,6 @@ Part 13 - Preservation of Animal Life
 Avoidance of cruelty towards draught animals (carriage horses) and milch-animals (particularly cattle) is noticed by specification of the distance to be traversed[1] and number of milking times in a day in different seasons respectively. It is recommended that cattle may be milked twice a day (morning and evening) during the season of rain, autumn and winter. In the seasons of later part of winter, spring and summer milking may be limited to one time (in the morning alone).[2] This is also suggested that sheep and other animals should be shorn of their wool once in six months.[3] Any kind of physical injury to livestock was liable to punishment.[4]
 
 The superintendent should make a stable which is twice as broad as the length of a horse. It should be constructed as spacious as required by the number of horses to be kept therein, with four doors facing the four quarters. Moreover, it should be contained monkeys, peacocks, red-spotted deer, mongoose, partridge, parrots and mainā birds.[5] The stables of elephants should be constructed twice as broad, twice as high as the length (āyāma) of an elephant. The apartments for female elephants should be separate. There should be posts in the stable called kumārī to tie the elephants. The door of the stable should be facing either the east or the north.[6] The Purāṇas too suggest some ways for preservation of animal life. The method of fumigation of a cow house with the vapours of viṣā plants for making the cattle strong is noticed in the Agni Purāṇa.[7] Again it is advised that a fumigation of the cow-house with the vapours of devadāru, vacā, māṃsī, guggula, hiṅgu and sarṣapa mixed together would keep safe from the evil effects of malignant planets.[8]
-
-Footnotes and references:
-
-[back to top]
 
 [1]:
 
@@ -12117,15 +10934,9 @@ Ibid., 292.33b-34a
 
 ## 104. Part 19 - Manuring (in modern Indian Agriculture)
 
-
 Agriculture and Animal husbandry in the Puranas
 
-by Purboshri Borpuzari | 2019 | 74,328 words
-
 This page relates ‘Manuring (in modern Indian Agriculture)’ of the study on agriculture and animal husbandry in the Puranas—a category of Sanskrit literature describing the culture and heritage of ancient Indian society. Besides detailing animal care, the six chapters of this essay also documents various Puranic agricultural science: ploughing, sowing, soil-types/fertility tests, transplantation, manuring, irrigation/water-management, tanks, rainfall–Sun dependence, horticulture, plus crop lists (e.g., Vrihi, Yava, Godhuma) and festivals/rites.
-
-Go directly to: 
-Footnotes.
 
 Part 19 - Manuring (in modern Indian Agriculture)
 
@@ -12161,10 +10972,6 @@ This class of manures is also helpful to certain vegetative functions, i.e., to 
 
 In the Purāṇas too we find the use of manuring the soil. The Agni Purāṇa mentions that to increase the production of flowers and fruits, one should sprinkle ghee with cold milk.[6] Different kinds of plants required various kinds of manures for a specific period, which have been described in the Agni Purāṇa.[7]
 
-Footnotes and references:
-
-[back to top]
-
 [1]:
 
 Mukerji,Nitya Gopal, Handbook of Indian Agriculture, p.395
@@ -12197,15 +11004,9 @@ Ibid., Ch. 281
 
 ## 105. Part 17 - Classification of Soils
 
-
 Agriculture and Animal husbandry in the Puranas
 
-by Purboshri Borpuzari | 2019 | 74,328 words
-
 This page relates ‘Classification of Soils’ of the study on agriculture and animal husbandry in the Puranas—a category of Sanskrit literature describing the culture and heritage of ancient Indian society. Besides detailing animal care, the six chapters of this essay also documents various Puranic agricultural science: ploughing, sowing, soil-types/fertility tests, transplantation, manuring, irrigation/water-management, tanks, rainfall–Sun dependence, horticulture, plus crop lists (e.g., Vrihi, Yava, Godhuma) and festivals/rites.
-
-Go directly to: 
-Footnotes.
 
 Part 17 - Classification of Soils
 
@@ -12226,10 +11027,6 @@ In addition to the four principal groups of soils described above, mention may b
 (iv) Peaty and Marshy Soils
 
 Various types of grounds are mentioned in the Purāṇas long ago. They are-white coloured ground, blood coloured ground, black clay and yellow coloured ground.[3] Again golden soil, rocky soil, blue soil, white soil and yellowish red soil are also mentioned.[4]
-
-Footnotes and references:
-
-[back to top]
 
 [1]:
 
@@ -12252,15 +11049,9 @@ Ibid., 219.52-53
 
 ## 106. Part 18 - Sowing of Seeds
 
-
 Agriculture and Animal husbandry in the Puranas
 
-by Purboshri Borpuzari | 2019 | 74,328 words
-
 This page relates ‘Sowing of Seeds’ of the study on agriculture and animal husbandry in the Puranas—a category of Sanskrit literature describing the culture and heritage of ancient Indian society. Besides detailing animal care, the six chapters of this essay also documents various Puranic agricultural science: ploughing, sowing, soil-types/fertility tests, transplantation, manuring, irrigation/water-management, tanks, rainfall–Sun dependence, horticulture, plus crop lists (e.g., Vrihi, Yava, Godhuma) and festivals/rites.
-
-Go directly to: 
-Footnotes.
 
 Part 18 - Sowing of Seeds
 
@@ -12288,10 +11079,6 @@ These purposes comprise:
 (6) increasing the yield, and
 (7) inducing variation in the progeny.[2]
 
-Footnotes and references:
-
-[back to top]
-
 [1]:
 
 Aiyer, A.K. Yegna Narayan, op.cit., p. 346
@@ -12304,15 +11091,9 @@ Ibid., p. 253
 
 ## 107. Part 20 - Plant-Protection Practices
 
-
 Agriculture and Animal husbandry in the Puranas
 
-by Purboshri Borpuzari | 2019 | 74,328 words
-
 This page relates ‘Plant-Protection Practices’ of the study on agriculture and animal husbandry in the Puranas—a category of Sanskrit literature describing the culture and heritage of ancient Indian society. Besides detailing animal care, the six chapters of this essay also documents various Puranic agricultural science: ploughing, sowing, soil-types/fertility tests, transplantation, manuring, irrigation/water-management, tanks, rainfall–Sun dependence, horticulture, plus crop lists (e.g., Vrihi, Yava, Godhuma) and festivals/rites.
-
-Go directly to: 
-Footnotes.
 
 Part 20 - Plant-Protection Practices
 
@@ -12354,10 +11135,6 @@ The tribal farmers sow ginger after treating with a solution of cow dung. About 
 
 Farmers use different simple practices for effective control of storage pests; viz., fuel wood ash 250 g for 250 kg of pulses; dry neem leaves 2.5 kg for 100 kg of wheat; and five to six dry chilies placed in one kg seed of green gram (mudga) and black gram(māṣa).
 
-Footnotes and references:
-
-[back to top]
-
 [1]:
 
 Saxena, R.C., et al, op.cit., p. 104-105
@@ -12390,15 +11167,9 @@ Ibid., p.102
 
 ## 108. Part 21 - Irrigation (in modern Indian Agriculture)
 
-
 Agriculture and Animal husbandry in the Puranas
 
-by Purboshri Borpuzari | 2019 | 74,328 words
-
 This page relates ‘Irrigation (in modern Indian Agriculture)’ of the study on agriculture and animal husbandry in the Puranas—a category of Sanskrit literature describing the culture and heritage of ancient Indian society. Besides detailing animal care, the six chapters of this essay also documents various Puranic agricultural science: ploughing, sowing, soil-types/fertility tests, transplantation, manuring, irrigation/water-management, tanks, rainfall–Sun dependence, horticulture, plus crop lists (e.g., Vrihi, Yava, Godhuma) and festivals/rites.
-
-Go directly to: 
-Footnotes.
 
 Part 21 - Irrigation (in modern Indian Agriculture)
 
@@ -12434,10 +11205,6 @@ The following important irrigation-power projects were undertaken during the co
 
 The Rajasthan Canal Project now known as Indira Gandhi Nahar Pariyojana, one of the largest canal systems of the world, is a gigantic human effort to transform a part of the vast Thar Desert into a land of prosperity.[7]
 
-Footnotes and references:
-
-[back to top]
-
 [1]:
 
 Matsya Purāṇa , 221.9
@@ -12470,25 +11237,15 @@ Saxena, R.C., et al, op.cit., p. 87
 
 ## 109. Part 22 - Description of the Akṣaya Tṛtīyā festival (i.e., Akha Teej)
 
-
 Agriculture and Animal husbandry in the Puranas
 
-by Purboshri Borpuzari | 2019 | 74,328 words
-
 This page relates ‘Description of the Akshaya Tritiya festival (i.e., Akha Teej)’ of the study on agriculture and animal husbandry in the Puranas—a category of Sanskrit literature describing the culture and heritage of ancient Indian society. Besides detailing animal care, the six chapters of this essay also documents various Puranic agricultural science: ploughing, sowing, soil-types/fertility tests, transplantation, manuring, irrigation/water-management, tanks, rainfall–Sun dependence, horticulture, plus crop lists (e.g., Vrihi, Yava, Godhuma) and festivals/rites.
-
-Go directly to: 
-Footnotes.
 
 Part 22 - Description of the Akṣaya Tṛtīyā festival (i.e., Akha Teej)
 
 [Full title: Festivals Related to Agriculture (1) Akṣaya Tṛtīyā, or Akha Teej]
 
 Akṣayya Tṛtīyā is an agricultural festival, which is observed on the 3rd bright of the month Vaiśākha(April).[1] At present time, on this day farmers in Rajasthan sow seeds, especially paddy in the field, ceremonially. After ablution in a river or tank, wearing new cloths, the farmers carry the seeds in new baskets to the field. Then they make offerings to Goddess Lakṣmī in the field and sow the seeds ceremonially. Goddess Lakṣmī is prayed in the farmer’s home for abundant crops.[2] In the Bhaviṣya Purāṇa, reference of Akṣaya Tṛtīyā is met with. Pacification of the manes is a specialty of this day. Special things are mentioned to be given as gifts on this day. They are-water-jars, water-pitchers, umbrellas, gold, a piece of land and agricultural products such as yava, godhūma, caṇaka, saktu, etc.[3] It is believed that things gifted on this day would never be in shortage. So this day is called akṣayya [akṣaya].[4]
-
-Footnotes and references:
-
-[back to top]
 
 [1]:
 
@@ -12510,15 +11267,9 @@ Ibid., 30.19
 
 ## 110. Part 23 - Description of the Dīpāvalī festival
 
-
 Agriculture and Animal husbandry in the Puranas
 
-by Purboshri Borpuzari | 2019 | 74,328 words
-
 This page relates ‘Description of the Dipavali festival’ of the study on agriculture and animal husbandry in the Puranas—a category of Sanskrit literature describing the culture and heritage of ancient Indian society. Besides detailing animal care, the six chapters of this essay also documents various Puranic agricultural science: ploughing, sowing, soil-types/fertility tests, transplantation, manuring, irrigation/water-management, tanks, rainfall–Sun dependence, horticulture, plus crop lists (e.g., Vrihi, Yava, Godhuma) and festivals/rites.
-
-Go directly to: 
-Footnotes.
 
 Part 23 - Description of the Dīpāvalī festival
 
@@ -12532,13 +11283,7 @@ This festival is called Dīpāvalī, as the waving of the lights is an important
 
 tdīpairnīrājanādatra saiṣā dīpāvaliḥ smṛtā.[3]
 
-tdīpairnīrājanādatra saiṣā dīpāvaliḥ smṛtā.[3]
-
 On the 14th dark of Āśvina, bath should be taken early in the morning, applying oil to the body, because on this day the Goddess Lakṣmī stays in oil and the Gaṅgā in water.[4] The eating of the broth of the leaves of black-gram (māṣa) is also mentioned as a special rite on this day.[5]
-
-Footnotes and references:
-
-[back to top]
 
 [1]:
 
@@ -12564,25 +11309,15 @@ Ibid.,2.4.9.47
 
 ## 111. Part 24 - The festival of Poṅgal of Tamil Nadu
 
-
 Agriculture and Animal husbandry in the Puranas
 
-by Purboshri Borpuzari | 2019 | 74,328 words
-
 This page relates ‘festival of Pongal of Tamil Nadu’ of the study on agriculture and animal husbandry in the Puranas—a category of Sanskrit literature describing the culture and heritage of ancient Indian society. Besides detailing animal care, the six chapters of this essay also documents various Puranic agricultural science: ploughing, sowing, soil-types/fertility tests, transplantation, manuring, irrigation/water-management, tanks, rainfall–Sun dependence, horticulture, plus crop lists (e.g., Vrihi, Yava, Godhuma) and festivals/rites.
-
-Go directly to: 
-Footnotes.
 
 Part 24 - The festival of Poṅgal of Tamil Nadu
 
 [Full title: Festivals Related to Agriculture (4) Poṅgal of Tamil Nadu]
 
 The beginning of the Uttarāyaṇa(when the apparent movement of the Sun is Northwards) event is celebrated as Poṅgal. Poṅgal is a harvest festival. The Poṅgal is celebrated for four days. The celebration of Poṅgal marks a period of abundance, harmony and pleasure. Moreover, it is celebrated in honor of the sun praying for abundant crops. Families gather to express joy and to share their joy and harvests with others. Milk and rice are offered to the Sun.[1] Likewise we find in the Purāṇic texts the mention of festivals like, Āgneya-Utsava[2], Indra Mahotsava[3] Madana Mahotsava[4] and Saṃkrānti,[5] which are closely connected with agriculture.
-
-Footnotes and references:
-
-[back to top]
 
 [1]:
 
@@ -12608,15 +11343,9 @@ Skanda Purāṇa , 2.242.6-29
 
 ## 112. Part 23 - The festival of Bihu of Assam
 
-
 Agriculture and Animal husbandry in the Puranas
 
-by Purboshri Borpuzari | 2019 | 74,328 words
-
 This page relates ‘festival of Bihu of Assam’ of the study on agriculture and animal husbandry in the Puranas—a category of Sanskrit literature describing the culture and heritage of ancient Indian society. Besides detailing animal care, the six chapters of this essay also documents various Puranic agricultural science: ploughing, sowing, soil-types/fertility tests, transplantation, manuring, irrigation/water-management, tanks, rainfall–Sun dependence, horticulture, plus crop lists (e.g., Vrihi, Yava, Godhuma) and festivals/rites.
-
-Go directly to: 
-Footnotes.
 
 Part 23 - The festival of Bihu of Assam
 
@@ -12644,10 +11373,6 @@ The Māgh Bihu is celebrated on the last day of the month Pauṣa and lasts for 
 
 Likewise the Skanda Purāṇa[1] mentions about the festival Saṃkrānti which was observed in the month of Māgha. This is the festival, where new rice was to be offered to the God.
 
-Footnotes and references:
-
-[back to top]
-
 [1]:
 
 Skanda Purāṇa ,2.2.42.6-29
@@ -12656,15 +11381,9 @@ Skanda Purāṇa ,2.2.42.6-29
 
 ## 113. Part 25 - Animal Husbandry in the Modern Age—Introduction
 
-
 Agriculture and Animal husbandry in the Puranas
 
-by Purboshri Borpuzari | 2019 | 74,328 words
-
 This page relates ‘Animal Husbandry in the Modern Age—Introduction’ of the study on agriculture and animal husbandry in the Puranas—a category of Sanskrit literature describing the culture and heritage of ancient Indian society. Besides detailing animal care, the six chapters of this essay also documents various Puranic agricultural science: ploughing, sowing, soil-types/fertility tests, transplantation, manuring, irrigation/water-management, tanks, rainfall–Sun dependence, horticulture, plus crop lists (e.g., Vrihi, Yava, Godhuma) and festivals/rites.
-
-Go directly to: 
-Footnotes.
 
 Part 25 - Animal Husbandry in the Modern Age—Introduction
 
@@ -12679,10 +11398,6 @@ The herd books were supposed to have—
 (c) final register of females.
 
 The registers were to maintain detailed information on production records of each animal, prizes won in competitions etc.[3]
-
-Footnotes and references:
-
-[back to top]
 
 [1]:
 
@@ -12700,25 +11415,15 @@ Lokeshwar, R.R., Handbook of Animal Husbandry, p. 13
 
 ## 114. Part 26 - Breeding Policy (in modern Indian society)
 
-
 Agriculture and Animal husbandry in the Puranas
 
-by Purboshri Borpuzari | 2019 | 74,328 words
-
 This page relates ‘Breeding Policy (in modern Indian society)’ of the study on agriculture and animal husbandry in the Puranas—a category of Sanskrit literature describing the culture and heritage of ancient Indian society. Besides detailing animal care, the six chapters of this essay also documents various Puranic agricultural science: ploughing, sowing, soil-types/fertility tests, transplantation, manuring, irrigation/water-management, tanks, rainfall–Sun dependence, horticulture, plus crop lists (e.g., Vrihi, Yava, Godhuma) and festivals/rites.
-
-Go directly to: 
-Footnotes.
 
 Part 26 - Breeding Policy (in modern Indian society)
 
 [Full title: Animal Husbandry in the Modern Age of 20-21st Century (1) Breeding Policy]
 
 No substantial improvement in cattle economy is possible unless measures are adopted to eliminate the bad quality animals and improve the strain by careful breeding. The main methods adopted for the purpose have been two viz., the provision of pedigree and improved bulls, and the castration of inferior males.[1] A Joint Committee which was consisted of members of the Animal Breeding Committee and the Livestock Committee of the Indian Council of Agricultural Research (ICAR) has laid down an ‘All-India cattle breeding policy’, which has been accepted by the Central and the State Governments and is now adopted throughout the country.[2] According to this policy each State has been divided into zones, and allocation made regarding the breeds of bulls suited for each zone.[3] It is intended to develop the well defined local breeds by selective breeding in their native tracts, and to take up upgrading of the indigenous stock in other areas with the help of suitable Indian breeds, preferably general utility or milch breeds. The only exception is the hilly and heavy rainfall areas where cross-breeding with bulls of imported dairy breeds like the Jersey is being tried. As regards the draught breeds, which predominate in the country, the policy has been to develop their milch qualities to the maximum possible extent through selective breeding without causing any deterioration in their draught capacity.[4] The government of India also started herd registration centers in 1963-64 for the purpose of registration of breeds in different states. First to be set up was at Rohtak for Hariana and Murrah breeds. Presently, there are 4 centers in the country, one each at Ahmedabad, Rohtak, Ajmer and Ongole.[5]
-
-Footnotes and references:
-
-[back to top]
 
 [1]:
 
@@ -12744,25 +11449,15 @@ Lokeshwar, R.R., op.cit., p. 14
 
 ## 115. Part 28 - Feeding of Cattle (in modern Indian society)
 
-
 Agriculture and Animal husbandry in the Puranas
 
-by Purboshri Borpuzari | 2019 | 74,328 words
-
 This page relates ‘Feeding of Cattle (in modern Indian society)’ of the study on agriculture and animal husbandry in the Puranas—a category of Sanskrit literature describing the culture and heritage of ancient Indian society. Besides detailing animal care, the six chapters of this essay also documents various Puranic agricultural science: ploughing, sowing, soil-types/fertility tests, transplantation, manuring, irrigation/water-management, tanks, rainfall–Sun dependence, horticulture, plus crop lists (e.g., Vrihi, Yava, Godhuma) and festivals/rites.
-
-Go directly to: 
-Footnotes.
 
 Part 28 - Feeding of Cattle (in modern Indian society)
 
 [Full title: Animal Husbandry in the Modern Age of 20-21st Century (3) Feeding of Cattle]
 
 In India we have a large number of tree species whose leaves can be used for feeding livestock. While tree leaves are used sparingly for cattle and buffaloes, most of the sheep, goats and camels in the country are maintained on tree leaves.[1] Trees of Prosopis, Acacia and Ficus species and the well-known nimba are probably the only source of green material for summer in many parts of the country.[2] In Madras and Andhra States, the feeding material for cattle consists of straws of cereal crops, which are grown in 23·7 million acres occupying about 75 per cent of the total cultivated area, bhusa of pulse crops occupying nearly 3 million acres and miscellaneous fodder crops occupying 0·5 million acres. Besides the above, concentrated feeds are also given to superior bullocks and milch animals.[3] The important cattle feeds and fodders available in South India are -rice straw, sorghum straw, ragi straw, minor millet straws, leguminous bhusa, grasses, green fodders, pulses etc.[4] The Purāṇas too mention feeding materials which are to be fed to the animals. It is suggested there in the Purāṇas that a calf should be given a food which consists of māṣa, tila, godhūma, payaḥ, kṣīra and ghṛta(clarified butter), mixed with lavaṇa, to develope well.[5] For an elephant, the food which consists of ṣaṣṭi, vrīhi and śālī rice, is considered the best food.[6] The food consists of wheat and barley should be ranked as second best, while the other sorts of food should be considered inferior sort.[7]
-
-Footnotes and references:
-
-[back to top]
 
 [1]:
 
@@ -12796,15 +11491,9 @@ Ibid., 287.24b
 
 ## 116. Part 27 - Classification of Breeds (in modern Indian society)
 
-
 Agriculture and Animal husbandry in the Puranas
 
-by Purboshri Borpuzari | 2019 | 74,328 words
-
 This page relates ‘Classification of Breeds (in modern Indian society)’ of the study on agriculture and animal husbandry in the Puranas—a category of Sanskrit literature describing the culture and heritage of ancient Indian society. Besides detailing animal care, the six chapters of this essay also documents various Puranic agricultural science: ploughing, sowing, soil-types/fertility tests, transplantation, manuring, irrigation/water-management, tanks, rainfall–Sun dependence, horticulture, plus crop lists (e.g., Vrihi, Yava, Godhuma) and festivals/rites.
-
-Go directly to: 
-Footnotes.
 
 Part 27 - Classification of Breeds (in modern Indian society)
 
@@ -12841,10 +11530,6 @@ The best indigenous breeds of buffaloes are-
 
 Although the population of buffaloes is much less than that of cows, more than 50 per cent of the milk produced in India, at present, is buffalo's milk. On account of the higher fat percentage in the buffalo’s milk (average 7.5 per cent), it is more commonly used for the manufacture of dairy products, e.g. butter, ghee, and cheese and it yields a much greater return than the cow's milk. Moreover, buffaloes are able to digest rougher feeds. Male buffaloes after castration are used for heavy transport as well as for ploughing. They are generally not worked during the hot part of the day.[3]
 
-Footnotes and references:
-
-[back to top]
-
 [1]:
 
 Randhawa, M.S., A History of Agriculture in India, volume 4, p. 537-543
@@ -12861,15 +11546,9 @@ Ibid., p. 543-544
 
 ## 117. Part 29 - Management of Cattle (in modern Indian society)
 
-
 Agriculture and Animal husbandry in the Puranas
 
-by Purboshri Borpuzari | 2019 | 74,328 words
-
 This page relates ‘Management of Cattle (in modern Indian society)’ of the study on agriculture and animal husbandry in the Puranas—a category of Sanskrit literature describing the culture and heritage of ancient Indian society. Besides detailing animal care, the six chapters of this essay also documents various Puranic agricultural science: ploughing, sowing, soil-types/fertility tests, transplantation, manuring, irrigation/water-management, tanks, rainfall–Sun dependence, horticulture, plus crop lists (e.g., Vrihi, Yava, Godhuma) and festivals/rites.
-
-Go directly to: 
-Footnotes.
 
 Part 29 - Management of Cattle (in modern Indian society)
 
@@ -12894,10 +11573,6 @@ The other points to be considered in housing cattle are:
 (6) The manure pit should be at a sufficient distance from the cow-house 60 to 100 ft. away, if possible.[2]
 
 In case of sick animals, the feed should consist of easily digestible tender grass and gruel made with cereal grains. Plenty of water has to be provided for drinking.[3] The Purāṇas too mention such type of process regarding accommodation of cattle. It is suggested there in the Agni Purāṇa that, horses should be stabled in a well-ventilated house and dried bay should be strewn over its floors.[4] The Matsya Purāṇa attests that the stables and cowsheds should be to the left side of the king’s mansion. The stables should face to the north or to the south. If they face to other directions than it was considered bad. There should be lamp burning in the stables through the whole night.[5] The Purāṇas too mention various remedies to treat sick animals. In case of treating elephants it is mentioned that decoction of triphalā, pañcakola, daśamūla, viḍanga, śatāvarī, guḍucī, nimba, vāsaka and kiṃśuka is useful for curing the diseases in elephant.[6] In case of treatment of horses, it is mentioned in the Garuḍa Purāṇa that to prevent from diseases, the essence of the sarala tree, margosa (nimba) leaves, guggula, mustard, ghee, sesame, vacā, and asafetida should be tied to the neck of the horse.[7]
-
-Footnotes and references:
-
-[back to top]
 
 [1]:
 
@@ -12931,15 +11606,9 @@ Ibid.,1.201.6-7a
 
 ## 118. Part 31 - Indigenous Plants for the Treatment of Diseases of Animals
 
-
 Agriculture and Animal husbandry in the Puranas
 
-by Purboshri Borpuzari | 2019 | 74,328 words
-
 This page relates ‘Indigenous Plants for the Treatment of Diseases of Animals’ of the study on agriculture and animal husbandry in the Puranas—a category of Sanskrit literature describing the culture and heritage of ancient Indian society. Besides detailing animal care, the six chapters of this essay also documents various Puranic agricultural science: ploughing, sowing, soil-types/fertility tests, transplantation, manuring, irrigation/water-management, tanks, rainfall–Sun dependence, horticulture, plus crop lists (e.g., Vrihi, Yava, Godhuma) and festivals/rites.
-
-Go directly to: 
-Footnotes.
 
 Part 31 - Indigenous Plants for the Treatment of Diseases of Animals
 
@@ -12958,10 +11627,6 @@ The modern farmers follow the process of ploughing by bullocks for sowing seeds 
 In the Purāṇas we don’t find about Kuṇapajala. Ancient farmers used manures mostly from animal excreta. But the post-Purāṇic texts are the first to introduce Kuṇapajala as most effective manure.Besides in the modern era of 21st century necessary steps have been taken by constructing dams and lakes to improve the system of irrigation and water management. It is noticed that the Purāṇas refer to artificial reservoirs of water such as tanks (vāpī), wells (kūpa), ponds (puṣkariṇī or taḍāga), etc. The modern system of agriculture also depends upon such types of artificial reservoirs for irrigation and water management. Both the Purāṇic and the modern references emphasize on rainfall for the support of vegetation. Even today the method of rainwater harvesting is widely used for irrigation. It is observed that ancient farmers had adequate knowledge on meteorology along with the geographical and climatic conditions, which could help them to plan for the process of farming. They studied the heavenly bodies like Sun, Moon and stars in order to understand the enigmatic pattern of rainfall. The indigenous method of weather forecasting is still followed by our modern farmers in India. Even today the village farmers who have also knowledge in astrology can predict about the weather accurately by following Almanac. People all over India use this Almanac as an astrological guide to begin any process of farming. Looking at the accuracy and correctness of rainfall prediction made in Almanacs or Pañcāṅgas, the scholars are now engaged in the preparation of region-wise Kṛṣi-Pañcāṅga for the predictions exclusively related to agriculture, giving information on various aspects of rainfall, and auspicious and inauspicious time for undertaking or avoiding various agricultural activities. Kṛṣi-Pañcāṅga would be very useful for farming communities.
 
 In case of animal husbandry modern farmers follow almost all the methods of rearing and tending, feeding and nourishment, treatment and care and management of cattle from the Purāṇas. It is observed that diets of animals were well-maintained by the Purāṇas. The modern system of animal husbandry also strictly follows the diets which are to be served to the animals when they are kept as pets. Even today in various parts of the country the feeding material for cattle consists of straws of cereal crops, trees of Prosopis, Acacia and Ficus species and the well-known nimba. Both the Purāṇic and post-Purāṇic texts deal with the cattle care methodically. The people in the days of the Purāṇas insisted on constructing sheds for cattle and ensured suitable sanitized conditions in the cow sheds, horse and elephant stables. Even today this consciousness of animal caring is observed. Today, Gośālās(protective shelters for cows) have been established all over India for preservation, protection and welfare of cows and calves. Special treatment and care for cattle are taken in Gośālās including bathing of cows, inspecting the cattle if they are suffering from any diseases or injury, healing the cows which are injured and medical treatment of diseased cows. Cattle in Gośālās are also taken out for grazing. They are provided with meals of gram, husk, fresh and dry fodder twice daily. Gosevā ambulances are also launched for service of cattle. In Assam, Jorhat Gośālā (Śrī Gītā Āśram) is the first Gośālā, to launch Gosevā ambulance service for injured cows. Moreover, in order to sustain organic farming, compost such as Vermicompost and Nadep Compost are prepared in Gośālās. Vermicompost is prepared from earthworms and any types of bio-degradable wastes such as vegetable wastes, hotel refuse, crop residues, and wastes from Agro-Industries. Nadep compost is prepared from cow-dung and crop residues, kitchen wastes, weeds, leaves, grasses, sugarcane trash and forest litter etc. Pañcagavya products are also obtained from the cows of Gośālā. Pañcagavya is used as a fermented product in agriculture today. The Purāṇas are the storehouse of traditional medicines prescribed for the treatment of animal diseases. The treatments of some animals are dealt with in a few chapters of the different Purāṇas. Modern veterinary doctors also follow most of traditional treatments as prescribed by the Purāṇas. It is witnessed that the system of agriculture and animal husbandry are not properly arranged in the Purāṇas. Various aspects of agriculture are scattered here and there in the Purāṇas. But the post-Purāṇic texts of agriculture seem to be more systematic and detailed, clear, simple and easy to learn. Thus, the Purāṇas appear to be a treasure house of agriculture and animal husbandry which are relevant even in the modern era. It can be therefore, opined that the Vedas and the Purāṇas are the pioneers of modern agriculture and animal husbandry in India.
-
-Footnotes and references:
-
-[back to top]
 
 [1]:
 
@@ -13019,25 +11684,15 @@ Garuḍa Purāṇa , 1.201.38
 
 ## 119. Part 30 - Rearing of Cattle (in modern Indian society)
 
-
 Agriculture and Animal husbandry in the Puranas
 
-by Purboshri Borpuzari | 2019 | 74,328 words
-
 This page relates ‘Rearing of Cattle (in modern Indian society)’ of the study on agriculture and animal husbandry in the Puranas—a category of Sanskrit literature describing the culture and heritage of ancient Indian society. Besides detailing animal care, the six chapters of this essay also documents various Puranic agricultural science: ploughing, sowing, soil-types/fertility tests, transplantation, manuring, irrigation/water-management, tanks, rainfall–Sun dependence, horticulture, plus crop lists (e.g., Vrihi, Yava, Godhuma) and festivals/rites.
-
-Go directly to: 
-Footnotes.
 
 Part 30 - Rearing of Cattle (in modern Indian society)
 
 [Full title: Animal Husbandry in the Modern Age of 20-21st Century (5) Rearing of Cattle]
 
 In rearing cattle, especially for dairy purposes, three things should be constantly kept in mind; viz., Breed, Feed and Trouble. By breed is meant undoubted pedigree, i.e., both the sire and the dam should be known for two or three generations past to have been of the desired type. In arranging for the feed of cattle, paddocks with shady trees are a necessity. Jowar, millets and other cheap grains, bran, oil-cakes and groundnut plants are the principal food-stuffs, besides straw, that should be the main vehicle to be depended upon. The oil-cake should be bought, but the other things should be grown, if possible, on the premises. Good water is of first consideration. Under the head of trouble, comes changing of litter or bedding, keeping the house clean, avoiding all ailments by watching the progress of the cattle day by day.[1] Rearing of animals is mentioned in the Purāṇas also. According to the Purāṇas, it was customary to keep in the stables the following beasts for the welfare of the horses-the cock, monkeys, especially the apes, a cow with her calf and goats. Dung should always be cleared away from the stables or elephant yards or cow sheds, before sunset. The quarters of the charioteers (sārathī) should be near the stables.[2] As diseases become more powerful in the fortress therefore, Veterinary doctors (govaidya, aśvavaidya and gajavaidya) should be provided lodging within the fortress.[3]
-
-Footnotes and references:
-
-[back to top]
 
 [1]:
 
@@ -13055,10 +11710,7 @@ Ibid., 217.25
 
 ## 120. Chapter 6 - Conclusive Remarks
 
-
 Agriculture and Animal husbandry in the Puranas
-
-by Purboshri Borpuzari | 2019 | 74,328 words
 
 This page relates ‘Conclusive Remarks’ of the study on agriculture and animal husbandry in the Puranas—a category of Sanskrit literature describing the culture and heritage of ancient Indian society. Besides detailing animal care, the six chapters of this essay also documents various Puranic agricultural science: ploughing, sowing, soil-types/fertility tests, transplantation, manuring, irrigation/water-management, tanks, rainfall–Sun dependence, horticulture, plus crop lists (e.g., Vrihi, Yava, Godhuma) and festivals/rites.
 

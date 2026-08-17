@@ -9,19 +9,11 @@ date: "2026-08-17"
 description: "text includes treatments, recipes and remedies and is categorised as Rasa Shastra: an important branch of Ayurveda that specialises in medicinal/ herbal chemistry, alchemy and mineralogy, for the p..."
 ---
 
-**Author / Source:** by Bhudeb Mookerjee
-
-
-**Total Chapters/Sections:** 135
-
 ---
 
 ## 1. Part 2 - Mica should be deprived of its glaze
 
-
 Rasa Jala Nidhi, vol 2: Minerals (uparasa)
-
-by Bhudeb Mookerjee | 1938 | 28,803 words | ISBN-10: 8170305829 | ISBN-13: 9788170305828
 
 This second volume of the Rasa-jala-nidhi deals with the purification, incineration and medicinal uses of various minerals (uparasa), as well as preventing faults due to misuse. It is continued in the third volume which deals with the various metals.
 
@@ -39,10 +31,7 @@ This concludes ‘Mica should be deprived of its glaze’ included in Bhudeb Moo
 
 ## 2. Chapter I - Uparasa (1): Abhra or Abhraka (mica)
 
-
 Rasa Jala Nidhi, vol 2: Minerals (uparasa)
-
-by Bhudeb Mookerjee | 1938 | 28,803 words | ISBN-10: 8170305829 | ISBN-13: 9788170305828
 
 This second volume of the Rasa-jala-nidhi deals with the purification, incineration and medicinal uses of various minerals (uparasa), as well as preventing faults due to misuse. It is continued in the third volume which deals with the various metals.
 
@@ -60,10 +49,7 @@ This concludes ‘Uparasa (1): Abhra or Abhraka (mica)’ included in Bhudeb Moo
 
 ## 3. Part 1 - Characteristics of Mica (abhra or abhraka)
 
-
 Rasa Jala Nidhi, vol 2: Minerals (uparasa)
-
-by Bhudeb Mookerjee | 1938 | 28,803 words | ISBN-10: 8170305829 | ISBN-13: 9788170305828
 
 This second volume of the Rasa-jala-nidhi deals with the purification, incineration and medicinal uses of various minerals (uparasa), as well as preventing faults due to misuse. It is continued in the third volume which deals with the various metals.
 
@@ -89,10 +75,7 @@ This concludes ‘Characteristics of Mica (abhra or abhraka)’ included in Bhud
 
 ## 4. Part 3 - Purification of Mica
 
-
 Rasa Jala Nidhi, vol 2: Minerals (uparasa)
-
-by Bhudeb Mookerjee | 1938 | 28,803 words | ISBN-10: 8170305829 | ISBN-13: 9788170305828
 
 This second volume of the Rasa-jala-nidhi deals with the purification, incineration and medicinal uses of various minerals (uparasa), as well as preventing faults due to misuse. It is continued in the third volume which deals with the various metals.
 
@@ -122,17 +105,11 @@ This concludes ‘Purification of Mica’ included in Bhudeb Mookerjee Rasa Jala
 
 ## 5. Part 4 - Process for creation of Dhanya-abhra (paddy mica)
 
-
 Rasa Jala Nidhi, vol 2: Minerals (uparasa)
-
-by Bhudeb Mookerjee | 1938 | 28,803 words | ISBN-10: 8170305829 | ISBN-13: 9788170305828
 
 This second volume of the Rasa-jala-nidhi deals with the purification, incineration and medicinal uses of various minerals (uparasa), as well as preventing faults due to misuse. It is continued in the third volume which deals with the various metals.
 
 The Rasa-jala-nidhi (“the ocean of Iatrochemistry, or, chemical medicine) is a compendium of Sansk...
-
-Go directly to: 
-Footnotes.
 
 Part 4 - Process for creation of Dhanya-abhra (paddy mica)
 
@@ -266,10 +243,6 @@ Vajra-abhra is to be rubbed in a mortar with hot milk of cow, and heated by a mi
 
 The names of the drugs and their sequence are as follows milks of arka, banyan, bajri, and kanya; juices of eranda roots, jaba-tikta, musta, guduchi, bhanga, gokshura, bartakini (kantakari), shalaparni, prisniparni, sveta sarshapa, apamarga, aerial roots of a banyan tree, vilba, agnimantha, chitraka, tinduka, haritaki, patali, amalaki, bibhitaki, kumbhi growing in water, talisha-patra, talamuli, basaka, asvagandha, kesharaja, kadali (plantain), saptaparni, dhattura, lodhra, devadaru, tulsi, durba, white durba, kasamarda, maricha, dadima, kakamachi, shankhapuspi, nata, tambula, punarnava, brahmi, indra-baruni, bhargi, devadali, kapittha, shivalingi, katu-rohini, kinshuka, koshataki, indura-parni, minakshi, karavi, tilaparni, kumbhi, ardraka, shatabari, goat’s blood, and cow’s urine.
 
-Footnotes and references:
-
-[back to top]
-
 [1]:
 
 Shukta is prepared as follows:—One prastha of boiled rice made into a paste (by being overboiled, robbed, and sifted through a piece of fine cloth), 20 prasthas of kanji, 30 tolas of curd, one prastha of molasses, 32 tolas of the residues of kanji, 64 tolas of shunthi, and eight tolas of pippali, jira, saindhava, haridra, and maricha, combined—all these things are to be kept for eight days, in an earthen vessel, previously soaked with clarified butter. It is then to be filtered and mixed with three tolas each of guda tvaka, ela, naga-keshara, and patri.
@@ -286,17 +259,11 @@ This concludes ‘Process for creation of Dhanya-abhra (paddy mica)’ included 
 
 ## 6. Part 5 - Killing (incineration) of Mica
 
-
 Rasa Jala Nidhi, vol 2: Minerals (uparasa)
-
-by Bhudeb Mookerjee | 1938 | 28,803 words | ISBN-10: 8170305829 | ISBN-13: 9788170305828
 
 This second volume of the Rasa-jala-nidhi deals with the purification, incineration and medicinal uses of various minerals (uparasa), as well as preventing faults due to misuse. It is continued in the third volume which deals with the various metals.
 
 The Rasa-jala-nidhi (“the ocean of Iatrochemistry, or, chemical medicine) is a compendium of Sansk...
-
-Go directly to: 
-Footnotes.
 
 Part 5 - Killing (incineration) of Mica
 
@@ -330,10 +297,6 @@ Killers of mica.
 
 Mica is also incinerated by being subjected to puta, after having been rubbed with the following:—tanduliyaka, brihati, nagaballi, tagarpadika, punamava,[1] hilamochika, mandukaparni, tiktaka (kirata-tikta), akhuparni, madana, ardraka, palasha, mercury, and amalaki.
 
-Footnotes and references:
-
-[back to top]
-
 [1]:
 
 Purified gold, and silver, as well as mica of the above des-creption, are called “bijam” (seed), simply because they are fit for being swallowed by mercury.
@@ -346,10 +309,7 @@ This concludes ‘Killing (incineration) of Mica’ included in Bhudeb Mookerjee
 
 ## 7. Part 6 - Use of incinerated mica
 
-
 Rasa Jala Nidhi, vol 2: Minerals (uparasa)
-
-by Bhudeb Mookerjee | 1938 | 28,803 words | ISBN-10: 8170305829 | ISBN-13: 9788170305828
 
 This second volume of the Rasa-jala-nidhi deals with the purification, incineration and medicinal uses of various minerals (uparasa), as well as preventing faults due to misuse. It is continued in the third volume which deals with the various metals.
 
@@ -389,17 +349,11 @@ This concludes ‘Use of incinerated mica’ included in Bhudeb Mookerjee Rasa J
 
 ## 8. Part 8 - Incineration of essence of mica
 
-
 Rasa Jala Nidhi, vol 2: Minerals (uparasa)
-
-by Bhudeb Mookerjee | 1938 | 28,803 words | ISBN-10: 8170305829 | ISBN-13: 9788170305828
 
 This second volume of the Rasa-jala-nidhi deals with the purification, incineration and medicinal uses of various minerals (uparasa), as well as preventing faults due to misuse. It is continued in the third volume which deals with the various metals.
 
 The Rasa-jala-nidhi (“the ocean of Iatrochemistry, or, chemical medicine) is a compendium of Sansk...
-
-Go directly to: 
-Footnotes.
 
 Part 8 - Incineration of essence of mica
 
@@ -427,10 +381,6 @@ Softening of essence of mica.
 
 All sorts of hard essences, including those of metals, are softened, if smelted with honey, oil, fat, and ghee, and cooled—all these being done for, ten times.
 
-Footnotes and references:
-
-[back to top]
-
 [1]:
 
 See page 260, vol I, under “Another kind of Baluka-yantra,” and page 291, ibid, under “Malla-musha.”
@@ -443,17 +393,11 @@ This concludes ‘Incineration of essence of mica’ included in Bhudeb Mookerje
 
 ## 9. Part 7 - Extraction of essence of mica
 
-
 Rasa Jala Nidhi, vol 2: Minerals (uparasa)
-
-by Bhudeb Mookerjee | 1938 | 28,803 words | ISBN-10: 8170305829 | ISBN-13: 9788170305828
 
 This second volume of the Rasa-jala-nidhi deals with the purification, incineration and medicinal uses of various minerals (uparasa), as well as preventing faults due to misuse. It is continued in the third volume which deals with the various metals.
 
 The Rasa-jala-nidhi (“the ocean of Iatrochemistry, or, chemical medicine) is a compendium of Sansk...
-
-Go directly to: 
-Footnotes.
 
 Part 7 - Extraction of essence of mica
 
@@ -487,10 +431,6 @@ Second process of purification.
 
 The particles of essence of mica are to be kept confined with the shodhaniya-gana and sour kanji, in a crucible, and heated until the smelting of the particles. The essence is then to be heated again twice. Thus purified, the essence becomes fit, by incineration, for being swallowed by mercury and for use as a rasayana (i.e., a medicine which prevents and cures physical decay and senility).[2]
 
-Footnotes and references:
-
-[back to top]
-
 [1]:
 
 See page 305, vol I, for articles effecting an easy smelting of hard metals.
@@ -507,10 +447,7 @@ This concludes ‘Extraction of essence of mica’ included in Bhudeb Mookerjee 
 
 ## 10. Part 9 - Liquefaction of mica
 
-
 Rasa Jala Nidhi, vol 2: Minerals (uparasa)
-
-by Bhudeb Mookerjee | 1938 | 28,803 words | ISBN-10: 8170305829 | ISBN-13: 9788170305828
 
 This second volume of the Rasa-jala-nidhi deals with the purification, incineration and medicinal uses of various minerals (uparasa), as well as preventing faults due to misuse. It is continued in the third volume which deals with the various metals.
 
@@ -570,10 +507,7 @@ This concludes ‘Liquefaction of mica’ included in Bhudeb Mookerjee Rasa Jala
 
 ## 11. Part 10 - Transformation of tin into silver by means of mica
 
-
 Rasa Jala Nidhi, vol 2: Minerals (uparasa)
-
-by Bhudeb Mookerjee | 1938 | 28,803 words | ISBN-10: 8170305829 | ISBN-13: 9788170305828
 
 This second volume of the Rasa-jala-nidhi deals with the purification, incineration and medicinal uses of various minerals (uparasa), as well as preventing faults due to misuse. It is continued in the third volume which deals with the various metals.
 
@@ -597,10 +531,7 @@ This concludes ‘Transformation of tin into silver by means of mica’ included
 
 ## 12. Chapter II - Uparasa (2): Makshika (pyrites)
 
-
 Rasa Jala Nidhi, vol 2: Minerals (uparasa)
-
-by Bhudeb Mookerjee | 1938 | 28,803 words | ISBN-10: 8170305829 | ISBN-13: 9788170305828
 
 This second volume of the Rasa-jala-nidhi deals with the purification, incineration and medicinal uses of various minerals (uparasa), as well as preventing faults due to misuse. It is continued in the third volume which deals with the various metals.
 
@@ -618,17 +549,11 @@ This concludes ‘Uparasa (2): Makshika (pyrites)’ included in Bhudeb Mookerje
 
 ## 13. Part 1 - Characteristics of Pyrite (makshika)
 
-
 Rasa Jala Nidhi, vol 2: Minerals (uparasa)
-
-by Bhudeb Mookerjee | 1938 | 28,803 words | ISBN-10: 8170305829 | ISBN-13: 9788170305828
 
 This second volume of the Rasa-jala-nidhi deals with the purification, incineration and medicinal uses of various minerals (uparasa), as well as preventing faults due to misuse. It is continued in the third volume which deals with the various metals.
 
 The Rasa-jala-nidhi (“the ocean of Iatrochemistry, or, chemical medicine) is a compendium of Sansk...
-
-Go directly to: 
-Footnotes.
 
 Part 1 - Characteristics of Pyrite (makshika)
 
@@ -652,10 +577,6 @@ Evil effects of taking makskika, not properly purified.
 
 Makshika, not properly purified and incinerated, gives rise to loss of appetite, loss of vigour, swelling of the belly with gas attended with constipation, eye diseases, leprosy, scrofula, carbuncle, and even death.
 
-Footnotes and references:
-
-[back to top]
-
 [1]:
 
 Bimala is separately treated later on.
@@ -668,10 +589,7 @@ This concludes ‘Characteristics of Pyrite (makshika)’ included in Bhudeb Moo
 
 ## 14. Introduction (classes of uparasa)
 
-
 Rasa Jala Nidhi, vol 2: Minerals (uparasa)
-
-by Bhudeb Mookerjee | 1938 | 28,803 words | ISBN-10: 8170305829 | ISBN-13: 9788170305828
 
 This second volume of the Rasa-jala-nidhi deals with the purification, incineration and medicinal uses of various minerals (uparasa), as well as preventing faults due to misuse. It is continued in the third volume which deals with the various metals.
 
@@ -697,10 +615,7 @@ This concludes ‘Introduction (classes of uparasa)’ included in Bhudeb Mooker
 
 ## 15. Part 2 - Purification of Makshika
 
-
 Rasa Jala Nidhi, vol 2: Minerals (uparasa)
-
-by Bhudeb Mookerjee | 1938 | 28,803 words | ISBN-10: 8170305829 | ISBN-13: 9788170305828
 
 This second volume of the Rasa-jala-nidhi deals with the purification, incineration and medicinal uses of various minerals (uparasa), as well as preventing faults due to misuse. It is continued in the third volume which deals with the various metals.
 
@@ -758,17 +673,11 @@ This concludes ‘Purification of Makshika’ included in Bhudeb Mookerjee Rasa 
 
 ## 16. Part 3 - Incineration of Makshika
 
-
 Rasa Jala Nidhi, vol 2: Minerals (uparasa)
-
-by Bhudeb Mookerjee | 1938 | 28,803 words | ISBN-10: 8170305829 | ISBN-13: 9788170305828
 
 This second volume of the Rasa-jala-nidhi deals with the purification, incineration and medicinal uses of various minerals (uparasa), as well as preventing faults due to misuse. It is continued in the third volume which deals with the various metals.
 
 The Rasa-jala-nidhi (“the ocean of Iatrochemistry, or, chemical medicine) is a compendium of Sansk...
-
-Go directly to: 
-Footnotes.
 
 Part 3 - Incineration of Makshika
 
@@ -792,10 +701,6 @@ Fifth process.
 
 Purified makshika is to be rubbed with the juice of kumari, made into cakes, dried, and then subjected to kukkuta-puta for twenty seven times, which make it like nectar.
 
-Footnotes and references:
-
-[back to top]
-
 [1]:
 
 Kroda-puta is another name for labaka-puta (see page 298, vol I).
@@ -808,10 +713,7 @@ This concludes ‘Incineration of Makshika’ included in Bhudeb Mookerjee Rasa 
 
 ## 17. Part 4 - Extraction of essence of Makshika
 
-
 Rasa Jala Nidhi, vol 2: Minerals (uparasa)
-
-by Bhudeb Mookerjee | 1938 | 28,803 words | ISBN-10: 8170305829 | ISBN-13: 9788170305828
 
 This second volume of the Rasa-jala-nidhi deals with the purification, incineration and medicinal uses of various minerals (uparasa), as well as preventing faults due to misuse. It is continued in the third volume which deals with the various metals.
 
@@ -843,10 +745,7 @@ This concludes ‘Extraction of essence of Makshika’ included in Bhudeb Mooker
 
 ## 18. Chapter III - Uparasa (3): Bimala or Vimala (pyrites with red tints)
 
-
 Rasa Jala Nidhi, vol 2: Minerals (uparasa)
-
-by Bhudeb Mookerjee | 1938 | 28,803 words | ISBN-10: 8170305829 | ISBN-13: 9788170305828
 
 This second volume of the Rasa-jala-nidhi deals with the purification, incineration and medicinal uses of various minerals (uparasa), as well as preventing faults due to misuse. It is continued in the third volume which deals with the various metals.
 
@@ -864,10 +763,7 @@ This concludes ‘Uparasa (3): Bimala or Vimala (pyrites with red tints)’ incl
 
 ## 19. Part 1 - Characteristics of Bimala or Vimala (pyrites with red tints)
 
-
 Rasa Jala Nidhi, vol 2: Minerals (uparasa)
-
-by Bhudeb Mookerjee | 1938 | 28,803 words | ISBN-10: 8170305829 | ISBN-13: 9788170305828
 
 This second volume of the Rasa-jala-nidhi deals with the purification, incineration and medicinal uses of various minerals (uparasa), as well as preventing faults due to misuse. It is continued in the third volume which deals with the various metals.
 
@@ -885,10 +781,7 @@ This concludes ‘Characteristics of Bimala or Vimala (pyrites with red tints)�
 
 ## 20. Part 2 - Purification of Bimala
 
-
 Rasa Jala Nidhi, vol 2: Minerals (uparasa)
-
-by Bhudeb Mookerjee | 1938 | 28,803 words | ISBN-10: 8170305829 | ISBN-13: 9788170305828
 
 This second volume of the Rasa-jala-nidhi deals with the purification, incineration and medicinal uses of various minerals (uparasa), as well as preventing faults due to misuse. It is continued in the third volume which deals with the various metals.
 
@@ -930,10 +823,7 @@ This concludes ‘Purification of Bimala’ included in Bhudeb Mookerjee Rasa Ja
 
 ## 21. Part 3 - Incineration of bimala
 
-
 Rasa Jala Nidhi, vol 2: Minerals (uparasa)
-
-by Bhudeb Mookerjee | 1938 | 28,803 words | ISBN-10: 8170305829 | ISBN-13: 9788170305828
 
 This second volume of the Rasa-jala-nidhi deals with the purification, incineration and medicinal uses of various minerals (uparasa), as well as preventing faults due to misuse. It is continued in the third volume which deals with the various metals.
 
@@ -957,10 +847,7 @@ This concludes ‘Incineration of bimala’ included in Bhudeb Mookerjee Rasa Ja
 
 ## 22. Part 4 - Extraction of essence of Bimala
 
-
 Rasa Jala Nidhi, vol 2: Minerals (uparasa)
-
-by Bhudeb Mookerjee | 1938 | 28,803 words | ISBN-10: 8170305829 | ISBN-13: 9788170305828
 
 This second volume of the Rasa-jala-nidhi deals with the purification, incineration and medicinal uses of various minerals (uparasa), as well as preventing faults due to misuse. It is continued in the third volume which deals with the various metals.
 
@@ -984,10 +871,7 @@ This concludes ‘Extraction of essence of Bimala’ included in Bhudeb Mookerje
 
 ## 23. Part 5 - Use of the essence of Bimala
 
-
 Rasa Jala Nidhi, vol 2: Minerals (uparasa)
-
-by Bhudeb Mookerjee | 1938 | 28,803 words | ISBN-10: 8170305829 | ISBN-13: 9788170305828
 
 This second volume of the Rasa-jala-nidhi deals with the purification, incineration and medicinal uses of various minerals (uparasa), as well as preventing faults due to misuse. It is continued in the third volume which deals with the various metals.
 
@@ -1009,10 +893,7 @@ This concludes ‘Use of the essence of Bimala’ included in Bhudeb Mookerjee R
 
 ## 24. Chapter IV - Uparasa (4): Shilajatu or Shilajit (bitumen)
 
-
 Rasa Jala Nidhi, vol 2: Minerals (uparasa)
-
-by Bhudeb Mookerjee | 1938 | 28,803 words | ISBN-10: 8170305829 | ISBN-13: 9788170305828
 
 This second volume of the Rasa-jala-nidhi deals with the purification, incineration and medicinal uses of various minerals (uparasa), as well as preventing faults due to misuse. It is continued in the third volume which deals with the various metals.
 
@@ -1030,10 +911,7 @@ This concludes ‘Uparasa (4): Shilajatu or Shilajit (bitumen)’ included in Bh
 
 ## 25. Part 1 - Characteristics of Shilajatu or Shilajit (bitumen)
 
-
 Rasa Jala Nidhi, vol 2: Minerals (uparasa)
-
-by Bhudeb Mookerjee | 1938 | 28,803 words | ISBN-10: 8170305829 | ISBN-13: 9788170305828
 
 This second volume of the Rasa-jala-nidhi deals with the purification, incineration and medicinal uses of various minerals (uparasa), as well as preventing faults due to misuse. It is continued in the third volume which deals with the various metals.
 
@@ -1091,17 +969,11 @@ This concludes ‘Characteristics of Shilajatu or Shilajit (bitumen)’ included
 
 ## 26. Part 2 - Purification of shilajatu
 
-
 Rasa Jala Nidhi, vol 2: Minerals (uparasa)
-
-by Bhudeb Mookerjee | 1938 | 28,803 words | ISBN-10: 8170305829 | ISBN-13: 9788170305828
 
 This second volume of the Rasa-jala-nidhi deals with the purification, incineration and medicinal uses of various minerals (uparasa), as well as preventing faults due to misuse. It is continued in the third volume which deals with the various metals.
 
 The Rasa-jala-nidhi (“the ocean of Iatrochemistry, or, chemical medicine) is a compendium of Sansk...
-
-Go directly to: 
-Footnotes.
 
 Part 2 - Purification of shilajatu
 
@@ -1157,10 +1029,6 @@ The man who takes shilajatu should avoid the following, not only during the peri
 
 He should drink rain water, carefully collected during the rainy season, and water from big wells and fountains. He should avoid, once for all, kulattha gram, kakamachi, and flesh of pigeons.
 
-Footnotes and references:
-
-[back to top]
-
 [1]:
 
 Milk proves injurious to the system, if it is taken with such things as meat, fish, sours, beans, etc. (See Charaka and other books on Indian Hygiene).
@@ -1173,10 +1041,7 @@ This concludes ‘Purification of shilajatu’ included in Bhudeb Mookerjee Rasa
 
 ## 27. Part 3 - Incineration of shilajatu
 
-
 Rasa Jala Nidhi, vol 2: Minerals (uparasa)
-
-by Bhudeb Mookerjee | 1938 | 28,803 words | ISBN-10: 8170305829 | ISBN-13: 9788170305828
 
 This second volume of the Rasa-jala-nidhi deals with the purification, incineration and medicinal uses of various minerals (uparasa), as well as preventing faults due to misuse. It is continued in the third volume which deals with the various metals.
 
@@ -1202,10 +1067,7 @@ This concludes ‘Incineration of shilajatu’ included in Bhudeb Mookerjee Rasa
 
 ## 28. Part 4 - Karpura-shilajatu (having the odour and appearance of camphor)
 
-
 Rasa Jala Nidhi, vol 2: Minerals (uparasa)
-
-by Bhudeb Mookerjee | 1938 | 28,803 words | ISBN-10: 8170305829 | ISBN-13: 9788170305828
 
 This second volume of the Rasa-jala-nidhi deals with the purification, incineration and medicinal uses of various minerals (uparasa), as well as preventing faults due to misuse. It is continued in the third volume which deals with the various metals.
 
@@ -1223,10 +1085,7 @@ This concludes ‘Karpura-shilajatu (having the odour and appearance of camphor)
 
 ## 29. Part 5 - Evil effects of taking impure shila-jatu
 
-
 Rasa Jala Nidhi, vol 2: Minerals (uparasa)
-
-by Bhudeb Mookerjee | 1938 | 28,803 words | ISBN-10: 8170305829 | ISBN-13: 9788170305828
 
 This second volume of the Rasa-jala-nidhi deals with the purification, incineration and medicinal uses of various minerals (uparasa), as well as preventing faults due to misuse. It is continued in the third volume which deals with the various metals.
 
@@ -1248,10 +1107,7 @@ This concludes ‘Evil effects of taking impure shila-jatu’ included in Bhudeb
 
 ## 30. Part 6 - Sora: a kind of shila-jatu
 
-
 Rasa Jala Nidhi, vol 2: Minerals (uparasa)
-
-by Bhudeb Mookerjee | 1938 | 28,803 words | ISBN-10: 8170305829 | ISBN-13: 9788170305828
 
 This second volume of the Rasa-jala-nidhi deals with the purification, incineration and medicinal uses of various minerals (uparasa), as well as preventing faults due to misuse. It is continued in the third volume which deals with the various metals.
 
@@ -1269,10 +1125,7 @@ This concludes ‘Sora: a kind of shila-jatu’ included in Bhudeb Mookerjee Ras
 
 ## 31. Chapter V - Uparasa (5-6): Tuttha and Sasyaka (copper sulphate)
 
-
 Rasa Jala Nidhi, vol 2: Minerals (uparasa)
-
-by Bhudeb Mookerjee | 1938 | 28,803 words | ISBN-10: 8170305829 | ISBN-13: 9788170305828
 
 This second volume of the Rasa-jala-nidhi deals with the purification, incineration and medicinal uses of various minerals (uparasa), as well as preventing faults due to misuse. It is continued in the third volume which deals with the various metals.
 
@@ -1290,10 +1143,7 @@ This concludes ‘Uparasa (5-6): Tuttha and Sasyaka (copper sulphate)’ include
 
 ## 32. Part 1 - Characteristics of Tuttha (sulphate of copper, prepared in laboratory)
 
-
 Rasa Jala Nidhi, vol 2: Minerals (uparasa)
-
-by Bhudeb Mookerjee | 1938 | 28,803 words | ISBN-10: 8170305829 | ISBN-13: 9788170305828
 
 This second volume of the Rasa-jala-nidhi deals with the purification, incineration and medicinal uses of various minerals (uparasa), as well as preventing faults due to misuse. It is continued in the third volume which deals with the various metals.
 
@@ -1311,10 +1161,7 @@ This concludes ‘Characteristics of Tuttha (sulphate of copper, prepared in lab
 
 ## 33. Part 2 - Purification of tuttha
 
-
 Rasa Jala Nidhi, vol 2: Minerals (uparasa)
-
-by Bhudeb Mookerjee | 1938 | 28,803 words | ISBN-10: 8170305829 | ISBN-13: 9788170305828
 
 This second volume of the Rasa-jala-nidhi deals with the purification, incineration and medicinal uses of various minerals (uparasa), as well as preventing faults due to misuse. It is continued in the third volume which deals with the various metals.
 
@@ -1350,17 +1197,11 @@ This concludes ‘Purification of tuttha’ included in Bhudeb Mookerjee Rasa Ja
 
 ## 34. Part 3 - Extraction of essence from tuttha
 
-
 Rasa Jala Nidhi, vol 2: Minerals (uparasa)
-
-by Bhudeb Mookerjee | 1938 | 28,803 words | ISBN-10: 8170305829 | ISBN-13: 9788170305828
 
 This second volume of the Rasa-jala-nidhi deals with the purification, incineration and medicinal uses of various minerals (uparasa), as well as preventing faults due to misuse. It is continued in the third volume which deals with the various metals.
 
 The Rasa-jala-nidhi (“the ocean of Iatrochemistry, or, chemical medicine) is a compendium of Sansk...
-
-Go directly to: 
-Footnotes.
 
 Part 3 - Extraction of essence from tuttha
 
@@ -1386,10 +1227,6 @@ The finger ring which cures colic and neutralises poison.
 
 Essence of tuttha, nagatamra, and gold are to be taken in equal quantities and made into a ring, the touch of which removes colic pain instantaneously. It also overcomes all sorts of poison and evil influences caused on human beings by the evil eyes of ghosts and witches. According to Bhaluki, the great chemist, water drunk seven times, each time touched with this ring and sanctified with the chanting of the mantra given in the text, cures colic pain instantaneously. The oil which is heated over fire, with this ring kept immersed in it, cures any sort of pain, by merely being rubbed on the part of the body affected. It also effects a speedy and painless child birth in a woman. It also cures eye diseases in a very short time.[1]
 
-Footnotes and references:
-
-[back to top]
-
 [1]:
 
 See page 114 for a different prescription.
@@ -1402,10 +1239,7 @@ This concludes ‘Extraction of essence from tuttha’ included in Bhudeb Mooker
 
 ## 35. Part 4 - Characteristics of Sasyaka (blue stone, found in nature)
 
-
 Rasa Jala Nidhi, vol 2: Minerals (uparasa)
-
-by Bhudeb Mookerjee | 1938 | 28,803 words | ISBN-10: 8170305829 | ISBN-13: 9788170305828
 
 This second volume of the Rasa-jala-nidhi deals with the purification, incineration and medicinal uses of various minerals (uparasa), as well as preventing faults due to misuse. It is continued in the third volume which deals with the various metals.
 
@@ -1427,10 +1261,7 @@ This concludes ‘Characteristics of Sasyaka (blue stone, found in nature)’ in
 
 ## 36. Part 5 - Purification of sasyaka
 
-
 Rasa Jala Nidhi, vol 2: Minerals (uparasa)
-
-by Bhudeb Mookerjee | 1938 | 28,803 words | ISBN-10: 8170305829 | ISBN-13: 9788170305828
 
 This second volume of the Rasa-jala-nidhi deals with the purification, incineration and medicinal uses of various minerals (uparasa), as well as preventing faults due to misuse. It is continued in the third volume which deals with the various metals.
 
@@ -1454,10 +1285,7 @@ This concludes ‘Purification of sasyaka’ included in Bhudeb Mookerjee Rasa J
 
 ## 37. Part 7 - How to remedy the evil effects of impure tutthaka and sasyaka
 
-
 Rasa Jala Nidhi, vol 2: Minerals (uparasa)
-
-by Bhudeb Mookerjee | 1938 | 28,803 words | ISBN-10: 8170305829 | ISBN-13: 9788170305828
 
 This second volume of the Rasa-jala-nidhi deals with the purification, incineration and medicinal uses of various minerals (uparasa), as well as preventing faults due to misuse. It is continued in the third volume which deals with the various metals.
 
@@ -1475,10 +1303,7 @@ This concludes ‘How to remedy the evil effects of impure tutthaka and sasyaka�
 
 ## 38. Part 6 - Incineration of the essence of tuttha and that of sasyaka
 
-
 Rasa Jala Nidhi, vol 2: Minerals (uparasa)
-
-by Bhudeb Mookerjee | 1938 | 28,803 words | ISBN-10: 8170305829 | ISBN-13: 9788170305828
 
 This second volume of the Rasa-jala-nidhi deals with the purification, incineration and medicinal uses of various minerals (uparasa), as well as preventing faults due to misuse. It is continued in the third volume which deals with the various metals.
 
@@ -1502,10 +1327,7 @@ This concludes ‘Incineration of the essence of tuttha and that of sasyaka’ i
 
 ## 39. Chapter VI - Uparasa (7): Chapala (rare type of ore)
 
-
 Rasa Jala Nidhi, vol 2: Minerals (uparasa)
-
-by Bhudeb Mookerjee | 1938 | 28,803 words | ISBN-10: 8170305829 | ISBN-13: 9788170305828
 
 This second volume of the Rasa-jala-nidhi deals with the purification, incineration and medicinal uses of various minerals (uparasa), as well as preventing faults due to misuse. It is continued in the third volume which deals with the various metals.
 
@@ -1523,10 +1345,7 @@ This concludes ‘Uparasa (7): Chapala (rare type of ore)’ included in Bhudeb 
 
 ## 40. Part 1 - Characteristics of Chapala (rare type of ore)
 
-
 Rasa Jala Nidhi, vol 2: Minerals (uparasa)
-
-by Bhudeb Mookerjee | 1938 | 28,803 words | ISBN-10: 8170305829 | ISBN-13: 9788170305828
 
 This second volume of the Rasa-jala-nidhi deals with the purification, incineration and medicinal uses of various minerals (uparasa), as well as preventing faults due to misuse. It is continued in the third volume which deals with the various metals.
 
@@ -1548,10 +1367,7 @@ This concludes ‘Characteristics of Chapala (rare type of ore)’ included in B
 
 ## 41. Part 2 - Purification of Chapala
 
-
 Rasa Jala Nidhi, vol 2: Minerals (uparasa)
-
-by Bhudeb Mookerjee | 1938 | 28,803 words | ISBN-10: 8170305829 | ISBN-13: 9788170305828
 
 This second volume of the Rasa-jala-nidhi deals with the purification, incineration and medicinal uses of various minerals (uparasa), as well as preventing faults due to misuse. It is continued in the third volume which deals with the various metals.
 
@@ -1569,10 +1385,7 @@ This concludes ‘Purification of Chapala’ included in Bhudeb Mookerjee Rasa J
 
 ## 42. Part 3 - Extraction of essence from Chapala
 
-
 Rasa Jala Nidhi, vol 2: Minerals (uparasa)
-
-by Bhudeb Mookerjee | 1938 | 28,803 words | ISBN-10: 8170305829 | ISBN-13: 9788170305828
 
 This second volume of the Rasa-jala-nidhi deals with the purification, incineration and medicinal uses of various minerals (uparasa), as well as preventing faults due to misuse. It is continued in the third volume which deals with the various metals.
 
@@ -1590,10 +1403,7 @@ This concludes ‘Extraction of essence from Chapala’ included in Bhudeb Mooke
 
 ## 43. Part 4 - Chapala produced from lead and tin
 
-
 Rasa Jala Nidhi, vol 2: Minerals (uparasa)
-
-by Bhudeb Mookerjee | 1938 | 28,803 words | ISBN-10: 8170305829 | ISBN-13: 9788170305828
 
 This second volume of the Rasa-jala-nidhi deals with the purification, incineration and medicinal uses of various minerals (uparasa), as well as preventing faults due to misuse. It is continued in the third volume which deals with the various metals.
 
@@ -1611,10 +1421,7 @@ This concludes ‘Chapala produced from lead and tin’ included in Bhudeb Mooke
 
 ## 44. Chapter VII - Uparasa (8): Rasaka or Kharpara (calamine)
 
-
 Rasa Jala Nidhi, vol 2: Minerals (uparasa)
-
-by Bhudeb Mookerjee | 1938 | 28,803 words | ISBN-10: 8170305829 | ISBN-13: 9788170305828
 
 This second volume of the Rasa-jala-nidhi deals with the purification, incineration and medicinal uses of various minerals (uparasa), as well as preventing faults due to misuse. It is continued in the third volume which deals with the various metals.
 
@@ -1632,17 +1439,11 @@ This concludes ‘Uparasa (8): Rasaka or Kharpara (calamine)’ included in Bhud
 
 ## 45. Part 1 - Characteristics of Rasaka/Kharpara (calamine)
 
-
 Rasa Jala Nidhi, vol 2: Minerals (uparasa)
-
-by Bhudeb Mookerjee | 1938 | 28,803 words | ISBN-10: 8170305829 | ISBN-13: 9788170305828
 
 This second volume of the Rasa-jala-nidhi deals with the purification, incineration and medicinal uses of various minerals (uparasa), as well as preventing faults due to misuse. It is continued in the third volume which deals with the various metals.
 
 The Rasa-jala-nidhi (“the ocean of Iatrochemistry, or, chemical medicine) is a compendium of Sansk...
-
-Go directly to: 
-Footnotes.
 
 Part 1 - Characteristics of Rasaka/Kharpara (calamine)
 
@@ -1651,10 +1452,6 @@ Rasaka is of two kinds, viz, “Durdara”[1] and “karabella.” The variety w
 Inability of Rasaka to stand fire.
 
 Rasaka cannot stand fire. It is so combustible that it burns on a slight heat being applied to it. There are a few things in this world which can make rasaka stand fire.
-
-Footnotes and references:
-
-[back to top]
 
 [1]:
 
@@ -1668,10 +1465,7 @@ This concludes ‘Characteristics of Rasaka/Kharpara (calamine)’ included in B
 
 ## 46. Part 2 - How rasaka may be made to stand fire
 
-
 Rasa Jala Nidhi, vol 2: Minerals (uparasa)
-
-by Bhudeb Mookerjee | 1938 | 28,803 words | ISBN-10: 8170305829 | ISBN-13: 9788170305828
 
 This second volume of the Rasa-jala-nidhi deals with the purification, incineration and medicinal uses of various minerals (uparasa), as well as preventing faults due to misuse. It is continued in the third volume which deals with the various metals.
 
@@ -1695,10 +1489,7 @@ This concludes ‘How rasaka may be made to stand fire’ included in Bhudeb Moo
 
 ## 47. Part 3 - Purification of kharpara
 
-
 Rasa Jala Nidhi, vol 2: Minerals (uparasa)
-
-by Bhudeb Mookerjee | 1938 | 28,803 words | ISBN-10: 8170305829 | ISBN-13: 9788170305828
 
 This second volume of the Rasa-jala-nidhi deals with the purification, incineration and medicinal uses of various minerals (uparasa), as well as preventing faults due to misuse. It is continued in the third volume which deals with the various metals.
 
@@ -1734,10 +1525,7 @@ This concludes ‘Purification of kharpara’ included in Bhudeb Mookerjee Rasa 
 
 ## 48. Part 4 - Incineration of kharpara
 
-
 Rasa Jala Nidhi, vol 2: Minerals (uparasa)
-
-by Bhudeb Mookerjee | 1938 | 28,803 words | ISBN-10: 8170305829 | ISBN-13: 9788170305828
 
 This second volume of the Rasa-jala-nidhi deals with the purification, incineration and medicinal uses of various minerals (uparasa), as well as preventing faults due to misuse. It is continued in the third volume which deals with the various metals.
 
@@ -1765,17 +1553,11 @@ This concludes ‘Incineration of kharpara’ included in Bhudeb Mookerjee Rasa 
 
 ## 49. Part 5 - Extraction of essence from Rasaka (calamine)
 
-
 Rasa Jala Nidhi, vol 2: Minerals (uparasa)
-
-by Bhudeb Mookerjee | 1938 | 28,803 words | ISBN-10: 8170305829 | ISBN-13: 9788170305828
 
 This second volume of the Rasa-jala-nidhi deals with the purification, incineration and medicinal uses of various minerals (uparasa), as well as preventing faults due to misuse. It is continued in the third volume which deals with the various metals.
 
 The Rasa-jala-nidhi (“the ocean of Iatrochemistry, or, chemical medicine) is a compendium of Sansk...
-
-Go directly to: 
-Footnotes.
 
 Part 5 - Extraction of essence from Rasaka (calamine)
 
@@ -1795,10 +1577,6 @@ Patala-yantra.
 
 In a pit in the ground, one cubit deep, place a vessel. Another vessel containing prescribed materials and having its mouth tightly covered with a basin, full of holes, is to be placed upside down upon the mouth of the first vessel. The joints are to be closed and the pit covered with mud. The apparatus is then to be heated by means of charcoal fire being placed all round the upper vessel, when cooled of itself, the essence, oil, or tincture, as the case may be, is to be taken out from inside the lower vessel.
 
-Footnotes and references:
-
-[back to top]
-
 [1]:
 
 Muka-musha (dumb crucible) and andha-musha (blind crucible) refer to the same kind of crucible—a crucible not provided with any passage for the entrance of air into it.
@@ -1811,10 +1589,7 @@ This concludes ‘Extraction of essence from Rasaka (calamine)’ included in Bh
 
 ## 50. Part 6 - Incineration of the essence of rasaka
 
-
 Rasa Jala Nidhi, vol 2: Minerals (uparasa)
-
-by Bhudeb Mookerjee | 1938 | 28,803 words | ISBN-10: 8170305829 | ISBN-13: 9788170305828
 
 This second volume of the Rasa-jala-nidhi deals with the purification, incineration and medicinal uses of various minerals (uparasa), as well as preventing faults due to misuse. It is continued in the third volume which deals with the various metals.
 
@@ -1832,10 +1607,7 @@ This concludes ‘Incineration of the essence of rasaka’ included in Bhudeb Mo
 
 ## 51. Part 7 - Dyeing of mercury, etc. by rasaka
 
-
 Rasa Jala Nidhi, vol 2: Minerals (uparasa)
-
-by Bhudeb Mookerjee | 1938 | 28,803 words | ISBN-10: 8170305829 | ISBN-13: 9788170305828
 
 This second volume of the Rasa-jala-nidhi deals with the purification, incineration and medicinal uses of various minerals (uparasa), as well as preventing faults due to misuse. It is continued in the third volume which deals with the various metals.
 
@@ -1853,10 +1625,7 @@ This concludes ‘Dyeing of mercury, etc. by rasaka’ included in Bhudeb Mooker
 
 ## 52. Chapter VIII - Uparasa (9): Gandhaka (sulphur)
 
-
 Rasa Jala Nidhi, vol 2: Minerals (uparasa)
-
-by Bhudeb Mookerjee | 1938 | 28,803 words | ISBN-10: 8170305829 | ISBN-13: 9788170305828
 
 This second volume of the Rasa-jala-nidhi deals with the purification, incineration and medicinal uses of various minerals (uparasa), as well as preventing faults due to misuse. It is continued in the third volume which deals with the various metals.
 
@@ -1874,10 +1643,7 @@ This concludes ‘Uparasa (9): Gandhaka (sulphur)’ included in Bhudeb Mookerje
 
 ## 53. Part 1 - Characteristics of Gandhaka (sulphur)
 
-
 Rasa Jala Nidhi, vol 2: Minerals (uparasa)
-
-by Bhudeb Mookerjee | 1938 | 28,803 words | ISBN-10: 8170305829 | ISBN-13: 9788170305828
 
 This second volume of the Rasa-jala-nidhi deals with the purification, incineration and medicinal uses of various minerals (uparasa), as well as preventing faults due to misuse. It is continued in the third volume which deals with the various metals.
 
@@ -1905,10 +1671,7 @@ This concludes ‘Characteristics of Gandhaka (sulphur)’ included in Bhudeb Mo
 
 ## 54. Part 2 - Purification of Gandhaka
 
-
 Rasa Jala Nidhi, vol 2: Minerals (uparasa)
-
-by Bhudeb Mookerjee | 1938 | 28,803 words | ISBN-10: 8170305829 | ISBN-13: 9788170305828
 
 This second volume of the Rasa-jala-nidhi deals with the purification, incineration and medicinal uses of various minerals (uparasa), as well as preventing faults due to misuse. It is continued in the third volume which deals with the various metals.
 
@@ -1942,10 +1705,7 @@ This concludes ‘Purification of Gandhaka’ included in Bhudeb Mookerjee Rasa 
 
 ## 55. Part 3 - How to take gandhaka
 
-
 Rasa Jala Nidhi, vol 2: Minerals (uparasa)
-
-by Bhudeb Mookerjee | 1938 | 28,803 words | ISBN-10: 8170305829 | ISBN-13: 9788170305828
 
 This second volume of the Rasa-jala-nidhi deals with the purification, incineration and medicinal uses of various minerals (uparasa), as well as preventing faults due to misuse. It is continued in the third volume which deals with the various metals.
 
@@ -1997,10 +1757,7 @@ This concludes ‘How to take gandhaka’ included in Bhudeb Mookerjee Rasa Jala
 
 ## 56. Part 4 - How to make and take Sulphur oil
 
-
 Rasa Jala Nidhi, vol 2: Minerals (uparasa)
-
-by Bhudeb Mookerjee | 1938 | 28,803 words | ISBN-10: 8170305829 | ISBN-13: 9788170305828
 
 This second volume of the Rasa-jala-nidhi deals with the purification, incineration and medicinal uses of various minerals (uparasa), as well as preventing faults due to misuse. It is continued in the third volume which deals with the various metals.
 
@@ -2028,10 +1785,7 @@ This concludes ‘How to make and take Sulphur oil’ included in Bhudeb Mookerj
 
 ## 57. Part 5 - Dietary prescriptions when taking Gandhaka
 
-
 Rasa Jala Nidhi, vol 2: Minerals (uparasa)
-
-by Bhudeb Mookerjee | 1938 | 28,803 words | ISBN-10: 8170305829 | ISBN-13: 9788170305828
 
 This second volume of the Rasa-jala-nidhi deals with the purification, incineration and medicinal uses of various minerals (uparasa), as well as preventing faults due to misuse. It is continued in the third volume which deals with the various metals.
 
@@ -2055,10 +1809,7 @@ This concludes ‘Dietary prescriptions when taking Gandhaka’ included in Bhud
 
 ## 58. Part 6 - Removal of odour from sulphur
 
-
 Rasa Jala Nidhi, vol 2: Minerals (uparasa)
-
-by Bhudeb Mookerjee | 1938 | 28,803 words | ISBN-10: 8170305829 | ISBN-13: 9788170305828
 
 This second volume of the Rasa-jala-nidhi deals with the purification, incineration and medicinal uses of various minerals (uparasa), as well as preventing faults due to misuse. It is continued in the third volume which deals with the various metals.
 
@@ -2084,10 +1835,7 @@ This concludes ‘Removal of odour from sulphur’ included in Bhudeb Mookerjee 
 
 ## 59. Part 7 - Transformation of base metals by gandhaka
 
-
 Rasa Jala Nidhi, vol 2: Minerals (uparasa)
-
-by Bhudeb Mookerjee | 1938 | 28,803 words | ISBN-10: 8170305829 | ISBN-13: 9788170305828
 
 This second volume of the Rasa-jala-nidhi deals with the purification, incineration and medicinal uses of various minerals (uparasa), as well as preventing faults due to misuse. It is continued in the third volume which deals with the various metals.
 
@@ -2111,10 +1859,7 @@ This concludes ‘Transformation of base metals by gandhaka’ included in Bhude
 
 ## 60. Part 8 - Removal of the evil consequences of taking impure sulphur
 
-
 Rasa Jala Nidhi, vol 2: Minerals (uparasa)
-
-by Bhudeb Mookerjee | 1938 | 28,803 words | ISBN-10: 8170305829 | ISBN-13: 9788170305828
 
 This second volume of the Rasa-jala-nidhi deals with the purification, incineration and medicinal uses of various minerals (uparasa), as well as preventing faults due to misuse. It is continued in the third volume which deals with the various metals.
 
@@ -2132,10 +1877,7 @@ This concludes ‘Removal of the evil consequences of taking impure sulphur’ i
 
 ## 61. Chapter IX - Uparasa (10): Gairika (red ochre)
 
-
 Rasa Jala Nidhi, vol 2: Minerals (uparasa)
-
-by Bhudeb Mookerjee | 1938 | 28,803 words | ISBN-10: 8170305829 | ISBN-13: 9788170305828
 
 This second volume of the Rasa-jala-nidhi deals with the purification, incineration and medicinal uses of various minerals (uparasa), as well as preventing faults due to misuse. It is continued in the third volume which deals with the various metals.
 
@@ -2153,10 +1895,7 @@ This concludes ‘Uparasa (10): Gairika (red ochre)’ included in Bhudeb Mooker
 
 ## 62. Part 1 - Characteristics of Gairaka (red ochre)
 
-
 Rasa Jala Nidhi, vol 2: Minerals (uparasa)
-
-by Bhudeb Mookerjee | 1938 | 28,803 words | ISBN-10: 8170305829 | ISBN-13: 9788170305828
 
 This second volume of the Rasa-jala-nidhi deals with the purification, incineration and medicinal uses of various minerals (uparasa), as well as preventing faults due to misuse. It is continued in the third volume which deals with the various metals.
 
@@ -2174,10 +1913,7 @@ This concludes ‘Characteristics of Gairaka (red ochre)’ included in Bhudeb M
 
 ## 63. Part 2 - Purification of gairika
 
-
 Rasa Jala Nidhi, vol 2: Minerals (uparasa)
-
-by Bhudeb Mookerjee | 1938 | 28,803 words | ISBN-10: 8170305829 | ISBN-13: 9788170305828
 
 This second volume of the Rasa-jala-nidhi deals with the purification, incineration and medicinal uses of various minerals (uparasa), as well as preventing faults due to misuse. It is continued in the third volume which deals with the various metals.
 
@@ -2195,10 +1931,7 @@ This concludes ‘Purification of gairika’ included in Bhudeb Mookerjee Rasa J
 
 ## 64. Part 3 - Extraction of essence from gairika
 
-
 Rasa Jala Nidhi, vol 2: Minerals (uparasa)
-
-by Bhudeb Mookerjee | 1938 | 28,803 words | ISBN-10: 8170305829 | ISBN-13: 9788170305828
 
 This second volume of the Rasa-jala-nidhi deals with the purification, incineration and medicinal uses of various minerals (uparasa), as well as preventing faults due to misuse. It is continued in the third volume which deals with the various metals.
 
@@ -2216,10 +1949,7 @@ This concludes ‘Extraction of essence from gairika’ included in Bhudeb Mooke
 
 ## 65. Chapter X - Uparasa (11): Kasisa (sulphate of iron)
 
-
 Rasa Jala Nidhi, vol 2: Minerals (uparasa)
-
-by Bhudeb Mookerjee | 1938 | 28,803 words | ISBN-10: 8170305829 | ISBN-13: 9788170305828
 
 This second volume of the Rasa-jala-nidhi deals with the purification, incineration and medicinal uses of various minerals (uparasa), as well as preventing faults due to misuse. It is continued in the third volume which deals with the various metals.
 
@@ -2237,10 +1967,7 @@ This concludes ‘Uparasa (11): Kasisa (sulphate of iron)’ included in Bhudeb 
 
 ## 66. Part 4 - Uses of gairika
 
-
 Rasa Jala Nidhi, vol 2: Minerals (uparasa)
-
-by Bhudeb Mookerjee | 1938 | 28,803 words | ISBN-10: 8170305829 | ISBN-13: 9788170305828
 
 This second volume of the Rasa-jala-nidhi deals with the purification, incineration and medicinal uses of various minerals (uparasa), as well as preventing faults due to misuse. It is continued in the third volume which deals with the various metals.
 
@@ -2258,10 +1985,7 @@ This concludes ‘Uses of gairika’ included in Bhudeb Mookerjee Rasa Jala Nidh
 
 ## 67. Part 1 - Characteristics of Kasisa (sulphate of iron)
 
-
 Rasa Jala Nidhi, vol 2: Minerals (uparasa)
-
-by Bhudeb Mookerjee | 1938 | 28,803 words | ISBN-10: 8170305829 | ISBN-13: 9788170305828
 
 This second volume of the Rasa-jala-nidhi deals with the purification, incineration and medicinal uses of various minerals (uparasa), as well as preventing faults due to misuse. It is continued in the third volume which deals with the various metals.
 
@@ -2281,10 +2005,7 @@ This concludes ‘Characteristics of Kasisa (sulphate of iron)’ included in Bh
 
 ## 68. Part 2 - Purification of kasisa
 
-
 Rasa Jala Nidhi, vol 2: Minerals (uparasa)
-
-by Bhudeb Mookerjee | 1938 | 28,803 words | ISBN-10: 8170305829 | ISBN-13: 9788170305828
 
 This second volume of the Rasa-jala-nidhi deals with the purification, incineration and medicinal uses of various minerals (uparasa), as well as preventing faults due to misuse. It is continued in the third volume which deals with the various metals.
 
@@ -2302,10 +2023,7 @@ This concludes ‘Purification of kasisa’ included in Bhudeb Mookerjee Rasa Ja
 
 ## 69. Part 3 - How to take kasisa
 
-
 Rasa Jala Nidhi, vol 2: Minerals (uparasa)
-
-by Bhudeb Mookerjee | 1938 | 28,803 words | ISBN-10: 8170305829 | ISBN-13: 9788170305828
 
 This second volume of the Rasa-jala-nidhi deals with the purification, incineration and medicinal uses of various minerals (uparasa), as well as preventing faults due to misuse. It is continued in the third volume which deals with the various metals.
 
@@ -2323,10 +2041,7 @@ This concludes ‘How to take kasisa’ included in Bhudeb Mookerjee Rasa Jala N
 
 ## 70. Chapter XI - Uparasa (12): Kankshi (clay containing alum)
 
-
 Rasa Jala Nidhi, vol 2: Minerals (uparasa)
-
-by Bhudeb Mookerjee | 1938 | 28,803 words | ISBN-10: 8170305829 | ISBN-13: 9788170305828
 
 This second volume of the Rasa-jala-nidhi deals with the purification, incineration and medicinal uses of various minerals (uparasa), as well as preventing faults due to misuse. It is continued in the third volume which deals with the various metals.
 
@@ -2344,17 +2059,11 @@ This concludes ‘Uparasa (12): Kankshi (clay containing alum)’ included in Bh
 
 ## 71. Part 1 - Characteristics of Kankshi/Tubari (clay containing alum)
 
-
 Rasa Jala Nidhi, vol 2: Minerals (uparasa)
-
-by Bhudeb Mookerjee | 1938 | 28,803 words | ISBN-10: 8170305829 | ISBN-13: 9788170305828
 
 This second volume of the Rasa-jala-nidhi deals with the purification, incineration and medicinal uses of various minerals (uparasa), as well as preventing faults due to misuse. It is continued in the third volume which deals with the various metals.
 
 The Rasa-jala-nidhi (“the ocean of Iatrochemistry, or, chemical medicine) is a compendium of Sansk...
-
-Go directly to: 
-Footnotes.
 
 Part 1 - Characteristics of Kankshi/Tubari (clay containing alum)
 
@@ -2363,10 +2072,6 @@ Kankshi or tubari is a clay found in Surat. It can dye clothes with the colour o
 Properties of kankshi.
 
 Kankshi is astringent, pungent, sour, purifier of throat, salutary to hair, curer of boils, poison, and leucoderma. It improves eye-sight, pacifies the three doshas, and helps the exhaustion of mercury.
-
-Footnotes and references:
-
-[back to top]
 
 [1]:
 
@@ -2380,10 +2085,7 @@ This concludes ‘Characteristics of Kankshi/Tubari (clay containing alum)’ in
 
 ## 72. Part 2 - Purification and extraction of essence from tubari
 
-
 Rasa Jala Nidhi, vol 2: Minerals (uparasa)
-
-by Bhudeb Mookerjee | 1938 | 28,803 words | ISBN-10: 8170305829 | ISBN-13: 9788170305828
 
 This second volume of the Rasa-jala-nidhi deals with the purification, incineration and medicinal uses of various minerals (uparasa), as well as preventing faults due to misuse. It is continued in the third volume which deals with the various metals.
 
@@ -2403,10 +2105,7 @@ This concludes ‘Purification and extraction of essence from tubari’ included
 
 ## 73. Part 3 - Properties of sphatika (alum)
 
-
 Rasa Jala Nidhi, vol 2: Minerals (uparasa)
-
-by Bhudeb Mookerjee | 1938 | 28,803 words | ISBN-10: 8170305829 | ISBN-13: 9788170305828
 
 This second volume of the Rasa-jala-nidhi deals with the purification, incineration and medicinal uses of various minerals (uparasa), as well as preventing faults due to misuse. It is continued in the third volume which deals with the various metals.
 
@@ -2424,10 +2123,7 @@ This concludes ‘Properties of sphatika (alum)’ included in Bhudeb Mookerjee 
 
 ## 74. Chapter XII - Uparasa (13): Haritala (orpiment)
 
-
 Rasa Jala Nidhi, vol 2: Minerals (uparasa)
-
-by Bhudeb Mookerjee | 1938 | 28,803 words | ISBN-10: 8170305829 | ISBN-13: 9788170305828
 
 This second volume of the Rasa-jala-nidhi deals with the purification, incineration and medicinal uses of various minerals (uparasa), as well as preventing faults due to misuse. It is continued in the third volume which deals with the various metals.
 
@@ -2445,10 +2141,7 @@ This concludes ‘Uparasa (13): Haritala (orpiment)’ included in Bhudeb Mooker
 
 ## 75. Part 1 - Characteristics of Haritala (orpiment)
 
-
 Rasa Jala Nidhi, vol 2: Minerals (uparasa)
-
-by Bhudeb Mookerjee | 1938 | 28,803 words | ISBN-10: 8170305829 | ISBN-13: 9788170305828
 
 This second volume of the Rasa-jala-nidhi deals with the purification, incineration and medicinal uses of various minerals (uparasa), as well as preventing faults due to misuse. It is continued in the third volume which deals with the various metals.
 
@@ -2482,10 +2175,7 @@ This concludes ‘Characteristics of Haritala (orpiment)’ included in Bhudeb M
 
 ## 76. Part 2 - Purification of haritala
 
-
 Rasa Jala Nidhi, vol 2: Minerals (uparasa)
-
-by Bhudeb Mookerjee | 1938 | 28,803 words | ISBN-10: 8170305829 | ISBN-13: 9788170305828
 
 This second volume of the Rasa-jala-nidhi deals with the purification, incineration and medicinal uses of various minerals (uparasa), as well as preventing faults due to misuse. It is continued in the third volume which deals with the various metals.
 
@@ -2531,17 +2221,11 @@ This concludes ‘Purification of haritala’ included in Bhudeb Mookerjee Rasa 
 
 ## 77. Part 3 - Incineration of haritala
 
-
 Rasa Jala Nidhi, vol 2: Minerals (uparasa)
-
-by Bhudeb Mookerjee | 1938 | 28,803 words | ISBN-10: 8170305829 | ISBN-13: 9788170305828
 
 This second volume of the Rasa-jala-nidhi deals with the purification, incineration and medicinal uses of various minerals (uparasa), as well as preventing faults due to misuse. It is continued in the third volume which deals with the various metals.
 
 The Rasa-jala-nidhi (“the ocean of Iatrochemistry, or, chemical medicine) is a compendium of Sansk...
-
-Go directly to: 
-Footnotes.
 
 Part 3 - Incineration of haritala
 
@@ -2627,10 +2311,6 @@ Accompaniments of haritala.
 
 Incinerated haritala is to be used with the juice of amra-haridra in impurity of the blood; with purified aconite and jeera in hysteria; with samudra-phala in dropsy; with the juice of devadali in bhagandara and priyanga diseases (syphilis); with the decoction of manjista, etc.[1] in eighteen different kinds of leprosy; with triphala and sugar in jaundice; with powdered shunthi in rheumatism, with incinerated gold in raktapitta; with the juice of tanduliya in eight different kinds of fever. Such accompaniments may be devised by the physician himself in accordance with the particular requirements of the case.
 
-Footnotes and references:
-
-[back to top]
-
 [1]:
 
 Manjistha, bakuchi, chakramarda, nimba, haritaki, haridra, amalaki, basa, shatabari, bala, nagabala, jastimadhu, kokilaksha seeds, patola leaves, ushira, gudachi, and rakta-chandana.
@@ -2643,10 +2323,7 @@ This concludes ‘Incineration of haritala’ included in Bhudeb Mookerjee Rasa 
 
 ## 78. Part 4 - Liquefaction of haritala
 
-
 Rasa Jala Nidhi, vol 2: Minerals (uparasa)
-
-by Bhudeb Mookerjee | 1938 | 28,803 words | ISBN-10: 8170305829 | ISBN-13: 9788170305828
 
 This second volume of the Rasa-jala-nidhi deals with the purification, incineration and medicinal uses of various minerals (uparasa), as well as preventing faults due to misuse. It is continued in the third volume which deals with the various metals.
 
@@ -2664,10 +2341,7 @@ This concludes ‘Liquefaction of haritala’ included in Bhudeb Mookerjee Rasa 
 
 ## 79. Part 5 - Extraction of essence from haritala
 
-
 Rasa Jala Nidhi, vol 2: Minerals (uparasa)
-
-by Bhudeb Mookerjee | 1938 | 28,803 words | ISBN-10: 8170305829 | ISBN-13: 9788170305828
 
 This second volume of the Rasa-jala-nidhi deals with the purification, incineration and medicinal uses of various minerals (uparasa), as well as preventing faults due to misuse. It is continued in the third volume which deals with the various metals.
 
@@ -2741,10 +2415,7 @@ This concludes ‘Extraction of essence from haritala’ included in Bhudeb Mook
 
 ## 80. Part 6 - Using haritala
 
-
 Rasa Jala Nidhi, vol 2: Minerals (uparasa)
-
-by Bhudeb Mookerjee | 1938 | 28,803 words | ISBN-10: 8170305829 | ISBN-13: 9788170305828
 
 This second volume of the Rasa-jala-nidhi deals with the purification, incineration and medicinal uses of various minerals (uparasa), as well as preventing faults due to misuse. It is continued in the third volume which deals with the various metals.
 
@@ -2788,10 +2459,7 @@ This concludes ‘Using haritala’ included in Bhudeb Mookerjee Rasa Jala Nidhi
 
 ## 81. Part 7 - Transformation of base metals into gold by haritala
 
-
 Rasa Jala Nidhi, vol 2: Minerals (uparasa)
-
-by Bhudeb Mookerjee | 1938 | 28,803 words | ISBN-10: 8170305829 | ISBN-13: 9788170305828
 
 This second volume of the Rasa-jala-nidhi deals with the purification, incineration and medicinal uses of various minerals (uparasa), as well as preventing faults due to misuse. It is continued in the third volume which deals with the various metals.
 
@@ -2819,10 +2487,7 @@ This concludes ‘Transformation of base metals into gold by haritala’ include
 
 ## 82. Chapter XIII - Uparasa (14): Manahshila or Manas-shila (realgar)
 
-
 Rasa Jala Nidhi, vol 2: Minerals (uparasa)
-
-by Bhudeb Mookerjee | 1938 | 28,803 words | ISBN-10: 8170305829 | ISBN-13: 9788170305828
 
 This second volume of the Rasa-jala-nidhi deals with the purification, incineration and medicinal uses of various minerals (uparasa), as well as preventing faults due to misuse. It is continued in the third volume which deals with the various metals.
 
@@ -2840,10 +2505,7 @@ This concludes ‘Uparasa (14): Manahshila or Manas-shila (realgar)’ included 
 
 ## 83. Part 1 - Characteristics of Manahshila or Manas-shila (realgar)
 
-
 Rasa Jala Nidhi, vol 2: Minerals (uparasa)
-
-by Bhudeb Mookerjee | 1938 | 28,803 words | ISBN-10: 8170305829 | ISBN-13: 9788170305828
 
 This second volume of the Rasa-jala-nidhi deals with the purification, incineration and medicinal uses of various minerals (uparasa), as well as preventing faults due to misuse. It is continued in the third volume which deals with the various metals.
 
@@ -2873,10 +2535,7 @@ This concludes ‘Characteristics of Manahshila or Manas-shila (realgar)’ incl
 
 ## 84. Part 2 - Purification of manas-shila
 
-
 Rasa Jala Nidhi, vol 2: Minerals (uparasa)
-
-by Bhudeb Mookerjee | 1938 | 28,803 words | ISBN-10: 8170305829 | ISBN-13: 9788170305828
 
 This second volume of the Rasa-jala-nidhi deals with the purification, incineration and medicinal uses of various minerals (uparasa), as well as preventing faults due to misuse. It is continued in the third volume which deals with the various metals.
 
@@ -2916,10 +2575,7 @@ This concludes ‘Purification of manas-shila’ included in Bhudeb Mookerjee Ra
 
 ## 85. Part 3 - Extraction of essence of manas-shila
 
-
 Rasa Jala Nidhi, vol 2: Minerals (uparasa)
-
-by Bhudeb Mookerjee | 1938 | 28,803 words | ISBN-10: 8170305829 | ISBN-13: 9788170305828
 
 This second volume of the Rasa-jala-nidhi deals with the purification, incineration and medicinal uses of various minerals (uparasa), as well as preventing faults due to misuse. It is continued in the third volume which deals with the various metals.
 
@@ -2943,10 +2599,7 @@ This concludes ‘Extraction of essence of manas-shila’ included in Bhudeb Moo
 
 ## 86. Part 4 - Taking of manas-shila
 
-
 Rasa Jala Nidhi, vol 2: Minerals (uparasa)
-
-by Bhudeb Mookerjee | 1938 | 28,803 words | ISBN-10: 8170305829 | ISBN-13: 9788170305828
 
 This second volume of the Rasa-jala-nidhi deals with the purification, incineration and medicinal uses of various minerals (uparasa), as well as preventing faults due to misuse. It is continued in the third volume which deals with the various metals.
 
@@ -2970,10 +2623,7 @@ This concludes ‘Taking of manas-shila’ included in Bhudeb Mookerjee Rasa Jal
 
 ## 87. Part 1 - Characteristics of Anjana (stibnite, lead sulphide)
 
-
 Rasa Jala Nidhi, vol 2: Minerals (uparasa)
-
-by Bhudeb Mookerjee | 1938 | 28,803 words | ISBN-10: 8170305829 | ISBN-13: 9788170305828
 
 This second volume of the Rasa-jala-nidhi deals with the purification, incineration and medicinal uses of various minerals (uparasa), as well as preventing faults due to misuse. It is continued in the third volume which deals with the various metals.
 
@@ -3021,10 +2671,7 @@ This concludes ‘Characteristics of Anjana (stibnite, lead sulphide)’ include
 
 ## 88. Chapter XIV - Uparasa (15): Anjana (stibnite, sulphide of lead)
 
-
 Rasa Jala Nidhi, vol 2: Minerals (uparasa)
-
-by Bhudeb Mookerjee | 1938 | 28,803 words | ISBN-10: 8170305829 | ISBN-13: 9788170305828
 
 This second volume of the Rasa-jala-nidhi deals with the purification, incineration and medicinal uses of various minerals (uparasa), as well as preventing faults due to misuse. It is continued in the third volume which deals with the various metals.
 
@@ -3044,17 +2691,11 @@ This concludes ‘Uparasa (15): Anjana (stibnite, sulphide of lead)’ included 
 
 ## 89. Part 2 - Purification of anjana
 
-
 Rasa Jala Nidhi, vol 2: Minerals (uparasa)
-
-by Bhudeb Mookerjee | 1938 | 28,803 words | ISBN-10: 8170305829 | ISBN-13: 9788170305828
 
 This second volume of the Rasa-jala-nidhi deals with the purification, incineration and medicinal uses of various minerals (uparasa), as well as preventing faults due to misuse. It is continued in the third volume which deals with the various metals.
 
 The Rasa-jala-nidhi (“the ocean of Iatrochemistry, or, chemical medicine) is a compendium of Sansk...
-
-Go directly to: 
-Footnotes.
 
 Part 2 - Purification of anjana
 
@@ -3074,10 +2715,6 @@ Extraction of essence from anjanas.
 
 Essence of anjanas is to be extracted in the same way as that of manas-shila. The essence of srotonjana may also be obtained in the same way as of rajavarta.
 
-Footnotes and references:
-
-[back to top]
-
 [1]:
 
 See purification of kankustha on page 209.
@@ -3090,10 +2727,7 @@ This concludes ‘Purification of anjana’ included in Bhudeb Mookerjee Rasa Ja
 
 ## 90. Part 3 - Solidification of mercury by means of srotonjana
 
-
 Rasa Jala Nidhi, vol 2: Minerals (uparasa)
-
-by Bhudeb Mookerjee | 1938 | 28,803 words | ISBN-10: 8170305829 | ISBN-13: 9788170305828
 
 This second volume of the Rasa-jala-nidhi deals with the purification, incineration and medicinal uses of various minerals (uparasa), as well as preventing faults due to misuse. It is continued in the third volume which deals with the various metals.
 
@@ -3111,10 +2745,7 @@ This concludes ‘Solidification of mercury by means of srotonjana’ included i
 
 ## 91. Chapter XV - Uparasa (16): Kankustha (an ore containing tin)
 
-
 Rasa Jala Nidhi, vol 2: Minerals (uparasa)
-
-by Bhudeb Mookerjee | 1938 | 28,803 words | ISBN-10: 8170305829 | ISBN-13: 9788170305828
 
 This second volume of the Rasa-jala-nidhi deals with the purification, incineration and medicinal uses of various minerals (uparasa), as well as preventing faults due to misuse. It is continued in the third volume which deals with the various metals.
 
@@ -3132,10 +2763,7 @@ This concludes ‘Uparasa (16): Kankustha (an ore containing tin)’ included in
 
 ## 92. Part 1 - Characteristics of Kankustha (an ore containing tin)
 
-
 Rasa Jala Nidhi, vol 2: Minerals (uparasa)
-
-by Bhudeb Mookerjee | 1938 | 28,803 words | ISBN-10: 8170305829 | ISBN-13: 9788170305828
 
 This second volume of the Rasa-jala-nidhi deals with the purification, incineration and medicinal uses of various minerals (uparasa), as well as preventing faults due to misuse. It is continued in the third volume which deals with the various metals.
 
@@ -3155,10 +2783,7 @@ This concludes ‘Characteristics of Kankustha (an ore containing tin)’ includ
 
 ## 93. Part 2 - Purification of Kankustha (an ore containing tin)
 
-
 Rasa Jala Nidhi, vol 2: Minerals (uparasa)
-
-by Bhudeb Mookerjee | 1938 | 28,803 words | ISBN-10: 8170305829 | ISBN-13: 9788170305828
 
 This second volume of the Rasa-jala-nidhi deals with the purification, incineration and medicinal uses of various minerals (uparasa), as well as preventing faults due to misuse. It is continued in the third volume which deals with the various metals.
 
@@ -3184,10 +2809,7 @@ This concludes ‘Purification of Kankustha (an ore containing tin)’ included 
 
 ## 94. Part 3 - How to take kankustha
 
-
 Rasa Jala Nidhi, vol 2: Minerals (uparasa)
-
-by Bhudeb Mookerjee | 1938 | 28,803 words | ISBN-10: 8170305829 | ISBN-13: 9788170305828
 
 This second volume of the Rasa-jala-nidhi deals with the purification, incineration and medicinal uses of various minerals (uparasa), as well as preventing faults due to misuse. It is continued in the third volume which deals with the various metals.
 
@@ -3205,10 +2827,7 @@ This concludes ‘How to take kankustha’ included in Bhudeb Mookerjee Rasa Jal
 
 ## 95. Chapter XVI - Uparasa (17): Kampilla
 
-
 Rasa Jala Nidhi, vol 2: Minerals (uparasa)
-
-by Bhudeb Mookerjee | 1938 | 28,803 words | ISBN-10: 8170305829 | ISBN-13: 9788170305828
 
 This second volume of the Rasa-jala-nidhi deals with the purification, incineration and medicinal uses of various minerals (uparasa), as well as preventing faults due to misuse. It is continued in the third volume which deals with the various metals.
 
@@ -3226,10 +2845,7 @@ This concludes ‘Uparasa (17): Kampilla’ included in Bhudeb Mookerjee Rasa Ja
 
 ## 96. Part 1 - Characteristics of Kampilla
 
-
 Rasa Jala Nidhi, vol 2: Minerals (uparasa)
-
-by Bhudeb Mookerjee | 1938 | 28,803 words | ISBN-10: 8170305829 | ISBN-13: 9788170305828
 
 This second volume of the Rasa-jala-nidhi deals with the purification, incineration and medicinal uses of various minerals (uparasa), as well as preventing faults due to misuse. It is continued in the third volume which deals with the various metals.
 
@@ -3247,10 +2863,7 @@ This concludes ‘Characteristics of Kampilla’ included in Bhudeb Mookerjee Ra
 
 ## 97. Chapter XVII - Uparasa (18): Gauripashana (arsenic stone)
 
-
 Rasa Jala Nidhi, vol 2: Minerals (uparasa)
-
-by Bhudeb Mookerjee | 1938 | 28,803 words | ISBN-10: 8170305829 | ISBN-13: 9788170305828
 
 This second volume of the Rasa-jala-nidhi deals with the purification, incineration and medicinal uses of various minerals (uparasa), as well as preventing faults due to misuse. It is continued in the third volume which deals with the various metals.
 
@@ -3268,10 +2881,7 @@ This concludes ‘Uparasa (18): Gauripashana (arsenic stone)’ included in Bhud
 
 ## 98. Part 2 - Purification of sadharana uparasas (i.e. from kampilla to bhunaga)
 
-
 Rasa Jala Nidhi, vol 2: Minerals (uparasa)
-
-by Bhudeb Mookerjee | 1938 | 28,803 words | ISBN-10: 8170305829 | ISBN-13: 9788170305828
 
 This second volume of the Rasa-jala-nidhi deals with the purification, incineration and medicinal uses of various minerals (uparasa), as well as preventing faults due to misuse. It is continued in the third volume which deals with the various metals.
 
@@ -3293,10 +2903,7 @@ This concludes ‘Purification of sadharana uparasas (i.e. from kampilla to bhun
 
 ## 99. Part 1 - Characteristics of Gauripashana (arsenic stone)
 
-
 Rasa Jala Nidhi, vol 2: Minerals (uparasa)
-
-by Bhudeb Mookerjee | 1938 | 28,803 words | ISBN-10: 8170305829 | ISBN-13: 9788170305828
 
 This second volume of the Rasa-jala-nidhi deals with the purification, incineration and medicinal uses of various minerals (uparasa), as well as preventing faults due to misuse. It is continued in the third volume which deals with the various metals.
 
@@ -3314,10 +2921,7 @@ This concludes ‘Characteristics of Gauripashana (arsenic stone)’ included in
 
 ## 100. Part 2 - Purification of arsenic stone
 
-
 Rasa Jala Nidhi, vol 2: Minerals (uparasa)
-
-by Bhudeb Mookerjee | 1938 | 28,803 words | ISBN-10: 8170305829 | ISBN-13: 9788170305828
 
 This second volume of the Rasa-jala-nidhi deals with the purification, incineration and medicinal uses of various minerals (uparasa), as well as preventing faults due to misuse. It is continued in the third volume which deals with the various metals.
 
@@ -3341,10 +2945,7 @@ This concludes ‘Purification of arsenic stone’ included in Bhudeb Mookerjee 
 
 ## 101. Chapter XVIII - Uparasa (19): Navasara (sal ammoniac)
 
-
 Rasa Jala Nidhi, vol 2: Minerals (uparasa)
-
-by Bhudeb Mookerjee | 1938 | 28,803 words | ISBN-10: 8170305829 | ISBN-13: 9788170305828
 
 This second volume of the Rasa-jala-nidhi deals with the purification, incineration and medicinal uses of various minerals (uparasa), as well as preventing faults due to misuse. It is continued in the third volume which deals with the various metals.
 
@@ -3362,10 +2963,7 @@ This concludes ‘Uparasa (19): Navasara (sal ammoniac)’ included in Bhudeb Mo
 
 ## 102. Part 1 - Characteristics of Navasara (sal ammoniac)
 
-
 Rasa Jala Nidhi, vol 2: Minerals (uparasa)
-
-by Bhudeb Mookerjee | 1938 | 28,803 words | ISBN-10: 8170305829 | ISBN-13: 9788170305828
 
 This second volume of the Rasa-jala-nidhi deals with the purification, incineration and medicinal uses of various minerals (uparasa), as well as preventing faults due to misuse. It is continued in the third volume which deals with the various metals.
 
@@ -3391,10 +2989,7 @@ This concludes ‘Characteristics of Navasara (sal ammoniac)’ included in Bhud
 
 ## 103. Chapter XIX - Uparasa (20a): Kapardi or Kapardaka (cowri or marine shells)
 
-
 Rasa Jala Nidhi, vol 2: Minerals (uparasa)
-
-by Bhudeb Mookerjee | 1938 | 28,803 words | ISBN-10: 8170305829 | ISBN-13: 9788170305828
 
 This second volume of the Rasa-jala-nidhi deals with the purification, incineration and medicinal uses of various minerals (uparasa), as well as preventing faults due to misuse. It is continued in the third volume which deals with the various metals.
 
@@ -3412,10 +3007,7 @@ This concludes ‘Uparasa (20a): Kapardi or Kapardaka (cowri or marine shells)�
 
 ## 104. Part 1 - Characteristics of Kapardi or Kapardaka (cowri or marine shells)
 
-
 Rasa Jala Nidhi, vol 2: Minerals (uparasa)
-
-by Bhudeb Mookerjee | 1938 | 28,803 words | ISBN-10: 8170305829 | ISBN-13: 9788170305828
 
 This second volume of the Rasa-jala-nidhi deals with the purification, incineration and medicinal uses of various minerals (uparasa), as well as preventing faults due to misuse. It is continued in the third volume which deals with the various metals.
 
@@ -3437,10 +3029,7 @@ This concludes ‘Characteristics of Kapardi or Kapardaka (cowri or marine shell
 
 ## 105. Part 2 - Purification of kapardi (cowri)
 
-
 Rasa Jala Nidhi, vol 2: Minerals (uparasa)
-
-by Bhudeb Mookerjee | 1938 | 28,803 words | ISBN-10: 8170305829 | ISBN-13: 9788170305828
 
 This second volume of the Rasa-jala-nidhi deals with the purification, incineration and medicinal uses of various minerals (uparasa), as well as preventing faults due to misuse. It is continued in the third volume which deals with the various metals.
 
@@ -3458,10 +3047,7 @@ This concludes ‘Purification of kapardi (cowri)’ included in Bhudeb Mookerje
 
 ## 106. Part 3 - Incineration of kapardi (cowrie)
 
-
 Rasa Jala Nidhi, vol 2: Minerals (uparasa)
-
-by Bhudeb Mookerjee | 1938 | 28,803 words | ISBN-10: 8170305829 | ISBN-13: 9788170305828
 
 This second volume of the Rasa-jala-nidhi deals with the purification, incineration and medicinal uses of various minerals (uparasa), as well as preventing faults due to misuse. It is continued in the third volume which deals with the various metals.
 
@@ -3489,10 +3075,7 @@ This concludes ‘Incineration of kapardi (cowrie)’ included in Bhudeb Mookerj
 
 ## 107. Chapter XX - Uparasa (20b): Shankha (conch shell)
 
-
 Rasa Jala Nidhi, vol 2: Minerals (uparasa)
-
-by Bhudeb Mookerjee | 1938 | 28,803 words | ISBN-10: 8170305829 | ISBN-13: 9788170305828
 
 This second volume of the Rasa-jala-nidhi deals with the purification, incineration and medicinal uses of various minerals (uparasa), as well as preventing faults due to misuse. It is continued in the third volume which deals with the various metals.
 
@@ -3510,10 +3093,7 @@ This concludes ‘Uparasa (20b): Shankha (conch shell)’ included in Bhudeb Moo
 
 ## 108. Part 1 - Characteristics of Shankha (conch shell)
 
-
 Rasa Jala Nidhi, vol 2: Minerals (uparasa)
-
-by Bhudeb Mookerjee | 1938 | 28,803 words | ISBN-10: 8170305829 | ISBN-13: 9788170305828
 
 This second volume of the Rasa-jala-nidhi deals with the purification, incineration and medicinal uses of various minerals (uparasa), as well as preventing faults due to misuse. It is continued in the third volume which deals with the various metals.
 
@@ -3531,10 +3111,7 @@ This concludes ‘Characteristics of Shankha (conch shell)’ included in Bhudeb
 
 ## 109. Part 2 - Purification of shankha
 
-
 Rasa Jala Nidhi, vol 2: Minerals (uparasa)
-
-by Bhudeb Mookerjee | 1938 | 28,803 words | ISBN-10: 8170305829 | ISBN-13: 9788170305828
 
 This second volume of the Rasa-jala-nidhi deals with the purification, incineration and medicinal uses of various minerals (uparasa), as well as preventing faults due to misuse. It is continued in the third volume which deals with the various metals.
 
@@ -3552,10 +3129,7 @@ This concludes ‘Purification of shankha’ included in Bhudeb Mookerjee Rasa J
 
 ## 110. Part 3 - Incineration of shankha
 
-
 Rasa Jala Nidhi, vol 2: Minerals (uparasa)
-
-by Bhudeb Mookerjee | 1938 | 28,803 words | ISBN-10: 8170305829 | ISBN-13: 9788170305828
 
 This second volume of the Rasa-jala-nidhi deals with the purification, incineration and medicinal uses of various minerals (uparasa), as well as preventing faults due to misuse. It is continued in the third volume which deals with the various metals.
 
@@ -3573,10 +3147,7 @@ This concludes ‘Incineration of shankha’ included in Bhudeb Mookerjee Rasa J
 
 ## 111. Part 4 - Medical appliance of shankha
 
-
 Rasa Jala Nidhi, vol 2: Minerals (uparasa)
-
-by Bhudeb Mookerjee | 1938 | 28,803 words | ISBN-10: 8170305829 | ISBN-13: 9788170305828
 
 This second volume of the Rasa-jala-nidhi deals with the purification, incineration and medicinal uses of various minerals (uparasa), as well as preventing faults due to misuse. It is continued in the third volume which deals with the various metals.
 
@@ -3594,10 +3165,7 @@ This concludes ‘Medical appliance of shankha’ included in Bhudeb Mookerjee R
 
 ## 112. Chapter XXI - Uparasa (21): Vahnijara or Agnijara
 
-
 Rasa Jala Nidhi, vol 2: Minerals (uparasa)
-
-by Bhudeb Mookerjee | 1938 | 28,803 words | ISBN-10: 8170305829 | ISBN-13: 9788170305828
 
 This second volume of the Rasa-jala-nidhi deals with the purification, incineration and medicinal uses of various minerals (uparasa), as well as preventing faults due to misuse. It is continued in the third volume which deals with the various metals.
 
@@ -3615,10 +3183,7 @@ This concludes ‘Uparasa (21): Vahnijara or Agnijara’ included in Bhudeb Mook
 
 ## 113. Part 1 - Characteristics of Vahnijara or Agnijara
 
-
 Rasa Jala Nidhi, vol 2: Minerals (uparasa)
-
-by Bhudeb Mookerjee | 1938 | 28,803 words | ISBN-10: 8170305829 | ISBN-13: 9788170305828
 
 This second volume of the Rasa-jala-nidhi deals with the purification, incineration and medicinal uses of various minerals (uparasa), as well as preventing faults due to misuse. It is continued in the third volume which deals with the various metals.
 
@@ -3636,10 +3201,7 @@ This concludes ‘Characteristics of Vahnijara or Agnijara’ included in Bhudeb
 
 ## 114. Chapter XXII - Uparasa (22): Girisindura (mineral red vermilion)
 
-
 Rasa Jala Nidhi, vol 2: Minerals (uparasa)
-
-by Bhudeb Mookerjee | 1938 | 28,803 words | ISBN-10: 8170305829 | ISBN-13: 9788170305828
 
 This second volume of the Rasa-jala-nidhi deals with the purification, incineration and medicinal uses of various minerals (uparasa), as well as preventing faults due to misuse. It is continued in the third volume which deals with the various metals.
 
@@ -3657,10 +3219,7 @@ This concludes ‘Uparasa (22): Girisindura (mineral red vermilion)’ included 
 
 ## 115. Part 1 - Characteristics of Girisindura (mineral red vermilion)
 
-
 Rasa Jala Nidhi, vol 2: Minerals (uparasa)
-
-by Bhudeb Mookerjee | 1938 | 28,803 words | ISBN-10: 8170305829 | ISBN-13: 9788170305828
 
 This second volume of the Rasa-jala-nidhi deals with the purification, incineration and medicinal uses of various minerals (uparasa), as well as preventing faults due to misuse. It is continued in the third volume which deals with the various metals.
 
@@ -3690,10 +3249,7 @@ This concludes ‘Characteristics of Girisindura (mineral red vermilion)’ incl
 
 ## 116. Part 2 - Purification of red vermilion
 
-
 Rasa Jala Nidhi, vol 2: Minerals (uparasa)
-
-by Bhudeb Mookerjee | 1938 | 28,803 words | ISBN-10: 8170305829 | ISBN-13: 9788170305828
 
 This second volume of the Rasa-jala-nidhi deals with the purification, incineration and medicinal uses of various minerals (uparasa), as well as preventing faults due to misuse. It is continued in the third volume which deals with the various metals.
 
@@ -3717,10 +3273,7 @@ This concludes ‘Purification of red vermilion’ included in Bhudeb Mookerjee 
 
 ## 117. Chapter XXIII - Uparasa (23): Hingula (cinnabar)
 
-
 Rasa Jala Nidhi, vol 2: Minerals (uparasa)
-
-by Bhudeb Mookerjee | 1938 | 28,803 words | ISBN-10: 8170305829 | ISBN-13: 9788170305828
 
 This second volume of the Rasa-jala-nidhi deals with the purification, incineration and medicinal uses of various minerals (uparasa), as well as preventing faults due to misuse. It is continued in the third volume which deals with the various metals.
 
@@ -3738,10 +3291,7 @@ This concludes ‘Uparasa (23): Hingula (cinnabar)’ included in Bhudeb Mookerj
 
 ## 118. Part 1 - Characteristics of Hingula (cinnabar)
 
-
 Rasa Jala Nidhi, vol 2: Minerals (uparasa)
-
-by Bhudeb Mookerjee | 1938 | 28,803 words | ISBN-10: 8170305829 | ISBN-13: 9788170305828
 
 This second volume of the Rasa-jala-nidhi deals with the purification, incineration and medicinal uses of various minerals (uparasa), as well as preventing faults due to misuse. It is continued in the third volume which deals with the various metals.
 
@@ -3765,10 +3315,7 @@ This concludes ‘Characteristics of Hingula (cinnabar)’ included in Bhudeb Mo
 
 ## 119. Part 2 - Purification of Hingula (cinnabar)
 
-
 Rasa Jala Nidhi, vol 2: Minerals (uparasa)
-
-by Bhudeb Mookerjee | 1938 | 28,803 words | ISBN-10: 8170305829 | ISBN-13: 9788170305828
 
 This second volume of the Rasa-jala-nidhi deals with the purification, incineration and medicinal uses of various minerals (uparasa), as well as preventing faults due to misuse. It is continued in the third volume which deals with the various metals.
 
@@ -3804,10 +3351,7 @@ This concludes ‘Purification of Hingula (cinnabar)’ included in Bhudeb Mooke
 
 ## 120. Part 3 - Preparations of Hingula
 
-
 Rasa Jala Nidhi, vol 2: Minerals (uparasa)
-
-by Bhudeb Mookerjee | 1938 | 28,803 words | ISBN-10: 8170305829 | ISBN-13: 9788170305828
 
 This second volume of the Rasa-jala-nidhi deals with the purification, incineration and medicinal uses of various minerals (uparasa), as well as preventing faults due to misuse. It is continued in the third volume which deals with the various metals.
 
@@ -3839,10 +3383,7 @@ This concludes ‘Preparations of Hingula’ included in Bhudeb Mookerjee Rasa J
 
 ## 121. Part 4 - Preparation of cinnabar at laboratory
 
-
 Rasa Jala Nidhi, vol 2: Minerals (uparasa)
-
-by Bhudeb Mookerjee | 1938 | 28,803 words | ISBN-10: 8170305829 | ISBN-13: 9788170305828
 
 This second volume of the Rasa-jala-nidhi deals with the purification, incineration and medicinal uses of various minerals (uparasa), as well as preventing faults due to misuse. It is continued in the third volume which deals with the various metals.
 
@@ -3860,10 +3401,7 @@ This concludes ‘Preparation of cinnabar at laboratory’ included in Bhudeb Mo
 
 ## 122. Part 5 - Evil effects of impure hingula
 
-
 Rasa Jala Nidhi, vol 2: Minerals (uparasa)
-
-by Bhudeb Mookerjee | 1938 | 28,803 words | ISBN-10: 8170305829 | ISBN-13: 9788170305828
 
 This second volume of the Rasa-jala-nidhi deals with the purification, incineration and medicinal uses of various minerals (uparasa), as well as preventing faults due to misuse. It is continued in the third volume which deals with the various metals.
 
@@ -3885,10 +3423,7 @@ This concludes ‘Evil effects of impure hingula’ included in Bhudeb Mookerjee
 
 ## 123. Part 6 - Essence of hingula
 
-
 Rasa Jala Nidhi, vol 2: Minerals (uparasa)
-
-by Bhudeb Mookerjee | 1938 | 28,803 words | ISBN-10: 8170305829 | ISBN-13: 9788170305828
 
 This second volume of the Rasa-jala-nidhi deals with the purification, incineration and medicinal uses of various minerals (uparasa), as well as preventing faults due to misuse. It is continued in the third volume which deals with the various metals.
 
@@ -3906,10 +3441,7 @@ This concludes ‘Essence of hingula’ included in Bhudeb Mookerjee Rasa Jala N
 
 ## 124. Chapter XXIV - Uparasa (24): Mriddara-shringaka (an ore of lead)
 
-
 Rasa Jala Nidhi, vol 2: Minerals (uparasa)
-
-by Bhudeb Mookerjee | 1938 | 28,803 words | ISBN-10: 8170305829 | ISBN-13: 9788170305828
 
 This second volume of the Rasa-jala-nidhi deals with the purification, incineration and medicinal uses of various minerals (uparasa), as well as preventing faults due to misuse. It is continued in the third volume which deals with the various metals.
 
@@ -3927,10 +3459,7 @@ This concludes ‘Uparasa (24): Mriddara-shringaka (an ore of lead)’ included 
 
 ## 125. Part 1 - Characteristics of Mriddara-shringaka (an ore of lead)
 
-
 Rasa Jala Nidhi, vol 2: Minerals (uparasa)
-
-by Bhudeb Mookerjee | 1938 | 28,803 words | ISBN-10: 8170305829 | ISBN-13: 9788170305828
 
 This second volume of the Rasa-jala-nidhi deals with the purification, incineration and medicinal uses of various minerals (uparasa), as well as preventing faults due to misuse. It is continued in the third volume which deals with the various metals.
 
@@ -3948,10 +3477,7 @@ This concludes ‘Characteristics of Mriddara-shringaka (an ore of lead)’ incl
 
 ## 126. Part 2 - Purification of Mriddara-shringaka
 
-
 Rasa Jala Nidhi, vol 2: Minerals (uparasa)
-
-by Bhudeb Mookerjee | 1938 | 28,803 words | ISBN-10: 8170305829 | ISBN-13: 9788170305828
 
 This second volume of the Rasa-jala-nidhi deals with the purification, incineration and medicinal uses of various minerals (uparasa), as well as preventing faults due to misuse. It is continued in the third volume which deals with the various metals.
 
@@ -3969,10 +3495,7 @@ This concludes ‘Purification of Mriddara-shringaka’ included in Bhudeb Mooke
 
 ## 127. Chapter XXV - Uparasa (25): Bhunaga (earthworm)
 
-
 Rasa Jala Nidhi, vol 2: Minerals (uparasa)
-
-by Bhudeb Mookerjee | 1938 | 28,803 words | ISBN-10: 8170305829 | ISBN-13: 9788170305828
 
 This second volume of the Rasa-jala-nidhi deals with the purification, incineration and medicinal uses of various minerals (uparasa), as well as preventing faults due to misuse. It is continued in the third volume which deals with the various metals.
 
@@ -3990,10 +3513,7 @@ This concludes ‘Uparasa (25): Bhunaga (earthworm)’ included in Bhudeb Mooker
 
 ## 128. Part 1 - Characteristics of Bhunaga (earthworm)
 
-
 Rasa Jala Nidhi, vol 2: Minerals (uparasa)
-
-by Bhudeb Mookerjee | 1938 | 28,803 words | ISBN-10: 8170305829 | ISBN-13: 9788170305828
 
 This second volume of the Rasa-jala-nidhi deals with the purification, incineration and medicinal uses of various minerals (uparasa), as well as preventing faults due to misuse. It is continued in the third volume which deals with the various metals.
 
@@ -4011,10 +3531,7 @@ This concludes ‘Characteristics of Bhunaga (earthworm)’ included in Bhudeb M
 
 ## 129. Part 2 - Purification of earthworms
 
-
 Rasa Jala Nidhi, vol 2: Minerals (uparasa)
-
-by Bhudeb Mookerjee | 1938 | 28,803 words | ISBN-10: 8170305829 | ISBN-13: 9788170305828
 
 This second volume of the Rasa-jala-nidhi deals with the purification, incineration and medicinal uses of various minerals (uparasa), as well as preventing faults due to misuse. It is continued in the third volume which deals with the various metals.
 
@@ -4032,10 +3549,7 @@ This concludes ‘Purification of earthworms’ included in Bhudeb Mookerjee Ras
 
 ## 130. Notes
 
-
 Rasa Jala Nidhi, vol 2: Minerals (uparasa)
-
-by Bhudeb Mookerjee | 1938 | 28,803 words | ISBN-10: 8170305829 | ISBN-13: 9788170305828
 
 This second volume of the Rasa-jala-nidhi deals with the purification, incineration and medicinal uses of various minerals (uparasa), as well as preventing faults due to misuse. It is continued in the third volume which deals with the various metals.
 
@@ -4053,10 +3567,7 @@ This concludes ‘Notes’ included in Bhudeb Mookerjee Rasa Jala Nidhi, vol 2: 
 
 ## 131. Part 3 - Extraction of essence from earthworm
 
-
 Rasa Jala Nidhi, vol 2: Minerals (uparasa)
-
-by Bhudeb Mookerjee | 1938 | 28,803 words | ISBN-10: 8170305829 | ISBN-13: 9788170305828
 
 This second volume of the Rasa-jala-nidhi deals with the purification, incineration and medicinal uses of various minerals (uparasa), as well as preventing faults due to misuse. It is continued in the third volume which deals with the various metals.
 
@@ -4088,10 +3599,7 @@ This concludes ‘Extraction of essence from earthworm’ included in Bhudeb Moo
 
 ## 132. Notes on the five tastes (sweet, sour, salty, pungent, bitter, astringent)
 
-
 Rasa Jala Nidhi, vol 2: Minerals (uparasa)
-
-by Bhudeb Mookerjee | 1938 | 28,803 words | ISBN-10: 8170305829 | ISBN-13: 9788170305828
 
 This second volume of the Rasa-jala-nidhi deals with the purification, incineration and medicinal uses of various minerals (uparasa), as well as preventing faults due to misuse. It is continued in the third volume which deals with the various metals.
 
@@ -4121,10 +3629,7 @@ This concludes ‘Notes on the five tastes (sweet, sour, salty, pungent, bitter,
 
 ## 133. Theory of vayu (vata), pitta and kapha
 
-
 Rasa Jala Nidhi, vol 2: Minerals (uparasa)
-
-by Bhudeb Mookerjee | 1938 | 28,803 words | ISBN-10: 8170305829 | ISBN-13: 9788170305828
 
 This second volume of the Rasa-jala-nidhi deals with the purification, incineration and medicinal uses of various minerals (uparasa), as well as preventing faults due to misuse. It is continued in the third volume which deals with the various metals.
 
@@ -4164,10 +3669,7 @@ This concludes ‘Theory of vayu (vata), pitta and kapha’ included in Bhudeb M
 
 ## 134. Part 5 - Use of essence of Makshika
 
-
 Rasa Jala Nidhi, vol 2: Minerals (uparasa)
-
-by Bhudeb Mookerjee | 1938 | 28,803 words | ISBN-10: 8170305829 | ISBN-13: 9788170305828
 
 This second volume of the Rasa-jala-nidhi deals with the purification, incineration and medicinal uses of various minerals (uparasa), as well as preventing faults due to misuse. It is continued in the third volume which deals with the various metals.
 
@@ -4196,8 +3698,5 @@ This concludes ‘Use of essence of Makshika’ included in Bhudeb Mookerjee Ras
 ---
 
 ## 135. Preface
-
-
-
 
 ---

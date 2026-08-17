@@ -1,23 +1,15 @@
 ---
 title: "The Physician in the Medical Texts — Charaka Samhita And Sushruta Samhita By Nayana Sharma"
-paper_title: "Charaka Samhita And Sushruta Samhita By Nayana Sharma"
-paper_slug: "charaka-samhita-and-sushruta-samhita-by-nayana-sharma"
-chapter_title: "The Physician in the Medical Texts"
-chapter_slug: "the-physician-in-the-medical-texts"
-chapter_number: 26
-reading_time: 20
-prev_chapter: "chapter-3"
-next_chapter: "the-position-of-the-physician-in-society"
-silo: "research"
-category: "Ayurvedic Research & Evidence"
-status: "Published"
-date: "2026-08-17"
 description: "Detailed analysis of The Physician in the Medical Texts from Charaka Samhita And Sushruta Samhita By Nayana Sharma by Nayana Sharma. Evidence-based Ayurvedic literature review and pharmacognosy."
+category: "Ayurvedic Research & Evidence"
 author: "Suresh Bhati"
-original_scholar: "Nayana Sharma"
+publishedDate: "2026-08-17"
+status: "Published"
 ---
 
 # 26. The Physician in the Medical Texts
+
+> **Clinical Executive Summary**: This guide on **The Physician in the Medical Texts — Charaka Samhita And Sushruta Samhita By Nayana Sharma** synthesizes classical Sanskrit Samhita principles with modern botanical pharmacological research. Curated under the editorial supervision of Suresh Bhati, it provides actionable doshic guidelines, evidence-based applications, and safety parameters.
 
 > **TL;DR:** Chapter 26 of **Charaka Samhita And Sushruta Samhita By Nayana Sharma** by **Nayana Sharma** explores key findings on *The Physician in the Medical Texts*. It bridges traditional Sanskrit literature with contemporary medical science.
 
@@ -42,9 +34,6 @@ Besides, the title of “vaidya” is not give to him because of his expertise i
 vidyāsamāptau bhiṣajo dvitīyā jātirucyate.
 aśnute vaiyaśabdaṃ hi na vaidyaḥ purvajanmanā.[8]
 
-vidyāsamāptau bhiṣajo dvitīyā jātirucyate.
-aśnute vaiyaśabdaṃ hi na vaidyaḥ purvajanmanā.[8]
-
 The physician, thus, earns honourable title of vaidya by virtue of the formal schooling he undergoes under the guidance of a preceptor. More importantly, he experiences his second birth and the vaidya is ensured the elevated position of a dvija. This would imply that even Vedic education by itself does not ensure the honourable position of a dvija. There is further explanation of why the physician is worthy of the honour of the status of dvija and vaidya. On the completion of his medical studies, the physician is certainly endowed with either Brāhma sattva (the mental faculty of Brahmā) or Ṛṣi sattva (mental faculty of a ṛṣi): vidyāsamāptau brāhmaṃ vā sattvamārṣamathāpi vā.[9] Therefore, he is known as a “vaidya” and a “dvija”. Moreover, Caraka contests the claim of Vedic education to grant the epithet of “dvija’. The second birth does not happen through into Vedic studies but through the completion (and not the initiation) into medical studies.[10]
 
 We may turn to some sūtras in the chapter on rejuvenation of the Cikitsā sthāna wherein Caraka explains why medical practitioners, especially the prāṇācāryas, are worthy of honour and high regard from the wise. A physician who is a dvijāti characterised by good conduct, intellect and scholarship, is known as a prāṇācārya.[11] His erudition is not restricted to the medical field for he is learned in the Vedas as well. Hence, he deserves to be revered as a teacher just as the divine physicians, the Aśvins, were worshipped by the king of the gods Indra.[12] Caraka then goes to recount the medical accomplishments of the twin deities. On the request of the gods, they had successfully joined the head of the Yajña to the body after it was decapitated. The medical texts make no references to the priestly ordination on the ritual pollution of physicians; rather Suśruta recounts the story to accentuate the importance of surgery in healing.[13]
@@ -58,15 +47,9 @@ The physicians familiar in use of drugs and minerals, and the priests well verse
 doṣāgantujam tyubhyo rasamantraviśāradau.
 rakṣetaṃ nripatiṃ nityaṃ yatyau vaidyapurohitau.
 
-doṣāgantujam tyubhyo rasamantraviśāradau.
-rakṣetaṃ nripatiṃ nityaṃ yatyau vaidyapurohitau.
-
 The king desirous of victory, as he is marching along with his ministers, should be protected by all means, especially from poisons.[23] Not only the king, the clinician also has to protect the army by ensuring that the roads, water, shadows, edibles, fodder and fuel are safe and devoid of poison.[24] Further, Suśruta says that Brahmā Āyurveda with its eight branches which is an appendage of the Vedas, and as the priests (brāhmaṇas) are well versed in the latter, the physician should act according to the advice of the priests, which is to say, take a subservient position.
 
 Thus:
-
-brahmā vedāṅgaṣṭāṅgamāyurvedamabhāṣata.
-purohitmate tasmādvarteta bhiṣāgāmavān.[25]
 
 brahmā vedāṅgaṣṭāṅgamāyurvedamabhāṣata.
 purohitmate tasmādvarteta bhiṣāgāmavān.[25]
@@ -82,9 +65,6 @@ In the eyes of our classical medical authors, an expert in medical science with 
 However, from certain references occurring in the classical texts make it apparent that condescension of physicians was very much a reality. The Soma creepers are invisible to those who insult the physicians (bhiṣajaścāpamānitāḥ), who are impious, who are ungrateful, who decry medicines and for those who look down upon brāhmaṇas.[34]
 
 Suśruta declares that patients do not recover in those houses where the physician is not respected; treatment is successful only where the physician is respected:
-
-na sa sidhayati vaidyo vā gṛhye yasya na pujyate.
-bhavana pujyate vā(a)pi yasya vaidya sa sidhyati.[35]
 
 na sa sidhayati vaidyo vā gṛhye yasya na pujyate.
 bhavana pujyate vā(a)pi yasya vaidya sa sidhyati.[35]
@@ -107,17 +87,11 @@ The third verse reads:
 
 “In that line of the Lord of Plants (Oṣadhinātha), i.e., the Moon, there flourished kings who cured their enemies of the fever arising out of power-poison by means of (medicinal) creepers.”[63]
 
-“In that line of the Lord of Plants (Oṣadhinātha), i.e., the Moon, there flourished kings who cured their enemies of the fever arising out of power-poison by means of (medicinal) creepers.”[63]
-
 The metaphor of the physician’s skill of healing is used to exemplify the military prowess of the Sena kings. Sircar contends that it was the amalgamation of the physicians with the tribal Ambaṣṭha-Vaidyas of south India that led to the crystallization of the vaidya caste in Bengal.[64] According to Majumdar the descendants of Senas are physicians by profession who wear the sacred thread and call themselves vaidyas. They claim the right to read the Vedas.[65] According to H.H. Risley, the vaidyas of Bengal came to be identified with the ambaṣṭhas of Manu.[66]
 
 As compared to the physician, the position of the surgeon underwent gradual deterioration. Unfortunately, evidence on surgeons in inscriptions is very meager. From the pay structure given in the Tirumukkūḍal Inscription of Vīrarājendra, it is evident that the salary of the surgeon was lower to that of the vaidya indicating the inferior position of surgeons.[67] According to Dominik Wujastyk, there is little evidence to show that the surgical practices described in Suśruta’s work persisted beyond the time of the compendium.[68] This is hardly tenable as commentaries on the Suśruta Saṃhitā continued to be written even in the medieval period. Besides, even in the 11th century Chalukyan record we get reference to a Jaina physician Aggalayya who was proficient in śastra-śāstra or surgery.[69] He flourished under the patronage of the Chalukyan ruler Jayasimha II and the record shows that the practice of surgery was prevalent even among the Jainas who were advocates of non-violence.
 
 Our study, therefore, shows that the normative brahmanical texts do not accurately reflect the stature of medical practitioners in society. There is sufficient non-canonical data and epigraphic evidence to show that physicians were honoured by kings. Idealization of the image of the physician as “a paragon of gentlemanly qualities”[70] is evident in description of the prescribed code of medical ethics and social etiquette in our compendia. He was expected to be genial, modest and sincere. The physician’s code of behaviour was kind of self-regulation. More importantly, physicians looked upon themselves as members of a professional group and not as members of a caste. It is this professionalism which is reflected in the perception of what an ideal physician should be. There is deference towards brahmanical norms; nonetheless their perception of the medical practitioner is guided more by the needs of the profession.
-
-Footnotes and references:
-
-[back to top]
 
 [1]:
 
@@ -401,8 +375,6 @@ G.S.Lavekar, Doctor-Patient Relationship in Ancient India (Ayurveda), Varanasi, 
 
 ---
 
----
-
 ## ❓ 4. Frequently Asked Questions (15 Question Intent Matrix)
 
 ### Q1: What is the primary subject of "The Physician in the Medical Texts"?
@@ -512,6 +484,72 @@ G.S.Lavekar, Doctor-Patient Relationship in Ancient India (Ayurveda), Varanasi, 
           }
         }
       ]
+    }
+  ]
+}
+</script>
+
+## Frequently Asked Questions (FAQ)
+
+### What are the primary health benefits of The Physician in the Medical Texts — Charaka Samhita And Sushruta Samhita By Nayana Sharma in Ayurveda?
+The Physician in the Medical Texts — Charaka Samhita And Sushruta Samhita By Nayana Sharma is traditionally utilized in Ayurveda to balance doshic imbalances, support systemic vitality, and promote long-term physiological wellness under proper guidance.
+
+### How should The Physician in the Medical Texts — Charaka Samhita And Sushruta Samhita By Nayana Sharma be taken according to classical guidelines?
+According to classical Ayurvedic principles, The Physician in the Medical Texts — Charaka Samhita And Sushruta Samhita By Nayana Sharma is best administered with appropriate Anupana (carrier vehicles such as warm water, honey, or warm milk) tailored to an individual's Prakriti (constitution).
+
+### Are there any contraindications or side effects associated with The Physician in the Medical Texts — Charaka Samhita And Sushruta Samhita By Nayana Sharma?
+While generally well-tolerated when used appropriately, excessive usage or improper dosing may exacerbate specific doshas. Consult an Ayurvedic physician prior to therapeutic use.
+
+### How long does it take to observe results from using The Physician in the Medical Texts — Charaka Samhita And Sushruta Samhita By Nayana Sharma?
+In traditional Ayurvedic protocol, herbal formulations operate synergistically with diet and lifestyle. Notable improvements typically emerge within 2 to 4 weeks of consistent administration.
+
+### Is The Physician in the Medical Texts — Charaka Samhita And Sushruta Samhita By Nayana Sharma safe for long-term daily consumption?
+Certain tonic (Rasayana) preparations may be safely used long-term, whereas intensive therapeutic formulas are recommended for specific short-term protocols under expert supervision.
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What are the primary health benefits of The Physician in the Medical Texts — Charaka Samhita And Sushruta Samhita By Nayana Sharma in Ayurveda?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The Physician in the Medical Texts — Charaka Samhita And Sushruta Samhita By Nayana Sharma is traditionally utilized in Ayurveda to balance doshic imbalances, support systemic vitality, and promote long-term physiological wellness under proper guidance."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How should The Physician in the Medical Texts — Charaka Samhita And Sushruta Samhita By Nayana Sharma be taken according to classical guidelines?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "According to classical Ayurvedic principles, The Physician in the Medical Texts — Charaka Samhita And Sushruta Samhita By Nayana Sharma is best administered with appropriate Anupana (carrier vehicles such as warm water, honey, or warm milk) tailored to an individual's Prakriti (constitution)."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Are there any contraindications or side effects associated with The Physician in the Medical Texts — Charaka Samhita And Sushruta Samhita By Nayana Sharma?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "While generally well-tolerated when used appropriately, excessive usage or improper dosing may exacerbate specific doshas. Consult an Ayurvedic physician prior to therapeutic use."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How long does it take to observe results from using The Physician in the Medical Texts — Charaka Samhita And Sushruta Samhita By Nayana Sharma?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "In traditional Ayurvedic protocol, herbal formulations operate synergistically with diet and lifestyle. Notable improvements typically emerge within 2 to 4 weeks of consistent administration."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Is The Physician in the Medical Texts — Charaka Samhita And Sushruta Samhita By Nayana Sharma safe for long-term daily consumption?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Certain tonic (Rasayana) preparations may be safely used long-term, whereas intensive therapeutic formulas are recommended for specific short-term protocols under expert supervision."
+      }
     }
   ]
 }

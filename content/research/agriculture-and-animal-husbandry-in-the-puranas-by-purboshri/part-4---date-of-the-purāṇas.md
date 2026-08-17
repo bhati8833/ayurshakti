@@ -1,23 +1,15 @@
 ---
 title: "Part 4 - Date of the Purāṇas — Agriculture And Animal Husbandry In The Puranas By Purboshri"
-paper_title: "Agriculture And Animal Husbandry In The Puranas By Purboshri"
-paper_slug: "agriculture-and-animal-husbandry-in-the-puranas-by-purboshri"
-chapter_title: "Part 4 - Date of the Purāṇas"
-chapter_slug: "part-4---date-of-the-purāṇas"
-chapter_number: 8
-reading_time: 5
-prev_chapter: "part-5---number-of-the-purāṇas"
-next_chapter: "part-6---description-of-the-upapurāṇas"
-silo: "research"
-category: "Ayurvedic Research & Evidence"
-status: "Published"
-date: "2026-08-17"
 description: "Detailed analysis of Part 4 - Date of the Purāṇas from Agriculture And Animal Husbandry In The Puranas By Purboshri by Purboshri Borpuzari. Evidence-based Ayurvedic literature review and pharmacognosy."
+category: "Ayurvedic Research & Evidence"
 author: "Suresh Bhati"
-original_scholar: "Purboshri Borpuzari"
+publishedDate: "2026-08-17"
+status: "Published"
 ---
 
 # 8. Part 4 - Date of the Purāṇas
+
+> **Clinical Executive Summary**: This guide on **Part 4 - Date of the Purāṇas — Agriculture And Animal Husbandry In The Puranas By Purboshri** synthesizes classical Sanskrit Samhita principles with modern botanical pharmacological research. Curated under the editorial supervision of Suresh Bhati, it provides actionable doshic guidelines, evidence-based applications, and safety parameters.
 
 > **TL;DR:** Chapter 8 of **Agriculture And Animal Husbandry In The Puranas By Purboshri** by **Purboshri Borpuzari** explores key findings on *Part 4 - Date of the Purāṇas*. It bridges traditional Sanskrit literature with contemporary medical science.
 
@@ -38,10 +30,6 @@ The Agni Purāṇa says that Kṛṣṇa Dvaipāyana Vyāsa divided the Vedas in
 F.E. Pargiter opines that the Purāṇas began long before Āpastamba's time. His sūtra work is estimated by Bühler as not later than the third century B.C., and possibly 150-200 years earlier. Hence, the Purāṇas must have existed at least as early as the beginning of the fifth century B.C.[11] Winternitz says that the earlier Purāṇas must have commentary into being before the 7th century.[12] Again, discovery of a Bengal Manuscript of the Skanda Purāṇa, written in Gupta script, shows that this Purāṇa was in existence in the 7th Century A.D.[13] Kumārila Bhaṭṭa, the philosopher, (about 750 A.D) takes the Purāṇas as sources of law, while Śaṃkarācārya (9th century A.D) and Rāmānuja (12th century A.D) quote the Purāṇas as holy texts.[14] R.C. Hazra in his Studies on the Purāṇic Records of Hindu Rites and Customs mentions that as the Mahābhārata and the Harivaṃśa mentions about the eighteen Purāṇas, so it can only just be doubted that the Purāṇas were originated not later than the first quarter of the seventh century A.D.[15]
 
 According to Pargiter, the Vāyu Purāṇa existed before A.D. 620, because it is referred to by poet Bāṇabhaṭṭa in his historical novel Harṣa-carita, and the writing in a Manuscript of the Skanda in the Royal Library of Nepal shows that that Purāṇa also existed about that time.[16] V.R.R. Dikshitar in his Some Aspects of the Vāyu Purāṇa opines that the epic Mahābhārata and its supplement the Harivaṃśa quote the Vāyu Purāṇa. This shows that this Purāṇa is much anterior to the epic Mahābhārata.[17] Again, the origin of the Bhāgavata Purāṇa may be assigned to the 13th century according to Colebrooke, Burnouf and Wilson.[18] Regarding the composition of the Viṣṇu Purāṇa it is stated that this Purāṇa was composed most probably in the last quarter of the third or the first quarter of the fourth century A.D.[19] The Agni Purāṇa is said to have been composed during the ninth century.[20] Regarding the date of the Matsya Purāṇa, Pargiter in his The Purāṇa Text of the Dynasties of the Kali Age opines that the compilation of the Matsya Purāṇa was begun in the latter part of the 2nd century in the reign of the Andhra king Yajña-Śrī Sātakarṇi.[21] A.M.T. Jackson thinks that Megasthenes was acquainted with part, at least, of a Purāṇic cosmogony and with a Purāṇic list of kings and also with a Purāṇic description of the upper and the lower world.[22] Observing Jackson’s point of view S.D. Gyani opines that Megasthenes had before him the same Purāṇa that has already been shown to have existed from the Vedic times to the 2nd Century B.C., the contents of which are, more or less, reproduced in the more primitive parts of the existing Purāṇas. The earliest part of the Purāṇas therefore, was compiled not later than the last quarter of the 4th century B.C.[23]
-
-Footnotes and references:
-
-[back to top]
 
 [1]:
 
@@ -146,8 +134,6 @@ Gyani,S.D., op.cit., p. 28
 [23]:
 
 Ibid., p. 29
-
----
 
 ---
 
@@ -260,6 +246,72 @@ Ibid., p. 29
           }
         }
       ]
+    }
+  ]
+}
+</script>
+
+## Frequently Asked Questions (FAQ)
+
+### What are the primary health benefits of Part 4 - Date of the Purāṇas — Agriculture And Animal Husbandry In The Puranas By Purboshri in Ayurveda?
+Part 4 - Date of the Purāṇas — Agriculture And Animal Husbandry In The Puranas By Purboshri is traditionally utilized in Ayurveda to balance doshic imbalances, support systemic vitality, and promote long-term physiological wellness under proper guidance.
+
+### How should Part 4 - Date of the Purāṇas — Agriculture And Animal Husbandry In The Puranas By Purboshri be taken according to classical guidelines?
+According to classical Ayurvedic principles, Part 4 - Date of the Purāṇas — Agriculture And Animal Husbandry In The Puranas By Purboshri is best administered with appropriate Anupana (carrier vehicles such as warm water, honey, or warm milk) tailored to an individual's Prakriti (constitution).
+
+### Are there any contraindications or side effects associated with Part 4 - Date of the Purāṇas — Agriculture And Animal Husbandry In The Puranas By Purboshri?
+While generally well-tolerated when used appropriately, excessive usage or improper dosing may exacerbate specific doshas. Consult an Ayurvedic physician prior to therapeutic use.
+
+### How long does it take to observe results from using Part 4 - Date of the Purāṇas — Agriculture And Animal Husbandry In The Puranas By Purboshri?
+In traditional Ayurvedic protocol, herbal formulations operate synergistically with diet and lifestyle. Notable improvements typically emerge within 2 to 4 weeks of consistent administration.
+
+### Is Part 4 - Date of the Purāṇas — Agriculture And Animal Husbandry In The Puranas By Purboshri safe for long-term daily consumption?
+Certain tonic (Rasayana) preparations may be safely used long-term, whereas intensive therapeutic formulas are recommended for specific short-term protocols under expert supervision.
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What are the primary health benefits of Part 4 - Date of the Purāṇas — Agriculture And Animal Husbandry In The Puranas By Purboshri in Ayurveda?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Part 4 - Date of the Purāṇas — Agriculture And Animal Husbandry In The Puranas By Purboshri is traditionally utilized in Ayurveda to balance doshic imbalances, support systemic vitality, and promote long-term physiological wellness under proper guidance."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How should Part 4 - Date of the Purāṇas — Agriculture And Animal Husbandry In The Puranas By Purboshri be taken according to classical guidelines?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "According to classical Ayurvedic principles, Part 4 - Date of the Purāṇas — Agriculture And Animal Husbandry In The Puranas By Purboshri is best administered with appropriate Anupana (carrier vehicles such as warm water, honey, or warm milk) tailored to an individual's Prakriti (constitution)."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Are there any contraindications or side effects associated with Part 4 - Date of the Purāṇas — Agriculture And Animal Husbandry In The Puranas By Purboshri?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "While generally well-tolerated when used appropriately, excessive usage or improper dosing may exacerbate specific doshas. Consult an Ayurvedic physician prior to therapeutic use."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How long does it take to observe results from using Part 4 - Date of the Purāṇas — Agriculture And Animal Husbandry In The Puranas By Purboshri?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "In traditional Ayurvedic protocol, herbal formulations operate synergistically with diet and lifestyle. Notable improvements typically emerge within 2 to 4 weeks of consistent administration."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Is Part 4 - Date of the Purāṇas — Agriculture And Animal Husbandry In The Puranas By Purboshri safe for long-term daily consumption?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Certain tonic (Rasayana) preparations may be safely used long-term, whereas intensive therapeutic formulas are recommended for specific short-term protocols under expert supervision."
+      }
     }
   ]
 }

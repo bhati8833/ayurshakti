@@ -20,17 +20,11 @@ This chapter from **Sushruta Samhita (Sharirasthana)** represents the classical 
 
 ---
 
-
 Sushruta Samhita, volume 3: Sharirasthana
-
-by Kaviraj Kunja Lal Bhishagratna | 1911 | 36,821 words
 
 This current book, the Sharira-sthana (english translation), deals with anatomy, the human body, cosmology, embryology and various other subjects.
 
 The Sushruta Samhita is the most representative work of the Hindu system of medicine. It embraces all that can possibly appertain to the science of medicine. Susruta-samhita is recognized as the first a...
-
-Go directly to: 
-Footnotes.
 
 Chapter V - The anatomy of the human body
 
@@ -259,10 +253,6 @@ Memorable Verses:—
 The Self, the occult or invisible Lord of the body cannot be detected except with the psychic eye or with that of the mind. He, who has observed the internal mechanism of the human body and is well read in the works bearing on these subjects and has thus all his doubts expelled from his mind is alone qualified in the science of Ayurveda and has a rightful claim to practise the art of healing. 57.
 
 Thus ends the fifth Chapter of the Sharira-sthana in the Sushruta Samhita which treats of the anatomy of the human body.
-
-Footnotes and references:
-
-[back to top]
 
 [1]:
 

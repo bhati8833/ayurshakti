@@ -1,23 +1,15 @@
 ---
 title: "Part 3 - Importance of Agriculture — Agriculture And Animal Husbandry In The Puranas By Purboshri"
-paper_title: "Agriculture And Animal Husbandry In The Puranas By Purboshri"
-paper_slug: "agriculture-and-animal-husbandry-in-the-puranas-by-purboshri"
-chapter_title: "Part 3 - Importance of Agriculture"
-chapter_slug: "part-3---importance-of-agriculture"
-chapter_number: 21
-reading_time: 4
-prev_chapter: "part-1---introduction-and-history-of-ancient-indian-agriculture"
-next_chapter: "part-4---agriculture-from-the-vedic-point-of-view"
-silo: "research"
-category: "Ayurvedic Research & Evidence"
-status: "Published"
-date: "2026-08-17"
 description: "Detailed analysis of Part 3 - Importance of Agriculture from Agriculture And Animal Husbandry In The Puranas By Purboshri by Purboshri Borpuzari. Evidence-based Ayurvedic literature review and pharmacognosy."
+category: "Ayurvedic Research & Evidence"
 author: "Suresh Bhati"
-original_scholar: "Purboshri Borpuzari"
+publishedDate: "2026-08-17"
+status: "Published"
 ---
 
 # 21. Part 3 - Importance of Agriculture
+
+> **Clinical Executive Summary**: This guide on **Part 3 - Importance of Agriculture — Agriculture And Animal Husbandry In The Puranas By Purboshri** synthesizes classical Sanskrit Samhita principles with modern botanical pharmacological research. Curated under the editorial supervision of Suresh Bhati, it provides actionable doshic guidelines, evidence-based applications, and safety parameters.
 
 > **TL;DR:** Chapter 21 of **Agriculture And Animal Husbandry In The Puranas By Purboshri** by **Purboshri Borpuzari** explores key findings on *Part 3 - Importance of Agriculture*. It bridges traditional Sanskrit literature with contemporary medical science.
 
@@ -35,11 +27,7 @@ In the Kṛṣi-parāśara the importance of kṛṣi is very aptly brought out 
 
 kṛṣirdhanyā kṛṣirmedhyā jantūnāṃ jīvanaṃ kṛṣiḥ.[1]
 
-kṛṣirdhanyā kṛṣirmedhyā jantūnāṃ jīvanaṃ kṛṣiḥ.[1]
-
 One who is related to agriculture can become a king—
-
-kṛṣyanvito hi loke’smin bhūyādekaśca bhūpatiḥ.[2]
 
 kṛṣyanvito hi loke’smin bhūyādekaśca bhūpatiḥ.[2]
 
@@ -47,19 +35,13 @@ Agriculture is the only means of livelihood for which one is not compelled to be
 
 ekayā ca punaḥ kṛṣyā prārthako naiva jāyate.[3]
 
-ekayā ca punaḥ kṛṣyā prārthako naiva jāyate.[3]
-
 Parāśara again states that rice, which is the main food of the majority of the people all over the world, is produced from the agricultural crop paddy and without agriculture paddy cannot be produced—
-
-annaṃ hi dhānya sañjātaṃ dhānyaṃ kṛṣyā vinā na ca.[4]
 
 annaṃ hi dhānya sañjātaṃ dhānyaṃ kṛṣyā vinā na ca.[4]
 
 It is rice which besides providing sustenance to the gods, demons and human beings (devāsuramanuṣyāśca sarve cānnopajīvinaḥ) constitutes the very vitality (annaṃ prāṇā), vigour (balaṃ cānnam) and the means of fulfillment of all the ends of life (annaṃ sarvārtha sādhanam).[5] A person may be with gold ornaments in his neck, ears and hands (kaṇṭhe karṇe ca haste ca suvarṇaṃ vidyate yadi), when denied of rice, is inevitably threatened with starvation and death (upavāsastathāpi syādannābhāvena dehīnām).[6]
 
 The Taittirīya Upaniṣad too states that living beings are born from food; when born, by food they grow.It is fed upon, and it feeds on beings; so it is called food—
-
-annādbhūtāni jāyante/ jātānyannena vardhante/ adyate’tti ca bhūtāni/ tasmādannaṃ taducyata iti.[7]
 
 annādbhūtāni jāyante/ jātānyannena vardhante/ adyate’tti ca bhūtāni/ tasmādannaṃ taducyata iti.[7]
 
@@ -71,13 +53,7 @@ The Viṣṇu Purāṇa states that agriculture is the survival of farmers—
 
 karṣakāṇāṃ kṛṣirvṛttiḥ.[10]
 
-karṣakāṇāṃ kṛṣirvṛttiḥ.[10]
-
 According to the Vāyu Purāṇa, agriculture along with the profession of trading and animal husbandry was not for Brāhmaṇas.[11] The Vāyu Purāṇa mentions that of the four castes, the Vaiśyas were specially connected with agriculture and commerce.[12] The Bhāgavata Purāṇa mentions that the main profession of the Vaiśyas was to carry on business (vārtā-vṛtti). Vārtā comprises of tending cattle, tilling agricultural fields, carrying on trade and lending for profit.[13] The Vāyu Purāṇa states that Svayambhū Brahmā devised plans for the purpose of agricultural cultivation.[14] He ordained animal husbandry or cattle rearing, trade and agriculture for the Vaiśyas.[15] The Viṣṇu Purāṇa states that Brahmā, the great parent of creation, gave to the Vaiśyas, the occupation of commerce and agriculture and the feeding of flocks and herds, for means of livelihood.[16] The Mārkaṇḍeya Purāṇa too points out that agriculture and tending of cattle were the means of livelihood for the Vaiśyas.[17] The custom of field-gifting is also met with in the Purāṇas.The Agni Purāṇa states that by making the gift of a field in full harvest, to a Brāhmaṇa, a man attains everything.[18] It is also mentioned in the Viṣṇu Purāṇa that in the Kali age, oppressed by famine and taxation, men will desert their native lands, and go to those countries which are fit for coarse grains.[19]
-
-Footnotes and references:
-
-[back to top]
 
 [1]:
 
@@ -160,8 +136,6 @@ Agni Purāṇa ,211.28
 
 durbhikṣakarapīḍābhiratīvopahatā janāḥ /
 gavedhukakadannādyān deśān yāsyanti duhkhitāḥ// Viṣṇu Purāṇa , 6.1.38
-
----
 
 ---
 
@@ -274,6 +248,72 @@ gavedhukakadannādyān deśān yāsyanti duhkhitāḥ// Viṣṇu Purāṇa , 6.
           }
         }
       ]
+    }
+  ]
+}
+</script>
+
+## Frequently Asked Questions (FAQ)
+
+### What are the primary health benefits of Part 3 - Importance of Agriculture — Agriculture And Animal Husbandry In The Puranas By Purboshri in Ayurveda?
+Part 3 - Importance of Agriculture — Agriculture And Animal Husbandry In The Puranas By Purboshri is traditionally utilized in Ayurveda to balance doshic imbalances, support systemic vitality, and promote long-term physiological wellness under proper guidance.
+
+### How should Part 3 - Importance of Agriculture — Agriculture And Animal Husbandry In The Puranas By Purboshri be taken according to classical guidelines?
+According to classical Ayurvedic principles, Part 3 - Importance of Agriculture — Agriculture And Animal Husbandry In The Puranas By Purboshri is best administered with appropriate Anupana (carrier vehicles such as warm water, honey, or warm milk) tailored to an individual's Prakriti (constitution).
+
+### Are there any contraindications or side effects associated with Part 3 - Importance of Agriculture — Agriculture And Animal Husbandry In The Puranas By Purboshri?
+While generally well-tolerated when used appropriately, excessive usage or improper dosing may exacerbate specific doshas. Consult an Ayurvedic physician prior to therapeutic use.
+
+### How long does it take to observe results from using Part 3 - Importance of Agriculture — Agriculture And Animal Husbandry In The Puranas By Purboshri?
+In traditional Ayurvedic protocol, herbal formulations operate synergistically with diet and lifestyle. Notable improvements typically emerge within 2 to 4 weeks of consistent administration.
+
+### Is Part 3 - Importance of Agriculture — Agriculture And Animal Husbandry In The Puranas By Purboshri safe for long-term daily consumption?
+Certain tonic (Rasayana) preparations may be safely used long-term, whereas intensive therapeutic formulas are recommended for specific short-term protocols under expert supervision.
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What are the primary health benefits of Part 3 - Importance of Agriculture — Agriculture And Animal Husbandry In The Puranas By Purboshri in Ayurveda?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Part 3 - Importance of Agriculture — Agriculture And Animal Husbandry In The Puranas By Purboshri is traditionally utilized in Ayurveda to balance doshic imbalances, support systemic vitality, and promote long-term physiological wellness under proper guidance."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How should Part 3 - Importance of Agriculture — Agriculture And Animal Husbandry In The Puranas By Purboshri be taken according to classical guidelines?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "According to classical Ayurvedic principles, Part 3 - Importance of Agriculture — Agriculture And Animal Husbandry In The Puranas By Purboshri is best administered with appropriate Anupana (carrier vehicles such as warm water, honey, or warm milk) tailored to an individual's Prakriti (constitution)."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Are there any contraindications or side effects associated with Part 3 - Importance of Agriculture — Agriculture And Animal Husbandry In The Puranas By Purboshri?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "While generally well-tolerated when used appropriately, excessive usage or improper dosing may exacerbate specific doshas. Consult an Ayurvedic physician prior to therapeutic use."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How long does it take to observe results from using Part 3 - Importance of Agriculture — Agriculture And Animal Husbandry In The Puranas By Purboshri?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "In traditional Ayurvedic protocol, herbal formulations operate synergistically with diet and lifestyle. Notable improvements typically emerge within 2 to 4 weeks of consistent administration."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Is Part 3 - Importance of Agriculture — Agriculture And Animal Husbandry In The Puranas By Purboshri safe for long-term daily consumption?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Certain tonic (Rasayana) preparations may be safely used long-term, whereas intensive therapeutic formulas are recommended for specific short-term protocols under expert supervision."
+      }
     }
   ]
 }

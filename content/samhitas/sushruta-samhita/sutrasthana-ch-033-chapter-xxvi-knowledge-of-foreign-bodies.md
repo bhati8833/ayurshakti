@@ -20,15 +20,9 @@ This chapter from **Sushruta Samhita (Sutrasthana)** represents the classical su
 
 ---
 
-
 Sushruta Samhita, volume 1: Sutrasthana
 
-by Kaviraj Kunja Lal Bhishagratna | 1907 | 148,756 words
-
 This current book, the Sutra-sthana (english translation), is the first part of this voluminous medical work. It contains a large summary of the knowledge envelopig the medical aspects of Ayurveda. Descriptions of diseases, various diets and drugs, the duties of a surgeon, surgical procedures, medical training; these are only some of the numerous s...
-
-Go directly to: 
-Footnotes.
 
 Chapter XXVI - Knowledge of foreign bodies
 
@@ -83,10 +77,6 @@ A particle of soft bone, horn or iron, in anywise lodged in the body, assumes an
 The physician, who is fully conversant with the five different courses or flights of an arrow (Shalya), whether feathered or unfeathered, and has minutely observed and studied the symptoms due to its lodgment in any of the eight different seats of ulcers (Vrana) in the human organism (such as, the skin, etc.), is alone worthy of attending on kings and nobles.
 
 Thus ends the twenty-sixth Chapter of the Sutrasthana in the Sushruta Samhita which treats of exploration of splinters.
-
-Footnotes and references:
-
-[back to top]
 
 [1]:
 

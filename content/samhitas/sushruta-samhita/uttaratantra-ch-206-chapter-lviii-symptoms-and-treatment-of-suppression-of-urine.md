@@ -20,17 +20,11 @@ This chapter from **Sushruta Samhita (Uttaratantra)** represents the classical s
 
 ---
 
-
 Sushruta Samhita, Volume 6: Uttara-tantra
-
-by Kaviraj Kunja Lal Bhishagratna | 1916 | 113,078 words
 
 This current book, the Uttara-tantra (english translation) is the supplementary part of the Sushrutasamhita and deals various subjects such as diseases of the eye, treatment of fever, diarrhea, diseases resulting from superhuman influences, insanity, rules of health etc.
 
 The Sushruta Samhita is the most representative work of the Hindu system of m...
-
-Go directly to: 
-Footnotes.
 
 Chapter LVIII - Symptoms and Treatment of suppression of Urine (Mutra-ghata)
 
@@ -123,10 +117,6 @@ Half a Patra measure of honey, one Patra measure of clarified butter churned fro
 Equal parts of Vala, stones of Kola -fruits, Yashti-madhu, Shvadamshtra (Gokshura), Shatavari, Mrinala (lotus-stem), Kasheru, seeds of Ikshuraka, Sahasra-virya (Durba), Amshumati (Sala-parni), Payasya (Vidari), Kala, Shrigalavinna( Prishniparni), Ati-vala and the drugs of the Vrimhaniya (Kakolyadi) group should be duly boiled with four times of water of their combined weight and a Tula masure of treacle. When only a Drona measure of water would remain, it should be taken down and strained through a piece of linen. It should then be duly cooked with an Adhaka measure of clarified butter. The medicated Ghrita (thus prepared) with a Prastha measure of honey added to it (when cooled) should be kept in an earthen pitcher. By using this medicated Ghrita, one would be cured of all urinary troubles.[8] 29.
 
 Thus ends the fifty-eighth chapter in the Uttara-Tantra of the Sushruta Samhita which deals with the (symptoms and) treatment of the suppression of urine (Mutraghata).
-
-Footnotes and references:
-
-[back to top]
 
 [1]:
 

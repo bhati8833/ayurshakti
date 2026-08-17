@@ -20,17 +20,11 @@ This chapter from **Sushruta Samhita (Nidanasthana)** represents the classical s
 
 ---
 
-
 Sushruta Samhita, volume 2: Nidanasthana
-
-by Kaviraj Kunja Lal Bhishagratna | 1911 | 37,609 words
 
 This current book, the Nidana-sthana (english translation), is the second part of this voluminous medical work. It deals with diseases: their prognosis, their cause, their symptoms and their pathogenesis (development of the disease).
 
 The Sushruta Samhita is the most representative work of the Hindu system of medicine. It embraces all that can poss...
-
-Go directly to: 
-Footnotes.
 
 Chapter I - Diagnosis of diseases of nervous system
 
@@ -179,10 +173,6 @@ A sort of pain, which (rising from the bowels or the urinary bladder and ranging
 A knotty stone-like tumour (Granthi) of considerable density, whether fixed or mobile, and appearing below the umbilicus, and having an elevated shape which is always found to be extended in an upward direction, is called a Vatasthila, (which) as its name implies, is due to the action of the local deranged Vayu. The tumour, thus formed, obstructs the emission of flatus and impedes the evacuation of feces. A tumour of similar shape, appearing laterally or across the region of the abdomen (Jathara) and obstructing the passage of stool, urine and flatus (Vata) is called a Pratyashthila. 75—76.
 
 Thus ends the first Chapter of the Nidana Sthana in the Sushruta Samhita, which treats of the Nidana of the diseases of the nervous system.
-
-Footnotes and references:
-
-[back to top]
 
 [1]:
 

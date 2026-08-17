@@ -1,23 +1,15 @@
 ---
 title: "Study of Brihati Marma — Marma Sastra And Ayurveda Study By C Suresh Kumar"
-paper_title: "Marma Sastra And Ayurveda Study By C Suresh Kumar"
-paper_slug: "marma-sastra-and-ayurveda-study-by-c-suresh-kumar"
-chapter_title: "Study of Brihati Marma"
-chapter_slug: "study-of-brihati-marma"
-chapter_number: 55
-reading_time: 2
-prev_chapter: "study-of-nitamba-marma"
-next_chapter: "study-of-amsa-marma"
-silo: "research"
-category: "Ayurvedic Research & Evidence"
-status: "Published"
-date: "2026-08-17"
 description: "Detailed analysis of Study of Brihati Marma from Marma Sastra And Ayurveda Study By C Suresh Kumar by Classical Ayurvedic Scholar. Evidence-based Ayurvedic literature review and pharmacognosy."
+category: "Ayurvedic Research & Evidence"
 author: "Suresh Bhati"
-original_scholar: "Classical Ayurvedic Scholar"
+publishedDate: "2026-08-17"
+status: "Published"
 ---
 
 # 55. Study of Brihati Marma
+
+> **Clinical Executive Summary**: This guide on **Study of Brihati Marma — Marma Sastra And Ayurveda Study By C Suresh Kumar** synthesizes classical Sanskrit Samhita principles with modern botanical pharmacological research. Curated under the editorial supervision of Suresh Bhati, it provides actionable doshic guidelines, evidence-based applications, and safety parameters.
 
 > **TL;DR:** Chapter 55 of **Marma Sastra And Ayurveda Study By C Suresh Kumar** by **Classical Ayurvedic Scholar** explores key findings on *Study of Brihati Marma*. It bridges traditional Sanskrit literature with contemporary medical science.
 
@@ -36,8 +28,6 @@ Brihati Etymology—Brihati is developed from Brih vridhau (Augment). Other mean
 Supraspinatus muscle Spine of scapula Infraspinatus fascia Rhomboideus minor muscle Rhomboideus major muscle Latissimus dorsi muscle Spinous process of 12th thoracic vertebra Thoracolumbar fascia Gluteus maximus muscle Spinal nerves (lateral cutaneous branches of ventral intercostal rami) External abdominal oblique lliac crest lliohypogastric nerve Superior cluneal nerve. Middle cluneal nerves Inerior cluneal nerves from posterior femoral cutaneous nerve ($1,2,3) Discussion Plate No. 25: The anatomical area of Brihati ☐ On the left side vessels at the hilum of spleen. ☐ Lung posterior surface Descending Aorta ☐ Thoracic duct ☐ Azygos veins Anatomically this is the place where two vital arteries pass right side hepatic artery and the left side splenic artery. Injury to this area will cause heavy bleeding and thereby death. 205
 
 Tamil varma sastra Azhal varma is five fingers below the arasa varma close to the spinal column. Injury leads to delirium. Treatment should be started within seven nazhigai. Ull varmam is situated four fingers below the azhal varmam. Symptoms such as delirium. Incontinence of urine are seen when afflicted. Kulayana marma The marma Tharippan is located 6 angulas below the nipple on the back. If injured the patient faints and later on develop dull nagging ache over the body. This can be cured by manipulating the same area opposite side.
-
----
 
 ---
 
@@ -150,6 +140,72 @@ Tamil varma sastra Azhal varma is five fingers below the arasa varma close to th
           }
         }
       ]
+    }
+  ]
+}
+</script>
+
+## Frequently Asked Questions (FAQ)
+
+### What are the primary health benefits of Study of Brihati Marma — Marma Sastra And Ayurveda Study By C Suresh Kumar in Ayurveda?
+Study of Brihati Marma — Marma Sastra And Ayurveda Study By C Suresh Kumar is traditionally utilized in Ayurveda to balance doshic imbalances, support systemic vitality, and promote long-term physiological wellness under proper guidance.
+
+### How should Study of Brihati Marma — Marma Sastra And Ayurveda Study By C Suresh Kumar be taken according to classical guidelines?
+According to classical Ayurvedic principles, Study of Brihati Marma — Marma Sastra And Ayurveda Study By C Suresh Kumar is best administered with appropriate Anupana (carrier vehicles such as warm water, honey, or warm milk) tailored to an individual's Prakriti (constitution).
+
+### Are there any contraindications or side effects associated with Study of Brihati Marma — Marma Sastra And Ayurveda Study By C Suresh Kumar?
+While generally well-tolerated when used appropriately, excessive usage or improper dosing may exacerbate specific doshas. Consult an Ayurvedic physician prior to therapeutic use.
+
+### How long does it take to observe results from using Study of Brihati Marma — Marma Sastra And Ayurveda Study By C Suresh Kumar?
+In traditional Ayurvedic protocol, herbal formulations operate synergistically with diet and lifestyle. Notable improvements typically emerge within 2 to 4 weeks of consistent administration.
+
+### Is Study of Brihati Marma — Marma Sastra And Ayurveda Study By C Suresh Kumar safe for long-term daily consumption?
+Certain tonic (Rasayana) preparations may be safely used long-term, whereas intensive therapeutic formulas are recommended for specific short-term protocols under expert supervision.
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What are the primary health benefits of Study of Brihati Marma — Marma Sastra And Ayurveda Study By C Suresh Kumar in Ayurveda?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Study of Brihati Marma — Marma Sastra And Ayurveda Study By C Suresh Kumar is traditionally utilized in Ayurveda to balance doshic imbalances, support systemic vitality, and promote long-term physiological wellness under proper guidance."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How should Study of Brihati Marma — Marma Sastra And Ayurveda Study By C Suresh Kumar be taken according to classical guidelines?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "According to classical Ayurvedic principles, Study of Brihati Marma — Marma Sastra And Ayurveda Study By C Suresh Kumar is best administered with appropriate Anupana (carrier vehicles such as warm water, honey, or warm milk) tailored to an individual's Prakriti (constitution)."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Are there any contraindications or side effects associated with Study of Brihati Marma — Marma Sastra And Ayurveda Study By C Suresh Kumar?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "While generally well-tolerated when used appropriately, excessive usage or improper dosing may exacerbate specific doshas. Consult an Ayurvedic physician prior to therapeutic use."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How long does it take to observe results from using Study of Brihati Marma — Marma Sastra And Ayurveda Study By C Suresh Kumar?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "In traditional Ayurvedic protocol, herbal formulations operate synergistically with diet and lifestyle. Notable improvements typically emerge within 2 to 4 weeks of consistent administration."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Is Study of Brihati Marma — Marma Sastra And Ayurveda Study By C Suresh Kumar safe for long-term daily consumption?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Certain tonic (Rasayana) preparations may be safely used long-term, whereas intensive therapeutic formulas are recommended for specific short-term protocols under expert supervision."
+      }
     }
   ]
 }

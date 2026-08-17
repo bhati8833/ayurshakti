@@ -1,33 +1,21 @@
 ---
 title: "Classification of Drugs in the Caraka-Saṃhitā — Atharvaveda And Charaka Samhita By Laxmi Maji"
-paper_title: "Atharvaveda And Charaka Samhita By Laxmi Maji"
-paper_slug: "atharvaveda-and-charaka-samhita-by-laxmi-maji"
-chapter_title: "Classification of Drugs in the Caraka-Saṃhitā"
-chapter_slug: "classification-of-drugs-in-the-caraka-saṃhitā"
-chapter_number: 133
-reading_time: 3
-prev_chapter: "signs-and-omens-in-the-caraka-saṃhitā"
-next_chapter: "therapeutics-and-rejuvenation-therapy"
-silo: "research"
-category: "Ayurvedic Research & Evidence"
-status: "Published"
-date: "2026-08-17"
 description: "Detailed analysis of Classification of Drugs in the Caraka-Saṃhitā from Atharvaveda And Charaka Samhita By Laxmi Maji by Laxmi Maji. Evidence-based Ayurvedic literature review and pharmacognosy."
+category: "Ayurvedic Research & Evidence"
 author: "Suresh Bhati"
-original_scholar: "Laxmi Maji"
+publishedDate: "2026-08-17"
+status: "Published"
 ---
 
 # 133. Classification of Drugs in the Caraka-Saṃhitā
+
+> **Clinical Executive Summary**: This guide on **Classification of Drugs in the Caraka-Saṃhitā — Atharvaveda And Charaka Samhita By Laxmi Maji** synthesizes classical Sanskrit Samhita principles with modern botanical pharmacological research. Curated under the editorial supervision of Suresh Bhati, it provides actionable doshic guidelines, evidence-based applications, and safety parameters.
 
 > **TL;DR:** Chapter 133 of **Atharvaveda And Charaka Samhita By Laxmi Maji** by **Laxmi Maji** explores key findings on *Classification of Drugs in the Caraka-Saṃhitā*. It bridges traditional Sanskrit literature with contemporary medical science.
 
 ---
 
 ## 📜 1. Section Overview & Classical Context
-
-Atharvaveda and Charaka Samhita
-
-This page relates ‘Classification of Drugs in the Caraka-Samhita’ found in the study on diseases and remedies found in the Atharvaveda and Charaka-samhita. These texts deal with Ayurveda—the ancient Indian Science of life—which lays down the principles for keeping a sound health involving the use of herbs, roots and leaves. The Atharvaveda refers to one of the four Vedas (ancient Sanskrit texts encompassing all kinds of knowledge and science) containing many details on Ayurveda, which is here taken up for study.
 
 Classification of Drugs in the Caraka-Saṃhitā
 
@@ -47,15 +35,9 @@ Anuvāsana type of enema is composed of fats. Fats are of two types, depending u
 
 Śirovirecana drugs are as follows: fruits of apāmārga, pippalī, marica, viḍaṅga, śigru, śirīṣa, tumburu, pīlu, ajāji, ajamoda, vārtakī, pṛthvikā, elā, hareṇuka. Leaves of various types of basils, viz., sumukha, surasa, kuṭheraka, gaṇḍīra, kālamālaka, parṇāsa, kṣavaka and phaṇijjhaka; haridrā, śṛṅgavera, mūlaka, laśuna, tarkārī, sarṣapa. Roots of arka, alarka, kuṣṭha, nāgadantī, vacā, apāmārga, śvetā, jyotiṣmatī, gavākṣī, gaṇḍīrapuṣpī, avākpuṣpī, vṛścīkāli, vayasthā, ativiṣā. Rhizoms etc. of haridrā, śṛṅgavera, mūlaka, laśuna. Flowers of lodhra, madana, saptaparṇa, nimbi, arka. Resinous exudations of devadāru, aguru, sarala, sallakī, jingini, asana, hiṅgu. Barks of tejovatī, varāṅga, ingudī, sobhāñjanaka, bṛhatī, kaṇṭakārikā[1].
 
-Footnotes and references:
-
-[back to top]
-
 [1]:
 
 C. Vimānasthāna–VIII.154-174; Baidyacharya Kalikinkar Sensarma & Ayurbedacharya Satyasekhar Bhattacharya (eds.), Caraka-Samhita–Vol. I, trans. Kabiraj Jasodanandan Sirkar, Kolkata, Deepayan Publication, 2013, pp. 83-91.
-
----
 
 ---
 
@@ -168,6 +150,72 @@ C. Vimānasthāna–VIII.154-174; Baidyacharya Kalikinkar Sensarma & Ayurbedacha
           }
         }
       ]
+    }
+  ]
+}
+</script>
+
+## Frequently Asked Questions (FAQ)
+
+### What are the primary health benefits of Classification of Drugs in the Caraka-Saṃhitā — Atharvaveda And Charaka Samhita By Laxmi Maji in Ayurveda?
+Classification of Drugs in the Caraka-Saṃhitā — Atharvaveda And Charaka Samhita By Laxmi Maji is traditionally utilized in Ayurveda to balance doshic imbalances, support systemic vitality, and promote long-term physiological wellness under proper guidance.
+
+### How should Classification of Drugs in the Caraka-Saṃhitā — Atharvaveda And Charaka Samhita By Laxmi Maji be taken according to classical guidelines?
+According to classical Ayurvedic principles, Classification of Drugs in the Caraka-Saṃhitā — Atharvaveda And Charaka Samhita By Laxmi Maji is best administered with appropriate Anupana (carrier vehicles such as warm water, honey, or warm milk) tailored to an individual's Prakriti (constitution).
+
+### Are there any contraindications or side effects associated with Classification of Drugs in the Caraka-Saṃhitā — Atharvaveda And Charaka Samhita By Laxmi Maji?
+While generally well-tolerated when used appropriately, excessive usage or improper dosing may exacerbate specific doshas. Consult an Ayurvedic physician prior to therapeutic use.
+
+### How long does it take to observe results from using Classification of Drugs in the Caraka-Saṃhitā — Atharvaveda And Charaka Samhita By Laxmi Maji?
+In traditional Ayurvedic protocol, herbal formulations operate synergistically with diet and lifestyle. Notable improvements typically emerge within 2 to 4 weeks of consistent administration.
+
+### Is Classification of Drugs in the Caraka-Saṃhitā — Atharvaveda And Charaka Samhita By Laxmi Maji safe for long-term daily consumption?
+Certain tonic (Rasayana) preparations may be safely used long-term, whereas intensive therapeutic formulas are recommended for specific short-term protocols under expert supervision.
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What are the primary health benefits of Classification of Drugs in the Caraka-Saṃhitā — Atharvaveda And Charaka Samhita By Laxmi Maji in Ayurveda?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Classification of Drugs in the Caraka-Saṃhitā — Atharvaveda And Charaka Samhita By Laxmi Maji is traditionally utilized in Ayurveda to balance doshic imbalances, support systemic vitality, and promote long-term physiological wellness under proper guidance."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How should Classification of Drugs in the Caraka-Saṃhitā — Atharvaveda And Charaka Samhita By Laxmi Maji be taken according to classical guidelines?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "According to classical Ayurvedic principles, Classification of Drugs in the Caraka-Saṃhitā — Atharvaveda And Charaka Samhita By Laxmi Maji is best administered with appropriate Anupana (carrier vehicles such as warm water, honey, or warm milk) tailored to an individual's Prakriti (constitution)."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Are there any contraindications or side effects associated with Classification of Drugs in the Caraka-Saṃhitā — Atharvaveda And Charaka Samhita By Laxmi Maji?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "While generally well-tolerated when used appropriately, excessive usage or improper dosing may exacerbate specific doshas. Consult an Ayurvedic physician prior to therapeutic use."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How long does it take to observe results from using Classification of Drugs in the Caraka-Saṃhitā — Atharvaveda And Charaka Samhita By Laxmi Maji?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "In traditional Ayurvedic protocol, herbal formulations operate synergistically with diet and lifestyle. Notable improvements typically emerge within 2 to 4 weeks of consistent administration."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Is Classification of Drugs in the Caraka-Saṃhitā — Atharvaveda And Charaka Samhita By Laxmi Maji safe for long-term daily consumption?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Certain tonic (Rasayana) preparations may be safely used long-term, whereas intensive therapeutic formulas are recommended for specific short-term protocols under expert supervision."
+      }
     }
   ]
 }

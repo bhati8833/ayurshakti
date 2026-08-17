@@ -20,15 +20,9 @@ This chapter from **Sushruta Samhita (Sutrasthana)** represents the classical su
 
 ---
 
-
 Sushruta Samhita, volume 1: Sutrasthana
 
-by Kaviraj Kunja Lal Bhishagratna | 1907 | 148,756 words
-
 This current book, the Sutra-sthana (english translation), is the first part of this voluminous medical work. It contains a large summary of the knowledge envelopig the medical aspects of Ayurveda. Descriptions of diseases, various diets and drugs, the duties of a surgeon, surgical procedures, medical training; these are only some of the numerous s...
-
-Go directly to: 
-Footnotes.
 
 Chapter XX - Suitable and unsuitables for health
 
@@ -113,10 +107,6 @@ The North wind:—
 The North wind is cold, crisp, mild, of a sweet taste terminating in an astringent one. It does not in any way enrage or agitate the deranged bodily humours. In healthy subjects it increases the strength and the running secretions from the different orfices of the body (such as the nostrils etc.). It proves extremely salutary to patients suffering from consumption, cachexia and the effects of poison.
 
 Thus ends the twentieth Chapter of the Sutrasthana in the Sushruta samhita which treats of salutary and nonsalutary effects of the regimen.
-
-Footnotes and references:
-
-[back to top]
 
 [1]:
 

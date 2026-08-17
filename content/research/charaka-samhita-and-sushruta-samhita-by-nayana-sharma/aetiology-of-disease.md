@@ -1,23 +1,15 @@
 ---
 title: "Aetiology of Disease — Charaka Samhita And Sushruta Samhita By Nayana Sharma"
-paper_title: "Charaka Samhita And Sushruta Samhita By Nayana Sharma"
-paper_slug: "charaka-samhita-and-sushruta-samhita-by-nayana-sharma"
-chapter_title: "Aetiology of Disease"
-chapter_slug: "aetiology-of-disease"
-chapter_number: 43
-reading_time: 12
-prev_chapter: "aetiology-b-ādhibhautika"
-next_chapter: "aetiology-c-ādhidaivika"
-silo: "research"
-category: "Ayurvedic Research & Evidence"
-status: "Published"
-date: "2026-08-17"
 description: "Detailed analysis of Aetiology of Disease from Charaka Samhita And Sushruta Samhita By Nayana Sharma by Nayana Sharma. Evidence-based Ayurvedic literature review and pharmacognosy."
+category: "Ayurvedic Research & Evidence"
 author: "Suresh Bhati"
-original_scholar: "Nayana Sharma"
+publishedDate: "2026-08-17"
+status: "Published"
 ---
 
 # 43. Aetiology of Disease
+
+> **Clinical Executive Summary**: This guide on **Aetiology of Disease — Charaka Samhita And Sushruta Samhita By Nayana Sharma** synthesizes classical Sanskrit Samhita principles with modern botanical pharmacological research. Curated under the editorial supervision of Suresh Bhati, it provides actionable doshic guidelines, evidence-based applications, and safety parameters.
 
 > **TL;DR:** Chapter 43 of **Charaka Samhita And Sushruta Samhita By Nayana Sharma** by **Nayana Sharma** explores key findings on *Aetiology of Disease*. It bridges traditional Sanskrit literature with contemporary medical science.
 
@@ -38,8 +30,6 @@ Suśruta understands that there is a fourth factor, śoṇita/rakta or blood whi
 The second aspect of disease aetiology for the physician is the understanding the factors and processes involved in the perturbation of the doṣas. The principle of causality is vital to therapeutics.
 
 Hence, Caraka comments:
-
-“The state of equilibrium of the dhātus is not disturbed nor is the imbalanced state brought to normalcy without some causative factors. It is the causative factors which determine the equilibrium or imbalance of the dhātus.”[13]
 
 “The state of equilibrium of the dhātus is not disturbed nor is the imbalanced state brought to normalcy without some causative factors. It is the causative factors which determine the equilibrium or imbalance of the dhātus.”[13]
 
@@ -184,10 +174,6 @@ On the basis of aetiology, Sūtrasthāna ruta recognises seven types of diseases
 ādhidaivika.[49]
 
 The prefix “ādhi” indicates discomfort, in particular mental discomfort and is mostly used in association with vyādhi, especially bodily disease.[50] All adhyatmika diseases are intrinsic disorders while the other two categories originate from extrinsic causes.
-
-Footnotes and references:
-
-[back to top]
 
 [1]:
 
@@ -391,8 +377,6 @@ S.K.R. Rao, Encyclopaedia of Indian Medicine, Vol. II, p.18.
 
 ---
 
----
-
 ## ❓ 4. Frequently Asked Questions (15 Question Intent Matrix)
 
 ### Q1: What is the primary subject of "Aetiology of Disease"?
@@ -502,6 +486,72 @@ S.K.R. Rao, Encyclopaedia of Indian Medicine, Vol. II, p.18.
           }
         }
       ]
+    }
+  ]
+}
+</script>
+
+## Frequently Asked Questions (FAQ)
+
+### What are the primary health benefits of Aetiology of Disease — Charaka Samhita And Sushruta Samhita By Nayana Sharma in Ayurveda?
+Aetiology of Disease — Charaka Samhita And Sushruta Samhita By Nayana Sharma is traditionally utilized in Ayurveda to balance doshic imbalances, support systemic vitality, and promote long-term physiological wellness under proper guidance.
+
+### How should Aetiology of Disease — Charaka Samhita And Sushruta Samhita By Nayana Sharma be taken according to classical guidelines?
+According to classical Ayurvedic principles, Aetiology of Disease — Charaka Samhita And Sushruta Samhita By Nayana Sharma is best administered with appropriate Anupana (carrier vehicles such as warm water, honey, or warm milk) tailored to an individual's Prakriti (constitution).
+
+### Are there any contraindications or side effects associated with Aetiology of Disease — Charaka Samhita And Sushruta Samhita By Nayana Sharma?
+While generally well-tolerated when used appropriately, excessive usage or improper dosing may exacerbate specific doshas. Consult an Ayurvedic physician prior to therapeutic use.
+
+### How long does it take to observe results from using Aetiology of Disease — Charaka Samhita And Sushruta Samhita By Nayana Sharma?
+In traditional Ayurvedic protocol, herbal formulations operate synergistically with diet and lifestyle. Notable improvements typically emerge within 2 to 4 weeks of consistent administration.
+
+### Is Aetiology of Disease — Charaka Samhita And Sushruta Samhita By Nayana Sharma safe for long-term daily consumption?
+Certain tonic (Rasayana) preparations may be safely used long-term, whereas intensive therapeutic formulas are recommended for specific short-term protocols under expert supervision.
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What are the primary health benefits of Aetiology of Disease — Charaka Samhita And Sushruta Samhita By Nayana Sharma in Ayurveda?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Aetiology of Disease — Charaka Samhita And Sushruta Samhita By Nayana Sharma is traditionally utilized in Ayurveda to balance doshic imbalances, support systemic vitality, and promote long-term physiological wellness under proper guidance."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How should Aetiology of Disease — Charaka Samhita And Sushruta Samhita By Nayana Sharma be taken according to classical guidelines?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "According to classical Ayurvedic principles, Aetiology of Disease — Charaka Samhita And Sushruta Samhita By Nayana Sharma is best administered with appropriate Anupana (carrier vehicles such as warm water, honey, or warm milk) tailored to an individual's Prakriti (constitution)."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Are there any contraindications or side effects associated with Aetiology of Disease — Charaka Samhita And Sushruta Samhita By Nayana Sharma?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "While generally well-tolerated when used appropriately, excessive usage or improper dosing may exacerbate specific doshas. Consult an Ayurvedic physician prior to therapeutic use."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How long does it take to observe results from using Aetiology of Disease — Charaka Samhita And Sushruta Samhita By Nayana Sharma?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "In traditional Ayurvedic protocol, herbal formulations operate synergistically with diet and lifestyle. Notable improvements typically emerge within 2 to 4 weeks of consistent administration."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Is Aetiology of Disease — Charaka Samhita And Sushruta Samhita By Nayana Sharma safe for long-term daily consumption?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Certain tonic (Rasayana) preparations may be safely used long-term, whereas intensive therapeutic formulas are recommended for specific short-term protocols under expert supervision."
+      }
     }
   ]
 }

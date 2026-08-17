@@ -20,15 +20,9 @@ This chapter from **Sushruta Samhita (Sutrasthana)** represents the classical su
 
 ---
 
-
 Sushruta Samhita, volume 1: Sutrasthana
 
-by Kaviraj Kunja Lal Bhishagratna | 1907 | 148,756 words
-
 This current book, the Sutra-sthana (english translation), is the first part of this voluminous medical work. It contains a large summary of the knowledge envelopig the medical aspects of Ayurveda. Descriptions of diseases, various diets and drugs, the duties of a surgeon, surgical procedures, medical training; these are only some of the numerous s...
-
-Go directly to: 
-Footnotes.
 
 Chapter XXXVIII - Groups of drugs
 
@@ -327,10 +321,6 @@ The groups of medicinal drugs and roots have thus been briefly described, which 
 An intelligent physician should prepare plasters, decoctions, medicated oils, Ghritas (medicated clarified butter) or potions, according to the exigencies of each individual case.[1] The groups enumerated above should be therapeutically used according to the nature of the deranged humours involved in each individual case. Only two, three or four drugs of the same medicinal group, or a similar number of drugs chosen from the the different groups, or a group of medicinal drugs in its entirety, or in combination with another, should be used according to the indications of any particular case, as the physician, in his discretion, would determine.
 
 Thus ends the thirty-eighth Chapter of the Sutrasthana in the Sushruta Samhita, which deals with the classification of drugs according to their therapeutical use.
-
-Footnotes and references:
-
-[back to top]
 
 [1]:
 

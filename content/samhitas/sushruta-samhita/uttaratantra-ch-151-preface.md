@@ -20,10 +20,7 @@ This chapter from **Sushruta Samhita (Uttaratantra)** represents the classical s
 
 ---
 
-
 Sushruta Samhita, Volume 6: Uttara-tantra
-
-by Kaviraj Kunja Lal Bhishagratna | 1916 | 113,078 words
 
 This current book, the Uttara-tantra (english translation) is the supplementary part of the Sushrutasamhita and deals various subjects such as diseases of the eye, treatment of fever, diarrhea, diseases resulting from superhuman influences, insanity, rules of health etc.
 
@@ -45,11 +42,7 @@ Surgeon General Sir Pardey Lukis, M. D., I. M. S., K. C. S. I., Director-General
 
 “Many of the so-called discoveries of recent years are merely re-discoveries of the facts known centuries ago to the ancients (Indians).”
 
-“Many of the so-called discoveries of recent years are merely re-discoveries of the facts known centuries ago to the ancients (Indians).”
-
 In noticing the first volume of this very work, the British Medical Journal observed in its issue of November, 1912:—
-
-“It is certain that in this ancient medical book there are traces of knowledge which is comparatively recent in the West.”
 
 “It is certain that in this ancient medical book there are traces of knowledge which is comparatively recent in the West.”
 

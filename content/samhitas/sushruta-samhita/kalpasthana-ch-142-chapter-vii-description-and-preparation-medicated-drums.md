@@ -20,17 +20,11 @@ This chapter from **Sushruta Samhita (Kalpasthana)** represents the classical su
 
 ---
 
-
 Sushruta Samhita, Volume 5: Kalpasthana
-
-by Kaviraj Kunja Lal Bhishagratna | 1911 | 24,963 words
 
 This current book, the Kalpa-sthana (english translation), deals with the nature of poisons, the management of poisons, toxicology and various other subjects.
 
 The Sushruta Samhita is the most representative work of the Hindu system of medicine. It embraces all that can possibly appertain to the science of medicine. Susruta-samhita is recognized as...
-
-Go directly to: 
-Footnotes.
 
 Chapter VII - Description and preparation medicated drums
 
@@ -69,10 +63,6 @@ Symptoms of elimination of poison:—
 The restoration of the deranged Doshas and of the vital principles (Dhatus of the body) to their normal state, a natural craving for food and drink, the normal colour and condition of the tongue and of the urine and the normal state and functions of the mind and of the sense-organs in a poisoned patient would indicate the full and complete elimination of the poison from his system. 9.
 
 Thus ends the Seventh Chapter of the Kalpa-Sthana in the Sushruta Samhita which treats of the sounds of medicated drums, etc.
-
-Footnotes and references:
-
-[back to top]
 
 [1]:
 

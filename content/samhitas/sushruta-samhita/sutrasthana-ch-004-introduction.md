@@ -20,15 +20,9 @@ This chapter from **Sushruta Samhita (Sutrasthana)** represents the classical su
 
 ---
 
-
 Sushruta Samhita, volume 1: Sutrasthana
 
-by Kaviraj Kunja Lal Bhishagratna | 1907 | 148,756 words
-
 This current book, the Sutra-sthana (english translation), is the first part of this voluminous medical work. It contains a large summary of the knowledge envelopig the medical aspects of Ayurveda. Descriptions of diseases, various diets and drugs, the duties of a surgeon, surgical procedures, medical training; these are only some of the numerous s...
-
-Go directly to: 
-Footnotes.
 
 Introduction
 
@@ -116,8 +110,6 @@ Doctor Hirschberg of Berlin says—
 
 “the whole plastic surgery in Europe took a new flight when these cunning devices of Indian workmen became known to us.”
 
-“the whole plastic surgery in Europe took a new flight when these cunning devices of Indian workmen became known to us.”
-
 The transplanting of sensible skin-flaps is also an entirely. Indian method (Sushruta, Sutrasthana, Ch. XVI). It is Sushruta who first successfully demonstrated the feasibility of mending a dipt earlobe with a patch of sensible skin-flap scraped from the neck or the adjoining part.
 
 To Sushruta is attributed the glory of discovering the art of cataract-crouching which was unknown to the surgeons of ancient Greece and Egypt. Limbs were amputated, abdominal sections were performed, fractures were set, dislocations, hernia and ruptures were reduced, hemorrhoids and fistula were removed, and we take pride in saying that the methods recommended in the Sushruta Samhita sometimes prove more successful than those adopted by the surgeons of modern Europe, as we shall have occasion to observe later on. In the case where the intestines are injured, Sushruta advises that “the protruded part should be gently replaced by following with the finger.” A surgeon should enlarge the wound in it, if necessary, by means of a knife.
@@ -127,8 +119,6 @@ In the case where the intestine is severed, the severed parts should be held tog
 Lithotomic Operations:—
 
 In these cases, elaborate instructions have been given for making the perineal incision, as well as about the care and general management of the patient after the operation. In a case of Shukrashmari (seminal or spermatic concretion) the formation and existence of which have been very recently discovered by English pathologists, Sushruta enjoins that the stone, if in the urethra, should be removed with the help of Anuvasana and urethral enematas, failing which the penis should be cut open and the concretion extracted with the help of a hook. Kaviraj Umesh Candra Gupta in the introduction to his Vaidyaka Shavda-Sindhu remarks, that he and Dr. Durgadasa Gupta M. B. translated the Chapters on lithotomic operations and instrumental parturition of the Sushruta Samhita for the perusal of Dr Charles, the then Principal of the Medical College, Calcutta.
-
-“Dr. Charles highly praised the process of delivery in difficult cases and even confessed that with all his great experience in midwifery and surgery he never had any idea of the like being found in all the medical works that came under his observation.”
 
 “Dr. Charles highly praised the process of delivery in difficult cases and even confessed that with all his great experience in midwifery and surgery he never had any idea of the like being found in all the medical works that came under his observation.”
 
@@ -192,11 +182,7 @@ Rightly translated, the verse would read as follows:—
 
 “May Vishnu (the presiding deity of ether and nerve force) expand thy uterus, may Tvashta (the presiding deity of heat and metabolism) bring about the full differentiation of the limbs and the sex of the fetus, may Prajapati (the presiding deity of the ovum) sprinkle thy uterus, and mayst thou conceive through the blessing of the lord of human destiny. May Sarasvati (goddess of intellect) and the Ashvins, the surgeons of the gods (the presiding deity of fission, etc.) help thee in taking the seed.”
 
-“May Vishnu (the presiding deity of ether and nerve force) expand thy uterus, may Tvashta (the presiding deity of heat and metabolism) bring about the full differentiation of the limbs and the sex of the fetus, may Prajapati (the presiding deity of the ovum) sprinkle thy uterus, and mayst thou conceive through the blessing of the lord of human destiny. May Sarasvati (goddess of intellect) and the Ashvins, the surgeons of the gods (the presiding deity of fission, etc.) help thee in taking the seed.”
-
 Now, the development of the fetal body takes place after the pattern of its father’s species, and this conformity to the pattern of its species represents an act of intellection. Hence, the aid of the goddess of intellect has been invoked with that of the celestial surgeons, who preside over the process of cell-division, so essential to the formation of the fetal limbs. Divested of its allegory, the verse would mean that the sperm led into a healthy and well-developed uterus through the agency of the Vayu (increased activity of the local nerves) meets the maternal element (ovum) in that viscus. Then the impregnated matter undergoes a process of fission, and takes shape after the pattern of its father’s species. When we think of so many idle speculations as regards the process of fertilisation, which obtained credence so late as the begiuning of the 18th century in Europe, and the controversies that arose between the Ovists, Performists and Animalculists[46], we cannot help regretting that the Ayurvedic Embryology, which started under such happy auspices, could not fully solve the problem of fertilisation even before the advent of the Tantrik age. The fundamental principles with which the Embryology of the Acaryayas (Sushruta, Dhanvantari, etc.) was started are substantially the same as have now been discovered by the researches of the Western workers. Sushruta in his dissertation on the subject showed the illegitimacy which lay at the root of his predecessor’s theory (Sharirasthana Chap. II.) and took up research exactly where the Vedic Rishis had left off. He clearly demonstrated the fact that
-
-“by a physiological process known as Rasapaka (metabolism) the lymph chyle is metamorphosed into sperm in men, or into ovum in women, in the course of a month. The catamenial fluid is carried down into the uterus through its proper ducts. The sperm or ovum is thus the quintessence of a man’s or a woman’s body. The sperm meets the ovum (Artava) in the uterus, which resembles a lotus-bud in shape, and whose aperture is shut up with a mucous deposit as soon as fecundation takes place. The most favourable time for fecundation is between the fourth and twelfth day after the appearance of the flow (Garbhakala)”
 
 “by a physiological process known as Rasapaka (metabolism) the lymph chyle is metamorphosed into sperm in men, or into ovum in women, in the course of a month. The catamenial fluid is carried down into the uterus through its proper ducts. The sperm or ovum is thus the quintessence of a man’s or a woman’s body. The sperm meets the ovum (Artava) in the uterus, which resembles a lotus-bud in shape, and whose aperture is shut up with a mucous deposit as soon as fecundation takes place. The most favourable time for fecundation is between the fourth and twelfth day after the appearance of the flow (Garbhakala)”
 
@@ -205,8 +191,6 @@ as has been lately demonstrated by Uhe researches of Prof. Von Ott.[47]
 Sexual Diamorphism:—
 
 Some light is thrown on the relative preponderance of the sperm and ovum in the Birth of a female child.
-
-“When the maternal element prepon-derates the child is female; when the paternal element is stronger the child is male. When both the elements are equal, the child is of no sex.”
 
 “When the maternal element prepon-derates the child is female; when the paternal element is stronger the child is male. When both the elements are equal, the child is of no sex.”
 
@@ -346,8 +330,6 @@ Diet:—
 
 “A good and proper diet in disease is worth a hundred medicines and no amount of medication can do good to a patient who does not observe a strict regimen of diet.”
 
-“A good and proper diet in disease is worth a hundred medicines and no amount of medication can do good to a patient who does not observe a strict regimen of diet.”
-
 Our Ayurveda, instead of being content with specifying the nature of diet in diseases in general, mentions the names of articles, which should, or should not be taken in any specific malady, judged by the light of their properties of aggravating Vayu, Pitta or Kapha. The dietic or therapeutic properties of a large number of articles of human consumption, as well as the chemical changes they undergo in the digestive apparatus of different mammals, have been studied and analysed, and so we find in our physique, medical Samhitas, such injunctions that barleycorns passed undigested with the feces of a cow or horse, should form the diet of a Prameha patient[102] that the milk of a she-camel should be given to a patient suffering from a cutaneous affection, and that the flesh of any carnivorous beast or bird should be given to one suffering from pulmonary consumption and so on. It was a cardinal doctrine with Ayurvedic dietists that the longing of a patient for any particular kind of food in a certain disease, emphatically shows that his organism is in want of those elements which enter into the composition of the article offered. Hence elaborate dietetics were formulated, which cannot but be acceptable to the most fastidious patient.
 
 Therapeutics:—
@@ -384,10 +366,6 @@ Sushruta as an Observer It has been lately discovered by a German physiologist t
 
 in its origin and in no way inferior to the modern introduction of Cogghill’s respirators. The microscopic germs that are said to propagate septic fever otherwise called bhūtabhi ṣaṅgottha (saṅgottha?) viṣasajvara are found very often to disappear under this Indian device where no medicines produce any impression. Thus many a wonderful discovery like the above hails from the dimness of a bygone age. Many truths lie embedded in the vast medical literature of the Brahmanas which claimed close attention and devout study, even by the western savants. We have not laboured in vain if these pages can help a little to revive the old genius of the Ayurveda, or help the progress of human Science one step onward towards the attainment of its goal.
 
-Footnotes and references:
-
-[back to top]
-
 [1]:
 
 śyāmāyano'tha gārgyaśca jābāliḥ suśrutastathā | 
@@ -413,9 +391,6 @@ bhīmarathaḥ ketumato divodāsastadātmajaḥ ||
 Dallana mentions the names of Jejjada, Gayadasa etc., as the redactors of the original Samhita, and rejects as spurious or of questionable authority the texts which cannot be found in their editions of the work. Most probably the authoritative verses are quotations from the Vriddha Sushruta.
 
 Recension or Pratisamskara consists in curtailing statements that have been made inordinately elaborate, and in dilating upon truths that have been very succinctly dealt with in the original book. A Redactor or Pratisamaskarta makes an old book new again.
-
-saṃkṣipatyativistīrṇaṃ leśoktaṃ vistṛṇāti ca | 
-saṃskarttā kurute tantraṃ purāṇañca punarnavaṃ ||
 
 saṃkṣipatyativistīrṇaṃ leśoktaṃ vistṛṇāti ca | 
 saṃskarttā kurute tantraṃ purāṇañca punarnavaṃ ||
@@ -615,13 +590,7 @@ mūryya cakṣurgaccatu vātamātmādyāṃ cagaccha pṛthivīṃ ca dharmmaṇ
 āponāgaccha yadi tatra te hitamoṣadhīṣu pratitiṣṭhāśarīraiḥ |
       Rik Samhita X M. 16 S. 3.
 
-mūryya cakṣurgaccatu vātamātmādyāṃ cagaccha pṛthivīṃ ca dharmmaṇā 
-āponāgaccha yadi tatra te hitamoṣadhīṣu pratitiṣṭhāśarīraiḥ |
-      Rik Samhita X M. 16 S. 3.
-
 Which being translated reads:—
-
-“Let his eye go to the sun, let his breath-wind mix with the wind of the atmosphere, and to the sky, earth and the cereals the parts which have sprung out of them, &c.”
 
 “Let his eye go to the sun, let his breath-wind mix with the wind of the atmosphere, and to the sky, earth and the cereals the parts which have sprung out of them, &c.”
 
@@ -725,11 +694,7 @@ The Evolution of Sex. Ch. XVIII. (Prof. P. Geddes and J. A. Thomson.)
 
 “thus appears to a certain extent as a subsidiary appendage of the true bearers of the life,—the reproductive cells”.
 
-“thus appears to a certain extent as a subsidiary appendage of the true bearers of the life,—the reproductive cells”.
-
 Ray Lankester has again well expressed this:—
-
-“Among the multicellular animals, certain cells are separated from the rest of the constituent units of the body, as egg-cells and sperm-cells; these conjugate and continue to live, whilst the remaining cells, the mere carriers as it were of the immortal reproductive cells, die and disintegrate. The bodies of the higher animals which die, may from this point of view be regarded as something temporary and non-essential, destined merely to carry for a time, to nurse, and to nourish the more important and deathless fission-products of the unicellular egg.”
 
 “Among the multicellular animals, certain cells are separated from the rest of the constituent units of the body, as egg-cells and sperm-cells; these conjugate and continue to live, whilst the remaining cells, the mere carriers as it were of the immortal reproductive cells, die and disintegrate. The bodies of the higher animals which die, may from this point of view be regarded as something temporary and non-essential, destined merely to carry for a time, to nurse, and to nourish the more important and deathless fission-products of the unicellular egg.”
 
@@ -1030,30 +995,13 @@ tairāvṛtagatirvāyuroja ādāya gaccati |
 yadāvastiṃ tadākṛccho madhumehaḥ pravarttate ||
       carakaḥ
 
-(76) gurusnigdhāmlalavaṇānyatimātraṃ samaśnatām | 
-navamannañca pānañca nidrāmāsyāsukhāni ca || 
-tyaktavyāyāmacintānāṃ saṃśodhanamakurvvatām | 
-śleṣmā pittañca medaśca māṃsañcāti pravarttate || 
-tairāvṛtagatirvāyuroja ādāya gaccati | 
-yadāvastiṃ tadākṛccho madhumehaḥ pravarttate ||
-      carakaḥ
-
 76. “Those who partake of heavy and cooling food abounding in acids and salts, of new rice, and beverages, or constantly enjoy sleep and luxuries, or neglect the exercise of body and mind, or who habitually abstain from the use of corrective medicines, help to accumulate in their bodies phlegm, bile, fat and flesh; and these interfere with the functions of the Vayu, which causes the Ojah to be displaced from its proper place down in the bladder and produces glycosuria,”
 
 (77) ghṛtaṃ yathā kṛtsnakṣīrasnehaḥ 
 tathaiva tejo'pi kṛtsnadhātusnehaḥ | 
       dallanamishraḥ
 
-(77) ghṛtaṃ yathā kṛtsnakṣīrasnehaḥ 
-tathaiva tejo'pi kṛtsnadhātusnehaḥ | 
-      dallanamishraḥ
-
 77. “As Ghee pervades the whole of milk, so Teja (ojah) permeates all the tissues of the body.”
-
-(78) tejo'pyāgneyaṃ kramaśaḥ pacyamānānānaṃ 
-dhātunāmabhinivṛttamantarasthaṃ snehajātaṃ vasākhyam 
-strīṇāṃ viśeṣato bhavati tena mārdavaṃ saukumāryyaṃ bhavati | 
-      Ibid.
 
 (78) tejo'pyāgneyaṃ kramaśaḥ pacyamānānānaṃ 
 dhātunāmabhinivṛttamantarasthaṃ snehajātaṃ vasākhyam 

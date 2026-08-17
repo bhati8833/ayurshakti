@@ -20,17 +20,11 @@ This chapter from **Sushruta Samhita (Nidanasthana)** represents the classical s
 
 ---
 
-
 Sushruta Samhita, volume 2: Nidanasthana
-
-by Kaviraj Kunja Lal Bhishagratna | 1911 | 37,609 words
 
 This current book, the Nidana-sthana (english translation), is the second part of this voluminous medical work. It deals with diseases: their prognosis, their cause, their symptoms and their pathogenesis (development of the disease).
 
 The Sushruta Samhita is the most representative work of the Hindu system of medicine. It embraces all that can poss...
-
-Go directly to: 
-Footnotes.
 
 Chapter VI - Diagnosis of diabetes
 
@@ -107,10 +101,6 @@ All types of Prameha, not properly treated and attended to at the outset, may ul
 For English equivalents of the different types of Prameha compare:—Cystitis (Acute Infective)—Frequent, painful micturition, small quantity of urine voided with pain and urgency. Urine—slightly acid or alkaline in reaction, cloudy, containing blood corpuscles. Cystitis (Chronic Infective) —Great and frequent pain, in the lumbar region, rigor. Urine—thick, offensive and alkaline, containing ropy mucous and blood. Cystitis (Non-Infective)—Symptoms like those of acute inflammatory type. Urine—acid and cloudy with mucous. Blood is generally present in considerable quantity. Neuralgia of the bladder, compare Albuminuria, Albumosuria, Hemoglobinuria, Hematuria, Peptonuria, Pyuria, Spermatorrhoea and Diabetes, Proteuria and Polyuria.
 
 Thus ends the sixth Chapter of the Nidana Sthana in the Sushruta Samhita, which treats of the Nidana of Prameha.
-
-Footnotes and references:
-
-[back to top]
 
 [1]:
 

@@ -18,7 +18,6 @@ Language and terminology form the backbone of traditional Indian medicine. Every
 
 ---
 
-
 ### Key Sanskrit Terms starting with 'R' (Sample Preview)
 The following is an excerpt of classical Sanskrit terms starting with letter **R**:
 
@@ -57,7 +56,6 @@ The following is an excerpt of classical Sanskrit terms starting with letter **R
 </ul>
 
 *Browse all 651 authenticated terms under Letter R in the searchable directory above.*
-
 
 ---
 

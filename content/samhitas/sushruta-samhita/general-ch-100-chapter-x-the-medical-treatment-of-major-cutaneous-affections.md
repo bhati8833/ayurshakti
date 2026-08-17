@@ -20,17 +20,11 @@ This chapter from **Sushruta Samhita (Chikitsasthana)** represents the classical
 
 ---
 
-
 Sushruta Samhita, volume 4: Cikitsasthana
-
-by Kaviraj Kunja Lal Bhishagratna | 1911 | 123,229 words
 
 This current book, the Chikitsa-sthana (english translation), deals with therapeutics, surgical emergencies, geriatrics, aphrodisiacs and various other subjects.
 
 The Sushruta Samhita is the most representative work of the Hindu system of medicine. It embraces all that can possibly appertain to the science of medicine. Susruta-samhita is recognized...
-
-Go directly to: 
-Footnotes.
 
 Chapter X - The medical treatment of major cutaneous affections
 
@@ -97,10 +91,6 @@ Memorable Verse:—
 An intelligent physician may prepare a thousand varieties of medicated remedies, such as Suras, Asavas, Arishtas, Lehas (lambatives), powders and Ayaskritis (metal-preparations) with the aforesaid drugs and in the manner described above. 19.
 
 Thus ends the tenth Chapter of Chikitsita Sthana in the Sushruta Samhita which deals with the medical treatment of Maha-Kushtha.
-
-Footnotes and references:
-
-[back to top]
 
 [1]:
 

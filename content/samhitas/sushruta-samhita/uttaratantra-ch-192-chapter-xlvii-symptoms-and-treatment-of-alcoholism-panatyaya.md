@@ -20,17 +20,11 @@ This chapter from **Sushruta Samhita (Uttaratantra)** represents the classical s
 
 ---
 
-
 Sushruta Samhita, Volume 6: Uttara-tantra
-
-by Kaviraj Kunja Lal Bhishagratna | 1916 | 113,078 words
 
 This current book, the Uttara-tantra (english translation) is the supplementary part of the Sushrutasamhita and deals various subjects such as diseases of the eye, treatment of fever, diarrhea, diseases resulting from superhuman influences, insanity, rules of health etc.
 
 The Sushruta Samhita is the most representative work of the Hindu system of m...
-
-Go directly to: 
-Footnotes.
 
 Chapter XLVII - Symptoms and Treatment of Alcoholism (Panatyaya)
 
@@ -139,10 +133,6 @@ A severe internal burning sensation in the body may also be produced by (the agg
 Wine mixed with half its quantity of water and scented with Jiraka, Sauvarchala, Ardraka and Shunthi becomes palatable and immediately allays thirst. Wine, taken with meal and with cooked meat by a person besmeared with sandal paste and wearing wet clothes and garlands of flowers, does not produce any of its bad after-effects nor brings on intoxication which in its turn would throw the mind and mental faculties off their balance. 47–48.
 
 Thus ends the forty-seventh chapter of the Uttara-Tantra in the Sushruta Samhita which deals with the (symptoms and) medical treatment of alcoholism.
-
-Footnotes and references:
-
-[back to top]
 
 [1]:
 

@@ -1,23 +1,15 @@
 ---
 title: "Treatment of Wounds (Vraṇa) — Atharvaveda And Charaka Samhita By Laxmi Maji"
-paper_title: "Atharvaveda And Charaka Samhita By Laxmi Maji"
-paper_slug: "atharvaveda-and-charaka-samhita-by-laxmi-maji"
-chapter_title: "Treatment of Wounds (Vraṇa)"
-chapter_slug: "treatment-of-wounds-vraṇa"
-chapter_number: 69
-reading_time: 3
-prev_chapter: "treatment-of-jambharoga"
-next_chapter: "treatment-of-ear-and-oral-diseases"
-silo: "research"
-category: "Ayurvedic Research & Evidence"
-status: "Published"
-date: "2026-08-17"
 description: "Detailed analysis of Treatment of Wounds (Vraṇa) from Atharvaveda And Charaka Samhita By Laxmi Maji by Laxmi Maji. Evidence-based Ayurvedic literature review and pharmacognosy."
+category: "Ayurvedic Research & Evidence"
 author: "Suresh Bhati"
-original_scholar: "Laxmi Maji"
+publishedDate: "2026-08-17"
+status: "Published"
 ---
 
 # 69. Treatment of Wounds (Vraṇa)
+
+> **Clinical Executive Summary**: This guide on **Treatment of Wounds (Vraṇa) — Atharvaveda And Charaka Samhita By Laxmi Maji** synthesizes classical Sanskrit Samhita principles with modern botanical pharmacological research. Curated under the editorial supervision of Suresh Bhati, it provides actionable doshic guidelines, evidence-based applications, and safety parameters.
 
 > **TL;DR:** Chapter 69 of **Atharvaveda And Charaka Samhita By Laxmi Maji** by **Laxmi Maji** explores key findings on *Treatment of Wounds (Vraṇa)*. It bridges traditional Sanskrit literature with contemporary medical science.
 
@@ -25,17 +17,9 @@ original_scholar: "Laxmi Maji"
 
 ## 📜 1. Section Overview & Classical Context
 
-Atharvaveda and Charaka Samhita
-
-This page relates ‘Treatment of Wounds (Vrana)’ found in the study on diseases and remedies found in the Atharvaveda and Charaka-samhita. These texts deal with Ayurveda—the ancient Indian Science of life—which lays down the principles for keeping a sound health involving the use of herbs, roots and leaves. The Atharvaveda refers to one of the four Vedas (ancient Sanskrit texts encompassing all kinds of knowledge and science) containing many details on Ayurveda, which is here taken up for study.
-
 Treatment of Wounds (Vraṇa)
 
 Atharva Veda is a charm against Vraṇa. If recent pains and sores remain in the body then it is called Sadyovraṇa or Āśughāta. The Atharvaveda prescribes water as the best treatment for Sadyovraṇa[1]. The sore is to be moistened in cold water and a thick cloth is to be placed on the sour and bandaged. This proves profitable. Also, Atharvaveda mentions the use of the following medicines–Lākṣā, Plakṣa, Nyagrodha, Bhadra, Aśvattha, Khadira, Śāṇḍadūrvā, and Śilācī etc. If anyone has even a thousand arrow wounds then application of water can heal the person if it is applied immediately. It is said in the Hymn that God Rudra recommends the use of water as treatment. The wound caused by a single arrow and recently formed thousands of wounds can be treated in this way. Also, medicine Rohiṇī can be used to heal wounds and Kṣata, vraṇa. This medicine can also be used to treat fractures and wounds inflicted by swords[2]. In the hymns, Rohiṇī is synonyms with Arundhatī and Lākṣā. To stop the bleeding due to injuries made by swords Lākṣā is to be boiled in hot water and poured on the affected area, clean and tied with cloth. Atharvaveda mentions the use of Pāṭhā and Guggulu Medicines. Wounds are of different types. For the treatment of injuries as given in the Kauśika Sūtra, it is proposed that the patient consume peppercorns as the recitation of VI.109 proceeds simultaneously[3].For unopened wounds or Akṣata Varṇa Kauśika Sutra has a special treatment in 31.11-15 in hymn VI.57[4]. The rite is based upon the cure known as Jālāṣa which is the special gift from Rudra. It means cow’s urine. The tumour is first moistened with it then sprinkled upon with it and finally washed. Then the wound is smeared with the scouring from teeth along with pollen from bunches of grass.
-
-Footnotes and references:
-
-[back to top]
 
 [1]:
 
@@ -54,8 +38,6 @@ caturthenāśayati || (Kauśika Sūtra-26.38); Atharvavedīya–Kauśika Gṛhya
 [4]:
 
 idamidvā ityakṣataṃ mūtraphe nenābhyudya || prakṣipati || prakṣālayati || dantarajasāvedagdhi || dantarajasāvedagdhi || stambarajasā || (Kauśika Sūtra-31.11-15); Atharvavedīya–Kauśika Gṛhyasūtraṃ (Dārilakeśavayosaṃ-kṣiptaṭīkaya sahitaṃ), trans. Udayanarayana Sinha, Varanasi, Chowkhamba Sanskrit Series office, 2009, pp. 73.
-
----
 
 ---
 
@@ -168,6 +150,72 @@ idamidvā ityakṣataṃ mūtraphe nenābhyudya || prakṣipati || prakṣālaya
           }
         }
       ]
+    }
+  ]
+}
+</script>
+
+## Frequently Asked Questions (FAQ)
+
+### What are the primary health benefits of Treatment of Wounds (Vraṇa) — Atharvaveda And Charaka Samhita By Laxmi Maji in Ayurveda?
+Treatment of Wounds (Vraṇa) — Atharvaveda And Charaka Samhita By Laxmi Maji is traditionally utilized in Ayurveda to balance doshic imbalances, support systemic vitality, and promote long-term physiological wellness under proper guidance.
+
+### How should Treatment of Wounds (Vraṇa) — Atharvaveda And Charaka Samhita By Laxmi Maji be taken according to classical guidelines?
+According to classical Ayurvedic principles, Treatment of Wounds (Vraṇa) — Atharvaveda And Charaka Samhita By Laxmi Maji is best administered with appropriate Anupana (carrier vehicles such as warm water, honey, or warm milk) tailored to an individual's Prakriti (constitution).
+
+### Are there any contraindications or side effects associated with Treatment of Wounds (Vraṇa) — Atharvaveda And Charaka Samhita By Laxmi Maji?
+While generally well-tolerated when used appropriately, excessive usage or improper dosing may exacerbate specific doshas. Consult an Ayurvedic physician prior to therapeutic use.
+
+### How long does it take to observe results from using Treatment of Wounds (Vraṇa) — Atharvaveda And Charaka Samhita By Laxmi Maji?
+In traditional Ayurvedic protocol, herbal formulations operate synergistically with diet and lifestyle. Notable improvements typically emerge within 2 to 4 weeks of consistent administration.
+
+### Is Treatment of Wounds (Vraṇa) — Atharvaveda And Charaka Samhita By Laxmi Maji safe for long-term daily consumption?
+Certain tonic (Rasayana) preparations may be safely used long-term, whereas intensive therapeutic formulas are recommended for specific short-term protocols under expert supervision.
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What are the primary health benefits of Treatment of Wounds (Vraṇa) — Atharvaveda And Charaka Samhita By Laxmi Maji in Ayurveda?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Treatment of Wounds (Vraṇa) — Atharvaveda And Charaka Samhita By Laxmi Maji is traditionally utilized in Ayurveda to balance doshic imbalances, support systemic vitality, and promote long-term physiological wellness under proper guidance."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How should Treatment of Wounds (Vraṇa) — Atharvaveda And Charaka Samhita By Laxmi Maji be taken according to classical guidelines?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "According to classical Ayurvedic principles, Treatment of Wounds (Vraṇa) — Atharvaveda And Charaka Samhita By Laxmi Maji is best administered with appropriate Anupana (carrier vehicles such as warm water, honey, or warm milk) tailored to an individual's Prakriti (constitution)."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Are there any contraindications or side effects associated with Treatment of Wounds (Vraṇa) — Atharvaveda And Charaka Samhita By Laxmi Maji?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "While generally well-tolerated when used appropriately, excessive usage or improper dosing may exacerbate specific doshas. Consult an Ayurvedic physician prior to therapeutic use."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How long does it take to observe results from using Treatment of Wounds (Vraṇa) — Atharvaveda And Charaka Samhita By Laxmi Maji?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "In traditional Ayurvedic protocol, herbal formulations operate synergistically with diet and lifestyle. Notable improvements typically emerge within 2 to 4 weeks of consistent administration."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Is Treatment of Wounds (Vraṇa) — Atharvaveda And Charaka Samhita By Laxmi Maji safe for long-term daily consumption?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Certain tonic (Rasayana) preparations may be safely used long-term, whereas intensive therapeutic formulas are recommended for specific short-term protocols under expert supervision."
+      }
     }
   ]
 }

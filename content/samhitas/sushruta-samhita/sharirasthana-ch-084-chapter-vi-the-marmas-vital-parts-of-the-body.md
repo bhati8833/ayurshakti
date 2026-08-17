@@ -20,17 +20,11 @@ This chapter from **Sushruta Samhita (Sharirasthana)** represents the classical 
 
 ---
 
-
 Sushruta Samhita, volume 3: Sharirasthana
-
-by Kaviraj Kunja Lal Bhishagratna | 1911 | 36,821 words
 
 This current book, the Sharira-sthana (english translation), deals with anatomy, the human body, cosmology, embryology and various other subjects.
 
 The Sushruta Samhita is the most representative work of the Hindu system of medicine. It embraces all that can possibly appertain to the science of medicine. Susruta-samhita is recognized as the first a...
-
-Go directly to: 
-Footnotes.
 
 Chapter VI - The Marmas (vital parts of the body)
 
@@ -137,10 +131,6 @@ An injury to the adjacent part of a Marma, whether incidental to a cut, incision
 The diseases which are seated in the Marmas, are generally serious, but they may be made to prove amenable with the greatest care and difficulty. 88–89.
 
 Thus ends the sixth Chapter of the Sharira Sthana in the Sushruta Samhita, which treats of Marmas.
-
-Footnotes and references:
-
-[back to top]
 
 [1]:
 

@@ -20,17 +20,11 @@ This chapter from **Sushruta Samhita (Chikitsasthana)** represents the classical
 
 ---
 
-
 Sushruta Samhita, volume 4: Cikitsasthana
-
-by Kaviraj Kunja Lal Bhishagratna | 1911 | 123,229 words
 
 This current book, the Chikitsa-sthana (english translation), deals with therapeutics, surgical emergencies, geriatrics, aphrodisiacs and various other subjects.
 
 The Sushruta Samhita is the most representative work of the Hindu system of medicine. It embraces all that can possibly appertain to the science of medicine. Susruta-samhita is recognized...
-
-Go directly to: 
-Footnotes.
 
 Chapter XIII - The medical treatment of Diabetes
 
@@ -64,8 +58,6 @@ He should be made to recite, at the time of his taking the fourth dose, a Mantra
 
 “Cleansest and purifiest, O Thou potent essence of seed- marrow, all the essential principles of (my) vital organism. The deity who knows no decay and suffers no change and who weilds a discus, a mace and a conch-shell in his arms, commands thee on that behalf.”
 
-“Cleansest and purifiest, O Thou potent essence of seed- marrow, all the essential principles of (my) vital organism. The deity who knows no decay and suffers no change and who weilds a discus, a mace and a conch-shell in his arms, commands thee on that behalf.”
-
 The Doshas in both the upper and the lower parts of a patient’s body are cleansed with the help of this oil (which should be given to the patient in the morning); while a cold gruel, unseasoned[5] with salt and not mixed with any emollient substance (oil or clarified butter) should be given to him in the afternoon. The use of this oil should be repeated in the same manner for five days in succession, and the patient should avoid anger, etc., and live on Mudga soup (Yusha) and boiled rice for a fortnight. A five days’ use of this oil would ensure the cure of every types of Kushtha (and Madhu- meha). 8-9.
 
 The foregoing (Tuvaraka) oil should be boiled and prepared with a decoction of Khadira weighing three times the quantity of the oil and taken internally with patience for a month for the same purpose. The patient should anoint his body with the same and then take his meals in the prescribed form. A Kushtha-patient (as well as a Meha-patient) suffering from hoarseness, redeyes and with worm-eaten and emaciated limbs should be speedily treated with this oil as an anointment and a drink. Regular potions of the above medicinal (Tuvaraka) oil taken with honey, clarified butter and a decoction of Khadira and a diet consisting of the soups of bird’s flesh (during its course) would enable the user to live for a period of two hundred years. A use of this oil as errhines (Nasya) for a period of fifty consecutive days would enable the user to witness three hundred years on earth, in the full enjoyment of bodily vigour and a youthful glow of complexion, as well as with a very powerful retentive memory.
@@ -75,10 +67,6 @@ A regular use (in an adequate dose) of the pith of Tuvaraka cleanses the system 
 The pith (inner pulp of the seeds' of the Tuvaraka burnt in a closed vessel (Antar-dhuma) should be mixed with Saindhava-salt, Anjana[6] and Tuvaraka oil. This prepared compound, used as a collyrium, is efficacious in cases of eye-diseases, such as night-blindness, Arman, Nili, Kacha-roga (dimness of sight) and Timira. 11.
 
 Thus ends the thirteenth Chapter of the Chikitsita Sthana in the Sushruta Samhita which deals with the treatment of Madhu-Meha.
-
-Footnotes and references:
-
-[back to top]
 
 [1]:
 

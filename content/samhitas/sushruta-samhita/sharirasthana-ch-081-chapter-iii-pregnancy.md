@@ -20,17 +20,11 @@ This chapter from **Sushruta Samhita (Sharirasthana)** represents the classical 
 
 ---
 
-
 Sushruta Samhita, volume 3: Sharirasthana
-
-by Kaviraj Kunja Lal Bhishagratna | 1911 | 36,821 words
 
 This current book, the Sharira-sthana (english translation), deals with anatomy, the human body, cosmology, embryology and various other subjects.
 
 The Sushruta Samhita is the most representative work of the Hindu system of medicine. It embraces all that can possibly appertain to the science of medicine. Susruta-samhita is recognized as the first a...
-
-Go directly to: 
-Footnotes.
 
 Chapter III - Pregnancy
 
@@ -109,10 +103,6 @@ Memorable verses:—
 Those women who are devout in their worship of the gods and the Brahmins and cherish a clean soul in a clean body during pregnancy are sure to be blest with good, virtuous and generous children; whereas a contrary conduct during the period is sure to be attended with contrary fruits. The development of the limbs and the members etc. of a fetus in the womb is natural and spontaneous, and the qualities and conditions which mark these organs are determined by the acts of the child which are anterior to its genesis and were done in its prior existence. 21–22.
 
 Thus ends the third Chapter of the Sharira Sthana in the Sushruta Samhita which treats of the generation and pregnancy.
-
-Footnotes and references:
-
-[back to top]
 
 [1]:
 

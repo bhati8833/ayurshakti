@@ -20,15 +20,9 @@ This chapter from **Sushruta Samhita (Sutrasthana)** represents the classical su
 
 ---
 
-
 Sushruta Samhita, volume 1: Sutrasthana
 
-by Kaviraj Kunja Lal Bhishagratna | 1907 | 148,756 words
-
 This current book, the Sutra-sthana (english translation), is the first part of this voluminous medical work. It contains a large summary of the knowledge envelopig the medical aspects of Ayurveda. Descriptions of diseases, various diets and drugs, the duties of a surgeon, surgical procedures, medical training; these are only some of the numerous s...
-
-Go directly to: 
-Footnotes.
 
 Chapter XLIII - Recipes of emetic drugs
 
@@ -55,10 +49,6 @@ Authoritative verses on the subject:—
 Thus a general outline of the leading characteristics of the emetic drugs in general has been given. An intelligent physician should choose an emetic remedy in consideration of the season of the year and the strength of the disease, and should try to set in the process of ejection in a patient either with the help of the expressed juice, paste or powder of the prescribed drug duly administered through the medium of an article of food or drink, or through an electuary.
 
 Thus ends the forty-third Chapter of the Sutrasthana in the Sushruta Samhita which deals with the choice and mode of administering emetics.
-
-Footnotes and references:
-
-[back to top]
 
 [1]:
 

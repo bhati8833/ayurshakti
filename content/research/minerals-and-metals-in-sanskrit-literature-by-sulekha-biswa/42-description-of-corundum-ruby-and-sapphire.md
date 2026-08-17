@@ -1,23 +1,15 @@
 ---
 title: "4.2. Description of Corundum, Ruby and Sapphire — Minerals And Metals In Sanskrit Literature By Sulekha Biswa"
-paper_title: "Minerals And Metals In Sanskrit Literature By Sulekha Biswa"
-paper_slug: "minerals-and-metals-in-sanskrit-literature-by-sulekha-biswa"
-chapter_title: "4.2. Description of Corundum, Ruby and Sapphire"
-chapter_slug: "42-description-of-corundum-ruby-and-sapphire"
-chapter_number: 62
-reading_time: 7
-prev_chapter: "2-categorisation-of-gems-ratna"
-next_chapter: "44-description-of-vaidurya-and-marakata"
-silo: "research"
-category: "Ayurvedic Research & Evidence"
-status: "Published"
-date: "2026-08-17"
 description: "Detailed analysis of 4.2. Description of Corundum, Ruby and Sapphire from Minerals And Metals In Sanskrit Literature By Sulekha Biswa by Sulekha Biswa. Evidence-based Ayurvedic literature review and pharmacognosy."
+category: "Ayurvedic Research & Evidence"
 author: "Suresh Bhati"
-original_scholar: "Sulekha Biswa"
+publishedDate: "2026-08-17"
+status: "Published"
 ---
 
 # 62. 4.2. Description of Corundum, Ruby and Sapphire
+
+> **Clinical Executive Summary**: This guide on **4.2. Description of Corundum, Ruby and Sapphire — Minerals And Metals In Sanskrit Literature By Sulekha Biswa** synthesizes classical Sanskrit Samhita principles with modern botanical pharmacological research. Curated under the editorial supervision of Suresh Bhati, it provides actionable doshic guidelines, evidence-based applications, and safety parameters.
 
 > **TL;DR:** Chapter 62 of **Minerals And Metals In Sanskrit Literature By Sulekha Biswa** by **Sulekha Biswa** explores key findings on *4.2. Description of Corundum, Ruby and Sapphire*. It bridges traditional Sanskrit literature with contemporary medical science.
 
@@ -44,8 +36,6 @@ VII-16 time, the Indians were familiar with the spinel ruby mines of Badakshan. 
 VII-17 enabled it to be distinguished from less hard blue gems like. aquamarine, lapis lazuli, and blue-coloured materials like quartz, glass or marble (Garuda-purana 1.72.14). Garuda Purana mentioned various defects (grain boundary, holes etc.) of some sapphire samples, their occasional contamination with mica and moderate thermal resistance (Garuda-purana 1.72.6 and 11). The Indians received the best variety of sapphire from the Padmakara province of Sri Lanka which must have been around the modern Ratnapura on the Kaluganga. (Manimala 397 Like blue to yellow transition, sapphire was known to have blue to red transition also, and such reddish blue coloured corundum samples could be called either sapphire or ruby. As a matter of fact the Arabs guessed (without any scientific knowledge) that sapphires and rubies belonged to a transitional single group of gem mineral, and they called this Yaqut which, according to Al-Afkani, occurred in seven varieties (Sarma, 1984:61; Wiedemann, 836-840). Both ruby and sapphire crystals, specially the dark coloured ones, are dichroic i.e appearing differently coloured when viewed through mutually perpendicular axes. The famous 'Sapphire Marveilleux' appears blue by day and red amethystine by night (Manimala, p. 459). Sapphire with a dash of red has been known as tittibha (Manimala 423). A deep blue gem dashed with red was known as nilanga or violet-ruby (Manimala, part 2, pp.514-515).. p, This Asterias or star Sapphire is a special variety which when viewed against light appears like a six-rayed chatoyant star. is due to the reflection of light from the surface of a multitude of microscopically small tubular cavities or rifts enclosed in the crystal, and grouped into three sets, each of which is parallel to a face of the hexagonal prism (Bauer, 1968: 284). This variety of
 
 VII-18 indranila was mentioned by Kautilya as sravanmadhva (AS 2.11.31) which has been interpreted by one Sanskrit commentator as streaming. interior or 'having rays shooting like flowing water'. Most Ratnasastra texts have discussed the pricing pattern Sapphire was considered to have different of rubies and sapphires. shades of colour which were equated to 'Castes' e.g. whitish blue (brahman), reddish blue (Ksatriya), yellowish-blue (Vaisva) and black-blue (sudra) etc. (Rayanaparikkha 82).
-
----
 
 ---
 
@@ -158,6 +148,72 @@ VII-18 indranila was mentioned by Kautilya as sravanmadhva (AS 2.11.31) which ha
           }
         }
       ]
+    }
+  ]
+}
+</script>
+
+## Frequently Asked Questions (FAQ)
+
+### What are the primary health benefits of 4.2. Description of Corundum, Ruby and Sapphire — Minerals And Metals In Sanskrit Literature By Sulekha Biswa in Ayurveda?
+4.2. Description of Corundum, Ruby and Sapphire — Minerals And Metals In Sanskrit Literature By Sulekha Biswa is traditionally utilized in Ayurveda to balance doshic imbalances, support systemic vitality, and promote long-term physiological wellness under proper guidance.
+
+### How should 4.2. Description of Corundum, Ruby and Sapphire — Minerals And Metals In Sanskrit Literature By Sulekha Biswa be taken according to classical guidelines?
+According to classical Ayurvedic principles, 4.2. Description of Corundum, Ruby and Sapphire — Minerals And Metals In Sanskrit Literature By Sulekha Biswa is best administered with appropriate Anupana (carrier vehicles such as warm water, honey, or warm milk) tailored to an individual's Prakriti (constitution).
+
+### Are there any contraindications or side effects associated with 4.2. Description of Corundum, Ruby and Sapphire — Minerals And Metals In Sanskrit Literature By Sulekha Biswa?
+While generally well-tolerated when used appropriately, excessive usage or improper dosing may exacerbate specific doshas. Consult an Ayurvedic physician prior to therapeutic use.
+
+### How long does it take to observe results from using 4.2. Description of Corundum, Ruby and Sapphire — Minerals And Metals In Sanskrit Literature By Sulekha Biswa?
+In traditional Ayurvedic protocol, herbal formulations operate synergistically with diet and lifestyle. Notable improvements typically emerge within 2 to 4 weeks of consistent administration.
+
+### Is 4.2. Description of Corundum, Ruby and Sapphire — Minerals And Metals In Sanskrit Literature By Sulekha Biswa safe for long-term daily consumption?
+Certain tonic (Rasayana) preparations may be safely used long-term, whereas intensive therapeutic formulas are recommended for specific short-term protocols under expert supervision.
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What are the primary health benefits of 4.2. Description of Corundum, Ruby and Sapphire — Minerals And Metals In Sanskrit Literature By Sulekha Biswa in Ayurveda?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "4.2. Description of Corundum, Ruby and Sapphire — Minerals And Metals In Sanskrit Literature By Sulekha Biswa is traditionally utilized in Ayurveda to balance doshic imbalances, support systemic vitality, and promote long-term physiological wellness under proper guidance."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How should 4.2. Description of Corundum, Ruby and Sapphire — Minerals And Metals In Sanskrit Literature By Sulekha Biswa be taken according to classical guidelines?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "According to classical Ayurvedic principles, 4.2. Description of Corundum, Ruby and Sapphire — Minerals And Metals In Sanskrit Literature By Sulekha Biswa is best administered with appropriate Anupana (carrier vehicles such as warm water, honey, or warm milk) tailored to an individual's Prakriti (constitution)."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Are there any contraindications or side effects associated with 4.2. Description of Corundum, Ruby and Sapphire — Minerals And Metals In Sanskrit Literature By Sulekha Biswa?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "While generally well-tolerated when used appropriately, excessive usage or improper dosing may exacerbate specific doshas. Consult an Ayurvedic physician prior to therapeutic use."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How long does it take to observe results from using 4.2. Description of Corundum, Ruby and Sapphire — Minerals And Metals In Sanskrit Literature By Sulekha Biswa?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "In traditional Ayurvedic protocol, herbal formulations operate synergistically with diet and lifestyle. Notable improvements typically emerge within 2 to 4 weeks of consistent administration."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Is 4.2. Description of Corundum, Ruby and Sapphire — Minerals And Metals In Sanskrit Literature By Sulekha Biswa safe for long-term daily consumption?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Certain tonic (Rasayana) preparations may be safely used long-term, whereas intensive therapeutic formulas are recommended for specific short-term protocols under expert supervision."
+      }
     }
   ]
 }

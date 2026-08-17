@@ -20,17 +20,11 @@ This chapter from **Sushruta Samhita (Kalpasthana)** represents the classical su
 
 ---
 
-
 Sushruta Samhita, Volume 5: Kalpasthana
-
-by Kaviraj Kunja Lal Bhishagratna | 1911 | 24,963 words
 
 This current book, the Kalpa-sthana (english translation), deals with the nature of poisons, the management of poisons, toxicology and various other subjects.
 
 The Sushruta Samhita is the most representative work of the Hindu system of medicine. It embraces all that can possibly appertain to the science of medicine. Susruta-samhita is recognized as...
-
-Go directly to: 
-Footnotes.
 
 Chapter IV - Description of the poison of a snakebite
 
@@ -147,10 +141,6 @@ Different Stages of poisoning in Cases Of birds:—
 A bird, bitten by a snake,looks stead-fast and becomes unconscious in the first stage of poisoning. The second stage is marked by an extreme agitated condition of the bird and the third stage ends in death. According to several authorities there is only a single stage of poisoning in the case of a bird. A snake-poison cannot penetrate far into the body of a cat, mungoose, etc. 32–33.
 
 Thus ends the fourth Chapter of the Kalpa Sthana in the Sushruta Samhita which treats of the specific features of the poison of a snakebite.
-
-Footnotes and references:
-
-[back to top]
 
 [1]:
 

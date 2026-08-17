@@ -20,17 +20,11 @@ This chapter from **Sushruta Samhita (Uttaratantra)** represents the classical s
 
 ---
 
-
 Sushruta Samhita, Volume 6: Uttara-tantra
-
-by Kaviraj Kunja Lal Bhishagratna | 1916 | 113,078 words
 
 This current book, the Uttara-tantra (english translation) is the supplementary part of the Sushrutasamhita and deals various subjects such as diseases of the eye, treatment of fever, diarrhea, diseases resulting from superhuman influences, insanity, rules of health etc.
 
 The Sushruta Samhita is the most representative work of the Hindu system of m...
-
-Go directly to: 
-Footnotes.
 
 Chapter II - Pathology of the diseases of the eye-joints
 
@@ -53,10 +47,6 @@ Symptoms of Parvani, etc.:—
 A small, round and copper-coloured swelling occurring at the joining of the Krishna-mandala and Shukla-mandala, due to the vitiated state of the local blood and attended with a burning sensation and aching pain, is called Parvani. A swelling possessed of the preceding features and occurring at the very same joining is called Alaji (Keratitis)[6]. A cyst or swelling (Granthi) characterised by an itching sensation appearing on the joining of the eye-lids and eye-lashes owing to the germination of parasites (Krimi) in those localities, is called Krimi-granthi. Parasites of different forms in such a case are found to infest the regions where the inner lining of the Vartma-mandala (eye-lid) is connected with the Shukla-mandala (Sclerotic coat) of the eye and to invade and vitiate the substance of the eye-ball. 4—5.
 
 Thus ends the second chapter of the Uttara-Tantra in the Sushruta Samhita which deals with the pathology of the diseases peculiar to the Sandhi (unions) of the eye.
-
-Footnotes and references:
-
-[back to top]
 
 [1]:
 

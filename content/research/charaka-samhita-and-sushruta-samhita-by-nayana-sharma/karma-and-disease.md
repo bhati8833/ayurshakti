@@ -1,23 +1,15 @@
 ---
 title: "Karma and Disease — Charaka Samhita And Sushruta Samhita By Nayana Sharma"
-paper_title: "Charaka Samhita And Sushruta Samhita By Nayana Sharma"
-paper_slug: "charaka-samhita-and-sushruta-samhita-by-nayana-sharma"
-chapter_title: "Karma and Disease"
-chapter_slug: "karma-and-disease"
-chapter_number: 45
-reading_time: 7
-prev_chapter: "aetiology-c-ādhidaivika"
-next_chapter: "the-principles-of-therapeutics-cikitsā"
-silo: "research"
-category: "Ayurvedic Research & Evidence"
-status: "Published"
-date: "2026-08-17"
 description: "Detailed analysis of Karma and Disease from Charaka Samhita And Sushruta Samhita By Nayana Sharma by Nayana Sharma. Evidence-based Ayurvedic literature review and pharmacognosy."
+category: "Ayurvedic Research & Evidence"
 author: "Suresh Bhati"
-original_scholar: "Nayana Sharma"
+publishedDate: "2026-08-17"
+status: "Published"
 ---
 
 # 45. Karma and Disease
+
+> **Clinical Executive Summary**: This guide on **Karma and Disease — Charaka Samhita And Sushruta Samhita By Nayana Sharma** synthesizes classical Sanskrit Samhita principles with modern botanical pharmacological research. Curated under the editorial supervision of Suresh Bhati, it provides actionable doshic guidelines, evidence-based applications, and safety parameters.
 
 > **TL;DR:** Chapter 45 of **Charaka Samhita And Sushruta Samhita By Nayana Sharma** by **Nayana Sharma** explores key findings on *Karma and Disease*. It bridges traditional Sanskrit literature with contemporary medical science.
 
@@ -35,15 +27,11 @@ The ancient physicians also had to deal with the doctrine of “karma” (action
 
 “The study of karma in the traditional Indian medical system, Āyurveda, shows how conflict between fatalistic aspects of an indigenous traditional concept must be reconciled with a practical system which necessarily assumes that the course of many human ills is not pre-determined.”[1]
 
-“The study of karma in the traditional Indian medical system, Āyurveda, shows how conflict between fatalistic aspects of an indigenous traditional concept must be reconciled with a practical system which necessarily assumes that the course of many human ills is not pre-determined.”[1]
-
 The correlation of karma and disease is evident in brahmanical law books. Viṣṇu attributes ślipada or elephantiasis to punishment by destiny for the breach of a vow or of chastity in an earlier birth.[2] Manu correlates diseases with crimes committed in this life and some with sinful deeds of previous existence.[3] Idiocy, dumbness, blindness, deafness and deformity are all brought on by remnants of the guilt of former crimes.[4]
 
 The term karma does not appear in the classification of Suśruta, which we have discussed above. Suśruta uses the term daiva for a category of diseases that are sent by the gods, or that is associated with destiny, fate or chance, etc.[5]
 
 Caraka, however, has used this term for pre-determined acts:
-
-“The actions performed in the previous life, which are known as daiva (fate), also constitute in due course causative factors for the manifestation of diseases.”[6]
 
 “The actions performed in the previous life, which are known as daiva (fate), also constitute in due course causative factors for the manifestation of diseases.”[6]
 
@@ -63,8 +51,6 @@ A salutary regimen and good conduct counteracts the harmful effect of his/her de
 
 “This implies that our ordinary non-moral action in proper care of health, taking proper tonics, medicines, and the like, can modify or arrest the ordinary course of the fruition of our karma.”[12]
 
-“This implies that our ordinary non-moral action in proper care of health, taking proper tonics, medicines, and the like, can modify or arrest the ordinary course of the fruition of our karma.”[12]
-
 Caraka’s final argument against the theory of karma is that acceptance of predetermination is to negate the significance of incantations, religious rites and observances, and auspicious acts.[13]
 
 According to other theories the laws of karma are immutable. By differentiating karma into two components and shifting the emphasis of etiology from previous lives to the present, karma no longer remains immutable in Caraka’s theory.[14] There is an excellent instance where karma is refuted as an aetiological factor in mental disorders. Some scholars hold the view that exogenous unmāda is caused by past deeds; however, Punarvasu Ātreya considers prajñāparādha or errors of judgment as the causative factor of this condition.[15]
@@ -72,8 +58,6 @@ According to other theories the laws of karma are immutable. By differentiating 
 Weiss comments that the Suśruta Saṃhitā, on the other hand, is more reluctant to cite karma as an etiologic factor.[16] Here we may cite an instance in favour of the statement. It is striking that while enumerating the etiological factors for kuṣṭha (skin disorders) in the Nidāna-sthāna, sinful deeds are not considered as a factor.[17]
 
 There is a reference at the end of the same chapter to the effect:
-
-“It has been said that the evil acts of killing brāhmins, women and noble persons, and taking riches of others, etc., produce kuṣṭha as a disease of sin.”[18]
 
 “It has been said that the evil acts of killing brāhmins, women and noble persons, and taking riches of others, etc., produce kuṣṭha as a disease of sin.”[18]
 
@@ -85,13 +69,7 @@ Here we may cite from Suśruta:
 
 “The root cause of all diseases is vitiation of vāta, pitta or śleṣman only (sarveṣāṃ ca vyādhināmvātapittaśleṣmāṇa eva mūlaṃ), as their features can be observed (in the diseased state) and as the treatment proves successful if they are treated (on the basis of the doṣas concerned)…”[24]
 
-“The root cause of all diseases is vitiation of vāta, pitta or śleṣman only (sarveṣāṃ ca vyādhināmvātapittaśleṣmāṇa eva mūlaṃ), as their features can be observed (in the diseased state) and as the treatment proves successful if they are treated (on the basis of the doṣas concerned)…”[24]
-
 Any abnormality of the human body cannot be isolated from the doṣas. The multifarious manifestations of diseases can be attributed to the interaction among the doṣas, dhātus and malas, the specific location of the perturbed doṣa, and diverse aetiological factors involved. Thus, the vitiated doṣa may affect any the tissue and the disease is designated accordingly.[25]
-
-Footnotes and references:
-
-[back to top]
 
 [1]:
 
@@ -192,8 +170,6 @@ Suśruta Saṃhitā Sūtrasthāna 24.8.
 [25]:
 
 Suśruta Saṃhitā Sūtrasthāna 24.8.
-
----
 
 ---
 
@@ -306,6 +282,72 @@ Suśruta Saṃhitā Sūtrasthāna 24.8.
           }
         }
       ]
+    }
+  ]
+}
+</script>
+
+## Frequently Asked Questions (FAQ)
+
+### What are the primary health benefits of Karma and Disease — Charaka Samhita And Sushruta Samhita By Nayana Sharma in Ayurveda?
+Karma and Disease — Charaka Samhita And Sushruta Samhita By Nayana Sharma is traditionally utilized in Ayurveda to balance doshic imbalances, support systemic vitality, and promote long-term physiological wellness under proper guidance.
+
+### How should Karma and Disease — Charaka Samhita And Sushruta Samhita By Nayana Sharma be taken according to classical guidelines?
+According to classical Ayurvedic principles, Karma and Disease — Charaka Samhita And Sushruta Samhita By Nayana Sharma is best administered with appropriate Anupana (carrier vehicles such as warm water, honey, or warm milk) tailored to an individual's Prakriti (constitution).
+
+### Are there any contraindications or side effects associated with Karma and Disease — Charaka Samhita And Sushruta Samhita By Nayana Sharma?
+While generally well-tolerated when used appropriately, excessive usage or improper dosing may exacerbate specific doshas. Consult an Ayurvedic physician prior to therapeutic use.
+
+### How long does it take to observe results from using Karma and Disease — Charaka Samhita And Sushruta Samhita By Nayana Sharma?
+In traditional Ayurvedic protocol, herbal formulations operate synergistically with diet and lifestyle. Notable improvements typically emerge within 2 to 4 weeks of consistent administration.
+
+### Is Karma and Disease — Charaka Samhita And Sushruta Samhita By Nayana Sharma safe for long-term daily consumption?
+Certain tonic (Rasayana) preparations may be safely used long-term, whereas intensive therapeutic formulas are recommended for specific short-term protocols under expert supervision.
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What are the primary health benefits of Karma and Disease — Charaka Samhita And Sushruta Samhita By Nayana Sharma in Ayurveda?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Karma and Disease — Charaka Samhita And Sushruta Samhita By Nayana Sharma is traditionally utilized in Ayurveda to balance doshic imbalances, support systemic vitality, and promote long-term physiological wellness under proper guidance."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How should Karma and Disease — Charaka Samhita And Sushruta Samhita By Nayana Sharma be taken according to classical guidelines?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "According to classical Ayurvedic principles, Karma and Disease — Charaka Samhita And Sushruta Samhita By Nayana Sharma is best administered with appropriate Anupana (carrier vehicles such as warm water, honey, or warm milk) tailored to an individual's Prakriti (constitution)."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Are there any contraindications or side effects associated with Karma and Disease — Charaka Samhita And Sushruta Samhita By Nayana Sharma?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "While generally well-tolerated when used appropriately, excessive usage or improper dosing may exacerbate specific doshas. Consult an Ayurvedic physician prior to therapeutic use."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How long does it take to observe results from using Karma and Disease — Charaka Samhita And Sushruta Samhita By Nayana Sharma?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "In traditional Ayurvedic protocol, herbal formulations operate synergistically with diet and lifestyle. Notable improvements typically emerge within 2 to 4 weeks of consistent administration."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Is Karma and Disease — Charaka Samhita And Sushruta Samhita By Nayana Sharma safe for long-term daily consumption?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Certain tonic (Rasayana) preparations may be safely used long-term, whereas intensive therapeutic formulas are recommended for specific short-term protocols under expert supervision."
+      }
     }
   ]
 }

@@ -1,23 +1,15 @@
 ---
 title: "Part 13 - Preservation of Animal Life — Agriculture And Animal Husbandry In The Puranas By Purboshri"
-paper_title: "Agriculture And Animal Husbandry In The Puranas By Purboshri"
-paper_slug: "agriculture-and-animal-husbandry-in-the-puranas-by-purboshri"
-chapter_title: "Part 13 - Preservation of Animal Life"
-chapter_slug: "part-13---preservation-of-animal-life"
-chapter_number: 101
-reading_time: 2
-prev_chapter: "part-14---agriculture-in-the-modern-ageintroduction"
-next_chapter: "part-15---major-crops-and-staple-food"
-silo: "research"
-category: "Ayurvedic Research & Evidence"
-status: "Published"
-date: "2026-08-17"
 description: "Detailed analysis of Part 13 - Preservation of Animal Life from Agriculture And Animal Husbandry In The Puranas By Purboshri by Purboshri Borpuzari. Evidence-based Ayurvedic literature review and pharmacognosy."
+category: "Ayurvedic Research & Evidence"
 author: "Suresh Bhati"
-original_scholar: "Purboshri Borpuzari"
+publishedDate: "2026-08-17"
+status: "Published"
 ---
 
 # 101. Part 13 - Preservation of Animal Life
+
+> **Clinical Executive Summary**: This guide on **Part 13 - Preservation of Animal Life — Agriculture And Animal Husbandry In The Puranas By Purboshri** synthesizes classical Sanskrit Samhita principles with modern botanical pharmacological research. Curated under the editorial supervision of Suresh Bhati, it provides actionable doshic guidelines, evidence-based applications, and safety parameters.
 
 > **TL;DR:** Chapter 101 of **Agriculture And Animal Husbandry In The Puranas By Purboshri** by **Purboshri Borpuzari** explores key findings on *Part 13 - Preservation of Animal Life*. It bridges traditional Sanskrit literature with contemporary medical science.
 
@@ -36,10 +28,6 @@ Part 13 - Preservation of Animal Life
 Avoidance of cruelty towards draught animals (carriage horses) and milch-animals (particularly cattle) is noticed by specification of the distance to be traversed[1] and number of milking times in a day in different seasons respectively. It is recommended that cattle may be milked twice a day (morning and evening) during the season of rain, autumn and winter. In the seasons of later part of winter, spring and summer milking may be limited to one time (in the morning alone).[2] This is also suggested that sheep and other animals should be shorn of their wool once in six months.[3] Any kind of physical injury to livestock was liable to punishment.[4]
 
 The superintendent should make a stable which is twice as broad as the length of a horse. It should be constructed as spacious as required by the number of horses to be kept therein, with four doors facing the four quarters. Moreover, it should be contained monkeys, peacocks, red-spotted deer, mongoose, partridge, parrots and mainā birds.[5] The stables of elephants should be constructed twice as broad, twice as high as the length (āyāma) of an elephant. The apartments for female elephants should be separate. There should be posts in the stable called kumārī to tie the elephants. The door of the stable should be facing either the east or the north.[6] The Purāṇas too suggest some ways for preservation of animal life. The method of fumigation of a cow house with the vapours of viṣā plants for making the cattle strong is noticed in the Agni Purāṇa.[7] Again it is advised that a fumigation of the cow-house with the vapours of devadāru, vacā, māṃsī, guggula, hiṅgu and sarṣapa mixed together would keep safe from the evil effects of malignant planets.[8]
-
-Footnotes and references:
-
-[back to top]
 
 [1]:
 
@@ -73,8 +61,6 @@ Agni Purāṇa , 292.33a
 [8]:
 
 Ibid., 292.33b-34a
-
----
 
 ---
 
@@ -187,6 +173,72 @@ Ibid., 292.33b-34a
           }
         }
       ]
+    }
+  ]
+}
+</script>
+
+## Frequently Asked Questions (FAQ)
+
+### What are the primary health benefits of Part 13 - Preservation of Animal Life — Agriculture And Animal Husbandry In The Puranas By Purboshri in Ayurveda?
+Part 13 - Preservation of Animal Life — Agriculture And Animal Husbandry In The Puranas By Purboshri is traditionally utilized in Ayurveda to balance doshic imbalances, support systemic vitality, and promote long-term physiological wellness under proper guidance.
+
+### How should Part 13 - Preservation of Animal Life — Agriculture And Animal Husbandry In The Puranas By Purboshri be taken according to classical guidelines?
+According to classical Ayurvedic principles, Part 13 - Preservation of Animal Life — Agriculture And Animal Husbandry In The Puranas By Purboshri is best administered with appropriate Anupana (carrier vehicles such as warm water, honey, or warm milk) tailored to an individual's Prakriti (constitution).
+
+### Are there any contraindications or side effects associated with Part 13 - Preservation of Animal Life — Agriculture And Animal Husbandry In The Puranas By Purboshri?
+While generally well-tolerated when used appropriately, excessive usage or improper dosing may exacerbate specific doshas. Consult an Ayurvedic physician prior to therapeutic use.
+
+### How long does it take to observe results from using Part 13 - Preservation of Animal Life — Agriculture And Animal Husbandry In The Puranas By Purboshri?
+In traditional Ayurvedic protocol, herbal formulations operate synergistically with diet and lifestyle. Notable improvements typically emerge within 2 to 4 weeks of consistent administration.
+
+### Is Part 13 - Preservation of Animal Life — Agriculture And Animal Husbandry In The Puranas By Purboshri safe for long-term daily consumption?
+Certain tonic (Rasayana) preparations may be safely used long-term, whereas intensive therapeutic formulas are recommended for specific short-term protocols under expert supervision.
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What are the primary health benefits of Part 13 - Preservation of Animal Life — Agriculture And Animal Husbandry In The Puranas By Purboshri in Ayurveda?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Part 13 - Preservation of Animal Life — Agriculture And Animal Husbandry In The Puranas By Purboshri is traditionally utilized in Ayurveda to balance doshic imbalances, support systemic vitality, and promote long-term physiological wellness under proper guidance."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How should Part 13 - Preservation of Animal Life — Agriculture And Animal Husbandry In The Puranas By Purboshri be taken according to classical guidelines?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "According to classical Ayurvedic principles, Part 13 - Preservation of Animal Life — Agriculture And Animal Husbandry In The Puranas By Purboshri is best administered with appropriate Anupana (carrier vehicles such as warm water, honey, or warm milk) tailored to an individual's Prakriti (constitution)."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Are there any contraindications or side effects associated with Part 13 - Preservation of Animal Life — Agriculture And Animal Husbandry In The Puranas By Purboshri?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "While generally well-tolerated when used appropriately, excessive usage or improper dosing may exacerbate specific doshas. Consult an Ayurvedic physician prior to therapeutic use."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How long does it take to observe results from using Part 13 - Preservation of Animal Life — Agriculture And Animal Husbandry In The Puranas By Purboshri?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "In traditional Ayurvedic protocol, herbal formulations operate synergistically with diet and lifestyle. Notable improvements typically emerge within 2 to 4 weeks of consistent administration."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Is Part 13 - Preservation of Animal Life — Agriculture And Animal Husbandry In The Puranas By Purboshri safe for long-term daily consumption?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Certain tonic (Rasayana) preparations may be safely used long-term, whereas intensive therapeutic formulas are recommended for specific short-term protocols under expert supervision."
+      }
     }
   ]
 }

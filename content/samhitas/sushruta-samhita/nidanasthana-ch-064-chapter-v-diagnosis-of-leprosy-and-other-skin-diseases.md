@@ -20,17 +20,11 @@ This chapter from **Sushruta Samhita (Nidanasthana)** represents the classical s
 
 ---
 
-
 Sushruta Samhita, volume 2: Nidanasthana
-
-by Kaviraj Kunja Lal Bhishagratna | 1911 | 37,609 words
 
 This current book, the Nidana-sthana (english translation), is the second part of this voluminous medical work. It deals with diseases: their prognosis, their cause, their symptoms and their pathogenesis (development of the disease).
 
 The Sushruta Samhita is the most representative work of the Hindu system of medicine. It embraces all that can poss...
-
-Go directly to: 
-Footnotes.
 
 Chapter V - Diagnosis of leprosy and other skin diseases
 
@@ -127,10 +121,6 @@ A Kushthi (leper), getting rid of this foul malady by observing the proper regim
 Kushtha (Leprosy) is a highly contagious disease; the contagion being usually communicated through sexual intercourse with a leper (Kushthi), or by his touch or breath, or through partaking of the same bed, and eating and drinking out of the same vessel with him, or through using the wearing apparel, unguents and garlands of flowers previously used by a person afflicted with this dreadful disease. Kushtha (Leprosy), fever, pulmonary consumption, ophthalmia and other Aupasargika disease (incidental to the influences of malignant planets or due to the effects of impious deeds) are communicated from one person to another. 26.
 
 Thus ends the fifth Chapter of the Nidanasthana in the Sushruta Samhita which treats of the Nidana of cutaneous affections (Kushtha).
-
-Footnotes and references:
-
-[back to top]
 
 [1]:
 

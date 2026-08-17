@@ -20,17 +20,11 @@ This chapter from **Sushruta Samhita (Uttaratantra)** represents the classical s
 
 ---
 
-
 Sushruta Samhita, Volume 6: Uttara-tantra
-
-by Kaviraj Kunja Lal Bhishagratna | 1916 | 113,078 words
 
 This current book, the Uttara-tantra (english translation) is the supplementary part of the Sushrutasamhita and deals various subjects such as diseases of the eye, treatment of fever, diarrhea, diseases resulting from superhuman influences, insanity, rules of health etc.
 
 The Sushruta Samhita is the most representative work of the Hindu system of m...
-
-Go directly to: 
-Footnotes.
 
 Chapter XIV - Treatment of eye-diseases which require Incision
 
@@ -55,10 +49,6 @@ In a case of Krimi-granthi, the affected part should be duly fomented after it h
 In the foregoing five cases of incisable eye-disease, until the setting in of suppuration therein, the affected eye should first be treated with Sneha and then with light fomentation with (the help of) tender leaves (as a cover over the eye). In all the remedies to be adopted in the treatment of these (incisable eye) diseases, the application of a Sneha should be first adopted. In cases, however, where suppuration had already set in, the remedies for the healing up of the ulcer, should be carefully adopted. 6.
 
 Thus ends the fourteenth chapter of the Uttara-Tantra of the Sushruta Samhita which deals with the curative treatment of (eye-) diseases requiring incisions.
-
-Footnotes and references:
-
-[back to top]
 
 [1]:
 

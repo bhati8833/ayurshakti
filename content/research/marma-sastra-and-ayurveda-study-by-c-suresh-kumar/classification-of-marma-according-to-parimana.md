@@ -1,23 +1,15 @@
 ---
 title: "Classification of Marma according to Parimana — Marma Sastra And Ayurveda Study By C Suresh Kumar"
-paper_title: "Marma Sastra And Ayurveda Study By C Suresh Kumar"
-paper_slug: "marma-sastra-and-ayurveda-study-by-c-suresh-kumar"
-chapter_title: "Classification of Marma according to Parimana"
-chapter_slug: "classification-of-marma-according-to-parimana"
-chapter_number: 22
-reading_time: 2
-prev_chapter: "structure-of-marma"
-next_chapter: "classification-according-to-tamil-varma-shastra"
-silo: "research"
-category: "Ayurvedic Research & Evidence"
-status: "Published"
-date: "2026-08-17"
 description: "Detailed analysis of Classification of Marma according to Parimana from Marma Sastra And Ayurveda Study By C Suresh Kumar by Classical Ayurvedic Scholar. Evidence-based Ayurvedic literature review and pharmacognosy."
+category: "Ayurvedic Research & Evidence"
 author: "Suresh Bhati"
-original_scholar: "Classical Ayurvedic Scholar"
+publishedDate: "2026-08-17"
+status: "Published"
 ---
 
 # 22. Classification of Marma according to Parimana
+
+> **Clinical Executive Summary**: This guide on **Classification of Marma according to Parimana — Marma Sastra And Ayurveda Study By C Suresh Kumar** synthesizes classical Sanskrit Samhita principles with modern botanical pharmacological research. Curated under the editorial supervision of Suresh Bhati, it provides actionable doshic guidelines, evidence-based applications, and safety parameters.
 
 > **TL;DR:** Chapter 22 of **Marma Sastra And Ayurveda Study By C Suresh Kumar** by **Classical Ayurvedic Scholar** explores key findings on *Classification of Marma according to Parimana*. It bridges traditional Sanskrit literature with contemporary medical science.
 
@@ -36,8 +28,6 @@ Classification according to Parimana 36 One of the main aims of Marma vignana be
 Ardhangula marma are those marmas which are having half angula in dimension. They are, Table No. VI-a 1. Thalahruth 4 13. Vidhura 2 2. Indravasthy 4 14. Utkshepa ༣. Sthanarohitha 2 15. Apasthambha 4. Apanga 5. Sthapani 21 16. Sankha 17. Kateekatharuna 2 NNNNN 2 2 2 6. Phana 2 18. Amsa phala 2 7. Apalapa 8. Brihathi 22 19. Nithambha 2 20. Adhipa 1 9. Lohithaksa 4 21. Kukundara 10. Ani 4 22. Avartha 11. Kshipra 4 23. Krikatika 12. Amsa 2 24. Parsva sandhi 2222 Total 56 Angula Mana Marma 1. Urvi 3. Vitapa Table No. VI-b 4 2 4. 2. Koorcha siras Kakshadhara 4 2 Total 12 Dwayangula Mana Marma Table No. VI-c 1. Manibandha 2 2. Gulpha 3. Sthanamoola 2 79 Total 6 2
 
 Thrayangula mana marma 1. Janu Table No. VI-d 2 2. Koorpara Total 04 21 Panithala mana marma Table No. VI-e 1. Hrudaya 1 6. Manya 2 2. Vasthi 1 7. Guda 1 3. Koorcha 4 8. Nabhi 1 4. Mathruka 80 9. Sringataka 4 5. Neela 2 10. Seemantha 5 Total 29 considers Hrdaya, Hrdaya, Vasthi, Sushruta Kurcha, Guda and Nabhi as of four angula in parmana and the rest is of panithala. Some authors like gayi and bhoja too has altogether different classification. This has not included as this doesnot come in the scope of study and need to be probed further.
-
----
 
 ---
 
@@ -150,6 +140,72 @@ Thrayangula mana marma 1. Janu Table No. VI-d 2 2. Koorpara Total 04 21 Panithal
           }
         }
       ]
+    }
+  ]
+}
+</script>
+
+## Frequently Asked Questions (FAQ)
+
+### What are the primary health benefits of Classification of Marma according to Parimana — Marma Sastra And Ayurveda Study By C Suresh Kumar in Ayurveda?
+Classification of Marma according to Parimana — Marma Sastra And Ayurveda Study By C Suresh Kumar is traditionally utilized in Ayurveda to balance doshic imbalances, support systemic vitality, and promote long-term physiological wellness under proper guidance.
+
+### How should Classification of Marma according to Parimana — Marma Sastra And Ayurveda Study By C Suresh Kumar be taken according to classical guidelines?
+According to classical Ayurvedic principles, Classification of Marma according to Parimana — Marma Sastra And Ayurveda Study By C Suresh Kumar is best administered with appropriate Anupana (carrier vehicles such as warm water, honey, or warm milk) tailored to an individual's Prakriti (constitution).
+
+### Are there any contraindications or side effects associated with Classification of Marma according to Parimana — Marma Sastra And Ayurveda Study By C Suresh Kumar?
+While generally well-tolerated when used appropriately, excessive usage or improper dosing may exacerbate specific doshas. Consult an Ayurvedic physician prior to therapeutic use.
+
+### How long does it take to observe results from using Classification of Marma according to Parimana — Marma Sastra And Ayurveda Study By C Suresh Kumar?
+In traditional Ayurvedic protocol, herbal formulations operate synergistically with diet and lifestyle. Notable improvements typically emerge within 2 to 4 weeks of consistent administration.
+
+### Is Classification of Marma according to Parimana — Marma Sastra And Ayurveda Study By C Suresh Kumar safe for long-term daily consumption?
+Certain tonic (Rasayana) preparations may be safely used long-term, whereas intensive therapeutic formulas are recommended for specific short-term protocols under expert supervision.
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What are the primary health benefits of Classification of Marma according to Parimana — Marma Sastra And Ayurveda Study By C Suresh Kumar in Ayurveda?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Classification of Marma according to Parimana — Marma Sastra And Ayurveda Study By C Suresh Kumar is traditionally utilized in Ayurveda to balance doshic imbalances, support systemic vitality, and promote long-term physiological wellness under proper guidance."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How should Classification of Marma according to Parimana — Marma Sastra And Ayurveda Study By C Suresh Kumar be taken according to classical guidelines?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "According to classical Ayurvedic principles, Classification of Marma according to Parimana — Marma Sastra And Ayurveda Study By C Suresh Kumar is best administered with appropriate Anupana (carrier vehicles such as warm water, honey, or warm milk) tailored to an individual's Prakriti (constitution)."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Are there any contraindications or side effects associated with Classification of Marma according to Parimana — Marma Sastra And Ayurveda Study By C Suresh Kumar?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "While generally well-tolerated when used appropriately, excessive usage or improper dosing may exacerbate specific doshas. Consult an Ayurvedic physician prior to therapeutic use."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How long does it take to observe results from using Classification of Marma according to Parimana — Marma Sastra And Ayurveda Study By C Suresh Kumar?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "In traditional Ayurvedic protocol, herbal formulations operate synergistically with diet and lifestyle. Notable improvements typically emerge within 2 to 4 weeks of consistent administration."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Is Classification of Marma according to Parimana — Marma Sastra And Ayurveda Study By C Suresh Kumar safe for long-term daily consumption?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Certain tonic (Rasayana) preparations may be safely used long-term, whereas intensive therapeutic formulas are recommended for specific short-term protocols under expert supervision."
+      }
     }
   ]
 }

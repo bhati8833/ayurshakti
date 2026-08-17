@@ -20,17 +20,11 @@ This chapter from **Sushruta Samhita (Uttaratantra)** represents the classical s
 
 ---
 
-
 Sushruta Samhita, Volume 6: Uttara-tantra
-
-by Kaviraj Kunja Lal Bhishagratna | 1916 | 113,078 words
 
 This current book, the Uttara-tantra (english translation) is the supplementary part of the Sushrutasamhita and deals various subjects such as diseases of the eye, treatment of fever, diarrhea, diseases resulting from superhuman influences, insanity, rules of health etc.
 
 The Sushruta Samhita is the most representative work of the Hindu system of m...
-
-Go directly to: 
-Footnotes.
 
 Chapter XIX - Treatment of hurt or injnry to the eye
 
@@ -61,10 +55,6 @@ Conclusion:—
 The Science of medicine is as incomprehensible as the ocean. It cannot be fully described even in hundreds and thousands of verses. Dull people who are incapable of catching the real import of the Science of reasoning would fail to acquire a proper insight into the Science of medicine if dealt with elaborately in thousands of verses. The occult principles (of the Science of medicine), as explained in these pages, would, therefore, sprout and grow and bear good fruits only under the congenial heat of a (medical) genius. A learned and experienced (medical) man would therefore try to understand the occult principles herein inculcated with due caution and with reference to other Sciences. 15.
 
 Thus ends the nineteenth chapter of the Uttara-Tantra in the Sushruta Samhita which deals with the medical treatment to be adopted in cases of hurt or injury to the eye.
-
-Footnotes and references:
-
-[back to top]
 
 [1]:
 

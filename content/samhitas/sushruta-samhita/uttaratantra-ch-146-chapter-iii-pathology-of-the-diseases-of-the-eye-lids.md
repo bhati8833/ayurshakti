@@ -20,17 +20,11 @@ This chapter from **Sushruta Samhita (Uttaratantra)** represents the classical s
 
 ---
 
-
 Sushruta Samhita, Volume 6: Uttara-tantra
-
-by Kaviraj Kunja Lal Bhishagratna | 1916 | 113,078 words
 
 This current book, the Uttara-tantra (english translation) is the supplementary part of the Sushrutasamhita and deals various subjects such as diseases of the eye, treatment of fever, diarrhea, diseases resulting from superhuman influences, insanity, rules of health etc.
 
 The Sushruta Samhita is the most representative work of the Hindu system of m...
-
-Go directly to: 
-Footnotes.
 
 Chapter III - Pathology of the diseases of the eye-lids
 
@@ -65,10 +59,6 @@ A thick, slimy, hard and painless nodular swelling (Granthi) on the eye-lid rese
 An accumulation of the deranged Doshas about the eye-lashes makes them rough and sharp-pointed, which give pain to the eye and give relief when drawn off. The disease is known as Pakshma-kopa in which the eye cannot bear the least wind or heat or the glare of fire. 23.
 
 Thus ends the third chapter of the Uttara-Tantra in the Sushruta Samhita which deals with the pathology of the diseases of the eye-lids.
-
-Footnotes and references:
-
-[back to top]
 
 [1]:
 

@@ -20,17 +20,11 @@ This chapter from **Sushruta Samhita (Chikitsasthana)** represents the classical
 
 ---
 
-
 Sushruta Samhita, volume 4: Cikitsasthana
-
-by Kaviraj Kunja Lal Bhishagratna | 1911 | 123,229 words
 
 This current book, the Chikitsa-sthana (english translation), deals with therapeutics, surgical emergencies, geriatrics, aphrodisiacs and various other subjects.
 
 The Sushruta Samhita is the most representative work of the Hindu system of medicine. It embraces all that can possibly appertain to the science of medicine. Susruta-samhita is recognized...
-
-Go directly to: 
-Footnotes.
 
 Chapter XXV - The medical treatment of a variety of diseases
 
@@ -79,10 +73,6 @@ Treatment of Vyanga, etc.:—
 Laksha, Rodhra, the two kinds of Haridra, Manah shila, Haritala, Kushtha, Naga (lead), Gairika, Varnaka, Manjishtha, Vaca, Saurashtra-mrittika, Pattanga, Gorocana, Rasanjana, bark of Hemanga (Champaka), the tender leaves of Vata, Kaliya-Kashtha, Padma- kashtha, the filaments of a lotus, both red and white chandana, Mercury[9] and the drugs of the Kakolyadi  group should be pasted together with milk. The paste, thus prepared, as well as lard, marrow, wax, clarified butter, milk, and a decoction of the drugs of the Kshira  trees should be cooked together. This medicated clarified butter, is the best of all the unguents that may be applied to the face. It cures the most difficult cases of Vyanga and Nilika, and removes all tans, specks, marks, moles, eruptions, etc., from the face. It imparts smoothness to the wrinkled skin, gives a healthy plumpness and bloom to the cheeks, and makes the face as beautiful as a lotus. It should be recommended to kings and to the ladies of the royal court, as well as to persons of the same rank. It acts as a good remedy for cutaneous affections (Kushtha), and may be as well applied in cases of Vipadika. The use of a cosmetic compound consisting of powdered Haritaki, leaves of Nimba, the bark of mango, stems of the pomegranate, and the flowers and leaves of Madyantika pasted together, imparts a god-like effulgence to the complexion of a man. 20-21.
 
 Thus ends the Twenty-fifth Chapter of the Chikitsita Sthana in the Sushruta Samhita which deals with the treatment of a variety of diseases.
-
-Footnotes and references:
-
-[back to top]
 
 [1]:
 

@@ -20,15 +20,9 @@ This chapter from **Sushruta Samhita (Sutrasthana)** represents the classical su
 
 ---
 
-
 Sushruta Samhita, volume 1: Sutrasthana
 
-by Kaviraj Kunja Lal Bhishagratna | 1907 | 148,756 words
-
 This current book, the Sutra-sthana (english translation), is the first part of this voluminous medical work. It contains a large summary of the knowledge envelopig the medical aspects of Ayurveda. Descriptions of diseases, various diets and drugs, the duties of a surgeon, surgical procedures, medical training; these are only some of the numerous s...
-
-Go directly to: 
-Footnotes.
 
 Chapter XV - Knowledge of doshas etc
 
@@ -139,10 +133,6 @@ Excessively corpulent and excessively lean persons are alike condemnable. A body
 An intelligent physician should preserve the state of health in a healthy individual, while he should increase or decrease the quantity of the bodily humours, vital fluids, or excrements in a sick patient according to the exigencies of the case until his health is perfectly restored.
 
 Thus ends the fifteenth Chapter of the Sutrasthana in the Sushruta Samhita which treats of the Development and Non-development of the humoral constituents of the bodv.
-
-Footnotes and references:
-
-[back to top]
 
 [1]:
 

@@ -20,17 +20,11 @@ This chapter from **Sushruta Samhita (Nidanasthana)** represents the classical s
 
 ---
 
-
 Sushruta Samhita, volume 2: Nidanasthana
-
-by Kaviraj Kunja Lal Bhishagratna | 1911 | 37,609 words
 
 This current book, the Nidana-sthana (english translation), is the second part of this voluminous medical work. It deals with diseases: their prognosis, their cause, their symptoms and their pathogenesis (development of the disease).
 
 The Sushruta Samhita is the most representative work of the Hindu system of medicine. It embraces all that can poss...
-
-Go directly to: 
-Footnotes.
 
 Chapter X - Diagnosis of erysipelas, sinus and mammae
 
@@ -97,10 +91,6 @@ The milk (of a mother), which instantly mixes with water, tastes sweet and retai
 The bodily Doshas having recourse to the breasts of a woman whether filled with milk or not and vitiating the local flesh and blood give rise to mammary diseases, (Stana-roga). All the types of abscess (Vidradhi) excepting the one called the Raktaja out of the six types described before are found to attack the mammae, and their symptoms should be understood as identical with those of external abscesses. 25.
 
 Thus ends the tenth Chapter of the Nidana Sthana in the Sushruta Samhita which treats of the etiology and symptoms of Erysipelas, Sinus and mammary abscesses.
-
-Footnotes and references:
-
-[back to top]
 
 [1]:
 

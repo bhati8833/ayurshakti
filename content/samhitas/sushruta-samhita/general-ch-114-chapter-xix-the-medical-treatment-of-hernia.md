@@ -20,17 +20,11 @@ This chapter from **Sushruta Samhita (Chikitsasthana)** represents the classical
 
 ---
 
-
 Sushruta Samhita, volume 4: Cikitsasthana
-
-by Kaviraj Kunja Lal Bhishagratna | 1911 | 123,229 words
 
 This current book, the Chikitsa-sthana (english translation), deals with therapeutics, surgical emergencies, geriatrics, aphrodisiacs and various other subjects.
 
 The Sushruta Samhita is the most representative work of the Hindu system of medicine. It embraces all that can possibly appertain to the science of medicine. Susruta-samhita is recognized...
-
-Go directly to: 
-Footnotes.
 
 Chapter XIX - The medical treatment of hernia
 
@@ -123,10 +117,6 @@ The expressed juice of Kakodumbarika, Sukanasa and the decoction of Madana fruit
 The ashes of the Dravanti, Trivrit, Danti, Nili, Shyama, Saptala and Shamkhini should be filtered in the way of preparing alkalies after dissolving them in cow’s urine. The solution, thus prepared, should be boiled with a decoction of Triphala. Taken internally it tends to act in the lower part of the body (i.e, it moves the bowels). This medicine produces the same effect as the preceding ones. 28.
 
 Thus ends the nineteenth Chapter of the Chikitsita Sthana in the Sushruta Samhita which deals with the medical treatment of Vriddhi, Upadamsha and Shlipada.
-
-Footnotes and references:
-
-[back to top]
 
 [1]:
 

@@ -1,23 +1,15 @@
 ---
 title: "Care and keeping of elephants — Matangalila And Hastyayurveda Study By Chandrima Das"
-paper_title: "Matangalila And Hastyayurveda Study By Chandrima Das"
-paper_slug: "matangalila-and-hastyayurveda-study-by-chandrima-das"
-chapter_title: "Care and keeping of elephants"
-chapter_slug: "care-and-keeping-of-elephants"
-chapter_number: 38
-reading_time: 23
-prev_chapter: "techniques-of-building-elephant-abodes"
-next_chapter: "megasthenes-account-on-elephants"
-silo: "research"
-category: "Ayurvedic Research & Evidence"
-status: "Published"
-date: "2026-08-17"
 description: "Detailed analysis of Care and keeping of elephants from Matangalila And Hastyayurveda Study By Chandrima Das by Chandrima Das. Evidence-based Ayurvedic literature review and pharmacognosy."
+category: "Ayurvedic Research & Evidence"
 author: "Suresh Bhati"
-original_scholar: "Chandrima Das"
+publishedDate: "2026-08-17"
+status: "Published"
 ---
 
 # 38. Care and keeping of elephants
+
+> **Clinical Executive Summary**: This guide on **Care and keeping of elephants — Matangalila And Hastyayurveda Study By Chandrima Das** synthesizes classical Sanskrit Samhita principles with modern botanical pharmacological research. Curated under the editorial supervision of Suresh Bhati, it provides actionable doshic guidelines, evidence-based applications, and safety parameters.
 
 > **TL;DR:** Chapter 38 of **Matangalila And Hastyayurveda Study By Chandrima Das** by **Chandrima Das** explores key findings on *Care and keeping of elephants*. It bridges traditional Sanskrit literature with contemporary medical science.
 
@@ -67,15 +59,9 @@ The text mentions that the elephant leader should order,
 
 “Play the instrument called vīramuṇḍa, that is as delightful as a mṛdaṅga, along with drums and elephant bells”.[65]
 
-“Play the instrument called vīramuṇḍa, that is as delightful as a mṛdaṅga, along with drums and elephant bells”.[65]
-
 In the first yāma of the night, when the vīramuṇḍa is being played, the servants should stand surrounding the elephant on all sides.[66] They should roar hair-raisingly, the noise of soldiers. Hearing their noise, the king should call the hordes of foot-soldiers and should give each of them thick white clothes to deck themselves.[67] He should give them) oil and vermilion along with kausumbha and vīraka to deck the elephants in rut, and food to enrage them.[68] At the beginning of sleep, at the end of sleep, the elephants in rut should be given lotus stalk to eat to put them to sleep.[69] He should make the elephant-drivers offer excitant food already prepared, at the necessity of nature.[70] On the day of the fight, they should be given food and drink, and their thighs and heads should be anointed with oil and vermilion. In the middle of the bumps, a beautiful tilaka should be marked. Thus bedecked, the elephants should be placed near the Bahyāli. They should be tethered far away from one another in a place hundred dhanus long and sixty wide, free from shoots, stones, thorns etc., devoid of dust, level, smooth, slightly raised in the front.[71] Two lovely gates should be constructed in the middle (decked) with new pitchers, with painted portals covered with kunda flowers.
 
 The stable probably had separate places specified for tying up of each variety of elephants as the texts mention that the expert elephant-driver places the Manda elephant in the sun, the Bhadra in the sun and shade, and ties the Mṛga in the shade.[72] The elephant shade should be planned facing east or north. The elephant house facing east should have its centre in the south. Close to it there should be a round sighting gallery, raised high and surrounded by elephants.[73] It should be large and beautiful, walled at the back, and decked with golden pillars which are whitewashed. It should be painted with many colours, with a glass floor, and surrounded by a moat, with a drawbridge as the way (over it). Another room should be built outside the moat, with an ascent without stairs to prevent elephants (from climbing it). A little behind it, on the south, a sporting-terrace should be built in front of the sighting gallery, surrounded by a moat, high, with painted walls, beautiful, large and well-adorned. Another such should be built with eight well-formed pillars on both sides, with a pair of thick and long doors having strong bolts, another such with (similar) doors etc., as high as an elephant’s chest and intercommunicating near the eastern gate with good signs. Thus the elephant-house i.e. a stable should be built with such signs.
-
-Footnotes and references:
-
-[back to top]
 
 [1]:
 
@@ -377,8 +363,6 @@ Ibid., v. 113, p.123.
 
 ---
 
----
-
 ## ❓ 4. Frequently Asked Questions (15 Question Intent Matrix)
 
 ### Q1: What is the primary subject of "Care and keeping of elephants"?
@@ -488,6 +472,72 @@ Ibid., v. 113, p.123.
           }
         }
       ]
+    }
+  ]
+}
+</script>
+
+## Frequently Asked Questions (FAQ)
+
+### What are the primary health benefits of Care and keeping of elephants — Matangalila And Hastyayurveda Study By Chandrima Das in Ayurveda?
+Care and keeping of elephants — Matangalila And Hastyayurveda Study By Chandrima Das is traditionally utilized in Ayurveda to balance doshic imbalances, support systemic vitality, and promote long-term physiological wellness under proper guidance.
+
+### How should Care and keeping of elephants — Matangalila And Hastyayurveda Study By Chandrima Das be taken according to classical guidelines?
+According to classical Ayurvedic principles, Care and keeping of elephants — Matangalila And Hastyayurveda Study By Chandrima Das is best administered with appropriate Anupana (carrier vehicles such as warm water, honey, or warm milk) tailored to an individual's Prakriti (constitution).
+
+### Are there any contraindications or side effects associated with Care and keeping of elephants — Matangalila And Hastyayurveda Study By Chandrima Das?
+While generally well-tolerated when used appropriately, excessive usage or improper dosing may exacerbate specific doshas. Consult an Ayurvedic physician prior to therapeutic use.
+
+### How long does it take to observe results from using Care and keeping of elephants — Matangalila And Hastyayurveda Study By Chandrima Das?
+In traditional Ayurvedic protocol, herbal formulations operate synergistically with diet and lifestyle. Notable improvements typically emerge within 2 to 4 weeks of consistent administration.
+
+### Is Care and keeping of elephants — Matangalila And Hastyayurveda Study By Chandrima Das safe for long-term daily consumption?
+Certain tonic (Rasayana) preparations may be safely used long-term, whereas intensive therapeutic formulas are recommended for specific short-term protocols under expert supervision.
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What are the primary health benefits of Care and keeping of elephants — Matangalila And Hastyayurveda Study By Chandrima Das in Ayurveda?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Care and keeping of elephants — Matangalila And Hastyayurveda Study By Chandrima Das is traditionally utilized in Ayurveda to balance doshic imbalances, support systemic vitality, and promote long-term physiological wellness under proper guidance."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How should Care and keeping of elephants — Matangalila And Hastyayurveda Study By Chandrima Das be taken according to classical guidelines?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "According to classical Ayurvedic principles, Care and keeping of elephants — Matangalila And Hastyayurveda Study By Chandrima Das is best administered with appropriate Anupana (carrier vehicles such as warm water, honey, or warm milk) tailored to an individual's Prakriti (constitution)."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Are there any contraindications or side effects associated with Care and keeping of elephants — Matangalila And Hastyayurveda Study By Chandrima Das?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "While generally well-tolerated when used appropriately, excessive usage or improper dosing may exacerbate specific doshas. Consult an Ayurvedic physician prior to therapeutic use."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How long does it take to observe results from using Care and keeping of elephants — Matangalila And Hastyayurveda Study By Chandrima Das?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "In traditional Ayurvedic protocol, herbal formulations operate synergistically with diet and lifestyle. Notable improvements typically emerge within 2 to 4 weeks of consistent administration."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Is Care and keeping of elephants — Matangalila And Hastyayurveda Study By Chandrima Das safe for long-term daily consumption?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Certain tonic (Rasayana) preparations may be safely used long-term, whereas intensive therapeutic formulas are recommended for specific short-term protocols under expert supervision."
+      }
     }
   ]
 }

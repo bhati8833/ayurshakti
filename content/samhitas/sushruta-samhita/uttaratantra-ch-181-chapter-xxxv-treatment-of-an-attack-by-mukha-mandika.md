@@ -20,10 +20,7 @@ This chapter from **Sushruta Samhita (Uttaratantra)** represents the classical s
 
 ---
 
-
 Sushruta Samhita, Volume 6: Uttara-tantra
-
-by Kaviraj Kunja Lal Bhishagratna | 1916 | 113,078 words
 
 This current book, the Uttara-tantra (english translation) is the supplementary part of the Sushrutasamhita and deals various subjects such as diseases of the eye, treatment of fever, diarrhea, diseases resulting from superhuman influences, insanity, rules of health etc.
 
@@ -40,8 +37,6 @@ Fumigation with Vaca, Sarjarasa and Kushtha mixed with clarified butter would be
 Offerings of Varnaka (Kampillaka), Churnaka, garlands of flowers, Rasanjana, Parada (mercury), Manah-Shila, Payasa (rice boiled in milk) and puddings should be made (to the deity) inside a cow-shed and the child should also be bathed therein with water consecrated with Mantra.
 
 The Mantra runs as follows:—
-
-“May the beautiful and blessed goddess, Mukhamandika, who is decked with ornaments, who can assume different forms at will and who resides in cow-sheds, preserve thee”.
 
 “May the beautiful and blessed goddess, Mukhamandika, who is decked with ornaments, who can assume different forms at will and who resides in cow-sheds, preserve thee”.
 

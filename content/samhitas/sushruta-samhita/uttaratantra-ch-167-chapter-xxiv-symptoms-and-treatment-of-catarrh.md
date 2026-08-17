@@ -20,17 +20,11 @@ This chapter from **Sushruta Samhita (Uttaratantra)** represents the classical s
 
 ---
 
-
 Sushruta Samhita, Volume 6: Uttara-tantra
-
-by Kaviraj Kunja Lal Bhishagratna | 1916 | 113,078 words
 
 This current book, the Uttara-tantra (english translation) is the supplementary part of the Sushrutasamhita and deals various subjects such as diseases of the eye, treatment of fever, diarrhea, diseases resulting from superhuman influences, insanity, rules of health etc.
 
 The Sushruta Samhita is the most representative work of the Hindu system of m...
-
-Go directly to: 
-Footnotes.
 
 Chapter XXIV - Symptoms and treatment of Catarrh
 
@@ -89,10 +83,6 @@ Flesh of birds and beasts of the Jangala group, aquatic flowers and the Vayu-sub
 All the foregoing preparations should be surcharged with the urine and bile of a cow and used in cases due to the existence of local parasites, and vermifuges (e.g., drugs of the Surasadi group) should be administered as a palliative measure.[10] 27.
 
 Thus ends the twenty-fourth chapter of the Uttara-Tantra in the Sushruta Samhita which deals with the (symptoms and) medical treatment of Pratishyaya.
-
-Footnotes and references:
-
-[back to top]
 
 [1]:
 

@@ -20,17 +20,11 @@ This chapter from **Sushruta Samhita (Uttaratantra)** represents the classical s
 
 ---
 
-
 Sushruta Samhita, Volume 6: Uttara-tantra
-
-by Kaviraj Kunja Lal Bhishagratna | 1916 | 113,078 words
 
 This current book, the Uttara-tantra (english translation) is the supplementary part of the Sushrutasamhita and deals various subjects such as diseases of the eye, treatment of fever, diarrhea, diseases resulting from superhuman influences, insanity, rules of health etc.
 
 The Sushruta Samhita is the most representative work of the Hindu system of m...
-
-Go directly to: 
-Footnotes.
 
 Chapter XXXIX - Symptoms and Treatment of Fever (Jvara)
 
@@ -333,10 +327,6 @@ The features or indications which mark a complete remission of fever, are lightn
 Fever originating from the wrath-fire of the god Shambhu, is a dangerous disease. It affects appetite and the strength as well as the complexion of the body and is virtually the sum-total of all the other diseases. It is, therefore, called the lord of all bodily diseases. It is common to all created beings (men and animals), affects the whole of the organism (including also the mind), is extremely hard to cure and is present in all cases at the time of the death of all creatures. Hence it is rightly called the destroyer of created beings. 157.
 
 Thus ends the thirty-ninth chapter of the Uttara Tantra in the Sushruta Samhita which deals with the (symptoms and) medical treatment of fever.
-
-Footnotes and references:
-
-[back to top]
 
 [1]:
 

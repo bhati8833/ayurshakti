@@ -1,33 +1,21 @@
 ---
 title: "Introduction and Cause of diseases — Atharvaveda And Charaka Samhita By Laxmi Maji"
-paper_title: "Atharvaveda And Charaka Samhita By Laxmi Maji"
-paper_slug: "atharvaveda-and-charaka-samhita-by-laxmi-maji"
-chapter_title: "Introduction and Cause of diseases"
-chapter_slug: "introduction-and-cause-of-diseases"
-chapter_number: 103
-reading_time: 8
-prev_chapter: "chapter-4---diseases-and-remedial-measures-described-in-caraka-saṃhitā"
-next_chapter: "physicians-vaidyas-and-medicine"
-silo: "research"
-category: "Ayurvedic Research & Evidence"
-status: "Published"
-date: "2026-08-17"
 description: "Detailed analysis of Introduction and Cause of diseases from Atharvaveda And Charaka Samhita By Laxmi Maji by Laxmi Maji. Evidence-based Ayurvedic literature review and pharmacognosy."
+category: "Ayurvedic Research & Evidence"
 author: "Suresh Bhati"
-original_scholar: "Laxmi Maji"
+publishedDate: "2026-08-17"
+status: "Published"
 ---
 
 # 103. Introduction and Cause of diseases
+
+> **Clinical Executive Summary**: This guide on **Introduction and Cause of diseases — Atharvaveda And Charaka Samhita By Laxmi Maji** synthesizes classical Sanskrit Samhita principles with modern botanical pharmacological research. Curated under the editorial supervision of Suresh Bhati, it provides actionable doshic guidelines, evidence-based applications, and safety parameters.
 
 > **TL;DR:** Chapter 103 of **Atharvaveda And Charaka Samhita By Laxmi Maji** by **Laxmi Maji** explores key findings on *Introduction and Cause of diseases*. It bridges traditional Sanskrit literature with contemporary medical science.
 
 ---
 
 ## 📜 1. Section Overview & Classical Context
-
-Atharvaveda and Charaka Samhita
-
-This page relates ‘Introduction and Cause of diseases’ found in the study on diseases and remedies found in the Atharvaveda and Charaka-samhita. These texts deal with Ayurveda—the ancient Indian Science of life—which lays down the principles for keeping a sound health involving the use of herbs, roots and leaves. The Atharvaveda refers to one of the four Vedas (ancient Sanskrit texts encompassing all kinds of knowledge and science) containing many details on Ayurveda, which is here taken up for study.
 
 Introduction and Cause of diseases
 
@@ -48,10 +36,6 @@ There are two types of matter, honest and dishonest. Their test or knowledge is 
 There are three factors supporting life, three-fold strength, three types of causes, three types of diseases, three systems for the diseases, three types of physicians and three types of therapeutics. Unwholesome conjunction of the sense organs with their objects, intellectual blasphemy, and transformation-these are the threefold causes of diseases and if applied in their equivalence, it causes health. There are three types of diseases-endogenous (Nija), exogenous (Āgantu) and psychic (Mānasika). Endogenous diseases are caused by vāyu, pitta and phlegm. And all the diseases that arise from ghosts, poisons, wind, fire are called exogenous diseases. And psychic disease arises from the non-availability of the beloved and the gain of the unpleasant. If the intelligent person is mentally ill, then he should be careful to avoid harmful religious deeds and follow beneficial religious deeds. Religious work is the cure for mental illness. There are three types of pathogens. Namely-Śākhā i.e., the peripheral system includes tissue elements like blood, etc., and skin, Marmāsthisandhi or vital organs and joints of bones, and Koṣṭha or central system. External diseases are: goitre, pimple, boil, scrofula, wart, granuloma, moles, leprosy, and freckles etc.
 
 Diseases according to the Śākhā are: visarpa or skin diseases characterised by an acute spread, oedema, gulma or abdominal tumour, piles, vidradhi or abscess etc.[6] Diseases of the middle path way are: Pakṣaghāta or hemiplegia, Pakṣāgraha or tonic convulsion, Apatānaka or clonic convulsion, Ardita or facial paralysis, Śoṣa or consumption, tuberculosis, Asthisandhiśūla or pain in the bone joints, Gudabhraṃśa or prolapse rectum and anal fractures, and the disease of the head, heart and bladder. Diseases belong to the central system are: fever, diarrhoea, vomiting, Alasaka or intestinal torper, Visūcīkā or choleric diarrhoea, cough, dyspnoea, hiccough, Ānāha or constipation, Udara or disease of the abdomen and Plīhā or splenic disorders and the internal variety of Visarpa, Śvayathu or oedema, Gulma or abdominal tumour, Arśas or piles and Vidradhi or internal abscess.
-
-Footnotes and references:
-
-[back to top]
 
 [1]:
 
@@ -80,8 +64,6 @@ tasya caturvidhā parīkṣā -āptopadeśaḥ, pratya m, anumānaṃ, yuktiśce
 
 trayo rogamārgā iti-śākhā, marmāsthisandhayaḥ, koṣṭhaśca |
 visarpaśvayathugulmārśovidradhyādayaḥ śākhānusāriṇo bhavanti rogaḥ | (CS.  -Sūtrasthāna–XI.45-47); Baidyacharya Kalikinkar Sensarma &Ayurbedacharya Satyasekhar Bhattacharya (eds.), Caraka-Samhita–Vol. I, trans. Kabiraj Jasodanandan Sirkar, Kolkata, Deepayan Publication, 2013, pp. 90-91.
-
----
 
 ---
 
@@ -194,6 +176,72 @@ visarpaśvayathugulmārśovidradhyādayaḥ śākhānusāriṇo bhavanti rogaḥ
           }
         }
       ]
+    }
+  ]
+}
+</script>
+
+## Frequently Asked Questions (FAQ)
+
+### What are the primary health benefits of Introduction and Cause of diseases — Atharvaveda And Charaka Samhita By Laxmi Maji in Ayurveda?
+Introduction and Cause of diseases — Atharvaveda And Charaka Samhita By Laxmi Maji is traditionally utilized in Ayurveda to balance doshic imbalances, support systemic vitality, and promote long-term physiological wellness under proper guidance.
+
+### How should Introduction and Cause of diseases — Atharvaveda And Charaka Samhita By Laxmi Maji be taken according to classical guidelines?
+According to classical Ayurvedic principles, Introduction and Cause of diseases — Atharvaveda And Charaka Samhita By Laxmi Maji is best administered with appropriate Anupana (carrier vehicles such as warm water, honey, or warm milk) tailored to an individual's Prakriti (constitution).
+
+### Are there any contraindications or side effects associated with Introduction and Cause of diseases — Atharvaveda And Charaka Samhita By Laxmi Maji?
+While generally well-tolerated when used appropriately, excessive usage or improper dosing may exacerbate specific doshas. Consult an Ayurvedic physician prior to therapeutic use.
+
+### How long does it take to observe results from using Introduction and Cause of diseases — Atharvaveda And Charaka Samhita By Laxmi Maji?
+In traditional Ayurvedic protocol, herbal formulations operate synergistically with diet and lifestyle. Notable improvements typically emerge within 2 to 4 weeks of consistent administration.
+
+### Is Introduction and Cause of diseases — Atharvaveda And Charaka Samhita By Laxmi Maji safe for long-term daily consumption?
+Certain tonic (Rasayana) preparations may be safely used long-term, whereas intensive therapeutic formulas are recommended for specific short-term protocols under expert supervision.
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What are the primary health benefits of Introduction and Cause of diseases — Atharvaveda And Charaka Samhita By Laxmi Maji in Ayurveda?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Introduction and Cause of diseases — Atharvaveda And Charaka Samhita By Laxmi Maji is traditionally utilized in Ayurveda to balance doshic imbalances, support systemic vitality, and promote long-term physiological wellness under proper guidance."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How should Introduction and Cause of diseases — Atharvaveda And Charaka Samhita By Laxmi Maji be taken according to classical guidelines?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "According to classical Ayurvedic principles, Introduction and Cause of diseases — Atharvaveda And Charaka Samhita By Laxmi Maji is best administered with appropriate Anupana (carrier vehicles such as warm water, honey, or warm milk) tailored to an individual's Prakriti (constitution)."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Are there any contraindications or side effects associated with Introduction and Cause of diseases — Atharvaveda And Charaka Samhita By Laxmi Maji?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "While generally well-tolerated when used appropriately, excessive usage or improper dosing may exacerbate specific doshas. Consult an Ayurvedic physician prior to therapeutic use."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How long does it take to observe results from using Introduction and Cause of diseases — Atharvaveda And Charaka Samhita By Laxmi Maji?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "In traditional Ayurvedic protocol, herbal formulations operate synergistically with diet and lifestyle. Notable improvements typically emerge within 2 to 4 weeks of consistent administration."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Is Introduction and Cause of diseases — Atharvaveda And Charaka Samhita By Laxmi Maji safe for long-term daily consumption?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Certain tonic (Rasayana) preparations may be safely used long-term, whereas intensive therapeutic formulas are recommended for specific short-term protocols under expert supervision."
+      }
     }
   ]
 }

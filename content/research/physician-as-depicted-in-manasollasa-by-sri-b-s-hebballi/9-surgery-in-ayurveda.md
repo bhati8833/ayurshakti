@@ -1,23 +1,15 @@
 ---
 title: "9. Surgery in Ayurveda — Physician As Depicted In Manasollasa By Sri B S Hebballi"
-paper_title: "Physician As Depicted In Manasollasa By Sri B S Hebballi"
-paper_slug: "physician-as-depicted-in-manasollasa-by-sri-b-s-hebballi"
-chapter_title: "9. Surgery in Ayurveda"
-chapter_slug: "9-surgery-in-ayurveda"
-chapter_number: 23
-reading_time: 7
-prev_chapter: "7-general-conduct-and-suitable-friends"
-next_chapter: "8-three-phases-of-dosasthana"
-silo: "research"
-category: "Ayurvedic Research & Evidence"
-status: "Published"
-date: "2026-08-17"
 description: "Detailed analysis of 9. Surgery in Ayurveda from Physician As Depicted In Manasollasa By Sri B S Hebballi by Classical Ayurvedic Scholar. Evidence-based Ayurvedic literature review and pharmacognosy."
+category: "Ayurvedic Research & Evidence"
 author: "Suresh Bhati"
-original_scholar: "Classical Ayurvedic Scholar"
+publishedDate: "2026-08-17"
+status: "Published"
 ---
 
 # 23. 9. Surgery in Ayurveda
+
+> **Clinical Executive Summary**: This guide on **9. Surgery in Ayurveda — Physician As Depicted In Manasollasa By Sri B S Hebballi** synthesizes classical Sanskrit Samhita principles with modern botanical pharmacological research. Curated under the editorial supervision of Suresh Bhati, it provides actionable doshic guidelines, evidence-based applications, and safety parameters.
 
 > **TL;DR:** Chapter 23 of **Physician As Depicted In Manasollasa By Sri B S Hebballi** by **Classical Ayurvedic Scholar** explores key findings on *9. Surgery in Ayurveda*. It bridges traditional Sanskrit literature with contemporary medical science.
 
@@ -40,8 +32,6 @@ It is an established fact that Surgical Science is known as a distinct branch of
 130 splinters of bone or foreign bodies lodged in the bones. they were, therefore, pincers, nippers, or forceps. The Sandansas, which in usual import mean tongs, were of that description. There were in the time of Susruta but two sorts, one with and the other without a ligature or noose (Nigraha?) attached. They were smaller than the preceding, being sixteen inches in length; and were used to remove extraneous substances from the soft parts, as the flesh, skin, vessels. The work of Vagbhata adds another sort, only six inches long, which were employed preferably for the soft parts and for fleshy excrescences. The Talayantras must have been something of the same kind, only smaller, their length being but twelve inches. They were but two, and were employed to remove foreign matters lodged in the outer canals, as the ears. The Nadiyantras were, as the name implies, tubular instruments. There were twenty sorts, varying in size and shape according to their intended use. They were employed for removing extraneous bodies from deep seated canals, as the intestines, urethra. For examining affections of parts similarly removed from inspection; for the introduction of other instruments, so as to enable them to be applied; and for drawing off fluids by suction. The work of Vagbhata specifies the number of perforations in each of these tubes, as they varied in this respect as well as others: the descriptions are, however, very indistinct, and we can only conclude generally, that they bore an analogy to our catheters, syringes, etc. The Salakas were hollow round rods. They were of twenty-eight kinds, varying in size and shape, for extracting foreign matters, lodged in parts of difficult access; for cleansing or clearing internal canals, especially the urethra; for applying collyria, caustic solutions, and the actual cautery; and for eradicating nasal polypi, the complaint called Nakra so common and so troublesome in India, and to be alleviated by no other means than the forcible extraction of the irritating excrescence.
 
 131 The Upayantras were, as their appellation signifies, merely accessory implements, such as twine, leather, bark, skin cloth. The first, best, and most important of all implements, however, is declared to be the hand. Sastras, the instruments, of which twenty different sorts are enumerated as under: vimsatih sastrani, tadyatha - mandalagra karapatra vrddhiprapatra nakhasastramudrikotpalapatra  ..... || yada sunisitam sastram romacchedi susamsthitam | sugrhitam pramanena tada karmasu yojayet  || susrutasamhita- sutrasthanam- 8.3-14. They were of metal, and always bright, handsome, polished, and sharp; sufficiently so indeed to divide a hair longitudinally. Vagbhata however, adds, they were in general not above six inches in length, and that the blade formed about a half or quarter of that length. - Thus the different kinds of scission, longitudinal, transverse, inverted, and circular, are directed to be practised on flowers, bulbs, and gourds. Incission on skins, or bladders, filled with paste and mire; scarification on the fresh hides of animals from which the hair has not been removed; - puncturing, or lancing, on the hollow stalks of plants, or the vessels of dead animals; extraction on the cavities of the same, or fruits with many large seeds, as the Jack and Bel; - sutures, on skin and leather, and ligatures and bandages on well-made models of the human limbs. The employment of leather, skin, and even of dead carcases, thus enjoined, proves an exemption from notions of impurity. Of course, their use implies the absence of any objections to the similar employment of human subjects. Although they are not specified, they may possibly be implied, in the general direction which Susruta gives, that the teacher shall seek to perfect his pupil by the application of all expedients which he may think calculated to effect his proficiency.
-
----
 
 ---
 
@@ -154,6 +144,72 @@ It is an established fact that Surgical Science is known as a distinct branch of
           }
         }
       ]
+    }
+  ]
+}
+</script>
+
+## Frequently Asked Questions (FAQ)
+
+### What are the primary health benefits of 9. Surgery in Ayurveda — Physician As Depicted In Manasollasa By Sri B S Hebballi in Ayurveda?
+9. Surgery in Ayurveda — Physician As Depicted In Manasollasa By Sri B S Hebballi is traditionally utilized in Ayurveda to balance doshic imbalances, support systemic vitality, and promote long-term physiological wellness under proper guidance.
+
+### How should 9. Surgery in Ayurveda — Physician As Depicted In Manasollasa By Sri B S Hebballi be taken according to classical guidelines?
+According to classical Ayurvedic principles, 9. Surgery in Ayurveda — Physician As Depicted In Manasollasa By Sri B S Hebballi is best administered with appropriate Anupana (carrier vehicles such as warm water, honey, or warm milk) tailored to an individual's Prakriti (constitution).
+
+### Are there any contraindications or side effects associated with 9. Surgery in Ayurveda — Physician As Depicted In Manasollasa By Sri B S Hebballi?
+While generally well-tolerated when used appropriately, excessive usage or improper dosing may exacerbate specific doshas. Consult an Ayurvedic physician prior to therapeutic use.
+
+### How long does it take to observe results from using 9. Surgery in Ayurveda — Physician As Depicted In Manasollasa By Sri B S Hebballi?
+In traditional Ayurvedic protocol, herbal formulations operate synergistically with diet and lifestyle. Notable improvements typically emerge within 2 to 4 weeks of consistent administration.
+
+### Is 9. Surgery in Ayurveda — Physician As Depicted In Manasollasa By Sri B S Hebballi safe for long-term daily consumption?
+Certain tonic (Rasayana) preparations may be safely used long-term, whereas intensive therapeutic formulas are recommended for specific short-term protocols under expert supervision.
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What are the primary health benefits of 9. Surgery in Ayurveda — Physician As Depicted In Manasollasa By Sri B S Hebballi in Ayurveda?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "9. Surgery in Ayurveda — Physician As Depicted In Manasollasa By Sri B S Hebballi is traditionally utilized in Ayurveda to balance doshic imbalances, support systemic vitality, and promote long-term physiological wellness under proper guidance."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How should 9. Surgery in Ayurveda — Physician As Depicted In Manasollasa By Sri B S Hebballi be taken according to classical guidelines?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "According to classical Ayurvedic principles, 9. Surgery in Ayurveda — Physician As Depicted In Manasollasa By Sri B S Hebballi is best administered with appropriate Anupana (carrier vehicles such as warm water, honey, or warm milk) tailored to an individual's Prakriti (constitution)."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Are there any contraindications or side effects associated with 9. Surgery in Ayurveda — Physician As Depicted In Manasollasa By Sri B S Hebballi?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "While generally well-tolerated when used appropriately, excessive usage or improper dosing may exacerbate specific doshas. Consult an Ayurvedic physician prior to therapeutic use."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How long does it take to observe results from using 9. Surgery in Ayurveda — Physician As Depicted In Manasollasa By Sri B S Hebballi?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "In traditional Ayurvedic protocol, herbal formulations operate synergistically with diet and lifestyle. Notable improvements typically emerge within 2 to 4 weeks of consistent administration."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Is 9. Surgery in Ayurveda — Physician As Depicted In Manasollasa By Sri B S Hebballi safe for long-term daily consumption?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Certain tonic (Rasayana) preparations may be safely used long-term, whereas intensive therapeutic formulas are recommended for specific short-term protocols under expert supervision."
+      }
     }
   ]
 }

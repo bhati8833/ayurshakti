@@ -20,17 +20,11 @@ This chapter from **Sushruta Samhita (Chikitsasthana)** represents the classical
 
 ---
 
-
 Sushruta Samhita, volume 4: Cikitsasthana
-
-by Kaviraj Kunja Lal Bhishagratna | 1911 | 123,229 words
 
 This current book, the Chikitsa-sthana (english translation), deals with therapeutics, surgical emergencies, geriatrics, aphrodisiacs and various other subjects.
 
 The Sushruta Samhita is the most representative work of the Hindu system of medicine. It embraces all that can possibly appertain to the science of medicine. Susruta-samhita is recognized...
-
-Go directly to: 
-Footnotes.
 
 Chapter XVI - The medical treatment of Abscesses and Tumours
 
@@ -75,10 +69,6 @@ Treatment of Majja-jata Vidradhi:—
 The medical treatment of a patient, afflicated with a Majja-jata abscess (abscess affecting the marrow), should be taken in hand without holding out any definite hope of recovery fas a proper course of treatment in such cases does not invariably prove successful). Sneha-karma (anointments, etc.) and fomentations should be first resorted to, after which blood-letting should be made; and the remedial measures of the present chapter should be then employed. When it reaches the suppurating stage, the bone should be operated upon, and after the full elimination of the pus and the putrid matter from the incised ulcer, purifying remedies should be employed. The incidental ulcer should be washed with the decoction of the bitter drugs and the Tikta- Sarpis[6] should be used. An intelligent physician should apply the decoction of the drugs of the Samshodhaniya group, if the oozing out of the marrow is not arrested. A medicated oil cooked with Priyangu, Dhataki, Rodhra, Katphala, Nemi[7] and Saindhava  salt should be used in healing up an ulcer incidental to an opened up Vidradhi. 24–25.
 
 Thus ends the sixteenth Chapter of the Chikitsita Sthana in the Sushruta Samhita which deals with the treatment of abscess.
-
-Footnotes and references:
-
-[back to top]
 
 [1]:
 

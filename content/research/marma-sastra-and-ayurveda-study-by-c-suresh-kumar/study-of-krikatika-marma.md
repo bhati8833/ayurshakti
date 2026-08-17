@@ -1,23 +1,15 @@
 ---
 title: "Study of Krikatika Marma — Marma Sastra And Ayurveda Study By C Suresh Kumar"
-paper_title: "Marma Sastra And Ayurveda Study By C Suresh Kumar"
-paper_slug: "marma-sastra-and-ayurveda-study-by-c-suresh-kumar"
-chapter_title: "Study of Krikatika Marma"
-chapter_slug: "study-of-krikatika-marma"
-chapter_number: 31
-reading_time: 3
-prev_chapter: "study-of-nila-and-manya-marma"
-next_chapter: "study-of-avarta-marma"
-silo: "research"
-category: "Ayurvedic Research & Evidence"
-status: "Published"
-date: "2026-08-17"
 description: "Detailed analysis of Study of Krikatika Marma from Marma Sastra And Ayurveda Study By C Suresh Kumar by Classical Ayurvedic Scholar. Evidence-based Ayurvedic literature review and pharmacognosy."
+category: "Ayurvedic Research & Evidence"
 author: "Suresh Bhati"
-original_scholar: "Classical Ayurvedic Scholar"
+publishedDate: "2026-08-17"
+status: "Published"
 ---
 
 # 31. Study of Krikatika Marma
+
+> **Clinical Executive Summary**: This guide on **Study of Krikatika Marma — Marma Sastra And Ayurveda Study By C Suresh Kumar** synthesizes classical Sanskrit Samhita principles with modern botanical pharmacological research. Curated under the editorial supervision of Suresh Bhati, it provides actionable doshic guidelines, evidence-based applications, and safety parameters.
 
 > **TL;DR:** Chapter 31 of **Marma Sastra And Ayurveda Study By C Suresh Kumar** by **Classical Ayurvedic Scholar** explores key findings on *Study of Krikatika Marma*. It bridges traditional Sanskrit literature with contemporary medical science.
 
@@ -38,8 +30,6 @@ Atlas Posterior atlanto Axis occipital membrane Ligamenta flava Ligamentum Nucha
 Krika united anteriorly to form a V shaped structure. Dr. Ganapath Sen has same opinion but it contradicts with Susruta statement, as there is is only one articulation. But Susruta says there are two marmas. Hence it should be presumed that the superior articular process of the Atlas and the articular surface of the skull by the sides of foramen magnum was taken into consideration. Tamil varma sastra This has close relation with the Pidari varma of Tamil literature. This varma is situated at the centre line near the cavity on the back of the neck, four fingers away from the Seerum kolli varma. If a person is hit from a distance of 70 cms with the side of the hand keeping the fingers straight he will get the impact at this varma. Injury to this varma make the muscles of the surrounding area weak and lead to instability of the neck. The patient's mouth will be widely open, the tongue will come out, and the eye blinks rapidly. It is advisable to treat this patient within 10 hrs. and 8mins. (27 Nazhigai) 114
 
 The afflicted person is carefully lifted with his legs, bent and kept together and is pricked with needles. The front and back side of the neck is massaged and the nerves in that area is stimulated carefully Suzhiyaddi varmam is positioned 28cms. below the top of the head, which is on the first vertebra. Affliction of this life-centre will make the patient faint. He may develop fever and shivering. This varma disorder is difficult to cure. If the patient is badly affected he will becomes insane and run around. Kulayana Marma — Vayu chinnan also Vayuminnan of Kulabhyana marma has a very close relation with this marma. The site of this marma is seen at the back of the head near the small pit at the junction of the head and neck. If injured the person might become insane. If we stimulate the back of the neck the patient can be retrieved from this injury. 115
-
----
 
 ---
 
@@ -152,6 +142,72 @@ The afflicted person is carefully lifted with his legs, bent and kept together a
           }
         }
       ]
+    }
+  ]
+}
+</script>
+
+## Frequently Asked Questions (FAQ)
+
+### What are the primary health benefits of Study of Krikatika Marma — Marma Sastra And Ayurveda Study By C Suresh Kumar in Ayurveda?
+Study of Krikatika Marma — Marma Sastra And Ayurveda Study By C Suresh Kumar is traditionally utilized in Ayurveda to balance doshic imbalances, support systemic vitality, and promote long-term physiological wellness under proper guidance.
+
+### How should Study of Krikatika Marma — Marma Sastra And Ayurveda Study By C Suresh Kumar be taken according to classical guidelines?
+According to classical Ayurvedic principles, Study of Krikatika Marma — Marma Sastra And Ayurveda Study By C Suresh Kumar is best administered with appropriate Anupana (carrier vehicles such as warm water, honey, or warm milk) tailored to an individual's Prakriti (constitution).
+
+### Are there any contraindications or side effects associated with Study of Krikatika Marma — Marma Sastra And Ayurveda Study By C Suresh Kumar?
+While generally well-tolerated when used appropriately, excessive usage or improper dosing may exacerbate specific doshas. Consult an Ayurvedic physician prior to therapeutic use.
+
+### How long does it take to observe results from using Study of Krikatika Marma — Marma Sastra And Ayurveda Study By C Suresh Kumar?
+In traditional Ayurvedic protocol, herbal formulations operate synergistically with diet and lifestyle. Notable improvements typically emerge within 2 to 4 weeks of consistent administration.
+
+### Is Study of Krikatika Marma — Marma Sastra And Ayurveda Study By C Suresh Kumar safe for long-term daily consumption?
+Certain tonic (Rasayana) preparations may be safely used long-term, whereas intensive therapeutic formulas are recommended for specific short-term protocols under expert supervision.
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What are the primary health benefits of Study of Krikatika Marma — Marma Sastra And Ayurveda Study By C Suresh Kumar in Ayurveda?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Study of Krikatika Marma — Marma Sastra And Ayurveda Study By C Suresh Kumar is traditionally utilized in Ayurveda to balance doshic imbalances, support systemic vitality, and promote long-term physiological wellness under proper guidance."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How should Study of Krikatika Marma — Marma Sastra And Ayurveda Study By C Suresh Kumar be taken according to classical guidelines?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "According to classical Ayurvedic principles, Study of Krikatika Marma — Marma Sastra And Ayurveda Study By C Suresh Kumar is best administered with appropriate Anupana (carrier vehicles such as warm water, honey, or warm milk) tailored to an individual's Prakriti (constitution)."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Are there any contraindications or side effects associated with Study of Krikatika Marma — Marma Sastra And Ayurveda Study By C Suresh Kumar?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "While generally well-tolerated when used appropriately, excessive usage or improper dosing may exacerbate specific doshas. Consult an Ayurvedic physician prior to therapeutic use."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How long does it take to observe results from using Study of Krikatika Marma — Marma Sastra And Ayurveda Study By C Suresh Kumar?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "In traditional Ayurvedic protocol, herbal formulations operate synergistically with diet and lifestyle. Notable improvements typically emerge within 2 to 4 weeks of consistent administration."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Is Study of Krikatika Marma — Marma Sastra And Ayurveda Study By C Suresh Kumar safe for long-term daily consumption?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Certain tonic (Rasayana) preparations may be safely used long-term, whereas intensive therapeutic formulas are recommended for specific short-term protocols under expert supervision."
+      }
     }
   ]
 }

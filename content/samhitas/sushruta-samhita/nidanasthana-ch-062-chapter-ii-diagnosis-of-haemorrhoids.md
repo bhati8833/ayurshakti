@@ -20,17 +20,11 @@ This chapter from **Sushruta Samhita (Nidanasthana)** represents the classical s
 
 ---
 
-
 Sushruta Samhita, volume 2: Nidanasthana
-
-by Kaviraj Kunja Lal Bhishagratna | 1911 | 37,609 words
 
 This current book, the Nidana-sthana (english translation), is the second part of this voluminous medical work. It deals with diseases: their prognosis, their cause, their symptoms and their pathogenesis (development of the disease).
 
 The Sushruta Samhita is the most representative work of the Hindu system of medicine. It embraces all that can poss...
-
-Go directly to: 
-Footnotes.
 
 Chapter II - Diagnosis of haemorrhoids
 
@@ -115,10 +109,6 @@ Prognosis:—
 A case of piles due to the concerted action of the three deranged Doshas of the body, (with its characteristic symptoms) but partially developed, may be temporarily checked (Yapya). Cases, which are of more than a year’s standing, as well as those in which the hemorrhoids are due to the concerted action of the two Doshas (Samsargaja), or are situated in the middle groove of the rectum, may be cured but with the greatest difficulty. Cases of the Sannipatika or congenital (Sahaja) types. should be given up as incurable. The Apana Vayu, in a person whose rectum is overrun with such polypus growths, tries to pass out through the anus, but is driven back upward, being obstructed in its passage by the vegetations, and then mixes with his Vyana Vayu, thus imparing (the five- functioned) fire (Pitta) in his body. 18-19.
 
 Thus ends the second Chapter of the Nidanasthana in the Sushruta Samhita which deals with the Nidana of piles.
-
-Footnotes and references:
-
-[back to top]
 
 [1]:
 

@@ -20,17 +20,11 @@ This chapter from **Sushruta Samhita (Uttaratantra)** represents the classical s
 
 ---
 
-
 Sushruta Samhita, Volume 6: Uttara-tantra
-
-by Kaviraj Kunja Lal Bhishagratna | 1916 | 113,078 words
 
 This current book, the Uttara-tantra (english translation) is the supplementary part of the Sushrutasamhita and deals various subjects such as diseases of the eye, treatment of fever, diarrhea, diseases resulting from superhuman influences, insanity, rules of health etc.
 
 The Sushruta Samhita is the most representative work of the Hindu system of m...
-
-Go directly to: 
-Footnotes.
 
 Chapter IX - Treatment of Vataja Ophthalmia
 
@@ -49,10 +43,6 @@ Treatment of Shushkakshi-paka:—
 Saindhava, Devadaru and Shunthi and the expressed juice of Matulunga, water, breast-milk and clarified butter mixed together and duly prepared (in the manner of Rasa-kriya) should be prescribed as an Anjana in cases of Shushkakshi-paka. The taking of clarified butter cooked with the drugs of the Jivaniya group and the filling of the cavity of the eye with the same, as well as snuffing with the Anu-taila[4] are also efficacious in such cases. Washes composed of cold milk with the admixture of Saindhava salt or of milk cooked with Rajani and. Deva-daru and mixed with (a little quantity of) Saindhava are efficacious. Mahaushadha (Sunthi) rubbed over a stone-slab with clarified butter and breast-milk is also recommended as an Anjana (eye-salve)[5]. The Vasa (essence of the flesh) of aquatic animals or of those which frequent swampy grounds, mixed with a little quantity of powdered Shunthi and Sanidhava salt (and rubbed on stone-slab) should be applied to the eyes as an Anjana (collyrium) in a case of Shushkakshi-paka (Non-secreting type of conjunctivites). Let the intelligent physician treat the sight-destroying Vataja affections of the eye of what-soever kind in accordance with the principle herein inculcated. 4–5.
 
 Thus ends the ninth Chapter of the Uttara-Tantra in the Sushruta Samhita which deals with the medical treatment of Vataja Abhishyanda.
-
-Footnotes and references:
-
-[back to top]
 
 [1]:
 

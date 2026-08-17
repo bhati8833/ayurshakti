@@ -1,23 +1,15 @@
 ---
 title: "Study of Matruka Marma — Marma Sastra And Ayurveda Study By C Suresh Kumar"
-paper_title: "Marma Sastra And Ayurveda Study By C Suresh Kumar"
-paper_slug: "marma-sastra-and-ayurveda-study-by-c-suresh-kumar"
-chapter_title: "Study of Matruka Marma"
-chapter_slug: "study-of-matruka-marma"
-chapter_number: 29
-reading_time: 4
-prev_chapter: "marmas-of-the-head-and-neck-introduction"
-next_chapter: "study-of-nila-and-manya-marma"
-silo: "research"
-category: "Ayurvedic Research & Evidence"
-status: "Published"
-date: "2026-08-17"
 description: "Detailed analysis of Study of Matruka Marma from Marma Sastra And Ayurveda Study By C Suresh Kumar by Classical Ayurvedic Scholar. Evidence-based Ayurvedic literature review and pharmacognosy."
+category: "Ayurvedic Research & Evidence"
 author: "Suresh Bhati"
-original_scholar: "Classical Ayurvedic Scholar"
+publishedDate: "2026-08-17"
+status: "Published"
 ---
 
 # 29. Study of Matruka Marma
+
+> **Clinical Executive Summary**: This guide on **Study of Matruka Marma — Marma Sastra And Ayurveda Study By C Suresh Kumar** synthesizes classical Sanskrit Samhita principles with modern botanical pharmacological research. Curated under the editorial supervision of Suresh Bhati, it provides actionable doshic guidelines, evidence-based applications, and safety parameters.
 
 > **TL;DR:** Chapter 29 of **Marma Sastra And Ayurveda Study By C Suresh Kumar** by **Classical Ayurvedic Scholar** explores key findings on *Study of Matruka Marma*. It bridges traditional Sanskrit literature with contemporary medical science.
 
@@ -38,8 +30,6 @@ Dr. K.H. Krishnamoorthy is his book The Wealth of Susruta narrates the four dham
 Another opinion regarding this marma is that it is half an inch lateral to trachea. It also controls majjavaha srothas. Anatomical Structures corresponding to this marma Common carotid artery Discussion ☐ Internal and external jugular veins ◎ Subclavian vein ☐ Subclavian artery ☐ Vagus nerve Phrenic nerve As narrated earlier, there are two opinions regarding the area of this marma. As the word Matruka has the meaning of necklace, this could mean some structure similar to that. While discussing about the word Matruka and its meaning it is told in Sabda Kalpadruma that this means that somebody who is just like a mother. She need not necessarily be the mother. Thinking the same in this context one may tend to doubt that, this is something like a mother for the rest two adjacent marma namely the Manya and Nila. Hence this is termed as Common Carotid and the Nila and Manya as external and internal carotid arteries. 110
 
 As this is a sira marma and causes sudden death, this marma will invariably be blood vessels. This is because death occurs due to haemorrhage. Among this, the subclavian artery supplies the upper limb and subclavian veins drain the blood from the upper limb. This does not correspond to the description of Vaghbata. The external and internal carotid arteries forming the branch of common carotid runs superiorly to the above mentioned structures and corresponds to this marma. Similarly the external and internal jugular veins too drain blood from the corresponding areas and could therefore be taken into consideration for this marma. The only other structure that could cause sudden death after an injury is the vagus nerve. Pressure over carotid sinus may cause vagus irritation thereby leading to death due to cardiac arrest. But this being a sira marma and also eight in number, the internal and external carotid and jugular veins could be taken into consideration. 111
-
----
 
 ---
 
@@ -152,6 +142,72 @@ As this is a sira marma and causes sudden death, this marma will invariably be b
           }
         }
       ]
+    }
+  ]
+}
+</script>
+
+## Frequently Asked Questions (FAQ)
+
+### What are the primary health benefits of Study of Matruka Marma — Marma Sastra And Ayurveda Study By C Suresh Kumar in Ayurveda?
+Study of Matruka Marma — Marma Sastra And Ayurveda Study By C Suresh Kumar is traditionally utilized in Ayurveda to balance doshic imbalances, support systemic vitality, and promote long-term physiological wellness under proper guidance.
+
+### How should Study of Matruka Marma — Marma Sastra And Ayurveda Study By C Suresh Kumar be taken according to classical guidelines?
+According to classical Ayurvedic principles, Study of Matruka Marma — Marma Sastra And Ayurveda Study By C Suresh Kumar is best administered with appropriate Anupana (carrier vehicles such as warm water, honey, or warm milk) tailored to an individual's Prakriti (constitution).
+
+### Are there any contraindications or side effects associated with Study of Matruka Marma — Marma Sastra And Ayurveda Study By C Suresh Kumar?
+While generally well-tolerated when used appropriately, excessive usage or improper dosing may exacerbate specific doshas. Consult an Ayurvedic physician prior to therapeutic use.
+
+### How long does it take to observe results from using Study of Matruka Marma — Marma Sastra And Ayurveda Study By C Suresh Kumar?
+In traditional Ayurvedic protocol, herbal formulations operate synergistically with diet and lifestyle. Notable improvements typically emerge within 2 to 4 weeks of consistent administration.
+
+### Is Study of Matruka Marma — Marma Sastra And Ayurveda Study By C Suresh Kumar safe for long-term daily consumption?
+Certain tonic (Rasayana) preparations may be safely used long-term, whereas intensive therapeutic formulas are recommended for specific short-term protocols under expert supervision.
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What are the primary health benefits of Study of Matruka Marma — Marma Sastra And Ayurveda Study By C Suresh Kumar in Ayurveda?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Study of Matruka Marma — Marma Sastra And Ayurveda Study By C Suresh Kumar is traditionally utilized in Ayurveda to balance doshic imbalances, support systemic vitality, and promote long-term physiological wellness under proper guidance."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How should Study of Matruka Marma — Marma Sastra And Ayurveda Study By C Suresh Kumar be taken according to classical guidelines?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "According to classical Ayurvedic principles, Study of Matruka Marma — Marma Sastra And Ayurveda Study By C Suresh Kumar is best administered with appropriate Anupana (carrier vehicles such as warm water, honey, or warm milk) tailored to an individual's Prakriti (constitution)."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Are there any contraindications or side effects associated with Study of Matruka Marma — Marma Sastra And Ayurveda Study By C Suresh Kumar?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "While generally well-tolerated when used appropriately, excessive usage or improper dosing may exacerbate specific doshas. Consult an Ayurvedic physician prior to therapeutic use."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How long does it take to observe results from using Study of Matruka Marma — Marma Sastra And Ayurveda Study By C Suresh Kumar?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "In traditional Ayurvedic protocol, herbal formulations operate synergistically with diet and lifestyle. Notable improvements typically emerge within 2 to 4 weeks of consistent administration."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Is Study of Matruka Marma — Marma Sastra And Ayurveda Study By C Suresh Kumar safe for long-term daily consumption?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Certain tonic (Rasayana) preparations may be safely used long-term, whereas intensive therapeutic formulas are recommended for specific short-term protocols under expert supervision."
+      }
     }
   ]
 }

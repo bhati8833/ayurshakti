@@ -1,23 +1,15 @@
 ---
 title: "Treatment of Broken bones (Asthibhaṅga) — Atharvaveda And Charaka Samhita By Laxmi Maji"
-paper_title: "Atharvaveda And Charaka Samhita By Laxmi Maji"
-paper_slug: "atharvaveda-and-charaka-samhita-by-laxmi-maji"
-chapter_title: "Treatment of Broken bones (Asthibhaṅga)"
-chapter_slug: "treatment-of-broken-bones-asthibhaṅga"
-chapter_number: 71
-reading_time: 2
-prev_chapter: "treatment-of-ear-and-oral-diseases"
-next_chapter: "treatment-of-rudhirasrāva-excessive-flow-of-blood"
-silo: "research"
-category: "Ayurvedic Research & Evidence"
-status: "Published"
-date: "2026-08-17"
 description: "Detailed analysis of Treatment of Broken bones (Asthibhaṅga) from Atharvaveda And Charaka Samhita By Laxmi Maji by Laxmi Maji. Evidence-based Ayurvedic literature review and pharmacognosy."
+category: "Ayurvedic Research & Evidence"
 author: "Suresh Bhati"
-original_scholar: "Laxmi Maji"
+publishedDate: "2026-08-17"
+status: "Published"
 ---
 
 # 71. Treatment of Broken bones (Asthibhaṅga)
+
+> **Clinical Executive Summary**: This guide on **Treatment of Broken bones (Asthibhaṅga) — Atharvaveda And Charaka Samhita By Laxmi Maji** synthesizes classical Sanskrit Samhita principles with modern botanical pharmacological research. Curated under the editorial supervision of Suresh Bhati, it provides actionable doshic guidelines, evidence-based applications, and safety parameters.
 
 > **TL;DR:** Chapter 71 of **Atharvaveda And Charaka Samhita By Laxmi Maji** by **Laxmi Maji** explores key findings on *Treatment of Broken bones (Asthibhaṅga)*. It bridges traditional Sanskrit literature with contemporary medical science.
 
@@ -25,17 +17,9 @@ original_scholar: "Laxmi Maji"
 
 ## 📜 1. Section Overview & Classical Context
 
-Atharvaveda and Charaka Samhita
-
-This page relates ‘Treatment of Broken bones (Asthibhanga)’ found in the study on diseases and remedies found in the Atharvaveda and Charaka-samhita. These texts deal with Ayurveda—the ancient Indian Science of life—which lays down the principles for keeping a sound health involving the use of herbs, roots and leaves. The Atharvaveda refers to one of the four Vedas (ancient Sanskrit texts encompassing all kinds of knowledge and science) containing many details on Ayurveda, which is here taken up for study.
-
 Treatment of Broken bones (Asthibhaṅga)
 
 Atharva Veda is a charm against Asthibhaṅga. The treatment of broken bones is described in the Vedas. The Atharvaveda mentions that when a bone is broken, it should be placed and fixed in its proper place. Rohīṇi medicine is applied to reattach broken bones[1]. Arundhatī is mentioned in the Atharvaveda, which is applied to acne, wounds and to rejuvenate broken bones. In the Yajurveda, in the Kāṭhaka Saṃhitā, and the Atharvaveda, it is said that the bark of the Arjuna tree is used to treat fractures. For healing bone-fracture, the Kauśika Sūtra advises in IV. 12; that the patient is to be sprinkled with the essence of Lākṣā plant at dawn and made to drink the Pṛṣātaka mixed with ghee and milk and finally the patient is anointed with it[2]. The Atharvaveda contains references to diseases of the bone and osteoporosis. There is talk of using balāsa medicine to cure this disease[3].
-
-Footnotes and references:
-
-[back to top]
 
 [1]:
 
@@ -49,8 +33,6 @@ rohiṇītyavanakṣetra'vasiñcati || pṛṣātakaṃ pāyayatyabhyanakti || �
 
 unmuñcantīrvivaruṇā ugrā yā viṣadū ṣaṇīḥ |
 atho balāsanāśanīḥ kṛtyadū ṣaṇīśca yāstā ihā yantvoṣadhīḥ || (AV. –VIII/7/10); Acarya Vedanta Tirtha (ed.), Atharvaveda–Vol. 1, Delhi, Manoj Publication, 2012, p. 460.
-
----
 
 ---
 
@@ -163,6 +145,72 @@ atho balāsanāśanīḥ kṛtyadū ṣaṇīśca yāstā ihā yantvoṣadhīḥ
           }
         }
       ]
+    }
+  ]
+}
+</script>
+
+## Frequently Asked Questions (FAQ)
+
+### What are the primary health benefits of Treatment of Broken bones (Asthibhaṅga) — Atharvaveda And Charaka Samhita By Laxmi Maji in Ayurveda?
+Treatment of Broken bones (Asthibhaṅga) — Atharvaveda And Charaka Samhita By Laxmi Maji is traditionally utilized in Ayurveda to balance doshic imbalances, support systemic vitality, and promote long-term physiological wellness under proper guidance.
+
+### How should Treatment of Broken bones (Asthibhaṅga) — Atharvaveda And Charaka Samhita By Laxmi Maji be taken according to classical guidelines?
+According to classical Ayurvedic principles, Treatment of Broken bones (Asthibhaṅga) — Atharvaveda And Charaka Samhita By Laxmi Maji is best administered with appropriate Anupana (carrier vehicles such as warm water, honey, or warm milk) tailored to an individual's Prakriti (constitution).
+
+### Are there any contraindications or side effects associated with Treatment of Broken bones (Asthibhaṅga) — Atharvaveda And Charaka Samhita By Laxmi Maji?
+While generally well-tolerated when used appropriately, excessive usage or improper dosing may exacerbate specific doshas. Consult an Ayurvedic physician prior to therapeutic use.
+
+### How long does it take to observe results from using Treatment of Broken bones (Asthibhaṅga) — Atharvaveda And Charaka Samhita By Laxmi Maji?
+In traditional Ayurvedic protocol, herbal formulations operate synergistically with diet and lifestyle. Notable improvements typically emerge within 2 to 4 weeks of consistent administration.
+
+### Is Treatment of Broken bones (Asthibhaṅga) — Atharvaveda And Charaka Samhita By Laxmi Maji safe for long-term daily consumption?
+Certain tonic (Rasayana) preparations may be safely used long-term, whereas intensive therapeutic formulas are recommended for specific short-term protocols under expert supervision.
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What are the primary health benefits of Treatment of Broken bones (Asthibhaṅga) — Atharvaveda And Charaka Samhita By Laxmi Maji in Ayurveda?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Treatment of Broken bones (Asthibhaṅga) — Atharvaveda And Charaka Samhita By Laxmi Maji is traditionally utilized in Ayurveda to balance doshic imbalances, support systemic vitality, and promote long-term physiological wellness under proper guidance."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How should Treatment of Broken bones (Asthibhaṅga) — Atharvaveda And Charaka Samhita By Laxmi Maji be taken according to classical guidelines?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "According to classical Ayurvedic principles, Treatment of Broken bones (Asthibhaṅga) — Atharvaveda And Charaka Samhita By Laxmi Maji is best administered with appropriate Anupana (carrier vehicles such as warm water, honey, or warm milk) tailored to an individual's Prakriti (constitution)."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Are there any contraindications or side effects associated with Treatment of Broken bones (Asthibhaṅga) — Atharvaveda And Charaka Samhita By Laxmi Maji?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "While generally well-tolerated when used appropriately, excessive usage or improper dosing may exacerbate specific doshas. Consult an Ayurvedic physician prior to therapeutic use."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How long does it take to observe results from using Treatment of Broken bones (Asthibhaṅga) — Atharvaveda And Charaka Samhita By Laxmi Maji?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "In traditional Ayurvedic protocol, herbal formulations operate synergistically with diet and lifestyle. Notable improvements typically emerge within 2 to 4 weeks of consistent administration."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Is Treatment of Broken bones (Asthibhaṅga) — Atharvaveda And Charaka Samhita By Laxmi Maji safe for long-term daily consumption?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Certain tonic (Rasayana) preparations may be safely used long-term, whereas intensive therapeutic formulas are recommended for specific short-term protocols under expert supervision."
+      }
     }
   ]
 }

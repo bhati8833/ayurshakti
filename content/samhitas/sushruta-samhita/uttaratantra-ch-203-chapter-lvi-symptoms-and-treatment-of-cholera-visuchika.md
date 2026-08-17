@@ -20,17 +20,11 @@ This chapter from **Sushruta Samhita (Uttaratantra)** represents the classical s
 
 ---
 
-
 Sushruta Samhita, Volume 6: Uttara-tantra
-
-by Kaviraj Kunja Lal Bhishagratna | 1916 | 113,078 words
 
 This current book, the Uttara-tantra (english translation) is the supplementary part of the Sushrutasamhita and deals various subjects such as diseases of the eye, treatment of fever, diarrhea, diseases resulting from superhuman influences, insanity, rules of health etc.
 
 The Sushruta Samhita is the most representative work of the Hindu system of m...
-
-Go directly to: 
-Footnotes.
 
 Chapter LVI - Symptoms and Treatment of Cholera (Visuchika)
 
@@ -83,10 +77,6 @@ Treatment:—
 In a case of Anaha due to the presense of Ama, the patient should be treated with emetics and then with digestive medicines and diet according to the prescribed order. The Ama (undigested food) in a case not marked by any vomiting of feces should be treated with fomentation and therapeutic agents of digestive efficacy. Vartis (suppositories) made by pasting the purgative drugs mentioned in connection with the medical treatment of Visuchika together with the urine of a she-buffalo, or of a she-goat or of a ewe or of a she-elephant, or of a cow, should be used. The body of the patient should be first fomented and then the powders of the drugs used in preparing the afore-said Vartis should be blown (into his intestines) through a pipe inserted into his rectum. Decoction should be duly prepared by boiling the drugs of emetic and purgative virtue in cow’s urine. Nirudha Vasti[5] should soon be applied with the above decoction mixed with half as much of cow’s urine[6] and with honey and adding also the powders of Trivrit and salt weighing a Prakuncha (Pala). The procedure laid down in respect of the exhibition of purgatives should be adopted here. Oil duly cooked and boiled with the foregoing drugs should also be injected into the rectum, if necessary, after the manner of an Aunvasana Vasti. 15—16.
 
 Thus ends the fifty-sixth chapter in the Uttara-Tantra of the Sushruta Samhita which deals with the (symptoms and) treatment of Visuchika.
-
-Footnotes and references:
-
-[back to top]
 
 [1]:
 

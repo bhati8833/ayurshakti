@@ -9,19 +9,11 @@ date: "2026-08-17"
 description: "study deals with the ancient Indian Medicine (Ayurveda) in Early Buddhist Literature and studies the Bhesajjakkhandhaka and the Parallels in other Vinaya Canons."
 ---
 
-**Author / Source:** by Hin-tak Sik
-
-
-**Total Chapters/Sections:** 72
-
 ---
 
 ## 1. Chapter 1 - Introduction
 
-
 Bhesajjakkhandhaka (Chapter on Medicine)
-
-by Hin-tak Sik | 2016 | 121,742 words
 
 This study deals with the ancient Indian Medicine (Ayurveda) in Early Buddhist Literature and studies the Bhesajjakkhandhaka and the Parallels in other Vinaya Canons. The word Bhesajja means “medicine” and is the sixth chapter of the Khandhaka, which represents the second book of the Pali Vinaya Pitaka. Other works consulted include the Bhaisajya-s...
 
@@ -33,10 +25,7 @@ Chapter 1 - Introduction
 
 ## 2. Preface
 
-
 Bhesajjakkhandhaka (Chapter on Medicine)
-
-by Hin-tak Sik | 2016 | 121,742 words
 
 This study deals with the ancient Indian Medicine (Ayurveda) in Early Buddhist Literature and studies the Bhesajjakkhandhaka and the Parallels in other Vinaya Canons. The word Bhesajja means “medicine” and is the sixth chapter of the Khandhaka, which represents the second book of the Pali Vinaya Pitaka. Other works consulted include the Bhaisajya-s...
 
@@ -58,10 +47,7 @@ This research makes contributions by presenting Buddhist perspectives on health/
 
 ## 3. Acknowledgements
 
-
 Bhesajjakkhandhaka (Chapter on Medicine)
-
-by Hin-tak Sik | 2016 | 121,742 words
 
 This study deals with the ancient Indian Medicine (Ayurveda) in Early Buddhist Literature and studies the Bhesajjakkhandhaka and the Parallels in other Vinaya Canons. The word Bhesajja means “medicine” and is the sixth chapter of the Khandhaka, which represents the second book of the Pali Vinaya Pitaka. Other works consulted include the Bhaisajya-s...
 
@@ -93,15 +79,9 @@ sukhino vā khemino hontu sabbe sattā bhavantu sukhitattā.
 
 ## 4. Introduction (traditional medicine)
 
-
 Bhesajjakkhandhaka (Chapter on Medicine)
 
-by Hin-tak Sik | 2016 | 121,742 words
-
 This study deals with the ancient Indian Medicine (Ayurveda) in Early Buddhist Literature and studies the Bhesajjakkhandhaka and the Parallels in other Vinaya Canons. The word Bhesajja means “medicine” and is the sixth chapter of the Khandhaka, which represents the second book of the Pali Vinaya Pitaka. Other works consulted include the Bhaisajya-s...
-
-Go directly to: 
-Footnotes.
 
 Introduction (traditional medicine)
 
@@ -135,10 +115,6 @@ Does Buddhist literature contain any medical information? If yes, which texts ar
 
 In the Buddhist literature, there is a Vinaya (monastic discipline) text which is rich in medical material. It is the Bhesajjakkhandhaka of the Theravāda Vinaya, and its parallel receptions in other Vinaya versions.[5] This text, available in several extant Vinaya canons, is an informative source for studying ancient Indian medicine recorded in early Buddhist literature. It records numerous cases of diseases and remedies for them, as well as copious medicinal substances.[6] However, such medical data in various versions of this text are succinct and difficult to understand. Moreover, they have not been comprehensively investigated. This text therefore is an essential source for the present study that will attempt to examine extensively and interpret the medical information contained in the text, with the cases of diseases and remedies and the medicinal substances forming the foci. In the following section, scholarly literature which studies this text will be reviewed and the insufficiency of the works will be shown.
 
-Footnotes and references:
-
-[back to top]
-
 [1]:
 
 See the Dhammacakkappavattana Sutta (Discourse on Setting the Wheel of Dhamma in Motion) of the Saṃyutta Nikāya (Saṃyutta Nikāya V. 420 ff.). The other three Noble Truths are: the Noble Truth of the Origin of Suffering; the Noble Truth of Cessation of Suffering; and the Noble Truth of the Way Leading to the Cessation of Suffering.
@@ -167,15 +143,9 @@ Description of the contents of the Chapter on Medicine will be found in Section 
 
 ## 5. Literature Review
 
-
 Bhesajjakkhandhaka (Chapter on Medicine)
 
-by Hin-tak Sik | 2016 | 121,742 words
-
 This study deals with the ancient Indian Medicine (Ayurveda) in Early Buddhist Literature and studies the Bhesajjakkhandhaka and the Parallels in other Vinaya Canons. The word Bhesajja means “medicine” and is the sixth chapter of the Khandhaka, which represents the second book of the Pali Vinaya Pitaka. Other works consulted include the Bhaisajya-s...
-
-Go directly to: 
-Footnotes.
 
 Literature Review
 
@@ -206,10 +176,6 @@ Another group of works includes those which discuss health or medical matters fo
 In one of his articles, “Yindu fojiao yixüe gaishuo 印度佛教醫學概說” (An overview of Indian Buddhist medicine) (1999), he briefly expounds on Buddhist medical principles and practices (e.g. four great elements, three causes of illness, medical treatments, healing rituals, etc.), together with a brief overview of the medicinal substances found in the Vinaya literature including the Chapter on Medicine. In one of his monographs, Yindu fanwen yidian “Yili jinghua” yanjiu 印度梵文醫典《醫理精華》硏究 (A Study of an Indian Sanskrit Medical Text, the Siddhasāra) (2002), while studying the Siddhasāra,[8] he compares the medical doctrines and medicinal substances in this text with those in various Buddhist discourses and discipline texts in the Chinese Buddhist canon, including the different versions of the Chapter on Medicine. Meng Haigui 孟海貴 (2000), in his essay “Fotuo, foshuo, foyi 佛陀 佛學 佛醫” (The Buddha, the Buddhist studies, the Buddhist medicine), embraces the Buddhist medical principles mentioned in the Discourse on the Buddha’s Exposition of Buddhist Medicine (Taishō Tripiṭaka 793) (e.g. four great elements and their associated illnesses, ten causes of sickness, etc.) and lists the medicinal substances recorded in the Mūlasarvāstivāda Bhaiṣajyavastu. Kageyama has one essay, “律藏経典群に見える仏教医学について–律藏とインド古典医学の比較から” (On Buddhist medicine in the Vinaya Piṭaka–By comparing Vinaya and classical Indian texts) (2000), chiefly comparing the medicinal substances (e.g. animal fats, roots, decoctions, leaves, etc.) in the Vinaya texts (mainly the Chapter on Medicine) with those in the Āyurvedic treatises (e.g. the Aṣṭāṅga Hṛdaya). Kageyama’s another article, “律蔵群に見えるインド仏教の医療観” (The Indian Buddhist perspectives on healing as seen in the Vinayas) (2007), describes the medical cases and remedies (e.g. autumnal disease, eye problem, etc.) found in the VPs (including the Chapter on Medicine). In the book Bukkyō igaku no michi o saguru 仏教医学の道を探る (Investigating the Way of Buddhist Medicine) written by Nanba Tsuneo 難波恒雄 and Komatsu Katsuko 小松かつ子 (2000), there is a chapter discussing briefly the nature and functions of the drugs mainly listed in the Chapter on Medicine. Shi Shunrong 釋舜融 (2003), in his essay “‘Sifenlü’ jiandupian zhong dui lao bing biqiu de guanhuai chutan 《四分律》犍度篇中對老、病比丘的關懷初探 (A preliminary investigation of the care for the aged or sick monks in the Skandhaka section of the Dharmaguptaka Vinaya), studied the details about caring for the monks who were aged or sick, and mentions the accounts of remedies (e.g. sevenday medicines for autumnal disease, nasal douching for headache, etc.) in the Bhaiṣajyaskandhaka. In his book Fojiao yu kexue: jiyu fozang wenxian de yanjiu 佛 教與科學: 基于佛藏文獻的研究 (Buddhism and Science: A Study Based on the Chinese Tripitaka) which explores Buddhism and sciences (2007), Ma Zhonggeng 馬忠庚 has written a lengthy chapter on Buddhism and medicine, citing a lot of the data on medicine, surgery, and drugs from the Chapter on Medicine. Rachita Chaudhuri’s Buddhist Education in Ancient India (2008) makes reference to the medical material (e.g. facts on drugs and remedies for diseases) in the Pāli Bhesajjakkhandhaka while depicting education on medical science and surgery in ancient India.[9]
 
 From the above review, several points can be noted: (i) the majority of the scholarly works are based on one or two versions of the Chapter on Medicine, mostly the Theravāda Bhesajjakkhandhaka, while the other versions are much less explored; (ii) the majority of the works are descriptive in nature, and they lack detailed comparison, analysis, or interpretation of the medical facts in the Chapter on Medicine; (iii) the studies often focus on particular scope(s) and hence are not comprehensive; (iv) in many short works the medical data in the Chapter on Medicine are cited and used for general discussions of Buddhist medicine, but they are not examined in detail; and (v) most of these works lack interpretations of the medical details in terms of modern knowledge or terminology. Therefore, it can be seen that extensive research of the Chapter on Medicine, which investigates ancient Indian medical lore, is wanting. A detailed examination and interpretation of such medical material–based on all versions of the Chapter on Medicine–is definitely needed.
-
-Footnotes and references:
-
-[back to top]
 
 [1]:
 
@@ -251,15 +217,9 @@ There are yet other scholarly works which are about medicine in Buddhism or in B
 
 ## 6. Research Questions and Aims of the Study
 
-
 Bhesajjakkhandhaka (Chapter on Medicine)
 
-by Hin-tak Sik | 2016 | 121,742 words
-
 This study deals with the ancient Indian Medicine (Ayurveda) in Early Buddhist Literature and studies the Bhesajjakkhandhaka and the Parallels in other Vinaya Canons. The word Bhesajja means “medicine” and is the sixth chapter of the Khandhaka, which represents the second book of the Pali Vinaya Pitaka. Other works consulted include the Bhaisajya-s...
-
-Go directly to: 
-Footnotes.
 
 Research Questions and Aims of the Study
 
@@ -289,10 +249,6 @@ The medical material in the Chapter on Medicine lacks details or explanations. W
 
 Lastly, for studying the ancient medical information in the Chapter on Medicine, a suitable method is required. The method devised for the present research–a three-fold interpretative method–will be detailed in the next section. Such a method not only can be used for examining the medical cases and drugs in the Chapter on Medicine, but also can be applied for examining medical material found in other Buddhist texts (or even other historical documents).
 
-Footnotes and references:
-
-[back to top]
-
 [1]:
 
 Description of the Vinaya canon is found in Section 2. 2 in Chapter Two.
@@ -305,10 +261,7 @@ See Chapter Four and Chapter Five of this thesis for the discussions and interpr
 
 ## 7. Chapter 2 - Background Information
 
-
 Bhesajjakkhandhaka (Chapter on Medicine)
-
-by Hin-tak Sik | 2016 | 121,742 words
 
 This study deals with the ancient Indian Medicine (Ayurveda) in Early Buddhist Literature and studies the Bhesajjakkhandhaka and the Parallels in other Vinaya Canons. The word Bhesajja means “medicine” and is the sixth chapter of the Khandhaka, which represents the second book of the Pali Vinaya Pitaka. Other works consulted include the Bhaisajya-s...
 
@@ -320,10 +273,7 @@ Chapter 2 - Background Information
 
 ## 8. History of Indian Medicine—Up to the Buddha’s Time
 
-
 Bhesajjakkhandhaka (Chapter on Medicine)
-
-by Hin-tak Sik | 2016 | 121,742 words
 
 This study deals with the ancient Indian Medicine (Ayurveda) in Early Buddhist Literature and studies the Bhesajjakkhandhaka and the Parallels in other Vinaya Canons. The word Bhesajja means “medicine” and is the sixth chapter of the Khandhaka, which represents the second book of the Pali Vinaya Pitaka. Other works consulted include the Bhaisajya-s...
 
@@ -349,15 +299,9 @@ The medical data of the śramaṇ-ic phase are found preserved in the early Budd
 
 ## 9. Background Information
 
-
 Bhesajjakkhandhaka (Chapter on Medicine)
 
-by Hin-tak Sik | 2016 | 121,742 words
-
 This study deals with the ancient Indian Medicine (Ayurveda) in Early Buddhist Literature and studies the Bhesajjakkhandhaka and the Parallels in other Vinaya Canons. The word Bhesajja means “medicine” and is the sixth chapter of the Khandhaka, which represents the second book of the Pali Vinaya Pitaka. Other works consulted include the Bhaisajya-s...
-
-Go directly to: 
-Footnotes.
 
 Background Information
 
@@ -377,31 +321,21 @@ Why are these four scopes covered as background information? To begin with, the 
 
 Many scholars have conducted much research on the history of Indian medicine as well as on the Vinaya Piṭaka, and their fruitful results will be relied on for depicting the facts in the first two parts–that is, the information of Indian medical history up to the Buddha’s time, and that of the Vinaya Piṭaka, the Skandhaka and the Chapter on Medicine.[2] For the part on the history and principles of Āyurvedic medicine, classical Indian medical texts and contemporary Āyurvedic works will be consulted. Likewise, for the part on the history and principles of biomedicine, modern medical literature will be relied on.
 
-Footnotes and references:
-
-[back to top]
-
 [1]:
 
-The dating of the historical Buddha is a complex issue. There is no reliable information on the Buddha’s dates and no consensus has been reached. It is not within the scope of this study to delve into this difficult topic, but a brief description on it is provided here. According to Bechert (2004, 82), there are several hypotheses: (i) the Theravāda tradition calculates the demise of the Buddha to be in 544 or 543 Before Common Era, 218 years before the enthronement of Emperor Aśoka; (ii) most of the scholars, based on the exact dates for Emperor Aśoka, calculate the year of the demise of the Buddha to be 487 or 486 Before Common Era (this is known as the long chronology); (iii) based on certain Buddhist texts of the Mūlasarvāstivāda tradition and historical references of the Theravāda tradition, the Buddha’s parinirvāṇa is dated at 100 years before the reign of Emperor Aśoka, or 368 Before Common Era (this is known as the short chronology); (iv) later texts of East Asian and Tibetan traditions suggest a variety of earlier dates. Although there is no conclusion on the dating of the Buddha, Bechert expresses that “it is safe to suppose that the Buddha passed away some time between 420 Before Common Era and 350 Before Common Era at the age of approximately eighty years” (2004, 82).
+The dating of the historical Buddha is a complex issue. There is no reliable information on the Buddha’s dates and no consensus has been reached. It is not within the scope of this study to examine this difficult topic, but a brief description on it is provided here. According to Bechert (2004, 82), there are several hypotheses: (i) the Theravāda tradition calculates the demise of the Buddha to be in 544 or 543 Before Common Era, 218 years before the enthronement of Emperor Aśoka; (ii) most of the scholars, based on the exact dates for Emperor Aśoka, calculate the year of the demise of the Buddha to be 487 or 486 Before Common Era (this is known as the long chronology); (iii) based on certain Buddhist texts of the Mūlasarvāstivāda tradition and historical references of the Theravāda tradition, the Buddha’s parinirvāṇa is dated at 100 years before the reign of Emperor Aśoka, or 368 Before Common Era (this is known as the short chronology); (iv) later texts of East Asian and Tibetan traditions suggest a variety of earlier dates. Although there is no conclusion on the dating of the Buddha, Bechert expresses that “it is safe to suppose that the Buddha passed away some time between 420 Before Common Era and 350 Before Common Era at the age of approximately eighty years” (2004, 82).
 
 [2]:
 
-The history of ancient Indian medicine and that of Indian Buddhism (which is relevant for the origin of the Buddhist canon) still have many controversies, due to the fact that the historical events were not accurately recorded, as well as that the records often were filled with myths and legends. This makes concise (and precise) descriptions for the preliminary information not easy at all. This chapter has no intention to delve into these controversies, for they are not within the aim of this study.
+The history of ancient Indian medicine and that of Indian Buddhism (which is relevant for the origin of the Buddhist canon) still have many controversies, due to the fact that the historical events were not accurately recorded, as well as that the records often were filled with myths and legends. This makes concise (and precise) descriptions for the preliminary information not easy at all. This chapter has no intention to examine these controversies, for they are not within the aim of this study.
 
 ---
 
 ## 10. Outlines of Chapters
 
-
 Bhesajjakkhandhaka (Chapter on Medicine)
 
-by Hin-tak Sik | 2016 | 121,742 words
-
 This study deals with the ancient Indian Medicine (Ayurveda) in Early Buddhist Literature and studies the Bhesajjakkhandhaka and the Parallels in other Vinaya Canons. The word Bhesajja means “medicine” and is the sixth chapter of the Khandhaka, which represents the second book of the Pali Vinaya Pitaka. Other works consulted include the Bhaisajya-s...
-
-Go directly to: 
-Footnotes.
 
 Outlines of Chapters
 
@@ -417,10 +351,6 @@ In Chapter Five the cases of various diseases and their remedies recorded in the
 
 Chapter Six is the Conclusion Chapter. It will first summarise what has been covered in this thesis. Contributions and limitations of the present study will then be discussed. Possible further studies on medicine or medically related topics in Buddhist scriptures, as well as any implications of the findings in this research to modern healthcare, will also be explored.
 
-Footnotes and references:
-
-[back to top]
-
 [1]:
 
 The reasons for relying on such Buddhist texts will be explained in Chapter Three.
@@ -429,15 +359,9 @@ The reasons for relying on such Buddhist texts will be explained in Chapter Thre
 
 ## 11. Methodology and Sources
 
-
 Bhesajjakkhandhaka (Chapter on Medicine)
 
-by Hin-tak Sik | 2016 | 121,742 words
-
 This study deals with the ancient Indian Medicine (Ayurveda) in Early Buddhist Literature and studies the Bhesajjakkhandhaka and the Parallels in other Vinaya Canons. The word Bhesajja means “medicine” and is the sixth chapter of the Khandhaka, which represents the second book of the Pali Vinaya Pitaka. Other works consulted include the Bhaisajya-s...
-
-Go directly to: 
-Footnotes.
 
 Methodology and Sources
 
@@ -482,10 +406,6 @@ Before outlining the chapters of this thesis in the following section, there are
 Another term that requires clarification is “biomedicine”. In this thesis, this term is used instead of “Western medicine”. This is due to several reasons: (i) modern medicine is predominantly based on the bio-scientific paradigm, even though other fields such as psychological medicine, behavioural medicine, social medicine etc. are present; (ii) it is now used worldwide, not only in Western countries; and (iii) Western communities also employ other modes of treatment such as religious healing, folk and popular therapies indigenous to the West, and alternative Western remedies (e.g. osteopathy, homeopathy, chiropractic, naturopathy etc.) (Kleinman 1993, 16). Another term, “modern medicine”, will also be used to refer to biomedicine.
 
 Yet another term is “Buddhist medicine”. Some scholars use this term.[18] [19] Is Buddhist medicine a range of medical remedies, or a medical system/tradition? Some of these scholars refer to this term as the medical perspectives or practices found in Buddhist literature. For instance, Salguero expresses: “‘Buddhist medicine’ is a convenient shorthand for discussing Buddhist perspectives of disease, healing, and the body. … Embedded in Buddhist scriptures and practices, these ideas were spread …” (2010, 1-2). Naqvi appears to denote this term as “the practice of medicine and surgery by the Buddhists” and “the medical achievements of the Buddhists” (Naqvi 2011, xviii). However, East Asian scholars seem unanimously to apply this term as a special medical system. So, is there a system of Buddhist medicine? In early Buddhist literature, lists of diseases (classification of diseases) and depiction of causes of physical suffering (aetiology) are noted, as shown in the Girimānanda Sutta (Discourse to Girimānanda) of the Aṅguttara Nikāya (Aṅguttara Nikāya V. 108-112). Including the various therapies recorded in the Chapter on Medicine, it seems that there prevails a medical system in the early Buddhist literature which mostly conforms to the above characteristics of a medical system.[20] However, looking at the Chapter on Medicine, it can be noted that the Buddha was prescribing various remedies for the sick monks, and it is reasonable to assume that the Buddha already possessed certain medical knowledge.[21] Although this is not clearly reported in early Buddhist scriptures, the Buddha, when he was still a prince, could have received training in various skills, including medical knowledge, as his father (King Śuddhodana) aspired for his son to be a universal monarch and would have provided a supreme education for his son.[22] Furthermore, according to Zysk, some Buddhist wandering ascetics (Pāli: samaṇa; Sanskrit: śramaṇa) certainly had learned the healing arts, and such knowledge could have been brought into the monastic community and recorded in the Vinaya literature (Zysk 1991, 27).[23] Such Buddhist medical lore thus would have come from the then existing Indian medical tradition, which was incorporated into the Buddhist doctrine.[24] The early Buddhist community seemed not to have had a unique medical system of its own, with its own special theory and practice.[25] In this thesis, therefore, the term “Buddhist medicine” has the notion not of a distinctive medical system, but as medical lore preserved in early Buddhist literature.
-
-Footnotes and references:
-
-[back to top]
 
 [1]:
 
@@ -599,15 +519,9 @@ Whether a Buddhist medical system was developed in the later history of Buddhism
 
 ## 12. History of Indian Medicine (a): Pre-Vedic Phase
 
-
 Bhesajjakkhandhaka (Chapter on Medicine)
 
-by Hin-tak Sik | 2016 | 121,742 words
-
 This study deals with the ancient Indian Medicine (Ayurveda) in Early Buddhist Literature and studies the Bhesajjakkhandhaka and the Parallels in other Vinaya Canons. The word Bhesajja means “medicine” and is the sixth chapter of the Khandhaka, which represents the second book of the Pali Vinaya Pitaka. Other works consulted include the Bhaisajya-s...
-
-Go directly to: 
-Footnotes.
 
 History of Indian Medicine (a): Pre-Vedic Phase
 
@@ -622,10 +536,6 @@ Surgical techniques might also have been present. Skeletal skulls showing signs 
 Another piece of evidence is the possible worship of healing deities or persons. From the excavated remains, some images and statues were found. These objects suggest the likely worship of the deities in various things in this ancient culture. For instance, images of the pīpal tree goddess and the pīpal leaf have been noticed. Since the worship of medicinal plant deities is known in the Vedic period, and that this plant, the pīpal tree, is present in the materia medica of later Indian medicine, it suggests that–probably at the time of this ancient culture–medicinal plants had been discovered for their healing efficacy and hence the worship of them (Basham 2004, 24; Wujastyk 1993, 756; Zysk 1996, 3). In addition, images of Indus ascetics on some seals found in Harappā and Mohenjo Dāro might represent shamans who could have acted as healers, like the shamans in many ancient cultures. If this is correct, these ascetic-shamans could have performed magical rituals (such as chanting, dancing, use of special herbs and amulets, exorcisms, etc.) as healing activities (Zysk 1991, 12-13).
 
 The Indus Valley Civilisation gradually declined and eventually collapsed in the mid-second millennium Before Common Era.[4] No medical knowledge of this civilisation has been left to us. However, as depicted above, this civilisation was a highly developed one. There is evidence pointing to its practice of public and personal health. Certain forms of medicine and healers could have existed. Although the medical lore of this civilisation is completely unknown, Basham (1976, 18) wisely suggests: “… as in many other features of Indian life, the Harappā Culture contained the seeds of much that was characteristic of later Indian medicine.”
-
-Footnotes and references:
-
-[back to top]
 
 [1]:
 
@@ -647,15 +557,9 @@ The exact causes for this decline and collapse are not fully known, but scholars
 
 ## 13. History of Indian Medicine (b): Vedic Phase
 
-
 Bhesajjakkhandhaka (Chapter on Medicine)
 
-by Hin-tak Sik | 2016 | 121,742 words
-
 This study deals with the ancient Indian Medicine (Ayurveda) in Early Buddhist Literature and studies the Bhesajjakkhandhaka and the Parallels in other Vinaya Canons. The word Bhesajja means “medicine” and is the sixth chapter of the Khandhaka, which represents the second book of the Pali Vinaya Pitaka. Other works consulted include the Bhaisajya-s...
-
-Go directly to: 
-Footnotes.
 
 History of Indian Medicine (b): Vedic Phase
 
@@ -675,10 +579,6 @@ During the Vedic phase, the duty of healers (bhiṣaj) was to remove diseasedemo
 
 Indian medicine of the Vedic phase, as shown in the Vedas, has revealed an early form of medical lore. The medical knowledge in this period is characterised by magico-religious pathology and treatment: diseases were thought to be caused by gods or demons, and therapies involved pleading to healing deities and/or removing demonic forces through religious activities and objects. Other interventions such as bone-setting and simple surgical procedures were also practised. The empiricorational mode of diagnosis and therapy had appeared. Plenty of anatomical terms, rich pharmacopoeia, and the early stage of physiology were there in the Vedas. Healers apparently were belittled. Although being skilful and knowledgeable in healing, being respected by people and getting good earnings, they were looked down upon by the brahmins. This situation, according to scholars, can have led to the subsequent śramaṇ-ic phase of Indian medicine. This will be explained in the following subsection.
 
-Footnotes and references:
-
-[back to top]
-
 [1]:
 
 According to Basham (2004, 29), there are other hypotheses in relation to the origin of the Āryans. However, since the late twentieth century, there is an increasing number of scholars who criticise and reject the ideas of an Āryan race and the Āryan invasion to India (Encyclopædia Britannica Online (Encyclopӕdia Britannica Online), s.v. “Aryan” [accessed June 16, 2015, http://academic.eb.com/EBchecked/topic/37468/Aryan]).
@@ -695,15 +595,9 @@ The practice of divination, which was known in some ancient medical traditions, 
 
 ## 14. History of Indian Medicine (c): Shramanic Phase
 
-
 Bhesajjakkhandhaka (Chapter on Medicine)
 
-by Hin-tak Sik | 2016 | 121,742 words
-
 This study deals with the ancient Indian Medicine (Ayurveda) in Early Buddhist Literature and studies the Bhesajjakkhandhaka and the Parallels in other Vinaya Canons. The word Bhesajja means “medicine” and is the sixth chapter of the Khandhaka, which represents the second book of the Pali Vinaya Pitaka. Other works consulted include the Bhaisajya-s...
-
-Go directly to: 
-Footnotes.
 
 History of Indian Medicine (c): Shramanic Phase
 
@@ -716,10 +610,6 @@ Zysk’s influential theory–that the physicians became more associated with th
 Another piece of evidence supporting Zysk’s proposition comes from an ancient Greek account. It is recorded, in Geography, composed by Strabo, an ancient Greek philosopher and historian in early first century Common Era, that a Greek ambassador to India, Megasthenes, at the time of Emperor Aśoka (reign 268-232 Before Common Era), had noted two kinds of philosophers: the brahmins (brachmanes; βραχμᾶνες) and the wandering ascetics (sarmanes; σαρμᾶνες).[7] According to this account, there was a kind of physician belonging to the group of wandering ascetics. These physicians were similar to the ascetics in living and they practised medicine with both medicinal substances and magical rituals/objects (Majumdar 1960, 275). This evidence supports the close relationship between the physicians and the wandering ascetics, and the probable involvement of the ascetics in the development of ancient Indian medicine.
 
 The intervening gap in the history of ancient Indian medicine–between the religious and magical medicine of the Vedic phase and the systematised and empirical medicine of the Āyurveda–has now been investigated and explained by scholars’ research. By examining the social situation of the healers, the medical material preserved in Buddhist literature and the foreign records, it is believed that the śrāmaṇas played a significant role in the development of Indian medicine. The physicians at this time, being marginalised by the priestly order, wandered around to practise healing and to gain new medical knowledge. Due to their association with the śramaṇas, a lot of such new empirical medical lore has been developed amongst the śramaṇas and kept in their records especially the early Buddhist Vinaya literature.
-
-Footnotes and references:
-
-[back to top]
 
 [1]:
 
@@ -753,15 +643,9 @@ Thanks to Professor Halkias for providing these two Greek terms.
 
 ## 15. (b) The Skandhaka
 
-
 Bhesajjakkhandhaka (Chapter on Medicine)
 
-by Hin-tak Sik | 2016 | 121,742 words
-
 This study deals with the ancient Indian Medicine (Ayurveda) in Early Buddhist Literature and studies the Bhesajjakkhandhaka and the Parallels in other Vinaya Canons. The word Bhesajja means “medicine” and is the sixth chapter of the Khandhaka, which represents the second book of the Pali Vinaya Pitaka. Other works consulted include the Bhaisajya-s...
-
-Go directly to: 
-Footnotes.
 
 (b) The Skandhaka
 
@@ -979,10 +863,6 @@ Adhikaraṇa-vastu (rTsod pa’i gzhi),
 
 Saṃghabheda-vastu (dGe dun dbyen pa’i gzhi).[14]
 
-Footnotes and references:
-
-[back to top]
-
 [1]:
 
 According to Yinshun (2002, 251 ff.), from this Mātṛkā, different Sthavira schools further developed this text which became their own Skandhakas. The Mahāsāmghika school did not progress further and hence the Varga section remains as the Mātṛkā form.
@@ -1045,15 +925,9 @@ The Vinayakṣudrakavastu is a huge text in the Mūlasarvāstivāda Vinaya. In t
 
 ## 16. (c) The Bhesajjakkhandhaka (Chapters on Medicine)
 
-
 Bhesajjakkhandhaka (Chapter on Medicine)
 
-by Hin-tak Sik | 2016 | 121,742 words
-
 This study deals with the ancient Indian Medicine (Ayurveda) in Early Buddhist Literature and studies the Bhesajjakkhandhaka and the Parallels in other Vinaya Canons. The word Bhesajja means “medicine” and is the sixth chapter of the Khandhaka, which represents the second book of the Pali Vinaya Pitaka. Other works consulted include the Bhaisajya-s...
-
-Go directly to: 
-Footnotes.
 
 (c) The Bhesajjakkhandhaka (Chapters on Medicine)
 
@@ -1080,10 +954,6 @@ Moreover, the close similarity of the contents of the Chapters on Medicine (whic
 The main subject of the Chapter on Medicine is in relation to the matters on medicines and food/drink. The contents of the Chapter on Medicine can be regarded as two major areas. The first area deals with the various medicinal substances (and certain medical tools) permissible for monastic members, the rules of their usage and storage, and the remedies for some illnesses. The second area concerns the Buddha’s journey to many places, and the laying down of rules relating to food/drink and the narratives about food offerings (dāna) during the journey. These rules pertain to the types of food and drink allowable for monks (and nuns), the means and place for storage, relaxation of restrictions on cooking and storage during drought, acceptance of meals, and so on.[5]
 
 The contents of different versions of the Chapter on Medicine are generally consistent with each other, with three special remarks to be noted: (i) the Mahīśāsaka version is divided into two separate parts: one on medicine and another on food; (ii) the Mūlasarvāstivāda version, though the data on medicine and food are similar to those of other versions, is much bulkier than the others, due to the inclusion of a lot of narratives of avadāna (biographies of monks/nuns) and jātaka (tales of previous births of the Buddha); (iii) the Mahāsāṃghika version has no separate chapter, but the contents on medicines/food are scattered in the Varga text.[6]
-
-Footnotes and references:
-
-[back to top]
 
 [1]:
 
@@ -1113,15 +983,9 @@ A comparative table listing the items of various sections (including the Chapter
 
 ## 17. The Vinaya Piṭaka, Skandhaka, and Bhesajjakkhandhaka
 
-
 Bhesajjakkhandhaka (Chapter on Medicine)
 
-by Hin-tak Sik | 2016 | 121,742 words
-
 This study deals with the ancient Indian Medicine (Ayurveda) in Early Buddhist Literature and studies the Bhesajjakkhandhaka and the Parallels in other Vinaya Canons. The word Bhesajja means “medicine” and is the sixth chapter of the Khandhaka, which represents the second book of the Pali Vinaya Pitaka. Other works consulted include the Bhaisajya-s...
-
-Go directly to: 
-Footnotes.
 
 The Vinaya Piṭaka, Skandhaka, and Bhesajjakkhandhaka
 
@@ -1155,10 +1019,6 @@ The Chapter on Medicine deals with two major areas: medicines and food/drink. It
 
 In the next section, a brief history of Āyurveda and its basic principles will be outlined, so that the readers can equip themselves with some fundamental Āyurvedic knowledge before reading the discussion and interpretation in Chapters Four and Five, which deal with medicinal drugs and diseases/treatments respectively.
 
-Footnotes and references:
-
-[back to top]
-
 [1]:
 
 The other two divisions are the Sūtra Piṭaka (“Basket of the Discourses”) and the Abhidharma Piṭaka (“Basket of the Higher Analytic Doctrines”), though the latter is believed to be later addition than the other two parts. That is, the Sūtra Piṭaka and the Vinaya Piṭaka are early components in Buddhist literature.
@@ -1167,15 +1027,9 @@ The other two divisions are the Sūtra Piṭaka (“Basket of the Discourses”)
 
 ## 18. (a) The Vinaya Piṭaka
 
-
 Bhesajjakkhandhaka (Chapter on Medicine)
 
-by Hin-tak Sik | 2016 | 121,742 words
-
 This study deals with the ancient Indian Medicine (Ayurveda) in Early Buddhist Literature and studies the Bhesajjakkhandhaka and the Parallels in other Vinaya Canons. The word Bhesajja means “medicine” and is the sixth chapter of the Khandhaka, which represents the second book of the Pali Vinaya Pitaka. Other works consulted include the Bhaisajya-s...
-
-Go directly to: 
-Footnotes.
 
 (a) The Vinaya Piṭaka
 
@@ -1235,10 +1089,6 @@ The followings are brief descriptions of the six extant Vinaya Piṭakas:[15]
 
 6. The Mūlasarvāstivāda Vinaya Piṭaka, a voluminous Vinaya which was finished quite late, has been preserved in quite substantial Sanskrit fragments, as well as in Chinese and Tibetan translations. The Sanskrit fragments, mostly found in Gilgit and some in Bamiyan (discovered in 1931 and 1932 respectively) (Hirakawa 1960, 95), cover the Bhikṣu-prātimokṣa and large parts of the Vinayavastu. The Chinese version of this Vinaya (Taishō Tripiṭaka 1442-1451 of the Chinese canon) is partial. It was translated by Yijing 義淨 in 703-713 Common Era (Yamagiwa 1994, 105). The possibly whole version[18] was translated into Tibetan in the ninth century by several Indian scholars and translators such as Sarvajñadeva, Vidyākaraprabha, Dharmākara, Jinamitra, Klu’i rgyal-mtshan, Dpal-gyi lhunpo, Dpal brtsegs, Dpal’byor, etc. (Banerjee 1957, 80). This Vinaya consist of five components:[19] (i) the Prātimokṣa sūtra and the Vinayavibhaṅga of the bhikṣus, (ii) the Prātimokṣa sūtra and the Vinayavibhaṅga of the bhikṣuṇīs, (iii) the Vinayavastu, (iv) the Vinayakṣudrakavastu, and (v) the Vinayottaragrantha.[20] This Vinaya, as Yamagiwa (1994, 105) describes, is characterised by plenty of narrative material (avadāna and jātaka tales).
 
-Footnotes and references:
-
-[back to top]
-
 [1]:
 
 The first letter of this term “vinaya” will be capitalised when the term refers to the Buddhist texts; otherwise it will be in small letter when the term is used to mean monastic rules.
@@ -1261,7 +1111,7 @@ Arhat (Pāli: arahant) literally means a worthy one. It refers to a saint who ha
 
 [6]:
 
-The above brief account on the compilation of the Vinaya Piṭaka at the First Council has material synthesised from various scholars’ works. See Dhammajoti 2008: xii;Dhammavihari 2009, 633; Geiger 2004, 9-11; Lamotte 1988, 171; Misra 1972, 12;Nietupski 2005, 1259-1260; von Hinüber 1995, 15; Witanachchi 2009b, 651;Yamagiwa 1994, 102; Yinshun 2002, 3 (of prefix), 19, 24. It is not within the scope of this study to delve into the origin and development of the Buddhist canon or the Vinaya Piṭaka. For the detailed (and complex) arguments on the gradual development of the original Buddhist canon or of the Vinaya Piṭaka, see Dhirasekera 2007, 22 ff.; Hirakawa 1960, 5 ff.; Holt 1995, 29-46; Law 2000, 29-66; Oldenberg 1997, ix ff.; Rhys Davids 2007, 109-126; Yinshun 2002. Another important piece of supporting evidence for the continuing collection (and authentication of the materials) into the canonical literature is the Four Great Instructions (Pāli: mahāpadesa; Chinese: 四大廣說, 四大廣演, 四大教法, 四大處, 四廣大說, 四大印) laid down by the Buddha. These four instructions form the four-fold criterion used for the acceptance of the heard materials as real teachings, and hence for the later process of continuous compilation and authentication of the newly collected materials. This criterion relates to that any teaching, either heard from the Buddha, from the saṅgha, from many monks, or from one monk, should be checked with the teachings in the discourses and disciplinary texts. If it conforms to such teachings, it can be regarded as authentic instruction and can be included into the teachings (Dīgha Nikāya II. 123-126; Aṅguttara Nikāya II. 167-170; Dhammajoti 2008, xiv-xvi; Yinshun 2002, 22-24).
+The above brief account on the compilation of the Vinaya Piṭaka at the First Council has material synthesised from various scholars’ works. See Dhammajoti 2008: xii;Dhammavihari 2009, 633; Geiger 2004, 9-11; Lamotte 1988, 171; Misra 1972, 12;Nietupski 2005, 1259-1260; von Hinüber 1995, 15; Witanachchi 2009b, 651;Yamagiwa 1994, 102; Yinshun 2002, 3 (of prefix), 19, 24. It is not within the scope of this study to examine the origin and development of the Buddhist canon or the Vinaya Piṭaka. For the detailed (and complex) arguments on the gradual development of the original Buddhist canon or of the Vinaya Piṭaka, see Dhirasekera 2007, 22 ff.; Hirakawa 1960, 5 ff.; Holt 1995, 29-46; Law 2000, 29-66; Oldenberg 1997, ix ff.; Rhys Davids 2007, 109-126; Yinshun 2002. Another important piece of supporting evidence for the continuing collection (and authentication of the materials) into the canonical literature is the Four Great Instructions (Pāli: mahāpadesa; Chinese: 四大廣說, 四大廣演, 四大教法, 四大處, 四廣大說, 四大印) laid down by the Buddha. These four instructions form the four-fold criterion used for the acceptance of the heard materials as real teachings, and hence for the later process of continuous compilation and authentication of the newly collected materials. This criterion relates to that any teaching, either heard from the Buddha, from the saṅgha, from many monks, or from one monk, should be checked with the teachings in the discourses and disciplinary texts. If it conforms to such teachings, it can be regarded as authentic instruction and can be included into the teachings (Dīgha Nikāya II. 123-126; Aṅguttara Nikāya II. 167-170; Dhammajoti 2008, xiv-xvi; Yinshun 2002, 22-24).
 
 [7]:
 
@@ -1323,23 +1173,15 @@ Only the Tibetan version of the Uttaragrantha is present (i.e. there is no Chine
 
 ## 19. Āyurveda–Brief History and Basic Principles
 
-
 Bhesajjakkhandhaka (Chapter on Medicine)
 
-by Hin-tak Sik | 2016 | 121,742 words
-
 This study deals with the ancient Indian Medicine (Ayurveda) in Early Buddhist Literature and studies the Bhesajjakkhandhaka and the Parallels in other Vinaya Canons. The word Bhesajja means “medicine” and is the sixth chapter of the Khandhaka, which represents the second book of the Pali Vinaya Pitaka. Other works consulted include the Bhaisajya-s...
-
-Go directly to: 
-Footnotes.
 
 Āyurveda–Brief History and Basic Principles
 
 India has three major traditional medical systems: Āyurveda, Siddha, and Ūnāni.[1] Among these three, Āyurveda is the oldest and most well-known, and has a long history of at least two thousand years (Benner 2005, 3852). Āyurveda appears to have originated in the centuries around the turn of the Common Era, after the śramaṇ-ic phase as mentioned earlier in Section 2. 1. 3, and is marked with the emergence of some influential classical medical treatises which will be described later. These texts illustrate a highly systematised medical lore. Like the śramaṇ-ic medicine, classical Āyurveda is highly empirical and rational, and is different from the magico-religious approach of Vedic medicine. It can be regarded as a continuation of the śramaṇ-ic medicine, perhaps from as early as the epoch of the Buddha.
 
 Dominik Wujastyk, a renowned Western scholar on Indian medicine, gives a succinct introduction on Āyurveda (2003b, xvii):
-
-“Ayurveda is a system of general medical practice which encompasses both preventive and prescriptive aspects. It consists of a great deal of excellent practical advice for the man in the street on almost every imaginable aspect of life, including cleaning the teeth, diet, exercise, morality, and so on … It also includes more specialized medical teachings on all aspects of diagnosis and therapy, aimed at the professional physician.”[2]
 
 “Ayurveda is a system of general medical practice which encompasses both preventive and prescriptive aspects. It consists of a great deal of excellent practical advice for the man in the street on almost every imaginable aspect of life, including cleaning the teeth, diet, exercise, morality, and so on … It also includes more specialized medical teachings on all aspects of diagnosis and therapy, aimed at the professional physician.”[2]
 
@@ -1363,10 +1205,6 @@ For clinical practice, diagnosis in Āyurveda is made by means of the six-fold e
 
 The next section will be about modern biomedicine. Similar to this section, the history of modern medicine will be briefly described. Then the basic principles of biomedicine will follow. The provision of such information aims at facilitating readers to understand the modern interpretations of the drugs and treatments for diseases mentioned in the Chapter on Medicine in the coming chapters.
 
-Footnotes and references:
-
-[back to top]
-
 [1]:
 
 Siddha medicine is prevalent in southern India, and the Ūnāni medicine actually is the imported Graeco-Islamic medicine.
@@ -1383,15 +1221,9 @@ Medical concepts will be discussed later in this section. For more descriptions 
 
 ## 20. (a) Brief History of Āyurveda
 
-
 Bhesajjakkhandhaka (Chapter on Medicine)
 
-by Hin-tak Sik | 2016 | 121,742 words
-
 This study deals with the ancient Indian Medicine (Ayurveda) in Early Buddhist Literature and studies the Bhesajjakkhandhaka and the Parallels in other Vinaya Canons. The word Bhesajja means “medicine” and is the sixth chapter of the Khandhaka, which represents the second book of the Pali Vinaya Pitaka. Other works consulted include the Bhaisajya-s...
-
-Go directly to: 
-Footnotes.
 
 (a) Brief History of Āyurveda
 
@@ -1414,10 +1246,6 @@ The Aṣṭāṅgahṛdaya Saṃhitā (Aṣṭāṅga Hṛdaya Saṃhitā) by V�
 Many other Āyurvedic texts have been produced in the history of Indian medicine. Three of great authority, collectively known as the “small triad” (laghu trayī), are the Rogaviniścaya (Diagnosis of Diseases)–also known as the Mādhavanidāna (Aetiology by Mādhava)–by Mādhava (Mādhavakara) (circa 700 Common Era), the Śārṅgadhara Saṃhitā (Śārṅgadhara’s Compendium) by Śārṅgadhara (circa early fourteenth century), and the Bhāvaprakāśa (Bhāva’s Elucidation) by Bhāvamiśra (the sixteenth century). Mādhava’s book deals with causes and symptoms of different diseases, and it is crucial in setting an example for pathological categorisation and description of diseases in later texts (Benner 2005, 3853; Wujastyk 1993, 760). Śārṅgadhara’s work mainly deals with medicinal recipes (Benner 2005, 3853). It also introduces new foreign elements: medicinal substances such as metallic compounds and opium, and medical ideas such as examination of the pulse (nāḍīparīkṣā) (Mazars 2006, 11; Wujastyk 1993, 760). Bhāvamiśra’s book covers various aspects of Āyurveda (such as basic principles, aetiology, diagnosis, treatment, etc.), especially the description of many groups of drugs. It is distinguished by the introduction of a new foreign disease–syphilis (phiraṅgaroga)–to Indian medicine (Srikantha Murthy 2011, 9-10 (of Introduction section)). Apart from the well-known classical texts, later Āyurvedic works encompass diverse types of medical literature, such as commentaries of major treatises, encyclopaedic syntheses, summaries of large texts, specialised manuals, pharmaceutical dictionaries, and even allegorical medical drama.[5]
 
 Throughout the centuries, Āyurveda has shown change and development in various aspects of this tradition, rather than a static tradition as thought by some historians. There have been new diseases, diagnostic skills, prognostic methods, medicinal substances, therapeutic formulae, and healing interventions introduced and practised (Wujastyk 1993, 766-768). Especially with the Muslim invasions of India since the eleventh century Common Era onwards, Āyurveda has been influenced by other medical traditions such as Siddha medicine and Ūnāni medicine (Micozzi 2011, 38). Moreover, with the arrival of Europeans in India since the sixteenth century, exchanges of medical ideas and practices between Āyurveda and Western medicine have occurred (Wujastyk 1993, 770-772). Western medical elements have been added to the Āyurvedic lore, such as the new disease syphilis, as mentioned. Nowadays, Āyurveda is still a major medical system serving the Indian (and the world) population, besides modern biomedicine. Professional training and qualifications of Āyurveda are controlled and provided by accredited colleges and universities in India (Wujastyk 1993, 772-774). This medical tradition has also interacted with modern science and technology, as well as biomedical science (Micozzi 2011, 38-39).
-
-Footnotes and references:
-
-[back to top]
 
 [1]:
 
@@ -1443,15 +1271,9 @@ There are many types of Āyurvedic literature, as mentioned in the works of: Bas
 
 ## 21. (b) Basic Principles of Āyurveda
 
-
 Bhesajjakkhandhaka (Chapter on Medicine)
 
-by Hin-tak Sik | 2016 | 121,742 words
-
 This study deals with the ancient Indian Medicine (Ayurveda) in Early Buddhist Literature and studies the Bhesajjakkhandhaka and the Parallels in other Vinaya Canons. The word Bhesajja means “medicine” and is the sixth chapter of the Khandhaka, which represents the second book of the Pali Vinaya Pitaka. Other works consulted include the Bhaisajya-s...
-
-Go directly to: 
-Footnotes.
 
 (b) Basic Principles of Āyurveda
 
@@ -1485,8 +1307,6 @@ Mitra (1985, 55) has extracted such information from a passage in one of the Āy
 
 “Whatever is predominently [sic] gross (sthūla), firm or static (sthira), solid (mūrtimat), heavy (guru), rough (khara), and hard (kaṭhina) part of the body, viz., nails, bones, teeth, flesh, skin, faeces, hair of the head, face and body, tendons as well as odour and the sense of smell, belongs to Pṛthivī bhūta [sic]. Whatever is predominently [sic] liquid (drava), diffusive (sara), sluggish (manda), viscous (snigdha), soft (mṛdu) and pasty (picchila), viz., body nutrient fluid (rasa), blood, fat, kapha [sic] or phlegm, pitta [sic] or bile, urine, sweat, etc., belongs to Ap dhātu. Whatever in the body is of the nature of Pitta, heat and radiating lustre (bhā) as well as colour and complexion is referable to tejas dhātu. Whatever in the body is of the nature of inhalation and exhalation, opening and closing the eyes, contraction and extension, movement, impelling and holding, etc., as well as touch and the sense of touch are referable to vāyu [sic]. Whatever in the body is of the nature of porosity (vivikta), utterance and the channels that are gross and minute, as well as sound and the sense of hearing, are referable to ākāśa dhātu.”[4]
 
-“Whatever is predominently [sic] gross (sthūla), firm or static (sthira), solid (mūrtimat), heavy (guru), rough (khara), and hard (kaṭhina) part of the body, viz., nails, bones, teeth, flesh, skin, faeces, hair of the head, face and body, tendons as well as odour and the sense of smell, belongs to Pṛthivī bhūta [sic]. Whatever is predominently [sic] liquid (drava), diffusive (sara), sluggish (manda), viscous (snigdha), soft (mṛdu) and pasty (picchila), viz., body nutrient fluid (rasa), blood, fat, kapha [sic] or phlegm, pitta [sic] or bile, urine, sweat, etc., belongs to Ap dhātu. Whatever in the body is of the nature of Pitta, heat and radiating lustre (bhā) as well as colour and complexion is referable to tejas dhātu. Whatever in the body is of the nature of inhalation and exhalation, opening and closing the eyes, contraction and extension, movement, impelling and holding, etc., as well as touch and the sense of touch are referable to vāyu [sic]. Whatever in the body is of the nature of porosity (vivikta), utterance and the channels that are gross and minute, as well as sound and the sense of hearing, are referable to ākāśa dhātu.”[4]
-
 The three doṣas (tridoṣa) are wind (vāta or vāyu), bile (pitta), and phlegm (kapha, śleṣman; Pāli: semha),[5] which are thought, like all matters in the world, to evolve from the pañcabhūtas.[6] They are often rendered as “humours” because of the similarity of this theory to the Greek humoral theory of Hippocrates and Galen. The term doṣa can literally mean “vitiator”, from the root duṣ (to spoil or to corrupt). It is because when the doṣas are in balance or in proper proportion they lead to a good state of health; otherwise they can cause various diseases and even death. Although these humours carry a sense of negative implication, they are essential to all bodily functions.[7] They are thought to be semi-fluids circulating in the body via special channels, but each of them predominates in certain part of the body: vāta in the lower abdomen, pitta in the upper abdomen, and kapha in the chest and head. They have their own qualities: vāta is dry, cold, light, mobile, non-slimy, and coarse; pitta is greasy, hot, sour, pungent, sharp, and fluid; kapha is heavy, cold, viscous, soft, sweet, and slimy (as described in the Caraka Saṃhitā Sūtrasthāna 1. 59-61, as well as in the Aṣṭāṅga Hṛdaya Saṃhitā Sūtrasthāna 1. 11-12).[8] The three doṣas have their individual functions. Vāta, as wind, mainly exerts its function characterised by “movement”, such as body/limb movement, mental activation, speech utterance, respiration, intestinal peristalsis, bowel evacuation, etc. Pitta is responsible for functions such as digestion, metabolism, body heat, as well as making the body soft and flexible. It also induces psychological activities such as understanding, intelligence and courage. Kapha makes the body firm, smooth and stable, lubricates the joints, and refreshes the sense organs (Benner 2005, 3854-3855; Chopra 2003, 77-78).[9] The three doṣas undergo fluctuation and each of them dominates at a different period during the daytime and night-time. Variations of the three also occur at different seasons and at different stages of life. Conditions–such as habitat, food, lifestyle, and so on–can have influences on the functions of the doṣas (Chopra 2003, 78; Thakar 1992, 383). The three doṣas are already present at the start of life for each person, until the end of life. Moreover, every person has his/her unique constitution of the doṣas at birth, forming his/her prakṛti. This constitution determines the individual physical and psychological characteristics; it also influences pathogenesis of disease and hence the treatment (Chopra 2003, 77-78; Thakar 1992, 382-385). In brief, the three doṣas together regulate all phases and activities of growth, maintenance and decay. Their balance is responsible for health, and their imbalance for illness and death.[10]
 
 The term dhātu, though literally means “constituent part” or “element”, represents certain body substance or tissue in Āyurvedic science. There are seven dhātus: chyle (rasa), blood (rakta), muscle (māṃsa), fat (medas), bone (asthi), marrow (majjā), and semen (śukra). Each of these seven, according to the Āyurvedic physiology, is derived one by one from each other, starting from the ingested food. Food undergoes the process of digestion, which assumes a very significant role in Āyurveda and is regulated by doṣas. Food is digested–viewed as being “cooked” by “digestive fire” (jāṭharāgni)–and this results in chyle. Then chyle is transformed by bile into blood, blood into flesh, flesh into fat, fat into bone, bone into marrow, and marrow into semen (Aṣṭāṅga Hṛdaya Saṃhitā Sūtrasthāna 1. 13; Caraka Saṃhitā Sūtrasthāna 28. 4, Cikitsāsthāna 15. 16; Chopra 2003, 76-77). Through this process of digestion and metabolism, the seven dhātus are sustained and restored (Thakar 1992, 384).[11] These dhātus have their specific functions: chyle supplies nu[12] trients, blood helps maintain life activities, meat covers the bones, fat provides lubrication, bones support the body, marrow fills the bone, and semen is responsible for reproduction (Aṣṭāṅga Hṛdaya Saṃhitā Sūtrasthāna 11. 4).[13]
@@ -1508,10 +1328,6 @@ Surgery was emphasised in the Suśruta Saṃhitā, but not in the other Āyurved
 Apart from the above commonly employed remedies of Āyurveda, there are other therapeutic measures. Dietetics has an important role in Āyurveda. It is based on the doctrine that there is an association between taste (rasa) in foods and five mahābhūtas, and through such a principle that the six tastes–sweet, sour, salty, pungent, bitter, and astringent–assert different effects on the doṣas (Caraka Saṃhitā Sūtrasthāna 1. 6466). Preparation and consumption of various foods and drinks are taught in Āyurveda. In addition, a meat diet and alcohol sometimes are prescribed as medicines when necessary. [22] Another type of treatment is the magico-religious measures of the Vedic medicine. Some forms of Vedic medicine survive in the Āyurvedic medicine, though the latter is empirico-rational and emphasises on pharmaceutical/surgical cures. Magico-religious remedies such as ritual offering and spell chanting were used in Āyurveda for certain diseases, especially in the possessed conditions and paediatric diseases (Zysk 1991, 19-20).
 
 Maintenance of health–for the purpose of long life–is another important aspect of Āyurveda. There are many practical advices–what to do and what not to do–for this purpose according to Āyurveda (e.g. Aṣṭāṅga Hṛdaya Saṃhitā Sūtrasthāna 2-4), such as personal hygiene (tooth-brushing, bathing, cutting hairs and nails, etc.); non-suppression of natural urges (e.g. passing urine, faeces, flatus); suitability of and moderation in foods and drinks; physical exercises to control weight; time and place for sleep; ethical conduct (good deeds of body, speech and mind, e.g. no harming of other sentient beings, no stealing or robbing, no sexual misconduct, compassion, thinking of the benefits of others, etc.); appropriate occupations; suitable etiquettes and activities;good clothing and footwear; wearing talismans or amulets; usage of eye collyria, nasal drops, mouth gargles, etc.; body massage; regimens during different seasons; suitable living environment; and so on.
-
-Footnotes and references:
-
-[back to top]
 
 [1]:
 
@@ -1605,10 +1421,7 @@ There is much material on dietetics in the classical Āyurvedic texts, such as C
 
 ## 22. Biomedicine (Western medicine)—Brief History and Basic Principles
 
-
 Bhesajjakkhandhaka (Chapter on Medicine)
-
-by Hin-tak Sik | 2016 | 121,742 words
 
 This study deals with the ancient Indian Medicine (Ayurveda) in Early Buddhist Literature and studies the Bhesajjakkhandhaka and the Parallels in other Vinaya Canons. The word Bhesajja means “medicine” and is the sixth chapter of the Khandhaka, which represents the second book of the Pali Vinaya Pitaka. Other works consulted include the Bhaisajya-s...
 
@@ -1648,10 +1461,7 @@ In the next chapter, a succinct discussion of Buddhist ideology on health, disea
 
 ## 23. Chapter 3 - Concepts of Health and Disease
 
-
 Bhesajjakkhandhaka (Chapter on Medicine)
-
-by Hin-tak Sik | 2016 | 121,742 words
 
 This study deals with the ancient Indian Medicine (Ayurveda) in Early Buddhist Literature and studies the Bhesajjakkhandhaka and the Parallels in other Vinaya Canons. The word Bhesajja means “medicine” and is the sixth chapter of the Khandhaka, which represents the second book of the Pali Vinaya Pitaka. Other works consulted include the Bhaisajya-s...
 
@@ -1663,15 +1473,9 @@ Chapter 3 - Concepts of Health and Disease
 
 ## 24. (a) Brief History of Biomedicine (Western medicine)
 
-
 Bhesajjakkhandhaka (Chapter on Medicine)
 
-by Hin-tak Sik | 2016 | 121,742 words
-
 This study deals with the ancient Indian Medicine (Ayurveda) in Early Buddhist Literature and studies the Bhesajjakkhandhaka and the Parallels in other Vinaya Canons. The word Bhesajja means “medicine” and is the sixth chapter of the Khandhaka, which represents the second book of the Pali Vinaya Pitaka. Other works consulted include the Bhaisajya-s...
-
-Go directly to: 
-Footnotes.
 
 (a) Brief History of Biomedicine (Western medicine)
 
@@ -1711,10 +1515,6 @@ Another field worth specifying is genetics. It has long been known that some hum
 
 At the end of the twentieth century, there emerged a new area of biomedical research, namely the stem cell research, which has gained significant attention. It investigates the specialisation of stem cells to various specific tissue cells, and hence the potential application of these cells to repair or replace the damaged tissue or organ, as in the case of degenerative disease (such as Parkinson’s disease), injury, cancer, organ failure, and other diseases. Thus, this new research led to the new field of regenerative medicine (Frazier and Drzymkowski 2013, 25-26).
 
-Footnotes and references:
-
-[back to top]
-
 [1]:
 
 Encyclopædia Britannica Online, s.v. “history of medicine” [accessed November 15, 2014, http://academic.eb.com/EBchecked/topic/372460/history-of-medicine].
@@ -1747,15 +1547,9 @@ There are numerous discoveries and inventions in medicine and medical technology
 
 ## 25. Introduction
 
-
 Bhesajjakkhandhaka (Chapter on Medicine)
 
-by Hin-tak Sik | 2016 | 121,742 words
-
 This study deals with the ancient Indian Medicine (Ayurveda) in Early Buddhist Literature and studies the Bhesajjakkhandhaka and the Parallels in other Vinaya Canons. The word Bhesajja means “medicine” and is the sixth chapter of the Khandhaka, which represents the second book of the Pali Vinaya Pitaka. Other works consulted include the Bhaisajya-s...
-
-Go directly to: 
-Footnotes.
 
 Introduction
 
@@ -1766,10 +1560,6 @@ It has been said that Buddhism’s main concern is in identifying suffering and 
 This chapter will introduce these health/medical teachings, which are mainly found in the discourses. The general concepts and discussions about health and disease will first be furnished. Thereafter, medical principles–such as anatomy, physiology, aetiology, designation of diseases, treatments, and health-maintaining measures–will be described.
 
 Before proceeding, the sources for such doctrines have to be delineated. The sources will be confined to the aforementioned “dharma-vinaya,” i.e. the Nikāya-s/ Āgama-s[1] of the Sūtra Piṭaka and the Vinaya Piṭaka of early Buddhist literature. The reasons for this are: these texts are likely to represent the more original teachings and viewpoints of the Buddha; and they contain information which should be consistent with that in the Chapter on Medicine. There are many texts in Buddhist literature representing different stages of Buddhism. The scriptures of the early stage are less likely to have been changed (by later philosophical, religious, or sociocultural elements), and hence the teachings should be closer to what the Buddha gave. Besides, by confining the sources to the dharma-vinaya, where the sūtras and the vinaya supposedly represent the literature of the same stage of Buddhist history, then concepts of health/disease and medical principles found in the Sūtra Piṭaka are more likely to be in accordance with the medical data in the Chapter on Medicine, and to provide more uniform perspectives on health/medical issues.[2]
-
-Footnotes and references:
-
-[back to top]
 
 [1]:
 
@@ -1783,15 +1573,9 @@ Although the discussion of these concepts and medical principles here is confine
 
 ## 26. (b) Basic Principles of Biomedicine (Western medicine)
 
-
 Bhesajjakkhandhaka (Chapter on Medicine)
 
-by Hin-tak Sik | 2016 | 121,742 words
-
 This study deals with the ancient Indian Medicine (Ayurveda) in Early Buddhist Literature and studies the Bhesajjakkhandhaka and the Parallels in other Vinaya Canons. The word Bhesajja means “medicine” and is the sixth chapter of the Khandhaka, which represents the second book of the Pali Vinaya Pitaka. Other works consulted include the Bhaisajya-s...
-
-Go directly to: 
-Footnotes.
 
 (b) Basic Principles of Biomedicine (Western medicine)
 
@@ -1812,10 +1596,6 @@ After establishing the diagnosis of the patient’s illness, the next step is pr
 Apart from treating the patient’s disease, another significant aspect of modern medicine is to prevent disease and to maintain the health of individuals. There is a system of three levels of prevention, which virtually includes all the medical activities. Primary prevention aims at eliminating the risk factors or causes of disease and enhancing resistance to disease, so that disease will not develop. Examples of activities are vaccination, consumption of a healthy diet, regular exercise, and so on. Secondary prevention concerns early detection of disease or its precursory pathological change before symptoms appear. Measures of this level include routine physical check-up, regular breast examination, pap-smear, and so forth. Tertiary prevention attempts to stop or limit the progress of disease which has already appeared, so that its physical and social consequences can be reduced or minimised. Rehabilitative measures–e.g. physiotherapy, occupational therapy, and other therapies for stroke patients to limit the disability–belong to this level of prevention (Jekel et al. 2007, 227-229).
 
 There are yet several special features of modern medicine worthy of mention. Firstly, modern medicine is speedily advancing. Numerous research studies are being done, with diverse discoveries and inventions adding to medical knowledge. In order to best apply such knowledge, evidence-based medicine is emphasised nowadays. Evidence-based medicine has been clearly defined by Sackett et al. (1996, 71-72) as “the conscientious, explicit, and judicious use of current best evidence in making decisions about the care of individual patients.” It is the practice of the best clinical care for the patient on the basis of the best available evidence gathered from current research, physicians’ expertise, and the needs and preferences of the patient (Dorland's Illustrated Medical Dictionary, 32nd ed., s.v. “medicine: evidence-based m.”). [7] Secondly, biological research probes deeper and deeper into cells and molecules. Since the latter half of the twentieth century, cell biology and molecular biology have played a more dominant role. Researchers have applied these new scientific methods and knowledge to other biomedical disciplines, resulting in many new areas of interest such as molecular physiology, molecular pathology, molecular neuroscience, molecular immunology, molecular endocrinology, molecular genetics, molecular microbiology, molecular pharmacology, and so on. This has had a significant impact on biomedical knowledge and on the clinical application of diagnosis, treatment and prevention (Kang 1997, 21-24, 38-39, 45). Thirdly, apart from those developing branches of medical sciences or specialties dealing with the microscopic/molecular level of body tissues and cells, modern medicine nowadays also has growing disciplines caring for the whole individual and his/her association with society and environment. These are special fields such as public health, rehabilitation medicine, social medicine, environmental medicine, and so forth. There are also interdisciplinary fields developed in the last few decades, dealing with humanistic and social issues, such as medical sociology, medical anthropology, medical humanities, medical ethics and many others (Kang 1997, 2-3, 24-27, 35-36, 39-40). Lastly, modern biomedicine has been strongly criticised for its mechanistic view of the physical body as well as its focus on disease but not health. Because of such a view and focus, the patient’s psychological, social and spiritual needs are not cared for, and health maintenance and promotion is not stressed. But nowadays modern medicine has paid more attention to these critiques, and a holistic approach to healthcare–taking care not only of the physical body but also of the psychological, emotional, social, spiritual and environmental aspects of an individual by different healthcare providers (such as psychologists, social workers, chaplains, and even practitioners of complementary and alternative medicine)–is becoming more emphasised and gaining popularity (Frazier and Drzymkowski 2013, 21, 24-25).
-
-Footnotes and references:
-
-[back to top]
 
 [1]:
 
@@ -1849,23 +1629,15 @@ In the last decade, there is a new discipline which is closely related to eviden
 
 ## 27. Concepts of Health and Disease (In early Buddhism)
 
-
 Bhesajjakkhandhaka (Chapter on Medicine)
 
-by Hin-tak Sik | 2016 | 121,742 words
-
 This study deals with the ancient Indian Medicine (Ayurveda) in Early Buddhist Literature and studies the Bhesajjakkhandhaka and the Parallels in other Vinaya Canons. The word Bhesajja means “medicine” and is the sixth chapter of the Khandhaka, which represents the second book of the Pali Vinaya Pitaka. Other works consulted include the Bhaisajya-s...
-
-Go directly to: 
-Footnotes.
 
 Concepts of Health and Disease (In early Buddhism)
 
 In early Buddhism, the Buddha is often honoured as the “Unsurpassed Physician and Surgeon” (anuttaro bhisakko sallakatto) (Itivuttaka 101), who cures the suffering of sentient beings. His teaching, the dharma, is also regarded as the medicine for suffering, while the saṅgha members are regarded as attendants for the sick (Birnbaum 1989, 15).
 
 In addition, the “Great Physician King” (Chinese: Da yiwang 大醫王)–another appellation–is described as having the skills which parallel the fundamental teaching of Buddhism, the Four Noble Truths (Saṃyukta Āgama (Saṃyukta Āgama), Taishō Tripiṭaka 99. 105a25-b10):[1]
-
-“There are four things, being accomplished, that the one named Great Physician King should [have] as a king’s possession, as a king’s duty. What are the four? One, knowing well the disease; two, knowing well the origin of the disease; three, knowing well the treatment of the disease; four, knowing well that after curing the disease, there will be no recurrence. How to comprehend ‘a good physician knows the disease well’? It means that the good physician knows well such and such various types of disease. This states how the ‘good physician knows the disease well.’ What [does it mean that] ‘a good physician knows well the origin of disease’? It means that the good physician knows well that this disease has arisen due to wind, this has arisen due to indigestion, this has arisen due to saliva, this has arisen due to many cold [conditions], this has arisen due to present matter, [and] this has arisen due to season.[2] This states how the ‘good physician knows well the origin of disease.’ What [does it mean that] ‘a good physician knows well the treatment for disease’? It means that the good physician knows well the various diseases: this [disease] should be anointed with medicine, this should [be treated by] emesis, this should be purged, this should [be treated with] nasal douching, this should be fumigated, this should [be treated by] sweating–various treatments like these examples. This states how the ‘good physician knows well the treatment.’ What [does it mean that] ‘a good physician knows well the disease being cured and it will never occur in the future’? This means that the good physician relieves well the various diseases [and] causes them to be totally eliminated, [which] will never again arise in the future. This states how the ‘good physician knows well the treatment for disease [and the disease] will not recur.’”[3]
 
 “There are four things, being accomplished, that the one named Great Physician King should [have] as a king’s possession, as a king’s duty. What are the four? One, knowing well the disease; two, knowing well the origin of the disease; three, knowing well the treatment of the disease; four, knowing well that after curing the disease, there will be no recurrence. How to comprehend ‘a good physician knows the disease well’? It means that the good physician knows well such and such various types of disease. This states how the ‘good physician knows the disease well.’ What [does it mean that] ‘a good physician knows well the origin of disease’? It means that the good physician knows well that this disease has arisen due to wind, this has arisen due to indigestion, this has arisen due to saliva, this has arisen due to many cold [conditions], this has arisen due to present matter, [and] this has arisen due to season.[2] This states how the ‘good physician knows well the origin of disease.’ What [does it mean that] ‘a good physician knows well the treatment for disease’? It means that the good physician knows well the various diseases: this [disease] should be anointed with medicine, this should [be treated by] emesis, this should be purged, this should [be treated with] nasal douching, this should be fumigated, this should [be treated by] sweating–various treatments like these examples. This states how the ‘good physician knows well the treatment.’ What [does it mean that] ‘a good physician knows well the disease being cured and it will never occur in the future’? This means that the good physician relieves well the various diseases [and] causes them to be totally eliminated, [which] will never again arise in the future. This states how the ‘good physician knows well the treatment for disease [and the disease] will not recur.’”[3]
 
@@ -1877,11 +1649,7 @@ Furthermore, a discourse in the Saṃyutta Nikāya (III. 228-229), while talking
 
 “Bhikkhus, the arising, continuation, production, and manifestation of the eye is the arising of suffering, the continuation of disease, the manifestation of aging-and-death. The arising, continuation, production, and manifestation of the ear … of the nose … of the tongue … of the body … of the mind is the arising of suffering, the continuation of disease, the manifestation of aging-and-death. The cessation, subsiding, and passing away of the eye … the mind is the cessation of suffering, the subsiding of disease, the passing away of aging-and-death” (Bodhi 2000, 1008).
 
-“Bhikkhus, the arising, continuation, production, and manifestation of the eye is the arising of suffering, the continuation of disease, the manifestation of aging-and-death. The arising, continuation, production, and manifestation of the ear … of the nose … of the tongue … of the body … of the mind is the arising of suffering, the continuation of disease, the manifestation of aging-and-death. The cessation, subsiding, and passing away of the eye … the mind is the cessation of suffering, the subsiding of disease, the passing away of aging-and-death” (Bodhi 2000, 1008).
-
 A parallel (though more concise) version is found in the Chinese Saṃyukta Āgama (Taishō Tripiṭaka 99. 90c2629):
-
-“If there is arising, staying, progressing, manifesting of the eye, then suffering arises, sickness stays, [and] ageing and death manifest. The same is said for the ear, the nose, the tongue, the body, [and] the mind. If there is ceasing, allaying, disappearing of the eye, arising of suffering then ceases, sickness then allays, [and] death then disappears. The same is said for the ear, the nose, the tongue, the body, [and] the mind.”[9]
 
 “If there is arising, staying, progressing, manifesting of the eye, then suffering arises, sickness stays, [and] ageing and death manifest. The same is said for the ear, the nose, the tongue, the body, [and] the mind. If there is ceasing, allaying, disappearing of the eye, arising of suffering then ceases, sickness then allays, [and] death then disappears. The same is said for the ear, the nose, the tongue, the body, [and] the mind.”[9]
 
@@ -1905,8 +1673,6 @@ It is expressed by the Buddha that there are two kinds of disease:
 
 “Monks, there are these two diseases. What are the two? Bodily disease and mental disease.”[31]
 
-“Monks, there are these two diseases. What are the two? Bodily disease and mental disease.”[31]
-
 This, therefore, also means that there are two kinds of health–physical health and mental health. In this discourse of the Aṅguttara Nikāya, it is also stated that people can be physically healthy for a certain period of time (whether it is one year, two years, or even up to a hundred years), but those with just a moment of healthy mind are difficult to find except those who have destroyed their taints (āsava). This points out that, for ordinary people, nobody can avoid mental problem or distress even for a short while. In fact, many people suffer from mental illnesses. Herein, a question may be raised: does Buddhism advocate mind-body dualism as Descartes has claimed?[32]
 
 The answer is certainly no. Buddhism does not uphold the idea of mind-body dualism. One of the fundamental teachings in Buddhism is the doctrine of the five aggregates (Pāli: pañca khandha; Sanskrit: pañca skandha), that each individual is a combination of five aggregates. These five are: material (Pāli and Sanskrit: rūpa), feeling (Pāli and Sanskrit: vedanā), perception (Pāli: saññā; Sanskrit: saṃjñā), volitional formation (Pāli: saṅkhāra; Sanskrit: saṃskāra), and consciousness (Pāli: viññāṇa; Sanskrit: vijñāna). These five actually represent the psycho-physical complex of mind and body (or, in another expression, that of mentality and materiality), with rūpa corresponding to body/ materiality and the other four aggregates to mind/mentality. The five aggregates are “conditioned, interdependent, relative things and states,” and they operate “together in combination as a physio-psychological machine” (Rahula 1978, 26, 57). None of these aggregates can arise independently without the others. The material aggregate and the immaterial aggregates are not separable, and the five aggregates must coexist for an individual being.
@@ -1914,10 +1680,6 @@ The answer is certainly no. Buddhism does not uphold the idea of mind-body duali
 There is another term in Buddhist doctrine highlighting this ideology of coexistence of mind and body (mentality and materiality), viz. nāma-rūpa. In this compound term, nāma comprises the four immaterial aggregates (of feeling, perception, volitional formation, and consciousness) and rūpa refers to the material aggregate, consisting of the great elements (earth, water, fire, and wind) and their dependent materials such as the five material sense-organs and their corresponding sense-objects, as well as mind-objects (Mahāniddesa II. 435; Saṃyutta Nikāya III. 59; Rahula 1978, 20). [33] Although the two components of the word is explained separately, as Karunaratne (2003, 128) pertinently describes, nāma and rūpa actually are “interdependent and that nāmarūpa is a designation given to the complex of mental and physical phenomena … The two are inseparable; they arise together, exist together, and perish together; they exist only in combination; in separation they are unable to exist … because neither of them possesses the power to exist alone. One exists only in dependence on the other.” Hence, nāma-rūpa, being a complex of mind and matter (i.e. physical body), can be referred to as an individuality (Pali-English Dictionary, s.v. “nāma”).
 
 Based on the above discussions of the five aggregates and mentalitymateriality complex, Buddhism holds that mind and body are not independent phenomena; they interrelate and co-exist as one complex. Physical and mental states are “constantly interacting; they are not two totally separate spheres” (Harvey 1993, 29). Returning to our discussion on health and disease, Buddhism, therefore, recognises a close relationship between physical health and mental health. One kind of health cannot be achieved without another. Physical conditions can affect the mind. As mentioned earlier, the monk Assaji could not attain meditative concentration due to his sickness. Physical illness can interfere with mental cultivation and psychological wellbeing. Conversely, the psychological state can have an influence on the body. Taking the example of the sick monk Anuruddha, as stated earlier, the practice of the four establishments of mindfulness helped him tolerate and relieve his physical pain. Mind thus has an impact on body. Body and mind interact with each other, and can influence each other. Physical health and mental health therefore are mutually dependent. Both are significant for personal health as a whole, as well as for spiritual development.[34]
-
-Footnotes and references:
-
-[back to top]
 
 [1]:
 
@@ -2049,7 +1811,7 @@ Aṅguttara Nikāya II. 142-143: “Dve’me bhikkhave rogā. Katame dve? Kāyik
 
 [32]:
 
-This kind of question has sparked a lot of discussion in the field of philosophy. Many Buddhist scholars have also contributed their thoughts, e.g. Harvey (1993), Karunadasa (2012) and Lin (2013). It would be beyond the scope of this thesis to delve into their arguments. Here a general discussion will be conducted.
+This kind of question has sparked a lot of discussion in the field of philosophy. Many Buddhist scholars have also contributed their thoughts, e.g. Harvey (1993), Karunadasa (2012) and Lin (2013). It would be beyond the scope of this thesis to examine their arguments. Here a general discussion will be conducted.
 
 [33]:
 
@@ -2065,10 +1827,7 @@ However, mind plays a more important role in Buddhism. The very first teaching o
 
 ## 28. Chapter Summary
 
-
 Bhesajjakkhandhaka (Chapter on Medicine)
-
-by Hin-tak Sik | 2016 | 121,742 words
 
 This study deals with the ancient Indian Medicine (Ayurveda) in Early Buddhist Literature and studies the Bhesajjakkhandhaka and the Parallels in other Vinaya Canons. The word Bhesajja means “medicine” and is the sixth chapter of the Khandhaka, which represents the second book of the Pali Vinaya Pitaka. Other works consulted include the Bhaisajya-s...
 
@@ -2090,15 +1849,9 @@ With the general information in this chapter serving as a foundation, the vast s
 
 ## 29. Introduction
 
-
 Bhesajjakkhandhaka (Chapter on Medicine)
 
-by Hin-tak Sik | 2016 | 121,742 words
-
 This study deals with the ancient Indian Medicine (Ayurveda) in Early Buddhist Literature and studies the Bhesajjakkhandhaka and the Parallels in other Vinaya Canons. The word Bhesajja means “medicine” and is the sixth chapter of the Khandhaka, which represents the second book of the Pali Vinaya Pitaka. Other works consulted include the Bhaisajya-s...
-
-Go directly to: 
-Footnotes.
 
 Introduction
 
@@ -2116,10 +1869,6 @@ By conducting these three steps, this chapter aims at introducing to readers wha
 
 In this chapter, the medicinal substances being studied will be presented in two major groups: one covers those prescribed for use within seven days and another deals with those allowed for use throughout one’s whole lifespan. In each of these two groups, categories of drugs as found in the Chapters on Medicine, such as lipids and sweets, fats, vegetal parts and derivatives, and minerals, will be described. A miscellaneous category in the group of drugs for use throughout one’s whole life will cover those substances which are not clearly classified in the original sources. These categories of medicinal substances will be examined one by one in the following sections.
 
-Footnotes and references:
-
-[back to top]
-
 [1]:
 
 The three research questions of this thesis, as stated in Section 1. 2. 1 in Chapter One, are: (i) what were the medicinal substances as well as the illnesses and their remedies as recorded in the Chapters on Medicine; (ii) how could these medical data be understood, and why was such a method employed for this study;and (iii) what would be the interpretations of these drugs and diseases in terms of modern knowledge. The first and third questions relate to the discussion and interpretation of the medical data in the Chapter on Medicine; the second question pertains to the methodology of this research, which has been discussed in Section 1. 3 in Chapter One.
@@ -2136,10 +1885,7 @@ For example, in Āyurveda, a medicinal substance can be described comprehensivel
 
 ## 30. Chapter 4 - Medicinal Substances in the Chapter on Medicine
 
-
 Bhesajjakkhandhaka (Chapter on Medicine)
-
-by Hin-tak Sik | 2016 | 121,742 words
 
 This study deals with the ancient Indian Medicine (Ayurveda) in Early Buddhist Literature and studies the Bhesajjakkhandhaka and the Parallels in other Vinaya Canons. The word Bhesajja means “medicine” and is the sixth chapter of the Khandhaka, which represents the second book of the Pali Vinaya Pitaka. Other works consulted include the Bhaisajya-s...
 
@@ -2151,15 +1897,9 @@ Chapter 4 - Medicinal Substances in the Chapter on Medicine
 
 ## 31. Seven-day Medicines (a): Lipids and Sweets
 
-
 Bhesajjakkhandhaka (Chapter on Medicine)
 
-by Hin-tak Sik | 2016 | 121,742 words
-
 This study deals with the ancient Indian Medicine (Ayurveda) in Early Buddhist Literature and studies the Bhesajjakkhandhaka and the Parallels in other Vinaya Canons. The word Bhesajja means “medicine” and is the sixth chapter of the Khandhaka, which represents the second book of the Pali Vinaya Pitaka. Other works consulted include the Bhaisajya-s...
-
-Go directly to: 
-Footnotes.
 
 Seven-day Medicines (a): Lipids and Sweets
 
@@ -2192,8 +1932,6 @@ In the Suttavibhaṅga of the Theravāda Vinaya, five seven-day medicines are ex
 
 “ghee by name is the ghee of the cow, or the ghee of the she-goat, or ghee of the buffalo–ghee of those [animals] whose meat is proper; fresh butter by name is the fresh butter also of those [animals]; oil by name is sesame oil, mustard oil, oil of mahua seeds,[11] castor oil, [and] oil of tallow; honey by name is the honey of bees; molasses by name is that originated from sugarcane.”[13]
 
-“ghee by name is the ghee of the cow, or the ghee of the she-goat, or ghee of the buffalo–ghee of those [animals] whose meat is proper; fresh butter by name is the fresh butter also of those [animals]; oil by name is sesame oil, mustard oil, oil of mahua seeds,[11] castor oil, [and] oil of tallow; honey by name is the honey of bees; molasses by name is that originated from sugarcane.”[13]
-
 These substances are allowed for acceptance and use by a sick monk (or nun) during the proper time and improper time (Theravāda Vinaya Piṭaka I. 200; Taishō Tripiṭaka 1428. 869c9; Taishō Tripiṭaka 1435. 184c11). They are known as seven-day medicines because there was overaccumulation of them by the monks that had caused hygiene problems. The Buddha thus restricted their storage and usage within seven days (Theravāda Vinaya Piṭaka I. 206-209; Taishō Tripiṭaka 1428. 870b3-23; Taishō Tripiṭaka 1435. 185a18-b10).
 
 Ghee and butter are two milk products in the “group of milk” (kṣīra-varga) in Āyurveda (Caraka Saṃhitā Sūtrasthāna 27. 217-236;Suśruta Saṃhitā Sūtrasthāna 45. 47-111; Aṣṭāṅga Hṛdaya Saṃhitā Sūtrasthāna 5. 20-42).[14] Ghee is used commonly in Āyurveda. It has many values and therapeutic usages. It promotes strength and many bodily functions, as well as reduces wind and bile humours (Caraka Saṃhitā Sūtrasthāna 13. 41-43; Suśruta Saṃhitā Sūtrasthāna 45. 96; Aṣṭāṅga Hṛdaya Saṃhitā Sūtrasthāna 5. 37-39). Ghee alone is an antidote for bile humour which is aggravated in autumn, and hence it is best used in this season.[15] Various types of ghee are extracted from milk of different mammals (even of women), and they have some difference in their properties and therapeutic usages (Caraka Saṃhitā Sūtrasthāna 27. 231-233; Suśruta Saṃhitā Sūtrasthāna 45. 97-111; Aṣṭāṅga Hṛdaya Saṃhitā Sūtrasthāna 5. 40). Fresh butter, another milk product, has similar properties and remedial values as ghee (Caraka Saṃhitā Sūtrasthāna 27. 230; Suśruta Saṃhitā Sūtrasthāna 45. 92-93; Aṣṭāṅga Hṛdaya Saṃhitā Sūtrasthāna 5. 35-36).
@@ -2205,10 +1943,6 @@ Honey, molasses and rock sugar are sweet substances. In Āyurveda, honey has man
 In modern nutritional science, these above-mentioned seven-day medicines are all high caloric sources. Digestion and metabolism of these substances produce significant amounts of energy for the body. Ghee, butter and oil belong to the group of lipids, while honey, molasses and rock sugar are of the group of carbohydrates. They are chiefly regarded as nutrients rather than medicines in modern sciences.[16]
 
 In brief, certain substances were allowed by the Buddha to be used at most for seven days. These seven-day medicines include ghee, fresh butter, oil, honey, molasses, and rock sugar, as mentioned in the various versions of the Chapter on Medicine. These medicines, according to Āyurveda, have their own properties and therapeutic usages. In modern science, they are important sources of energy. Their usage as medicines may be understood by the fact that large amounts of energy would be needed by the body during sickness for combating illness and for recovery. Thus, foods which provide large amounts of energy would be beneficial according to ancient Indian medicine.
-
-Footnotes and references:
-
-[back to top]
 
 [1]:
 
@@ -2278,15 +2012,9 @@ For further information of these substances in modern science, see Encyclopædia
 
 ## 32. Seven-day Medicines (b): Animal Fats (Vasā)
 
-
 Bhesajjakkhandhaka (Chapter on Medicine)
 
-by Hin-tak Sik | 2016 | 121,742 words
-
 This study deals with the ancient Indian Medicine (Ayurveda) in Early Buddhist Literature and studies the Bhesajjakkhandhaka and the Parallels in other Vinaya Canons. The word Bhesajja means “medicine” and is the sixth chapter of the Khandhaka, which represents the second book of the Pali Vinaya Pitaka. Other works consulted include the Bhaisajya-s...
-
-Go directly to: 
-Footnotes.
 
 Seven-day Medicines (b): Animal Fats (Vasā)
 
@@ -2415,10 +2143,6 @@ Mahāsāṃghika:—
 猪脂 (pig fat)
 失修摩羅脂 (alligator fat)
 
-Footnotes and references:
-
-[back to top]
-
 [1]:
 
 See, for example, Taishō Tripiṭaka 1425. 244c20-c23. In addition, the Mahāsāṃghika Vinaya says clearly that wind diseases should be treated with oils or animal fats, while fever (i.e. diseases by bile humour) should be cured by ghee, water diseases (i.e. diseases by phlegm humour) by honey, and diseases due to a combination of three humours by these three medicines (Taishō Tripiṭaka 1425. 316c21-23).
@@ -2487,10 +2211,7 @@ Samantapāsādikā V. 1089: “kāle paṭggahitan ti ādīsu majjhantike avīti
 
 ## 33. Medicines for the Duration of one’s Life (Introduction)
 
-
 Bhesajjakkhandhaka (Chapter on Medicine)
-
-by Hin-tak Sik | 2016 | 121,742 words
 
 This study deals with the ancient Indian Medicine (Ayurveda) in Early Buddhist Literature and studies the Bhesajjakkhandhaka and the Parallels in other Vinaya Canons. The word Bhesajja means “medicine” and is the sixth chapter of the Khandhaka, which represents the second book of the Pali Vinaya Pitaka. Other works consulted include the Bhaisajya-s...
 
@@ -2504,15 +2225,9 @@ Thus the categorisation of drugs in the Chapters on Medicine may well have been 
 
 ## 34. Medicines (b): Stems (Gaṇḍa)
 
-
 Bhesajjakkhandhaka (Chapter on Medicine)
 
-by Hin-tak Sik | 2016 | 121,742 words
-
 This study deals with the ancient Indian Medicine (Ayurveda) in Early Buddhist Literature and studies the Bhesajjakkhandhaka and the Parallels in other Vinaya Canons. The word Bhesajja means “medicine” and is the sixth chapter of the Khandhaka, which represents the second book of the Pali Vinaya Pitaka. Other works consulted include the Bhaisajya-s...
-
-Go directly to: 
-Footnotes.
 
 Medicines (b): Stems (Gaṇḍa)
 
@@ -2532,10 +2247,6 @@ The above plants (perhaps with the exceptions of the two uncertain items of cypr
 As described by van Wyk and Wink (2004, 16), in modern botanical science, bark is “the outer protective layer of a tree trunk, formed by layers of living cells just above the wood itself. High concentrations of active ingredients are found in bark, hence its frequent medicinal use.” With regard to wood, “thick stems [sic] or the wood itself is used.” In brief, barks or woods of many plants have medicinal values in Āyurveda and modern herbal medicine.
 
 The following table summarises the stem-medicines found in the Mūlasarvāstivāda Bhaiṣajyavastu:
-
-Footnotes and references:
-
-[back to top]
 
 [1]:
 
@@ -2559,15 +2270,9 @@ See van Wyk and Wink 2004, 407.
 
 ## 35. Medicines (a): Roots (Mūla)
 
-
 Bhesajjakkhandhaka (Chapter on Medicine)
 
-by Hin-tak Sik | 2016 | 121,742 words
-
 This study deals with the ancient Indian Medicine (Ayurveda) in Early Buddhist Literature and studies the Bhesajjakkhandhaka and the Parallels in other Vinaya Canons. The word Bhesajja means “medicine” and is the sixth chapter of the Khandhaka, which represents the second book of the Pali Vinaya Pitaka. Other works consulted include the Bhaisajya-s...
-
-Go directly to: 
-Footnotes.
 
 Medicines (a): Roots (Mūla)
 
@@ -2604,10 +2309,6 @@ According to Āyurveda, various parts or derivatives of a plant can be used as d
 According to modern herbal medicine, the whole of a plant may be useful but often only a particular part is used. Furthermore, different parts of a plant can contain different active ingredients,[17] and a part of the plant may be poisonous while another not. Nowadays, the parts of a plant are more specifically defined to avoid confusion. Several underground parts used to be known as “root”, but are now precisely delineated. Root is explained thus: “The fleshy or woody roots (or outer root bark) of many species are used medicinally. Roots may be fibrous..., solid..., or fleshy...” Rhizome is “a woody or fleshy elongated stem that usually grows horizontally below the ground, forming leaves above the ground and roots into the ground.”[18] Bulb is “a fleshy structure made up of numerous layers of bulb scales, which are actually leaf bases.[19] Tuber is “a swollen, fleshy structure below the ground, usually of stem origin but often partly stem and partly root”[20] (van Wyk and Wink 2004, 16). Hence, the root-medicines recorded in the Chapters on Medicine belong to different specific parts as per modern herbal medicine.
 
 In order to facilitate readers to appreciate the root-medicines in the Chapters on Medicine, the original names, the English names, and the botanical names of those involved substances are organised in the following table.[21]
-
-Footnotes and references:
-
-[back to top]
 
 [1]:
 
@@ -2705,15 +2406,9 @@ Although the names of the five major and five minor roots are not given in the D
 
 ## 36. Medical Principles (In Early Buddhist Scriptures)
 
-
 Bhesajjakkhandhaka (Chapter on Medicine)
 
-by Hin-tak Sik | 2016 | 121,742 words
-
 This study deals with the ancient Indian Medicine (Ayurveda) in Early Buddhist Literature and studies the Bhesajjakkhandhaka and the Parallels in other Vinaya Canons. The word Bhesajja means “medicine” and is the sixth chapter of the Khandhaka, which represents the second book of the Pali Vinaya Pitaka. Other works consulted include the Bhaisajya-s...
-
-Go directly to: 
-Footnotes.
 
 Medical Principles (In Early Buddhist Scriptures)
 
@@ -2729,15 +2424,11 @@ This text gives the description as follows:
 
 “Now there are four types of element. What are the four? [They are] the earth-element, the water-element, the fire-element, [and] the wind-element. … Earth-element has two kinds: either internal earth[element] or external earth[-element]. What are those [things] called internal earth-element? Head hairs, body hairs, nails, teeth, body, skin, tendons, bones, bone marrow, brain, intestines, stomach, liver, gallbladder, spleen, kidneys–these are called internal earth-element. What is external earth-element? Things being firm and durable are called external earth-element. These are known as the two earthelements. What are those [things] as water-element? Water-element has two kinds: either internal water-element or external waterelement. [Things as] internal water-element [are]: saliva, spittle, tears, urine, blood, bone marrow–these are called internal water-element. Those external things, being soft and [able to] drown things, are called external water-element. These are known as the two waterelements. What are those [things] called fire-element? So, there are two kinds of fire-element: either internal fire[-element] or external fire[-element]. What is that called internal fire[-element]? The eaten food, without any leftover, is totally digested. This is known as internal fire[-element]. What is known as external fire[-element]? Those external objects [which can] heat and flourish things. These are known as external fire-element. What is called wind-element? Wind-element also has two: either there is internal wind[-element], or there is external wind[-element]. [The things] being termed as the wind inside the lips, the wind at the eye, the wind at the head, the out-breathing wind, the in-breathing wind, the wind between all joints–these are called internal wind[-element]. What are those called external wind[-element]? [They are] the things being termed as light, floating (in air), moving, shaking, [and] rapid. These are called external wind[-element].”[14]
 
-“Now there are four types of element. What are the four? [They are] the earth-element, the water-element, the fire-element, [and] the wind-element. … Earth-element has two kinds: either internal earth[element] or external earth[-element]. What are those [things] called internal earth-element? Head hairs, body hairs, nails, teeth, body, skin, tendons, bones, bone marrow, brain, intestines, stomach, liver, gallbladder, spleen, kidneys–these are called internal earth-element. What is external earth-element? Things being firm and durable are called external earth-element. These are known as the two earthelements. What are those [things] as water-element? Water-element has two kinds: either internal water-element or external waterelement. [Things as] internal water-element [are]: saliva, spittle, tears, urine, blood, bone marrow–these are called internal water-element. Those external things, being soft and [able to] drown things, are called external water-element. These are known as the two waterelements. What are those [things] called fire-element? So, there are two kinds of fire-element: either internal fire[-element] or external fire[-element]. What is that called internal fire[-element]? The eaten food, without any leftover, is totally digested. This is known as internal fire[-element]. What is known as external fire[-element]? Those external objects [which can] heat and flourish things. These are known as external fire-element. What is called wind-element? Wind-element also has two: either there is internal wind[-element], or there is external wind[-element]. [The things] being termed as the wind inside the lips, the wind at the eye, the wind at the head, the out-breathing wind, the in-breathing wind, the wind between all joints–these are called internal wind[-element]. What are those called external wind[-element]? [They are] the things being termed as light, floating (in air), moving, shaking, [and] rapid. These are called external wind[-element].”[14]
-
 From the above-mentioned discourses, it can be noted that physiological knowledge belonging to the śramaṇ-ic phase of Indian medicine is preserved in early Buddhist literature, especially in the discourses of the Nikāyas and the Āgamas.
 
 In Section 3. 1 above, it has been demonstrated that ignorance and craving, in particular, are regarded as important factors for the arising of suffering. These can be considered as general causative factors of sickness. In addition, specific aetiological factors are also discussed in the discourses. Knowledge of causes of disease is a significant aspect in medicine. Without acquainting with the causes, accurate diagnosis and appropriate treatment are not possible. Certain causes of sickness are known from the cases of diseases recorded in the Chapter on Medicine. For example, bile humour is responsible for the autumnal disease, wind humour for wind diseases, and so on. These records of illnesses and their treatments will be examined in Chapter Five of this thesis. There is, however, no full delineation of the diseasecausing factors found in the Chapter on Medicine. Such information of aetiology, rather, can be discovered in the discourses. Eight factors are distinctly attributed as the causes of illnesses. Diseases can be caused by any of these factors which has/is: bile as the origination (pittasamuṭṭhāna); phlegm as the origination (semhasamuṭṭhāna); wind as the origination (vātasamuṭṭhāna); resulting from the combination of the (three) humours (sannipātika); arisen from seasonal change (utupariṇāmaja);arisen from wrong behaviour (of oneself) (visamaparihāraja); [15] pertaining to assault (opakkamika);[16] arisen from the result of (one’s) deed(s) (kammavipākaja) (Saṃyutta Nikāya IV. 230-231; Aṅguttara Nikāya II. 87, III. 131, V. 110). These factors are also mentioned in the Āgama, but without the one concerning the result of previous deed(s) (Pāli: kamma; Sanskrit: karma). In the Saṃyukta Āgama, there is a discourse which is the parallel of the Pāli discourse in the Saṃyutta Nikāya (IV. 230-231).
 
 This discourse in the Saṃyukta Āgama (Taishō Tripiṭaka 99. 252c12-253a25), besides listing seven factors of disease, has more elaborations on some factors than the Pāli sources:
-
-“… the suffering maybe has arisen from the wind humour–the sentient beings are aware of this, or has arisen from the phlegm humour, or has arisen from the saliva humour,[17] or has arisen from the equally contributing factors,[18] or [is due to] self-harm, or [is due to] harm from others, or is due to seasonal change. That [concerning] self-harm: [it is] either pulling head hairs, or pulling beards, or always standing with arms raised, or squatting on ground, or lying in ash or soil, or lying on thorns, or lying on rods, or [lying] on board, or lying on ground which is smeared with cow-dung, or lying in water, or having baths thrice a day, or standing with one leg [with] the body turned along with the sun. These sufferings are practised diligently. Sīvaka, they are called self-harm. [19] [Regarding] harm from others, [it is] either by another’s hand, stone, knife, staff, etc.–harming the body in various ways–this is called harm from others. Sīvaka, also, if it is harmed by seasonal change–it is very cold in winter, very hot in spring, [and] both cold as well as hot in summer[20] –this is called being harmed by seasonal change.”[21]
 
 “… the suffering maybe has arisen from the wind humour–the sentient beings are aware of this, or has arisen from the phlegm humour, or has arisen from the saliva humour,[17] or has arisen from the equally contributing factors,[18] or [is due to] self-harm, or [is due to] harm from others, or is due to seasonal change. That [concerning] self-harm: [it is] either pulling head hairs, or pulling beards, or always standing with arms raised, or squatting on ground, or lying in ash or soil, or lying on thorns, or lying on rods, or [lying] on board, or lying on ground which is smeared with cow-dung, or lying in water, or having baths thrice a day, or standing with one leg [with] the body turned along with the sun. These sufferings are practised diligently. Sīvaka, they are called self-harm. [19] [Regarding] harm from others, [it is] either by another’s hand, stone, knife, staff, etc.–harming the body in various ways–this is called harm from others. Sīvaka, also, if it is harmed by seasonal change–it is very cold in winter, very hot in spring, [and] both cold as well as hot in summer[20] –this is called being harmed by seasonal change.”[21]
 
@@ -2749,11 +2440,7 @@ In addition, various diseases are listed in the Aṅguttara Nikāya (V. 110), th
 
 “eye disease, inner-ear disease, nose disease, tongue disease, body disease, head disease, external-ear disease, mouth disease, tooth disease, cough, asthma, catarrh, burning, fever, abdominal disease, fainting, dysentery, colic, cholera, leprosy, furuncle, white leprous spot,[26] tuberculosis, epilepsy, rash, itch, scab, itchy pimples,[27] scabies, haemorrhage, diabetes, haemorrhoids, pustule, fistula; diseases with bile as origination, diseases with phlegm as origination, diseases with wind as origination, diseases resulting from the combination of the humours, diseases arisen from seasonal change, diseases arisen from wrong behaviour (of oneself), diseases pertaining to assault, diseases arisen from the result of (one’s) deeds, cold, heat, hunger, thirst, excrement, and urine.”[28]
 
-“eye disease, inner-ear disease, nose disease, tongue disease, body disease, head disease, external-ear disease, mouth disease, tooth disease, cough, asthma, catarrh, burning, fever, abdominal disease, fainting, dysentery, colic, cholera, leprosy, furuncle, white leprous spot,[26] tuberculosis, epilepsy, rash, itch, scab, itchy pimples,[27] scabies, haemorrhage, diabetes, haemorrhoids, pustule, fistula; diseases with bile as origination, diseases with phlegm as origination, diseases with wind as origination, diseases resulting from the combination of the humours, diseases arisen from seasonal change, diseases arisen from wrong behaviour (of oneself), diseases pertaining to assault, diseases arisen from the result of (one’s) deeds, cold, heat, hunger, thirst, excrement, and urine.”[28]
-
 Enumeration of diseases is also found in the Āgama. In the Madhyama Āgama (Taishō Tripiṭaka 26. 467c22-26), some diseases are named, though not as many as in the Pāli texts:
-
-“Regarding disease, it means headache, eye-ache, earache, nose-ache, facial pain, lip-ache, toothache, tongue-ache, jaw pain, pharyngeal pain,[29] wheeze,[30] cough, belching and vomiting, laryngeal numbness, epilepsy, carbuncle and neck swelling, menorrhagia, haemorrhage,[31] high fever, wasting disease, [32] haemorrhoid and fistula, [and] dysentery. If there are other various diseases such as these [abovementioned], … these are known as disease.”[33]
 
 “Regarding disease, it means headache, eye-ache, earache, nose-ache, facial pain, lip-ache, toothache, tongue-ache, jaw pain, pharyngeal pain,[29] wheeze,[30] cough, belching and vomiting, laryngeal numbness, epilepsy, carbuncle and neck swelling, menorrhagia, haemorrhage,[31] high fever, wasting disease, [32] haemorrhoid and fistula, [and] dysentery. If there are other various diseases such as these [abovementioned], … these are known as disease.”[33]
 
@@ -2767,8 +2454,6 @@ A similar instruction is found in the Ekottara Āgama:
 
 “Furthermore, [one] restrains one’s mind (when) coming close to the medicine, without arising any thought of clinging. Regarding that medicament, it is wanted only for the purpose of curing the illness, [so that] the body has ease and tranquillity.”[37]
 
-“Furthermore, [one] restrains one’s mind (when) coming close to the medicine, without arising any thought of clinging. Regarding that medicament, it is wanted only for the purpose of curing the illness, [so that] the body has ease and tranquillity.”[37]
-
 Thus, from the above descriptions, various instructions in relation to treatments are present in the Buddhist discourses.
 
 Medicine concerns not only curing disease, but also sustaining health. A healthy body can be supportive for spiritual development and attainment; conversely, a sick body can be obstructive to this goal. In the early Buddhist literature, there are numerous instructions which relate to health maintenance and hygiene, such as diet control, exercise, use of tooth-wood, sanitation, and so on. These will be described one by one below.
@@ -2776,8 +2461,6 @@ Medicine concerns not only curing disease, but also sustaining health. A healthy
 Food is an important element for life and health. [38] The Buddha has especially given instructions on consuming food in connection with health. It is suggested by the Buddha to control ones’ number, time, and amount of meals. In the Majjhima Nikāya (I. 124; I. 437) the Buddha taught the monks to eat only one meal daily for the purpose of health: “Bhikkhus, I eat at a single session. By so doing, I am free from illness and affliction, and I enjoy health, strength, and a comfortable abiding. Come, bhikkhus, eat at a single session” (Ñāṇamoli 2001, 218, 542).[39]
 
 Moreover, another advice by the Buddha found in the Majjhima Nikāya (I. 473) is not to consume a meal at night:
-
-“Bhikkhus, I abstain from eating at night. By doing so, I am free from illness and affliction, and I enjoy health, strength, and a comfortable abiding. Come, bhikkhus, abstain from eating at night” (Ñāṇamoli 2001, 577).
 
 “Bhikkhus, I abstain from eating at night. By doing so, I am free from illness and affliction, and I enjoy health, strength, and a comfortable abiding. Come, bhikkhus, abstain from eating at night” (Ñāṇamoli 2001, 577).
 
@@ -2789,11 +2472,7 @@ In the Theravāda Bhesajjakkhandhaka, ten benefits are given:
 
 “Brahmin, these ten are the benefits of rice-gruel. What are the ten? One who is giving rice-gruel gives life, gives beauty, gives happiness, gives strength, [and] gives intelligence. The rice-gruel which is drunk dispels hunger, removes thirst, conforms to wind (humour), clears the bladder, [and] digests the undigested food.”[42]
 
-“Brahmin, these ten are the benefits of rice-gruel. What are the ten? One who is giving rice-gruel gives life, gives beauty, gives happiness, gives strength, [and] gives intelligence. The rice-gruel which is drunk dispels hunger, removes thirst, conforms to wind (humour), clears the bladder, [and] digests the undigested food.”[42]
-
 The Dharmaguptaka Vinaya reports five benefits:
-
-“There are five benefits of consuming rice-gruel: [it] removes hunger, settles thirst, digests overnight [undigested] food, eases passing of excrement and urine, [and] relieves wind.”[43]
 
 “There are five benefits of consuming rice-gruel: [it] removes hunger, settles thirst, digests overnight [undigested] food, eases passing of excrement and urine, [and] relieves wind.”[43]
 
@@ -2805,15 +2484,11 @@ Five benefits are expressed by the Buddha in the Aṅguttara Nikāya (III. 29-30
 
 “Bhikkhus, there are these five benefits of walking meditation. What five? One becomes capable of journeys; one becomes capable of striving; one becomes healthy; what one has eaten, drunk, consumed, and tasted is properly digested; the concentration attained through walking meditation is long lasting” (Bodhi 2012, 651).
 
-“Bhikkhus, there are these five benefits of walking meditation. What five? One becomes capable of journeys; one becomes capable of striving; one becomes healthy; what one has eaten, drunk, consumed, and tasted is properly digested; the concentration attained through walking meditation is long lasting” (Bodhi 2012, 651).
-
 Hence, walking can be conducive to health. Other walking activities–such as going for alms every morning, walking after meals, and wandering in long journeys–can be exercise which would be beneficial for health (Ratnapala 1993, 177-179).
 
 Hygiene, both personal and public, is no doubt a significant factor for preventing illness and maintaining health. Relevant advice is given pertaining to oral hygiene, use of the lavatory, and tidiness of living and public places. Tooth-wood (Pāli: dantakaṭṭha;Sanskrit: dantakāṣṭha; Chinese: 齒木 or 楊枝) is used for cleaning teeth and maintaining oral health. [46] Disadvantages of not chewing tooth-wood and the benefits of chewing it are told in many Buddhist texts.
 
 In the Aṅguttara Nikāya, such disadvantages and benefits are indicated:
-
-“Monks, these five are the disadvantages in not chewing the toothwood. What are the five? It is bad for the eyes; mouth has bad smell; the taste buds are not cleansed; bile and phlegm cover up the food;[and] food does not give pleasure for this [person]. Monks, these five are the disadvantages in not chewing the tooth-wood. Monks, these five are the benefits in chewing the tooth-wood. What are the five? It is good for the eyes; mouth does not have bad smell; the taste buds are cleansed; bile and phlegm do not cover up the food; [and] food gives pleasure for this [person]. These five are the benefits in chewing the tooth-wood.”[47]
 
 “Monks, these five are the disadvantages in not chewing the toothwood. What are the five? It is bad for the eyes; mouth has bad smell; the taste buds are not cleansed; bile and phlegm cover up the food;[and] food does not give pleasure for this [person]. Monks, these five are the disadvantages in not chewing the tooth-wood. Monks, these five are the benefits in chewing the tooth-wood. What are the five? It is good for the eyes; mouth does not have bad smell; the taste buds are cleansed; bile and phlegm do not cover up the food; [and] food gives pleasure for this [person]. These five are the benefits in chewing the tooth-wood.”[47]
 
@@ -2823,11 +2498,7 @@ In the Dharmaguptaka Vinaya, the faults and benefits of utilising toothwood are 
 
 “Not chewing tooth-wood has five faults: bad breath;tastes are not well discerned; bile and phlegm do not vanish; food is not appealing; eye[-sight] is not clear. Chewing tooth-wood has five benefits (the opposites of the above).”[48]
 
-“Not chewing tooth-wood has five faults: bad breath;tastes are not well discerned; bile and phlegm do not vanish; food is not appealing; eye[-sight] is not clear. Chewing tooth-wood has five benefits (the opposites of the above).”[48]
-
 The Sarvāstivāda Vinaya provides a rather unique list only of benefits:
-
-“Chewing tooth-wood has five benefits: one, mouth is not bitter; two, mouth has no bad smell; three, wind is eliminated; four, fever is relieved; five, phlegm is removed. Again, there are five benefits: one, wind is eliminated; two, heat is removed; three, taste is enhanced in mouth; four, one can eat; five, eye[-sight] is clear.”[49]
 
 “Chewing tooth-wood has five benefits: one, mouth is not bitter; two, mouth has no bad smell; three, wind is eliminated; four, fever is relieved; five, phlegm is removed. Again, there are five benefits: one, wind is eliminated; two, heat is removed; three, taste is enhanced in mouth; four, one can eat; five, eye[-sight] is clear.”[49]
 
@@ -2835,11 +2506,7 @@ The Ekottara Āgama, unusually, lists the benefits obtained by giving tooth-wood
 
 “Giving others tooth-wood brings five benefits. What are the five? One, wind is dispelled; two, saliva and spittle are removed;three, [food in] the upper digestive tract gets digested; four, there is no bad smell in mouth; five, eye is purified. These are called, monks, ‘giving others tooth-wood brings five benefits’.”[50]
 
-“Giving others tooth-wood brings five benefits. What are the five? One, wind is dispelled; two, saliva and spittle are removed;three, [food in] the upper digestive tract gets digested; four, there is no bad smell in mouth; five, eye is purified. These are called, monks, ‘giving others tooth-wood brings five benefits’.”[50]
-
 The Mahāsāṃghika Vinaya provides further information about the tooth-wood:
-
-“Tooth-wood has two kinds: one, a torn (strip); two, a round mass. If a monk’s mouth has an ulcer arisen due to heat, [and] the physician says that ‘[one] should chew the tooth-wood and swallow the juice,’ [then one] should accept it.”[51]
 
 “Tooth-wood has two kinds: one, a torn (strip); two, a round mass. If a monk’s mouth has an ulcer arisen due to heat, [and] the physician says that ‘[one] should chew the tooth-wood and swallow the juice,’ [then one] should accept it.”[51]
 
@@ -2848,10 +2515,6 @@ From the above sources, it can be noted that oral hygiene is much stressed for t
 Sanitation is a significant aspect for protecting health. According to the Vinaya, initially there was no fixed place for the monks to pass their urine and faeces. They did it anywhere in the monastery. This caused sanitary problems. The Buddha then gradually laid down rules about the use of the lavatory (vaccakūti) and connected things such as lidded urinal pots (passāvakumbhī), urinal shoes (passāvapādukā), cesspools (vaccakūpa), latrine-shoes (vaccapādukā), troughs for urine (passāvadonikā), wooden strips for scraping (avalekhanakaṭṭha), and so forth. Teachings of how to build and use these things and how to keep the lavatory clean are also given (Theravāda Vinaya Piṭaka II. 140-142). In addition, guidelines on maintaining tidiness of living quarters and public places (such as refectory, lavatory, and bathroom) are also found in the Vinaya (Theravāda Vinaya Piṭaka II. 208-210, 216-221), indicating the emphasis of sanitation and health protection.
 
 In brief, in early Buddhist literature there are various pieces of advice pertaining to diet control, physical exercise, oral hygiene, and sanitation. These can be regarded as measures for health promotion. Besides, there are other instructions in the Buddhist scriptures, though not described for the purpose of health, that can be associated with hygiene and health, such as shaving hair, cutting nails, building and using bathrooms, washing robes, filtering water, etc. [52] These means are regarded as essential for achieving health and longevity, as per the medical teachings in the Āyuvedic texts such as the Sūtrasthāna of the Caraka Saṃhitā.
-
-Footnotes and references:
-
-[back to top]
 
 [1]:
 
@@ -3069,15 +2732,9 @@ Ann Heirman and Mathieu Torch have published a book, A Pure Mind in a Clean Body
 
 ## 37. Medicines (c): Leaves (Paṇṇa/Patra)
 
-
 Bhesajjakkhandhaka (Chapter on Medicine)
 
-by Hin-tak Sik | 2016 | 121,742 words
-
 This study deals with the ancient Indian Medicine (Ayurveda) in Early Buddhist Literature and studies the Bhesajjakkhandhaka and the Parallels in other Vinaya Canons. The word Bhesajja means “medicine” and is the sixth chapter of the Khandhaka, which represents the second book of the Pali Vinaya Pitaka. Other works consulted include the Bhaisajya-s...
-
-Go directly to: 
-Footnotes.
 
 Medicines (c): Leaves (Paṇṇa/Patra)
 
@@ -3098,10 +2755,6 @@ Mūlasarvāstivāda (Chinese):—“Leaf medicines are three leaves,[4] [which] 
 All these plants are known in Āyurveda, but are not specified as leafmedicines. Moreover, various leaves are mentioned in the Āyurvedic texts but they are not systematised as a particular category. Numerous leaves are named in the group of vegetables (śāka) in the chapters concerning food and drink in these Indian medical treatises, with their individual properties and effects on the body (Caraka Saṃhitā Sūtrasthāna 27. 878 ff.; Suśruta Saṃhitā Sūtrasthāna 46. 249 ff.; Aṣṭāṅga Hṛdaya Saṃhitā Sūtrasthāna 6. 72 ff.). In modern medicinal botany, it is stated that “the leaves of plants, shrubs, and trees can be used for medicinal properties. Leaves can be used alone or can be mixed with twigs, stems, and buds” (U.S. Forest Service 2015b).
 
 The leaf-medicines mentioned in the Chapters on Medicine of the Theravāda and Mūlasarvāstivāda Vinayas are summarised as follows:
-
-Footnotes and references:
-
-[back to top]
 
 [1]:
 
@@ -3127,15 +2780,9 @@ Taishō Tripiṭaka 1448. 1b15-16: “葉藥者，三葉：謂酸菜婆奢迦葉
 
 ## 38. Medicines (f): Gum-Resins (Jatu)
 
-
 Bhesajjakkhandhaka (Chapter on Medicine)
 
-by Hin-tak Sik | 2016 | 121,742 words
-
 This study deals with the ancient Indian Medicine (Ayurveda) in Early Buddhist Literature and studies the Bhesajjakkhandhaka and the Parallels in other Vinaya Canons. The word Bhesajja means “medicine” and is the sixth chapter of the Khandhaka, which represents the second book of the Pali Vinaya Pitaka. Other works consulted include the Bhaisajya-s...
-
-Go directly to: 
-Footnotes.
 
 Medicines (f): Gum-Resins (Jatu)
 
@@ -3169,13 +2816,7 @@ Gums and resins are well explained in modern medicinal botany. The following is 
 
 “Gums are solids consisting of mixtures of polysaccharides. They are water-soluble and partially digested by humans. Gum sometimes flows from a damaged stem, as a defence mechanism of the plant to stop wood-boring insects and to seal off wounds so that wood-rotting fungi and bacteria are kept out. An example of such an exudate gum is gum arabic … Resins are excreted by specialised cells or ducts in plants. They consist of a mixture of essential oils and polymerised terpenes, usually insoluble in water. Examples are frankincense … myrrh … balsams …”
 
-“Gums are solids consisting of mixtures of polysaccharides. They are water-soluble and partially digested by humans. Gum sometimes flows from a damaged stem, as a defence mechanism of the plant to stop wood-boring insects and to seal off wounds so that wood-rotting fungi and bacteria are kept out. An example of such an exudate gum is gum arabic … Resins are excreted by specialised cells or ducts in plants. They consist of a mixture of essential oils and polymerised terpenes, usually insoluble in water. Examples are frankincense … myrrh … balsams …”
-
 Names of gum-resins recorded in various versions of the Chapter on Medicine are organised in the following table:
-
-Footnotes and references:
-
-[back to top]
 
 [1]:
 
@@ -3239,15 +2880,9 @@ See Oxford English Dictionary, 3rd ed, s.v. “benzoin” and “storax” [acce
 
 ## 39. Medicines (g): Decoctions/Astringent Medicines (Kasāva/Kaṣāya)
 
-
 Bhesajjakkhandhaka (Chapter on Medicine)
 
-by Hin-tak Sik | 2016 | 121,742 words
-
 This study deals with the ancient Indian Medicine (Ayurveda) in Early Buddhist Literature and studies the Bhesajjakkhandhaka and the Parallels in other Vinaya Canons. The word Bhesajja means “medicine” and is the sixth chapter of the Khandhaka, which represents the second book of the Pali Vinaya Pitaka. Other works consulted include the Bhaisajya-s...
-
-Go directly to: 
-Footnotes.
 
 Medicines (g): Decoctions/Astringent Medicines (Kasāva/Kaṣāya)
 
@@ -3284,13 +2919,7 @@ Modern herbal medicine has some forms of medicines resembling the decoctions tha
 
 “Extracts are liquids, powdered or viscous crude mixtures of chemical compounds, extracted from plant material using water or organic solvents such as alcohol (ethanol). As a result, the extract contains only the soluble fractions of the plant material … and the non-soluble (fibrous) residues … are discarded. … Decoction refers to a preparation that is made by adding cold water to the required amount of drug. It is then heated to boiling and allowed to simmer for five to ten minutes, after which it is strained. Infusion refers to a preparation that is made by adding boiling water to the required amount of drug, which is allowed to steep for five to ten minutes before it is strained. … Maceration refers to a preparation made by adding cold water to the required amount of drug, which is allowed to soak at room temperature for six to eight hours before it is strained. Juice is prepared by crushing freshly harvested plant parts in water and then expressing the juice.”
 
-“Extracts are liquids, powdered or viscous crude mixtures of chemical compounds, extracted from plant material using water or organic solvents such as alcohol (ethanol). As a result, the extract contains only the soluble fractions of the plant material … and the non-soluble (fibrous) residues … are discarded. … Decoction refers to a preparation that is made by adding cold water to the required amount of drug. It is then heated to boiling and allowed to simmer for five to ten minutes, after which it is strained. Infusion refers to a preparation that is made by adding boiling water to the required amount of drug, which is allowed to steep for five to ten minutes before it is strained. … Maceration refers to a preparation made by adding cold water to the required amount of drug, which is allowed to soak at room temperature for six to eight hours before it is strained. Juice is prepared by crushing freshly harvested plant parts in water and then expressing the juice.”
-
 The following table enumerates the decoction-medicines or astringent medicines that have been mentioned in the Chapters on Medicine.
-
-Footnotes and references:
-
-[back to top]
 
 [1]:
 
@@ -3342,15 +2971,9 @@ The information on kapilā (South Indian redwood) is based on A Sanskrit-English
 
 ## 40. Medicines (d): Flowers (Puṣpa)
 
-
 Bhesajjakkhandhaka (Chapter on Medicine)
 
-by Hin-tak Sik | 2016 | 121,742 words
-
 This study deals with the ancient Indian Medicine (Ayurveda) in Early Buddhist Literature and studies the Bhesajjakkhandhaka and the Parallels in other Vinaya Canons. The word Bhesajja means “medicine” and is the sixth chapter of the Khandhaka, which represents the second book of the Pali Vinaya Pitaka. Other works consulted include the Bhaisajya-s...
-
-Go directly to: 
-Footnotes.
 
 Medicines (d): Flowers (Puṣpa)
 
@@ -3372,10 +2995,6 @@ These plants are known in the classical Āyurvedic texts and flowers are widely 
 
 The following table lists the various names of flower-medicines found in the Chapters on Medicine:
 
-Footnotes and references:
-
-[back to top]
-
 [1]:
 
 Gilgit Manuscripts III. 1.iii: “puṣpabhaiṣajyam| pañca puṣpāṇi| vāśikapuṣpaṃ nimbapuṣpaṃ dhātukīpuṣpaṃ śaṭipuṣpaṃ [nāgapuṣpaṃ] padmakeśaramiti| yadvā punaranyadapi [puṣpa-]bhaiṣajyārthāya spharati nāmiṣārthāya|” Dhātukī seems to be a corruption of dhātakī (fire-flame bush). Śaṭipuṣpa is missing in the Chinese version. According to a footnote in the Gilgit Manuscripts, the original manuscript has the item nāgapuṣpa preceding padmakeśara, but it is absent in the Tibetan version of the Mūlasarvāstivāda Bhaiṣajyavastu. So the editor did not show it in the Gilgit Manuscripts edition. The Chinese version has it (龍花) as the fourth item in the list. Thus it is replaced here. The English common name is adopted from Srikantha Murthy’s translation of Bhāvaprakāśa (2011, vol. 1, 217).
@@ -3392,15 +3011,9 @@ Taishō Tripiṭaka 1425. 494b8-10: “華者，優鉢羅、瞻蔔、須摩那�
 
 ## 41. Medicines (h): Alkaline Ashes (Kṣāra)
 
-
 Bhesajjakkhandhaka (Chapter on Medicine)
 
-by Hin-tak Sik | 2016 | 121,742 words
-
 This study deals with the ancient Indian Medicine (Ayurveda) in Early Buddhist Literature and studies the Bhesajjakkhandhaka and the Parallels in other Vinaya Canons. The word Bhesajja means “medicine” and is the sixth chapter of the Khandhaka, which represents the second book of the Pali Vinaya Pitaka. Other works consulted include the Bhaisajya-s...
-
-Go directly to: 
-Footnotes.
 
 Medicines (h): Alkaline Ashes (Kṣāra)
 
@@ -3426,10 +3039,6 @@ Certain alkaline ashes are mentioned in the Chapters on Medicine as medicines. T
 Ashes are produced when plants or wood are burned. The properties of ash depend, at least partially, on the type of plant and the part of the plant being combusted. The main constituents of ash are carbon (from incomplete burning) and mineral compounds such as oxides, hydroxides, and carbonates of calcium, potassium, sodium, magnesium, and so on, with calcium carbonate being the major one. Hence, ashes of plants serve as a liming agent and a source of minerals (Demeyer, Voundi Nkana, and Verloo 2001; Ohno and Erich 1990). It may be why ashes are used in Āyurveda and other medical traditions. Modern medicine, however, no longer employs ashes as a tool for alkalinity or minerals.
 
 The following table lists the ash-medicines recorded in the Vinayas:
-
-Footnotes and references:
-
-[back to top]
 
 [1]:
 
@@ -3483,15 +3092,9 @@ See Dutt 2012, 87.
 
 ## 42. Medicines (e): Fruits (Phala)
 
-
 Bhesajjakkhandhaka (Chapter on Medicine)
 
-by Hin-tak Sik | 2016 | 121,742 words
-
 This study deals with the ancient Indian Medicine (Ayurveda) in Early Buddhist Literature and studies the Bhesajjakkhandhaka and the Parallels in other Vinaya Canons. The word Bhesajja means “medicine” and is the sixth chapter of the Khandhaka, which represents the second book of the Pali Vinaya Pitaka. Other works consulted include the Bhaisajya-s...
-
-Go directly to: 
-Footnotes.
 
 Medicines (e): Fruits (Phala)
 
@@ -3525,17 +3128,11 @@ There are explanations on certain fruits in the Shanjian lüpiposha:
 
 “Yellow myrobalan is as large as a date fruit [and] it tastes sour and bitter. Consumption [of it] helps evacuation. Beleric myrobalan is like a peach in shape [and] its taste is sweet. Consumption [of it] can cure coughing. Emblic myrobalan–this is yuganzi 餘甘子 [in Chinese]. The land of Guangzhou has it. Its shape is as large as ruizi 蕤子 (hedge prinsepia nut).”[15]
 
-“Yellow myrobalan is as large as a date fruit [and] it tastes sour and bitter. Consumption [of it] helps evacuation. Beleric myrobalan is like a peach in shape [and] its taste is sweet. Consumption [of it] can cure coughing. Emblic myrobalan–this is yuganzi 餘甘子 [in Chinese]. The land of Guangzhou has it. Its shape is as large as ruizi 蕤子 (hedge prinsepia nut).”[15]
-
 Large sections of information on fruits are found in the classical Āyurvedic treatises. Numerous fruits are used as remedial objects, as reported in Caraka Saṃhitā Sūtrasthāna 1. 80-86, Suśruta Saṃhitā Sūtrasthāna 38, and Aṣṭāṅga Hṛdaya Saṃhitā Sūtrasthāna 6. 153-159, 161-162. They also form a major group of food materials, as described in Caraka Saṃhitā Sūtrasthāna 27. 125-165; Suśruta Saṃhitā Sūtrasthāna 46. 139-210, 223-225; and Aṣṭāṅga Hṛdaya Saṃhitā Sūtrasthāna 6. 115-140. Certain fruits are commonly used therapeutically in Āyurveda, namely, yellow myrobalan, emblic myrobalan, and beleric myrobalan, and they are known as “triphalā” (the group of three fruits).
 
 In medicinal botany, small dry fruits (often mistaken as seeds) are most commonly used among various fruits. Dried whole fruits or specified parts (e.g. peel) can be used (van Wyk and Wink 2004, 16).
 
 The following table summarises the fruits which were used as medicines throughout one’s whole life as mentioned in the Chapters on Medicine:
-
-Footnotes and references:
-
-[back to top]
 
 [1]:
 
@@ -3605,15 +3202,9 @@ Taishō Tripiṭaka 1462. 795a20-23: “呵羅勒者，如大棗大，其味酢�
 
 ## 43. Medicines (i): Salts (Loṇa/Lavaṇa)
 
-
 Bhesajjakkhandhaka (Chapter on Medicine)
 
-by Hin-tak Sik | 2016 | 121,742 words
-
 This study deals with the ancient Indian Medicine (Ayurveda) in Early Buddhist Literature and studies the Bhesajjakkhandhaka and the Parallels in other Vinaya Canons. The word Bhesajja means “medicine” and is the sixth chapter of the Khandhaka, which represents the second book of the Pali Vinaya Pitaka. Other works consulted include the Bhaisajya-s...
-
-Go directly to: 
-Footnotes.
 
 Medicines (i): Salts (Loṇa/Lavaṇa)
 
@@ -3647,17 +3238,11 @@ The Samantapāsādikā provides explanations for the salts in the Theravāda lis
 
 “Marine salt: it remains like sand on the seashore. Black salt: it is a natural salt. Rock salt: it is white in colour [and] it arises in the mountain. Earth salt: it arises as a sprout from earth. Artificial salt: it is cooked with all requisite ingredients [and] it is red-coloured.”[8] These exegetical data are helpful for recognising certain salts which are described only by colours in the Chinese sources: red salt may refer to artificial salt (Pāli: bila; Sanskrit: viḍa), white salt to rock salt or sea salt (which, as we know, is also white in colour), and black salt to kāḷaloṇa/kālalavaṇa or saurvarcala, the latter being a dark colour salt (Dutt 2012, 85).[9] Purple salt in the Sarvāstivāda list thus may be sauvarcala.
 
-“Marine salt: it remains like sand on the seashore. Black salt: it is a natural salt. Rock salt: it is white in colour [and] it arises in the mountain. Earth salt: it arises as a sprout from earth. Artificial salt: it is cooked with all requisite ingredients [and] it is red-coloured.”[8] These exegetical data are helpful for recognising certain salts which are described only by colours in the Chinese sources: red salt may refer to artificial salt (Pāli: bila; Sanskrit: viḍa), white salt to rock salt or sea salt (which, as we know, is also white in colour), and black salt to kāḷaloṇa/kālalavaṇa or saurvarcala, the latter being a dark colour salt (Dutt 2012, 85).[9] Purple salt in the Sarvāstivāda list thus may be sauvarcala.
-
 Abundant information pertaining to salts is found in the classical Āyurvedic treatises. All salts in the Chapters on Medicine (except those which are uncertain or unidentified) are well elaborated in Āyurveda, which includes even more salts. Details of different salts, with their individual properties and effects, can be read in Caraka Saṃhitā Sūtrasthāna 1. 88-92, 27. 300-304; Vimānasthāna 8. 141; Suśruta Saṃhitā Sūtrasthāna 46. 313-321; Aṣṭāṅga Hṛdaya Saṃhitā Sūtrasthāna 6. 143-149. “Salts in general are palatable, promote of digestion [sic], laxative and alleviator of vāta” (Caraka Saṃhitā Sūtrasthāna 27. 304).
 
 According to modern chemistry, salt is a compound formed as a result of the chemical reaction between an acid and a base. The most common salt is sodium chloride. Salt is needed for the survival of most animals and plants. It has many uses such as adding flavour to foods, preserving meat, acting as a source of sodium and chlorine, producing soaps, and so on (Lerner and Lerner 2008b, 3779-3780). Nowadays, salt is obtained from seawater, natural brines, and rock salt deposits in salt beds, rock masses, or salt domes (Encyclopӕdia Britannica Online, s.v. “salt (NaCl)”).[10]
 
 Salts mentioned in the Chapters on Medicine are summarised in the table below:
-
-Footnotes and references:
-
-[back to top]
 
 [1]:
 
@@ -3705,15 +3290,9 @@ Encyclopædia Britannica Online, s.v. “salt (NaCl)” [accessed February 12, 2
 
 ## 44. Medicines (j): Scented Substances
 
-
 Bhesajjakkhandhaka (Chapter on Medicine)
 
-by Hin-tak Sik | 2016 | 121,742 words
-
 This study deals with the ancient Indian Medicine (Ayurveda) in Early Buddhist Literature and studies the Bhesajjakkhandhaka and the Parallels in other Vinaya Canons. The word Bhesajja means “medicine” and is the sixth chapter of the Khandhaka, which represents the second book of the Pali Vinaya Pitaka. Other works consulted include the Bhaisajya-s...
-
-Go directly to: 
-Footnotes.
 
 Medicines (j): Scented Substances
 
@@ -3734,10 +3313,6 @@ Scented substances as medicines have no therapeutic role in modern medicine, tho
 
 The following table enumerates the scented substances in the abovementioned Vinaya sources:
 
-Footnotes and references:
-
-[back to top]
-
 [1]:
 
 伽羅[少/兔]婆羅 should be a corruption of 伽羅[少/兔]娑羅, which is kālānusārya (Pāli: kāḷānusāriya). There is no consensus on what it is. There are several renderings: Pali-English Dictionary suggests that it is a kind of black sandalwood (“kālānusārī” in s.v. “kāla”); A Sanskrit-English Dictionary gives the possibilities that it is Indian rosewood (Dalbergia sissoo) (s.v. “kālānusārya”) or gum benzoin (s.v. “kālānusāryaka”); in Kan'yaku taishō Bon-Wa daijiten 漢譯對照梵和大辭典 (Compared with the Chinese Translations: The Sanskrit-Japanese Dictionary), it is said as a kind of Persian incense (benzoin); in Bhāvaprakāśa 1. 6.iii. 28, this term is said to be synonymous with tagara (Indian valerian, Valeriana wallichii); Woodward, based on Benfey’ Sanskrit Dictionary, states in a footnote in his translation of the Aṅguttara Nikāya that it is benzoin and he translates it as “black gum” (The Book of Gradual Saying, vol. V, 17n1); in Cone’s A Dictionary of Pāli: Part I and an endnote of Zysk (1991, 159n24), based on several statements relating to this term (and similar terms such as kāḷānusārī and kāḷānusārika), this substance is understood as “the best of scented roots” (Aṅguttara Nikāya V. 22 and Saṃyutta Nikāya V. 44: “ye keci mūlagandhā, kāḷānusāriyaṃ tesaṃ aggam akkhāyati”;see also Majjhima Nikāya III. 6, Saṃyutta Nikāya III. 156); Ñāṇamoli and Bodhi, in their own translations of the Nikāyas, render the term as black orris. Hence, with much confusion, the exact plant or substance for kālānusārya is not yet certain.
@@ -3754,15 +3329,9 @@ Taishō Tripiṭaka 1425. 482c25-29: “佛言：「從今日聽病比丘用香�
 
 ## 45. Medicines (k): Medicinal Powders
 
-
 Bhesajjakkhandhaka (Chapter on Medicine)
 
-by Hin-tak Sik | 2016 | 121,742 words
-
 This study deals with the ancient Indian Medicine (Ayurveda) in Early Buddhist Literature and studies the Bhesajjakkhandhaka and the Parallels in other Vinaya Canons. The word Bhesajja means “medicine” and is the sixth chapter of the Khandhaka, which represents the second book of the Pali Vinaya Pitaka. Other works consulted include the Bhaisajya-s...
-
-Go directly to: 
-Footnotes.
 
 Medicines (k): Medicinal Powders
 
@@ -3783,10 +3352,6 @@ These powders, like the aromatic substances above, are used externally for curin
 Both Āyurveda and modern medicine use medicinal powders for curing skin problems. This will be further discussed in Chapter Five.
 
 The following table summarises the mentioned powders:
-
-Footnotes and references:
-
-[back to top]
 
 [1]:
 
@@ -3812,15 +3377,9 @@ Samantapāsādikā V. 1090: “... tassāpi sirīsakosambādicuṇṇāni vā ga
 
 ## 46. Medicines (m): Unclassified Substances
 
-
 Bhesajjakkhandhaka (Chapter on Medicine)
 
-by Hin-tak Sik | 2016 | 121,742 words
-
 This study deals with the ancient Indian Medicine (Ayurveda) in Early Buddhist Literature and studies the Bhesajjakkhandhaka and the Parallels in other Vinaya Canons. The word Bhesajja means “medicine” and is the sixth chapter of the Khandhaka, which represents the second book of the Pali Vinaya Pitaka. Other works consulted include the Bhaisajya-s...
-
-Go directly to: 
-Footnotes.
 
 Medicines (m): Unclassified Substances
 
@@ -3848,10 +3407,6 @@ Sarvāstivāda:—“The physician said: ‘Should eat things from the pond.’ 
 Mahāsāṃghika:—“... except the dregs [from making] rock sugar, all remaining earth.” [7]
 
 The English and botanical names of these substances are listed below:
-
-Footnotes and references:
-
-[back to top]
 
 [1]:
 
@@ -3885,10 +3440,7 @@ Taishō Tripiṭaka1425: 245a1-2: “除石蜜滓地餘一切地。” 地 here 
 
 ## 47. Chapter 5 - Diseases and Treatments in the Chapter on Medicine
 
-
 Bhesajjakkhandhaka (Chapter on Medicine)
-
-by Hin-tak Sik | 2016 | 121,742 words
 
 This study deals with the ancient Indian Medicine (Ayurveda) in Early Buddhist Literature and studies the Bhesajjakkhandhaka and the Parallels in other Vinaya Canons. The word Bhesajja means “medicine” and is the sixth chapter of the Khandhaka, which represents the second book of the Pali Vinaya Pitaka. Other works consulted include the Bhaisajya-s...
 
@@ -3900,15 +3452,9 @@ Chapter 5 - Diseases and Treatments in the Chapter on Medicine
 
 ## 48. Medicines (l): Putrid Medicines
 
-
 Bhesajjakkhandhaka (Chapter on Medicine)
 
-by Hin-tak Sik | 2016 | 121,742 words
-
 This study deals with the ancient Indian Medicine (Ayurveda) in Early Buddhist Literature and studies the Bhesajjakkhandhaka and the Parallels in other Vinaya Canons. The word Bhesajja means “medicine” and is the sixth chapter of the Khandhaka, which represents the second book of the Pali Vinaya Pitaka. Other works consulted include the Bhaisajya-s...
-
-Go directly to: 
-Footnotes.
 
 Medicines (l): Putrid Medicines
 
@@ -3927,10 +3473,6 @@ Mahāsāṃghika[2] :—“… The physician instructed: ‘[You] should consume
 According to Nanshan Vinaya Dictionary 南山律學辭典, putrid medicine (Chinese: 腐爛藥 or 陳棄藥) has two meanings: urine and excreta, or dregs of used medicines.[5] [6] It is one of the four things of reliance (Chinese: 四依法) for a monastic member, the other three being ragged clothing, begging for food, and sitting under trees. Monks and nuns can use their own excreta or urine, or those of other monastics (Taishō Tripiṭaka 1425. 504c15-16, 505a20-21). Āyurveda also includes many items of urine and animal dung as medicines or ingredients for making medicines. In the classical Āyurvedic texts, there is much information about different kinds of animal urine and their properties/effects. These urines are described to have multiple medicinal usages, such as alleviation of wind and phlegm humours, curing worms, antitoxic effects, and so on (Caraka Saṃhitā Sūtrasthāna 1. 92-105; Suśruta Saṃhitā Sūtrasthāna 45. 217-228; Aṣṭāṅga Hṛdaya Saṃhitā Sūtrasthāna 5. 82-83). Although various types of animal excrement are mentioned as ingredients in medicinal recipes in Āyurveda, there are few details on the medical use of faeces. One piece of information is about the juice of cow-dung, which was used for treating poisoning cases and has a cardiac protective effect (Caraka Saṃhitā Cikitsāsthāna 23. 46, 48).[7]
 
 In terms of modern biology, urine and faeces are wastes from the body. They contain chiefly metabolic waste products, electrolytes, microbes and toxins. In modern medicine, except for use in investigative tests to help determine the pathology or diagnosis of a disease, they have no medical value or any therapeutic uses.
-
-Footnotes and references:
-
-[back to top]
 
 [1]:
 
@@ -3964,15 +3506,9 @@ In contemporary Āyurveda, however, there is no mention of using urine or faeces
 
 ## 49. Chapter Summary
 
-
 Bhesajjakkhandhaka (Chapter on Medicine)
 
-by Hin-tak Sik | 2016 | 121,742 words
-
 This study deals with the ancient Indian Medicine (Ayurveda) in Early Buddhist Literature and studies the Bhesajjakkhandhaka and the Parallels in other Vinaya Canons. The word Bhesajja means “medicine” and is the sixth chapter of the Khandhaka, which represents the second book of the Pali Vinaya Pitaka. Other works consulted include the Bhaisajya-s...
-
-Go directly to: 
-Footnotes.
 
 Chapter Summary
 
@@ -3982,10 +3518,6 @@ The lists of medicinal substances amongst the extant Chapters on Medicine, as de
 
 However, not all the drugs in the Chapters on Medicine have been covered in this chapter. Those mentioned as remedies for certain illnesses, such as collyria for eye diseases and special beverages for humoral problems, will be examined together with other cures when we discuss these diseases and their treatments in the next chapter.
 
-Footnotes and references:
-
-[back to top]
-
 [1]:
 
 This latter point is based on a comment given by Dr. Petra Kieffer-Pülz of the Academy of Sciences and Literature, Germany, during the author’s presentation at the Seventeenth Congress of the International Association of Buddhist Studies in Vienna on August 19, 2014.
@@ -3994,15 +3526,9 @@ This latter point is based on a comment given by Dr. Petra Kieffer-Pülz of the 
 
 ## 50. Introduction
 
-
 Bhesajjakkhandhaka (Chapter on Medicine)
 
-by Hin-tak Sik | 2016 | 121,742 words
-
 This study deals with the ancient Indian Medicine (Ayurveda) in Early Buddhist Literature and studies the Bhesajjakkhandhaka and the Parallels in other Vinaya Canons. The word Bhesajja means “medicine” and is the sixth chapter of the Khandhaka, which represents the second book of the Pali Vinaya Pitaka. Other works consulted include the Bhaisajya-s...
-
-Go directly to: 
-Footnotes.
 
 Introduction
 
@@ -4016,10 +3542,6 @@ However, this chapter does not aim to be a medical essay which gives all details
 
 Diseases found in the Chapters on Medicine will be classified according to the patho-physiology and/or the anatomical parts involved. Moreover, the classification is presented in accordance with modern medical specialisation for the following reasons: readers of this thesis would be more familiar with contemporary medical terms; the author is more acquainted with the modern medical system because of his previous training; and the classification of diseases in terms of the eight branches of Āyurveda generally resembles that in modern medicine. The diseases therefore will be grouped and discussed as per modern medical specialties. These include: internal medicine (including autumnal illness, wind diseases, humoural diseases, fever, gastrointestinal disturbances, headache, and jaundice); toxicology (encompassing snakebite and poisoning); ophthalmology (discussing eye problems); dermatology (covering itching lesions, carbuncles, wounds, and others); surgery (examining perineal diseases and foot ailments); and psychiatry. These will be dealt with one by one in the following sections.
 
-Footnotes and references:
-
-[back to top]
-
 [1]:
 
 See Section 1. 2. 1 in Chapter One and footnote 1 of Chapter Four at p. 137 on these research questions.
@@ -4028,15 +3550,9 @@ See Section 1. 2. 1 in Chapter One and footnote 1 of Chapter Four at p. 137 on t
 
 ## 51. Internal Medicine (b): Wind Diseases
 
-
 Bhesajjakkhandhaka (Chapter on Medicine)
 
-by Hin-tak Sik | 2016 | 121,742 words
-
 This study deals with the ancient Indian Medicine (Ayurveda) in Early Buddhist Literature and studies the Bhesajjakkhandhaka and the Parallels in other Vinaya Canons. The word Bhesajja means “medicine” and is the sixth chapter of the Khandhaka, which represents the second book of the Pali Vinaya Pitaka. Other works consulted include the Bhaisajya-s...
-
-Go directly to: 
-Footnotes.
 
 Internal Medicine (b): Wind Diseases
 
@@ -4166,13 +3682,9 @@ Salted sour gruel is elaborated as:
 
 “Salted sour gruel by name is a medicine which is prepared with all flavours. Those [who are] making that surely, having put in decoctions of yellow myrobalan, emblic myrobalan, and beleric myrobalan; all grains; all prepared grains; also boiled rice of seven grains; the plantain fruit and so on; all fruits; the sprouts of cane, screw pine, date palm, and so on; all sprouts; pieces of fish flesh; various honey, molasses, and rock-salts;medicines of pungent [taste] and so on; having plastered the rim of a pot, place [it] aside [for] one or two or three years. Having that become ripe, it becomes the colour of black plum juice. Of [those foods] which are eaten as soft foods and of [those medicines treating] wind, cough, leprosy, jaundice, fistula, and so on, there is not a better drink of such quality [which is] a medicine [formed from] decaying of foods. Then this is for the monks in the afternoon. For the sick ones, it is indeed natural. For ones who are not sick, it is [consumed] by using as a drink [which is] mixed with water.”[44]
 
-“Salted sour gruel by name is a medicine which is prepared with all flavours. Those [who are] making that surely, having put in decoctions of yellow myrobalan, emblic myrobalan, and beleric myrobalan; all grains; all prepared grains; also boiled rice of seven grains; the plantain fruit and so on; all fruits; the sprouts of cane, screw pine, date palm, and so on; all sprouts; pieces of fish flesh; various honey, molasses, and rock-salts;medicines of pungent [taste] and so on; having plastered the rim of a pot, place [it] aside [for] one or two or three years. Having that become ripe, it becomes the colour of black plum juice. Of [those foods] which are eaten as soft foods and of [those medicines treating] wind, cough, leprosy, jaundice, fistula, and so on, there is not a better drink of such quality [which is] a medicine [formed from] decaying of foods. Then this is for the monks in the afternoon. For the sick ones, it is indeed natural. For ones who are not sick, it is [consumed] by using as a drink [which is] mixed with water.”[44]
-
 The making of salted sour gruel, according to the Samantapāsādikā, is much more complex than that of other beverages described in other Vinayas.
 
 The Samantapāsādikā also provides detailed annotations on various forms of perspiration therapy as follows:
-
-“‘Perspiration with requisite materials’ is perspiration by [means of] different kinds of leaves and hemp. The meaning [of] ‘great perspiration’ is: after filling a pit of the size of a man with embers, covering [that] with soil and sand and so on, spreading various kinds of wind-removing leaves there, [and] laying [the sick person] with [his] body smeared with oil there, I [the Tathāgata] allow [him] to steam [his] body with rolling about. ‘Hemp water’ is the hot water with different leaves and hemp. Having repeatedly poured with those leaves and water, [one] should be steamed. ‘Bathroom’ is a bath cabinet. The meaning is: after filling a vessel or a trough with hot water [and after the person] entering there, I allow performing the perspiration therapy.”[45]
 
 “‘Perspiration with requisite materials’ is perspiration by [means of] different kinds of leaves and hemp. The meaning [of] ‘great perspiration’ is: after filling a pit of the size of a man with embers, covering [that] with soil and sand and so on, spreading various kinds of wind-removing leaves there, [and] laying [the sick person] with [his] body smeared with oil there, I [the Tathāgata] allow [him] to steam [his] body with rolling about. ‘Hemp water’ is the hot water with different leaves and hemp. Having repeatedly poured with those leaves and water, [one] should be steamed. ‘Bathroom’ is a bath cabinet. The meaning is: after filling a vessel or a trough with hot water [and after the person] entering there, I allow performing the perspiration therapy.”[45]
 
@@ -4185,10 +3697,6 @@ In Āyurveda, the main principle of treatments for wind diseases is to alleviate
 How do we comprehend wind humour and wind diseases in terms of modern medical science? From the descriptions in Āyurvedic treatises, the main functions of wind humour highly suggest its relationship with the central and peripheral nervous system, which is responsible for controlling all motions, coordinating senses, regulating functions of organs (such as heart, lungs, bowels, etc.), and stimulating intellectual activities (Ninivaggi 2010, 50; Pole 2006, 24). Actually, modern Āyurvedic scholars have recognised this fact. They consider vāta “corresponds approximately to the body’s nervous system” (Godagama 2004, 29), “intimately related to the functioning of the nervous system” (Pole 2006, 112), and “the central and peripheral nervous system is under the control of Vata [sic]” (Ninivaggi 2010, 50). Thus, wind disease can affect movement, sensation, organ functions, and psychological activities. It would manifest as neurological disorders affecting motor and/or sensory activities, musculoskeletal problems, disturbances of normal organ functioning, and mental illnesses. Treatments for such diseases would depend on the diagnoses.[47]
 
 In brief, wind disease was one of the commonest illnesses mentioned in the Chapters on Medicine. There were a wide range of remedies being used. These treatments were in line with those employed in Āyurveda. By comparing with the functions described in Āyurveda, wind humour and disease should closely associate with the nervous system, affecting a wide range of motor and/or sensory, musculoskeletal, psychological, and organ functions.
-
-Footnotes and references:
-
-[back to top]
 
 [1]:
 
@@ -4396,15 +3904,9 @@ Medicine, 8th ed, Chapter 22 (Neurological Disease), Chapter 21 (Special Senses)
 
 ## 52. Internal Medicine (a): Autumnal Disease
 
-
 Bhesajjakkhandhaka (Chapter on Medicine)
 
-by Hin-tak Sik | 2016 | 121,742 words
-
 This study deals with the ancient Indian Medicine (Ayurveda) in Early Buddhist Literature and studies the Bhesajjakkhandhaka and the Parallels in other Vinaya Canons. The word Bhesajja means “medicine” and is the sixth chapter of the Khandhaka, which represents the second book of the Pali Vinaya Pitaka. Other works consulted include the Bhaisajya-s...
-
-Go directly to: 
-Footnotes.
 
 Internal Medicine (a): Autumnal Disease
 
@@ -4442,8 +3944,6 @@ What is “autumnal disease”? The Samantapāsādikā and Āyurveda treatises h
 
 “In the Bhesajjakkhandhaka, ‘by the autumnal disease’ [means] by the disease of bile arisen in the time of autumn. [It is] because at that time [the monks] get wet by rain water and they trample on the mud. From time to time the sun-heat is also harsh. Because of that, their bile has gone to the intestinal canal.”[19]
 
-“In the Bhesajjakkhandhaka, ‘by the autumnal disease’ [means] by the disease of bile arisen in the time of autumn. [It is] because at that time [the monks] get wet by rain water and they trample on the mud. From time to time the sun-heat is also harsh. Because of that, their bile has gone to the intestinal canal.”[19]
-
 Autumn, according to A Sanskrit-English Dictionary (s.v. “śarad”), refers to the period of two months after the rains period and it ranges from August to November depending on different parts of India. Āyurvedic texts contribute more detailed depictions: During the cool rainy season, a person’s body is moistened and the digestive fire is dampened by cold wind. This leads to an accumulation of bile humour. In autumn, with the return of sun-heat, bile humour becomes liquefied and aggravated, and causes disorders of bile humour (Suśruta Saṃhitā Sūtrasthāna 6. 11; Aṣṭāṅga Hṛdaya Saṃhitā Sūtrasthāna 3. 49). Aggravated bile humour approaches the site of digestive fire (agni) in the stomach and small intestine (āmāśaya), follows the digestive tract, weakens the digestive fire because of its liquidity, dispels such fire from the digestive tract, and causes it to spread all over the body resulting in fever (Caraka Saṃhitā Nidānasthāna 1. 22-24). Hence, with impaired digestion and probable malabsorption, an afflicted person can become lean, withered, feeble, and pale. Such mechanism in accordance with Āyurveda also explains why the sick monks with the autumnal disease, as described in the Chapters on Medicine, can have fever and other digestive symptoms such as vomiting, loss of appetite, indigestion, and so on.
 
 The medicines prescribed by the Buddha for this disease were those lipids and sweets, as described above and in Chapter Four. All these substances work chiefly by promoting bodily strength, weight, complexion, and functions. Ghee, fresh butter, and honey also have the effect of alleviating bile humour. Āyurveda suggests that, during autumn or while treating this disease, one should consume substances which are sweet, bitter, astringent, cooling, and easily digestible. Consumption of ghee prepared with bitter medicines, purgation therapy to eliminate the vitiated bile humour, and bloodletting to remove the likely conspicuous vitiation of blood are also some therapeutic measures (Caraka Saṃhitā Sūtrasthāna 6. 41-48 and the translators’ notes; 20. 16; Aṣṭāṅga Hṛdaya Saṃhitā Sūtrasthāna 3. 49-57). Oil and fat are to be avoided (Caraka Saṃhitā Sūtrasthāna 6. 44-45); but the use of oil as a medicine for the autumnal disease in the Chapters on Medicine probably is due to its effects of enhancing digestion and promoting strength and complexion (Caraka Saṃhitā Sūtrasthāna 27. 286-288; Suśruta Saṃhitā Sūtrasthāna 45. 112, 129).
@@ -4451,10 +3951,6 @@ The medicines prescribed by the Buddha for this disease were those lipids and sw
 How can we understand this disease in terms of modern medicine? In this case, the common presenting features are emaciation, pallor, and weakness. These suggest the occurrence of weight loss, malabsorption, as well as possible dehydration. These–together with anorexia, vomiting, and indigestion–point to a gastrointestinal disease which affects digestion and absorption. Some important information–seasonal occurrence of this illness, along with fever and chill (as described in the Sarvāstivāda Bhaiṣajyadharmaka)–suggests that this is an infection of the digestive tract. It is, therefore, likely to be an infective gastroenteritis. The responsible pathogen can be a type of bacterium (e.g. Escherichia coli, Salmonella species, etc.), virus (e.g. rotavirus, enteric adenovirus, etc.), or parasite (e.g. amoeba, giardia, etc.) (Moss, Irving, and Anderson 2012, 119125, 133-135, 150-152; Patel and Shandera 2012, 1367-1368). Due to that there is vomiting without diarrhoea mentioned in the Buddhist sources, the group norovirus is highly suspicious in this case, causing “winter vomiting disease.” This viral infection mainly occurs in colder months, but can happen any time in the year. Patients of this infection usually present with acute onset of one or more of the symptoms such as nausea, vomiting, non-bloody diarrhoea, and abdominal cramps. They may also have fever, chills, headache, and muscle aches. Vomiting may be the only feature (Moss, Irving, and Anderson 2012, 104; Patel et al. 2009, 2-3). If we consider the term uppaṇḍuppaṇḍukajāta in the Pāli source (or utpāṇḍūtpāṇḍuka in the Sanskrit source) as “yellowish” rather than “very pale,” it would imply the presence of jaundice and thus the liver would have been affected. This suggests hepatitis, which is likely due to viruses (particularly hepatitis A or E viruses which are transmitted by contaminated food/water and associated with poor sanitation) (Burroughs and Westaby 2012, 316-326). Obinata (1965, 75 ff.) suggests that it was a bacterial infection, namely, leptospirosis (caused by Leptospira autumnalis), which is another possibility. Modern treatment for infective gastroenteritis is chiefly conservative measures such as rehydration and rest, and antimicrobial chemotherapy if bacterial or parasitic infection is involved. Hygienic measures such as personal hygiene, sanitation, clean food preparation, and so on would be necessary to prevent spread of pathogens causing the disease.
 
 The autumnal disease recorded in the Chapters on Medicine is mainly presented with digestive disturbance, which is due to aggravation of bile humour according to Āyruvedic pathophysiology. This illness was treated by using certain sweets and lipids, including ghee, butter, oil, honey, molasses, and rock sugar. Most of these are mentioned in Āyurveda for treating this problem, except the use of oil and fat. In terms of modern medicine, this disease may be explained as a gastrointestinal infection. Treatment nowadays would chiefly be rehydration and rest, and antimicrobial drug therapy if necessary.
-
-Footnotes and references:
-
-[back to top]
 
 [1]:
 
@@ -4542,15 +4038,9 @@ Samantapāsādikā V. 1089: “Bhesajjakkhandhake sārādikena ābadhenā ’ti 
 
 ## 53. Internal Medicine (d): Fever
 
-
 Bhesajjakkhandhaka (Chapter on Medicine)
 
-by Hin-tak Sik | 2016 | 121,742 words
-
 This study deals with the ancient Indian Medicine (Ayurveda) in Early Buddhist Literature and studies the Bhesajjakkhandhaka and the Parallels in other Vinaya Canons. The word Bhesajja means “medicine” and is the sixth chapter of the Khandhaka, which represents the second book of the Pali Vinaya Pitaka. Other works consulted include the Bhaisajya-s...
-
-Go directly to: 
-Footnotes.
 
 Internal Medicine (d): Fever
 
@@ -4606,10 +4096,6 @@ Various therapeutic measures are utilised in Āyurveda to treat fever, for the p
 In modern medicine, fever (pyrexia) is defined as “an elevation of body temperature that exceeds the normal daily variation and occurs in conjunction with an increase in the hypothalamic set point [e.g., from 37°C to 39°C (98. 6°F to 102. 2°F)]” (Dinarello and Porat 2012, 143). Many diseases can present with fever. The most common ones are infections; others include autoimmune diseases, central nervous system diseases, malignant diseases, cardiovascular diseases, gastrointestinal diseases, and so on (Gonzales ad Nadler 2012, 37, table 2. 7). Modern medicine has also distinguished two other groups of feverish illness: fever of unknown origin and hyperthermia. The former is “reserved for unexplained cases of fever exceeding 38. 3°C on several occasions for at least 3 weeks in patients without neutropenia or immunosuppression,” and the latter “occurs when body metabolic heat production or environmental heat load exceeds normal heat loss capacity or when there is impaired heat loss; heat stroke is an example” (Gonzales ad Nadler 2012, 36). Management for feverish illnesses include removal or treatment of underlying causes; and measures to lower body temperature back to normal range, such as cold sponges, ice bags, fans, ice baths, and so on. Antipyretic drugs such as paracetamol (acetaminophen) can be used. Antimicrobial agents are administered if infections are diagnosed (Gonzales and Nadler 2012, 36-37).
 
 Records of feverish illness are found in the Chapters on Medicine. Such illness was treated by various means including consumption of lotus plant parts or objects from ponds; intake of certain diets such as ghee, milk, and even beer; application of scented substances or humour-allaying water; and use of emetic and purgative drugs together with rest and suitable post-treatment nourishment. Āyurveda has more elaborative teachings on this medical condition and the treatments. Modern medicine considers fever as a symptom or sign rather than a disease. It can occur in many diseases or medical conditions. Treatments involve curing the underlying cause and symptomatic relief by means of cooling measures and/or drugs.
-
-Footnotes and references:
-
-[back to top]
 
 [1]:
 
@@ -4687,21 +4173,13 @@ These measures are extracted from the relevant chapter of the classical Āyurved
 
 ## 54. Internal Medicine (g): Jaundice
 
-
 Bhesajjakkhandhaka (Chapter on Medicine)
 
-by Hin-tak Sik | 2016 | 121,742 words
-
 This study deals with the ancient Indian Medicine (Ayurveda) in Early Buddhist Literature and studies the Bhesajjakkhandhaka and the Parallels in other Vinaya Canons. The word Bhesajja means “medicine” and is the sixth chapter of the Khandhaka, which represents the second book of the Pali Vinaya Pitaka. Other works consulted include the Bhaisajya-s...
-
-Go directly to: 
-Footnotes.
 
 Internal Medicine (g): Jaundice
 
 One record of jaundice is found in the Chapter on Medicine, in the Theravāda Bhesajjakkhandhaka. The information is as below:
-
-Theravāda:—“At that time a certain monk had an illness of jaundice. ‘I allow, monks, to cause [him] to drink yellow myrobalan [treated] with urine.’”[1]
 
 Theravāda:—“At that time a certain monk had an illness of jaundice. ‘I allow, monks, to cause [him] to drink yellow myrobalan [treated] with urine.’”[1]
 
@@ -4710,10 +4188,6 @@ The Pāli term paṇḍuroga (Sanskrit: pāṇḍuroga), which literally means y
 In modern medicine, jaundice is a clinical feature but not a disease. It is the yellow discoloration of the skin and of the sclerae (Talley and O’Connor 2010, 25). It is the result of accumulation of bilirubin (a product of haem metabolism) in the body tissues, when the serum bilirubin level exceeds 50µmol/L (Burroughs and Westaby 2012, 312; Friedman 2012, 644). Jaundice is usually divided into three groups: haemolytic jaundice, when there is enhanced bilirubin production usually due to increased destruction of red blood cells; hyperbilirubinaemia, when there is high concentration of bilirubin in the blood due to impaired uptake of bilirubin by the liver cells; and cholestatic jaundice, when there is an obstruction to the flow of bilirubin-containing bile from the liver to the intestine due to liver disease or bile duct obstruction (Burroughs and Westaby 2012, 307, 312). Numerous congenital and acquired disorders can cause jaundice, such as haemolytic anaemia, Gilbert’s syndrome, hepatitis, cirrhosis, drug reactions, bile duct stones, bile duct cancer, pancreatic tumours, and so on (Friedman 2012, 645, table 16. 1). Treatment of jaundice depends on the diagnosis of the underlying cause.
 
 A case of jaundice is found in the Chapter on Medicine. Such disease was treated by consuming yellow myrobalan treated with cow’s urine in the Buddhist source. This treatment should be an eliminative therapy amongst the variety of remedies employed in Āyurveda. In modern medicine, jaundice is merely a clinical feature occurring when there is excessive bilirubin in plasma and body tissues. It can occur in many disorders where the production of bilirubin is increased, its uptake by liver cells is reduced, and its secretion in bile is obstructed. Treatment nowadays is directed at the cause, and the Buddhist or Āyurvedic remedies are not utilised in modern medicine.
-
-Footnotes and references:
-
-[back to top]
 
 [1]:
 
@@ -4737,15 +4211,9 @@ In the above Buddhist record, yellow myrobalan treated with cow’s urine is men
 
 ## 55. Internal Medicine (f): Headache
 
-
 Bhesajjakkhandhaka (Chapter on Medicine)
 
-by Hin-tak Sik | 2016 | 121,742 words
-
 This study deals with the ancient Indian Medicine (Ayurveda) in Early Buddhist Literature and studies the Bhesajjakkhandhaka and the Parallels in other Vinaya Canons. The word Bhesajja means “medicine” and is the sixth chapter of the Khandhaka, which represents the second book of the Pali Vinaya Pitaka. Other works consulted include the Bhaisajya-s...
-
-Go directly to: 
-Footnotes.
 
 Internal Medicine (f): Headache
 
@@ -4765,10 +4233,6 @@ The above accounts are in relation to headache and the remedies (and the tools) 
 Headaches are one of the most common symptoms that many people have experienced. According to modern medicine, most headaches are benign; only a minority (less than one percent) of cases has a serious cause (such as intracranial mass, haemorrhage, infection, etc.). There are many pain receptors at different tissues and structures in the head, and various lesions triggering these receptors can give rise to pain sensation leading to headache (Jarman 2012, 1107). Nowadays, there is an internationally accepted classification of headaches: primary headaches include migraine, cluster headache, tension headache, and so on; secondary headaches are those due to underlying pathology such as head and neck traumas, infections, cranial vascular disorders, and so forth (Ravenport 2008, 336, box. 2). Management of headaches depends on the diagnosis and the identified cause, and there are diverse therapies for various headache disorders. General measures include avoidance of triggering factors and lifestyle modification, analgesics, symptomatic and preventive medications (e.g. triptans, anticonvulsants, antidepressants), physical therapies (e.g. massage, relaxation), and pain management programme (Jarman 2012, 1109-1111; Ravenport 2008, 341-343).
 
 Few records of headaches and their treatments are found in the Chapters on Medicine. The remedies mentioned include anointing oil on the head, nasal treatment, and smoking therapy. Āyurveda has similar cures, which mainly use medicated ghee or oil for oral intake, application on the head or into the nose (in form of drops, smoke, powder, etc.), massage, enema, and so on. Other treatments such as bloodletting, cauterisation, and treating for worms may also be used. But these treatments play no role in modern medicine. Modern medicine has its classification of headaches and multitudinous remedies, though the mechanisms of many headache disorders are not yet known.
-
-Footnotes and references:
-
-[back to top]
 
 [1]:
 
@@ -4832,15 +4296,9 @@ The Aṣṭāṅga Hṛdaya Saṃhitā, in the chapter dealing with head disease
 
 ## 56. Internal Medicine (e): Gastrointestinal Disturbances
 
-
 Bhesajjakkhandhaka (Chapter on Medicine)
 
-by Hin-tak Sik | 2016 | 121,742 words
-
 This study deals with the ancient Indian Medicine (Ayurveda) in Early Buddhist Literature and studies the Bhesajjakkhandhaka and the Parallels in other Vinaya Canons. The word Bhesajja means “medicine” and is the sixth chapter of the Khandhaka, which represents the second book of the Pali Vinaya Pitaka. Other works consulted include the Bhaisajya-s...
-
-Go directly to: 
-Footnotes.
 
 Internal Medicine (e): Gastrointestinal Disturbances
 
@@ -4865,8 +4323,6 @@ The above records reveal the gastrointestinal problems of indigestion, vomiting,
 
 “‘One having indigestion’ is one having perished digestion. The meaning is: the excrement gets out with difficulty. ‘Alkaline food’ is: having burnt the dry boiled rice, the alkaline water is flowed forth from those ashes.”[5]
 
-“‘One having indigestion’ is one having perished digestion. The meaning is: the excrement gets out with difficulty. ‘Alkaline food’ is: having burnt the dry boiled rice, the alkaline water is flowed forth from those ashes.”[5]
-
 In the Pāli source, the word for indigestion is duṭṭhagahaṇika, which is a compound term in relation to gahaṇī (Sanskrit: grahaṇī). Gahaṇī/grahaṇī is regarded as an organ responsible for digestion (Pali-English Dictionary, s.v. “gahaṇī”; A Sanskrit-English Dictionary, s.v. “grahaṇī”), and disorder of it causes indigestion. Modern Āyurvedic scholars render it as the duodenum (translators’ notes to Caraka Saṃhitā Cikitsāsthāna 15. 1-2; Aṣṭāṅga Hṛdaya Saṃhitā Nidānasthāna 8. 15). There are four types of digestive disorders in Āyurveda: three by each of the three humours and one by the combination of all humours (Caraka Saṃhitā Cikitsāsthāna 15. 58; Suśruta Saṃhitā Uttarasthāna 40. 171; Aṣṭāṅga Hṛdaya Saṃhitā Nidānasthāna 8. 19). Because of their respective aggravating factors (such as unsuitable diets, activities, behaviours), humours are aggravated. This causes suppression of the digestive fire and thus the food consumed is not digested easily (Caraka Saṃhitā Cikitsāsthāna 15. 59-72). The usual treatments involve fasting and/or light diets, measures to alleviate or eliminate the aggravated humours (such as emesis and purgation), and medicines to stimulate digestive power (such as medicated gruel, medicated ghee, decoctions, buttermilk, alchoholic drinks, and so on) (Caraka Saṃhitā Cikitsāsthāna 15. 82-198; Suśruta Saṃhitā Uttarasthāna 40. 178-182; Aṣṭāṅga Hṛdaya Saṃhitā Cikitsāsthāna 10). Alkaline substances are frequently employed in medicinal recipes to enhance digestive power (Caraka Saṃhitā Cikitsāsthāna 15. 171-194; Aṣṭāṅga Hṛdaya Saṃhitā Cikitsāsthāna 10. 56-65).
 
 There are five types of vomiting (chardi) in Āyurveda: three due to each of the humours, one to the combination of the humours, and one to other causes such as contact with unwanted objects or sights, pregnancy, worms and so on (Caraka Saṃhitā Cikitsāsthāna 20. 6; Suśruta Saṃhitā Uttarasthāna 49. 8-12). The humours, being aggravated by their causative factors, afflict the vital organs in the upper part of the body. This leads to an upward movement of the humours localised in the stomach giving rise to vomiting (Caraka Saṃhitā Cikitsāsthāna 20. 7-18; Aṣṭāṅga Hṛdaya Saṃhitā Cikitsāsthāna 6. 1). The approach of treatment for vomiting is similar to that for digestive disorder mentioned above: fasting; emesis and purgation (to eliminate aggravated humours); suitable foods and drinks (gradually from light to heavy), such as soups, gruels, ghee, milk, and so on, which may be prepared wih medicines; psychological measures (such as consolation for contact with loathesome objects/sights); and cures for worms (Caraka Saṃhitā Cikitsāsthāna 20. 20-47; Suśruta Saṃhitā Uttarasthāna 49. 15-35; Aṣṭāṅga Hṛdaya Saṃhitā Cikitsāsthāna 6. 1-24).[6]
@@ -4880,10 +4336,6 @@ Vomiting, being controlled by the vomiting centre in the brainstem and stimulate
 There is no exact definition for diarrhoea in modern medicine. It is usually considered as “a change in normal bowel movements with the passage of 3 or more stools per day or at least 200 g of stool per day” (Getto, Zeserspm, and Breyer 2011, 215). Diarrhoea is classified as acute or chronic. Acute diarrhoea is of sudden onset, usually short-lived, and lasting for less than two weeks; chronic diarrhoea lasts more than four weeks (McQuaid 2012, 557-562). There are many causes of diarrhoea including infections (bacterial, viral, fungal, and parasites), non-infective conditions (such as inflammatory bowel disease, colonic cancer, malabsorption, etc.), endocrine causes (e.g. thyrotoxicosis), and factitious diarrhoea (e.g. purgative abuse, dilutional diarrhoea) (Lindsay, Langmead, and Preston 2012, 293, table 6. 22). Diarrhoea is usually treated with fluid and electrolyte replacement, avoidance of some foods and drinks (such as high fibre foods, fats, dairy products, caffeine, alcohol, etc.), consumption of soft and easily digestible food, use of antidiarrhoeal drugs, administration of antimicrobial agents (depending on the infection), and arrangement of diagnostic tests and even hospital admission for patients with prolonged/severe diarrhoea to determine the cause (and hence the treatment) (Lindsay, Langmead, and Preston 2012, 292-293; McQuaid 2012, 558-559, 562).
 
 In summary, cases of digestive tract problems are found in the Chapters on Medicine. In these, sick monks are presented with indigestion, vomiting, and/or diarrhoea. They were chiefly treated by alkaline substances, fluids, and light diet (like porridge). In Āyurveda, there is a more detailed information on various gastrointestinal disorders, including those mentioned in the Chapters on Medicine. Treatments given in the Āyurvedic texts for these conditions are more diverse and complex. In modern medicine, these above problems are regarded only as symptoms, which can occur in many gastrointestinal and non-gastrointestinal diseases. Treatments would direct at correcting underlying causes (if diagnosed), relieving such symptoms, and managing any complications.
-
-Footnotes and references:
-
-[back to top]
 
 [1]:
 
@@ -4915,15 +4367,9 @@ The use of filtered fluid obtained from burnt ashes of soft hair for treating vo
 
 ## 57. Internal Medicine (c): Disorders of Humours/Elements
 
-
 Bhesajjakkhandhaka (Chapter on Medicine)
 
-by Hin-tak Sik | 2016 | 121,742 words
-
 This study deals with the ancient Indian Medicine (Ayurveda) in Early Buddhist Literature and studies the Bhesajjakkhandhaka and the Parallels in other Vinaya Canons. The word Bhesajja means “medicine” and is the sixth chapter of the Khandhaka, which represents the second book of the Pali Vinaya Pitaka. Other works consulted include the Bhaisajya-s...
-
-Go directly to: 
-Footnotes.
 
 Internal Medicine (c): Disorders of Humours/Elements
 
@@ -4944,8 +4390,6 @@ The Samantapāsādikā provides us with annotations on these diets:
 
 “‘Clear rice-gruel’ is the top part of rice water. ‘Undone soup’ is a drink [in which] the green gram is cooked [but] is not soft. ‘Done and undone [soup]’ is that [soup in which the green gram] is just a bit soft. ‘With meat broth’ [means] with the flavour of meat.”[3]
 
-“‘Clear rice-gruel’ is the top part of rice water. ‘Undone soup’ is a drink [in which] the green gram is cooked [but] is not soft. ‘Done and undone [soup]’ is that [soup in which the green gram] is just a bit soft. ‘With meat broth’ [means] with the flavour of meat.”[3]
-
 In the Dharmaguptaka case, monks suffered from a condition of “being moist in the body” after having abundant food and drink. Treatment with a medicine leading to emesis and purgation was prescribed and, like the Theravāda case, certain posttreatment foods would be consumed if needed.
 
 What are the conditions of “body full of humours” and “being moist in the body”? In the Samantapāsādikā (V. 1092), a body full of humours is explained as one with excessive humours (abhisannakāyo ti ussannadosakāyo). This illustrates an increase of humours in the body. According to the Aṣṭāṅga Hṛdaya Saṃhitā, an increase of humours is usually due to over-nourishment, and this is later followed by an increase of phlegm humour (Sūtrasthāna 11. 27-28). Due to the fact that phlegm humour is closely connected with waterelement (Ninivaggi 2010, 51), the condition of body full of humours should be associated with that of being moist in the body. Moreover, this also explains why, in the Dharmaguptaka account, monks with abundant food and drink were afflicted with being moist in their bodies. Hence, these two accounts of illness–relating to excessive humours and water-element–can be understood as illnesses relating to phlegm humour.
@@ -4958,17 +4402,11 @@ The Caraka Saṃhitā describes the normal and abnormal functions of phlegm humo
 
 “[it] brings about good or bad effects according to its normal or abnormal state, e.g. sturdiness and looseness, plumpness and emaciation, enthusiasm and laziness, potency and impotency, wisdom and ignorance and such other pairs of qualities” (Sūtrasthāna 12. 12).
 
-“[it] brings about good or bad effects according to its normal or abnormal state, e.g. sturdiness and looseness, plumpness and emaciation, enthusiasm and laziness, potency and impotency, wisdom and ignorance and such other pairs of qualities” (Sūtrasthāna 12. 12).
-
 Furthermore, modern scholars render phlegm humour as “to embrace” or “to hold together,” as it “is responsible for the body’s strength, cohesion, and construction … [it] is the source of the body’s developmental and reproductive activity. It regulates vata and pitta [sic] and controls patience, sexual power, and strength … maintains immunity” (Koopsen and Young 2009, 179); it “maintains the stability of the bodily tissues and imparts a quality of protection” (Ninivaggi 2010, 51). Thus, phlegm humour seems to be associated with the endocrine system, owing to that this system is responsible for “the regulation and integration of cells and organ systems by a group of specialized chemical substances called hormones” (Elmendorf 2013, 589). The endocrine system, through various hormones, regulates many aspects of human physiological functions, such as water regulation; balance of electrolytes; metabolism of glucose, amino acids, lipids, and many other substances; growth; reproductive function; and so on.[5] In addition, phlegm humour could also possibly pertain to the immune system, which is responsible for protection of the body against disease by identifying and eliminating pathogens (such as bacteria, fungi, viruses, and parasites) and tumour cells, through the actions of special cells and molecules (Peakman 2012, 49; Waite 2013, 188). In fact, it is generally accepted by medical scientists that the endocrine and immune systems are closely related, through mutual interactions of many hormones and immue molecules (Chryssikopoulos 1997). The two aforementioned accounts of sickess in the Chapters on Medicine could then be certain disorders of the endocrine-immune system.
 
 In endocrinology, treatments for hypofunction disorders generally involve replacement of peripheral hormones or use of certain drugs that reduce the resistance to or stimulate the effect of the concerned hormone; for hyperfunction disorders, radiation therapy, surgery, and/or drugs are used so as to suppress the production or activity of the hormone (Morley 2013). For immune disorders, immunotherapies–such as immune molecules, immunosuppressive drugs, stem cell transplantation, and so on–are used to modulate (inhibit or enhance) immune responses (Haynes, Soderberg, and Fauci 2012, 2683-2684).
 
 The two cases of illness mentioned in the Chapters on Medicine–body full of humours and body being moist–should be associated with phlegm humour. They were treated with emesis and/or purgation, followed by post-treatment diets. Such treatments are consistent with those employed in Āyurveda for phlegm humour diseases. In terms of modern medicine, such illnesses would probably be disorders of the endocrine and immune systems.
-
-Footnotes and references:
-
-[back to top]
 
 [1]:
 
@@ -4994,15 +4432,9 @@ Intrigued readers may read, e.g. Chapters 19 and 20 of Kumar &Clark’s Clinical
 
 ## 58. Ophthalmology (Sālākiya)
 
-
 Bhesajjakkhandhaka (Chapter on Medicine)
 
-by Hin-tak Sik | 2016 | 121,742 words
-
 This study deals with the ancient Indian Medicine (Ayurveda) in Early Buddhist Literature and studies the Bhesajjakkhandhaka and the Parallels in other Vinaya Canons. The word Bhesajja means “medicine” and is the sixth chapter of the Khandhaka, which represents the second book of the Pali Vinaya Pitaka. Other works consulted include the Bhaisajya-s...
-
-Go directly to: 
-Footnotes.
 
 Ophthalmology (Sālākiya)
 
@@ -5047,8 +4479,6 @@ A large passage in the Samantapāsādikā explains the different collyria and th
 
 “‘Collyrium’ is a term comprising all [collyria]. ‘Black collyrium’ is a kind of ointment, or that which is boiled with all requisite ingredients. ‘Essence collyrium’ is made from different requisite ingredients. ‘Stream collyrium’ is a collyrium coming into existence in the river, stream, and so forth. ‘Red chalk’ by name is the golden ochre. ‘Lampblack’ was taken from the flame of a lamp. ‘Sandalwood’ is anything which has red sandalwood and so on. Indian valerian and so forth are commonly known. Even others [like] blue water-lily and so forth are indeed suitable. ‘[A need] of powdered collyria’ [means a need] of that which should be pounded together with the collyrium.[30] Indeed, no powdered collyria are unsuitable. ‘Made of bone’ [means]: having set aside the human bone, the remaining [things which are] made of bone. ‘Made of tooth’ [refers to] the tooth of elephant and so on;[that is,] everything [which is] made of tooth. With regard to ‘made of horn’, there is really not [a horn] which is inappropriate. [Those] made of reed and so forth are also perfectly appropriate. The meaning [of] ‘container for the stick’ is: wherever [the monks] insert the stick–[be it] a rod having a hole, or a bag–I [the Tathāgata] allow [it]. ‘A shoulderstrap’ [means] the shoulder-strap on the bag [for holding] the collyrium-box.”[31]
 
-“‘Collyrium’ is a term comprising all [collyria]. ‘Black collyrium’ is a kind of ointment, or that which is boiled with all requisite ingredients. ‘Essence collyrium’ is made from different requisite ingredients. ‘Stream collyrium’ is a collyrium coming into existence in the river, stream, and so forth. ‘Red chalk’ by name is the golden ochre. ‘Lampblack’ was taken from the flame of a lamp. ‘Sandalwood’ is anything which has red sandalwood and so on. Indian valerian and so forth are commonly known. Even others [like] blue water-lily and so forth are indeed suitable. ‘[A need] of powdered collyria’ [means a need] of that which should be pounded together with the collyrium.[30] Indeed, no powdered collyria are unsuitable. ‘Made of bone’ [means]: having set aside the human bone, the remaining [things which are] made of bone. ‘Made of tooth’ [refers to] the tooth of elephant and so on;[that is,] everything [which is] made of tooth. With regard to ‘made of horn’, there is really not [a horn] which is inappropriate. [Those] made of reed and so forth are also perfectly appropriate. The meaning [of] ‘container for the stick’ is: wherever [the monks] insert the stick–[be it] a rod having a hole, or a bag–I [the Tathāgata] allow [it]. ‘A shoulderstrap’ [means] the shoulder-strap on the bag [for holding] the collyrium-box.”[31]
-
 In Āyurveda, eye diseases occupy an important place. In the classical medical treatises, there are many chapters covering different eye diseases and their treatments (Suśruta Saṃhitā Uttarasthāna 1-19; Aṣṭāṅga Hṛdaya Saṃhitā Uttarasthāna 8-16). Many diseases are listed affecting different parts of the eye. The Caraka Saṃhitā has mentioned ninety-six eye diseases, whereas the Suśruta Saṃhitā has seventy-six. These diseases afflict the eyelids, junctions (i.e. the boundaries of different parts of the eye), sclera, cornea, pupil, or the whole eye (Caraka Saṃhitā Cikitsāsthāna 26. 131 and the translators’ notes to this passage; Suśruta Saṃhitā Uttarasthāna 1. 43-45). Eye diseases are due to aggravation of the humours and blood by their respective factors (such as diets, activities, inappropriate treatments, emotions, and so on) and exogenous causes such as trauma. Aggravated humours circulate in the blood vessels, go upwards, and get localised in different parts of the eye causing diseases (Caraka Saṃhitā Cikitsāsthāna 26. 129-130; Suśruta Saṃhitā Uttarasthāna 1. 20, 26-29; Aṣṭāṅga Hṛdaya Saṃhitā Uttarasthāna 8. 1-2). Numerous measures of eye treatment are employed, which are medical and surgical. Medical remedies include: collyria, eye drops, and eye bathing; application of medicated paste (around the eyes);adminstration of drugs through the nose; inhalation of medicinal smoke;bloodletting; emesis, purgation, and enema; head-evacuative measures; and so on. Amongst these, collyria assume a dominant role. There are three types of collyrium: scraping (lekhana), healing (ropaṇa), and clearing (prasādana) (Suśruta Saṃhitā Uttarasthāna 18. 52; Aṣṭāṅga Hṛdaya Saṃhitā Sūtrasthāna 23. 1011). Moreover, collyria are mainly made in three forms: pill (guṭika or piṇḍa), thin paste (rasakriyā), and powder (cūrṇa) (Suśruta Saṃhitā Uttarasthāna 18. 58; Aṣṭāṅga Hṛdaya Saṃhitā Sūtrasthāna 23. 14). For making collyria, substances–such as metallic powders, minerals, salts, precious stones, teeth, horns, bones, ashes of hair, fruits, flowers, scented substances, essence collyrium, Sauvīra collyriunm, stream collyrium, conch shell, and so on–are commonly utilised.[32] Metal rods (e.g. made of copper, iron, gold, silver) and finger are the usual applicator of collyrium (Suśruta Saṃhitā Uttarasthāna 18. 62-63; Aṣṭāṅga Hṛdaya Saṃhitā Sūtrasthāna 23. 12-13). Surgical procedures undertaken for curing eye diseases are puncture, excision, incision, scraping, and cauterisation.[33]
 
 For the collyria mentioned in the Buddhist sources, their main components are known. These substances are: iron oxide for red chalk (geruka/gairika);zinc oxide for flower collyrium (puṣpāñjana); extract of Berberis aristata for essence collyrium (rasañjana/rasāñjana);lead sulphide or antimony sulphide for stream collyrium (sotañjana/srotoñjana) and Sauvīra collyrium (sauvīrāñjana).[34]
@@ -5056,10 +4486,6 @@ For the collyria mentioned in the Buddhist sources, their main components are kn
 In modern ophthalmology, there are many congenital and acquired disorders afflicting different parts or functions of the eye. Many disorders can cause painful eye, such as: acute angle-closure glaucoma;scleritis (inflammation of the sclera); anterior uveitis (inflammation of the iris and/or the ciliary body); optic neuritis (inflammatory demyelination of the optic nerve); keratitis (inflammation of the cornea); corneal abrasion;conjunctivitis (inflammation of the conjunctiva); subconjunctival haemaorrhage;bhepharitis (inflammation of eyelid); dacryocystitis (inflammation of the lacrimal sac); endophthalmitis (inflammation within the eyeball); and so on (Dargin and Lowenstein 2008, 199-215; Harris et al. 2012, 1057; Horton 2012, 228-230). Corneal opacity due to scar can result from corneal lesions such as abrasive or perforative trauma to cornea; corneal foreign body; infectious keratitis caused by bacteria, viruses, fungi, or protozoa; non-infectious keratitis due to, for example, ultraviolet light, topical drug toxicity, allergic conditions, chemical injury, and dry eye syndrome; and so on (Dargin and Lowenstein 2008, 207-215; Harris et al. 2012, 1059-1061; Khurana 2008, 121-122). Pterygium is a wing-shaped growth of the conjunctiva that arises on either or both sides of the cornea, and threatens the vision by extending towards the cornea (Khurana 2008, 80). Therapeutic measures for eye disorders generally include: treating underlying causes; removal of any foreign bodies;symptomatic relief of pain or discomfort by means of analgesic, topical anaesthesia, and/or topical lubricant or artificial tears; covering or padding of the eye; various medications such as antimicrobial agents, topical steroids, anti-allergic drugs, and drugs reducing intraocular pressure–be these in preparations as eye drops, eye ointment, oral medication, or parenteral administration; surgical operations; and so forth (Harris et al. 2012, 1057-1065).
 
 Abundant data about eye problems and treatments are found in the above Buddhist sources. In most of these cases the conditions were not specified, except baiyi is named in the Dharmaguptaka Bhaiṣajyaskandhaka. Treatments mostly relied on the use of collyria, but other remedies such as smoke therapy and nose-treatment were also used. In Āyurveda, these cures are also employed. In addition, there are also surgical treatments for eye diseases. According to modern ophthalmology, many disorders can cause painful eyes. There are also various conditions that can affect the cornea, causing visual obscuration. They are treated medically with drugs and/or surgically with operations.
-
-Footnotes and references:
-
-[back to top]
 
 [1]:
 
@@ -5221,15 +4647,9 @@ The identification of these collyrium substances is based on the references prov
 
 ## 59. Dermatology (a): Itching Lesions
 
-
 Bhesajjakkhandhaka (Chapter on Medicine)
 
-by Hin-tak Sik | 2016 | 121,742 words
-
 This study deals with the ancient Indian Medicine (Ayurveda) in Early Buddhist Literature and studies the Bhesajjakkhandhaka and the Parallels in other Vinaya Canons. The word Bhesajja means “medicine” and is the sixth chapter of the Khandhaka, which represents the second book of the Pali Vinaya Pitaka. Other works consulted include the Bhaisajya-s...
-
-Go directly to: 
-Footnotes.
 
 Dermatology (a): Itching Lesions
 
@@ -5263,10 +4683,6 @@ There are many chapters in the classical Āyurvedic texts dealing with various s
 Modern medicine defines itch (pruritis) as “an unpleasant cutaneous sensation that provokes the desire to rub or scratch the skin to obtain relief” (Dorland's Illustrated Medical Dictionary, 32nd ed., s.v. “pruritis”). Causes of this distressing phenomenon are diverse. Common skin diseases causing pruritis are allergic dermatitis, atopic dermatitis, lichen planus, urticaria, psoriasis, xerosis (dry skin), lice infestation, scabies, skin infections (e.g. ringworm as a fungal infection), and so on. Besides, numerous systemic disorders can also give rise to itch, such as autoimmune diseases, liver diseases, kidney diseases, endocrine/metabolic diseases, haematological diseases, neurological diseases, psychogenic/psychosomatic diseases, infectious diseases, malignancies, and other conditions such as pregnancy (Leslie 2013, 368, table 1; Reamy, Bunt, and Fletcher 2011, 198, table 2; 199, table 3). In addition to diagnosing and treating the underlying cause(s), management of itching includes topical, systemic, and physical measures. Topical treatments are emollients to retain moisture and corticosteroids to reduce inflammation. Systemic medications may include antihistamines, immunosuppressants, antidepressants, and neuromodulatory drugs. Phototherapy is a physical measure which can be employed (Leslie 2013, 369-370; 370, table 4).
 
 Itching skin condition was a common illness affecting the monastic members as recorded in the Chapters on Medicine. Such problems were treated with medicinal powders or decoctions. In Āyurveda, there is no distinct section discussing itching cutaneous diseases, but many skin lesions can cause an itch. They are treated accordingly. In modern medicine, an itch can occur not only in skin conditions, but also in various systemic problems. Apart from treating the underlying cause, pruritis may be managed with topical and/or systemic drugs, as well as physical measures.
-
-Footnotes and references:
-
-[back to top]
 
 [1]:
 
@@ -5356,15 +4772,9 @@ These general principles of treatment are summarised from chapters dealing with 
 
 ## 60. Toxicology (Agadatantra)
 
-
 Bhesajjakkhandhaka (Chapter on Medicine)
 
-by Hin-tak Sik | 2016 | 121,742 words
-
 This study deals with the ancient Indian Medicine (Ayurveda) in Early Buddhist Literature and studies the Bhesajjakkhandhaka and the Parallels in other Vinaya Canons. The word Bhesajja means “medicine” and is the sixth chapter of the Khandhaka, which represents the second book of the Pali Vinaya Pitaka. Other works consulted include the Bhaisajya-s...
-
-Go directly to: 
-Footnotes.
 
 Toxicology (Agadatantra)
 
@@ -5418,8 +4828,6 @@ The Samantapāsādikā has annotations on the case where the monk was given a po
 
 “‘A sickness [due to being] given a poisonous drink’ is an illness originated from a drink [which is] making [the person become] dependent. [21] The meaning [of] ‘stirred mud turned up by the ploughshare’ is: for tilling with a plough, [there is] mud stuck on the ploughshare. Having mixed [this mud] with water, I allow to cause [the sick one] to drink [it].”[22]
 
-“‘A sickness [due to being] given a poisonous drink’ is an illness originated from a drink [which is] making [the person become] dependent. [21] The meaning [of] ‘stirred mud turned up by the ploughshare’ is: for tilling with a plough, [there is] mud stuck on the ploughshare. Having mixed [this mud] with water, I allow to cause [the sick one] to drink [it].”[22]
-
 From the above information, we can notice that treatments for poisoning cases are of two kinds: empirical and religious. Empirical remedies include the use of foul things (including putrid medicines), bloodletting, anointing the wound with medicine, pricking the wound for releasing the venom, and so on. Religious therapy involves the practice of loving-kindness and chanting of protective charm or spell.
 
 According to Āyurveda, there are two types of natural poisons: immobile (sthāvara) and mobile (jaṅgama). The former refers to those relating to plant parts, latex, minerals, and so on; the latter are those of animals and insects (Caraka Saṃhitā Cikitsāsthāna 23. 9-13; Suśruta Saṃhitā Kalpasthāna (Kalpasthāna) 2. 3-5; 3. 4-5; Aṣṭāṅga Hṛdaya Saṃhitā Uttarasthāna 35. 4-5).[23] There is also a type of artificial poisons (gara-viṣa), which is formed by mixing various substances (Caraka Saṃhitā Cikitsāsthāna 23. 14; Aṣṭāṅga Hṛdaya Saṃhitā Uttarasthāna 35. 6-7). Entering the body, poisons vitiate blood, damage humours, body tissues, vital points, and organs (especially the heart), and lead to death (Suśruta Saṃhitā Kalpasthāna 2. 1923; Aṣṭāṅga Hṛdaya Saṃhitā Uttarasthāna 35. 9-10). Abundant information on treatments of poisoning can be found in Āyurvedic texts. Various measures are used, including both magico-religious and empirical approaches, such as: chanting mantras, wearing amulets; excision of wounds affected by poison and releasing the poison by squeezing or sucking; cauterisation of the wound; sprinkling of cold water or cold bath with medicated water; emesis and purgation;anti-poisonous medicines (in which urine of cows or goats, fluid of cow dung, earth, or alkaline ashes are often utilised) applying at the wound or as collyrium, nasal drug, smoke, or medicated gruel or decoction for consumption;bloodletting (by means of leech, horn, or venesection); consuming special medicines to protect the heart; intake of alkaline medicines (prepared from ashes of plants); and so on (Caraka Saṃhitā Cikitsāsthāna 23. 35-37).[24] Hence, all empirical and religious remedies described in the Buddhist sources are mentioned in the Āyurvedic texts for curing poisoning cases.
@@ -5429,10 +4837,6 @@ Snakebites are one of the important emergency cases in the world, though not all
 Poisoning can be due to self-administration (because of improper use of drugs or suicidal attempt), inappropriate administration by physician, accidental ingestion, feeding by another to cause harm, and occupational poisoning (usually via inhalation or skin contact). Substances involved can be diverse, such as various medications (e.g. neurological and psychiatric drugs, cardiovascular drugs, analgesics), illicit substances, pesticides or insecticides, household products (e.g. detergents, disinfectants), ethanol or methanol, carbon monoxide, natural poisons of plants or animals, traditional medicines, and so on. Treatment is mainly supportive by means of ventilatory and circulatory care and support. Management also involves care for other possible problems such as hyper-or hypothermia, arrhythmias, convulsions, coma, stress ulcers and bleeding, skin blisters, rhabdomyolysis (destruction of skeletal muscle fibres with excretion of myoglobin in the urine), and so forth. Specific antidotes for certain drugs or substances may be used. Measures for reducing poison absorption and increasing poison elimination are employed. The former includes removal of substance contact (e.g. on skin, eyes) and gut decontamination (by induced emesis, [25] gastric lavage, activated charcoal, and whole bowel irrigation). The latter comprises certain special therapies such as multiple-dose activated charcoal, urine alkalinisation, haemodialysis, and haemodiafiltration (Rawlins and Vale 2012, 909-913).[26]
 
 In this section, records of snakebite and poisoning found in the Vinayas have been examined. For these poisoning cases, both empirical remedies (such as using foul things like dung, urine, ashes, and mud, releasing venom from a bitten wound, bloodletting and so on) as well as religious means (including the practice of loving-kindness and chanting of a protective charm or spell) were employed. Such approaches of therapy are also noticed in Āyurveda for curing poisoning. In modern medicine, none of these ancient remedies are used. Cures nowadays involve appropriate first-aid management, quick transfer to a medical centre, careful monitoring of vital signs and blood condition, supportive care of major organ functions, measures for dealing with complications, use of an antivenom or an antidote if necessary, wound management, special measures to reduce absorption of toxins and/or to enhance their elimination.
-
-Footnotes and references:
-
-[back to top]
 
 [1]:
 
@@ -5544,15 +4948,9 @@ Some poisons and/or their by-products are eliminated via the liver and bile into
 
 ## 61. Dermatology (b): Carbuncles
 
-
 Bhesajjakkhandhaka (Chapter on Medicine)
 
-by Hin-tak Sik | 2016 | 121,742 words
-
 This study deals with the ancient Indian Medicine (Ayurveda) in Early Buddhist Literature and studies the Bhesajjakkhandhaka and the Parallels in other Vinaya Canons. The word Bhesajja means “medicine” and is the sixth chapter of the Khandhaka, which represents the second book of the Pali Vinaya Pitaka. Other works consulted include the Bhaisajya-s...
-
-Go directly to: 
-Footnotes.
 
 Dermatology (b): Carbuncles
 
@@ -5572,8 +4970,6 @@ The Samantapāsādikā has provided explanations for some of the terms mentioned
 
 “‘A need of sesame paste’ [refers to] a need of crushed sesame seeds. ‘Wound dressing’ [means] to put a lump of parched flour on the wound surface. ‘With mustard powder’ [means] with crushed mustard seed. ‘Increased flesh’ [refers to that] the exceeding flesh rises like a pin. ‘Linen bandage’ is a small piece of cloth covering with oil. The meaning [of] ‘all cures for a wound’ is: whatever by name a cure for a wound is, I [the Tathāgata] allow all [of them].”[5]
 
-“‘A need of sesame paste’ [refers to] a need of crushed sesame seeds. ‘Wound dressing’ [means] to put a lump of parched flour on the wound surface. ‘With mustard powder’ [means] with crushed mustard seed. ‘Increased flesh’ [refers to that] the exceeding flesh rises like a pin. ‘Linen bandage’ is a small piece of cloth covering with oil. The meaning [of] ‘all cures for a wound’ is: whatever by name a cure for a wound is, I [the Tathāgata] allow all [of them].”[5]
-
 In Āyurvedic treatises, carbuncle (Pāli and Sanskrit: gaṇḍa) is not separately discussed. A related condition, boil (Pāli: piḷakā;Sanskrit: piḍaka), similarly is not examined in detail. In the Caraka Saṃhitā (Sūtrasthāna 17. 83-89), seven types of boil with different presentations are enumerated. In the chapters on minor diseases in the Suśruta Saṃhitā (Nidānasthāna 13) and the Aṣṭāṅga Hṛdaya Saṃhitā (Uttarasthāna 31), certain forms of boil are briefly mentioned (e.g. yavaprakhyā, andhālajī, panasikā, and so on). Rather, the associated conditions–inflammatory swelling and abscess–are well covered in these texts. Inflammatory swelling (Sanskrit: śopha or śotha) is defined as “elevation caused by doṣas, localised and situated between skin and muscles, widespread, knotty, even or uneven” (Suśruta Saṃhitā Sūtrasthāna 17. 3). Swellings are divided into two types: endogenous and exogenous. Endogenous swellings are due to aggravation of each of the humours, the combination of three humours, and the blood. Exogenous ones are due to trauma, force;irritating or poisonous substances of plants, insect, or animals; snow, wind, and fire (Caraka Saṃhitā Sūtrasthāna 18. 3-4; Suśruta Saṃhitā Sūtrasthāna 17. 4). Swellings can also be classified as three stages: immature, maturing, and matured. If an immature swelling is not properly cared, it aggravates and suppurates. The suppurated swelling then becomes deep-seated, causes further damage to surrounding tissues, and is difficult to be cured (Suśruta Saṃhitā Sūtrasthāna 17. 4, 14-16). Treatment for inflammatory swellings includes various measures such as fasting, application of paste to swelling, sprinkling at the lesion with water or decoction, anointing with ghee or oil, fomentation, softening by gentle pressure, applying poultice, bloodletting, lubrication by intake of oil, emesis, purgation, opening of the swelling, cleaning of the wound, healing, and anti-scar remedies (Suśruta Saṃhitā Sūtrasthāna 17. 17-18; Cikitsāsthāna 1. 10).
 
 Boils and carbuncles are associated with abscess (Sanskrit: vidradhi) in pathology. According to Āyurveda, there are six types of abscess: three due to each humour, one to the combination of three humours, one to the blood, and one to trauma. By various causative factors and trauma, humours are aggravated. They cause vitiation of various body tissues such as skin, muscle, fat, bone, ligament, tendon, and so on, and this leads to swelling and abscess formation (Suśruta Saṃhitā Nidānasthāna 9. 5-6; Aṣṭāṅga Hṛdaya Saṃhitā Nidānasthāna 11. 1-3). An abscess can be external (located at skin, muscles, or ligaments) or internal (at deeper tissues or internal organs) (Caraka Saṃhitā Sūtrasthāna 17. 90-95; Aṣṭāṅga Hṛdaya Saṃhitā Nidānasthāna 11. 4-6). It is divided in terms of the level of suppuration into the stages of unripe, ripening, and ripened, similar to those of inflammatory swelling mentioned above (Aṣṭāṅga Hṛdaya Saṃhitā Nidānasthāna 11. 16). Treatment of abscess should start early when the lesion is at early unripe stage. An unripe abscess is treated like an inflammatory swelling (as mentioned above). If an abscess is ripened, incision is made and the pus is removed. The wound is then cleansed with decoction of drugs or medicated ghee (or oil or fat), pasted with drugs, and bandaged. Medicated ghee/oil or decoction is used for cleansing and healng purposes. Intake of decoction of drugs or medicated ghee/oil and administration of enemas are used for treating internal abscesses (Suśruta Saṃhitā Cikitsāsthāna 16; Aṣṭāṅga Hṛdaya Saṃhitā Cikitsāsthāna 13. 1-27).
@@ -5581,10 +4977,6 @@ Boils and carbuncles are associated with abscess (Sanskrit: vidradhi) in patholo
 The modern medical term for boil is furuncle. Both furuncles and carbuncles are skin abscesses. Furuncles arise from infection of hair follicles, or from injuries to skin or foreign bodies in the skin. The infection of boils can proceed to subcutaneous abscesses, or can spread along the subcutaneous tissues as cellulitis. Furuncles can be multiple and recurrent. They manifest as itching and/or painful inflamed swellings with surrounding redness and induration. The chief treatment for boils is drainage of the abscess. Carbuncles arise from furuncles but the infection is more extensive in the dermal and subcutaneous tissues, with many connecting fistulae formed between infected hair follicles. The severe infection often results in many openings at the skin surface, while the skin overlying the lesion becomes necrotic. Carbuncles require immediate extensive excision with electrocautery to remove all the fistular tracts. Antibiotic therapy is also needed for this serious infection (Mundy and Doherty 2010, 79-80).
 
 Several accounts of carbuncle with description of its cure are noted in the Vinayas. They were treated surgically with incision and then by wound care with drugs and bandaging. Āyurvedic treatises do not have a specific section on boil or carbuncle. But such lesions are well discussed in sections of related conditions of inflammatory swelling and abscess. According to modern medicine, a boil (furuncle) is an infection of hair follicle, and a carbuncle is the more severe and extensive form of furuncle, which requires immediate surgical treatment.
-
-Footnotes and references:
-
-[back to top]
 
 [1]:
 
@@ -5614,15 +5006,9 @@ Samantapāsādikā V. 1092: “tilakakkena attho ti piṭṭhehi tilehi attho. k
 
 ## 62. Dermatology (c): Wounds
 
-
 Bhesajjakkhandhaka (Chapter on Medicine)
 
-by Hin-tak Sik | 2016 | 121,742 words
-
 This study deals with the ancient Indian Medicine (Ayurveda) in Early Buddhist Literature and studies the Bhesajjakkhandhaka and the Parallels in other Vinaya Canons. The word Bhesajja means “medicine” and is the sixth chapter of the Khandhaka, which represents the second book of the Pali Vinaya Pitaka. Other works consulted include the Bhaisajya-s...
-
-Go directly to: 
-Footnotes.
 
 Dermatology (c): Wounds
 
@@ -5642,10 +5028,6 @@ According to Āyurveda, there are two kinds of wounds (Pāli: vaṇa; Sanskrit: 
 In modern medicine, a wound is the result of a “loss of anatomic structure in tissue following the transfer of kinetic, chemical, or thermal energy” (Franz 2010, 47). A wound undergoes a healing process of several phases: coagulation, inflammation, proliferation (of collagen, blood vessels, and epithelial cells), and wound remodelling. The healing process, however, can be interfered by local and/or systemic factors, such as wound infection or contamination, repeated irritation or trauma at the wound, presence of foreign body or necrotic tissue in the wound, poor tissue circulation, wound desiccation, tension and oedema at the wound, poor nutrition of the patient, comorbid conditions (e.g. diabetes, malignancy, jaundice, uremia), certain treatments (e.g. steroids, chemotherapy, radiotherapy), smoking, and so on. In modern surgery, management of a wound is classified as primary intention healing, secondary intention healing, and delayed primary closure. Primary intention healing is that the edges of the wound are approximated by suturing or any closure method if the wound is clean and has low risk of infection. Secondary intention healing is that, when the wound has high risk of infection or is already infected, it is left open and is allowed to heal by formation of granulation tissue, epithelial tissue, and wound contracture. Delayed primary closure is that a wound with a risk of developing infection is left open for three to five days and then it is closed primarily if there is no obvious infection. Other measures which are also important for wound management include haemostasis by pressure or ligation of bleeding vessels, regular cleansing of the wound, removal of necrotic or scarred tissues, use of suitable dressings, employment of skin grafts or flaps, appropriate administration of antibiotics, and pain relief (Johnson and Lissauer 2008, 16-20; McLatchie, Borley, and Chikwe 2013, 146-147).
 
 Wound management is described in the accounts on the treatment of carbuncles, but there is also additional information pertaining to wound care found in the Dharmaguptaka Bhaiṣajyaskandhaka. Various measures for treating wounds had already been developed in ancient India, as shown in the classical Āyurvedic texts. In modern medicine, knowledge of wounds and their care is well advanced especially in the disciplines of pathology and surgery.
-
-Footnotes and references:
-
-[back to top]
 
 [1]:
 
@@ -5675,15 +5057,9 @@ These mearures are general treatments for any type of wound. In addition, there 
 
 ## 63. Dermatology (d): Miscellaneous Skin Lesions
 
-
 Bhesajjakkhandhaka (Chapter on Medicine)
 
-by Hin-tak Sik | 2016 | 121,742 words
-
 This study deals with the ancient Indian Medicine (Ayurveda) in Early Buddhist Literature and studies the Bhesajjakkhandhaka and the Parallels in other Vinaya Canons. The word Bhesajja means “medicine” and is the sixth chapter of the Khandhaka, which represents the second book of the Pali Vinaya Pitaka. Other works consulted include the Bhaisajya-s...
-
-Go directly to: 
-Footnotes.
 
 Dermatology (d): Miscellaneous Skin Lesions
 
@@ -5708,10 +5084,6 @@ Now we will briefly describe leprosy and blistering disease according to modern 
 Blisters in skin can occur in many disorders. Causes of blistering diseases are: genetic (e.g. some types of epidermolysis bullosa);physical (e.g. contact with irritants or chemicals, heat and cold, irradiation, and trauma); infective (bacteria, viral, and fungal); inflammatory (e.g. eczema, insect bites); immunological (e.g. bullous pemphigoid, dermatitis herpetiformis, systemic lupus erythematosus, etc.); drug-related; and systemic (e.g. carcinoma, amyloidosis, etc.). Treatments are administered according to causes (Wojnarowska 2005, 76).
 
 Several accounts relating to skin problems not examined in the previous three subsections have been studied in this subsection. In these cases, topical application of powders was the major treatment. Jielai should be associated with kuṣṭha, which is taught in detail in Āyurveda. Blisters can also occur in different skin conditions, but there is no separate section for blistering diseases in Āyurvedic texts. According to modern medicine, leprosy is a complex disease with many manifestations. Treatment for it mainly relies on multidrug therapy. There are numerous causes for blistering disorders, and remedies for such skin problems depend on the diagnoses.
-
-Footnotes and references:
-
-[back to top]
 
 [1]:
 
@@ -5749,15 +5121,9 @@ Details of these diseases can be read in Suśruta Saṃhitā Nidānasthāna 10; 
 
 ## 64. Surgery (a): Perineal Diseases
 
-
 Bhesajjakkhandhaka (Chapter on Medicine)
 
-by Hin-tak Sik | 2016 | 121,742 words
-
 This study deals with the ancient Indian Medicine (Ayurveda) in Early Buddhist Literature and studies the Bhesajjakkhandhaka and the Parallels in other Vinaya Canons. The word Bhesajja means “medicine” and is the sixth chapter of the Khandhaka, which represents the second book of the Pali Vinaya Pitaka. Other works consulted include the Bhaisajya-s...
-
-Go directly to: 
-Footnotes.
 
 Surgery (a): Perineal Diseases
 
@@ -5798,8 +5164,6 @@ The Samantapāsādikā has provided extra information on these treatments at thi
 
 “‘Surgical operation or enema’ is: Just as in a small room, by whatever–by a knife, or by a needle, or by a sharp-pointed instrument, or by a small knife, or by a stone-splinter, or by a nail–[that] cutting, or splitting, or piercing, or scraping should not be done; every [of these] indeed is that surgical operation. By whatever leather or cloth, the pressing of a bladder should not be done; every [of these] indeed is enema. Here–‘the vicinity of two finger-breadths of the private parts’–it is said concerning just to this surgical operation. Enema at the private parts is also rejected. At that place, it is suitable to give a caustic or to bind with whatever cord. If it is severed by that, it is well-cut. Even in [the matter of] the disease of an enlargement of the testicle, surgical operation is not suitable. Therefore, having made the testicle split and removed the causing element, [one thinks] ‘I will bring health’–it should not be done. With regard to anointing with medicine and burning with fire, there is no objection. At the anus, a clinging rod or a bamboo stalk smeared with medicine is suitable; through which they perform caustic treatment or introduce oil.”[17]
 
-“‘Surgical operation or enema’ is: Just as in a small room, by whatever–by a knife, or by a needle, or by a sharp-pointed instrument, or by a small knife, or by a stone-splinter, or by a nail–[that] cutting, or splitting, or piercing, or scraping should not be done; every [of these] indeed is that surgical operation. By whatever leather or cloth, the pressing of a bladder should not be done; every [of these] indeed is enema. Here–‘the vicinity of two finger-breadths of the private parts’–it is said concerning just to this surgical operation. Enema at the private parts is also rejected. At that place, it is suitable to give a caustic or to bind with whatever cord. If it is severed by that, it is well-cut. Even in [the matter of] the disease of an enlargement of the testicle, surgical operation is not suitable. Therefore, having made the testicle split and removed the causing element, [one thinks] ‘I will bring health’–it should not be done. With regard to anointing with medicine and burning with fire, there is no objection. At the anus, a clinging rod or a bamboo stalk smeared with medicine is suitable; through which they perform caustic treatment or introduce oil.”[17]
-
 For these diseases, carbuncle has been discussed in the last section and it will not be covered again. Haemorrhoids and anal fistulae will be elaborated here. According to the classical Āyurvedic treatises, haemorrhoids (Pāli: arisa; Sanskrit: arśas) are morbid structures involving fat tissue, muscle tissue, and skin, which may obstruct the passage of the rectum. They occur in the area of four and a half fingerbreadths in the lower end of the alimentary canal. Piles can be congenital or acquired (after birth). Congenital piles are due to abnormalities of the seeds (sperm and ovum) of the parents, which in turn are due to improper diet and/or activities of the parents or sinful deeds of past lives of the person. Such abnormalities of the seeds cause aggravation of all humours resulting in the congenital piles (Caraka Saṃhitā Nidānasthāna 15. 56; Aṣṭāṅga Hṛdaya Saṃhitā Nidānasthāna 7. 1-3, 6-7). Acquired piles are of five types: three caused by aggravation of each humour, one by that of all three humours, and one by that of the blood (Suśruta Saṃhitā Nidānasthāna 2. 3; Aṣṭāṅga Hṛdaya Saṃhitā Nidānasthāna 7. 9). Various factors can lead to aggravation of humours and blood, such as inappropriate foods and drinks, activities, and treatments; excessive straining when opening bowels; injury to the anus by rubbing with objects or improper insertion of enema nozzle; suppression of natural urge; pregnancy; and so on. Aggravated humours then weaken the digestive power and cause accumulation of waste products. These humours (which may be associated with blood) and waste products are brought down by wind humour to the lower end of the digestive tract, where they vitiate the anal tissues resulting in the formation of piles (Caraka Saṃhitā Cikitsāsthāna 14. 9; Suśruta Saṃhitā Nidānasthāna 2. 4; Aṣṭāṅga Hṛdaya Saṃhitā Nidānasthāna 7. 10-15). Remedies for haemorrhoidal disease are surgical and medical. Surgical measures include excision and cauterisation (by caustic alkali and/or red hot metal probe). Medical means are applying medicated oil/fat, medicinal paste, poultice, or suppository at the lesion;sprinkling or bathing the piles with decoction of drugs; fumigation of drugs at the piles; use of enema; intake of decoction, medicated buttermilk, vegetables, medicated gruel, medicated ghee, vegetable soup, and meat soup; and so on. Bloodletting is undertaken if there is aggravation of blood. For bleeding piles, further treatments are required, such as elimination therapies, fasting, and haemostatic measures (e.g. consumption of bitter drugs and suitable diets, sprinkling or bathing the bleeding piles with decoction, external application with leaves or medicated ghee, and so forth) (Caraka Saṃhitā Cikitsāsthāna 14. 33 ff.; Suśruta Saṃhitā Cikitsāsthāna 6; Aṣṭāṅga Hṛdaya Saṃhitā Cikitsāsthāna 8).
 
 Āyurveda enumerates five types of anal fistula (Pāli: bhagandala;Sanskrit: bhagandara): three due to each humour, one to the three humours together, and one to external factor (such as parasite, or injury to anus which occurs when an ingested bone is passed out) (Caraka Saṃhitā Cikitsāsthāna 12. 96; Suśruta Saṃhitā Nidānasthāna 4. 3). Those causative factors for piles can also lead to the formation of anal fistulae. The aggravated humours afflict the blood and muscle tissues around the anus, and this gives rise to the formation of abscess. When an abscess gets ruptured, it becomes a fistula (Suśruta Saṃhitā Nidānasthāna 4. 3-4; Aṣṭāṅga Hṛdaya Saṃhitā Uttarasthāna 28. 1-4). If the disease is in the early stage when the abscess is not ripened, it is treated with elimination therapy (such as purgation), bathing the lesion with decoctions, and so on. If the abscess has ruptured and the fistula has formed, it is chiefly managed surgically by means of probing, cauterisation (by caustic alkali or burning), incision, and/or excision depending on the lesion. Thereafter the cut-open wound is managed as an ordinary wound (Caraka Saṃhitā Cikitsāsthāna 12. 97; Suśruta Saṃhitā Cikitsāsthāna 8. 4; Aṣṭāṅga Hṛdaya Saṃhitā Uttarasthāna 28. 22-26).
@@ -5809,10 +5173,6 @@ According to modern anatomy, haemorrhoidal tissues are venous structures at the 
 A fistula, in modern medicine, is defined as “an abnormal passage or communication, usually between two internal organs, or leading from an organ to the surface of the body,” and an anal fistula is “a cutaneous fistula opening on the body surface near the anus; it may or may not communicate with the rectum” (Dorland's Illustrated Medical Dictionary, 32nd ed., s.v. “fistula” and “fistula: anal f.”). An anal fistula commonly arises from an anorectal abscess, due to the infection of an anal crypt gland, which ruptures spontaneously or is surgically drained. Other causes include inflammatory bowel disease, mycobacterial infection, fungal infection, rectal tumour, and trauma (Rizzo, Naig, and Johnson 2010, 45-46). An anal fistula can locate at different anatomical tissues near the rectum and anal canal. Treatment for this disease is primarily surgical. A simple and superficial fistula can be cured by tracking and cutting open the fistular tract (fistulotomy), which is then managed as an open wound. Complicated fistulae which involve deeper tissues require special surgical procedures (Welton et al. 2010, 712-714).
 
 Perineal diseases are mentioned in the Buddhist Vinayas. They were treated by surgery or enema. In Āyurveda, such diseases are also treated by various surgical and medical remedies. Haemorrhoids and anal fistulae are managed with medical and/or surgical measures in modern medicine, though much advanced treatments are being employed.
-
-Footnotes and references:
-
-[back to top]
 
 [1]:
 
@@ -5890,10 +5250,7 @@ Samantapāsādikā V. 1093-1094: “satthakammaṃ vā vatthikammaṃ vā’ti y
 
 ## 65. Chapter Summary
 
-
 Bhesajjakkhandhaka (Chapter on Medicine)
-
-by Hin-tak Sik | 2016 | 121,742 words
 
 This study deals with the ancient Indian Medicine (Ayurveda) in Early Buddhist Literature and studies the Bhesajjakkhandhaka and the Parallels in other Vinaya Canons. The word Bhesajja means “medicine” and is the sixth chapter of the Khandhaka, which represents the second book of the Pali Vinaya Pitaka. Other works consulted include the Bhaisajya-s...
 
@@ -5907,15 +5264,9 @@ All these diseases with their treatments (as well as tools in some cases), like 
 
 ## 66. Surgery (b): Foot Ailments
 
-
 Bhesajjakkhandhaka (Chapter on Medicine)
 
-by Hin-tak Sik | 2016 | 121,742 words
-
 This study deals with the ancient Indian Medicine (Ayurveda) in Early Buddhist Literature and studies the Bhesajjakkhandhaka and the Parallels in other Vinaya Canons. The word Bhesajja means “medicine” and is the sixth chapter of the Khandhaka, which represents the second book of the Pali Vinaya Pitaka. Other works consulted include the Bhaisajya-s...
-
-Go directly to: 
-Footnotes.
 
 Surgery (b): Foot Ailments
 
@@ -5950,10 +5301,6 @@ In terms of modern medicine, cracks on the foot usually occur at sites where the
 Calluses and corns are common foot problems in the elderly. A callus is a hard and thickened skin plague and a corn is a similar plague which is pushed into the skin. They are caused by pressure or friction at pressure points on the foot, leading to excessive thickening of the horny layer of the skin (hyperkeratinisation). Such mechanical stress may come from improper footwear, foot deformities, increased weight-bearing, or neuropathies. Tenderness and pain are usual symptoms. These skin lesions are also predisposing to ulcer formation. Treatments include correction of mechanical stress by using suitable footwear, wearing orthosis, or even orthopaedic operation; and removal of corns/calluses by keratolytic agents or by minor surgery (such as corn enucleation by scalpel, or electrodesiccation) (Berger 2012, 142; Springett and Johnson 2010, 28-30).
 
 In short, cases of foot ailments are found in the Chapters on Medicine. These minor problems include cracked feet, corns, and injury. They were treated by ointments and footwear. In Āyurveda, cracked feet are chiefly cured by applying medicated ghee or fat, while corns by surgical excision. In modern medicine, treatements for these diseases aim at correcting any mechanical stress which causes these foot problems, and healing of lesions by means of medicinal agents, physical appliances, and/or surgical interventions.
-
-Footnotes and references:
-
-[back to top]
 
 [1]:
 
@@ -5995,15 +5342,9 @@ Samantapāsādikā V. 1092: “pajjaṃ abhisaṅkharitun ti yena phālitapādā
 
 ## 67. Psychiatry
 
-
 Bhesajjakkhandhaka (Chapter on Medicine)
 
-by Hin-tak Sik | 2016 | 121,742 words
-
 This study deals with the ancient Indian Medicine (Ayurveda) in Early Buddhist Literature and studies the Bhesajjakkhandhaka and the Parallels in other Vinaya Canons. The word Bhesajja means “medicine” and is the sixth chapter of the Khandhaka, which represents the second book of the Pali Vinaya Pitaka. Other works consulted include the Bhaisajya-s...
-
-Go directly to: 
-Footnotes.
 
 Psychiatry
 
@@ -6037,10 +5378,6 @@ In modern medicine, there is no teaching of any diseases caused by nonhumans or 
 
 In brief, a case of insanity or non-human-causing disease is recorded in most of the Chapters on Medicine. Āyurveda has teachings on both illnesses and remedies for them. In modern medicine, there is no coverage for diseases pertaining to non-humans. Insanity, referring to mental derangement, can be a clinical manifestation of various psychiatric disorders. For this Buddhist case, it could be delirium due to vitamin B12 deficiency as analysed above.
 
-Footnotes and references:
-
-[back to top]
-
 [1]:
 
 Theravāda Vinaya Piṭaka I. 202-203: “tena kho pana samayena aññatarassa bhikkhuno amanussikābādho hoti. taṃ ācariyupajjhāyā upaṭṭhahantā nāsakkhiṃsu ārogaṃ kātuṃ. so sūkarasūnaṃ gantvā āmakamaṃsaṃ khādi āmakalohitaṃ pivi, tassa so amanussikābādho paṭippassambhi. bhagavato etam atthaṃ ārocesuṃ. anujānāmi bhikkhave amanussikābādhe āmakamaṃsaṃ āmakalohitan ti.”
@@ -6069,15 +5406,9 @@ Samantapāsādikā V. 1090: “āmakamaṃsañ ca khādi āmakalohitañ ca pivī
 
 ## 68. Conclusion: Summary of Present Research
 
-
 Bhesajjakkhandhaka (Chapter on Medicine)
 
-by Hin-tak Sik | 2016 | 121,742 words
-
 This study deals with the ancient Indian Medicine (Ayurveda) in Early Buddhist Literature and studies the Bhesajjakkhandhaka and the Parallels in other Vinaya Canons. The word Bhesajja means “medicine” and is the sixth chapter of the Khandhaka, which represents the second book of the Pali Vinaya Pitaka. Other works consulted include the Bhaisajya-s...
-
-Go directly to: 
-Footnotes.
 
 Conclusion: Summary of Present Research
 
@@ -6099,10 +5430,6 @@ Abundant medicinal substances are covered in the Chapters on Medicine, especiall
 
 Cases of diseases with their treatments recorded in the Chapters on Medicine are classified and elaborated in Chapter Five. These diseases have been put into categories according to the medical specialties in which they are usually managed. The diseases and specialties are: autumnal illness, wind diseases, humoral problems, fever, gastrointestinal disorders, headache, and jaundice in the discipline of internal medicine; snakebite and poisoning in toxicology;painful eyes and baiyi in ophthalmology; itching, carbuncles, wounds, and other skin diseases in dermatology; perineal lesions and foot problems in surgery; and insanity (or non-human-causing disease) in psychiatry. Relevant passages in the Chapters on Medicine narrating these illnesses and their remedies are grouped for each of the aforementioned diseases, and then explicated with commentarial annotations, references to Āyurvedic doctrines, and modern medical facts.
 
-Footnotes and references:
-
-[back to top]
-
 [1]:
 
 The research questions and the aims of the research are set out in detail in Sections 1. 2. 1 and 1. 2. 2 in Chapter One respectively.
@@ -6115,10 +5442,7 @@ For the details of the arguments, see p. 20-22 in Chapter One.
 
 ## 69. Chapter 6 - Conclusion
 
-
 Bhesajjakkhandhaka (Chapter on Medicine)
-
-by Hin-tak Sik | 2016 | 121,742 words
 
 This study deals with the ancient Indian Medicine (Ayurveda) in Early Buddhist Literature and studies the Bhesajjakkhandhaka and the Parallels in other Vinaya Canons. The word Bhesajja means “medicine” and is the sixth chapter of the Khandhaka, which represents the second book of the Pali Vinaya Pitaka. Other works consulted include the Bhaisajya-s...
 
@@ -6130,15 +5454,9 @@ Chapter 6 - Conclusion
 
 ## 70. Contributions of this Study
 
-
 Bhesajjakkhandhaka (Chapter on Medicine)
 
-by Hin-tak Sik | 2016 | 121,742 words
-
 This study deals with the ancient Indian Medicine (Ayurveda) in Early Buddhist Literature and studies the Bhesajjakkhandhaka and the Parallels in other Vinaya Canons. The word Bhesajja means “medicine” and is the sixth chapter of the Khandhaka, which represents the second book of the Pali Vinaya Pitaka. Other works consulted include the Bhaisajya-s...
-
-Go directly to: 
-Footnotes.
 
 Contributions of this Study
 
@@ -6166,10 +5484,6 @@ Another advantage of this study is related to the organisation and identificatio
 
 Certain analyses/interpretations of the medical facts in this study are worthy of remark. The first one is the autumnal disease. As explained in Section 5. 1. 1, the illness, with clinical features pointing to a bowel problem, could be an infective gastroenteritis due to a virus or bacterium. The second one is the biomedical understanding of the three humours. While wind humour is maintained to be related to the nervous system by contemporary Āyurvedic scholars, bile humour would probably pertain to the digestive-metabolic function, and phlegm humour or waterelement seems likely to be associated with the endocrine-immune systems, as discussed in Section 5. 1. 3. The third one is the interpretation of the disease paṇḍuroga/pāṇḍuroga (“yellow disease”) as “jaundice”. Although the term is usually rendered as anaemia by present-day Āyurvedic scholars, we have preferred to interpret it as jaundice in Section 5. 1. 7, for this can embrace certain types of anaemia. It is because jaundice is aetiologically divided into three groups (viz. haemolytic jaundice, hyperbilirubinaemia, and cholestatic jaundice) in modern medicine, and haemolytic jaundice can be caused by various kinds of haemolytic anaemia. Thus, the interpretation of the term as jaundice could encompass certain anaemias. Then, the fourth one is the consumption of mud and other foul things (urine, dung, and ash) for curing poisoning cases. The use of such substances may be due to their effects on induced emesis and/or enhanced elimination of toxins by acting as an absorbent and reducing reabsorption of toxins in the bowel, as explained in Section 5. 2. The last one is the elaboration of the case of insanity. This case, healed by eating raw meat and drinking blood, could be due to vitamin B12 deficiency as discussed in Section 5. 6. These interpretations presented in Chapter Five, which are based on careful analyses of the medical details in the Chapters on Medicine, hence provide new explanations of the diseases mentioned in the texts.
 
-Footnotes and references:
-
-[back to top]
-
 [1]:
 
 See footnote 151 on p. 192.
@@ -6178,15 +5492,9 @@ See footnote 151 on p. 192.
 
 ## 71. Limitations of this thesis and future research directions
 
-
 Bhesajjakkhandhaka (Chapter on Medicine)
 
-by Hin-tak Sik | 2016 | 121,742 words
-
 This study deals with the ancient Indian Medicine (Ayurveda) in Early Buddhist Literature and studies the Bhesajjakkhandhaka and the Parallels in other Vinaya Canons. The word Bhesajja means “medicine” and is the sixth chapter of the Khandhaka, which represents the second book of the Pali Vinaya Pitaka. Other works consulted include the Bhaisajya-s...
-
-Go directly to: 
-Footnotes.
 
 Limitations of this thesis and future research directions
 
@@ -6208,10 +5516,6 @@ Findings and interpretations in this thesis may act as a base on which implicati
 
 In fact, there could be a wide range of studies pertaining to “Buddhist medicine”. Various discussions on its definition, philosophical basis, ethical issues, historical development, transmission from India to other places, influence on other medical traditions, practice in the past, application to modern healthcare, and so on are potential topics in this field for future research.
 
-Footnotes and references:
-
-[back to top]
-
 [1]:
 
 Both of these works belong to Zhiyi 智顗 (538-597). The former was written by him, and the latter came from his talks which were composed by his student Guanding 灌頂 (561-632).
@@ -6220,10 +5524,7 @@ Both of these works belong to Zhiyi 智顗 (538-597). The former was written by 
 
 ## 72. References
 
-
 Bhesajjakkhandhaka (Chapter on Medicine)
-
-by Hin-tak Sik | 2016 | 121,742 words
 
 This study deals with the ancient Indian Medicine (Ayurveda) in Early Buddhist Literature and studies the Bhesajjakkhandhaka and the Parallels in other Vinaya Canons. The word Bhesajja means “medicine” and is the sixth chapter of the Khandhaka, which represents the second book of the Pali Vinaya Pitaka. Other works consulted include the Bhaisajya-s...
 

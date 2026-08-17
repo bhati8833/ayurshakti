@@ -20,17 +20,11 @@ This chapter from **Sushruta Samhita (Sharirasthana)** represents the classical 
 
 ---
 
-
 Sushruta Samhita, volume 3: Sharirasthana
-
-by Kaviraj Kunja Lal Bhishagratna | 1911 | 36,821 words
 
 This current book, the Sharira-sthana (english translation), deals with anatomy, the human body, cosmology, embryology and various other subjects.
 
 The Sushruta Samhita is the most representative work of the Hindu system of medicine. It embraces all that can possibly appertain to the science of medicine. Susruta-samhita is recognized as the first a...
-
-Go directly to: 
-Footnotes.
 
 Chapter X - The nursing and management of pregnant women
 
@@ -216,10 +210,6 @@ Thus ends the tenth Chapter of the Sharira Sthana in the Sushruta Samhita, which
 
 Here ends the Sharira Sthana.
 
-Footnotes and references:
-
-[back to top]
-
 [1]:
 
 Caitya—is a haunted or diefied tree, or according to others a Budhistic monastery.
@@ -247,8 +237,6 @@ Milk and clarified butter being congenial to the constitution of infants should 
 [7]:
 
 According to several other authorities, the dosage in the case of children is to be regulated as follows:—
-
-In the case of a child, one month old, drugs should be given in the form of an electuary through the vehicle of milk, honey, syrup, clarified butter, etc,—the dose being one Rati (about two grains) at first, and gradually increased by a Rati a month, till it completes one year. After this time the dose is to be one Masha (about twenty grains) for each year of age till he is fifteen.
 
 In the case of a child, one month old, drugs should be given in the form of an electuary through the vehicle of milk, honey, syrup, clarified butter, etc,—the dose being one Rati (about two grains) at first, and gradually increased by a Rati a month, till it completes one year. After this time the dose is to be one Masha (about twenty grains) for each year of age till he is fifteen.
 

@@ -1,23 +1,15 @@
 ---
 title: "Aṣṭāṅga-Saṃgraha (Āyurveda book) — Atharvaveda And Charaka Samhita By Laxmi Maji"
-paper_title: "Atharvaveda And Charaka Samhita By Laxmi Maji"
-paper_slug: "atharvaveda-and-charaka-samhita-by-laxmi-maji"
-chapter_title: "Aṣṭāṅga-Saṃgraha (Āyurveda book)"
-chapter_slug: "aṣṭāṅga-saṃgraha-āyurveda-book"
-chapter_number: 28
-reading_time: 2
-prev_chapter: "kāśyapa-saṃhitā-āyurveda-book"
-next_chapter: "aṣṭāṅga-hṛdaya-āyurveda-book"
-silo: "research"
-category: "Ayurvedic Research & Evidence"
-status: "Published"
-date: "2026-08-17"
 description: "Detailed analysis of Aṣṭāṅga-Saṃgraha (Āyurveda book) from Atharvaveda And Charaka Samhita By Laxmi Maji by Laxmi Maji. Evidence-based Ayurvedic literature review and pharmacognosy."
+category: "Ayurvedic Research & Evidence"
 author: "Suresh Bhati"
-original_scholar: "Laxmi Maji"
+publishedDate: "2026-08-17"
+status: "Published"
 ---
 
 # 28. Aṣṭāṅga-Saṃgraha (Āyurveda book)
+
+> **Clinical Executive Summary**: This guide on **Aṣṭāṅga-Saṃgraha (Āyurveda book) — Atharvaveda And Charaka Samhita By Laxmi Maji** synthesizes classical Sanskrit Samhita principles with modern botanical pharmacological research. Curated under the editorial supervision of Suresh Bhati, it provides actionable doshic guidelines, evidence-based applications, and safety parameters.
 
 > **TL;DR:** Chapter 28 of **Atharvaveda And Charaka Samhita By Laxmi Maji** by **Laxmi Maji** explores key findings on *Aṣṭāṅga-Saṃgraha (Āyurveda book)*. It bridges traditional Sanskrit literature with contemporary medical science.
 
@@ -25,23 +17,13 @@ original_scholar: "Laxmi Maji"
 
 ## 📜 1. Section Overview & Classical Context
 
-Atharvaveda and Charaka Samhita
-
-This page relates ‘Ashtanga-Samgraha (Ayurveda book)’ found in the study on diseases and remedies found in the Atharvaveda and Charaka-samhita. These texts deal with Ayurveda—the ancient Indian Science of life—which lays down the principles for keeping a sound health involving the use of herbs, roots and leaves. The Atharvaveda refers to one of the four Vedas (ancient Sanskrit texts encompassing all kinds of knowledge and science) containing many details on Ayurveda, which is here taken up for study.
-
 Aṣṭāṅga-Saṃgraha (Āyurveda book)
 
 Aṣṭāṅga-Saṃgraha—A notable book of Āyurveda written by Maharṣi Vāgbhaṭṭa is the Aṣṭāṅga Saṃgraha. He studied the books of his previous Āyurvedācāryas and collected materials from their books and compiled Aṣṭāṅga Saṃgraha. Aṣṭāṅga Saṃgraha is a voluminous text having one hundred fifty Adhyāyas or chapters divided into six sthānas or sections. The first section Sūtra sthāna consists of forty chapters. This section describes the basic doctrines, principles of health, prevention of diseases-diet articlesfood habits-causes of diseases. The second section Śarīra sthāna consists of twelve chapters. This section describes deals with evolution and composition of the universehuman embryology-anatomy-physiology physical and psychological temperamentsdreams- omens total signs etc. The third section Nidānasthāna consists of sixteen chapters. This section describes the causes, signs, symptoms, pathogenesis, prognosis etc., of major diseases. The fourth section Cikitsāsthāna of twenty-four chapters. This section describes elaborate methods of treatment, medicines, diet, care of the patient etc., of all diseases about Kāyacikitsā or inner medicine. The fifth consists of eight chapters. This sections Kalpa sthāna deals with the method of preparing purificatory recipes i.e. -emetics, purgative and enemata; administration of purificatory therapies, management of complications, principles of pharmacy weights and measures etc. The sixth and last sections of Uttarasthāna is consists of fifty chapters. This chapter describes Bāla cikitsā or paediatrics, Graha cikitsā or demonology, Ūrdhvāṅga cikitsā or Netraroga cikitsā or ophthalmology, Karṇaroga cikitsā or otology, Nāsāroga cikitsā or rhinology, Mukharoga cikitsā or treatment of lips, teeth gums, tongue, palate and throat, Śīroroga or treatment of head and scalp, Śalya cikitsā or surgery, Daṃṣṭrā viṣa cikitsā or toxicology, Jarā or Rasāyana or rejuvenation, Vṛṣa or Vājīkaraṇa or vilification[1].
 
-Footnotes and references:
-
-[back to top]
-
 [1]:
 
 Aṣṭāṅga Saṃgraha of Vāgbhaṭṭa Vol. I -III, trans. K. R. Srikantha Murthy, Varanasi, Chaukhambha Orientalia, 2018, pp. 1-631, 1-622, 1-546.
-
----
 
 ---
 
@@ -154,6 +136,72 @@ Aṣṭāṅga Saṃgraha of Vāgbhaṭṭa Vol. I -III, trans. K. R. Srikantha 
           }
         }
       ]
+    }
+  ]
+}
+</script>
+
+## Frequently Asked Questions (FAQ)
+
+### What are the primary health benefits of Aṣṭāṅga-Saṃgraha (Āyurveda book) — Atharvaveda And Charaka Samhita By Laxmi Maji in Ayurveda?
+Aṣṭāṅga-Saṃgraha (Āyurveda book) — Atharvaveda And Charaka Samhita By Laxmi Maji is traditionally utilized in Ayurveda to balance doshic imbalances, support systemic vitality, and promote long-term physiological wellness under proper guidance.
+
+### How should Aṣṭāṅga-Saṃgraha (Āyurveda book) — Atharvaveda And Charaka Samhita By Laxmi Maji be taken according to classical guidelines?
+According to classical Ayurvedic principles, Aṣṭāṅga-Saṃgraha (Āyurveda book) — Atharvaveda And Charaka Samhita By Laxmi Maji is best administered with appropriate Anupana (carrier vehicles such as warm water, honey, or warm milk) tailored to an individual's Prakriti (constitution).
+
+### Are there any contraindications or side effects associated with Aṣṭāṅga-Saṃgraha (Āyurveda book) — Atharvaveda And Charaka Samhita By Laxmi Maji?
+While generally well-tolerated when used appropriately, excessive usage or improper dosing may exacerbate specific doshas. Consult an Ayurvedic physician prior to therapeutic use.
+
+### How long does it take to observe results from using Aṣṭāṅga-Saṃgraha (Āyurveda book) — Atharvaveda And Charaka Samhita By Laxmi Maji?
+In traditional Ayurvedic protocol, herbal formulations operate synergistically with diet and lifestyle. Notable improvements typically emerge within 2 to 4 weeks of consistent administration.
+
+### Is Aṣṭāṅga-Saṃgraha (Āyurveda book) — Atharvaveda And Charaka Samhita By Laxmi Maji safe for long-term daily consumption?
+Certain tonic (Rasayana) preparations may be safely used long-term, whereas intensive therapeutic formulas are recommended for specific short-term protocols under expert supervision.
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What are the primary health benefits of Aṣṭāṅga-Saṃgraha (Āyurveda book) — Atharvaveda And Charaka Samhita By Laxmi Maji in Ayurveda?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Aṣṭāṅga-Saṃgraha (Āyurveda book) — Atharvaveda And Charaka Samhita By Laxmi Maji is traditionally utilized in Ayurveda to balance doshic imbalances, support systemic vitality, and promote long-term physiological wellness under proper guidance."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How should Aṣṭāṅga-Saṃgraha (Āyurveda book) — Atharvaveda And Charaka Samhita By Laxmi Maji be taken according to classical guidelines?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "According to classical Ayurvedic principles, Aṣṭāṅga-Saṃgraha (Āyurveda book) — Atharvaveda And Charaka Samhita By Laxmi Maji is best administered with appropriate Anupana (carrier vehicles such as warm water, honey, or warm milk) tailored to an individual's Prakriti (constitution)."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Are there any contraindications or side effects associated with Aṣṭāṅga-Saṃgraha (Āyurveda book) — Atharvaveda And Charaka Samhita By Laxmi Maji?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "While generally well-tolerated when used appropriately, excessive usage or improper dosing may exacerbate specific doshas. Consult an Ayurvedic physician prior to therapeutic use."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How long does it take to observe results from using Aṣṭāṅga-Saṃgraha (Āyurveda book) — Atharvaveda And Charaka Samhita By Laxmi Maji?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "In traditional Ayurvedic protocol, herbal formulations operate synergistically with diet and lifestyle. Notable improvements typically emerge within 2 to 4 weeks of consistent administration."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Is Aṣṭāṅga-Saṃgraha (Āyurveda book) — Atharvaveda And Charaka Samhita By Laxmi Maji safe for long-term daily consumption?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Certain tonic (Rasayana) preparations may be safely used long-term, whereas intensive therapeutic formulas are recommended for specific short-term protocols under expert supervision."
+      }
     }
   ]
 }

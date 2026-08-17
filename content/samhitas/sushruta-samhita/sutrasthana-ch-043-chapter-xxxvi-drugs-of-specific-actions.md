@@ -20,15 +20,9 @@ This chapter from **Sushruta Samhita (Sutrasthana)** represents the classical su
 
 ---
 
-
 Sushruta Samhita, volume 1: Sutrasthana
 
-by Kaviraj Kunja Lal Bhishagratna | 1907 | 148,756 words
-
 This current book, the Sutra-sthana (english translation), is the first part of this voluminous medical work. It contains a large summary of the knowledge envelopig the medical aspects of Ayurveda. Descriptions of diseases, various diets and drugs, the duties of a surgeon, surgical procedures, medical training; these are only some of the numerous s...
-
-Go directly to: 
-Footnotes.
 
 Chapter XXXVI - Drugs of specific actions
 
@@ -101,10 +95,6 @@ A. compound consisting of Kasisa, Saindhava (rock salt), Kinvam, Kuruvinda, Mana
 A wise physician should use all the drugs and substances as have been enumerated in connection with the healing or establishing of suppuration, etc. in an ulcer, or as many of them as would be available at the time.
 
 Thus ends the thirty-sixth Chapter of the Sutrasthana in the Sushruta Samhita which treats of miscellaneous remedies for inflammatory swellings.
-
-Footnotes and references:
-
-[back to top]
 
 [1]:
 

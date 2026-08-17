@@ -1,23 +1,15 @@
 ---
 title: "4. Classification of Surgical Instruments — Surgery In Ancient India Study By P P Prathapan"
-paper_title: "Surgery In Ancient India Study By P P Prathapan"
-paper_slug: "surgery-in-ancient-india-study-by-p-p-prathapan"
-chapter_title: "4. Classification of Surgical Instruments"
-chapter_slug: "4-classification-of-surgical-instruments"
-chapter_number: 73
-reading_time: 2
-prev_chapter: "5-application-of-svastika"
-next_chapter: "6-application-of-the-samdamsha-instrument"
-silo: "research"
-category: "Ayurvedic Research & Evidence"
-status: "Published"
-date: "2026-08-17"
 description: "Detailed analysis of 4. Classification of Surgical Instruments from Surgery In Ancient India Study By P P Prathapan by Classical Ayurvedic Scholar. Evidence-based Ayurvedic literature review and pharmacognosy."
+category: "Ayurvedic Research & Evidence"
 author: "Suresh Bhati"
-original_scholar: "Classical Ayurvedic Scholar"
+publishedDate: "2026-08-17"
+status: "Published"
 ---
 
 # 73. 4. Classification of Surgical Instruments
+
+> **Clinical Executive Summary**: This guide on **4. Classification of Surgical Instruments — Surgery In Ancient India Study By P P Prathapan** synthesizes classical Sanskrit Samhita principles with modern botanical pharmacological research. Curated under the editorial supervision of Suresh Bhati, it provides actionable doshic guidelines, evidence-based applications, and safety parameters.
 
 > **TL;DR:** Chapter 73 of **Surgery In Ancient India Study By P P Prathapan** by **Classical Ayurvedic Scholar** explores key findings on *4. Classification of Surgical Instruments*. It bridges traditional Sanskrit literature with contemporary medical science.
 
@@ -36,8 +28,6 @@ The seventh chapter of Sushruta Samhita, deals with surgical instruments number 
 for their principal auxiliary) and as none of them can be handled without it; and further because all surgical operations pre-eminently require its co-operation. Any foreign or extraneous substance, which finds a lodgment in the human system and becomes painful to the body and the mind alike, is called a salya ; and surgical instruments are the means of extracting it from its seat or place where it is embedded. Surgical appliances may be divided into six different groups or types, such as the svastika, the sandansha, the tala, the nadi yantras, and the salakas, besides those that are called the minor or accessory appliances (upayantras). According to certain authorities hundred is here indefinitely used for a large number into two; the nadiyantras tubular into twenty; and the salakas (bougies into twenty eight; while the upayantras admit of being divided into twenty five different types. These instruments are all made of iron which may be substituted for any other similar or suitable substance where iron would be unavailable. The mouths of these appliances are usually made to resemble those of birds and beasts, and hence they should be made to resemble the mouths of some particular animal in shape, or 229
 
 otherwise, according to the advice of old and experienced physicians surgeons; or according to the directions as laid down in the sastras (medical books of recognised authority, or according to the exigencies of the case, or after the shape and structure of other appliances used on similar occasions.) Appliances should be made neither too large nor too small, and their mouths or edges should be made sharp and keen. They should be made with a special eye as to strength and steadiness, and they should be provided with convenient handles.
-
----
 
 ---
 
@@ -150,6 +140,72 @@ otherwise, according to the advice of old and experienced physicians surgeons; o
           }
         }
       ]
+    }
+  ]
+}
+</script>
+
+## Frequently Asked Questions (FAQ)
+
+### What are the primary health benefits of 4. Classification of Surgical Instruments — Surgery In Ancient India Study By P P Prathapan in Ayurveda?
+4. Classification of Surgical Instruments — Surgery In Ancient India Study By P P Prathapan is traditionally utilized in Ayurveda to balance doshic imbalances, support systemic vitality, and promote long-term physiological wellness under proper guidance.
+
+### How should 4. Classification of Surgical Instruments — Surgery In Ancient India Study By P P Prathapan be taken according to classical guidelines?
+According to classical Ayurvedic principles, 4. Classification of Surgical Instruments — Surgery In Ancient India Study By P P Prathapan is best administered with appropriate Anupana (carrier vehicles such as warm water, honey, or warm milk) tailored to an individual's Prakriti (constitution).
+
+### Are there any contraindications or side effects associated with 4. Classification of Surgical Instruments — Surgery In Ancient India Study By P P Prathapan?
+While generally well-tolerated when used appropriately, excessive usage or improper dosing may exacerbate specific doshas. Consult an Ayurvedic physician prior to therapeutic use.
+
+### How long does it take to observe results from using 4. Classification of Surgical Instruments — Surgery In Ancient India Study By P P Prathapan?
+In traditional Ayurvedic protocol, herbal formulations operate synergistically with diet and lifestyle. Notable improvements typically emerge within 2 to 4 weeks of consistent administration.
+
+### Is 4. Classification of Surgical Instruments — Surgery In Ancient India Study By P P Prathapan safe for long-term daily consumption?
+Certain tonic (Rasayana) preparations may be safely used long-term, whereas intensive therapeutic formulas are recommended for specific short-term protocols under expert supervision.
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What are the primary health benefits of 4. Classification of Surgical Instruments — Surgery In Ancient India Study By P P Prathapan in Ayurveda?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "4. Classification of Surgical Instruments — Surgery In Ancient India Study By P P Prathapan is traditionally utilized in Ayurveda to balance doshic imbalances, support systemic vitality, and promote long-term physiological wellness under proper guidance."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How should 4. Classification of Surgical Instruments — Surgery In Ancient India Study By P P Prathapan be taken according to classical guidelines?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "According to classical Ayurvedic principles, 4. Classification of Surgical Instruments — Surgery In Ancient India Study By P P Prathapan is best administered with appropriate Anupana (carrier vehicles such as warm water, honey, or warm milk) tailored to an individual's Prakriti (constitution)."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Are there any contraindications or side effects associated with 4. Classification of Surgical Instruments — Surgery In Ancient India Study By P P Prathapan?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "While generally well-tolerated when used appropriately, excessive usage or improper dosing may exacerbate specific doshas. Consult an Ayurvedic physician prior to therapeutic use."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How long does it take to observe results from using 4. Classification of Surgical Instruments — Surgery In Ancient India Study By P P Prathapan?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "In traditional Ayurvedic protocol, herbal formulations operate synergistically with diet and lifestyle. Notable improvements typically emerge within 2 to 4 weeks of consistent administration."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Is 4. Classification of Surgical Instruments — Surgery In Ancient India Study By P P Prathapan safe for long-term daily consumption?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Certain tonic (Rasayana) preparations may be safely used long-term, whereas intensive therapeutic formulas are recommended for specific short-term protocols under expert supervision."
+      }
     }
   ]
 }

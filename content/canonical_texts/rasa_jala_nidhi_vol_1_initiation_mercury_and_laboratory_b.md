@@ -9,19 +9,11 @@ date: "2026-08-17"
 description: "text includes treatments, recipes and remedies and is categorised as Rasa Shastra: an important branch of Ayurveda that specialises in medicinal/ herbal chemistry, alchemy and mineralogy, for the p..."
 ---
 
-**Author / Source:** by Bhudeb Mookerjee
-
-
-**Total Chapters/Sections:** 48
-
 ---
 
 ## 1. Part 2 - Qualifications of a Disciple
 
-
 Rasa Jala Nidhi, vol 1: Initiation, Mercury and Laboratory
-
-by Bhudeb Mookerjee | 1938 | 67,774 words | ISBN-10: 8170305829 | ISBN-13: 9788170305828
 
 This first volume of the Rasa-jala-nidhi includes preliminary information on Alchemy including initiation of a discpiple, laboratory setup, mercurial operations and commonly used technical terms.
 
@@ -41,17 +33,11 @@ This concludes ‘Qualifications of a Disciple’ included in Bhudeb Mookerjee R
 
 ## 2. Introduction
 
-
 Rasa Jala Nidhi, vol 1: Initiation, Mercury and Laboratory
-
-by Bhudeb Mookerjee | 1938 | 67,774 words | ISBN-10: 8170305829 | ISBN-13: 9788170305828
 
 This first volume of the Rasa-jala-nidhi includes preliminary information on Alchemy including initiation of a discpiple, laboratory setup, mercurial operations and commonly used technical terms.
 
 The Rasa-jala-nidhi (“the ocean of Iatrochemistry, or, chemical medicine) is a compendium of Sanskrit verses dealing with ancient Indian alchemy and chem...
-
-Go directly to: 
-Footnotes.
 
 Introduction
 
@@ -64,10 +50,6 @@ For the fulfilment of all desires, I bow down to my parents, who are the sources
 Metallurgy is a great science revealed to the world by God Himself at the commencement of the present Kalpa (a mundane period, followed and preceded by a dissolution of the universe—the present Kalpa commenced, according to Indian history, some 160,0000000 years back.)[2] It was introduced into India for the purpose of preventing disease and premature old age. This science, which is the giver of all wished-for objects, is now in a moribund condition, and is no longer given attention to by kings, whether Indian or foreign. Numerous were the books written on Metallurgy and Chemistry by ancient Indian sages. Most of these books have completely been lost; those which are extant are mostly very rare, and not very intelligible. The present book is based on many of those which are still extant, and have been collected carefully. It is written by the grace of the conqueror of death at the great city of Kalikshetra (Calcutta) in the year 5026 of the perverted Kaliyuga.[3]
 
 Treatment of diseases by Rasa (mercury), gems, metals etc is divine; that by incantations and vegetable drugs human; and that by surgical instruments diabolical. Metallurgy is therefore to be learnt very carefully.
-
-Footnotes and references:
-
-[back to top]
 
 [1]:
 
@@ -89,10 +71,7 @@ This concludes ‘Introduction’ included in Bhudeb Mookerjee Rasa Jala Nidhi, 
 
 ## 3. Part 1 - Qualifications of a Preceptor
 
-
 Rasa Jala Nidhi, vol 1: Initiation, Mercury and Laboratory
-
-by Bhudeb Mookerjee | 1938 | 67,774 words | ISBN-10: 8170305829 | ISBN-13: 9788170305828
 
 This first volume of the Rasa-jala-nidhi includes preliminary information on Alchemy including initiation of a discpiple, laboratory setup, mercurial operations and commonly used technical terms.
 
@@ -110,10 +89,7 @@ This concludes ‘Qualifications of a Preceptor’ included in Bhudeb Mookerjee 
 
 ## 4. Part 3 - Construction of a Laboratory
 
-
 Rasa Jala Nidhi, vol 1: Initiation, Mercury and Laboratory
-
-by Bhudeb Mookerjee | 1938 | 67,774 words | ISBN-10: 8170305829 | ISBN-13: 9788170305828
 
 This first volume of the Rasa-jala-nidhi includes preliminary information on Alchemy including initiation of a discpiple, laboratory setup, mercurial operations and commonly used technical terms.
 
@@ -131,17 +107,11 @@ This concludes ‘Construction of a Laboratory’ included in Bhudeb Mookerjee R
 
 ## 5. Part 4 - The Rasalinga or Rasalingam (Phallus made of Mercury)
 
-
 Rasa Jala Nidhi, vol 1: Initiation, Mercury and Laboratory
-
-by Bhudeb Mookerjee | 1938 | 67,774 words | ISBN-10: 8170305829 | ISBN-13: 9788170305828
 
 This first volume of the Rasa-jala-nidhi includes preliminary information on Alchemy including initiation of a discpiple, laboratory setup, mercurial operations and commonly used technical terms.
 
 The Rasa-jala-nidhi (“the ocean of Iatrochemistry, or, chemical medicine) is a compendium of Sanskrit verses dealing with ancient Indian alchemy and chem...
-
-Go directly to: 
-Footnotes.
 
 Part 4 - The Rasalinga or Rasalingam (Phallus made of Mercury)
 
@@ -158,10 +128,6 @@ The Rasankusi Mantra or the hymn to be recited in connection with the worship of
 The goddess of beauty is in the form of speech or word; is the root cause of the energy of the Greatest Object of desire (i.e., God Himself), and is the sovereign force behind Rasa (mercury). She is equal to mercury. It is therefore worth while to learn how to control mercury.
 
 Thus the Goddess is to be worshipped with due offerings; and so also are to be worshipped Nandy, Bhringi, Mahakala and Kulira (followers of Siva).
-
-Footnotes and references:
-
-[back to top]
 
 [1]:
 
@@ -183,10 +149,7 @@ This concludes ‘The Rasalinga or Rasalingam (Phallus made of Mercury)’ inclu
 
 ## 6. Part 5 - Details and Equipments of the Laboratory
 
-
 Rasa Jala Nidhi, vol 1: Initiation, Mercury and Laboratory
-
-by Bhudeb Mookerjee | 1938 | 67,774 words | ISBN-10: 8170305829 | ISBN-13: 9788170305828
 
 This first volume of the Rasa-jala-nidhi includes preliminary information on Alchemy including initiation of a discpiple, laboratory setup, mercurial operations and commonly used technical terms.
 
@@ -218,10 +181,7 @@ This concludes ‘Details and Equipments of the Laboratory’ included in Bhudeb
 
 ## 7. Chapter II - Initiation of Disciple
 
-
 Rasa Jala Nidhi, vol 1: Initiation, Mercury and Laboratory
-
-by Bhudeb Mookerjee | 1938 | 67,774 words | ISBN-10: 8170305829 | ISBN-13: 9788170305828
 
 This first volume of the Rasa-jala-nidhi includes preliminary information on Alchemy including initiation of a discpiple, laboratory setup, mercurial operations and commonly used technical terms.
 
@@ -239,10 +199,7 @@ This concludes ‘Initiation of Disciple’ included in Bhudeb Mookerjee Rasa Ja
 
 ## 8. Part 1 - Preliminary ceremonies
 
-
 Rasa Jala Nidhi, vol 1: Initiation, Mercury and Laboratory
-
-by Bhudeb Mookerjee | 1938 | 67,774 words | ISBN-10: 8170305829 | ISBN-13: 9788170305828
 
 This first volume of the Rasa-jala-nidhi includes preliminary information on Alchemy including initiation of a discpiple, laboratory setup, mercurial operations and commonly used technical terms.
 
@@ -260,25 +217,15 @@ This concludes ‘Preliminary ceremonies’ included in Bhudeb Mookerjee Rasa Ja
 
 ## 9. Part 2 - A Kalini wife
 
-
 Rasa Jala Nidhi, vol 1: Initiation, Mercury and Laboratory
-
-by Bhudeb Mookerjee | 1938 | 67,774 words | ISBN-10: 8170305829 | ISBN-13: 9788170305828
 
 This first volume of the Rasa-jala-nidhi includes preliminary information on Alchemy including initiation of a discpiple, laboratory setup, mercurial operations and commonly used technical terms.
 
 The Rasa-jala-nidhi (“the ocean of Iatrochemistry, or, chemical medicine) is a compendium of Sanskrit verses dealing with ancient Indian alchemy and chem...
 
-Go directly to: 
-Footnotes.
-
 Part 2 - A Kalini wife
 
 That wife is called Kalini whose hair, is curled; whose body is warm in winter, and comfortably cold in summer; who has a complexion as bright as heated gold; whose eyes are like lotus flowers; who is beautiful, young, and has a well-cut physique; whose thighs are wide; who is possessed of all good qualities; who has breasts so well-developed as to give her stature a slight stoop; whose kiss, embrace and touch are soft; whose voice is very mild; whose genital organ is so developed as to give it the configuration of an Asvatha leaf, and who commences her menstruation during the period when the moon is on the wane. Such a lady is powerful, and is capable of success in metallurgical operations. She is efficient in preparing mercurial compounds, in the application of mercury to patients, and in the preparation of medicines for the prevention of premature old age and diseases. In case, such a wife is not available, any beautiful lady may serve the purpose, if she is required for three weeks only, to take every morning one tola of purified sulphur, mixed with clarified butter.[1]
-
-Footnotes and references:
-
-[back to top]
 
 [1]:
 
@@ -292,10 +239,7 @@ This concludes ‘A Kalini wife’ included in Bhudeb Mookerjee Rasa Jala Nidhi,
 
 ## 10. Part 3 - Recitation of mantras
 
-
 Rasa Jala Nidhi, vol 1: Initiation, Mercury and Laboratory
-
-by Bhudeb Mookerjee | 1938 | 67,774 words | ISBN-10: 8170305829 | ISBN-13: 9788170305828
 
 This first volume of the Rasa-jala-nidhi includes preliminary information on Alchemy including initiation of a discpiple, laboratory setup, mercurial operations and commonly used technical terms.
 
@@ -313,10 +257,7 @@ This concludes ‘Recitation of mantras’ included in Bhudeb Mookerjee Rasa Jal
 
 ## 11. Part 3 - Drawing of a hexagonal lotus diagram
 
-
 Rasa Jala Nidhi, vol 1: Initiation, Mercury and Laboratory
-
-by Bhudeb Mookerjee | 1938 | 67,774 words | ISBN-10: 8170305829 | ISBN-13: 9788170305828
 
 This first volume of the Rasa-jala-nidhi includes preliminary information on Alchemy including initiation of a discpiple, laboratory setup, mercurial operations and commonly used technical terms.
 
@@ -338,10 +279,7 @@ This concludes ‘Drawing of a hexagonal lotus diagram’ included in Bhudeb Moo
 
 ## 12. Part 4 - Success in operations
 
-
 Rasa Jala Nidhi, vol 1: Initiation, Mercury and Laboratory
-
-by Bhudeb Mookerjee | 1938 | 67,774 words | ISBN-10: 8170305829 | ISBN-13: 9788170305828
 
 This first volume of the Rasa-jala-nidhi includes preliminary information on Alchemy including initiation of a discpiple, laboratory setup, mercurial operations and commonly used technical terms.
 
@@ -363,10 +301,7 @@ This concludes ‘Success in operations’ included in Bhudeb Mookerjee Rasa Jal
 
 ## 13. Chapter III - Parada (Mercury)
 
-
 Rasa Jala Nidhi, vol 1: Initiation, Mercury and Laboratory
-
-by Bhudeb Mookerjee | 1938 | 67,774 words | ISBN-10: 8170305829 | ISBN-13: 9788170305828
 
 This first volume of the Rasa-jala-nidhi includes preliminary information on Alchemy including initiation of a discpiple, laboratory setup, mercurial operations and commonly used technical terms.
 
@@ -384,17 +319,11 @@ This concludes ‘Parada (Mercury)’ included in Bhudeb Mookerjee Rasa Jala Nid
 
 ## 14. Part 1 - Synonyms and Characteristics of Parada (mercury)
 
-
 Rasa Jala Nidhi, vol 1: Initiation, Mercury and Laboratory
-
-by Bhudeb Mookerjee | 1938 | 67,774 words | ISBN-10: 8170305829 | ISBN-13: 9788170305828
 
 This first volume of the Rasa-jala-nidhi includes preliminary information on Alchemy including initiation of a discpiple, laboratory setup, mercurial operations and commonly used technical terms.
 
 The Rasa-jala-nidhi (“the ocean of Iatrochemistry, or, chemical medicine) is a compendium of Sanskrit verses dealing with ancient Indian alchemy and chem...
-
-Go directly to: 
-Footnotes.
 
 Part 1 - Synonyms and Characteristics of Parada (mercury)
 
@@ -409,10 +338,6 @@ Mercury is compared to Brahma, when it is in a state of purification; to Visnu, 
 Eating, touching, giving, meditating upon, and adoring of mercury are the five different ways of worshipping it—all of which tend to destroy great vices. The man who succeeds in subsuming in mercury even the minutest particle of mica, acquires the merits arising from performing one hundred sacrifices. This is what Siva himself said. The man who vilifies mercury, which is the strength of Siva himself, and is the greatest of all great things, rests in hell eternally. The man who gives to patients mercury, duly purified and duly prepared over the fire, attains for ever the merits derived from the performance of Tuladana (a ceremony in which the performer gives away to the poor his own weight in gold) and Asvamedha (a ceremony in which a horse is worshipped and sacrificed). The man who dies with mercury still in his stomach is freed from great sins, and attains emancipation.
 
 There is nothing greater in this world than -emancipation of the soul, which is obtainable by means of wisdom. The great Siva said that there are two ways of attaining wisdom, viz., stopping of respiration (as practised by the Yogis), and extinction of the passions. Neither of these can be attained without a strong and healthy physique. Now, mercury and air are the two things which can sustain the body. Mercury, in a state of swoon removes diseases, and, when dead, sustains the body in a healthy condition. Both air and. mercury, if bound and rendered incapable of movement, render the body light enough to move in the atmosphere[4]. It cannot be otherwise. Enjoyment in this world of wealth and physical comforts is to be considered transient; emancipation of soul is therefore always to be aimed at. But emancipation depends upon knowledge which is the result of concentration of mind, this last depending upon a firm physique. Firmness of the body cannot be properly attained by any elixir made of vegetables and metals (except mercury). Being itself of an unstable nature, combustible, and liable to decomposition and shrinkage, a vegetable drug is subsumed in lead; Lead is similarly subsumed in tin, and so also tin in copper copper in silver, silver in gold, and gold in mercury. As the souls of, Yogis are translated into the being of Siva and thereby attain immortality, so are the metals subsumed in the mercury which has already swallowed some mica. As the extinction of every being always takes place in the universal Soul, so the extinction of every material substance takes place in mercury. Mercury alone is therefore competent to free the body from infirmity and disease.
-
-Footnotes and references:
-
-[back to top]
 
 [1]:
 
@@ -438,10 +363,7 @@ This concludes ‘Synonyms and Characteristics of Parada (mercury)’ included i
 
 ## 15. Part 2 - Different kinds of Mercury
 
-
 Rasa Jala Nidhi, vol 1: Initiation, Mercury and Laboratory
-
-by Bhudeb Mookerjee | 1938 | 67,774 words | ISBN-10: 8170305829 | ISBN-13: 9788170305828
 
 This first volume of the Rasa-jala-nidhi includes preliminary information on Alchemy including initiation of a discpiple, laboratory setup, mercurial operations and commonly used technical terms.
 
@@ -461,10 +383,7 @@ This concludes ‘Different kinds of Mercury’ included in Bhudeb Mookerjee Ras
 
 ## 16. Part 3 - Etymologial significance of the different names of Mercury
 
-
 Rasa Jala Nidhi, vol 1: Initiation, Mercury and Laboratory
-
-by Bhudeb Mookerjee | 1938 | 67,774 words | ISBN-10: 8170305829 | ISBN-13: 9788170305828
 
 This first volume of the Rasa-jala-nidhi includes preliminary information on Alchemy including initiation of a discpiple, laboratory setup, mercurial operations and commonly used technical terms.
 
@@ -482,10 +401,7 @@ This concludes ‘Etymologial significance of the different names of Mercury’ 
 
 ## 17. Preface
 
-
 Rasa Jala Nidhi, vol 1: Initiation, Mercury and Laboratory
-
-by Bhudeb Mookerjee | 1938 | 67,774 words | ISBN-10: 8170305829 | ISBN-13: 9788170305828
 
 This first volume of the Rasa-jala-nidhi includes preliminary information on Alchemy including initiation of a discpiple, laboratory setup, mercurial operations and commonly used technical terms.
 
@@ -535,7 +451,7 @@ Let my readers perform faithfully the operations described in the present volume
 
 It is earnestly hoped that Dr. Sir P. C. Roy will live to bring out a revised edition of his book, which contains so many misinterpretations of important principles of Hindu Chemistry, due, no doubt, to a hasty and superficial study of the subject.
 
-In conclusion, I am to acknowledge the deep debt of gratitude which I owe to the reputed vedic scholar, Prof. Khitish Ch. Chatterji, M.A., Lecturer, Post Graduate classes in Sanskrit, Calcutta University, for the valuable assistance he rendered to me in correcting the proof sheets. I am also very grateful to Mr. M. N. Bose, B.A., (Cantab), Bar-at-Law, Mr. Jatish Chandra Mitra, M.A., Professor of English, Berhampore College, and some other friends, for the sympathy and encouragement which I received from them in the compilation of this encyclopedic work.
+In summary, I am to acknowledge the deep debt of gratitude which I owe to the reputed vedic scholar, Prof. Khitish Ch. Chatterji, M.A., Lecturer, Post Graduate classes in Sanskrit, Calcutta University, for the valuable assistance he rendered to me in correcting the proof sheets. I am also very grateful to Mr. M. N. Bose, B.A., (Cantab), Bar-at-Law, Mr. Jatish Chandra Mitra, M.A., Professor of English, Berhampore College, and some other friends, for the sympathy and encouragement which I received from them in the compilation of this encyclopedic work.
 
 172 BOWBAZAR STREET, CALCUTTA.
 
@@ -551,10 +467,7 @@ This concludes ‘Preface’ included in Bhudeb Mookerjee Rasa Jala Nidhi, vol 1
 
 ## 18. Chapter IV-V - Mercurial operations
 
-
 Rasa Jala Nidhi, vol 1: Initiation, Mercury and Laboratory
-
-by Bhudeb Mookerjee | 1938 | 67,774 words | ISBN-10: 8170305829 | ISBN-13: 9788170305828
 
 This first volume of the Rasa-jala-nidhi includes preliminary information on Alchemy including initiation of a discpiple, laboratory setup, mercurial operations and commonly used technical terms.
 
@@ -572,10 +485,7 @@ This concludes ‘Mercurial operations’ included in Bhudeb Mookerjee Rasa Jala
 
 ## 19. Part 1 - Appearance of blemished and purified Mercury
 
-
 Rasa Jala Nidhi, vol 1: Initiation, Mercury and Laboratory
-
-by Bhudeb Mookerjee | 1938 | 67,774 words | ISBN-10: 8170305829 | ISBN-13: 9788170305828
 
 This first volume of the Rasa-jala-nidhi includes preliminary information on Alchemy including initiation of a discpiple, laboratory setup, mercurial operations and commonly used technical terms.
 
@@ -609,10 +519,7 @@ This concludes ‘Appearance of blemished and purified Mercury’ included in Bh
 
 ## 20. Part 2 - Eighteen different kinds of Mercurial operations
 
-
 Rasa Jala Nidhi, vol 1: Initiation, Mercury and Laboratory
-
-by Bhudeb Mookerjee | 1938 | 67,774 words | ISBN-10: 8170305829 | ISBN-13: 9788170305828
 
 This first volume of the Rasa-jala-nidhi includes preliminary information on Alchemy including initiation of a discpiple, laboratory setup, mercurial operations and commonly used technical terms.
 
@@ -634,17 +541,11 @@ This concludes ‘Eighteen different kinds of Mercurial operations’ included i
 
 ## 21. Part 5 - Mercurial operations (3): Rubbing of Mercury (mardana)
 
-
 Rasa Jala Nidhi, vol 1: Initiation, Mercury and Laboratory
-
-by Bhudeb Mookerjee | 1938 | 67,774 words | ISBN-10: 8170305829 | ISBN-13: 9788170305828
 
 This first volume of the Rasa-jala-nidhi includes preliminary information on Alchemy including initiation of a discpiple, laboratory setup, mercurial operations and commonly used technical terms.
 
 The Rasa-jala-nidhi (“the ocean of Iatrochemistry, or, chemical medicine) is a compendium of Sanskrit verses dealing with ancient Indian alchemy and chem...
-
-Go directly to: 
-Footnotes.
 
 Part 5 - Mercurial operations (3): Rubbing of Mercury (mardana)
 
@@ -668,10 +569,6 @@ Fourth process.
 
 Mercury is to be rubbed constantly for one day or three days with the powder of each of the following, mixed with lime juice: red brick, haridra, dhumasara (soot), and urna (wool) reduced to ashes. The mercury is then to be subjected to upward sublimation for several times, or to be sifted by means of a thick piece of cloth; or to be washed off in kanji.
 
-Footnotes and references:
-
-[back to top]
-
 [1]:
 
 In the absence of a better term we make it to mean???? Modern Chemistry has got nothing corresponding to???? (exhausted mercury),????. (dead mercury) and???? (mercury reduced to ash). Calomel and some other mercurial preparations may perhaps be considered to belong to the class of mur???? (swooned mercury).
@@ -684,10 +581,7 @@ This concludes ‘Mercurial operations (3): Rubbing of Mercury (mardana)’ incl
 
 ## 22. Part 4 - Mercurial operations (2): Boiling of Mercury (svedana)
 
-
 Rasa Jala Nidhi, vol 1: Initiation, Mercury and Laboratory
-
-by Bhudeb Mookerjee | 1938 | 67,774 words | ISBN-10: 8170305829 | ISBN-13: 9788170305828
 
 This first volume of the Rasa-jala-nidhi includes preliminary information on Alchemy including initiation of a discpiple, laboratory setup, mercurial operations and commonly used technical terms.
 
@@ -719,10 +613,7 @@ This concludes ‘Mercurial operations (2): Boiling of Mercury (svedana)’ incl
 
 ## 23. Part 8 - Mercurial operations (6): Confinement of Mercury (rodhana)
 
-
 Rasa Jala Nidhi, vol 1: Initiation, Mercury and Laboratory
-
-by Bhudeb Mookerjee | 1938 | 67,774 words | ISBN-10: 8170305829 | ISBN-13: 9788170305828
 
 This first volume of the Rasa-jala-nidhi includes preliminary information on Alchemy including initiation of a discpiple, laboratory setup, mercurial operations and commonly used technical terms.
 
@@ -762,17 +653,11 @@ This concludes ‘Mercurial operations (6): Confinement of Mercury (rodhana)’ 
 
 ## 24. Part 7 - Mercurial operations (5): Sublimation of Mercury (patana)
 
-
 Rasa Jala Nidhi, vol 1: Initiation, Mercury and Laboratory
-
-by Bhudeb Mookerjee | 1938 | 67,774 words | ISBN-10: 8170305829 | ISBN-13: 9788170305828
 
 This first volume of the Rasa-jala-nidhi includes preliminary information on Alchemy including initiation of a discpiple, laboratory setup, mercurial operations and commonly used technical terms.
 
 The Rasa-jala-nidhi (“the ocean of Iatrochemistry, or, chemical medicine) is a compendium of Sanskrit verses dealing with ancient Indian alchemy and chem...
-
-Go directly to: 
-Footnotes.
 
 Part 7 - Mercurial operations (5): Sublimation of Mercury (patana)
 
@@ -830,10 +715,6 @@ Now, mercury and copper are to be carefully separated from each other, and again
 
 Mica, purified and finely powdered, is to be rubbed with mercuy and kanji in a motar, and made into a lump which is to be placed in a Tirjak Patana Yantra. Heat is to be increased gradually till the whole of the mercury is sublimated (patana) through the inclined passage.
 
-Footnotes and references:
-
-[back to top]
-
 [1]:
 
 For details see chapter on apparata.
@@ -850,10 +731,7 @@ This concludes ‘Mercurial operations (5): Sublimation of Mercury (patana)’ i
 
 ## 25. Part 6 - Mercurial operations (4): Raising of Mercury (utthapana)
 
-
 Rasa Jala Nidhi, vol 1: Initiation, Mercury and Laboratory
-
-by Bhudeb Mookerjee | 1938 | 67,774 words | ISBN-10: 8170305829 | ISBN-13: 9788170305828
 
 This first volume of the Rasa-jala-nidhi includes preliminary information on Alchemy including initiation of a discpiple, laboratory setup, mercurial operations and commonly used technical terms.
 
@@ -877,17 +755,11 @@ This concludes ‘Mercurial operations (4): Raising of Mercury (utthapana)’ in
 
 ## 26. Part 3 - Mercurial operations (1): Purification of Mercury (shodhana)
 
-
 Rasa Jala Nidhi, vol 1: Initiation, Mercury and Laboratory
-
-by Bhudeb Mookerjee | 1938 | 67,774 words | ISBN-10: 8170305829 | ISBN-13: 9788170305828
 
 This first volume of the Rasa-jala-nidhi includes preliminary information on Alchemy including initiation of a discpiple, laboratory setup, mercurial operations and commonly used technical terms.
 
 The Rasa-jala-nidhi (“the ocean of Iatrochemistry, or, chemical medicine) is a compendium of Sanskrit verses dealing with ancient Indian alchemy and chem...
-
-Go directly to: 
-Footnotes.
 
 Part 3 - Mercurial operations (1): Purification of Mercury (shodhana)
 
@@ -955,10 +827,6 @@ Or (c) Hingula is to be rubbed with the juice of leaves of paribhadra (meaning t
 
 Place an earthen vessel (about two feet in height) upside down on four props made of pieces of stone or brick (with sufficient space kept open for the entrance of air into the vessel). Within the space enclosed by the three props, place an earthen basin (in such a way as not to obstruct the entrance of air into the vessel). Spread the dried and powdered Hingula over a piece of cloth and wrap it in several folds. The cloth, thus folded and made into a bundle, is then to be put into the earthen basin. The bundle is now to be covered with mild tikia fire. When the fire will be extinguished and the apparatus cooled, mercury Will be found to be deposited inside the vessel.
 
-Footnotes and references:
-
-[back to top]
-
 [1]:
 
 One palam is equal to 4 rupees in weight, For measures of metallurgical weight, see page 310.
@@ -991,10 +859,7 @@ This concludes ‘Mercurial operations (1): Purification of Mercury (shodhana)�
 
 ## 27. Part 10 - Mercurial operations (8): Stimulation of Mercury (dipana)
 
-
 Rasa Jala Nidhi, vol 1: Initiation, Mercury and Laboratory
-
-by Bhudeb Mookerjee | 1938 | 67,774 words | ISBN-10: 8170305829 | ISBN-13: 9788170305828
 
 This first volume of the Rasa-jala-nidhi includes preliminary information on Alchemy including initiation of a discpiple, laboratory setup, mercurial operations and commonly used technical terms.
 
@@ -1020,10 +885,7 @@ This concludes ‘Mercurial operations (8): Stimulation of Mercury (dipana)’ i
 
 ## 28. Part 11 - Mercurial operations (9): Rehabilitation of Mercury (anubasana)
 
-
 Rasa Jala Nidhi, vol 1: Initiation, Mercury and Laboratory
-
-by Bhudeb Mookerjee | 1938 | 67,774 words | ISBN-10: 8170305829 | ISBN-13: 9788170305828
 
 This first volume of the Rasa-jala-nidhi includes preliminary information on Alchemy including initiation of a discpiple, laboratory setup, mercurial operations and commonly used technical terms.
 
@@ -1059,10 +921,7 @@ This concludes ‘Mercurial operations (9): Rehabilitation of Mercury (anubasana
 
 ## 29. Part 9 - Mercurial operations (7): Restraint of Mercury (niyamana)
 
-
 Rasa Jala Nidhi, vol 1: Initiation, Mercury and Laboratory
-
-by Bhudeb Mookerjee | 1938 | 67,774 words | ISBN-10: 8170305829 | ISBN-13: 9788170305828
 
 This first volume of the Rasa-jala-nidhi includes preliminary information on Alchemy including initiation of a discpiple, laboratory setup, mercurial operations and commonly used technical terms.
 
@@ -1098,17 +957,11 @@ This concludes ‘Mercurial operations (7): Restraint of Mercury (niyamana)’ i
 
 ## 30. Part 13 - Mercurial operations (11): Swooning of mercury (murchhana)
 
-
 Rasa Jala Nidhi, vol 1: Initiation, Mercury and Laboratory
-
-by Bhudeb Mookerjee | 1938 | 67,774 words | ISBN-10: 8170305829 | ISBN-13: 9788170305828
 
 This first volume of the Rasa-jala-nidhi includes preliminary information on Alchemy including initiation of a discpiple, laboratory setup, mercurial operations and commonly used technical terms.
 
 The Rasa-jala-nidhi (“the ocean of Iatrochemistry, or, chemical medicine) is a compendium of Sanskrit verses dealing with ancient Indian alchemy and chem...
-
-Go directly to: 
-Footnotes.
 
 Part 13 - Mercurial operations (11): Swooning of mercury (murchhana)
 
@@ -1262,10 +1115,6 @@ Anather process.
 
 A strong and unburnt crucible, sixteen angulis in length, and having a breadth equal to the diameter of an ordinary lime fruit, is to be kept inside a Baluka Yantra. Three parts of this crucible is to be kept under sand, the rest, viz. one fourth, being kept above that. One pala of powdered and purified sulphur is to be poured into the crucible; and an equal quantity of pure mercury is next to be poured into the same. This is to be followed by the pouring again into the crucible of one pala of sulphur, as before. The crucible is then to be closed very carefully, and the Baluka-yantra put upon a mild fire and heated, until smoke ceases to come out. The crucible is then to be filled with the juice of kakamachi, and heated by means of a mild heat. The evaporation of the juice is to be followed by the pouring in of the juice of pan leaves. When that, too, will be evaporated, juice of dhutura is to be poured in the same manner and heated. These juices are to be poured into the crucible in their turns, until the mercury is completely consumed. The mercury is then to be procured by breaking the crucible open. This mercury is what is called entangled with sulphur. This serves to heighten the property of a drug with which it is mixed, and is the carer of diseases and decay due to the premature arrival of old age.
 
-Footnotes and references:
-
-[back to top]
-
 [1]:
 
 The general rule is not to use any metal for medicinal purposes without purifying and reducing it to ashes, Mercury, may, however, be made use of, after it passes through all the stages up to “swoon”. Sulphur may be used after purification.
@@ -1290,10 +1139,7 @@ This concludes ‘Mercurial operations (11): Swooning of mercury (murchhana)’ 
 
 ## 31. Part 14 - Mercurial operations (12): Movement of mercury (sancharana)
 
-
 Rasa Jala Nidhi, vol 1: Initiation, Mercury and Laboratory
-
-by Bhudeb Mookerjee | 1938 | 67,774 words | ISBN-10: 8170305829 | ISBN-13: 9788170305828
 
 This first volume of the Rasa-jala-nidhi includes preliminary information on Alchemy including initiation of a discpiple, laboratory setup, mercurial operations and commonly used technical terms.
 
@@ -1311,17 +1157,11 @@ This concludes ‘Mercurial operations (12): Movement of mercury (sancharana)’
 
 ## 32. Part 15 - Mercurial operations (13): Internal liquefaction of mercury (garbhadruti)
 
-
 Rasa Jala Nidhi, vol 1: Initiation, Mercury and Laboratory
-
-by Bhudeb Mookerjee | 1938 | 67,774 words | ISBN-10: 8170305829 | ISBN-13: 9788170305828
 
 This first volume of the Rasa-jala-nidhi includes preliminary information on Alchemy including initiation of a discpiple, laboratory setup, mercurial operations and commonly used technical terms.
 
 The Rasa-jala-nidhi (“the ocean of Iatrochemistry, or, chemical medicine) is a compendium of Sanskrit verses dealing with ancient Indian alchemy and chem...
-
-Go directly to: 
-Footnotes.
 
 Part 15 - Mercurial operations (13): Internal liquefaction of mercury (garbhadruti)
 
@@ -1339,10 +1179,6 @@ Gold, silver, ete. are to be mixed with the essence of svarnamakshika, and rubbe
 
 Now, we are going to describe the process by which mercury, which has already been made to swallow a sufficient quantity of gold, mica etc., is to be exhausted and; then killed and reduced to ashes. The man who kills mercury without exhausting it and making it swallow a sufficient quantity of gold, mica etc. is a great sinner, and is to be taken for an enemy of the great God. Hence, mercury is to be exhausted very carefully before it is killed.
 
-Footnotes and references:
-
-[back to top]
-
 [1]:
 
 See later, under Alchemy.
@@ -1355,17 +1191,11 @@ This concludes ‘Mercurial operations (13): Internal liquefaction of mercury (g
 
 ## 33. Part 16 - Mercurial operations (14): Exhaustion of mercury (yarana)
 
-
 Rasa Jala Nidhi, vol 1: Initiation, Mercury and Laboratory
-
-by Bhudeb Mookerjee | 1938 | 67,774 words | ISBN-10: 8170305829 | ISBN-13: 9788170305828
 
 This first volume of the Rasa-jala-nidhi includes preliminary information on Alchemy including initiation of a discpiple, laboratory setup, mercurial operations and commonly used technical terms.
 
 The Rasa-jala-nidhi (“the ocean of Iatrochemistry, or, chemical medicine) is a compendium of Sanskrit verses dealing with ancient Indian alchemy and chem...
-
-Go directly to: 
-Footnotes.
 
 Part 16 - Mercurial operations (14): Exhaustion of mercury (yarana)
 
@@ -1405,10 +1235,6 @@ Another version.
 
 Mercury is first of all to swallow the following five morsels of essence of mica:—1/64, 1/40, 1/30, 1/20, and 1/16 of the mercury, which is then to swallow one fourth its weight of gold or silver, as the case may be.[3]
 
-Footnotes and references:
-
-[back to top]
-
 [1]:
 
 In the event of mercury having previously swallowed sulphur, mica, gold etc. this process need not be gone into.
@@ -1429,17 +1255,11 @@ This concludes ‘Mercurial operations (14): Exhaustion of mercury (yarana)’ i
 
 ## 34. Part 17 - Mercurial operations (15): Killing of mercury (marana)
 
-
 Rasa Jala Nidhi, vol 1: Initiation, Mercury and Laboratory
-
-by Bhudeb Mookerjee | 1938 | 67,774 words | ISBN-10: 8170305829 | ISBN-13: 9788170305828
 
 This first volume of the Rasa-jala-nidhi includes preliminary information on Alchemy including initiation of a discpiple, laboratory setup, mercurial operations and commonly used technical terms.
 
 The Rasa-jala-nidhi (“the ocean of Iatrochemistry, or, chemical medicine) is a compendium of Sanskrit verses dealing with ancient Indian alchemy and chem...
-
-Go directly to: 
-Footnotes.
 
 Part 17 - Mercurial operations (15): Killing of mercury (marana)
 
@@ -1539,10 +1359,6 @@ Characteristics of dead mercury.
 
 Dead mercury is white, light, stable, devoid of glare, and is capable of killing metals. When put on fire, it does not expand and sublimate.
 
-Footnotes and references:
-
-[back to top]
-
 [1]:
 
 Sulphur, purified and powdered, is to be strewn over a piece of cloth, which is to be soaked with mustard oil, and made into a wicker. If lighted, and held erect on a glass pot, the wicker will let oil fall, drop by drop, and collect itself in the pot. This oil is called sulphur oil.
@@ -1555,17 +1371,11 @@ This concludes ‘Mercurial operations (15): Killing of mercury (marana)’ incl
 
 ## 35. Part 12 - Mercurial operations (10): Swallowing of metals of Mercury (grasana)
 
-
 Rasa Jala Nidhi, vol 1: Initiation, Mercury and Laboratory
-
-by Bhudeb Mookerjee | 1938 | 67,774 words | ISBN-10: 8170305829 | ISBN-13: 9788170305828
 
 This first volume of the Rasa-jala-nidhi includes preliminary information on Alchemy including initiation of a discpiple, laboratory setup, mercurial operations and commonly used technical terms.
 
 The Rasa-jala-nidhi (“the ocean of Iatrochemistry, or, chemical medicine) is a compendium of Sanskrit verses dealing with ancient Indian alchemy and chem...
-
-Go directly to: 
-Footnotes.
 
 Part 12 - Mercurial operations (10): Swallowing of metals of Mercury (grasana)
 
@@ -1713,10 +1523,6 @@ Those chemists who score partial success in mercurial operations, by making merc
 
 Mica is first of all to be swallowed by mercury and then is gold to be similarly swallowed (grasana); and last of all, is to be effected what is called garbhadruti or internal liquefaction of mercury. The chemist who does not know this makes a waste of his money.
 
-Footnotes and references:
-
-[back to top]
-
 [1]:
 
 For the best process of consuming of sulphur by mercury, see Jarana-yantra under apparata.
@@ -1737,17 +1543,11 @@ This concludes ‘Mercurial operations (10): Swallowing of metals of Mercury (gr
 
 ## 36. Part 18 - Mercurial operations (16): Incineration of mercury (bhasmikarana)
 
-
 Rasa Jala Nidhi, vol 1: Initiation, Mercury and Laboratory
-
-by Bhudeb Mookerjee | 1938 | 67,774 words | ISBN-10: 8170305829 | ISBN-13: 9788170305828
 
 This first volume of the Rasa-jala-nidhi includes preliminary information on Alchemy including initiation of a discpiple, laboratory setup, mercurial operations and commonly used technical terms.
 
 The Rasa-jala-nidhi (“the ocean of Iatrochemistry, or, chemical medicine) is a compendium of Sanskrit verses dealing with ancient Indian alchemy and chem...
-
-Go directly to: 
-Footnotes.
 
 Part 18 - Mercurial operations (16): Incineration of mercury (bhasmikarana)
 
@@ -2029,10 +1829,6 @@ The following are the killers of mercury:—They are to be used by the adept in 
 
 Gandhanakuli, kshirini, bandhyakarkati, brahmi, sharapunkha, kakajangha, maurashikha, (nilakantha, or moragphul), brahmadandi, akhuparni, punarnaba, kanchuki (khirisha), murba (suchamukhi), saindhava salt, utpala, chinchika, shatabari, astisanghara, bajrakanda, gokshura, mandukaparni, patali, chitraka, grishmasundara, kakamachi, jalapippali, haridra, tilaparnika, svetarka, shigru, dhuttura, mrigadurba, haritaki, guduchi, mushali, sarapunkha, bhringaraja, raktachitraka, tagara, shurana, mundiri, kasta-udumbara, karanja, kokilaksha, saindhava, svetapunarnaba, sambara salt, hingu, madhu, aparajita, somalata, langali, bata, byaghrapadi (bikankata), godhapadi, brishchikali, jhinti, mashaparni-krishnajira, hastishundi, indrabaruni, and seeds of arka. All of them, or at least 18 of them, are to be used, jointly or separately, in the transformation, incineration (bhasmikarana), and entanglement of mercury.
 
-Footnotes and references:
-
-[back to top]
-
 [1]:
 
 another reading—bhekaparni.
@@ -2061,10 +1857,7 @@ This concludes ‘Mercurial operations (16): Incineration of mercury (bhasmikara
 
 ## 37. Part 19 - Mercurial operations (17): Dyeing of mercury (ranjana)
 
-
 Rasa Jala Nidhi, vol 1: Initiation, Mercury and Laboratory
-
-by Bhudeb Mookerjee | 1938 | 67,774 words | ISBN-10: 8170305829 | ISBN-13: 9788170305828
 
 This first volume of the Rasa-jala-nidhi includes preliminary information on Alchemy including initiation of a discpiple, laboratory setup, mercurial operations and commonly used technical terms.
 
@@ -2148,17 +1941,11 @@ This concludes ‘Mercurial operations (17): Dyeing of mercury (ranjana)’ incl
 
 ## 38. Part 20 - Mercurial operations (18): Transformation of base metals into gold by mercury (bedhana)
 
-
 Rasa Jala Nidhi, vol 1: Initiation, Mercury and Laboratory
-
-by Bhudeb Mookerjee | 1938 | 67,774 words | ISBN-10: 8170305829 | ISBN-13: 9788170305828
 
 This first volume of the Rasa-jala-nidhi includes preliminary information on Alchemy including initiation of a discpiple, laboratory setup, mercurial operations and commonly used technical terms.
 
 The Rasa-jala-nidhi (“the ocean of Iatrochemistry, or, chemical medicine) is a compendium of Sanskrit verses dealing with ancient Indian alchemy and chem...
-
-Go directly to: 
-Footnotes.
 
 Part 20 - Mercurial operations (18): Transformation of base metals into gold by mercury (bedhana)
 
@@ -2220,10 +2007,6 @@ Transformation of metals are of various kinds, viz, (1) lepa, (2) kshepa, (3) ku
 
 6) Sparsha-bedha— is an act of transformation of base metals into gold by the mere touch of a mercury, already exhausted with at least sixteen times its weight of bija (metals, gems, etc.), and brought to a state of consolidation. This mercury is popularly known to be the Sparsha-mani (Philosopher's stone).
 
-Footnotes and references:
-
-[back to top]
-
 [1]:
 
 This refers to what was popularly called the Sparshamani or Philosopher’s stone.
@@ -2244,17 +2027,11 @@ This concludes ‘Mercurial operations (18): Transformation of base metals into 
 
 ## 39. Part 1 - Alchemical apparatus (yantra)
 
-
 Rasa Jala Nidhi, vol 1: Initiation, Mercury and Laboratory
-
-by Bhudeb Mookerjee | 1938 | 67,774 words | ISBN-10: 8170305829 | ISBN-13: 9788170305828
 
 This first volume of the Rasa-jala-nidhi includes preliminary information on Alchemy including initiation of a discpiple, laboratory setup, mercurial operations and commonly used technical terms.
 
 The Rasa-jala-nidhi (“the ocean of Iatrochemistry, or, chemical medicine) is a compendium of Sanskrit verses dealing with ancient Indian alchemy and chem...
-
-Go directly to: 
-Footnotes.
 
 Part 1 - Alchemical apparatus (yantra)
 
@@ -2468,10 +2245,6 @@ Baruni-yantra.
 
 This differs from a Nadika-yantra in this that it has got a water pot placed at the top of the vessel containing the drugs; it has no water trough through which the tube is to pass in a Nadika-yantra; it requires a straight and not a bent tube, and that it requires the pot meant to contain the extract to be surrounded on all sides with water.
 
-Footnotes and references:
-
-[back to top]
-
 [1]:
 
 Powder of overburnt brick, according to another version.
@@ -2488,17 +2261,11 @@ This concludes ‘Alchemical apparatus (yantra)’ included in Bhudeb Mookerjee 
 
 ## 40. Part 2 - Alchemical crucibles (musa)
 
-
 Rasa Jala Nidhi, vol 1: Initiation, Mercury and Laboratory
-
-by Bhudeb Mookerjee | 1938 | 67,774 words | ISBN-10: 8170305829 | ISBN-13: 9788170305828
 
 This first volume of the Rasa-jala-nidhi includes preliminary information on Alchemy including initiation of a discpiple, laboratory setup, mercurial operations and commonly used technical terms.
 
 The Rasa-jala-nidhi (“the ocean of Iatrochemistry, or, chemical medicine) is a compendium of Sanskrit verses dealing with ancient Indian alchemy and chem...
-
-Go directly to: 
-Footnotes.
 
 Part 2 - Alchemical crucibles (musa)
 
@@ -2568,10 +2335,6 @@ Musala-musha.
 
 It is flat at the bottom, cylindrical, and eight angulis in height. It is suitable for the purpose of heating a paste of mercury.
 
-Footnotes and references:
-
-[back to top]
-
 [1]:
 
 According to another version eight parts of burnt husk is to be used, instead of jute fiber and burnt husk.
@@ -2584,10 +2347,7 @@ This concludes ‘Alchemical crucibles (musa)’ included in Bhudeb Mookerjee Ra
 
 ## 41. Part 3 - Burning pits (puta or samputa)
 
-
 Rasa Jala Nidhi, vol 1: Initiation, Mercury and Laboratory
-
-by Bhudeb Mookerjee | 1938 | 67,774 words | ISBN-10: 8170305829 | ISBN-13: 9788170305828
 
 This first volume of the Rasa-jala-nidhi includes preliminary information on Alchemy including initiation of a discpiple, laboratory setup, mercurial operations and commonly used technical terms.
 
@@ -2641,10 +2401,7 @@ This concludes ‘Burning pits (puta or samputa)’ included in Bhudeb Mookerjee
 
 ## 42. Chapter VI - Laboratory equipment
 
-
 Rasa Jala Nidhi, vol 1: Initiation, Mercury and Laboratory
-
-by Bhudeb Mookerjee | 1938 | 67,774 words | ISBN-10: 8170305829 | ISBN-13: 9788170305828
 
 This first volume of the Rasa-jala-nidhi includes preliminary information on Alchemy including initiation of a discpiple, laboratory setup, mercurial operations and commonly used technical terms.
 
@@ -2662,10 +2419,7 @@ This concludes ‘Laboratory equipment’ included in Bhudeb Mookerjee Rasa Jala
 
 ## 43. Chapter VII - Enumeration of technical terms
 
-
 Rasa Jala Nidhi, vol 1: Initiation, Mercury and Laboratory
-
-by Bhudeb Mookerjee | 1938 | 67,774 words | ISBN-10: 8170305829 | ISBN-13: 9788170305828
 
 This first volume of the Rasa-jala-nidhi includes preliminary information on Alchemy including initiation of a discpiple, laboratory setup, mercurial operations and commonly used technical terms.
 
@@ -2683,17 +2437,11 @@ This concludes ‘Enumeration of technical terms’ included in Bhudeb Mookerjee
 
 ## 44. Part 1 - Definitions of technical terms
 
-
 Rasa Jala Nidhi, vol 1: Initiation, Mercury and Laboratory
-
-by Bhudeb Mookerjee | 1938 | 67,774 words | ISBN-10: 8170305829 | ISBN-13: 9788170305828
 
 This first volume of the Rasa-jala-nidhi includes preliminary information on Alchemy including initiation of a discpiple, laboratory setup, mercurial operations and commonly used technical terms.
 
 The Rasa-jala-nidhi (“the ocean of Iatrochemistry, or, chemical medicine) is a compendium of Sanskrit verses dealing with ancient Indian alchemy and chem...
-
-Go directly to: 
-Footnotes.
 
 Part 1 - Definitions of technical terms
 
@@ -2771,10 +2519,6 @@ Copper, combined with an equal quantity of tikshna (steel), is to be smelted and
 
 Tara-rakti, which improves the colour of silver and tara-bija (silver seed), is prepared similarly.
 
-Footnotes and references:
-
-[back to top]
-
 [1]:
 
 For some other kinds of poisons and semi-poisons, see page 91.
@@ -2787,10 +2531,7 @@ This concludes ‘Definitions of technical terms’ included in Bhudeb Mookerjee
 
 ## 45. Chapter VIII - Conclusion of first volume
 
-
 Rasa Jala Nidhi, vol 1: Initiation, Mercury and Laboratory
-
-by Bhudeb Mookerjee | 1938 | 67,774 words | ISBN-10: 8170305829 | ISBN-13: 9788170305828
 
 This first volume of the Rasa-jala-nidhi includes preliminary information on Alchemy including initiation of a discpiple, laboratory setup, mercurial operations and commonly used technical terms.
 
@@ -2808,17 +2549,11 @@ This concludes ‘Conclusion of first volume’ included in Bhudeb Mookerjee Ras
 
 ## 46. Part 1 - Additional process for transformation of base metals into gold and silver
 
-
 Rasa Jala Nidhi, vol 1: Initiation, Mercury and Laboratory
-
-by Bhudeb Mookerjee | 1938 | 67,774 words | ISBN-10: 8170305829 | ISBN-13: 9788170305828
 
 This first volume of the Rasa-jala-nidhi includes preliminary information on Alchemy including initiation of a discpiple, laboratory setup, mercurial operations and commonly used technical terms.
 
 The Rasa-jala-nidhi (“the ocean of Iatrochemistry, or, chemical medicine) is a compendium of Sanskrit verses dealing with ancient Indian alchemy and chem...
-
-Go directly to: 
-Footnotes.
 
 Part 1 - Additional process for transformation of base metals into gold and silver
 
@@ -2916,10 +2651,6 @@ Bleaching of copper.
 
 A fine copper leaf is to be coated all over with a solution of apamarga burnt into ashes, and then heated. The process is to be performed for seven times with the result that the copper leaf will turn very soft, pure white, and spotless. Such copper is to be used for the purpose of transformation into gold or silver.
 
-Footnotes and references:
-
-[back to top]
-
 [1]:
 
 According to another version, seventy two parts of the powder, one part of mercury, two parts of a compound made of sixteen parts of silver and twelve parts of copper.
@@ -2936,10 +2667,7 @@ This concludes ‘Additional process for transformation of base metals into gold
 
 ## 47. Part 2 - Measures of weight
 
-
 Rasa Jala Nidhi, vol 1: Initiation, Mercury and Laboratory
-
-by Bhudeb Mookerjee | 1938 | 67,774 words | ISBN-10: 8170305829 | ISBN-13: 9788170305828
 
 This first volume of the Rasa-jala-nidhi includes preliminary information on Alchemy including initiation of a discpiple, laboratory setup, mercurial operations and commonly used technical terms.
 
@@ -2957,10 +2685,7 @@ This concludes ‘Measures of weight’ included in Bhudeb Mookerjee Rasa Jala N
 
 ## 48. Chapter I - Requisites for metallurgical operations
 
-
 Rasa Jala Nidhi, vol 1: Initiation, Mercury and Laboratory
-
-by Bhudeb Mookerjee | 1938 | 67,774 words | ISBN-10: 8170305829 | ISBN-13: 9788170305828
 
 This first volume of the Rasa-jala-nidhi includes preliminary information on Alchemy including initiation of a discpiple, laboratory setup, mercurial operations and commonly used technical terms.
 

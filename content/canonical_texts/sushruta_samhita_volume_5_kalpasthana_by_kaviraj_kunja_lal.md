@@ -9,19 +9,11 @@ date: "2026-08-17"
 description: "Samhita is the most representative work of the Hindu system of medicine."
 ---
 
-**Author / Source:** by Kaviraj Kunja Lal Bhishagratna
-
-
-**Total Chapters/Sections:** 11
-
 ---
 
 ## 1. Introduction
 
-
 Sushruta Samhita, Volume 5: Kalpasthana
-
-by Kaviraj Kunja Lal Bhishagratna | 1911 | 24,963 words
 
 This current book, the Kalpa-sthana (english translation), deals with the nature of poisons, the management of poisons, toxicology and various other subjects.
 
@@ -35,10 +27,7 @@ Please refer to the introduction attached to the first part of the second volume
 
 ## 2. Preface
 
-
 Sushruta Samhita, Volume 5: Kalpasthana
-
-by Kaviraj Kunja Lal Bhishagratna | 1911 | 24,963 words
 
 This current book, the Kalpa-sthana (english translation), deals with the nature of poisons, the management of poisons, toxicology and various other subjects.
 
@@ -52,17 +41,11 @@ For the preface of this edition, see the Nidanasthana.
 
 ## 3. Chapter II - Description of Sthavara (vegetable and mineral) poisons
 
-
 Sushruta Samhita, Volume 5: Kalpasthana
-
-by Kaviraj Kunja Lal Bhishagratna | 1911 | 24,963 words
 
 This current book, the Kalpa-sthana (english translation), deals with the nature of poisons, the management of poisons, toxicology and various other subjects.
 
 The Sushruta Samhita is the most representative work of the Hindu system of medicine. It embraces all that can possibly appertain to the science of medicine. Susruta-samhita is recognized as...
-
-Go directly to: 
-Footnotes.
 
 Chapter II - Description of Sthavara (vegetable and mineral) poisons
 
@@ -146,10 +129,6 @@ A case of Dushi-Visha poisoning in a prudent and judicious person, and of recent
 
 Thus ends the sceond Chapter of the Kalpa Sthana in the Sushruta Samhita which treats of the Sthavara and jangama poisons.
 
-Footnotes and references:
-
-[back to top]
-
 [1]:
 
 Lambā, according to Gayi—D. R.
@@ -190,10 +169,7 @@ The particular form of shaving the hair, in which the part of the scalp from and
 
 ## 4. Title Page
 
-
 Sushruta Samhita, Volume 5: Kalpasthana
-
-by Kaviraj Kunja Lal Bhishagratna | 1911 | 24,963 words
 
 This current book, the Kalpa-sthana (english translation), deals with the nature of poisons, the management of poisons, toxicology and various other subjects.
 
@@ -234,17 +210,11 @@ No. 10, KASHI GHOSE’S LANE.
 
 ## 5. Chapter I - Preserving food and drink from poison
 
-
 Sushruta Samhita, Volume 5: Kalpasthana
-
-by Kaviraj Kunja Lal Bhishagratna | 1911 | 24,963 words
 
 This current book, the Kalpa-sthana (english translation), deals with the nature of poisons, the management of poisons, toxicology and various other subjects.
 
 The Sushruta Samhita is the most representative work of the Hindu system of medicine. It embraces all that can possibly appertain to the science of medicine. Susruta-samhita is recognized as...
-
-Go directly to: 
-Footnotes.
 
 Chapter I - Preserving food and drink from poison
 
@@ -320,10 +290,6 @@ and clarified butter should, similarly, be deemed beneficial (as being possessed
 
 Thus ends the first Chapter of the Kalpa-sthana in the Sushruta Samhita which deals with the mode of protecting food and drink (from the effect of poison).
 
-Footnotes and references:
-
-[back to top]
-
 [1]:
 
 A girl slowly habituated to taking poison or poisoned food is called a Visha-Kanyā, such a girl presented to a king by a pretending friend of the state often managed to hug her royal victim into her fatal embrace. The poison operates through the perspiration, proving almost instantaneously fatal through the act of dalliance.
@@ -360,17 +326,11 @@ See Kalpa-Sthāna, Chapter II. Para 27, and Chapter VII. para 5, respectively.
 
 ## 6. Chapter III - Description of Jangama (animal) poisons
 
-
 Sushruta Samhita, Volume 5: Kalpasthana
-
-by Kaviraj Kunja Lal Bhishagratna | 1911 | 24,963 words
 
 This current book, the Kalpa-sthana (english translation), deals with the nature of poisons, the management of poisons, toxicology and various other subjects.
 
 The Sushruta Samhita is the most representative work of the Hindu system of medicine. It embraces all that can possibly appertain to the science of medicine. Susruta-samhita is recognized as...
-
-Go directly to: 
-Footnotes.
 
 Chapter III - Description of Jangama (animal) poisons
 
@@ -438,10 +398,6 @@ A case of snake-bite marked by the symptoms of an insane state like that of a dr
 
 Thus ends the third Chapter of the Kalpa-Sthana in the Sushruta Samhita which treats of animal poisons.
 
-Footnotes and references:
-
-[back to top]
-
 [1]:
 
 Vriddha-Vāgbhata reads Alaji-Śonite in place of “Visardhita.”
@@ -486,17 +442,11 @@ The text has “Avegi”. Kārtika explains it to mean “with suppression of th
 
 ## 7. Chapter IV - Description of the poison of a snakebite
 
-
 Sushruta Samhita, Volume 5: Kalpasthana
-
-by Kaviraj Kunja Lal Bhishagratna | 1911 | 24,963 words
 
 This current book, the Kalpa-sthana (english translation), deals with the nature of poisons, the management of poisons, toxicology and various other subjects.
 
 The Sushruta Samhita is the most representative work of the Hindu system of medicine. It embraces all that can possibly appertain to the science of medicine. Susruta-samhita is recognized as...
-
-Go directly to: 
-Footnotes.
 
 Chapter IV - Description of the poison of a snakebite
 
@@ -614,10 +564,6 @@ A bird, bitten by a snake,looks stead-fast and becomes unconscious in the first 
 
 Thus ends the fourth Chapter of the Kalpa Sthana in the Sushruta Samhita which treats of the specific features of the poison of a snakebite.
 
-Footnotes and references:
-
-[back to top]
-
 [1]:
 
 In the Hindu mythology the earth is supposed to rest on the heads of snakes, the inmates of the infernal region.
@@ -630,17 +576,11 @@ It should be noted here that coming in contact with thorns and nails, etc., if u
 
 ## 8. Chapter VI - Description of rat-poisoning
 
-
 Sushruta Samhita, Volume 5: Kalpasthana
-
-by Kaviraj Kunja Lal Bhishagratna | 1911 | 24,963 words
 
 This current book, the Kalpa-sthana (english translation), deals with the nature of poisons, the management of poisons, toxicology and various other subjects.
 
 The Sushruta Samhita is the most representative work of the Hindu system of medicine. It embraces all that can possibly appertain to the science of medicine. Susruta-samhita is recognized as...
-
-Go directly to: 
-Footnotes.
 
 Chapter VI - Description of rat-poisoning
 
@@ -708,10 +648,6 @@ The poison of a (rabid) dog, etc., lies in the teeth and tends to aggravate the 
 
 Thus ends the sixth Chapter of the Kalpa-sthana in the Sushruta Samhita which deals with the symptoms and treatments of rat-poison.
 
-Footnotes and references:
-
-[back to top]
-
 [1]:
 
 Different reading.—A bite by a Mushika of the Chucchundara class produces thirst, vomiting, fever, weakness, numbness of the muscles of the neck, swelling, abscess on the back, loss of the sense of smell and Visucikā. A compound of Cavya, Haritaki, Śunthi, Vidanga, Pippali, Śvetaka-seeds and the ashes of (the plants of) Vrihati pounded together and mixed with honey should be prescribed in this case,—Gayadāsa.
@@ -744,17 +680,11 @@ Dallana says that in place of “kṣireṇoṣṇena” Gayadāsa reads “gavy
 
 ## 9. Chapter V - The medical treatment of snake bites
 
-
 Sushruta Samhita, Volume 5: Kalpasthana
-
-by Kaviraj Kunja Lal Bhishagratna | 1911 | 24,963 words
 
 This current book, the Kalpa-sthana (english translation), deals with the nature of poisons, the management of poisons, toxicology and various other subjects.
 
 The Sushruta Samhita is the most representative work of the Hindu system of medicine. It embraces all that can possibly appertain to the science of medicine. Susruta-samhita is recognized as...
-
-Go directly to: 
-Footnotes.
 
 Chapter V - The medical treatment of snake bites
 
@@ -872,10 +802,6 @@ The following drugs viz., Somaraji seeds and Somaraji flowers,[4] Katabhi, Sindh
 
 Thus ends the fifth Chapter of the Kalpa-Sathana in the Sushruta Samhita which deals with the medical treatment of snake-bites.
 
-Footnotes and references:
-
-[back to top]
-
 [1]:
 
 Dallana recommends burnt earth or the earth of an ant-hill or ash for the purpose of filling up the mouth before sucking the poisoned blood.
@@ -900,17 +826,11 @@ Some explain “ekaśo histriśo vāpi” to mean that the Agada should be used 
 
 ## 10. Chapter VIII - The medical treatment of insect bites
 
-
 Sushruta Samhita, Volume 5: Kalpasthana
-
-by Kaviraj Kunja Lal Bhishagratna | 1911 | 24,963 words
 
 This current book, the Kalpa-sthana (english translation), deals with the nature of poisons, the management of poisons, toxicology and various other subjects.
 
 The Sushruta Samhita is the most representative work of the Hindu system of medicine. It embraces all that can possibly appertain to the science of medicine. Susruta-samhita is recognized as...
-
-Go directly to: 
-Footnotes.
 
 Chapter VIII - The medical treatment of insect bites
 
@@ -1080,10 +1000,6 @@ Thus ends the eighth Chapter of the Kalpasthana in the Sushruta Samhita which tr
 
 Here ends the Kalpa Sthana.
 
-Footnotes and references:
-
-[back to top]
-
 [1]:
 
 Dallana says that the four groups are to be determined according to the origin of the insects from the semen, etc. of a Darvi-kara, Mandali, Rājila, or a Vaikaranja serpent. To us it seems, however, that the groups should be Vātaja, Pittaja, Kaphaja and Sannipātaja.
@@ -1116,17 +1032,11 @@ Gayadāsa reads “Śikhi” (Lāngalaki) and “Vamśa” (scrapings of bamboo)
 
 ## 11. Chapter VII - Description and preparation medicated drums
 
-
 Sushruta Samhita, Volume 5: Kalpasthana
-
-by Kaviraj Kunja Lal Bhishagratna | 1911 | 24,963 words
 
 This current book, the Kalpa-sthana (english translation), deals with the nature of poisons, the management of poisons, toxicology and various other subjects.
 
 The Sushruta Samhita is the most representative work of the Hindu system of medicine. It embraces all that can possibly appertain to the science of medicine. Susruta-samhita is recognized as...
-
-Go directly to: 
-Footnotes.
 
 Chapter VII - Description and preparation medicated drums
 
@@ -1165,10 +1075,6 @@ Symptoms of elimination of poison:—
 The restoration of the deranged Doshas and of the vital principles (Dhatus of the body) to their normal state, a natural craving for food and drink, the normal colour and condition of the tongue and of the urine and the normal state and functions of the mind and of the sense-organs in a poisoned patient would indicate the full and complete elimination of the poison from his system. 9.
 
 Thus ends the Seventh Chapter of the Kalpa-Sthana in the Sushruta Samhita which treats of the sounds of medicated drums, etc.
-
-Footnotes and references:
-
-[back to top]
 
 [1]:
 

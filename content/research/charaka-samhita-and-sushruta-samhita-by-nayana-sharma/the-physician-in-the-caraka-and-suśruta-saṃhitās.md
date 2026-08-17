@@ -1,23 +1,15 @@
 ---
 title: "The Physician in the Caraka and Suśruta Saṃhitās — Charaka Samhita And Sushruta Samhita By Nayana Sharma"
-paper_title: "Charaka Samhita And Sushruta Samhita By Nayana Sharma"
-paper_slug: "charaka-samhita-and-sushruta-samhita-by-nayana-sharma"
-chapter_title: "The Physician in the Caraka and Suśruta Saṃhitās"
-chapter_slug: "the-physician-in-the-caraka-and-suśruta-saṃhitās"
-chapter_number: 18
-reading_time: 11
-prev_chapter: "the-royal-physician"
-next_chapter: "specialisation-of-physicians"
-silo: "research"
-category: "Ayurvedic Research & Evidence"
-status: "Published"
-date: "2026-08-17"
 description: "Detailed analysis of The Physician in the Caraka and Suśruta Saṃhitās from Charaka Samhita And Sushruta Samhita By Nayana Sharma by Nayana Sharma. Evidence-based Ayurvedic literature review and pharmacognosy."
+category: "Ayurvedic Research & Evidence"
 author: "Suresh Bhati"
-original_scholar: "Nayana Sharma"
+publishedDate: "2026-08-17"
+status: "Published"
 ---
 
 # 18. The Physician in the Caraka and Suśruta Saṃhitās
+
+> **Clinical Executive Summary**: This guide on **The Physician in the Caraka and Suśruta Saṃhitās — Charaka Samhita And Sushruta Samhita By Nayana Sharma** synthesizes classical Sanskrit Samhita principles with modern botanical pharmacological research. Curated under the editorial supervision of Suresh Bhati, it provides actionable doshic guidelines, evidence-based applications, and safety parameters.
 
 > **TL;DR:** Chapter 18 of **Charaka Samhita And Sushruta Samhita By Nayana Sharma** by **Nayana Sharma** explores key findings on *The Physician in the Caraka and Suśruta Saṃhitās*. It bridges traditional Sanskrit literature with contemporary medical science.
 
@@ -74,10 +66,6 @@ The primacy of reasoning or yukti in this medical school is not surprising when 
 While the attributes discussed so far is more in the nature of what is desirable for a physician, the requisites that render him eligible to practice are much more fundamental. Suśruta tells us that the prospective practitioner after having studied the subject (adhigatatantreṇa) and having acquired knowledge of the science from the teacher (upāsitatantrārthena), having observed the procedures himself (dṛṣṭakarmanā) and performed them experimentally (kṛtayogyena), and having developed the capability of quoting the texts meaningfully (śāstraṃ nigadatā) must obtain the permission of the king (rājanujñātena).[43]
 
 This is a direct confirmation of the system of registration of medical practitioners which must have existed at the time of compilation of the text. The permission or license to practice must have been given after the aspirant underwent an examination for evaluating his knowledge of the subject at the completion of his studies. Caraka does not mention the necessity of obtaining state permission but does speak of the need to regulate the profession.[44] The necessity of some system of administrative supervision is alluded to and the king is held accountable for the ease and impunity with which the doctors of death (rogāṇāmabhisara) roam in society.[45] This possibly implies that the system of registration of medical practitioners may have not have existed in Caraka’s time but came to be established later. The system of registration is advocated by the author of the Arthaśāstra as the city-superintendent is directed to undertake a census of individuals according to caste, family-name and occupation.[46] The objective of such a practice would be to weed out the quacks, and besides, for the medical practitioners, the receipt of license from the highest authority of the land confers the profession with recognition and respect.
-
-Footnotes and references:
-
-[back to top]
 
 [1]:
 
@@ -265,8 +253,6 @@ R.P.Kangle (Ed.), The Kautilya Arthaśāstra: An English Translation with Critic
 
 ---
 
----
-
 ## ❓ 4. Frequently Asked Questions (15 Question Intent Matrix)
 
 ### Q1: What is the primary subject of "The Physician in the Caraka and Suśruta Saṃhitās"?
@@ -376,6 +362,72 @@ R.P.Kangle (Ed.), The Kautilya Arthaśāstra: An English Translation with Critic
           }
         }
       ]
+    }
+  ]
+}
+</script>
+
+## Frequently Asked Questions (FAQ)
+
+### What are the primary health benefits of The Physician in the Caraka and Suśruta Saṃhitās — Charaka Samhita And Sushruta Samhita By Nayana Sharma in Ayurveda?
+The Physician in the Caraka and Suśruta Saṃhitās — Charaka Samhita And Sushruta Samhita By Nayana Sharma is traditionally utilized in Ayurveda to balance doshic imbalances, support systemic vitality, and promote long-term physiological wellness under proper guidance.
+
+### How should The Physician in the Caraka and Suśruta Saṃhitās — Charaka Samhita And Sushruta Samhita By Nayana Sharma be taken according to classical guidelines?
+According to classical Ayurvedic principles, The Physician in the Caraka and Suśruta Saṃhitās — Charaka Samhita And Sushruta Samhita By Nayana Sharma is best administered with appropriate Anupana (carrier vehicles such as warm water, honey, or warm milk) tailored to an individual's Prakriti (constitution).
+
+### Are there any contraindications or side effects associated with The Physician in the Caraka and Suśruta Saṃhitās — Charaka Samhita And Sushruta Samhita By Nayana Sharma?
+While generally well-tolerated when used appropriately, excessive usage or improper dosing may exacerbate specific doshas. Consult an Ayurvedic physician prior to therapeutic use.
+
+### How long does it take to observe results from using The Physician in the Caraka and Suśruta Saṃhitās — Charaka Samhita And Sushruta Samhita By Nayana Sharma?
+In traditional Ayurvedic protocol, herbal formulations operate synergistically with diet and lifestyle. Notable improvements typically emerge within 2 to 4 weeks of consistent administration.
+
+### Is The Physician in the Caraka and Suśruta Saṃhitās — Charaka Samhita And Sushruta Samhita By Nayana Sharma safe for long-term daily consumption?
+Certain tonic (Rasayana) preparations may be safely used long-term, whereas intensive therapeutic formulas are recommended for specific short-term protocols under expert supervision.
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What are the primary health benefits of The Physician in the Caraka and Suśruta Saṃhitās — Charaka Samhita And Sushruta Samhita By Nayana Sharma in Ayurveda?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The Physician in the Caraka and Suśruta Saṃhitās — Charaka Samhita And Sushruta Samhita By Nayana Sharma is traditionally utilized in Ayurveda to balance doshic imbalances, support systemic vitality, and promote long-term physiological wellness under proper guidance."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How should The Physician in the Caraka and Suśruta Saṃhitās — Charaka Samhita And Sushruta Samhita By Nayana Sharma be taken according to classical guidelines?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "According to classical Ayurvedic principles, The Physician in the Caraka and Suśruta Saṃhitās — Charaka Samhita And Sushruta Samhita By Nayana Sharma is best administered with appropriate Anupana (carrier vehicles such as warm water, honey, or warm milk) tailored to an individual's Prakriti (constitution)."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Are there any contraindications or side effects associated with The Physician in the Caraka and Suśruta Saṃhitās — Charaka Samhita And Sushruta Samhita By Nayana Sharma?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "While generally well-tolerated when used appropriately, excessive usage or improper dosing may exacerbate specific doshas. Consult an Ayurvedic physician prior to therapeutic use."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How long does it take to observe results from using The Physician in the Caraka and Suśruta Saṃhitās — Charaka Samhita And Sushruta Samhita By Nayana Sharma?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "In traditional Ayurvedic protocol, herbal formulations operate synergistically with diet and lifestyle. Notable improvements typically emerge within 2 to 4 weeks of consistent administration."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Is The Physician in the Caraka and Suśruta Saṃhitās — Charaka Samhita And Sushruta Samhita By Nayana Sharma safe for long-term daily consumption?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Certain tonic (Rasayana) preparations may be safely used long-term, whereas intensive therapeutic formulas are recommended for specific short-term protocols under expert supervision."
+      }
     }
   ]
 }

@@ -9,19 +9,11 @@ date: "2026-08-17"
 description: "Texts including English translation of extracts."
 ---
 
-**Author / Source:** by Beenapani Mishra
-
-
-**Total Chapters/Sections:** 64
-
 ---
 
 ## 1. 1. Introduction and attitude of India towards Trees
 
-
 Vrikshayurveda (and environmental philosophy)
-
-by Beenapani Mishra | 2007 | 47,458 words
 
 This essay studies the Environmental Philosophy in the Vrikshayurveda Texts including English translation of extracts. Vrksayurveda represents the ancient Indian science of Horticulture. This study researches topics such as “Environmental Values” reflected in various Sanskrit Texts. Another topic discussed is the “importance of trees and plants” fo...
 
@@ -53,10 +45,7 @@ Introduction 1 0. 1. 1. Biogenetic resource of India: India has forever been glo
 
 ## 2. Acknowledgement
 
-
 Vrikshayurveda (and environmental philosophy)
-
-by Beenapani Mishra | 2007 | 47,458 words
 
 This essay studies the Environmental Philosophy in the Vrikshayurveda Texts including English translation of extracts. Vrksayurveda represents the ancient Indian science of Horticulture. This study researches topics such as “Environmental Values” reflected in various Sanskrit Texts. Another topic discussed is the “importance of trees and plants” fo...
 
@@ -70,10 +59,7 @@ VI advice as in alliance on to the due ethical completion of this Thesis. I woul
 
 ## 3. Chapter 1 - Introduction
 
-
 Vrikshayurveda (and environmental philosophy)
-
-by Beenapani Mishra | 2007 | 47,458 words
 
 This essay studies the Environmental Philosophy in the Vrikshayurveda Texts including English translation of extracts. Vrksayurveda represents the ancient Indian science of Horticulture. This study researches topics such as “Environmental Values” reflected in various Sanskrit Texts. Another topic discussed is the “importance of trees and plants” fo...
 
@@ -85,10 +71,7 @@ Chapter 1 - Introduction
 
 ## 4. 2. Tradition of Vrikshayurveda (Introduction)
 
-
 Vrikshayurveda (and environmental philosophy)
-
-by Beenapani Mishra | 2007 | 47,458 words
 
 This essay studies the Environmental Philosophy in the Vrikshayurveda Texts including English translation of extracts. Vrksayurveda represents the ancient Indian science of Horticulture. This study researches topics such as “Environmental Values” reflected in various Sanskrit Texts. Another topic discussed is the “importance of trees and plants” fo...
 
@@ -104,10 +87,7 @@ This essay studies the Environmental Philosophy in the Vrikshayurveda Texts incl
 
 ## 5. Prologue
 
-
 Vrikshayurveda (and environmental philosophy)
-
-by Beenapani Mishra | 2007 | 47,458 words
 
 This essay studies the Environmental Philosophy in the Vrikshayurveda Texts including English translation of extracts. Vrksayurveda represents the ancient Indian science of Horticulture. This study researches topics such as “Environmental Values” reflected in various Sanskrit Texts. Another topic discussed is the “importance of trees and plants” fo...
 
@@ -125,10 +105,7 @@ IV where I have collected materials for this study. I have also attended several
 
 ## 6. 3. Origin of Kalpavriksha
 
-
 Vrikshayurveda (and environmental philosophy)
-
-by Beenapani Mishra | 2007 | 47,458 words
 
 This essay studies the Environmental Philosophy in the Vrikshayurveda Texts including English translation of extracts. Vrksayurveda represents the ancient Indian science of Horticulture. This study researches topics such as “Environmental Values” reflected in various Sanskrit Texts. Another topic discussed is the “importance of trees and plants” fo...
 
@@ -146,10 +123,7 @@ There is description of a beautiful story as to the outcome of kalpavrks from th
 
 ## 7. 4. The Synonyms of Trees in Sanskrit
 
-
 Vrikshayurveda (and environmental philosophy)
-
-by Beenapani Mishra | 2007 | 47,458 words
 
 This essay studies the Environmental Philosophy in the Vrikshayurveda Texts including English translation of extracts. Vrksayurveda represents the ancient Indian science of Horticulture. This study researches topics such as “Environmental Values” reflected in various Sanskrit Texts. Another topic discussed is the “importance of trees and plants” fo...
 
@@ -163,10 +137,7 @@ In Sanskrit literature the word vrksa gives the impression of a punlinga sabda t
 
 ## 8. 8. Research Methodology adopted
 
-
 Vrikshayurveda (and environmental philosophy)
-
-by Beenapani Mishra | 2007 | 47,458 words
 
 This essay studies the Environmental Philosophy in the Vrikshayurveda Texts including English translation of extracts. Vrksayurveda represents the ancient Indian science of Horticulture. This study researches topics such as “Environmental Values” reflected in various Sanskrit Texts. Another topic discussed is the “importance of trees and plants” fo...
 
@@ -180,10 +151,7 @@ It is very difficult to follow and formulate a method strictly from modern resea
 
 ## 9. Chapter 2 - The purport of Environment
 
-
 Vrikshayurveda (and environmental philosophy)
-
-by Beenapani Mishra | 2007 | 47,458 words
 
 This essay studies the Environmental Philosophy in the Vrikshayurveda Texts including English translation of extracts. Vrksayurveda represents the ancient Indian science of Horticulture. This study researches topics such as “Environmental Values” reflected in various Sanskrit Texts. Another topic discussed is the “importance of trees and plants” fo...
 
@@ -197,10 +165,7 @@ Chapter 2 - The purport of Environment
 
 ## 10. 5. Introduction to the Study
 
-
 Vrikshayurveda (and environmental philosophy)
-
-by Beenapani Mishra | 2007 | 47,458 words
 
 This essay studies the Environmental Philosophy in the Vrikshayurveda Texts including English translation of extracts. Vrksayurveda represents the ancient Indian science of Horticulture. This study researches topics such as “Environmental Values” reflected in various Sanskrit Texts. Another topic discussed is the “importance of trees and plants” fo...
 
@@ -220,10 +185,7 @@ This essay studies the Environmental Philosophy in the Vrikshayurveda Texts incl
 
 ## 11. 7. Representation of the Study
 
-
 Vrikshayurveda (and environmental philosophy)
-
-by Beenapani Mishra | 2007 | 47,458 words
 
 This essay studies the Environmental Philosophy in the Vrikshayurveda Texts including English translation of extracts. Vrksayurveda represents the ancient Indian science of Horticulture. This study researches topics such as “Environmental Values” reflected in various Sanskrit Texts. Another topic discussed is the “importance of trees and plants” fo...
 
@@ -249,10 +211,7 @@ III.2.1. Environmental Values reflected in Vedas III.2.2. Environmental Values r
 
 ## 12. 6. Literature review
 
-
 Vrikshayurveda (and environmental philosophy)
-
-by Beenapani Mishra | 2007 | 47,458 words
 
 This essay studies the Environmental Philosophy in the Vrikshayurveda Texts including English translation of extracts. Vrksayurveda represents the ancient Indian science of Horticulture. This study researches topics such as “Environmental Values” reflected in various Sanskrit Texts. Another topic discussed is the “importance of trees and plants” fo...
 
@@ -274,10 +233,7 @@ namely Dharmaparvan, Arthaparvan, Kamaparvan 27 and Moksaparvan. Some verses on 
 
 ## 13. 1. An Introduction to Environment and its Significance
 
-
 Vrikshayurveda (and environmental philosophy)
-
-by Beenapani Mishra | 2007 | 47,458 words
 
 This essay studies the Environmental Philosophy in the Vrikshayurveda Texts including English translation of extracts. Vrksayurveda represents the ancient Indian science of Horticulture. This study researches topics such as “Environmental Values” reflected in various Sanskrit Texts. Another topic discussed is the “importance of trees and plants” fo...
 
@@ -297,10 +253,7 @@ CHAPTER-I The Purport of Environment and the Significance of Environmental Philo
 
 ## 14. 2. Environmental Philosophy and its relevance
 
-
 Vrikshayurveda (and environmental philosophy)
-
-by Beenapani Mishra | 2007 | 47,458 words
 
 This essay studies the Environmental Philosophy in the Vrikshayurveda Texts including English translation of extracts. Vrksayurveda represents the ancient Indian science of Horticulture. This study researches topics such as “Environmental Values” reflected in various Sanskrit Texts. Another topic discussed is the “importance of trees and plants” fo...
 
@@ -314,10 +267,7 @@ Environmental philosophy is a branch of philosophy that is concerned with the na
 
 ## 15. 3.1. Introduction to Environmental Ethics
 
-
 Vrikshayurveda (and environmental philosophy)
-
-by Beenapani Mishra | 2007 | 47,458 words
 
 This essay studies the Environmental Philosophy in the Vrikshayurveda Texts including English translation of extracts. Vrksayurveda represents the ancient Indian science of Horticulture. This study researches topics such as “Environmental Values” reflected in various Sanskrit Texts. Another topic discussed is the “importance of trees and plants” fo...
 
@@ -333,10 +283,7 @@ Second we can act on the basis of what we understand. Third our actions can serv
 
 ## 16. 3.4. Environment Verses Human Being: In the context of Scientific view
 
-
 Vrikshayurveda (and environmental philosophy)
-
-by Beenapani Mishra | 2007 | 47,458 words
 
 This essay studies the Environmental Philosophy in the Vrikshayurveda Texts including English translation of extracts. Vrksayurveda represents the ancient Indian science of Horticulture. This study researches topics such as “Environmental Values” reflected in various Sanskrit Texts. Another topic discussed is the “importance of trees and plants” fo...
 
@@ -350,10 +297,7 @@ This essay studies the Environmental Philosophy in the Vrikshayurveda Texts incl
 
 ## 17. 3.2. Ethics in the context of Vedic Literatures
 
-
 Vrikshayurveda (and environmental philosophy)
-
-by Beenapani Mishra | 2007 | 47,458 words
 
 This essay studies the Environmental Philosophy in the Vrikshayurveda Texts including English translation of extracts. Vrksayurveda represents the ancient Indian science of Horticulture. This study researches topics such as “Environmental Values” reflected in various Sanskrit Texts. Another topic discussed is the “importance of trees and plants” fo...
 
@@ -377,10 +321,7 @@ The smrtikar's of ancient times have framed rules and code of ethics for those w
 
 ## 18. 3.3. Environmentalism and the Appreciation of Nature
 
-
 Vrikshayurveda (and environmental philosophy)
-
-by Beenapani Mishra | 2007 | 47,458 words
 
 This essay studies the Environmental Philosophy in the Vrikshayurveda Texts including English translation of extracts. Vrksayurveda represents the ancient Indian science of Horticulture. This study researches topics such as “Environmental Values” reflected in various Sanskrit Texts. Another topic discussed is the “importance of trees and plants” fo...
 
@@ -404,10 +345,7 @@ I.2.2.2. Environmental Art: 51 Nature art or the aesthetic formation and decorat
 
 ## 19. 3.5. Environment and Humanity: In the context of Philosophical View
 
-
 Vrikshayurveda (and environmental philosophy)
-
-by Beenapani Mishra | 2007 | 47,458 words
 
 This essay studies the Environmental Philosophy in the Vrikshayurveda Texts including English translation of extracts. Vrksayurveda represents the ancient Indian science of Horticulture. This study researches topics such as “Environmental Values” reflected in various Sanskrit Texts. Another topic discussed is the “importance of trees and plants” fo...
 
@@ -425,10 +363,7 @@ samane vrkse puruso nimagno'nisaya socati muhyamanah/ justam yada pasyatyanyamis
 
 ## 20. Chapter 3 - Texts on Vrikshayurveda
 
-
 Vrikshayurveda (and environmental philosophy)
-
-by Beenapani Mishra | 2007 | 47,458 words
 
 This essay studies the Environmental Philosophy in the Vrikshayurveda Texts including English translation of extracts. Vrksayurveda represents the ancient Indian science of Horticulture. This study researches topics such as “Environmental Values” reflected in various Sanskrit Texts. Another topic discussed is the “importance of trees and plants” fo...
 
@@ -440,10 +375,7 @@ Chapter 3 - Texts on Vrikshayurveda
 
 ## 21. 3.6. Environment and Humanity: In the context of Vedic View
 
-
 Vrikshayurveda (and environmental philosophy)
-
-by Beenapani Mishra | 2007 | 47,458 words
 
 This essay studies the Environmental Philosophy in the Vrikshayurveda Texts including English translation of extracts. Vrksayurveda represents the ancient Indian science of Horticulture. This study researches topics such as “Environmental Values” reflected in various Sanskrit Texts. Another topic discussed is the “importance of trees and plants” fo...
 
@@ -461,10 +393,7 @@ This essay studies the Environmental Philosophy in the Vrikshayurveda Texts incl
 
 ## 22. 3. Vrksayurveda texts found in Brihatsamhita by Varahamihira
 
-
 Vrikshayurveda (and environmental philosophy)
-
-by Beenapani Mishra | 2007 | 47,458 words
 
 This essay studies the Environmental Philosophy in the Vrikshayurveda Texts including English translation of extracts. Vrksayurveda represents the ancient Indian science of Horticulture. This study researches topics such as “Environmental Values” reflected in various Sanskrit Texts. Another topic discussed is the “importance of trees and plants” fo...
 
@@ -488,10 +417,7 @@ Brhatsamhita has written by Varahamihira (C. 505 to 580 AD) deals with the topic
 
 ## 23. 1. Texts on Vrikshayurveda: An Introduction
 
-
 Vrikshayurveda (and environmental philosophy)
-
-by Beenapani Mishra | 2007 | 47,458 words
 
 This essay studies the Environmental Philosophy in the Vrikshayurveda Texts including English translation of extracts. Vrksayurveda represents the ancient Indian science of Horticulture. This study researches topics such as “Environmental Values” reflected in various Sanskrit Texts. Another topic discussed is the “importance of trees and plants” fo...
 
@@ -505,10 +431,7 @@ CHAPTER-II 65 II. Texts on vrksayurveda—II.0. Texts on vrksayurveda: An Introd
 
 ## 24. 4. Vrikshayurveda texts found in Upavanavinoda of Sarangadhara
 
-
 Vrikshayurveda (and environmental philosophy)
-
-by Beenapani Mishra | 2007 | 47,458 words
 
 This essay studies the Environmental Philosophy in the Vrikshayurveda Texts including English translation of extracts. Vrksayurveda represents the ancient Indian science of Horticulture. This study researches topics such as “Environmental Values” reflected in various Sanskrit Texts. Another topic discussed is the “importance of trees and plants” fo...
 
@@ -544,10 +467,7 @@ Sarangadhara, who was associated with the court of king Hammira, the ruler of Sa
 
 ## 25. 6. The presence of Vrikshayurveda in Puranas
 
-
 Vrikshayurveda (and environmental philosophy)
-
-by Beenapani Mishra | 2007 | 47,458 words
 
 This essay studies the Environmental Philosophy in the Vrikshayurveda Texts including English translation of extracts. Vrksayurveda represents the ancient Indian science of Horticulture. This study researches topics such as “Environmental Values” reflected in various Sanskrit Texts. Another topic discussed is the “importance of trees and plants” fo...
 
@@ -583,10 +503,7 @@ Saint and sages live in the lap of nature surrounded by deep forests. They feel 
 
 ## 26. 5. Vrikshayurveda texts found in Vastu-shastra
 
-
 Vrikshayurveda (and environmental philosophy)
-
-by Beenapani Mishra | 2007 | 47,458 words
 
 This essay studies the Environmental Philosophy in the Vrikshayurveda Texts including English translation of extracts. Vrksayurveda represents the ancient Indian science of Horticulture. This study researches topics such as “Environmental Values” reflected in various Sanskrit Texts. Another topic discussed is the “importance of trees and plants” fo...
 
@@ -612,10 +529,7 @@ Vastu means the art and science of living-place i.e, the site for building and a
 
 ## 27. Chapter 4 - Environmental Values as Reflected in Vrikshayurveda Texts
 
-
 Vrikshayurveda (and environmental philosophy)
-
-by Beenapani Mishra | 2007 | 47,458 words
 
 This essay studies the Environmental Philosophy in the Vrikshayurveda Texts including English translation of extracts. Vrksayurveda represents the ancient Indian science of Horticulture. This study researches topics such as “Environmental Values” reflected in various Sanskrit Texts. Another topic discussed is the “importance of trees and plants” fo...
 
@@ -627,10 +541,7 @@ Chapter 4 - Environmental Values as Reflected in Vrikshayurveda Texts
 
 ## 28. 2. Summary of the Vrikshayurveda of Surapala
 
-
 Vrikshayurveda (and environmental philosophy)
-
-by Beenapani Mishra | 2007 | 47,458 words
 
 This essay studies the Environmental Philosophy in the Vrikshayurveda Texts including English translation of extracts. Vrksayurveda represents the ancient Indian science of Horticulture. This study researches topics such as “Environmental Values” reflected in various Sanskrit Texts. Another topic discussed is the “importance of trees and plants” fo...
 
@@ -698,10 +609,7 @@ Chapter - VIII The Knowledge on Disease Disease 165 - 183 of Plants (rogajnana D
 
 ## 29. 7. Vrikshayurveda found in Vishvavallabha by Chakrapani Mishra
 
-
 Vrikshayurveda (and environmental philosophy)
-
-by Beenapani Mishra | 2007 | 47,458 words
 
 This essay studies the Environmental Philosophy in the Vrikshayurveda Texts including English translation of extracts. Vrksayurveda represents the ancient Indian science of Horticulture. This study researches topics such as “Environmental Values” reflected in various Sanskrit Texts. Another topic discussed is the “importance of trees and plants” fo...
 
@@ -743,10 +651,7 @@ Like Vrksayurveda of Surapala, there is another treatise written by Chakrapani M
 
 ## 30. 3. The Significance of Plantation
 
-
 Vrikshayurveda (and environmental philosophy)
-
-by Beenapani Mishra | 2007 | 47,458 words
 
 This essay studies the Environmental Philosophy in the Vrikshayurveda Texts including English translation of extracts. Vrksayurveda represents the ancient Indian science of Horticulture. This study researches topics such as “Environmental Values” reflected in various Sanskrit Texts. Another topic discussed is the “importance of trees and plants” fo...
 
@@ -760,10 +665,7 @@ This essay studies the Environmental Philosophy in the Vrikshayurveda Texts incl
 
 ## 31. 1. An Introduction to Environmental Values
 
-
 Vrikshayurveda (and environmental philosophy)
-
-by Beenapani Mishra | 2007 | 47,458 words
 
 This essay studies the Environmental Philosophy in the Vrikshayurveda Texts including English translation of extracts. Vrksayurveda represents the ancient Indian science of Horticulture. This study researches topics such as “Environmental Values” reflected in various Sanskrit Texts. Another topic discussed is the “importance of trees and plants” fo...
 
@@ -777,10 +679,7 @@ CHAPTER - III 147 III. Environmental values as reflected in Vrksayurveda Texts I
 
 ## 32. 4. Environmental Significance as found in its Care
 
-
 Vrikshayurveda (and environmental philosophy)
-
-by Beenapani Mishra | 2007 | 47,458 words
 
 This essay studies the Environmental Philosophy in the Vrikshayurveda Texts including English translation of extracts. Vrksayurveda represents the ancient Indian science of Horticulture. This study researches topics such as “Environmental Values” reflected in various Sanskrit Texts. Another topic discussed is the “importance of trees and plants” fo...
 
@@ -802,10 +701,7 @@ Our Ancient Sanskrit Literature is filled with various valuable principles. Igno
 
 ## 33. 2. The Importance of Trees and Plants
 
-
 Vrikshayurveda (and environmental philosophy)
-
-by Beenapani Mishra | 2007 | 47,458 words
 
 This essay studies the Environmental Philosophy in the Vrikshayurveda Texts including English translation of extracts. Vrksayurveda represents the ancient Indian science of Horticulture. This study researches topics such as “Environmental Values” reflected in various Sanskrit Texts. Another topic discussed is the “importance of trees and plants” fo...
 
@@ -823,10 +719,7 @@ This essay studies the Environmental Philosophy in the Vrikshayurveda Texts incl
 
 ## 34. 6. Environmental Values reflected in the Puranas
 
-
 Vrikshayurveda (and environmental philosophy)
-
-by Beenapani Mishra | 2007 | 47,458 words
 
 This essay studies the Environmental Philosophy in the Vrikshayurveda Texts including English translation of extracts. Vrksayurveda represents the ancient Indian science of Horticulture. This study researches topics such as “Environmental Values” reflected in various Sanskrit Texts. Another topic discussed is the “importance of trees and plants” fo...
 
@@ -840,10 +733,7 @@ In Bhagavatapurana Srikrishna praises the trees of Vrindavan. He praises them to
 
 ## 35. 5. Environmental Values reflected in Vedas
 
-
 Vrikshayurveda (and environmental philosophy)
-
-by Beenapani Mishra | 2007 | 47,458 words
 
 This essay studies the Environmental Philosophy in the Vrikshayurveda Texts including English translation of extracts. Vrksayurveda represents the ancient Indian science of Horticulture. This study researches topics such as “Environmental Values” reflected in various Sanskrit Texts. Another topic discussed is the “importance of trees and plants” fo...
 
@@ -865,10 +755,7 @@ III.2. Environmental Values reflected in other Texts on the topic Vrksayurveda:�
 
 ## 36. 8. Environmental Values reflected in Vishvavallabha
 
-
 Vrikshayurveda (and environmental philosophy)
-
-by Beenapani Mishra | 2007 | 47,458 words
 
 This essay studies the Environmental Philosophy in the Vrikshayurveda Texts including English translation of extracts. Vrksayurveda represents the ancient Indian science of Horticulture. This study researches topics such as “Environmental Values” reflected in various Sanskrit Texts. Another topic discussed is the “importance of trees and plants” fo...
 
@@ -882,10 +769,7 @@ The Vishvavallabha [Vishwa Vallabha] text of Chakrapani Mishra also describes th
 
 ## 37. 7. Environmental Values reflected in Dharma Sutras
 
-
 Vrikshayurveda (and environmental philosophy)
-
-by Beenapani Mishra | 2007 | 47,458 words
 
 This essay studies the Environmental Philosophy in the Vrikshayurveda Texts including English translation of extracts. Vrksayurveda represents the ancient Indian science of Horticulture. This study researches topics such as “Environmental Values” reflected in various Sanskrit Texts. Another topic discussed is the “importance of trees and plants” fo...
 
@@ -907,10 +791,7 @@ This essay studies the Environmental Philosophy in the Vrikshayurveda Texts incl
 
 ## 38. 9. Environmental Values reflected in other Sanskrit Texts
 
-
 Vrikshayurveda (and environmental philosophy)
-
-by Beenapani Mishra | 2007 | 47,458 words
 
 This essay studies the Environmental Philosophy in the Vrikshayurveda Texts including English translation of extracts. Vrksayurveda represents the ancient Indian science of Horticulture. This study researches topics such as “Environmental Values” reflected in various Sanskrit Texts. Another topic discussed is the “importance of trees and plants” fo...
 
@@ -930,10 +811,7 @@ Plants have medicinal value. In Ayurveda "The science of life" is a product of p
 
 ## 39. Chapter 5 - Religious Significance of Plantation and Rearing of Trees
 
-
 Vrikshayurveda (and environmental philosophy)
-
-by Beenapani Mishra | 2007 | 47,458 words
 
 This essay studies the Environmental Philosophy in the Vrikshayurveda Texts including English translation of extracts. Vrksayurveda represents the ancient Indian science of Horticulture. This study researches topics such as “Environmental Values” reflected in various Sanskrit Texts. Another topic discussed is the “importance of trees and plants” fo...
 
@@ -945,10 +823,7 @@ Chapter 5 - Religious Significance of Plantation and Rearing of Trees
 
 ## 40. 2. Religious Importance of Auspicious and Inauspicious Plants
 
-
 Vrikshayurveda (and environmental philosophy)
-
-by Beenapani Mishra | 2007 | 47,458 words
 
 This essay studies the Environmental Philosophy in the Vrikshayurveda Texts including English translation of extracts. Vrksayurveda represents the ancient Indian science of Horticulture. This study researches topics such as “Environmental Values” reflected in various Sanskrit Texts. Another topic discussed is the “importance of trees and plants” fo...
 
@@ -968,10 +843,7 @@ According to our religious tradition and Vastusastra some plants are auspicious 
 
 ## 41. 1. Significance of planting Trees (Introduction)
 
-
 Vrikshayurveda (and environmental philosophy)
-
-by Beenapani Mishra | 2007 | 47,458 words
 
 This essay studies the Environmental Philosophy in the Vrikshayurveda Texts including English translation of extracts. Vrksayurveda represents the ancient Indian science of Horticulture. This study researches topics such as “Environmental Values” reflected in various Sanskrit Texts. Another topic discussed is the “importance of trees and plants” fo...
 
@@ -989,10 +861,7 @@ Butea monos Perma Palasa Brahma, Gandharva Ficus glomerata Udumbara Moon Madhuca
 
 ## 42. 4. Religious Importance of Ashvattha
 
-
 Vrikshayurveda (and environmental philosophy)
-
-by Beenapani Mishra | 2007 | 47,458 words
 
 This essay studies the Environmental Philosophy in the Vrikshayurveda Texts including English translation of extracts. Vrksayurveda represents the ancient Indian science of Horticulture. This study researches topics such as “Environmental Values” reflected in various Sanskrit Texts. Another topic discussed is the “importance of trees and plants” fo...
 
@@ -1010,10 +879,7 @@ In the Vedic literature we come across a good deal of reference as to the spirit
 
 ## 43. 3. Religious Importance of Planting Trees in Puranas
 
-
 Vrikshayurveda (and environmental philosophy)
-
-by Beenapani Mishra | 2007 | 47,458 words
 
 This essay studies the Environmental Philosophy in the Vrikshayurveda Texts including English translation of extracts. Vrksayurveda represents the ancient Indian science of Horticulture. This study researches topics such as “Environmental Values” reflected in various Sanskrit Texts. Another topic discussed is the “importance of trees and plants” fo...
 
@@ -1041,10 +907,7 @@ From the beginning of earth, before the birth of human being trees were present.
 
 ## 44. 6. Religious Importance of Tulasi and Dhatri
 
-
 Vrikshayurveda (and environmental philosophy)
-
-by Beenapani Mishra | 2007 | 47,458 words
 
 This essay studies the Environmental Philosophy in the Vrikshayurveda Texts including English translation of extracts. Vrksayurveda represents the ancient Indian science of Horticulture. This study researches topics such as “Environmental Values” reflected in various Sanskrit Texts. Another topic discussed is the “importance of trees and plants” fo...
 
@@ -1064,10 +927,7 @@ We have discussed earlier about asvattha in this chapter, now let us put some li
 
 ## 45. 5. Tree Worship in Vedas and Puranas
 
-
 Vrikshayurveda (and environmental philosophy)
-
-by Beenapani Mishra | 2007 | 47,458 words
 
 This essay studies the Environmental Philosophy in the Vrikshayurveda Texts including English translation of extracts. Vrksayurveda represents the ancient Indian science of Horticulture. This study researches topics such as “Environmental Values” reflected in various Sanskrit Texts. Another topic discussed is the “importance of trees and plants” fo...
 
@@ -1087,10 +947,7 @@ IV.4. Tree Worship in Vedas and Puranas:—In the Vedic literature the Atharva-v
 
 ## 46. 8. Religious Importance of Plants in Different Ceremonies
 
-
 Vrikshayurveda (and environmental philosophy)
-
-by Beenapani Mishra | 2007 | 47,458 words
 
 This essay studies the Environmental Philosophy in the Vrikshayurveda Texts including English translation of extracts. Vrksayurveda represents the ancient Indian science of Horticulture. This study researches topics such as “Environmental Values” reflected in various Sanskrit Texts. Another topic discussed is the “importance of trees and plants” fo...
 
@@ -1104,10 +961,7 @@ This essay studies the Environmental Philosophy in the Vrikshayurveda Texts incl
 
 ## 47. 7. Trees in association with Constellations
 
-
 Vrikshayurveda (and environmental philosophy)
-
-by Beenapani Mishra | 2007 | 47,458 words
 
 This essay studies the Environmental Philosophy in the Vrikshayurveda Texts including English translation of extracts. Vrksayurveda represents the ancient Indian science of Horticulture. This study researches topics such as “Environmental Values” reflected in various Sanskrit Texts. Another topic discussed is the “importance of trees and plants” fo...
 
@@ -1133,10 +987,7 @@ IV.6. Trees in association with Constellations:—It is a scientifically proved 
 
 ## 48. Chapter 6 - Aesthetic Value behind the arrangement of Trees and Gardens
 
-
 Vrikshayurveda (and environmental philosophy)
-
-by Beenapani Mishra | 2007 | 47,458 words
 
 This essay studies the Environmental Philosophy in the Vrikshayurveda Texts including English translation of extracts. Vrksayurveda represents the ancient Indian science of Horticulture. This study researches topics such as “Environmental Values” reflected in various Sanskrit Texts. Another topic discussed is the “importance of trees and plants” fo...
 
@@ -1148,10 +999,7 @@ Chapter 6 - Aesthetic Value behind the arrangement of Trees and Gardens
 
 ## 49. 1. An Introduction to Aesthetical Values
 
-
 Vrikshayurveda (and environmental philosophy)
-
-by Beenapani Mishra | 2007 | 47,458 words
 
 This essay studies the Environmental Philosophy in the Vrikshayurveda Texts including English translation of extracts. Vrksayurveda represents the ancient Indian science of Horticulture. This study researches topics such as “Environmental Values” reflected in various Sanskrit Texts. Another topic discussed is the “importance of trees and plants” fo...
 
@@ -1165,10 +1013,7 @@ CHAPTER-V 215 V. Aesthetical values behind the arrangement of Trees and Gardens�
 
 ## 50. 3. Aesthetical Values as reflected in other Sanskrit Texts
 
-
 Vrikshayurveda (and environmental philosophy)
-
-by Beenapani Mishra | 2007 | 47,458 words
 
 This essay studies the Environmental Philosophy in the Vrikshayurveda Texts including English translation of extracts. Vrksayurveda represents the ancient Indian science of Horticulture. This study researches topics such as “Environmental Values” reflected in various Sanskrit Texts. Another topic discussed is the “importance of trees and plants” fo...
 
@@ -1184,10 +1029,7 @@ This essay studies the Environmental Philosophy in the Vrikshayurveda Texts incl
 
 ## 51. 2. Aesthetical Values as reflected in Vrikshayurveda
 
-
 Vrikshayurveda (and environmental philosophy)
-
-by Beenapani Mishra | 2007 | 47,458 words
 
 This essay studies the Environmental Philosophy in the Vrikshayurveda Texts including English translation of extracts. Vrksayurveda represents the ancient Indian science of Horticulture. This study researches topics such as “Environmental Values” reflected in various Sanskrit Texts. Another topic discussed is the “importance of trees and plants” fo...
 
@@ -1209,10 +1051,7 @@ V.1. Aesthetical Values on preparation of Pleasure Gardens as reflected in Vrksa
 
 ## 52. Chapter 7 - Environmental Philosophy
 
-
 Vrikshayurveda (and environmental philosophy)
-
-by Beenapani Mishra | 2007 | 47,458 words
 
 This essay studies the Environmental Philosophy in the Vrikshayurveda Texts including English translation of extracts. Vrksayurveda represents the ancient Indian science of Horticulture. This study researches topics such as “Environmental Values” reflected in various Sanskrit Texts. Another topic discussed is the “importance of trees and plants” fo...
 
@@ -1224,10 +1063,7 @@ Chapter 7 - Environmental Philosophy
 
 ## 53. 4. Navagraha-vatika as an example of arrangement of Gardens
 
-
 Vrikshayurveda (and environmental philosophy)
-
-by Beenapani Mishra | 2007 | 47,458 words
 
 This essay studies the Environmental Philosophy in the Vrikshayurveda Texts including English translation of extracts. Vrksayurveda represents the ancient Indian science of Horticulture. This study researches topics such as “Environmental Values” reflected in various Sanskrit Texts. Another topic discussed is the “importance of trees and plants” fo...
 
@@ -1247,10 +1083,7 @@ increased and productive growth. However, the planetic classification for rearin
 
 ## 54. 2. Environmental Philosophy behind the Importance of Trees
 
-
 Vrikshayurveda (and environmental philosophy)
-
-by Beenapani Mishra | 2007 | 47,458 words
 
 This essay studies the Environmental Philosophy in the Vrikshayurveda Texts including English translation of extracts. Vrksayurveda represents the ancient Indian science of Horticulture. This study researches topics such as “Environmental Values” reflected in various Sanskrit Texts. Another topic discussed is the “importance of trees and plants” fo...
 
@@ -1268,10 +1101,7 @@ The importance of trees has forever been given priority right from the Vedic per
 
 ## 55. 3. Philosophy behind the planting of Trees near the Abode
 
-
 Vrikshayurveda (and environmental philosophy)
-
-by Beenapani Mishra | 2007 | 47,458 words
 
 This essay studies the Environmental Philosophy in the Vrikshayurveda Texts including English translation of extracts. Vrksayurveda represents the ancient Indian science of Horticulture. This study researches topics such as “Environmental Values” reflected in various Sanskrit Texts. Another topic discussed is the “importance of trees and plants” fo...
 
@@ -1287,10 +1117,7 @@ VI.2. Environmental Philosophy behind the determination of Auspicious & Inauspic
 
 ## 56. 6. Environmental Philosophy behind the Nourishment of Trees
 
-
 Vrikshayurveda (and environmental philosophy)
-
-by Beenapani Mishra | 2007 | 47,458 words
 
 This essay studies the Environmental Philosophy in the Vrikshayurveda Texts including English translation of extracts. Vrksayurveda represents the ancient Indian science of Horticulture. This study researches topics such as “Environmental Values” reflected in various Sanskrit Texts. Another topic discussed is the “importance of trees and plants” fo...
 
@@ -1306,10 +1133,7 @@ Surapala recommends the philosophy beyond the growth of the young trees to be ad
 
 ## 57. 4. Environmental Philosophy behind the Method of Plantation
 
-
 Vrikshayurveda (and environmental philosophy)
-
-by Beenapani Mishra | 2007 | 47,458 words
 
 This essay studies the Environmental Philosophy in the Vrikshayurveda Texts including English translation of extracts. Vrksayurveda represents the ancient Indian science of Horticulture. This study researches topics such as “Environmental Values” reflected in various Sanskrit Texts. Another topic discussed is the “importance of trees and plants” fo...
 
@@ -1325,10 +1149,7 @@ The philosophical values behind the method of plantation are nicely represented 
 
 ## 58. 5. Attitude towards the Trees and Plants
 
-
 Vrikshayurveda (and environmental philosophy)
-
-by Beenapani Mishra | 2007 | 47,458 words
 
 This essay studies the Environmental Philosophy in the Vrikshayurveda Texts including English translation of extracts. Vrksayurveda represents the ancient Indian science of Horticulture. This study researches topics such as “Environmental Values” reflected in various Sanskrit Texts. Another topic discussed is the “importance of trees and plants” fo...
 
@@ -1342,10 +1163,7 @@ From the above description it appears that in India traditional plantation is no
 
 ## 59. 7. The Implication of Botanical Wonders
 
-
 Vrikshayurveda (and environmental philosophy)
-
-by Beenapani Mishra | 2007 | 47,458 words
 
 This essay studies the Environmental Philosophy in the Vrikshayurveda Texts including English translation of extracts. Vrksayurveda represents the ancient Indian science of Horticulture. This study researches topics such as “Environmental Values” reflected in various Sanskrit Texts. Another topic discussed is the “importance of trees and plants” fo...
 
@@ -1359,10 +1177,7 @@ VI.6. Environmental Philosophy behind the Implication of Botanical Wonders:—Th
 
 ## 60. 1. An Introduction to the Philosophical Aspects of Vrikshayurveda
 
-
 Vrikshayurveda (and environmental philosophy)
-
-by Beenapani Mishra | 2007 | 47,458 words
 
 This essay studies the Environmental Philosophy in the Vrikshayurveda Texts including English translation of extracts. Vrksayurveda represents the ancient Indian science of Horticulture. This study researches topics such as “Environmental Values” reflected in various Sanskrit Texts. Another topic discussed is the “importance of trees and plants” fo...
 
@@ -1376,10 +1191,7 @@ CHAPTER - VI - 229 VI. The Environmental Philosophy as reflected in the Chapters
 
 ## 61. 8. Environmental Philosophy behind the Aesthetics of Gardens
 
-
 Vrikshayurveda (and environmental philosophy)
-
-by Beenapani Mishra | 2007 | 47,458 words
 
 This essay studies the Environmental Philosophy in the Vrikshayurveda Texts including English translation of extracts. Vrksayurveda represents the ancient Indian science of Horticulture. This study researches topics such as “Environmental Values” reflected in various Sanskrit Texts. Another topic discussed is the “importance of trees and plants” fo...
 
@@ -1391,10 +1203,7 @@ VI.7. Environmental Philosophy behind the Aesthetics in Laying out of Gardens: T
 
 ## 62. Epilogue
 
-
 Vrikshayurveda (and environmental philosophy)
-
-by Beenapani Mishra | 2007 | 47,458 words
 
 This essay studies the Environmental Philosophy in the Vrikshayurveda Texts including English translation of extracts. Vrksayurveda represents the ancient Indian science of Horticulture. This study researches topics such as “Environmental Values” reflected in various Sanskrit Texts. Another topic discussed is the “importance of trees and plants” fo...
 
@@ -1412,10 +1221,7 @@ Epilogue
 
 ## 63. 9. Environmental Philosophy behind the Growth of Trees
 
-
 Vrikshayurveda (and environmental philosophy)
-
-by Beenapani Mishra | 2007 | 47,458 words
 
 This essay studies the Environmental Philosophy in the Vrikshayurveda Texts including English translation of extracts. Vrksayurveda represents the ancient Indian science of Horticulture. This study researches topics such as “Environmental Values” reflected in various Sanskrit Texts. Another topic discussed is the “importance of trees and plants” fo...
 
@@ -1427,10 +1233,7 @@ This essay studies the Environmental Philosophy in the Vrikshayurveda Texts incl
 
 ## 64. 10. The Manusmriti and the relation between the Earth and Plantation
 
-
 Vrikshayurveda (and environmental philosophy)
-
-by Beenapani Mishra | 2007 | 47,458 words
 
 This essay studies the Environmental Philosophy in the Vrikshayurveda Texts including English translation of extracts. Vrksayurveda represents the ancient Indian science of Horticulture. This study researches topics such as “Environmental Values” reflected in various Sanskrit Texts. Another topic discussed is the “importance of trees and plants” fo...
 

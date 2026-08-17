@@ -20,17 +20,11 @@ This chapter from **Sushruta Samhita (Chikitsasthana)** represents the classical
 
 ---
 
-
 Sushruta Samhita, volume 4: Cikitsasthana
-
-by Kaviraj Kunja Lal Bhishagratna | 1911 | 123,229 words
 
 This current book, the Chikitsa-sthana (english translation), deals with therapeutics, surgical emergencies, geriatrics, aphrodisiacs and various other subjects.
 
 The Sushruta Samhita is the most representative work of the Hindu system of medicine. It embraces all that can possibly appertain to the science of medicine. Susruta-samhita is recognized...
-
-Go directly to: 
-Footnotes.
 
 Chapter III - The medical treatments of fractures and dislocations
 
@@ -89,10 +83,6 @@ The expressed oil of the seeds of the Trapusha, Aksha and Piyala should be cooke
 A physician should exert his utmost to guard against the advent of any suppurative setting in in a fractured bone, since a suppuration of the local veins, nerves and muscles is difficult to cure. A complete union of a fractured joint should be inferred from its painless or unhurt character, from its full and perfect development (leaving no detectable signs of its once fractured condition), from the absence of all elevation (unevenness) and from its perfect freedom in flexion and expansion, etc. 47–48.
 
 Thus ends the third Chapter of the Chikitsita Sthana in the Sushruta Samhita which deals with the medical treatment of fractures and dislocations.
-
-Footnotes and references:
-
-[back to top]
 
 [1]:
 

@@ -20,15 +20,9 @@ This chapter from **Sushruta Samhita (Sutrasthana)** represents the classical su
 
 ---
 
-
 Sushruta Samhita, volume 1: Sutrasthana
 
-by Kaviraj Kunja Lal Bhishagratna | 1907 | 148,756 words
-
 This current book, the Sutra-sthana (english translation), is the first part of this voluminous medical work. It contains a large summary of the knowledge envelopig the medical aspects of Ayurveda. Descriptions of diseases, various diets and drugs, the duties of a surgeon, surgical procedures, medical training; these are only some of the numerous s...
-
-Go directly to: 
-Footnotes.
 
 Chapter XLVI - Diet articles and regimen of diet
 
@@ -527,10 +521,6 @@ He, who carefully peruses these rules regarding the regimen of diet as approved 
 Thus ends the forty-sixth Chapter of the Sutrasthana in the Sushruta Samhita which treats of Food and Drink.
 
 Here ends the Sutrastharna
-
-Footnotes and references:
-
-[back to top]
 
 [1]:
 

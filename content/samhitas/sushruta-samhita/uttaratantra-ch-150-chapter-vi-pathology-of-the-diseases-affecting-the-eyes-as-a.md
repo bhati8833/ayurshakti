@@ -20,17 +20,11 @@ This chapter from **Sushruta Samhita (Uttaratantra)** represents the classical s
 
 ---
 
-
 Sushruta Samhita, Volume 6: Uttara-tantra
-
-by Kaviraj Kunja Lal Bhishagratna | 1916 | 113,078 words
 
 This current book, the Uttara-tantra (english translation) is the supplementary part of the Sushrutasamhita and deals various subjects such as diseases of the eye, treatment of fever, diarrhea, diseases resulting from superhuman influences, insanity, rules of health etc.
 
 The Sushruta Samhita is the most representative work of the Hindu system of m...
-
-Go directly to: 
-Footnotes.
 
 Chapter VI - Pathology of the diseases affecting the eyes as a whole
 
@@ -81,10 +75,6 @@ The swelling of the eye attended with a bluish red tint all about, owing to the 
 A case of Sirotpata, if not attended to and remedied in time through ignorance, gives rise to transparent and copper-coloured discharges in copious quantities from the eyes and produce a complete blindness of vision. This is known as the Sira-harsha. 20.
 
 Thus ends the sixth chapter of the Uttara-Tantra in the Sushruta Samhita which treats of the diseases affecting the eye as a whole.
-
-Footnotes and references:
-
-[back to top]
 
 [1]:
 

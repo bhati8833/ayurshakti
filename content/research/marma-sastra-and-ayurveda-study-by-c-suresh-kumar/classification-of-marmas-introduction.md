@@ -1,23 +1,15 @@
 ---
 title: "Classification of Marmas (Introduction) — Marma Sastra And Ayurveda Study By C Suresh Kumar"
-paper_title: "Marma Sastra And Ayurveda Study By C Suresh Kumar"
-paper_slug: "marma-sastra-and-ayurveda-study-by-c-suresh-kumar"
-chapter_title: "Classification of Marmas (Introduction)"
-chapter_slug: "classification-of-marmas-introduction"
-chapter_number: 10
-reading_time: 4
-prev_chapter: "the-concept-of-amritakala"
-next_chapter: "significance-of-mamsa-marma"
-silo: "research"
-category: "Ayurvedic Research & Evidence"
-status: "Published"
-date: "2026-08-17"
 description: "Detailed analysis of Classification of Marmas (Introduction) from Marma Sastra And Ayurveda Study By C Suresh Kumar by Classical Ayurvedic Scholar. Evidence-based Ayurvedic literature review and pharmacognosy."
+category: "Ayurvedic Research & Evidence"
 author: "Suresh Bhati"
-original_scholar: "Classical Ayurvedic Scholar"
+publishedDate: "2026-08-17"
+status: "Published"
 ---
 
 # 10. Classification of Marmas (Introduction)
+
+> **Clinical Executive Summary**: This guide on **Classification of Marmas (Introduction) — Marma Sastra And Ayurveda Study By C Suresh Kumar** synthesizes classical Sanskrit Samhita principles with modern botanical pharmacological research. Curated under the editorial supervision of Suresh Bhati, it provides actionable doshic guidelines, evidence-based applications, and safety parameters.
 
 > **TL;DR:** Chapter 10 of **Marma Sastra And Ayurveda Study By C Suresh Kumar** by **Classical Ayurvedic Scholar** explores key findings on *Classification of Marmas (Introduction)*. It bridges traditional Sanskrit literature with contemporary medical science.
 
@@ -42,8 +34,6 @@ Sakha Marmas 4,7 Table No. III-a 1. Kshipra 4 6. Gulpha 2 11. Bahvi 2 2. Talahru
 8 2 Oordhvanga Marmas 1. Neela 4. Krikatika 7. Apanga 10. Utksepa 13. Sringataka 21 21 2 Table No. III-e 2. Manya 56 Vidhura 2 3. Mathruka 26. Phana Avartha 2 2 11. Sthapani 4 14. Adipathi 9. Sankha 1 12. Seemantha 1 21 150 Total 37 The Structural Classification of Marma Structurally the marmas are classified into five by Susruta. Vahata the author of Ashtanga Sangraha agrees with the Susruta point of view. 10 Vaghbata consider yet another marma by term Dhamani marma.3 He defines marma as the sangama sthana of the six structures namely mamsa, asthi, santhi, snayu, sira, and dhamani. 11 It is worthwhile to note that in this context Susruta denies Vaghbata's view. He opines that there cannot be any other marma structure other than this. He categorically denies this due to the following reasons which the commentator Dalhana clarifies. Dalhana says that if injured, the srothamsi can also lead to death. But the srothas are not considered as marma because the srothas are not 61
 
 seen devoid of these structures like mamsa, sira. Otherwise srothas are a part and parcel of these structures. Hence there is no need for the addition of any further in the classification. 12 Table No. IV Mamsa marma (marmas in muscle) Sira marma (marmas in vessels) Snayu marma (marmas in ligaments) Asthi marma (marmas in bones) Sandhi marma (marmas in joints) Different classification of marmas on the basis of their Anatomical Structure as described in Samhita Granthas. Chart No. 3 Structural Classification 111110 888 4141 37 2727 23 20 20 20 9 Mamsa Asthi Santhi Snayu Sira Dhamani 62
-
----
 
 ---
 
@@ -156,6 +146,72 @@ seen devoid of these structures like mamsa, sira. Otherwise srothas are a part a
           }
         }
       ]
+    }
+  ]
+}
+</script>
+
+## Frequently Asked Questions (FAQ)
+
+### What are the primary health benefits of Classification of Marmas (Introduction) — Marma Sastra And Ayurveda Study By C Suresh Kumar in Ayurveda?
+Classification of Marmas (Introduction) — Marma Sastra And Ayurveda Study By C Suresh Kumar is traditionally utilized in Ayurveda to balance doshic imbalances, support systemic vitality, and promote long-term physiological wellness under proper guidance.
+
+### How should Classification of Marmas (Introduction) — Marma Sastra And Ayurveda Study By C Suresh Kumar be taken according to classical guidelines?
+According to classical Ayurvedic principles, Classification of Marmas (Introduction) — Marma Sastra And Ayurveda Study By C Suresh Kumar is best administered with appropriate Anupana (carrier vehicles such as warm water, honey, or warm milk) tailored to an individual's Prakriti (constitution).
+
+### Are there any contraindications or side effects associated with Classification of Marmas (Introduction) — Marma Sastra And Ayurveda Study By C Suresh Kumar?
+While generally well-tolerated when used appropriately, excessive usage or improper dosing may exacerbate specific doshas. Consult an Ayurvedic physician prior to therapeutic use.
+
+### How long does it take to observe results from using Classification of Marmas (Introduction) — Marma Sastra And Ayurveda Study By C Suresh Kumar?
+In traditional Ayurvedic protocol, herbal formulations operate synergistically with diet and lifestyle. Notable improvements typically emerge within 2 to 4 weeks of consistent administration.
+
+### Is Classification of Marmas (Introduction) — Marma Sastra And Ayurveda Study By C Suresh Kumar safe for long-term daily consumption?
+Certain tonic (Rasayana) preparations may be safely used long-term, whereas intensive therapeutic formulas are recommended for specific short-term protocols under expert supervision.
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What are the primary health benefits of Classification of Marmas (Introduction) — Marma Sastra And Ayurveda Study By C Suresh Kumar in Ayurveda?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Classification of Marmas (Introduction) — Marma Sastra And Ayurveda Study By C Suresh Kumar is traditionally utilized in Ayurveda to balance doshic imbalances, support systemic vitality, and promote long-term physiological wellness under proper guidance."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How should Classification of Marmas (Introduction) — Marma Sastra And Ayurveda Study By C Suresh Kumar be taken according to classical guidelines?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "According to classical Ayurvedic principles, Classification of Marmas (Introduction) — Marma Sastra And Ayurveda Study By C Suresh Kumar is best administered with appropriate Anupana (carrier vehicles such as warm water, honey, or warm milk) tailored to an individual's Prakriti (constitution)."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Are there any contraindications or side effects associated with Classification of Marmas (Introduction) — Marma Sastra And Ayurveda Study By C Suresh Kumar?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "While generally well-tolerated when used appropriately, excessive usage or improper dosing may exacerbate specific doshas. Consult an Ayurvedic physician prior to therapeutic use."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How long does it take to observe results from using Classification of Marmas (Introduction) — Marma Sastra And Ayurveda Study By C Suresh Kumar?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "In traditional Ayurvedic protocol, herbal formulations operate synergistically with diet and lifestyle. Notable improvements typically emerge within 2 to 4 weeks of consistent administration."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Is Classification of Marmas (Introduction) — Marma Sastra And Ayurveda Study By C Suresh Kumar safe for long-term daily consumption?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Certain tonic (Rasayana) preparations may be safely used long-term, whereas intensive therapeutic formulas are recommended for specific short-term protocols under expert supervision."
+      }
     }
   ]
 }

@@ -9,19 +9,11 @@ date: "2026-08-17"
 description: "focuses on research on Indian medicine."
 ---
 
-**Author / Source:** by Inge Wezler
-
-
-**Total Chapters/Sections:** 77
-
 ---
 
 ## 1. Volume 1 (1990)
 
-
 Journal of the European Ayurvedic Society
-
-by Inge Wezler | 1983 | 464,936 words
 
 The Journal of the European Ayurvedic Society (JEAS) focuses on research on Indian medicine. Submissions can include both philological and practical studies on Ayurveda and other indigenous Indian medical systems, including ethnomedicine and research into local plants and drugs. The “European Ayurvedic Society” Journal was founded in 1983 in Gronin...
 
@@ -33,10 +25,7 @@ Volume 1 (1990)
 
 ## 2. Samanya and Vishesha in Vaisheshika and in Ayurveda
 
-
 Journal of the European Ayurvedic Society
-
-by Inge Wezler | 1983 | 464,936 words
 
 The Journal of the European Ayurvedic Society (JEAS) focuses on research on Indian medicine. Submissions can include both philological and practical studies on Ayurveda and other indigenous Indian medical systems, including ethnomedicine and research into local plants and drugs. The “European Ayurvedic Society” Journal was founded in 1983 in Gronin...
 
@@ -100,10 +89,7 @@ In this paper we have tried to examine the way in which Ayurveda has made use of
 
 ## 3. Basic Ayurvedic Concepts in Veterinary Texts
 
-
 Journal of the European Ayurvedic Society
-
-by Inge Wezler | 1983 | 464,936 words
 
 The Journal of the European Ayurvedic Society (JEAS) focuses on research on Indian medicine. Submissions can include both philological and practical studies on Ayurveda and other indigenous Indian medical systems, including ethnomedicine and research into local plants and drugs. The “European Ayurvedic Society” Journal was founded in 1983 in Gronin...
 
@@ -127,10 +113,7 @@ Ayurvedasaukhya of Todarananda, Vol. II: Basic principles of ayurveda, edited an
 
 ## 4. Miscellaneous Ayurvedic Works
 
-
 Journal of the European Ayurvedic Society
-
-by Inge Wezler | 1983 | 464,936 words
 
 The Journal of the European Ayurvedic Society (JEAS) focuses on research on Indian medicine. Submissions can include both philological and practical studies on Ayurveda and other indigenous Indian medical systems, including ethnomedicine and research into local plants and drugs. The “European Ayurvedic Society” Journal was founded in 1983 in Gronin...
 
@@ -186,10 +169,7 @@ R.P. Das, Miscellanea de Operibus Ayurvedicis 67 as a plural. This is obviously 
 
 ## 5. Yukti, the fourth means of knowledge for physicians
 
-
 Journal of the European Ayurvedic Society
-
-by Inge Wezler | 1983 | 464,936 words
 
 The Journal of the European Ayurvedic Society (JEAS) focuses on research on Indian medicine. Submissions can include both philological and practical studies on Ayurveda and other indigenous Indian medical systems, including ethnomedicine and research into local plants and drugs. The “European Ayurvedic Society” Journal was founded in 1983 in Gronin...
 
@@ -229,10 +209,7 @@ Santaraksita's interpretation. He does not accept these two as being the real th
 
 ## 6. Sanskrit Ayurvedic Manuscripts in the British Isles
 
-
 Journal of the European Ayurvedic Society
-
-by Inge Wezler | 1983 | 464,936 words
 
 The Journal of the European Ayurvedic Society (JEAS) focuses on research on Indian medicine. Submissions can include both philological and practical studies on Ayurveda and other indigenous Indian medical systems, including ethnomedicine and research into local plants and drugs. The “European Ayurvedic Society” Journal was founded in 1983 in Gronin...
 
@@ -256,10 +233,7 @@ enquiry, for which a sound knowledge of the Nepalese script is required. The Cam
 
 ## 7. Ayurvedic manuscripts in the Cambridge University Library
 
-
 Journal of the European Ayurvedic Society
-
-by Inge Wezler | 1983 | 464,936 words
 
 The Journal of the European Ayurvedic Society (JEAS) focuses on research on Indian medicine. Submissions can include both philological and practical studies on Ayurveda and other indigenous Indian medical systems, including ethnomedicine and research into local plants and drugs. The “European Ayurvedic Society” Journal was founded in 1983 in Gronin...
 
@@ -279,10 +253,7 @@ D. Wujastyk, Sanskrit Ayurvedic Manuscripts... mahesvarapadambhojapujaprakhyatam
 
 ## 8. Ayurvedic manuscripts in the Chandra Shum Shere collection, Oxford
 
-
 Journal of the European Ayurvedic Society
-
-by Inge Wezler | 1983 | 464,936 words
 
 The Journal of the European Ayurvedic Society (JEAS) focuses on research on Indian medicine. Submissions can include both philological and practical studies on Ayurveda and other indigenous Indian medical systems, including ethnomedicine and research into local plants and drugs. The “European Ayurvedic Society” Journal was founded in 1983 in Gronin...
 
@@ -336,10 +307,7 @@ D. Wujastyk, Sanskrit Ayurvedic Manuscripts ... Leaf 30 r has: iti takradadhigun
 
 ## 9. Ayurvedic manuscripts in the British Library
 
-
 Journal of the European Ayurvedic Society
-
-by Inge Wezler | 1983 | 464,936 words
 
 The Journal of the European Ayurvedic Society (JEAS) focuses on research on Indian medicine. Submissions can include both philological and practical studies on Ayurveda and other indigenous Indian medical systems, including ethnomedicine and research into local plants and drugs. The “European Ayurvedic Society” Journal was founded in 1983 in Gronin...
 
@@ -357,10 +325,7 @@ Roga aristaya D. Wujastyk, Sanskrit Ayurvedic Manuscripts ...l On palm leaf. In 
 
 ## 10. Ravigupta’s Siddhasara: New Light from the Sinhala Version
 
-
 Journal of the European Ayurvedic Society
-
-by Inge Wezler | 1983 | 464,936 words
 
 The Journal of the European Ayurvedic Society (JEAS) focuses on research on Indian medicine. Submissions can include both philological and practical studies on Ayurveda and other indigenous Indian medical systems, including ethnomedicine and research into local plants and drugs. The “European Ayurvedic Society” Journal was founded in 1983 in Gronin...
 
@@ -404,10 +369,7 @@ This is a variant of the medical formula (Nagarjuna-varti), which is said to hav
 
 ## 11. The Origins of Ayurvedic Medicine
 
-
 Journal of the European Ayurvedic Society
-
-by Inge Wezler | 1983 | 464,936 words
 
 The Journal of the European Ayurvedic Society (JEAS) focuses on research on Indian medicine. Submissions can include both philological and practical studies on Ayurveda and other indigenous Indian medical systems, including ethnomedicine and research into local plants and drugs. The “European Ayurvedic Society” Journal was founded in 1983 in Gronin...
 
@@ -431,10 +393,7 @@ K.G. Zysk, The Indian Ascetic Traditions... 123 Ayurvedic medicine, therefore, o
 
 ## 12. The Importance of Asceticism for the Emergence of Ayurveda
 
-
 Journal of the European Ayurvedic Society
-
-by Inge Wezler | 1983 | 464,936 words
 
 The Journal of the European Ayurvedic Society (JEAS) focuses on research on Indian medicine. Submissions can include both philological and practical studies on Ayurveda and other indigenous Indian medical systems, including ethnomedicine and research into local plants and drugs. The “European Ayurvedic Society” Journal was founded in 1983 in Gronin...
 
@@ -450,10 +409,7 @@ Tieren. Ahnliches gilt, wenn zahlreiche Mittel zur Stimulierung der Sexualkraft 
 
 ## 13. Reviews and Notices (Volume 1)
 
-
 Journal of the European Ayurvedic Society
-
-by Inge Wezler | 1983 | 464,936 words
 
 The Journal of the European Ayurvedic Society (JEAS) focuses on research on Indian medicine. Submissions can include both philological and practical studies on Ayurveda and other indigenous Indian medical systems, including ethnomedicine and research into local plants and drugs. The “European Ayurvedic Society” Journal was founded in 1983 in Gronin...
 
@@ -473,10 +429,7 @@ Topane Reviews and Notices - 181 even to the subject. Shrikant Bahulkar's 'Athar
 
 ## 14. Alchemy Scenes in Jain Literature
 
-
 Journal of the European Ayurvedic Society
-
-by Inge Wezler | 1983 | 464,936 words
 
 The Journal of the European Ayurvedic Society (JEAS) focuses on research on Indian medicine. Submissions can include both philological and practical studies on Ayurveda and other indigenous Indian medical systems, including ethnomedicine and research into local plants and drugs. The “European Ayurvedic Society” Journal was founded in 1983 in Gronin...
 
@@ -520,10 +473,7 @@ spiritual qualifications: where ordinary technique is seen to fail, right faith,
 
 ## 15. State Policy Towards Indigenous Drugs in British Bengal
 
-
 Journal of the European Ayurvedic Society
-
-by Inge Wezler | 1983 | 464,936 words
 
 The Journal of the European Ayurvedic Society (JEAS) focuses on research on Indian medicine. Submissions can include both philological and practical studies on Ayurveda and other indigenous Indian medical systems, including ethnomedicine and research into local plants and drugs. The “European Ayurvedic Society” Journal was founded in 1983 in Gronin...
 
@@ -547,7 +497,7 @@ Poonam Bala, State Policy Towards Indigenous Drugs... 173 time. As a consequence
 
 process of standardisation during which the drug makers refined their products, published their formulae and the action of the products, and advertised them widely. The second was represented by the advances in the fields of bacteriology, pharmacology and immunology, as also in chemistry. The third included the development of improved techniques of industrial manufacture of drugs, such as vacuum distillation, which helped to produce drugs more cheaply. Indigenous medicine did not keep pace with these advances in western medicine, yet the interest in indigenous medicine among practitioners of western medicine, though weakened, did not disappear. Dr. E. Houseman, member of the Bengal Medical Council of Registration, for instance, proposed to train practitioners of indigenous systems so that western practitioners could obtain assistance in their practice from a knowledge of indigenous drugs and methods of treatment. For in Houseman's view, indigenous medical systems were capable of considerable expansion and improvement and 'could derive benefit from this association with western medicine." 36 35 Others in medical administration too showed continued interest in Indian medicine. Pardey Lukis, Director General of the Indian Medical Service, for instance, fervently commented on the subject of patronising these systems in his letter to the Bengal Government that 'there is much that is good in the Ayurvedic system, and there can be little doubt that for many years to come the majority of Indians will continue to be treated by this method. Not only did he recommend the establishment of definite teaching institutions and Boards of Examiners for the indigenous systems of medicine, but he also suggested that a teaching institution where indigenous methods were flourishing most be taken as the 'focus of initiating this improvement'.37 These pronouncements may be viewed in the light of pressure from Ayurvedic nationalists during the height of the national movement in India. This may have contributed to the Government's decision to found the fund the Astanga Ayurvedic College in the year 1918.38 39 To maintain Government interest, indigenous drugs such as Neem, Chirata and Anantamul, which were sold by medical men at the Medical College, were picked out from the published list, probably at the behest of the State. In the first decade of this century, the best doctors of western medicine of the Bengal Presidency, used, as pointed divided medical practitioners into two groups: one concerned with medical practice and the other with the manufacture of drugs. 35 Proceedings of the Government of India, Medical Branch, Aug. 1912. 36 37 38 Ibid. Calcutta University Commission Report, 1917-19, vols. III and VII, Calcutta 1919, pp.57 f., pp.194 f. The initial proposal to fund the college was turned down in 1910 by the Board of Directors of the Ayurvedic Medicine Manufacturing Company. See Proceedings of the Bengal Legislative Council, Jan.-Dec. 1918, Resolutions, pp.464-475. - - 39 Neem Hindi: nim, nimb, Sanskrit: nimba, botanical name: Melia azadirachta (Family Meliaceae); Chirata Hindi: cirayta, Sanskrit: kiratatikta, botanical name: Swertia chirata (Family Gentianaceae); Anantamul Hindi: hindi salsa, Sanskrit: nagajihva, botanical name: Hemidesmus indicus (Family Periplocaceae). Details from: Jain, S.K., 1968: Medicinal Plants, New Delhi, and Chopra, op. cit. -
 
-Poonam Bala, State Policy Towards Indigenous Drugs... 175 out by the Governor in Council, a well-known Ayurvedic drug called Makaradhvaja 40, for treatment of cases of typhoid and other ailments. With the continuous use of indigenous drugs in the treatment of malarial fever and bowel complaints, which had a high rate of incidence among the local population, the supply of European medicines was gradually discontinued. Ghosh, however, attributes the increasing utilization of indigenous drugs in this period to difficulties in obtaining supplies of drugs from abroad as a consequence of World War I. Accordingly, acute necessity was then felt for developing and utilising local resources as far as possible. The Englishman of Calcutta reported the cutting off of Central Europe as a source of supply of medicinal plants following the War, which probably gave impetus to the cultivation of more vegetable drugs in India. 42 In 1930, the Government appointed the Drugs Enquiry Committee to ascertain the extent to which indigenous drugs of impure quality or defective strength were manufactured and sold in British India. The appointment of this Committee was viewed by the Indian population as a move to counteract the Congress Campaign for the boycott of British drugs. Following the First World War, the drug industry in Britain expanded considerably. Prior to this Britain had relied heavily on Germany for her pharmaceutical products. The lack of supply of products due to the outbreak of war, however, forced the expansion and increase of medical experiments and research in order to meet wartime needs. A similar process operated during the Second World War. Between 1937 and 1946 sales in Britain nearly trebled to fifty-eight million pounds. Thus, in the post-war period, while research and academic laboratories continued primary research on therapeutically significant compounds, the firms investigated to develop and produce them. This marked a clear shift from research by scientists working in medical school laboratories to research by departments of commercially motivated firms. The production of antibiotics was an important achievement of these firms. On the basis of the aforementioned facts, a few points will be made in conclusion. British policy towards indigenous drugs commenced with encouragement and utilization of these drugs, at the same time spurring their clinical investigation. This represented the initial phase of the peaceful co-existence of indigenous and western forms of medicine. The increasing formalisation of medicine alongside the standardisation of drugs in Britain, however, led to tensions between the two forms of medicine. Nevertheless, the State, for reasons of economy, had an interest in promoting indigenous medicine and medical practice. Medical training, which formed an essential part of this policy, acted as a force for co-operation between the two medical systems. Since the turn of the twentieth century, with the rise of the chemical industry in Europe, western medicine posed a far greater threat to indigenous medicine than in previous years. In response to this threat, the nationalist movement called for the regeneration and extension of indigenous medicine. Nevertheless, by the end of the third decade of this century the 40 This is an Ayurvedic drug prepared from mercury, gold leaf and sublimed sulphur. The preparation involves an elaborate process of treatment and purification (sodhana) of mercury. See Chopra, pp.413-415. 41 J.C. Ghosh, Indigenous Drugs of India: their Scientific Cultivation and Manufacture, Calcutta 1918, p.31. 42 The Englishman cited in the Pharmaceutical Journal of May 9, 1917 according to Ghosh, loc. cit.
+Poonam Bala, State Policy Towards Indigenous Drugs... 175 out by the Governor in Council, a well-known Ayurvedic drug called Makaradhvaja 40, for treatment of cases of typhoid and other ailments. With the continuous use of indigenous drugs in the treatment of malarial fever and bowel complaints, which had a high rate of incidence among the local population, the supply of European medicines was gradually discontinued. Ghosh, however, attributes the increasing utilization of indigenous drugs in this period to difficulties in obtaining supplies of drugs from abroad as a consequence of World War I. Accordingly, acute necessity was then felt for developing and utilising local resources as far as possible. The Englishman of Calcutta reported the cutting off of Central Europe as a source of supply of medicinal plants following the War, which probably gave impetus to the cultivation of more vegetable drugs in India. 42 In 1930, the Government appointed the Drugs Enquiry Committee to ascertain the extent to which indigenous drugs of impure quality or defective strength were manufactured and sold in British India. The appointment of this Committee was viewed by the Indian population as a move to counteract the Congress Campaign for the boycott of British drugs. Following the First World War, the drug industry in Britain expanded considerably. Prior to this Britain had relied heavily on Germany for her pharmaceutical products. The lack of supply of products due to the outbreak of war, however, forced the expansion and increase of medical experiments and research in order to meet wartime needs. A similar process operated during the Second World War. Between 1937 and 1946 sales in Britain nearly trebled to fifty-eight million pounds. Thus, in the post-war period, while research and academic laboratories continued primary research on therapeutically significant compounds, the firms investigated to develop and produce them. This marked a clear shift from research by scientists working in medical school laboratories to research by departments of commercially motivated firms. The production of antibiotics was an important achievement of these firms. On the basis of the aforementioned facts, a few points will be made in summary. British policy towards indigenous drugs commenced with encouragement and utilization of these drugs, at the same time spurring their clinical investigation. This represented the initial phase of the peaceful co-existence of indigenous and western forms of medicine. The increasing formalisation of medicine alongside the standardisation of drugs in Britain, however, led to tensions between the two forms of medicine. Nevertheless, the State, for reasons of economy, had an interest in promoting indigenous medicine and medical practice. Medical training, which formed an essential part of this policy, acted as a force for co-operation between the two medical systems. Since the turn of the twentieth century, with the rise of the chemical industry in Europe, western medicine posed a far greater threat to indigenous medicine than in previous years. In response to this threat, the nationalist movement called for the regeneration and extension of indigenous medicine. Nevertheless, by the end of the third decade of this century the 40 This is an Ayurvedic drug prepared from mercury, gold leaf and sublimed sulphur. The preparation involves an elaborate process of treatment and purification (sodhana) of mercury. See Chopra, pp.413-415. 41 J.C. Ghosh, Indigenous Drugs of India: their Scientific Cultivation and Manufacture, Calcutta 1918, p.31. 42 The Englishman cited in the Pharmaceutical Journal of May 9, 1917 according to Ghosh, loc. cit.
 
 dominance of European drugs in the Indian market was more or less complete, thus widening the gulf between the oriental and occidental medical systems.
 
@@ -555,10 +505,7 @@ dominance of European drugs in the Indian market was more or less complete, thus
 
 ## 16. Reflections on Rasaratna-samuccaya and Rasendra-chudamani
 
-
 Journal of the European Ayurvedic Society
-
-by Inge Wezler | 1983 | 464,936 words
 
 The Journal of the European Ayurvedic Society (JEAS) focuses on research on Indian medicine. Submissions can include both philological and practical studies on Ayurveda and other indigenous Indian medical systems, including ethnomedicine and research into local plants and drugs. The “European Ayurvedic Society” Journal was founded in 1983 in Gronin...
 
@@ -574,10 +521,7 @@ Als eine der wenigen inhaltlichen Anderungen ist z.B. zu erwahnen, dass Somadeva
 
 ## 17. On Two Medical Verses in the Yuktidipika
 
-
 Journal of the European Ayurvedic Society
-
-by Inge Wezler | 1983 | 464,936 words
 
 The Journal of the European Ayurvedic Society (JEAS) focuses on research on Indian medicine. Submissions can include both philological and practical studies on Ayurveda and other indigenous Indian medical systems, including ethnomedicine and research into local plants and drugs. The “European Ayurvedic Society” Journal was founded in 1983 in Gronin...
 
@@ -633,10 +577,7 @@ studying their interrelation and historical development, is a desideratum of Ind
 
 ## 18. Volume 2 (1992)
 
-
 Journal of the European Ayurvedic Society
-
-by Inge Wezler | 1983 | 464,936 words
 
 The Journal of the European Ayurvedic Society (JEAS) focuses on research on Indian medicine. Submissions can include both philological and practical studies on Ayurveda and other indigenous Indian medical systems, including ethnomedicine and research into local plants and drugs. The “European Ayurvedic Society” Journal was founded in 1983 in Gronin...
 
@@ -648,10 +589,7 @@ Volume 2 (1992)
 
 ## 19. The Characteristics of a Dosa
 
-
 Journal of the European Ayurvedic Society
-
-by Inge Wezler | 1983 | 464,936 words
 
 The Journal of the European Ayurvedic Society (JEAS) focuses on research on Indian medicine. Submissions can include both philological and practical studies on Ayurveda and other indigenous Indian medical systems, including ethnomedicine and research into local plants and drugs. The “European Ayurvedic Society” Journal was founded in 1983 in Gronin...
 
@@ -673,10 +611,7 @@ who ardently support this thesis. Vijayaraksita states explicitly 25 that the co
 
 ## 20. Miscellaneous Ayurvedic Works (Part 2)
 
-
 Journal of the European Ayurvedic Society
-
-by Inge Wezler | 1983 | 464,936 words
 
 The Journal of the European Ayurvedic Society (JEAS) focuses on research on Indian medicine. Submissions can include both philological and practical studies on Ayurveda and other indigenous Indian medical systems, including ethnomedicine and research into local plants and drugs. The “European Ayurvedic Society” Journal was founded in 1983 in Gronin...
 
@@ -748,10 +683,7 @@ R.P. Das, Miscellanea de Operibus Ayurvedicis (II) 35 Goto Hilgenberg-Kirfel In 
 
 ## 21. Sri Lankan Medical Manuscripts in the Bodleian Library, Oxford
 
-
 Journal of the European Ayurvedic Society
-
-by Inge Wezler | 1983 | 464,936 words
 
 The Journal of the European Ayurvedic Society (JEAS) focuses on research on Indian medicine. Submissions can include both philological and practical studies on Ayurveda and other indigenous Indian medical systems, including ethnomedicine and research into local plants and drugs. The “European Ayurvedic Society” Journal was founded in 1983 in Gronin...
 
@@ -799,10 +731,7 @@ Jinadasa Liyanaratne Sri Lankan Medical Manuscripts ... 53 = vi In the above tab
 
 ## 22. On the Identity of Arka, an Ayurvedic Class of Medicines
 
-
 Journal of the European Ayurvedic Society
-
-by Inge Wezler | 1983 | 464,936 words
 
 The Journal of the European Ayurvedic Society (JEAS) focuses on research on Indian medicine. Submissions can include both philological and practical studies on Ayurveda and other indigenous Indian medical systems, including ethnomedicine and research into local plants and drugs. The “European Ayurvedic Society” Journal was founded in 1983 in Gronin...
 
@@ -830,10 +759,7 @@ Anonymous 1978 Ayurvedacharya 1951 Bhattacharya 1969 Egan-Kirk-Sawyer 1981 Meule
 
 ## 23. The Svastika antidote
 
-
 Journal of the European Ayurvedic Society
-
-by Inge Wezler | 1983 | 464,936 words
 
 The Journal of the European Ayurvedic Society (JEAS) focuses on research on Indian medicine. Submissions can include both philological and practical studies on Ayurveda and other indigenous Indian medical systems, including ethnomedicine and research into local plants and drugs. The “European Ayurvedic Society” Journal was founded in 1983 in Gronin...
 
@@ -889,10 +815,7 @@ R.E. Emmerick, The Svastika antidote 81 For vrksan aindrasanir yatha cf. gaja iv
 
 ## 24. On the Dravyaguna-sangraha of Chakrapani-datta
 
-
 Journal of the European Ayurvedic Society
-
-by Inge Wezler | 1983 | 464,936 words
 
 The Journal of the European Ayurvedic Society (JEAS) focuses on research on Indian medicine. Submissions can include both philological and practical studies on Ayurveda and other indigenous Indian medical systems, including ethnomedicine and research into local plants and drugs. The “European Ayurvedic Society” Journal was founded in 1983 in Gronin...
 
@@ -918,10 +841,7 @@ eliminated by churning etc.; it is neither too thick nor too dilute, is sweet-so
 
 ## 25. Diagnosis and Therapy of Psychosomatic Diseases
 
-
 Journal of the European Ayurvedic Society
-
-by Inge Wezler | 1983 | 464,936 words
 
 The Journal of the European Ayurvedic Society (JEAS) focuses on research on Indian medicine. Submissions can include both philological and practical studies on Ayurveda and other indigenous Indian medical systems, including ethnomedicine and research into local plants and drugs. The “European Ayurvedic Society” Journal was founded in 1983 in Gronin...
 
@@ -945,7 +865,7 @@ Schmadel-Hochkirchen, Diagnosis and therapy ... 95 Symptoms: Burning sensations 
 
 of physical origin (as he himself thought) or due to demoniac possession (as his father believed). The monk did not make the decision by himself but made a test involving a charmed "bag" placed against the forehead. The test turned out in favour of the "physical illness" version. Therefore Ayurvedic therapy was chosen, which is known to focus on the physical aspect. So the patient, though he seems passive-receptive within the therapy, was quite active and selective in his decision on whom to approach for help. We have to keep in mind that in the society in question Ayurveda is always in competition with other methods of treatment. So the Ayurvedist is under pressure to succeed, but he can also be sure that patients who come to his practice mostly share his view on health and illness theory. In his discussion of the case Obeyesekere already points out that compliance of the young man is assured by his desire to prove his father wrong and show recovery when being treated with Ayurvedic remedies. So his cooperation is indirectly secured. This corresponds to the monk's advice to the young man to show more tolerance and understanding for his parents. Case study #2 The second case is again taken from Obeyesekere's publication (Obeyesekere 1977) and concerns another patient of Dr. Alwis. The patient is a 23-year-old female. The first impression the patient leaves is that she is very depressed. Symptoms: Refuses to speak to interviewer; withdrawal; sorrowful and depressed, especially over father's death a week ago; head is bowed; cough; difficulty in breathing freely (asthmatic condition). Ayurvedic diagnosis: Unmada of the rakta-pitta type, further specified. In this case the Ayurvedic physician actually considers the possibility of a mental disease (in his differential diagnostic considerations). However, he rejects these thoughts strongly after having given them rather little attention. He turns down any doubts concerning his diagnosis that is firmly rooted in the system of three humours. The way he makes the decision carries some similarity with recent Western ways to include or exclude possible psychosocial influential factors. He investigates whether the onset of the disease coincides with any stressful incident to estimate a degree of causality from this possible correlation, to accept causality or to reject it. This model is applied much as a Western doctor would do. Particularly striking here is that a causal connection is rejected quite quickly, on the grounds of too much time lying between possible cause and onset of the disease. A week's time is here already considered too long to allow an assumption of a causal relationship. Actually, the time is probably due to a delay in reporting and presenting to the doctor. Nevertheless, the possibility of causes besides physiological ones is considered here, though only to be rejected on grounds that in Western medicine would not be considered sufficient. The model that the doctor uses allows for exceptions; since he carefully excludes a psychological etiology, he obviously regards this to be possible in principle. Although he denies any psychological causation in this case he does connect the symptomatology to the incidence in question: the patient's father's death. The derangement of the tri-humoral system dates from the exhaustion of the patient due to spending
 
-Schmadel-Hochkirchen, Diagnosis and therapy ... 97 so much time awake attending her father during his illness. Thus can be demonstrated that the tridosa-theory offers explanations for mental symptoms. It involves a concept compromising between ancient Sanskrit texts and Buddhist theories regarding the location of mind and soul functions; Dr. Alwis states: 'Mind is not an organism; its seat is the heart and its "office" is in the brain' (Obeyesekere 1977: 175). Regarding the treatment procedures themselves, the physician pays most attention to the asthma problem and attaches secondary importance to the symptoms of madness. It is interesting to learn about the initial effect of the treatment: the patient's condition worsened at first. That is explained as being temporary only. Moreover, it was foreseeable and actually foreseen (predicted) by the physician: it is pointed out that patients are even warned about this reaction. The explanation given is: humours are being attacked directly (and fighting back, presumably). On the whole, the peak and most important part of the therapy can be labelled as: cleansing the system. Regarding the outcome of the therapy, Obeyesekere notes that the doctor was quite pleased with the result, whereas the patient might still have had some minor problems to overcome. Obeyesekere, in his view on the case, gives some psychodynamical explanations based on empathetical understanding of the patient's situation. Conclusion out of case studies #1 and #2 Regarding the two cases (both treated by Dr. Alwis) taken from Obeyesekere's studies, we might conclude: Two cases were diagnosed and treated in an Ayurvedic practice according to Ayurvedic traditions. In both cases mainstream Western medicine would, based on the given symptomatology, distinguish dichotomously between somatic and psychological factors. A majority of general practitioners would arrive at the conclusion that nonorganic factors play a major role in the etiology. Diagnoses would be something like somatoform disorder due to psychological factors and reactive depression respectively. Treatment would include psychosomatic approaches, maybe medication too, the latter primarily directed at the nervous system. Somatic symptoms would be expected to decrease once the psychological problems are addressed and properly taken care of. In both cases mentioned, the Ayurvedic physician takes the psychological symptoms down very carefully, and uses them to establish his diagnoses, deeply rooted within the Ayurvedic tradition and formulated within the tri-humoral framework. Therapy follows in the same line of reasoning: treatment is physically oriented to change the humours in the body, then the mental symptoms will disappear too. According to the reports, they in fact did disappear, with slight residual symptomatology in one case. Patients' attribution of mental symptoms to physiological causes In addition to this it is worth mentioning that in a broadly-based study Mitchell Weiss (Weiss 1988) investigated psychiatric patients' illness theories and compared them to their relatives' attitudes. In conclusion, Weiss found a great attribution specifically of mental and emotional symptoms to derangements of balance of the three humours. So, on the whole, Ayurvedic physicians can be sure of a large proportion of possible patients in society sharing their views on health and illness (illness-theory).
+Schmadel-Hochkirchen, Diagnosis and therapy ... 97 so much time awake attending her father during his illness. Thus can be demonstrated that the tridosa-theory offers explanations for mental symptoms. It involves a concept compromising between ancient Sanskrit texts and Buddhist theories regarding the location of mind and soul functions; Dr. Alwis states: 'Mind is not an organism; its seat is the heart and its "office" is in the brain' (Obeyesekere 1977: 175). Regarding the treatment procedures themselves, the physician pays most attention to the asthma problem and attaches secondary importance to the symptoms of madness. It is interesting to learn about the initial effect of the treatment: the patient's condition worsened at first. That is explained as being temporary only. Moreover, it was foreseeable and actually foreseen (predicted) by the physician: it is pointed out that patients are even warned about this reaction. The explanation given is: humours are being attacked directly (and fighting back, presumably). On the whole, the peak and most important part of the therapy can be labelled as: cleansing the system. Regarding the outcome of the therapy, Obeyesekere notes that the doctor was quite pleased with the result, whereas the patient might still have had some minor problems to overcome. Obeyesekere, in his view on the case, gives some psychodynamical explanations based on empathetical understanding of the patient's situation. Conclusion out of case studies #1 and #2 Regarding the two cases (both treated by Dr. Alwis) taken from Obeyesekere's studies, we might conclude: Two cases were diagnosed and treated in an Ayurvedic practice according to Ayurvedic traditions. In both cases mainstream Western medicine would, based on the given symptomatology, distinguish dichotomously between somatic and psychological factors. A majority of general practitioners would arrive at the conclusion that nonorganic factors play a major role in the etiology. Diagnoses would be something like somatoform disorder due to psychological factors and reactive depression respectively. Treatment would include psychosomatic approaches, maybe medication too, the latter primarily directed at the nervous system. Somatic symptoms would be expected to decrease once the psychological problems are addressed and properly taken care of. In both cases mentioned, the Ayurvedic physician takes the psychological symptoms down very carefully, and uses them to establish his diagnoses, deeply rooted within the Ayurvedic tradition and formulated within the tri-humoral framework. Therapy follows in the same line of reasoning: treatment is physically oriented to change the humours in the body, then the mental symptoms will disappear too. According to the reports, they in fact did disappear, with slight residual symptomatology in one case. Patients' attribution of mental symptoms to physiological causes In addition to this it is worth mentioning that in a broadly-based study Mitchell Weiss (Weiss 1988) investigated psychiatric patients' illness theories and compared them to their relatives' attitudes. In summary, Weiss found a great attribution specifically of mental and emotional symptoms to derangements of balance of the three humours. So, on the whole, Ayurvedic physicians can be sure of a large proportion of possible patients in society sharing their views on health and illness (illness-theory).
 
 Comparison of a DSM III-R-casebook-study with a case taken from an Ayurvedic practice ('seizures') Case out of the casebook In the DSM III-R casebook, there is a chapter dealing with international psychiatric cases from various cultures, interpreted from a Western viewpoint (Spitzer 1989). The only case that is taken from India is a 26-year-old female patient suffering from seizures, very much resembling epileptic convulsions. But the absence of typical features of organic seizures such as incontinence and biting of the tongue is taken to suspect a nonorganic etiology. This is further substantiated by a normal encephalogram. The casebook suggests the diagnosis 'Conversion Disorder, Recurrent' (DSM III-R-category: 300.11). Western-style treatment in this case was family therapy dealing with themes like 'when to give attention to whom in the family', 'whether to assume an active or passive role in the family', 'responsibilities when three generations are living together', and discussion of life style changes, which steps to take next, etc. No other therapy apart from this is mentioned. Case treated with Ayurvedic medicine Out of the video-material we have gathered so far from Ayurvedic consultations, we chose a case that matches the casebook one as closely as possible. It is a 21-year-old female coming to the consultation along with her parents. According to the Ayurvedic physician Dr. Narendra Bhatt's information, there presumably is now at least a strong nonorganic component, taking the encephalogram etc. into account. The symptomatology in many ways resembles that of the DSM III-R casebook (Spitzer 1989), except that for various reasons the outlook regarding attempts at providing psychological guidance seems poorer in the Ayurvedic physician's case. The patient does not have a family of her own yet, she seems much more dependent on her parents and more impaired by the illness on the whole. From the perspective of Western psychology this might mean less room for possible psychological manoeuvres as long as independence from the parents is not achieved. This would be a goal in individualistic or family-oriented Western psychotherapy. In the observed Ayurvedic treatment of this case, treatment focuses on continued medication, dietary prescriptions and behavioural advice. The latter includes the family, and this behavioural approach includes contents resembling the Western-styled strategy mentioned above. Conclusion regarding this comparison The physician, Dr. Bhatt, is a leading Ayurvedic doctor in Bombay, but also holds a degree in biology and is well travelled to international university departments. He represents Ayurveda in transition. His comments on the case show that he regards psychological aspects as quite important for the course of this particular treatment. However, he does not foster insight very much, but uses manipulative directives. The course of the consultation we filmed shows a gap between the physician's attitude to the case and in Western terms - the overprotective attitude of the parents towards their daughter. -
 
@@ -957,10 +877,7 @@ Schmadel-Hochkirchen, Diagnosis and therapy ... 99 Here it becomes clear that a 
 
 ## 26. Regarding Phenaka (trtiyakah phenakah)
 
-
 Journal of the European Ayurvedic Society
-
-by Inge Wezler | 1983 | 464,936 words
 
 The Journal of the European Ayurvedic Society (JEAS) focuses on research on Indian medicine. Submissions can include both philological and practical studies on Ayurveda and other indigenous Indian medical systems, including ethnomedicine and research into local plants and drugs. The “European Ayurvedic Society” Journal was founded in 1983 in Gronin...
 
@@ -988,10 +905,7 @@ S.R. Sarma, Trtiyakah phenakah 121 vessel with a narrow mouth in which is kept t
 
 ## 27. Indian contributions to traditional Khmer medicine
 
-
 Journal of the European Ayurvedic Society
-
-by Inge Wezler | 1983 | 464,936 words
 
 The Journal of the European Ayurvedic Society (JEAS) focuses on research on Indian medicine. Submissions can include both philological and practical studies on Ayurveda and other indigenous Indian medical systems, including ethnomedicine and research into local plants and drugs. The “European Ayurvedic Society” Journal was founded in 1983 in Gronin...
 
@@ -1031,10 +945,7 @@ Summary: Although we are by now quite familiar with the part played by India in 
 
 ## 28. Investigations on Nimba Arishta
 
-
 Journal of the European Ayurvedic Society
-
-by Inge Wezler | 1983 | 464,936 words
 
 The Journal of the European Ayurvedic Society (JEAS) focuses on research on Indian medicine. Submissions can include both philological and practical studies on Ayurveda and other indigenous Indian medical systems, including ethnomedicine and research into local plants and drugs. The “European Ayurvedic Society” Journal was founded in 1983 in Gronin...
 
@@ -1068,10 +979,7 @@ Kroes, van den Berg, de Silva, Labadie, Nimba arishta... REFERENCES 133 Ayurveda
 
 ## 29. The Jain fascination with alchemy
 
-
 Journal of the European Ayurvedic Society
-
-by Inge Wezler | 1983 | 464,936 words
 
 The Journal of the European Ayurvedic Society (JEAS) focuses on research on Indian medicine. Submissions can include both philological and practical studies on Ayurveda and other indigenous Indian medical systems, including ethnomedicine and research into local plants and drugs. The “European Ayurvedic Society” Journal was founded in 1983 in Gronin...
 
@@ -1117,10 +1025,7 @@ N. Balbir, La fascination jaina pour l'alchimie 149 Doctrine, il leur faut tout 
 
 ## 30. Alchemy and Sacred Geography in the Mediaeval Deccan
 
-
 Journal of the European Ayurvedic Society
-
-by Inge Wezler | 1983 | 464,936 words
 
 The Journal of the European Ayurvedic Society (JEAS) focuses on research on Indian medicine. Submissions can include both philological and practical studies on Ayurveda and other indigenous Indian medical systems, including ethnomedicine and research into local plants and drugs. The “European Ayurvedic Society” Journal was founded in 1983 in Gronin...
 
@@ -1146,10 +1051,7 @@ A. Rosu, Alchemy and Sacred Geography... 157 Acknowledgements Thanks are due to 
 
 ## 31. Indian Medicine and Spirituality
 
-
 Journal of the European Ayurvedic Society
-
-by Inge Wezler | 1983 | 464,936 words
 
 The Journal of the European Ayurvedic Society (JEAS) focuses on research on Indian medicine. Submissions can include both philological and practical studies on Ayurveda and other indigenous Indian medical systems, including ethnomedicine and research into local plants and drugs. The “European Ayurvedic Society” Journal was founded in 1983 in Gronin...
 
@@ -1221,10 +1123,7 @@ R.P. Das, Indische Medizin und Spiritualitat 187 Zeitalter. Auch der Interaktion
 
 ## 32. Reviews and Notices (Volume 2)
 
-
 Journal of the European Ayurvedic Society
-
-by Inge Wezler | 1983 | 464,936 words
 
 The Journal of the European Ayurvedic Society (JEAS) focuses on research on Indian medicine. Submissions can include both philological and practical studies on Ayurveda and other indigenous Indian medical systems, including ethnomedicine and research into local plants and drugs. The “European Ayurvedic Society” Journal was founded in 1983 in Gronin...
 
@@ -1268,10 +1167,7 @@ All this should not be taken to be mere piddling carping, since it has to do wit
 
 ## 33. Other Publications Received (Volume 2)
 
-
 Journal of the European Ayurvedic Society
-
-by Inge Wezler | 1983 | 464,936 words
 
 The Journal of the European Ayurvedic Society (JEAS) focuses on research on Indian medicine. Submissions can include both philological and practical studies on Ayurveda and other indigenous Indian medical systems, including ethnomedicine and research into local plants and drugs. The “European Ayurvedic Society” Journal was founded in 1983 in Gronin...
 
@@ -1289,10 +1185,7 @@ Other Publications Received 207 Keudell, Theodor von: Die sanfte Heilkunst. Ayur
 
 ## 34. Volume 3 (1993)
 
-
 Journal of the European Ayurvedic Society
-
-by Inge Wezler | 1983 | 464,936 words
 
 The Journal of the European Ayurvedic Society (JEAS) focuses on research on Indian medicine. Submissions can include both philological and practical studies on Ayurveda and other indigenous Indian medical systems, including ethnomedicine and research into local plants and drugs. The “European Ayurvedic Society” Journal was founded in 1983 in Gronin...
 
@@ -1304,10 +1197,7 @@ Volume 3 (1993)
 
 ## 35. In search of underground treasures
 
-
 Journal of the European Ayurvedic Society
-
-by Inge Wezler | 1983 | 464,936 words
 
 The Journal of the European Ayurvedic Society (JEAS) focuses on research on Indian medicine. Submissions can include both philological and practical studies on Ayurveda and other indigenous Indian medical systems, including ethnomedicine and research into local plants and drugs. The “European Ayurvedic Society” Journal was founded in 1983 in Gronin...
 
@@ -1401,10 +1291,7 @@ N. Balbir, A la recherche des tresors souterrains 55 jaina, ainsi Km 104.19* (dh
 
 ## 36. Indo-Iranian Concepts of Disease and Cure
 
-
 Journal of the European Ayurvedic Society
-
-by Inge Wezler | 1983 | 464,936 words
 
 The Journal of the European Ayurvedic Society (JEAS) focuses on research on Indian medicine. Submissions can include both philological and practical studies on Ayurveda and other indigenous Indian medical systems, including ethnomedicine and research into local plants and drugs. The “European Ayurvedic Society” Journal was founded in 1983 in Gronin...
 
@@ -1460,10 +1347,7 @@ R.E. Emmerick, Indo-Iranian Concepts of Disease and Cure 93 Justi, Handbuch Kell
 
 ## 37. Caraka’s Proof of Rebirth
 
-
 Journal of the European Ayurvedic Society
-
-by Inge Wezler | 1983 | 464,936 words
 
 The Journal of the European Ayurvedic Society (JEAS) focuses on research on Indian medicine. Submissions can include both philological and practical studies on Ayurveda and other indigenous Indian medical systems, including ethnomedicine and research into local plants and drugs. The “European Ayurvedic Society” Journal was founded in 1983 in Gronin...
 
@@ -1511,10 +1395,7 @@ P.-S. Filliozat, Caraka's Proof of Rebirth 111 it is a part of the system; it is
 
 ## 38. Sleep according to Caraka
 
-
 Journal of the European Ayurvedic Society
-
-by Inge Wezler | 1983 | 464,936 words
 
 The Journal of the European Ayurvedic Society (JEAS) focuses on research on Indian medicine. Submissions can include both philological and practical studies on Ayurveda and other indigenous Indian medical systems, including ethnomedicine and research into local plants and drugs. The “European Ayurvedic Society” Journal was founded in 1983 in Gronin...
 
@@ -1542,10 +1423,7 @@ Buser, K.; Kaul-Hecker, U. (1991): Medizinische Psychologie, Medizinische Soziol
 
 ## 39. The Abhinava-Madhavanidana of Rajaguru Kavicandra
 
-
 Journal of the European Ayurvedic Society
-
-by Inge Wezler | 1983 | 464,936 words
 
 The Journal of the European Ayurvedic Society (JEAS) focuses on research on Indian medicine. Submissions can include both philological and practical studies on Ayurveda and other indigenous Indian medical systems, including ethnomedicine and research into local plants and drugs. The “European Ayurvedic Society” Journal was founded in 1983 in Gronin...
 
@@ -1607,10 +1485,7 @@ Ch Abbreviations AbMa Ah Car Ci Abhinava-Madhavanidana Astangahrdaya-Samhita, ed
 
 ## 40. Maharishi Ayur-Veda
 
-
 Journal of the European Ayurvedic Society
-
-by Inge Wezler | 1983 | 464,936 words
 
 The Journal of the European Ayurvedic Society (JEAS) focuses on research on Indian medicine. Submissions can include both philological and practical studies on Ayurveda and other indigenous Indian medical systems, including ethnomedicine and research into local plants and drugs. The “European Ayurvedic Society” Journal was founded in 1983 in Gronin...
 
@@ -1664,10 +1539,7 @@ D. von Schmadel, Ayurveda - Quo vadis? 249 Summary: Maharishi Ayur-Ved(a) (MA) c
 
 ## 41. An unpublished Jesuit work on Indian phytotherapy
 
-
 Journal of the European Ayurvedic Society
-
-by Inge Wezler | 1983 | 464,936 words
 
 The Journal of the European Ayurvedic Society (JEAS) focuses on research on Indian medicine. Submissions can include both philological and practical studies on Ayurveda and other indigenous Indian medical systems, including ethnomedicine and research into local plants and drugs. The “European Ayurvedic Society” Journal was founded in 1983 in Gronin...
 
@@ -1789,10 +1661,7 @@ aleanna A. Maroudani. Sorte d'arbrisseau qui viene trave d'environ dix- pieds- L
 
 ## 42. Kokkoka’s Ratirahasya translated and explained (Part 1)
 
-
 Journal of the European Ayurvedic Society
-
-by Inge Wezler | 1983 | 464,936 words
 
 The Journal of the European Ayurvedic Society (JEAS) focuses on research on Indian medicine. Submissions can include both philological and practical studies on Ayurveda and other indigenous Indian medical systems, including ethnomedicine and research into local plants and drugs. The “European Ayurvedic Society” Journal was founded in 1983 in Gronin...
 
@@ -1864,10 +1733,7 @@ K. Mylius, Kokkokas Ratirahasya (I) 173 wird erklart: die Wiedervereinigung nach
 
 ## 43. On the Nature and Development of ‘Traditional Indian Medicine’
 
-
 Journal of the European Ayurvedic Society
-
-by Inge Wezler | 1983 | 464,936 words
 
 The Journal of the European Ayurvedic Society (JEAS) focuses on research on Indian medicine. Submissions can include both philological and practical studies on Ayurveda and other indigenous Indian medical systems, including ethnomedicine and research into local plants and drugs. The “European Ayurvedic Society” Journal was founded in 1983 in Gronin...
 
@@ -1911,10 +1777,7 @@ R.P. Das, 'Traditional Indian Medicine' 71 the lack of tools on which to base in
 
 ## 44. The Yuktidipika and the History of Indian Medicine
 
-
 Journal of the European Ayurvedic Society
-
-by Inge Wezler | 1983 | 464,936 words
 
 The Journal of the European Ayurvedic Society (JEAS) focuses on research on Indian medicine. Submissions can include both philological and practical studies on Ayurveda and other indigenous Indian medical systems, including ethnomedicine and research into local plants and drugs. The “European Ayurvedic Society” Journal was founded in 1983 in Gronin...
 
@@ -1972,10 +1835,7 @@ CC 2.3.31: masaparna-bhrtiye 'smin CC 3.255: matrasitiye nirdistah CC 21.138: dv
 
 ## 45. Biology in Bhaskarakantha’s Cittanubodhasastra
 
-
 Journal of the European Ayurvedic Society
-
-by Inge Wezler | 1983 | 464,936 words
 
 The Journal of the European Ayurvedic Society (JEAS) focuses on research on Indian medicine. Submissions can include both philological and practical studies on Ayurveda and other indigenous Indian medical systems, including ethnomedicine and research into local plants and drugs. The “European Ayurvedic Society” Journal was founded in 1983 in Gronin...
 
@@ -2051,10 +1911,7 @@ W. Slaje, Merkmale des Lebendigen 281 to Schmithausen's observation. The work is
 
 ## 46. Fundamentals of the Phenomenology of Ayurveda
 
-
 Journal of the European Ayurvedic Society
-
-by Inge Wezler | 1983 | 464,936 words
 
 The Journal of the European Ayurvedic Society (JEAS) focuses on research on Indian medicine. Submissions can include both philological and practical studies on Ayurveda and other indigenous Indian medical systems, including ethnomedicine and research into local plants and drugs. The “European Ayurvedic Society” Journal was founded in 1983 in Gronin...
 
@@ -2098,10 +1955,7 @@ taken in its specific framework of thought. For the phenomenology of Ayurveda th
 
 ## 47. Volume 4 (1995)
 
-
 Journal of the European Ayurvedic Society
-
-by Inge Wezler | 1983 | 464,936 words
 
 The Journal of the European Ayurvedic Society (JEAS) focuses on research on Indian medicine. Submissions can include both philological and practical studies on Ayurveda and other indigenous Indian medical systems, including ethnomedicine and research into local plants and drugs. The “European Ayurvedic Society” Journal was founded in 1983 in Gronin...
 
@@ -2113,10 +1967,7 @@ Volume 4 (1995)
 
 ## 48. Astanga Sangraha, Kalpasthana II: Translation and Notes
 
-
 Journal of the European Ayurvedic Society
-
-by Inge Wezler | 1983 | 464,936 words
 
 The Journal of the European Ayurvedic Society (JEAS) focuses on research on Indian medicine. Submissions can include both philological and practical studies on Ayurveda and other indigenous Indian medical systems, including ethnomedicine and research into local plants and drugs. The “European Ayurvedic Society” Journal was founded in 1983 in Gronin...
 
@@ -2194,10 +2045,7 @@ K.G. Zysk, Astangasangraha, Kalpasthana II 351 royal consumption (rajayaksmin) s
 
 ## 49. The Many Faces of Ayurveda
 
-
 Journal of the European Ayurvedic Society
-
-by Inge Wezler | 1983 | 464,936 words
 
 The Journal of the European Ayurvedic Society (JEAS) focuses on research on Indian medicine. Submissions can include both philological and practical studies on Ayurveda and other indigenous Indian medical systems, including ethnomedicine and research into local plants and drugs. The “European Ayurvedic Society” Journal was founded in 1983 in Gronin...
 
@@ -2229,10 +2077,7 @@ the revival, Gangadhara, a resident of Bengal, born in 1789, and a very prolific
 
 ## 50. Astanga Sangraha, Kalpasthana III: Translation and Notes
 
-
 Journal of the European Ayurvedic Society
-
-by Inge Wezler | 1983 | 464,936 words
 
 The Journal of the European Ayurvedic Society (JEAS) focuses on research on Indian medicine. Submissions can include both philological and practical studies on Ayurveda and other indigenous Indian medical systems, including ethnomedicine and research into local plants and drugs. The “European Ayurvedic Society” Journal was founded in 1983 in Gronin...
 
@@ -2302,10 +2147,7 @@ K.G. Zysk, Astangasangraha, Kalpasthana III 53 Cakra), which is old, not infused
 
 ## 51. A Note on the Sanskrit Word Svastha
 
-
 Journal of the European Ayurvedic Society
-
-by Inge Wezler | 1983 | 464,936 words
 
 The Journal of the European Ayurvedic Society (JEAS) focuses on research on Indian medicine. Submissions can include both philological and practical studies on Ayurveda and other indigenous Indian medical systems, including ethnomedicine and research into local plants and drugs. The “European Ayurvedic Society” Journal was founded in 1983 in Gronin...
 
@@ -2383,10 +2225,7 @@ M. Hara, A Note on the Sanskrit Word Svastha Abhijnanasakuntala Arthasastra Avim
 
 ## 52. On Varttika 1 on Panini's Astadhyayi 6.4.24
 
-
 Journal of the European Ayurvedic Society
-
-by Inge Wezler | 1983 | 464,936 words
 
 The Journal of the European Ayurvedic Society (JEAS) focuses on research on Indian medicine. Submissions can include both philological and practical studies on Ayurveda and other indigenous Indian medical systems, including ethnomedicine and research into local plants and drugs. The “European Ayurvedic Society” Journal was founded in 1983 in Gronin...
 
@@ -2426,7 +2265,7 @@ T. Yagi, Varttika 1 on Panini's Astadhyayi 6.4.24 101 ate n does not occur if (t
 
 T. Yagi, Varttika 1 on Panini's Astadhyayi 6.4.24 103 3) The words salasara- and khadirasara- appear in, among others, Susrutasamhita, Cikitsasthana. In 10.13 (khadiram paritah khanayitva... rasagrahanasamarthah... khadirasaratulam udakadrone vipacya... sarvavrksasaresu... khadirasaracurnatulam khadirasarakvathamatram va...), the word khadirasara- would mean 'the pith of a Cutch tree' or 'aromatic gum-resin (which has already become solid,) of a Cutch tree'. And the words khadirodaka- in 10.15 and khadiravari-/khadirambu- in 9.66 mean 'decoction/infusion of a Cutch tree' (=khadirasarakvatha-/khadirasarakasaya-). The same holds for the word salasara- in 10.10 (salasaradinam saracurnaprastham ahrtya ... salasaradikasayena ...). 4) Does the first member sala- mean '(a) Sal tree/wood (Shorea robusta)' as the first member khadira- means 'a Cutch tree'? Or, does the word salasara- mean a herb different from sala- 'a Cutch tree', that is, 'Ferula assafoetida', or 'gum-resin of the herb (Assafoetida)', as is given in PW?36 5) What does the word bala- mean, 'strength' as it is usually interpreted, or something else? The followers of the Kasika, to say nothing of modern translators of the Astadhyayi, interpret it as expressing 'strength'. If the word bala- meant 'strength', the meaning would not be compatible with the condition 'an unstable agent' so long as the word sara- is analysed as follows: sarayati cestayatiti krtva, atrapy antarbhavitanyarthah saratih (Haradatta). This is nothing but a strained interpretation because a causal agent is not an unstable agent, but a stable agent. Both the Kasika and Kaiyata keep silent with regard to the meaning of the word bala-, which causes the strained interpretation of, among others, Haradatta, and the misunderstanding of modern translators, and which means either that they do not think it necessary to explain the meaning of the word balabecause it is well known, or that they do not understand what the word bala- means. A clue to the present problem lies, I believe, in the interpretations of certain lexicographers. The meaning 'aromatic gum-resin', that is, 'a kind of myrrh', is given to the word bala- in such lexicons as TrikandaBoth the herb and its gum-resin are usually expressed by the word hingu-.
 
-sesa (3.3.956), Visvaprakasa (p.148, balam gandharase), Sabdaratnavali (p.278), Medinikosa (p.147), Sivakosa (p.40) and Anekarthasangraha (p. 41, balam... bole; Cf. Amarakosa 2.9.104). Therefore the word saracould be analysed as follows: saratiti sarah. The word sara- etymologically expresses an unstable agent such as 'that which flows', and conventionally 'aromatic gum-resin', that is, 'a kind of myrrh'. The fact may be that these lexicographers, who face the present portion of the Mahabhasya and are at a loss how to interpret the word bala-, resort to the convenient interpretation that the word bala- is synonymous with the word gandharasa- 'a kind of myrrh'. But I follow them because I think that this interpretation is the most reasonable, though it is regrettable that the word bala- in the sense of myrrh has not been attested. With regard to the word visara- 'a specific kind of fish which is so named', there is no problem. This word is analysed, for example, as vividham sarati 'that which flows variously' (Haradatta). Concerning the word atisara- 'diarrhoea/dysentery', I follow, for example, the analysis of the Madhukosa on the Madhavanidana 3.4: sarati gacchaty ativa 'that which flows excessively', that is, 'that which goes excessively' (= Susrutasamhita, Uttara.40.6), rejecting that of Haradatta (sarirantaravasthitam rudhiradidravyam sarayati) or that of Astangahrdaya 8.16. In conclusion, I propose, as a working hypothesis, the following interpretation: 'It must be laid down, [as an additional rule,] that [the primary suffix -a {ghan} is applied to the root sr even if its derivatives express unstable agents] only when the senses "a specific kind of disease", "a specific kind of fish" and "a specific kind of 19 aromatic gum-resin" are to be expressed. [Thus the word] atihsara- is [to mean etymologically "that which flows excessively" and conventionally] "a specific kind of disease" (vyadhi-) [which is called atisara- "diarrhoea/dysentery"]. [The word] visara- is [to mean etymologically "that which flows variously" and conventionally] "a specific kind of fish" (matsya-) [which is called visara-]. In [the sense of] "a specific kind of aromatic gumresin" (bale), [the words] salasara- and khadirasara- [are respectively used. In the case of the word salasara-, the first member sala- expresses "a Sal tree" while the second member sara- etymologically means "that which flows" and conventionally "aromatic gum-resin". Thus the compound salasara-
+sesa (3.3.956), Visvaprakasa (p.148, balam gandharase), Sabdaratnavali (p.278), Medinikosa (p.147), Sivakosa (p.40) and Anekarthasangraha (p. 41, balam... bole; Cf. Amarakosa 2.9.104). Therefore the word saracould be analysed as follows: saratiti sarah. The word sara- etymologically expresses an unstable agent such as 'that which flows', and conventionally 'aromatic gum-resin', that is, 'a kind of myrrh'. The fact may be that these lexicographers, who face the present portion of the Mahabhasya and are at a loss how to interpret the word bala-, resort to the convenient interpretation that the word bala- is synonymous with the word gandharasa- 'a kind of myrrh'. But I follow them because I think that this interpretation is the most reasonable, though it is regrettable that the word bala- in the sense of myrrh has not been attested. With regard to the word visara- 'a specific kind of fish which is so named', there is no problem. This word is analysed, for example, as vividham sarati 'that which flows variously' (Haradatta). Concerning the word atisara- 'diarrhoea/dysentery', I follow, for example, the analysis of the Madhukosa on the Madhavanidana 3.4: sarati gacchaty ativa 'that which flows excessively', that is, 'that which goes excessively' (= Susrutasamhita, Uttara.40.6), rejecting that of Haradatta (sarirantaravasthitam rudhiradidravyam sarayati) or that of Astangahrdaya 8.16. In summary, I propose, as a working hypothesis, the following interpretation: 'It must be laid down, [as an additional rule,] that [the primary suffix -a {ghan} is applied to the root sr even if its derivatives express unstable agents] only when the senses "a specific kind of disease", "a specific kind of fish" and "a specific kind of 19 aromatic gum-resin" are to be expressed. [Thus the word] atihsara- is [to mean etymologically "that which flows excessively" and conventionally] "a specific kind of disease" (vyadhi-) [which is called atisara- "diarrhoea/dysentery"]. [The word] visara- is [to mean etymologically "that which flows variously" and conventionally] "a specific kind of fish" (matsya-) [which is called visara-]. In [the sense of] "a specific kind of aromatic gumresin" (bale), [the words] salasara- and khadirasara- [are respectively used. In the case of the word salasara-, the first member sala- expresses "a Sal tree" while the second member sara- etymologically means "that which flows" and conventionally "aromatic gum-resin". Thus the compound salasara-
 
 T. Yagi, Varttika 1 on Panini's Astadhyayi 6.4.24 "aromatic gum-resin extracted from Sal wood" conventionally means "a specific kind of aromatic gum-resin" which is called salasara- because the gum-resin is secreted by a Sal tree.37 The same holds for the word khadirasara- "Catechu", for this is extracted from Cutch wood 38,39 LITERATURE CITED OR OTHERWISE USED 105 Abhidhanacintamani, ed. O. Bohtlingk and C. Rieu (Hemacandra's Abhidhanacintamani). Reprint Osnabruck 1972. Abhidhanaratnamala, ed. T. Aufrecht (Halayudha's Abhidhanaratnamala). Reprint Delhi 1975. Agrawala, V.S.: India as Known to Panini. Lucknow 1953. Amarakosa, ed. A.A. Ramanathan (with the Unpublished South Indian Commentaries). Madras 1971-1983. Ambasta, S.P. et al.: The Useful Plants of India. New Delhi 1986. Anekarthasangraha, ed. J. Hosinga et al. Varanasi 1969 (Kashi Sanskrit Series 68). Astadhyayi, ed. O. Bohtlingk (Panini's Grammatik). Reprint Hildesheim 1977. ed. S.M. Katre (Astadhyayi of Panini). Delhi 1989. ed. L. Renou (La Grammaire de Panini). Paris 1966. ed. S.C. Vasu (The Astadhyayi of Panini). Reprint Delhi 1962. Astangahrdaya, ed. H.P. Vaidya (with Arunadatta's Sarvangasundara and Hemadri's Ayurvedarasayana). Reprint Varanasi 1982. Asvalayanagrhyasutra, T. Ganapati Sastri (The Asvalayanagrhyasutra). Reprint Delhi 1985. Baudhayanapitrmedhasutra, contained in the Baudhayanagrhyasutra, ed. R. Sharma Sastri (The Bodhayanagrhyasutra). Reprint New Delhi 1982. 37 The salasara- probably corresponds to rala- etc. in the Rajanighantu p.119; cf. Amarakosa 2.6.127, Abhidhanacintamani p.118 and Dalhana on Susrutasamhita, Uttara. 51.51 salaniryaso rala, and rala- (m./f.) in Hemacandra's Linganusasana 82 and Paramanandiyanamamala 3647. 38 Cf. Rajanighantu, p.13. 39 I would like to express my deepest gratitude to Prof.Dr. Rahul Peter Das for having had the kindness to give valuable comments on my drafts and clear up some misunderstandings. Prof.Dr. Albrecht Wezler too commented upon a draft.
 
@@ -2440,10 +2279,7 @@ Vacaspatyam by T. Tarkavachaspati, Vols.I-VI. Reprint Varanasi 1969 (Chowkhamba 
 
 ## 53. Female “Fertility” in the Thought of Vedic Indians
 
-
 Journal of the European Ayurvedic Society
-
-by Inge Wezler | 1983 | 464,936 words
 
 The Journal of the European Ayurvedic Society (JEAS) focuses on research on Indian medicine. Submissions can include both philological and practical studies on Ayurveda and other indigenous Indian medical systems, including ethnomedicine and research into local plants and drugs. The “European Ayurvedic Society” Journal was founded in 1983 in Gronin...
 
@@ -2535,10 +2371,7 @@ general meaning of which is '(belonging to) a division of time, period, season' 
 
 ## 54. A Rasashastra Motif in Mughal Painting
 
-
 Journal of the European Ayurvedic Society
-
-by Inge Wezler | 1983 | 464,936 words
 
 The Journal of the European Ayurvedic Society (JEAS) focuses on research on Indian medicine. Submissions can include both philological and practical studies on Ayurveda and other indigenous Indian medical systems, including ethnomedicine and research into local plants and drugs. The “European Ayurvedic Society” Journal was founded in 1983 in Gronin...
 
@@ -2578,10 +2411,7 @@ Figure 3
 
 ## 55. Paths Straight and Crooked to Indian Medical Knowledge
 
-
 Journal of the European Ayurvedic Society
-
-by Inge Wezler | 1983 | 464,936 words
 
 The Journal of the European Ayurvedic Society (JEAS) focuses on research on Indian medicine. Submissions can include both philological and practical studies on Ayurveda and other indigenous Indian medical systems, including ethnomedicine and research into local plants and drugs. The “European Ayurvedic Society” Journal was founded in 1983 in Gronin...
 
@@ -2615,10 +2445,7 @@ R.P. Das, Paths Straight and Crooked... 205 article. 21 I must however point out
 
 ## 56. Apropos Mallika
 
-
 Journal of the European Ayurvedic Society
-
-by Inge Wezler | 1983 | 464,936 words
 
 The Journal of the European Ayurvedic Society (JEAS) focuses on research on Indian medicine. Submissions can include both philological and practical studies on Ayurveda and other indigenous Indian medical systems, including ethnomedicine and research into local plants and drugs. The “European Ayurvedic Society” Journal was founded in 1983 in Gronin...
 
@@ -2634,10 +2461,7 @@ S.R. Sarma, Y. Sahai, Gushing Mercury, Fleeing Maiden 195 The maliya is one of t
 
 ## 57. Kokkoka’s Ratirahasya translation (Part 2)
 
-
 Journal of the European Ayurvedic Society
-
-by Inge Wezler | 1983 | 464,936 words
 
 The Journal of the European Ayurvedic Society (JEAS) focuses on research on Indian medicine. Submissions can include both philological and practical studies on Ayurveda and other indigenous Indian medical systems, including ethnomedicine and research into local plants and drugs. The “European Ayurvedic Society” Journal was founded in 1983 in Gronin...
 
@@ -2713,10 +2537,7 @@ K. Mylius, Kokkokas Ratirahasya (II) 193 sie Unterordnung und Zugelung der Rede,
 
 ## 58. Where is the Romaraji?
 
-
 Journal of the European Ayurvedic Society
-
-by Inge Wezler | 1983 | 464,936 words
 
 The Journal of the European Ayurvedic Society (JEAS) focuses on research on Indian medicine. Submissions can include both philological and practical studies on Ayurveda and other indigenous Indian medical systems, including ethnomedicine and research into local plants and drugs. The “European Ayurvedic Society” Journal was founded in 1983 in Gronin...
 
@@ -2752,10 +2573,7 @@ class of poetic conventions as lotuses in flowing waters and the like. Lotus flo
 
 ## 59. Reviews and Notices (Volume 4)
 
-
 Journal of the European Ayurvedic Society
-
-by Inge Wezler | 1983 | 464,936 words
 
 The Journal of the European Ayurvedic Society (JEAS) focuses on research on Indian medicine. Submissions can include both philological and practical studies on Ayurveda and other indigenous Indian medical systems, including ethnomedicine and research into local plants and drugs. The “European Ayurvedic Society” Journal was founded in 1983 in Gronin...
 
@@ -2771,7 +2589,7 @@ Reviews and Notices 5 [namely] the Prakrti, in accord with the principle/reality
 
 (200 Reviews and Notices 233 dipa, Tararahasya, Trilokasaratantra, Dhatritantra, Nagatantra, Nagarjunatantra, Nimitantra, Nimesatantra, Nilatantra, Prayogacintamani, Prayogaratnavali, Phetkaratantra, Pherutantra, Bijacintamanitantra, Bhanutantra, Bhargavitantra, Bhutadamaratantra, Bhairavitantra, Bhojatantra, Bhramaritantra, Matsyatantra, Matsyasuktayoga, 12 Mantramahodadhitantra, Mahakalatantra, Matrkatantra, Mayatantra, Marutitantra, Malinitantra, Merutantra, Yamalatantra, Yogatantra, Yogapradipa, Yogamayatantra, Yogaratnakara, Yogaratnavali, Yogasaratantra, Yoginitantra, Rudrayamala, Rohinitantra, Lalatatantra, Lalitatantra, Vajrayoginitantra, Varahitantra, Varddhukitantra, Vasisthamantra, Videhatantra, Visvasaratantra, Vrddhabhanutantra, Vrddhasarngadharatantra, Samikatantra, sakinitantra, Sabaratantra, Sambhavitantra, Sarngadharatantra, Sikhimayuratantra, Sivatantra, Sivatantra, Sivadasa (i.e. seemingly Sivadasasena's commentary on Cakradatta), Sasthitantra, Sarvavijayitantra, Siddhayogatantra, Simhikatantra, Saugatatantra, Haritasamhita, Herambatantra. Apart from these works, the Carakasamhita and the Susrutasamhita (and maybe other works too) have sporadically been referred to for purposes of comparison. Alchemical works (i.e. works on Rasasastra or Rasatantra) have not been utilized, as the author himself points out (vol. 2, p.[10] of the introduction). On the other hand, individual diseases or disorders and their treatment are often also discussed on the basis of additional material seemingly stemming from the author's personal knowledge of medicine. Mostly the original Sanskrit is quoted and a Bengali translation appended, though a few times only a Bengali translation or paraphrase is given. All in all an awe-inspiring collection of material! Unfortunately, its value is greatly diminished by the fact that the references usually are simply to the name of the work cited, no other information of any sort (also not on what editions were used) being given. At other times the reference is just to 'Ayurveda', 'Tantra' or 'Purana' in general, with no individual text being named. Worst of all are those cases in which even such a vague reference is lacking (this is especially so in the Pathyapathya section of vol. 3; cf. p.232 above). Thus the reader is in no 12 Vol. 1, p.143 mentions a Matsuktatantra; a misprint? 13 Vol. 2, p.89 also twice: Sishitatantra.
 
-position to verify the quotations given, or to check on the context of a quotation, without laborious hunting through often quite voluminous texts which may even be available in different recensions. Even if all the material spread out should be stored in full in the author's memory, it can hardly be expected that exactly the same texts should be part of the memory of the reader, be he an Indian or a foreigner. Of course one may hold that for the chief purpose of the work, namely to provide the general populace with comparatively cheap and readily available medicines and remedies for specific diseases or disorders, no exact references are necessary, but it does seem a pity that such a prodigious amount of learning and labour should be of only limited use to other scholars. Thus it is to be hoped that a second edition, should it ever appear, might attempt to correct this deficiency; in any case, others thinking of embarking on a similar enterprise should earnestly consider expending just a little bit of additional labour to bring forth something of fullest utility to their fellow scholars, for it seems a crying shame that such a veritable treasure trove of learning should not be fully utilisable. The volumes do not have any index; there is also no bibliography. But they harbour various misprints, which are not noted in any corrigenda except for four(!) misprints being pointed out on p.6 of the publisher's preface to vol. 1. These shortcomings do not however in any way diminish the merit of this fine achievement of Bengali scholarship, and it is to be hoped that it will have many emulators. Rahul Peter Das Poonam Bala, Imperialism and Medicine in Bengal. A SocioHistorical Perspective. Sage Publications: New Delhi/Newbury Park/London 1991. ISBN 81-7036-245-8 and 0-8039-9100-2. pp. £25.00 (British price). 174 There are only a few books which address the complex problem of medicine in India under British rule in a sophisticated manner using the most recent approaches in area studies and in the history of medicine. Roger Jeffrey's The Politics of Health in India (Berkeley 1988), David Arnold's Colonising the Body, State Medicine and Epidemic Disease in Nineteenth-Century India (Berkeley 1993), and Mark Harrison's Public Health in British India (Cambridge 1994) are three such examples, for they succeed in integrating the multifaceted nature of Indian and British politics and medicine and also show a mastery of primary and secondary
+position to verify the quotations given, or to check on the context of a quotation, without laborious hunting through often quite voluminous texts which may even be available in different recensions. Even if all the material spread out should be stored in full in the author's memory, it can hardly be expected that exactly the same texts should be part of the memory of the reader, be he an Indian or a foreigner. Of course one may hold that for the chief purpose of the work, namely to provide the general populace with comparatively cheap and readily available medicines and remedies for specific diseases or disorders, no exact references are necessary, but it does seem a pity that such a prodigious amount of learning and labour should be of only limited use to other scholars. Thus it is to be hoped that a second edition, should it ever appear, might attempt to correct this deficiency; in any case, others thinking of embarking on a similar enterprise should earnestly consider expending just a little bit of additional labour to bring forth something of fullest utility to their fellow scholars, for it seems a crying shame that such a veritable comprehensive archive of learning should not be fully utilisable. The volumes do not have any index; there is also no bibliography. But they harbour various misprints, which are not noted in any corrigenda except for four(!) misprints being pointed out on p.6 of the publisher's preface to vol. 1. These shortcomings do not however in any way diminish the merit of this fine achievement of Bengali scholarship, and it is to be hoped that it will have many emulators. Rahul Peter Das Poonam Bala, Imperialism and Medicine in Bengal. A SocioHistorical Perspective. Sage Publications: New Delhi/Newbury Park/London 1991. ISBN 81-7036-245-8 and 0-8039-9100-2. pp. £25.00 (British price). 174 There are only a few books which address the complex problem of medicine in India under British rule in a sophisticated manner using the most recent approaches in area studies and in the history of medicine. Roger Jeffrey's The Politics of Health in India (Berkeley 1988), David Arnold's Colonising the Body, State Medicine and Epidemic Disease in Nineteenth-Century India (Berkeley 1993), and Mark Harrison's Public Health in British India (Cambridge 1994) are three such examples, for they succeed in integrating the multifaceted nature of Indian and British politics and medicine and also show a mastery of primary and secondary
 
 Reviews and Notices 235 sources. Unfortunately, Poonam Bala's book fails on these counts. Her Imperialism and Medicine in Bengal has been developed from her University of Edinburgh Ph.D. thesis. There is in it a core of probably one publishable article of around twenty pages on the socio-economic analysis of educational provision in general and medical education in particular for Hindu and Muslim Indians in Bengal, whereas the rest is very general history, already known, together with some padding, so that the book finally reaches 145 pages without its appendices. The author has either been badly advised or has rushed into print despite any advice to the contrary, feeling perhaps the modern pressure to publish at all costs. The proposed readership of the book was probably both Indian and English; this may have posed a problem for the author, and possibly explains the essentially introductory nature of what is presented as a research monograph. We are given accounts of indigenous medicine in ancient and mediaeval India which are perfunctory in the extreme. When the book gets to the nineteenth century it presents some useful information on medical education in the Native Medical Institution and the changing value put on Western and indigenous drugs by the British authorities, and it records some of the attempts by the British to employ indigenous practitioners. Bala makes some perceptive comments, for instance, that the co-existence of Western and Indian medicine (both Ayurvedic and Unani) owed much to their common basis of treatment and diagnosis, and that, although the British did not support medical education in the indigenous systems after the Macauley Minute of 1835, it was not until the advent of scientific medicine with the bacteriological revolution of the latter nineteenth century that Indian medicine was viewed by the British (and some Indians) as inferior. She also has interesting things to say on the Ayurvedic movement of the early twentieth century which was tied into the Indian nationalist movement. But whether it 'failed to bring encomiums to indigenous medicine' (p.89) because it failed to create an educational and professional infrastructure along the lines of Western medicine is debatable. Respectability does not only consist in aping Western systems of medical organisation, though for some Indians at the time this may have been the case. Historians and those concerned with medicine in nonWestern countries would do well to be cautious in using such criteria. A useful part of the book details the way the bhadralok, the 'respectable people' or 'gentlemen' of the upper castes of Bengal, took British medicine and education. Bala details the vicissitudes of Britup
 
@@ -2793,10 +2611,7 @@ must trust that the author has not projected the Abhidhamma concepts upon Upasen
 
 ## 60. Contribution of Ascetics and Buddhist Monks
 
-
 Journal of the European Ayurvedic Society
-
-by Inge Wezler | 1983 | 464,936 words
 
 The Journal of the European Ayurvedic Society (JEAS) focuses on research on Indian medicine. Submissions can include both philological and practical studies on Ayurveda and other indigenous Indian medical systems, including ethnomedicine and research into local plants and drugs. The “European Ayurvedic Society” Journal was founded in 1983 in Gronin...
 
@@ -2828,10 +2643,7 @@ a little suspicious of the author, and reckons with the possibility that he saw 
 
 ## 61. Other Publications Received (Volume 4)
 
-
 Journal of the European Ayurvedic Society
-
-by Inge Wezler | 1983 | 464,936 words
 
 The Journal of the European Ayurvedic Society (JEAS) focuses on research on Indian medicine. Submissions can include both philological and practical studies on Ayurveda and other indigenous Indian medical systems, including ethnomedicine and research into local plants and drugs. The “European Ayurvedic Society” Journal was founded in 1983 in Gronin...
 
@@ -2859,10 +2671,7 @@ Other Publications Received 251 Material in Mahayana Texts. Varanasi: Jyotiralok
 
 ## 62. Volume 5 (1997)
 
-
 Journal of the European Ayurvedic Society
-
-by Inge Wezler | 1983 | 464,936 words
 
 The Journal of the European Ayurvedic Society (JEAS) focuses on research on Indian medicine. Submissions can include both philological and practical studies on Ayurveda and other indigenous Indian medical systems, including ethnomedicine and research into local plants and drugs. The “European Ayurvedic Society” Journal was founded in 1983 in Gronin...
 
@@ -2874,10 +2683,7 @@ Volume 5 (1997)
 
 ## 63. The Study of Classical Indian Medicine in Germany
 
-
 Journal of the European Ayurvedic Society
-
-by Inge Wezler | 1983 | 464,936 words
 
 The Journal of the European Ayurvedic Society (JEAS) focuses on research on Indian medicine. Submissions can include both philological and practical studies on Ayurveda and other indigenous Indian medical systems, including ethnomedicine and research into local plants and drugs. The “European Ayurvedic Society” Journal was founded in 1983 in Gronin...
 
@@ -2925,10 +2731,7 @@ the frame of this lecture. For similar reasons, alchemical studies too have been
 
 ## 64. Towards a Critical Edition of the Bhelasamhita
 
-
 Journal of the European Ayurvedic Society
-
-by Inge Wezler | 1983 | 464,936 words
 
 The Journal of the European Ayurvedic Society (JEAS) focuses on research on Indian medicine. Submissions can include both philological and practical studies on Ayurveda and other indigenous Indian medical systems, including ethnomedicine and research into local plants and drugs. The “European Ayurvedic Society” Journal was founded in 1983 in Gronin...
 
@@ -2952,10 +2755,7 @@ T. Yamashita, Towards a Critical Edition of the Bhelasamhita 23 body respectivel
 
 ## 65. Two Karmavipaka Texts on Curing Diseases and other Misfortunes
 
-
 Journal of the European Ayurvedic Society
-
-by Inge Wezler | 1983 | 464,936 words
 
 The Journal of the European Ayurvedic Society (JEAS) focuses on research on Indian medicine. Submissions can include both philological and practical studies on Ayurveda and other indigenous Indian medical systems, including ethnomedicine and research into local plants and drugs. The “European Ayurvedic Society” Journal was founded in 1983 in Gronin...
 
@@ -2981,10 +2781,7 @@ which the client was born and his present calamities the practitioner is able to
 
 ## 66. Astanga Sangraha, Kalpasthana IV: Translation and Notes
 
-
 Journal of the European Ayurvedic Society
-
-by Inge Wezler | 1983 | 464,936 words
 
 The Journal of the European Ayurvedic Society (JEAS) focuses on research on Indian medicine. Submissions can include both philological and practical studies on Ayurveda and other indigenous Indian medical systems, including ethnomedicine and research into local plants and drugs. The “European Ayurvedic Society” Journal was founded in 1983 in Gronin...
 
@@ -3038,10 +2835,7 @@ K.G. Zysk, Astangasangraha, Kalpasthana IV 45 Tarte has medahsvino for medasvino
 
 ## 67. The Dakinikalpa: Religious and Astrological Medicine
 
-
 Journal of the European Ayurvedic Society
-
-by Inge Wezler | 1983 | 464,936 words
 
 The Journal of the European Ayurvedic Society (JEAS) focuses on research on Indian medicine. Submissions can include both philological and practical studies on Ayurveda and other indigenous Indian medical systems, including ethnomedicine and research into local plants and drugs. The “European Ayurvedic Society” Journal was founded in 1983 in Gronin...
 
@@ -3099,10 +2893,7 @@ A. Herrmann-Pfandt, The So-Called Dakinikalpa 75 Good fortune arises. ¡iti jvar
 
 ## 68. The Mahasauvarcaladi Ghrita
 
-
 Journal of the European Ayurvedic Society
-
-by Inge Wezler | 1983 | 464,936 words
 
 The Journal of the European Ayurvedic Society (JEAS) focuses on research on Indian medicine. Submissions can include both philological and practical studies on Ayurveda and other indigenous Indian medical systems, including ethnomedicine and research into local plants and drugs. The “European Ayurvedic Society” Journal was founded in 1983 in Gronin...
 
@@ -3126,10 +2917,7 @@ R.E. Emmerick, The maha-sauvarcala-adi ghrita in the 'Jivakapustaka' 81 KT 1-7 M
 
 ## 69. On Mercury in Tibetan ‘Precious Pills’
 
-
 Journal of the European Ayurvedic Society
-
-by Inge Wezler | 1983 | 464,936 words
 
 The Journal of the European Ayurvedic Society (JEAS) focuses on research on Indian medicine. Submissions can include both philological and practical studies on Ayurveda and other indigenous Indian medical systems, including ethnomedicine and research into local plants and drugs. The “European Ayurvedic Society” Journal was founded in 1983 in Gronin...
 
@@ -3155,10 +2943,7 @@ J.C. Aschoff, T.Y. Tashigang, Mercury in Tibetan 'Precious Pills' 135 new 'jewel
 
 ## 70. Ayurvedic Herbal Drugs in the Treatment of Malignant Swellings
 
-
 Journal of the European Ayurvedic Society
-
-by Inge Wezler | 1983 | 464,936 words
 
 The Journal of the European Ayurvedic Society (JEAS) focuses on research on Indian medicine. Submissions can include both philological and practical studies on Ayurveda and other indigenous Indian medical systems, including ethnomedicine and research into local plants and drugs. The “European Ayurvedic Society” Journal was founded in 1983 in Gronin...
 
@@ -3202,10 +2987,7 @@ Summary According to Ayurveda, food and drugs are composed of five basic element
 
 ## 71. Integrated Asian Medicine and the Loss of Individuality
 
-
 Journal of the European Ayurvedic Society
-
-by Inge Wezler | 1983 | 464,936 words
 
 The Journal of the European Ayurvedic Society (JEAS) focuses on research on Indian medicine. Submissions can include both philological and practical studies on Ayurveda and other indigenous Indian medical systems, including ethnomedicine and research into local plants and drugs. The “European Ayurvedic Society” Journal was founded in 1983 in Gronin...
 
@@ -3249,10 +3031,7 @@ M. Bode, Integrated Asian Medicine and the Loss of Individuality 195 ceutical te
 
 ## 72. Kshemendra’s Garbhavakranti Avadana
 
-
 Journal of the European Ayurvedic Society
-
-by Inge Wezler | 1983 | 464,936 words
 
 The Journal of the European Ayurvedic Society (JEAS) focuses on research on Indian medicine. Submissions can include both philological and practical studies on Ayurveda and other indigenous Indian medical systems, including ethnomedicine and research into local plants and drugs. The “European Ayurvedic Society” Journal was founded in 1983 in Gronin...
 
@@ -3326,10 +3105,7 @@ bhuktva rau ra ba ka la su tra (5) na ra ke sva barta te yo ni su | Iyadba pu ny
 
 ## 73. Kokkoka’s Ratirahasya translation (Part 3)
 
-
 Journal of the European Ayurvedic Society
-
-by Inge Wezler | 1983 | 464,936 words
 
 The Journal of the European Ayurvedic Society (JEAS) focuses on research on Indian medicine. Submissions can include both philological and practical studies on Ayurveda and other indigenous Indian medical systems, including ethnomedicine and research into local plants and drugs. The “European Ayurvedic Society” Journal was founded in 1983 in Gronin...
 
@@ -3431,10 +3207,7 @@ K. Mylius, Kokkokas Ratirahasya (III) 179 kamm' mitsamt Sahadevi 733 salbt, dem 
 
 ## 74. Other Publications Received (Volume 5)
 
-
 Journal of the European Ayurvedic Society
-
-by Inge Wezler | 1983 | 464,936 words
 
 The Journal of the European Ayurvedic Society (JEAS) focuses on research on Indian medicine. Submissions can include both philological and practical studies on Ayurveda and other indigenous Indian medical systems, including ethnomedicine and research into local plants and drugs. The “European Ayurvedic Society” Journal was founded in 1983 in Gronin...
 
@@ -3454,10 +3227,7 @@ Sharma, Shiva: The System of Ayurveda, Low Price Publications: Delhi 1993. ISBN 
 
 ## 75. Reviews and Notices (Volume 5)
 
-
 Journal of the European Ayurvedic Society
-
-by Inge Wezler | 1983 | 464,936 words
 
 The Journal of the European Ayurvedic Society (JEAS) focuses on research on Indian medicine. Submissions can include both philological and practical studies on Ayurveda and other indigenous Indian medical systems, including ethnomedicine and research into local plants and drugs. The “European Ayurvedic Society” Journal was founded in 1983 in Gronin...
 
@@ -3479,10 +3249,7 @@ Reviews and Notices 221 containing this, that is the main focus of interest. As 
 
 ## 76. On the Vrikshayurveda of Parashara
 
-
 Journal of the European Ayurvedic Society
-
-by Inge Wezler | 1983 | 464,936 words
 
 The Journal of the European Ayurvedic Society (JEAS) focuses on research on Indian medicine. Submissions can include both philological and practical studies on Ayurveda and other indigenous Indian medical systems, including ethnomedicine and research into local plants and drugs. The “European Ayurvedic Society” Journal was founded in 1983 in Gronin...
 
@@ -3534,10 +3301,7 @@ R.P. Das, On the Vrikshayurveda of Parasara 215 ago, which raises the question o
 
 ## 77. Phytomorphological Terminology in Ayurvedic Science
 
-
 Journal of the European Ayurvedic Society
-
-by Inge Wezler | 1983 | 464,936 words
 
 The Journal of the European Ayurvedic Society (JEAS) focuses on research on Indian medicine. Submissions can include both philological and practical studies on Ayurveda and other indigenous Indian medical systems, including ethnomedicine and research into local plants and drugs. The “European Ayurvedic Society” Journal was founded in 1983 in Gronin...
 
@@ -3563,7 +3327,7 @@ the Pali term tivuta as 'having a triple streak round the bark'.37 Observation o
 
 T. Deroin, J. Liyanaratne, Plant Names ... 19 PETHUM as a latinised form of the Arabic turbad or turbid, itself derived from Skt. trivrt, 41 used of purgative and irritant substances.42 42 In ornithology, turbitean pigeons are Eastern varieties whose heads are covered with three spots. 43 The terms syama and kala (AmK II.4.108 f.) refer to a black variety, specified in the AbhT as kanhativuta (Pali kanha, Skt. krsna 'black'), as opposed to the white variety, specified as sukkativuta (Skt. suklatrivrta). The Vss specifies three species with their synonyms: white (trivrt, vrkaksi, suvaha, tribhandi, triputa), black (syama, palindi, susenika, kala, masuravidala, ardhacandra, kalamesika, palindhi, kalamesika) and tawny (vyaghradani, kutaruna, nihsruta, trivrta, aruna, kalinga, paripakini). The reference is to the colour of the tubercule; these varieties, not botanically described hitherto, are distinguished by their pharmacological actions (prabhava in Narahari's analysis quoted above on p.11). It may be pointed out that the AbhT explains the Pali term sama (Skt. syama) as 'diminishes the body and the disease by the action of purging',44 obviously taking into consideration the action and not the morphology of the plant. However, the noun syama simply means 'black, 41 According to H.P.J. Renaud and Georges S. Colin, Tuhfat al-Ahbab. Glossaire de la matiere medicale marocaine, Paris 1934, p.7. See also Patrick Hanks (ed.), Encyclopedic World Dictionary, Beirut 1974. The Arabic name is turbad in the former and turbid in the latter. - 42 The aforesaid properties of trivrta are mentioned in Ayurvedic texts. Cf. Vagbhata's Astangas angraha, Kalpasthana II.2: 'Of the drugs for purgation, trivrt is chief among the roots.... Now, the root of the trivrt is twofold: reddish and blackish. With regard to this [distinction], the red [variety] is astringent, sweet, pungent in digestion, [and] rough .... Because of its being a pleasant purgative, it is prescribed for children, the elderly, those who are delicate, and those with soft bowels. And [this] is meant by the word trivrt' (quoted from Kenneth G. Zysk, 'Astangasangraha, Kalpasthana II: Translation and Notes', Journal of the European Ayurvedic Society 3.1993, pp.319-351; see pp.321-322). trivrt tikta katusna ca krimislesmodararttijit kusthakanduvranan hanti prasasta ca virecane (RajN, pippalyadivarga 167; tikta 'bitter', katu 'pungent', usna 'hot', prasasta ca virecane 'considered good with regard to purging'). 43 Cf. the quotation from the Astangasangraha in footnote 42 where only two species are recognised. 44 reduce'). sa tanukarane. virecanakaranena kayam rogam ca sayati ti sama (sa 'to
 
-dark coloured'. (4) IPOMOEA PES-TIGRIDIS L. (Convolvulaceae) (see figure 2,4): This species is a good example of the integration of a South Asian plant name into European botanical taxonomy. Linnaeus (Species Plantarum, Stockholm 1753, p.162) just used as epithet a Latin translation of the 45 That Sinhala term divipahuru, previously given by Paul Hermann. Dutch botanist of German birth proposed the first description: Convolvulus zeylanicus villosus pentaphyllos & heptaphyllos minor, Pes tigrinus. He explained beneath: ... Hinc a Zeylanensibus accepit nomen Divipahuru, sive pedis Tigridis' ('There, [this plant] is named by the Singhalese "Divipahuru", that is tiger's paw'). 46 6 The Sinhala term divipahuru means 'the claws (pahuru) of tigers' (divi 'tiger'). According to a description, with illustration, given by Kirialle Nanavimala, the leaves of this creeper are made of five "fingers", having the form of a tiger's paw. Hence the name PESTIGRIDIS (Latin pes 'foot, paw', tigris 'tiger'). In this case, only the round shape of the leaflets is roughly considered, whereas the 7-palmate leaves are quite common. Conclusion In conclusion, it may be pointed out that there are two types of Ayurvedic plant names, determinative and confirmative. The former designate quite precise and specific botanical elements (here, numerical 45 Paul Hermann, Horti Academici Lugduno-batavi Catalogus, ed. Cornelius Boutesteyn, Leiden 1687, p.184. Paul Hermann (1646-1695) arrived in Ceylon as a physician in 1672 and left for the Netherlands in 1679 to succeed Arnold Syen as Professor of Medicine and Botany at the Leiden University. Hermann's herbarium was lost for nearly 30 years after 1711, when it was last seen at an auction. In 1744, receiving from August Gunther, the Danish Apothecary-Royal, a parcel containing four volumes of herbarium specimens and an album of about 400 plant drawings, Linnaeus recognised three of the volumes as the source of the Musaeum Zeylanicum (1717), which listed Hermann's herbarium and which is supposed to have been edited by William Sherard, editor of Hermann's papers after the latter's premature death in 1695 and published as Paradisus Batavus (1698). Linnaeus' Flora Zeylanica (1747) was the result of this happy discovery. (Ray Desmond, The European Discovery of the Indian Flora, Kew/Oxford 1992, pp.156- 158). See also Edmund Peiris, 'Paul Hermann: The Father of Ceylon Botany', in: Studies Historical and Cultural, Colombo 1978, pp.158-176. 46 Desiya vaidya sabdakosaya, Ratnapura 1970, p.263.
+dark coloured'. (4) IPOMOEA PES-TIGRIDIS L. (Convolvulaceae) (see figure 2,4): This species is a good example of the integration of a South Asian plant name into European botanical taxonomy. Linnaeus (Species Plantarum, Stockholm 1753, p.162) just used as epithet a Latin translation of the 45 That Sinhala term divipahuru, previously given by Paul Hermann. Dutch botanist of German birth proposed the first description: Convolvulus zeylanicus villosus pentaphyllos & heptaphyllos minor, Pes tigrinus. He explained beneath: ... Hinc a Zeylanensibus accepit nomen Divipahuru, sive pedis Tigridis' ('There, [this plant] is named by the Singhalese "Divipahuru", that is tiger's paw'). 46 6 The Sinhala term divipahuru means 'the claws (pahuru) of tigers' (divi 'tiger'). According to a description, with illustration, given by Kirialle Nanavimala, the leaves of this creeper are made of five "fingers", having the form of a tiger's paw. Hence the name PESTIGRIDIS (Latin pes 'foot, paw', tigris 'tiger'). In this case, only the round shape of the leaflets is roughly considered, whereas the 7-palmate leaves are quite common. Conclusion In summary, it may be pointed out that there are two types of Ayurvedic plant names, determinative and confirmative. The former designate quite precise and specific botanical elements (here, numerical 45 Paul Hermann, Horti Academici Lugduno-batavi Catalogus, ed. Cornelius Boutesteyn, Leiden 1687, p.184. Paul Hermann (1646-1695) arrived in Ceylon as a physician in 1672 and left for the Netherlands in 1679 to succeed Arnold Syen as Professor of Medicine and Botany at the Leiden University. Hermann's herbarium was lost for nearly 30 years after 1711, when it was last seen at an auction. In 1744, receiving from August Gunther, the Danish Apothecary-Royal, a parcel containing four volumes of herbarium specimens and an album of about 400 plant drawings, Linnaeus recognised three of the volumes as the source of the Musaeum Zeylanicum (1717), which listed Hermann's herbarium and which is supposed to have been edited by William Sherard, editor of Hermann's papers after the latter's premature death in 1695 and published as Paradisus Batavus (1698). Linnaeus' Flora Zeylanica (1747) was the result of this happy discovery. (Ray Desmond, The European Discovery of the Indian Flora, Kew/Oxford 1992, pp.156- 158). See also Edmund Peiris, 'Paul Hermann: The Father of Ceylon Botany', in: Studies Historical and Cultural, Colombo 1978, pp.158-176. 46 Desiya vaidya sabdakosaya, Ratnapura 1970, p.263.
 
 T. Deroin, J. Liyanaratne, Plant Names ... 21 and qualitative traits), as in the case of triputa ('having three pockets'), divipahuru ('tigers' paws') discussed above. They help in the correct identification of plants. The latter refer to elements applicable to several plants, but helpful in confirming the identification. Examples are: raktavrnta (red stem), kala, syama (black). The specific property (prabhava) on which some plant names are based according to Narahari's analysis (above) is also an indication which helps in the identification of plants. This factor is abundantly used in the most valuable work of Balwant Singh and K.C. Chunekar (SC). Their discussion on the identification of mesasrngi is an eloquent example (SC, pp.320-323). With regard to the criterion of assimilation (upama) in Narahari's analysis, the frequent reference to comparisons of the animal world deserves to be emphasized. This points to the popular origin of many Indian plant names. It may be recalled in this connection that even today, certain forest tribes in India are known for their empirical knowledge of plants. 47 The verification of the botanical data revealed by Indian plant names and their etymologies against herbarium specimens helps in: (1) rectifying erroneous identifications such as mesasrngi with GYMNEMA SYLVESTRE R.Br., (2) observing specific characteristics of plants as in the case of sephalika, triputa, trivrta, and (3) clarifying the significance of certain plant names as in the case of sukasimbi (see figure 1). The Greek genus names such as PICRORHIZA (pungent root), GLYCYRRHIZA (sweet root), NYCTANTHES (night flower), and the Latin specific names such as PICTA (variegated), NIGRUM (black), TURPETHUM (from the Skt. trivrt, through Arabic turbad/turbid) are further proof of cross-cultural influences which were taking place between the Western and Eastern worlds from very early times.48 It may be noted that the Sanskrit name trivrt describing the fruit has been extended to the medicinal property (purgative), thus designating 47 Cf.: 'There are professional castes who deal with the medicinal herbs, who have considerable knowledge of these plants, and who can throw much light where all other measures fail ...' (R.N. Chopra et al., Indigenous drugs of India, Calcutta 21958, p.22). From among the vast literature on the subject, reference may be made especially to the following publications of Jean Filliozat: (1) Filliozat, pp.199-215, (2) 'La valeur des connaissances greco-romaines sur l'Inde', Journal des Savants, (Paris) avril-juin 1981, pp.97-135.
 

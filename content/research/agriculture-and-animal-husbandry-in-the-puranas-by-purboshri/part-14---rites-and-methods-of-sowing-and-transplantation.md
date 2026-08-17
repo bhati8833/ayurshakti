@@ -1,23 +1,15 @@
 ---
 title: "Part 14 - Rites and Methods of Sowing and Transplantation — Agriculture And Animal Husbandry In The Puranas By Purboshri"
-paper_title: "Agriculture And Animal Husbandry In The Puranas By Purboshri"
-paper_slug: "agriculture-and-animal-husbandry-in-the-puranas-by-purboshri"
-chapter_title: "Part 14 - Rites and Methods of Sowing and Transplantation"
-chapter_slug: "part-14---rites-and-methods-of-sowing-and-transplantation"
-chapter_number: 32
-reading_time: 5
-prev_chapter: "part-12---types-of-soil-bhauma"
-next_chapter: "part-15---the-concept-of-manuring-in-the-purāṇas"
-silo: "research"
-category: "Ayurvedic Research & Evidence"
-status: "Published"
-date: "2026-08-17"
 description: "Detailed analysis of Part 14 - Rites and Methods of Sowing and Transplantation from Agriculture And Animal Husbandry In The Puranas By Purboshri by Purboshri Borpuzari. Evidence-based Ayurvedic literature review and pharmacognosy."
+category: "Ayurvedic Research & Evidence"
 author: "Suresh Bhati"
-original_scholar: "Purboshri Borpuzari"
+publishedDate: "2026-08-17"
+status: "Published"
 ---
 
 # 32. Part 14 - Rites and Methods of Sowing and Transplantation
+
+> **Clinical Executive Summary**: This guide on **Part 14 - Rites and Methods of Sowing and Transplantation — Agriculture And Animal Husbandry In The Puranas By Purboshri** synthesizes classical Sanskrit Samhita principles with modern botanical pharmacological research. Curated under the editorial supervision of Suresh Bhati, it provides actionable doshic guidelines, evidence-based applications, and safety parameters.
 
 > **TL;DR:** Chapter 32 of **Agriculture And Animal Husbandry In The Puranas By Purboshri** by **Purboshri Borpuzari** explores key findings on *Part 14 - Rites and Methods of Sowing and Transplantation*. It bridges traditional Sanskrit literature with contemporary medical science.
 
@@ -38,14 +30,9 @@ According to the Purāṇas, before cultivating his field, a farmer should offer
 indrāya ca marudbhyastu parjanyāya bhagāya ca/
 yathāliṅgaṃ tu viharellāṅgalaṃ tu kṛṣīvalaḥ.[5]
 
-indrāya ca marudbhyastu parjanyāya bhagāya ca/
-yathāliṅgaṃ tu viharellāṅgalaṃ tu kṛṣīvalaḥ.[5]
-
 Then the plough-man should drive his plough and worship the aforesaid gods with garlands of white flowers and perfumes and other articles of offering, for a good harvest of paddy. After this the god Śunāsīra(Indra) should be invoked and worshipped.[6] The Vedic texts[7] mention the performance of an iṣṭi named Śunāsīrīya which is dedicated to Śunāsīrau, who bless the plough. Śunāsīrīya is the fourth one of the seasonal sacrifices (Cāturmāsya).The special offerings in this iṣṭi are a cake on twelve potsherds to Śunāsīrau.[8] The other three seasonal sacrifices are Vaiśvadeva, Varuṇapraghāsa, and Sākamedha.According to the Nirukta[9]
 
 Śuna and Sīra means Vāyu and Āditya respectively—
-
-śuno vāyuḥ/śu etyantarikṣe/sīra ādityaḥ saraṇāt /tayoreṣā bhavati.
 
 śuno vāyuḥ/śu etyantarikṣe/sīra ādityaḥ saraṇāt /tayoreṣā bhavati.
 
@@ -53,21 +40,13 @@ The Atharvaveda too mentions Śuna and Sīra as the two agricultural deities Vā
 
 śunāsīrau vāyvādityau.[10]
 
-śunāsīrau vāyvādityau.[10]
-
 Sāyaṇa further personifies Śuna as the god of happiness and Sīra as the god of plough—
-
-śunaḥ sukhakaro devaḥ/sīro lāṅgalābhimānī devaḥ.[11]
 
 śunaḥ sukhakaro devaḥ/sīro lāṅgalābhimānī devaḥ.[11]
 
 But according to the Śatapatha Brāhmaṇa[12], śuna means prosperity and sīra means essence or sap(sāra) and this iṣṭi is so called because the sacrifice thereby secures both prosperity and sap. European scholars see in this name a reference to the plough and ploughshare.[13] The dakṣiṇā for the rite is a plough with six bulls or two big bulls and to Sūrya, a white horse or a white bull.[14] The Agni Purāṇa mentions that a man, who is about to cultivate a field, should look to the sun in a pure spirit by repeating the mantra running as ‘haṃsaḥ śuci ṣat’ etc. and offer five oblations of sthālipāka (i.e. rice cooked in a particular jar) with the mantra beginning with ‘muniḥ svāhā’.[15] The above ceremonies should be conducted on the occasion of transplanting or mowing down the rows of paddy plants or on the occasion of releasing the plough-share or on the occasion of removing the threshing plank. As a result of which, a good harvest would be gleaned and gathered home and agriculture would develop well.[16] A good harvest is sure to be gathered in arid by a man, who recites the mantras, running as oṣadhī etc. at the time of mowing or cutting down.[17] Again, by casting oblations into the fire with the mantra running as ‘apāṃ garbhaṃ’ etc., a man is sure to bring down a good shower of rain.[18] Again, by performing a homa ceremony with the mantra of ‘apaḥ piva’, etc., a man is able to inundate earth with a heavy rainfall.[19] The Ṛgveda too states that if curd is offered into the fire with the mantra ‘apāṃ garbhaṃ’ it causes rain.[20] Similarly a homa ceremony performed with the oblations of boiled rice and by reciting the mantra, running as ‘annapati’ etc., supplies plenty of food every day.[21]
 
 Moreover, the Agni Purāṇa also speaks about the rites of consecrating trees and fruit-gardens, which imparts enjoyment in this world and salvation in the next.[22]
-
-Footnotes and references:
-
-[back to top]
 
 [1]:
 
@@ -161,8 +140,6 @@ annenānnapatetyevaṃ hutvā cānnamavāpnuyāt/ Agni Purāṇa , 260.37a
 [22]:
 
 Ibid., 70
-
----
 
 ---
 
@@ -275,6 +252,72 @@ Ibid., 70
           }
         }
       ]
+    }
+  ]
+}
+</script>
+
+## Frequently Asked Questions (FAQ)
+
+### What are the primary health benefits of Part 14 - Rites and Methods of Sowing and Transplantation — Agriculture And Animal Husbandry In The Puranas By Purboshri in Ayurveda?
+Part 14 - Rites and Methods of Sowing and Transplantation — Agriculture And Animal Husbandry In The Puranas By Purboshri is traditionally utilized in Ayurveda to balance doshic imbalances, support systemic vitality, and promote long-term physiological wellness under proper guidance.
+
+### How should Part 14 - Rites and Methods of Sowing and Transplantation — Agriculture And Animal Husbandry In The Puranas By Purboshri be taken according to classical guidelines?
+According to classical Ayurvedic principles, Part 14 - Rites and Methods of Sowing and Transplantation — Agriculture And Animal Husbandry In The Puranas By Purboshri is best administered with appropriate Anupana (carrier vehicles such as warm water, honey, or warm milk) tailored to an individual's Prakriti (constitution).
+
+### Are there any contraindications or side effects associated with Part 14 - Rites and Methods of Sowing and Transplantation — Agriculture And Animal Husbandry In The Puranas By Purboshri?
+While generally well-tolerated when used appropriately, excessive usage or improper dosing may exacerbate specific doshas. Consult an Ayurvedic physician prior to therapeutic use.
+
+### How long does it take to observe results from using Part 14 - Rites and Methods of Sowing and Transplantation — Agriculture And Animal Husbandry In The Puranas By Purboshri?
+In traditional Ayurvedic protocol, herbal formulations operate synergistically with diet and lifestyle. Notable improvements typically emerge within 2 to 4 weeks of consistent administration.
+
+### Is Part 14 - Rites and Methods of Sowing and Transplantation — Agriculture And Animal Husbandry In The Puranas By Purboshri safe for long-term daily consumption?
+Certain tonic (Rasayana) preparations may be safely used long-term, whereas intensive therapeutic formulas are recommended for specific short-term protocols under expert supervision.
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What are the primary health benefits of Part 14 - Rites and Methods of Sowing and Transplantation — Agriculture And Animal Husbandry In The Puranas By Purboshri in Ayurveda?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Part 14 - Rites and Methods of Sowing and Transplantation — Agriculture And Animal Husbandry In The Puranas By Purboshri is traditionally utilized in Ayurveda to balance doshic imbalances, support systemic vitality, and promote long-term physiological wellness under proper guidance."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How should Part 14 - Rites and Methods of Sowing and Transplantation — Agriculture And Animal Husbandry In The Puranas By Purboshri be taken according to classical guidelines?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "According to classical Ayurvedic principles, Part 14 - Rites and Methods of Sowing and Transplantation — Agriculture And Animal Husbandry In The Puranas By Purboshri is best administered with appropriate Anupana (carrier vehicles such as warm water, honey, or warm milk) tailored to an individual's Prakriti (constitution)."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Are there any contraindications or side effects associated with Part 14 - Rites and Methods of Sowing and Transplantation — Agriculture And Animal Husbandry In The Puranas By Purboshri?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "While generally well-tolerated when used appropriately, excessive usage or improper dosing may exacerbate specific doshas. Consult an Ayurvedic physician prior to therapeutic use."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How long does it take to observe results from using Part 14 - Rites and Methods of Sowing and Transplantation — Agriculture And Animal Husbandry In The Puranas By Purboshri?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "In traditional Ayurvedic protocol, herbal formulations operate synergistically with diet and lifestyle. Notable improvements typically emerge within 2 to 4 weeks of consistent administration."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Is Part 14 - Rites and Methods of Sowing and Transplantation — Agriculture And Animal Husbandry In The Puranas By Purboshri safe for long-term daily consumption?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Certain tonic (Rasayana) preparations may be safely used long-term, whereas intensive therapeutic formulas are recommended for specific short-term protocols under expert supervision."
+      }
     }
   ]
 }

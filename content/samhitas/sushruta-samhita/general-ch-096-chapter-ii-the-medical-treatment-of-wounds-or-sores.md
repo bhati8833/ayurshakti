@@ -20,17 +20,11 @@ This chapter from **Sushruta Samhita (Chikitsasthana)** represents the classical
 
 ---
 
-
 Sushruta Samhita, volume 4: Cikitsasthana
-
-by Kaviraj Kunja Lal Bhishagratna | 1911 | 123,229 words
 
 This current book, the Chikitsa-sthana (english translation), deals with therapeutics, surgical emergencies, geriatrics, aphrodisiacs and various other subjects.
 
 The Sushruta Samhita is the most representative work of the Hindu system of medicine. It embraces all that can possibly appertain to the science of medicine. Susruta-samhita is recognized...
-
-Go directly to: 
-Footnotes.
 
 Chapter II - The medical treatment of wounds or sores
 
@@ -109,10 +103,6 @@ In the case of a malignant ulcer (Dushta-Vrana) emetics, errhines, purgatives, A
 The recognised school of physicians, which recognises these six types of traumatic sores, does not add to the list, herein mentioned, other types of ulcers, whereas vain pedagogues try to swell it with a larger number of types by adding connotative prefixes and suffixes to the names of the aforesaid six. It is mere vain-gloriousness on their part to say so, since all the other types that they can devise are but single instances and can be made to fall under one of these six general heads. Hence there should be only six kinds (of traumatic sores) and not more. 69.
 
 Thus ends the second Chapter of the Chikitsita Sthana of the Sushruta Samhita which deals with the treatment of Sadyo-vrana (traumatic sores).
-
-Footnotes and references:
-
-[back to top]
 
 [1]:
 

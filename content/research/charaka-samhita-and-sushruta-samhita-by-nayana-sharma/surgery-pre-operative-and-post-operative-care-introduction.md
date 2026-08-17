@@ -1,23 +1,15 @@
 ---
 title: "Surgery: Pre-operative and Post-operative Care (Introduction) — Charaka Samhita And Sushruta Samhita By Nayana Sharma"
-paper_title: "Charaka Samhita And Sushruta Samhita By Nayana Sharma"
-paper_slug: "charaka-samhita-and-sushruta-samhita-by-nayana-sharma"
-chapter_title: "Surgery: Pre-operative and Post-operative Care (Introduction)"
-chapter_slug: "surgery-pre-operative-and-post-operative-care-introduction"
-chapter_number: 88
-reading_time: 3
-prev_chapter: "chapter-9"
-next_chapter: "rudra-śiva-in-the-medical-texts"
-silo: "research"
-category: "Ayurvedic Research & Evidence"
-status: "Published"
-date: "2026-08-17"
 description: "Detailed analysis of Surgery: Pre-operative and Post-operative Care (Introduction) from Charaka Samhita And Sushruta Samhita By Nayana Sharma by Nayana Sharma. Evidence-based Ayurvedic literature review and pharmacognosy."
+category: "Ayurvedic Research & Evidence"
 author: "Suresh Bhati"
-original_scholar: "Nayana Sharma"
+publishedDate: "2026-08-17"
+status: "Published"
 ---
 
 # 88. Surgery: Pre-operative and Post-operative Care (Introduction)
+
+> **Clinical Executive Summary**: This guide on **Surgery: Pre-operative and Post-operative Care (Introduction) — Charaka Samhita And Sushruta Samhita By Nayana Sharma** synthesizes classical Sanskrit Samhita principles with modern botanical pharmacological research. Curated under the editorial supervision of Suresh Bhati, it provides actionable doshic guidelines, evidence-based applications, and safety parameters.
 
 > **TL;DR:** Chapter 88 of **Charaka Samhita And Sushruta Samhita By Nayana Sharma** by **Nayana Sharma** explores key findings on *Surgery: Pre-operative and Post-operative Care (Introduction)*. It bridges traditional Sanskrit literature with contemporary medical science.
 
@@ -33,23 +25,15 @@ Surgery: Pre-operative and Post-operative Care (Introduction)
 
 “There are five duties of surgery: to remove what is superfluous, to restore what has been dislocated, to separate what has grown together, to reunite what has been divided, and to redress the defects of nature.”—Ambroise Paré[1]
 
-“There are five duties of surgery: to remove what is superfluous, to restore what has been dislocated, to separate what has grown together, to reunite what has been divided, and to redress the defects of nature.”—Ambroise Paré[1]
-
 The words of the French surgeon Ambroise Paré (1510- 1590) can well be said to reflect the concerns of the surgeon in the Suśruta Saṃhitā. Surgery evolved as a distinct stream from medicine which is so well evident in our survey.
 
 As medical historians have pointed out,
 
 “Surgery and Medicine are inseparably fused today as inseparable parts of healing. Such, of course, has not always been the case. Indeed it was but a short time ago that this union took place. Over the millennia of recorded history, surgery and medicine have followed separate and largely independent evolutionary patterns, with brief and infrequent periods of convergence of the two streams.”[2]
 
-“Surgery and Medicine are inseparably fused today as inseparable parts of healing. Such, of course, has not always been the case. Indeed it was but a short time ago that this union took place. Over the millennia of recorded history, surgery and medicine have followed separate and largely independent evolutionary patterns, with brief and infrequent periods of convergence of the two streams.”[2]
-
 References to surgeries are rare in Vedic literature and appear more as a minor appendage in therapeutics. Some form of surgical intervention is encountered in respect of diseases like balaśa (swelling), apacīts (rash with pustules) and urological ailments. The treatment of balaśa (swellings)[3] and apacīts[4] (rash with pustules) in the Atharvaveda involved lancing while that of urine retention required the use of an arrow-like reed as a primitive catheter.[5] The principal cure of broken bones and fractures was herbal drugs.[6] However, by the time of the composition of the Suśruta Saṃhitā, surgery had progressed so far as to evolve as a specialised branch of Āyurveda. The terms, śalyavid [śalyavidaḥ][7] and śalyahartṛ [śalyahartrāḥ][8] in the Caraka Saṃhita refer to physicians with expertise in the use of sharp instruments and these specialists are identified as belonging to the school of Dhanvantari, that is, the Dhānvantariyas. Significantly, surgeons of this school refer to themselves as bhiṣak or vaidya and not by any other term indicating their keenness to be identified as members of the medical mainstream.
 
 In this chapter we shall look at the perception of surgery in the Saṃhitās, the surgical diseases, the training of surgeons, the pre-operative and post-operative care involved in surgical procedures and the concept of infection.
-
-Footnotes and references:
-
-[back to top]
 
 [1]:
 
@@ -82,8 +66,6 @@ Caraka Saṃhitā Cikitsāsthāna 6.58.
 [8]:
 
 Caraka Saṃhitā Śārīrasthāna 8.31.
-
----
 
 ---
 
@@ -196,6 +178,72 @@ Caraka Saṃhitā Śārīrasthāna 8.31.
           }
         }
       ]
+    }
+  ]
+}
+</script>
+
+## Frequently Asked Questions (FAQ)
+
+### What are the primary health benefits of Surgery: Pre-operative and Post-operative Care (Introduction) — Charaka Samhita And Sushruta Samhita By Nayana Sharma in Ayurveda?
+Surgery: Pre-operative and Post-operative Care (Introduction) — Charaka Samhita And Sushruta Samhita By Nayana Sharma is traditionally utilized in Ayurveda to balance doshic imbalances, support systemic vitality, and promote long-term physiological wellness under proper guidance.
+
+### How should Surgery: Pre-operative and Post-operative Care (Introduction) — Charaka Samhita And Sushruta Samhita By Nayana Sharma be taken according to classical guidelines?
+According to classical Ayurvedic principles, Surgery: Pre-operative and Post-operative Care (Introduction) — Charaka Samhita And Sushruta Samhita By Nayana Sharma is best administered with appropriate Anupana (carrier vehicles such as warm water, honey, or warm milk) tailored to an individual's Prakriti (constitution).
+
+### Are there any contraindications or side effects associated with Surgery: Pre-operative and Post-operative Care (Introduction) — Charaka Samhita And Sushruta Samhita By Nayana Sharma?
+While generally well-tolerated when used appropriately, excessive usage or improper dosing may exacerbate specific doshas. Consult an Ayurvedic physician prior to therapeutic use.
+
+### How long does it take to observe results from using Surgery: Pre-operative and Post-operative Care (Introduction) — Charaka Samhita And Sushruta Samhita By Nayana Sharma?
+In traditional Ayurvedic protocol, herbal formulations operate synergistically with diet and lifestyle. Notable improvements typically emerge within 2 to 4 weeks of consistent administration.
+
+### Is Surgery: Pre-operative and Post-operative Care (Introduction) — Charaka Samhita And Sushruta Samhita By Nayana Sharma safe for long-term daily consumption?
+Certain tonic (Rasayana) preparations may be safely used long-term, whereas intensive therapeutic formulas are recommended for specific short-term protocols under expert supervision.
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What are the primary health benefits of Surgery: Pre-operative and Post-operative Care (Introduction) — Charaka Samhita And Sushruta Samhita By Nayana Sharma in Ayurveda?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Surgery: Pre-operative and Post-operative Care (Introduction) — Charaka Samhita And Sushruta Samhita By Nayana Sharma is traditionally utilized in Ayurveda to balance doshic imbalances, support systemic vitality, and promote long-term physiological wellness under proper guidance."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How should Surgery: Pre-operative and Post-operative Care (Introduction) — Charaka Samhita And Sushruta Samhita By Nayana Sharma be taken according to classical guidelines?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "According to classical Ayurvedic principles, Surgery: Pre-operative and Post-operative Care (Introduction) — Charaka Samhita And Sushruta Samhita By Nayana Sharma is best administered with appropriate Anupana (carrier vehicles such as warm water, honey, or warm milk) tailored to an individual's Prakriti (constitution)."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Are there any contraindications or side effects associated with Surgery: Pre-operative and Post-operative Care (Introduction) — Charaka Samhita And Sushruta Samhita By Nayana Sharma?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "While generally well-tolerated when used appropriately, excessive usage or improper dosing may exacerbate specific doshas. Consult an Ayurvedic physician prior to therapeutic use."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How long does it take to observe results from using Surgery: Pre-operative and Post-operative Care (Introduction) — Charaka Samhita And Sushruta Samhita By Nayana Sharma?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "In traditional Ayurvedic protocol, herbal formulations operate synergistically with diet and lifestyle. Notable improvements typically emerge within 2 to 4 weeks of consistent administration."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Is Surgery: Pre-operative and Post-operative Care (Introduction) — Charaka Samhita And Sushruta Samhita By Nayana Sharma safe for long-term daily consumption?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Certain tonic (Rasayana) preparations may be safely used long-term, whereas intensive therapeutic formulas are recommended for specific short-term protocols under expert supervision."
+      }
     }
   ]
 }

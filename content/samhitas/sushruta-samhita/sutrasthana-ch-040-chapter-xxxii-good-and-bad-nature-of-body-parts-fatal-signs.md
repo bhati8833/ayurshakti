@@ -20,15 +20,9 @@ This chapter from **Sushruta Samhita (Sutrasthana)** represents the classical su
 
 ---
 
-
 Sushruta Samhita, volume 1: Sutrasthana
 
-by Kaviraj Kunja Lal Bhishagratna | 1907 | 148,756 words
-
 This current book, the Sutra-sthana (english translation), is the first part of this voluminous medical work. It contains a large summary of the knowledge envelopig the medical aspects of Ayurveda. Descriptions of diseases, various diets and drugs, the duties of a surgeon, surgical procedures, medical training; these are only some of the numerous s...
-
-Go directly to: 
-Footnotes.
 
 Chapter XXXII - Good and bad nature of body parts fatal signs
 
@@ -53,10 +47,6 @@ A disease, appearing in an enfeebled and emaciated subject and refusing to yield
 A Mahavyadhi[12] (lit:—a deep seated disease) suddenly abating in a person in whom nourishment fails to produce any perceptible effect forebodes a fatal termination. The physician, who can detect and fully interpret these fatal indications, is honoured by the king for determining the curable or incurable nature of a disease.
 
 Thus ends the thirty-second Chapter of Sutrasthana in the Sushruta-Samhita which deals with the prognosis based on perversion of the natural appearances of the body.
-
-Footnotes and references:
-
-[back to top]
 
 [1]:
 

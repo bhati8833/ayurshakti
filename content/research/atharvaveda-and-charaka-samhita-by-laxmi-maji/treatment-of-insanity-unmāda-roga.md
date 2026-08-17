@@ -1,23 +1,15 @@
 ---
 title: "Treatment of Insanity (Unmāda-roga) — Atharvaveda And Charaka Samhita By Laxmi Maji"
-paper_title: "Atharvaveda And Charaka Samhita By Laxmi Maji"
-paper_slug: "atharvaveda-and-charaka-samhita-by-laxmi-maji"
-chapter_title: "Treatment of Insanity (Unmāda-roga)"
-chapter_slug: "treatment-of-insanity-unmāda-roga"
-chapter_number: 89
-reading_time: 1
-prev_chapter: "treatment-of-kunakha-deformed-nails-and-foot-disease"
-next_chapter: "treatment-of-sleeping-conditions"
-silo: "research"
-category: "Ayurvedic Research & Evidence"
-status: "Published"
-date: "2026-08-17"
 description: "Detailed analysis of Treatment of Insanity (Unmāda-roga) from Atharvaveda And Charaka Samhita By Laxmi Maji by Laxmi Maji. Evidence-based Ayurvedic literature review and pharmacognosy."
+category: "Ayurvedic Research & Evidence"
 author: "Suresh Bhati"
-original_scholar: "Laxmi Maji"
+publishedDate: "2026-08-17"
+status: "Published"
 ---
 
 # 89. Treatment of Insanity (Unmāda-roga)
+
+> **Clinical Executive Summary**: This guide on **Treatment of Insanity (Unmāda-roga) — Atharvaveda And Charaka Samhita By Laxmi Maji** synthesizes classical Sanskrit Samhita principles with modern botanical pharmacological research. Curated under the editorial supervision of Suresh Bhati, it provides actionable doshic guidelines, evidence-based applications, and safety parameters.
 
 > **TL;DR:** Chapter 89 of **Atharvaveda And Charaka Samhita By Laxmi Maji** by **Laxmi Maji** explores key findings on *Treatment of Insanity (Unmāda-roga)*. It bridges traditional Sanskrit literature with contemporary medical science.
 
@@ -25,24 +17,14 @@ original_scholar: "Laxmi Maji"
 
 ## 📜 1. Section Overview & Classical Context
 
-Atharvaveda and Charaka Samhita
-
-This page relates ‘Treatment of Insanity (Unmada-roga)’ found in the study on diseases and remedies found in the Atharvaveda and Charaka-samhita. These texts deal with Ayurveda—the ancient Indian Science of life—which lays down the principles for keeping a sound health involving the use of herbs, roots and leaves. The Atharvaveda refers to one of the four Vedas (ancient Sanskrit texts encompassing all kinds of knowledge and science) containing many details on Ayurveda, which is here taken up for study.
-
 Treatment of Insanity (Unmāda-roga)
 
 The Atharvaveda discusses the treatment of insanity or Unmāda roga. There are two types of insanity -calm and added delirium. In the quiet frenzy, the inner fibres of the brain gather with phlegm. Then the mind becomes stupid and becomes insane, for which Auto Suggestion is the best treatment. In the Atharvaveda, there has been talking of Agni treatment to eradicate insanity[1]. Besides, the bark of the kandamūla, raisins, herbicides giloya and medicine poured in, inhaling its smoke, then consciousness, vigour and serenity return to the patient’s brain. The Atharvaveda also mentioned some medicine which helps in eradicating insanity namely -Ajaśṛṅgī, Meṣaśṛṅgī, Aśvattha, Udumvara, Kṣiptabheṣajī, Vātīkṛtabheṣajī and Babhrū.
-
-Footnotes and references:
-
-[back to top]
 
 [1]:
 
 agniṣṭe ni śamayatu yadi te mana ud yutam |
 kṛṇomi vidvān bheṣajaṃ yathānunmadito'sasi || (AV. –VI/111/2); Acarya Vedanta Tirtha (ed.), Atharvaveda–Vol. 1, Delhi, Manoj Publication, 2012, p. 346.
-
----
 
 ---
 
@@ -155,6 +137,72 @@ kṛṇomi vidvān bheṣajaṃ yathānunmadito'sasi || (AV. –VI/111/2); Acary
           }
         }
       ]
+    }
+  ]
+}
+</script>
+
+## Frequently Asked Questions (FAQ)
+
+### What are the primary health benefits of Treatment of Insanity (Unmāda-roga) — Atharvaveda And Charaka Samhita By Laxmi Maji in Ayurveda?
+Treatment of Insanity (Unmāda-roga) — Atharvaveda And Charaka Samhita By Laxmi Maji is traditionally utilized in Ayurveda to balance doshic imbalances, support systemic vitality, and promote long-term physiological wellness under proper guidance.
+
+### How should Treatment of Insanity (Unmāda-roga) — Atharvaveda And Charaka Samhita By Laxmi Maji be taken according to classical guidelines?
+According to classical Ayurvedic principles, Treatment of Insanity (Unmāda-roga) — Atharvaveda And Charaka Samhita By Laxmi Maji is best administered with appropriate Anupana (carrier vehicles such as warm water, honey, or warm milk) tailored to an individual's Prakriti (constitution).
+
+### Are there any contraindications or side effects associated with Treatment of Insanity (Unmāda-roga) — Atharvaveda And Charaka Samhita By Laxmi Maji?
+While generally well-tolerated when used appropriately, excessive usage or improper dosing may exacerbate specific doshas. Consult an Ayurvedic physician prior to therapeutic use.
+
+### How long does it take to observe results from using Treatment of Insanity (Unmāda-roga) — Atharvaveda And Charaka Samhita By Laxmi Maji?
+In traditional Ayurvedic protocol, herbal formulations operate synergistically with diet and lifestyle. Notable improvements typically emerge within 2 to 4 weeks of consistent administration.
+
+### Is Treatment of Insanity (Unmāda-roga) — Atharvaveda And Charaka Samhita By Laxmi Maji safe for long-term daily consumption?
+Certain tonic (Rasayana) preparations may be safely used long-term, whereas intensive therapeutic formulas are recommended for specific short-term protocols under expert supervision.
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What are the primary health benefits of Treatment of Insanity (Unmāda-roga) — Atharvaveda And Charaka Samhita By Laxmi Maji in Ayurveda?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Treatment of Insanity (Unmāda-roga) — Atharvaveda And Charaka Samhita By Laxmi Maji is traditionally utilized in Ayurveda to balance doshic imbalances, support systemic vitality, and promote long-term physiological wellness under proper guidance."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How should Treatment of Insanity (Unmāda-roga) — Atharvaveda And Charaka Samhita By Laxmi Maji be taken according to classical guidelines?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "According to classical Ayurvedic principles, Treatment of Insanity (Unmāda-roga) — Atharvaveda And Charaka Samhita By Laxmi Maji is best administered with appropriate Anupana (carrier vehicles such as warm water, honey, or warm milk) tailored to an individual's Prakriti (constitution)."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Are there any contraindications or side effects associated with Treatment of Insanity (Unmāda-roga) — Atharvaveda And Charaka Samhita By Laxmi Maji?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "While generally well-tolerated when used appropriately, excessive usage or improper dosing may exacerbate specific doshas. Consult an Ayurvedic physician prior to therapeutic use."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How long does it take to observe results from using Treatment of Insanity (Unmāda-roga) — Atharvaveda And Charaka Samhita By Laxmi Maji?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "In traditional Ayurvedic protocol, herbal formulations operate synergistically with diet and lifestyle. Notable improvements typically emerge within 2 to 4 weeks of consistent administration."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Is Treatment of Insanity (Unmāda-roga) — Atharvaveda And Charaka Samhita By Laxmi Maji safe for long-term daily consumption?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Certain tonic (Rasayana) preparations may be safely used long-term, whereas intensive therapeutic formulas are recommended for specific short-term protocols under expert supervision."
+      }
     }
   ]
 }

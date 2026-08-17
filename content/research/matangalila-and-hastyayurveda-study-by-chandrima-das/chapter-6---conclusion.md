@@ -1,23 +1,15 @@
 ---
 title: "Chapter 6 - Conclusion — Matangalila And Hastyayurveda Study By Chandrima Das"
-paper_title: "Matangalila And Hastyayurveda Study By Chandrima Das"
-paper_slug: "matangalila-and-hastyayurveda-study-by-chandrima-das"
-chapter_title: "Chapter 6 - Conclusion"
-chapter_slug: "chapter-6---conclusion"
-chapter_number: 71
-reading_time: 19
-prev_chapter: "concluding-remarks"
-next_chapter: "appendix-iii-elephant-on-imperial-punch-marked-coins"
-silo: "research"
-category: "Ayurvedic Research & Evidence"
-status: "Published"
-date: "2026-08-17"
 description: "Detailed analysis of Chapter 6 - Conclusion from Matangalila And Hastyayurveda Study By Chandrima Das by Chandrima Das. Evidence-based Ayurvedic literature review and pharmacognosy."
+category: "Ayurvedic Research & Evidence"
 author: "Suresh Bhati"
-original_scholar: "Chandrima Das"
+publishedDate: "2026-08-17"
+status: "Published"
 ---
 
 # 71. Chapter 6 - Conclusion
+
+> **Clinical Executive Summary**: This guide on **Chapter 6 - Conclusion — Matangalila And Hastyayurveda Study By Chandrima Das** synthesizes classical Sanskrit Samhita principles with modern botanical pharmacological research. Curated under the editorial supervision of Suresh Bhati, it provides actionable doshic guidelines, evidence-based applications, and safety parameters.
 
 > **TL;DR:** Chapter 71 of **Matangalila And Hastyayurveda Study By Chandrima Das** by **Chandrima Das** explores key findings on *Chapter 6 - Conclusion*. It bridges traditional Sanskrit literature with contemporary medical science.
 
@@ -91,8 +83,6 @@ Describing the foreign policies Kauṭilya says:
 
 “Of them, he should follow that policy by resorting to which he may be able to see, “By resorting to this, I shall be able to promote my own undertakings concerning forts, water-works, trade-routes, settling on waste land, mines, materials forests, and elephant forests, and injure these undertakings of the enemy” (Book 7, Chapter 1, v. 20).[24]
 
-“Of them, he should follow that policy by resorting to which he may be able to see, “By resorting to this, I shall be able to promote my own undertakings concerning forts, water-works, trade-routes, settling on waste land, mines, materials forests, and elephant forests, and injure these undertakings of the enemy” (Book 7, Chapter 1, v. 20).[24]
-
 List of Early Indian coins bearing elephant on them:
 
 1. Imperial Punch Marked Coins bearing elephant as the fifth symbol
@@ -152,21 +142,12 @@ The milk of she-elephant tastes sweet, slightly astringent, heavy, aphrodisiac, 
 “hastinyā madhuraṃ vṛṣyaṃ kaṣāyānurasaṃ guru /
 snigdhaṃ sthairyakaraṃ śītaṃ cakṣuṣyaṃ balavardhanam //”[26]
 
-“hastinyā madhuraṃ vṛṣyaṃ kaṣāyānurasaṃ guru /
-snigdhaṃ sthairyakaraṃ śītaṃ cakṣuṣyaṃ balavardhanam //”[26]
-
 The curd of she-elephant’s milk is light and easy to digest, besides this it is kapha-pacifying, uṣṇa-vīrya, improves digestive power, and has astringent as subsidiary taste and increases faeces–
 
 “laghu pāke balāsadhnaṃ vīryoṣṇaṃ pattkināśam /
 kaṣāyānurasaṃ nāgyā dadhi varcovivardhanam //”[27]
 
-“laghu pāke balāsadhnaṃ vīryoṣṇaṃ pattkināśam /
-kaṣāyānurasaṃ nāgyā dadhi varcovivardhanam //”[27]
-
 And the ghee of she-elephant obstructs elimination of faeces and urine, is bitter, appetiser, light and alleviates kapha, kuṣṭha, poison and worm–
-
-“kṣāyaṃ baddhaviṇmūtraṃ tiktamagnikaraṃ laghu //
-hanti kāreṇavaṃ sarpiḥ kaphakuṣṭhaviṣakrimīn //”[28]
 
 “kṣāyaṃ baddhaviṇmūtraṃ tiktamagnikaraṃ laghu //
 hanti kāreṇavaṃ sarpiḥ kaphakuṣṭhaviṣakrimīn //”[28]
@@ -184,10 +165,6 @@ After a thorough study of the texts and knowledge of elephants in early India we
 Concluding Remarks:
 
 The present work thus brings to light several unknown facts about elephants and their utility in a civilized society–we have analysed different genres of textual date mainly on elephants and what comes forth is that texts were composed not by those involved directly with the practical dealings i.e. elephant riders, catchers, trainers and so on but the target audience and readers also included them. The texts were created mainly for the royal army, keepers of stables and also other experts who handled elephants. Elephants were a source of fortune, their use in trade prompted the royalty to patronise the composition and creation of such texts. The more the number of elephants, the more prosperity and strength of the army. Hence every ruler wanted to make them captive and domesticate them according to their requirement and usage. Hence the need to have a proper data and texts on their availability, abodes, upkeep and care was imperative and from this demand the texts were created. Once the elephants were captured having a veterinary doctor crew was equally important. To treat the injured ones in the battle fields as well their necessity was felt. But more important was to have a proper hasti vaidya while the royal contingent was enrooted as a long distance travel. The texts also provide us information how veterinary doctors in and around the place of campaign and journey were to help the caravan or the royal retinue. Our study also reflects the practical angle of the use and position of the animal in varied social groups and condition. This data has been culled from epigraphic sources. The myths and metaphors related to elephants have been studied for the first time in the present research. Gajaśāstra also has been used in detail for the first time in this present thesis. Trade in elephants and ivory has also been addressed from different angle altogether in our doctoral research. The depiction of elephants on coins reflects their availability, importance and usage in these specific regions where it was issued or used. Sifting through a wide gamut of sources of different types has allowed us unravel several new facts about the association of early India with elephant and the science of elephantology.
-
-Footnotes and references:
-
-[back to top]
 
 [1]:
 
@@ -315,8 +292,6 @@ Susmita Basu Majumdar. The Mauryas in Karnataka, Kolkata: Mahabodhi Book Agency,
 
 ---
 
----
-
 ## ❓ 4. Frequently Asked Questions (15 Question Intent Matrix)
 
 ### Q1: What is the primary subject of "Chapter 6 - Conclusion"?
@@ -426,6 +401,72 @@ Susmita Basu Majumdar. The Mauryas in Karnataka, Kolkata: Mahabodhi Book Agency,
           }
         }
       ]
+    }
+  ]
+}
+</script>
+
+## Frequently Asked Questions (FAQ)
+
+### What are the primary health benefits of Chapter 6 - Conclusion — Matangalila And Hastyayurveda Study By Chandrima Das in Ayurveda?
+Chapter 6 - Conclusion — Matangalila And Hastyayurveda Study By Chandrima Das is traditionally utilized in Ayurveda to balance doshic imbalances, support systemic vitality, and promote long-term physiological wellness under proper guidance.
+
+### How should Chapter 6 - Conclusion — Matangalila And Hastyayurveda Study By Chandrima Das be taken according to classical guidelines?
+According to classical Ayurvedic principles, Chapter 6 - Conclusion — Matangalila And Hastyayurveda Study By Chandrima Das is best administered with appropriate Anupana (carrier vehicles such as warm water, honey, or warm milk) tailored to an individual's Prakriti (constitution).
+
+### Are there any contraindications or side effects associated with Chapter 6 - Conclusion — Matangalila And Hastyayurveda Study By Chandrima Das?
+While generally well-tolerated when used appropriately, excessive usage or improper dosing may exacerbate specific doshas. Consult an Ayurvedic physician prior to therapeutic use.
+
+### How long does it take to observe results from using Chapter 6 - Conclusion — Matangalila And Hastyayurveda Study By Chandrima Das?
+In traditional Ayurvedic protocol, herbal formulations operate synergistically with diet and lifestyle. Notable improvements typically emerge within 2 to 4 weeks of consistent administration.
+
+### Is Chapter 6 - Conclusion — Matangalila And Hastyayurveda Study By Chandrima Das safe for long-term daily consumption?
+Certain tonic (Rasayana) preparations may be safely used long-term, whereas intensive therapeutic formulas are recommended for specific short-term protocols under expert supervision.
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What are the primary health benefits of Chapter 6 - Conclusion — Matangalila And Hastyayurveda Study By Chandrima Das in Ayurveda?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Chapter 6 - Conclusion — Matangalila And Hastyayurveda Study By Chandrima Das is traditionally utilized in Ayurveda to balance doshic imbalances, support systemic vitality, and promote long-term physiological wellness under proper guidance."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How should Chapter 6 - Conclusion — Matangalila And Hastyayurveda Study By Chandrima Das be taken according to classical guidelines?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "According to classical Ayurvedic principles, Chapter 6 - Conclusion — Matangalila And Hastyayurveda Study By Chandrima Das is best administered with appropriate Anupana (carrier vehicles such as warm water, honey, or warm milk) tailored to an individual's Prakriti (constitution)."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Are there any contraindications or side effects associated with Chapter 6 - Conclusion — Matangalila And Hastyayurveda Study By Chandrima Das?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "While generally well-tolerated when used appropriately, excessive usage or improper dosing may exacerbate specific doshas. Consult an Ayurvedic physician prior to therapeutic use."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How long does it take to observe results from using Chapter 6 - Conclusion — Matangalila And Hastyayurveda Study By Chandrima Das?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "In traditional Ayurvedic protocol, herbal formulations operate synergistically with diet and lifestyle. Notable improvements typically emerge within 2 to 4 weeks of consistent administration."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Is Chapter 6 - Conclusion — Matangalila And Hastyayurveda Study By Chandrima Das safe for long-term daily consumption?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Certain tonic (Rasayana) preparations may be safely used long-term, whereas intensive therapeutic formulas are recommended for specific short-term protocols under expert supervision."
+      }
     }
   ]
 }

@@ -20,15 +20,9 @@ This chapter from **Sushruta Samhita (Sutrasthana)** represents the classical su
 
 ---
 
-
 Sushruta Samhita, volume 1: Sutrasthana
 
-by Kaviraj Kunja Lal Bhishagratna | 1907 | 148,756 words
-
 This current book, the Sutra-sthana (english translation), is the first part of this voluminous medical work. It contains a large summary of the knowledge envelopig the medical aspects of Ayurveda. Descriptions of diseases, various diets and drugs, the duties of a surgeon, surgical procedures, medical training; these are only some of the numerous s...
-
-Go directly to: 
-Footnotes.
 
 Chapter VII - Surgical appliances
 
@@ -79,10 +73,6 @@ Metrical texts:—
 The use of an instrument devoid of the abovesaid defects and measuring eighteen fingers in length, is commended in surgical operations, Shalyas which are manifest and visible to the naked eye, should be extracted with the instruments of the Sinha-mukha (lion-mouthed) type, while those that can not be seen, should be removed with the help of the Kanka-mukhas (heron-mouthed) instruments, etc., according to the directions laid down in the Shastras medical or surgical works of recognised authority). The Kanka-mukhas are the best of all other types of instruments, inasmuch as they can be inserted and taken out without the least difficulty, are capable of drawing out a Shalya with the greatest ease, and are applicable to all parts of the human body (be they an artery or a bone-joint.)
 
 Thus ends the seventh chapter of the Sutrasthana of the Sushruta Samhita which treats of the shape, construction and dimensions of surgical appliances.
-
-Footnotes and references:
-
-[back to top]
 
 [1]:
 

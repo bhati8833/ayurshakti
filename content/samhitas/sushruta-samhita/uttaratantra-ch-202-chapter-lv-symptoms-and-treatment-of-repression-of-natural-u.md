@@ -20,17 +20,11 @@ This chapter from **Sushruta Samhita (Uttaratantra)** represents the classical s
 
 ---
 
-
 Sushruta Samhita, Volume 6: Uttara-tantra
-
-by Kaviraj Kunja Lal Bhishagratna | 1916 | 113,078 words
 
 This current book, the Uttara-tantra (english translation) is the supplementary part of the Sushrutasamhita and deals various subjects such as diseases of the eye, treatment of fever, diarrhea, diseases resulting from superhuman influences, insanity, rules of health etc.
 
 The Sushruta Samhita is the most representative work of the Hindu system of m...
-
-Go directly to: 
-Footnotes.
 
 Chapter LV - Symptoms and Treatment of repression of natural urging (Udavarta)
 
@@ -101,10 +95,6 @@ A compound consisting of Vaca, Ativisha, Kushtha, Yava-Kshara, Haritaki, Pippali
 A compound consisting of the pulverised seeds of Madana and of Alavu, Pippali and Nidigdhika should be blown into the rectum with a pipe. A Varti made of Nikumbha (Danti), Kampilla, Shyama (Trivrit), Ikshaku, Agnika, (Ajamoda), Krita-Vedhana (Kosataki), Magadhi and salt pounded together, made into a paste with the addition of cow’s urine, dried and cut into a proportionate size, should be inserted into the rectum. The last two ambrosial remedies give instantaneous relief in a case of Udavarta. 39.
 
 Thus ends the fifty-fifth chapter of the Uttara-Tantra in the Sushruta Samhita which deals with the (symptoms and) treatment of Udavarta.
-
-Footnotes and references:
-
-[back to top]
 
 [1]:
 

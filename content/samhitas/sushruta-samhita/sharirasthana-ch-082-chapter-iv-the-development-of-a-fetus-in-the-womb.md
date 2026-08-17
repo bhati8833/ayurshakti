@@ -20,17 +20,11 @@ This chapter from **Sushruta Samhita (Sharirasthana)** represents the classical 
 
 ---
 
-
 Sushruta Samhita, volume 3: Sharirasthana
-
-by Kaviraj Kunja Lal Bhishagratna | 1911 | 36,821 words
 
 This current book, the Sharira-sthana (english translation), deals with anatomy, the human body, cosmology, embryology and various other subjects.
 
 The Sushruta Samhita is the most representative work of the Hindu system of medicine. It embraces all that can possibly appertain to the science of medicine. Susruta-samhita is recognized as the first a...
-
-Go directly to: 
-Footnotes.
 
 Chapter IV - The development of a fetus in the womb
 
@@ -191,10 +185,6 @@ Tamasika Features:—
 The features of a Pashava-Sattva man are perverseness of intellect, parsimoniousness, frequent sexual dreams and incapacity of ascertaining or discerning anything. The features of Matsya-Sattva man are unsteadiness, stupidity, cowardice, fond of intermissive quarrel and oppression and a longing for water. The features of a Vanaspati-Sattva man are fondness of staying at the same place, constant eating and absence of truthfulness, piety, riches and enjoyment. Thus the three types of Tamasika temperament have been described, A physician should take in hand a patient with an eye towards these mental traits etc. A physician should coolly deliberate upon the different types of temperament described herein and their characteristic features. 75-76.
 
 Thus ends the fourth Chapter of the Sharira Sthana in the Shushruta Samhita which treats of fetal development etc.
-
-Footnotes and references:
-
-[back to top]
 
 [1]:
 

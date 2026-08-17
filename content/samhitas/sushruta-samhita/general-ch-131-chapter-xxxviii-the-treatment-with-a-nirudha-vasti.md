@@ -20,17 +20,11 @@ This chapter from **Sushruta Samhita (Chikitsasthana)** represents the classical
 
 ---
 
-
 Sushruta Samhita, volume 4: Cikitsasthana
-
-by Kaviraj Kunja Lal Bhishagratna | 1911 | 123,229 words
 
 This current book, the Chikitsa-sthana (english translation), deals with therapeutics, surgical emergencies, geriatrics, aphrodisiacs and various other subjects.
 
 The Sushruta Samhita is the most representative work of the Hindu system of medicine. It embraces all that can possibly appertain to the science of medicine. Susruta-samhita is recognized...
-
-Go directly to: 
-Footnotes.
 
 Chapter XXXVIII - The treatment with a Nirudha-vasti
 
@@ -167,10 +161,6 @@ A judicious physician may prepare, in the light of the principle laid down in co
 The compound Madhu-Tailika Vasti is so called from the facts of its being principally composed of Madhu (honey) and Taila (oil) The term Yukta-Ratha Vasti owes its nomenclature to the fact of its imposing no restriction as regards riding in carnages (Rathas), or on horses and elephants after their application. The Siddha-Vasti derives its name from the uniform success (Siddhi) which attends its application in a large number of cases of bodily distempers and from its irresistible power in improving the strength and complexion of the body. Madhu-Tailika Vastis are recommended to persons of easy and luxurious habits as well as in respect of those whose bowels can be easily moved, or who are in the habit of being daily treated with emulsive measures (Sneha-karma) and whose organisms are marked by scanty accumulations of the bodily Doshas. A Siddha-Vasti does not produce any distress or discomfort, since it is mild in potency and is applied in only three quarters of the usual dose (nine Prasritas only) and does not entail any strict observance of the regimen of diet and conduct (such as the previous administration of emetics and purgatives, etc.), and since it produces a satisfactory result by a single application. 47.
 
 Thus ends the Thirty-eighth Chapter of the Chikitsita Sthana in the Sushruta Samhita which deals with Niruha-Vastis.
-
-Footnotes and references:
-
-[back to top]
 
 [1]:
 

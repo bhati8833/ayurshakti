@@ -20,17 +20,11 @@ This chapter from **Sushruta Samhita (Uttaratantra)** represents the classical s
 
 ---
 
-
 Sushruta Samhita, Volume 6: Uttara-tantra
-
-by Kaviraj Kunja Lal Bhishagratna | 1916 | 113,078 words
 
 This current book, the Uttara-tantra (english translation) is the supplementary part of the Sushrutasamhita and deals various subjects such as diseases of the eye, treatment of fever, diarrhea, diseases resulting from superhuman influences, insanity, rules of health etc.
 
 The Sushruta Samhita is the most representative work of the Hindu system of m...
-
-Go directly to: 
-Footnotes.
 
 Chapter LI - Symptoms and Treatment of Asthma (Shvasa)
 
@@ -115,10 +109,6 @@ A lambative should be prepared with Nidigdhika paste of the weight of an Amalaka
 Irresistible is an attack of asthma like that of a fire fed with heaps of fuel (D. R. fauned by the wind) or like that of the thunderbolt hurled by the wrathful Indra, the king of the gods. 39.
 
 Thus ends the fifty-first chapter in the Uttara-Tantra of the Sushruta-Samhita which deals with the (symptoms and) treatment of asthma.
-
-Footnotes and references:
-
-[back to top]
 
 [1]:
 

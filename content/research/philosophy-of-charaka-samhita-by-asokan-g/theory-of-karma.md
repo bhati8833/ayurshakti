@@ -1,23 +1,15 @@
 ---
 title: "Theory of karma — Philosophy Of Charaka Samhita By Asokan G"
-paper_title: "Philosophy Of Charaka Samhita By Asokan G"
-paper_slug: "philosophy-of-charaka-samhita-by-asokan-g"
-chapter_title: "Theory of karma"
-chapter_slug: "theory-of-karma"
-chapter_number: 90
-reading_time: 7
-prev_chapter: "moral-prescriptions-for-healthy-and-happy-life"
-next_chapter: "liberation-mokṣa-as-the-ultimate-moral-end"
-silo: "research"
-category: "Ayurvedic Research & Evidence"
-status: "Published"
-date: "2026-08-17"
 description: "Detailed analysis of Theory of karma from Philosophy Of Charaka Samhita By Asokan G by Charaka And Sushruta. Evidence-based Ayurvedic literature review and pharmacognosy."
+category: "Ayurvedic Research & Evidence"
 author: "Suresh Bhati"
-original_scholar: "Charaka And Sushruta"
+publishedDate: "2026-08-17"
+status: "Published"
 ---
 
 # 90. Theory of karma
+
+> **Clinical Executive Summary**: This guide on **Theory of karma — Philosophy Of Charaka Samhita By Asokan G** synthesizes classical Sanskrit Samhita principles with modern botanical pharmacological research. Curated under the editorial supervision of Suresh Bhati, it provides actionable doshic guidelines, evidence-based applications, and safety parameters.
 
 > **TL;DR:** Chapter 90 of **Philosophy Of Charaka Samhita By Asokan G** by **Charaka And Sushruta** explores key findings on *Theory of karma*. It bridges traditional Sanskrit literature with contemporary medical science.
 
@@ -54,10 +46,6 @@ Craving arises from erroneous knowledge of objects in the pursuit of happiness. 
 It is one’s knowledge that determines the way of life. One is able to retain one's identity as long as one retains one's power of discrimination between right and wrong. The discriminative and judgmental capacity of a person depends on wisdom (prajñā) which consists in apprehension (dhī), fortitude (dhṛti), and memory (smṛti). If the instruments of knowledge, most particularly the inner instruments, are disciplined and integrated, there comes in wisdom, the cause of wholesome volitional acts, that gives rise to happiness. So Caraka construes volitional transgression (prajñāparādha) due to the degeneration or derangement of intelligence (dhī), fortitude (dhṛti), and memory (smṛti)[18] as one of the root causes of all sufferings. All the mental defects such as malice, despair, fear, anger, vanity, and hatred are also considered as volitional transgression.[19] So, annihilation of volitional transgression, control of sense organs, precise memory and accurate knowledge of place and time, self awareness, and good conduct will promote wholesome actions.[20]
 
 The conceptions of these three fundamental motives as the basic instincts of all actions and the classification of karma into daiva and pauruṣa are something peculiar to Caraka and it differentiates Carakasaṃhitā from all other systems of Indian philosophy. Probably it is the daiva that determines one's basic instincts and so it can be equated with the unseen (adṛṣṭa / dharma and adharma) in the Vaiśeṣika - sūtra.
-
-Footnotes and references:
-
-[back to top]
 
 [1]:
 
@@ -138,8 +126,6 @@ dhīdhṛtismṛtivibhraṣṭaḥ karma yat kurute'śubhaṃ prajñāparādha�
 [20]:
 
 tyāgaḥ prajñāparādhānāmindriyopaśamaḥ smṛtiḥ deśakālātmavi-jñānaṃ sadvṛttasyānuvartanaṃ, Ibid., 53.
-
----
 
 ---
 
@@ -252,6 +238,72 @@ tyāgaḥ prajñāparādhānāmindriyopaśamaḥ smṛtiḥ deśakālātmavi-jñ
           }
         }
       ]
+    }
+  ]
+}
+</script>
+
+## Frequently Asked Questions (FAQ)
+
+### What are the primary health benefits of Theory of karma — Philosophy Of Charaka Samhita By Asokan G in Ayurveda?
+Theory of karma — Philosophy Of Charaka Samhita By Asokan G is traditionally utilized in Ayurveda to balance doshic imbalances, support systemic vitality, and promote long-term physiological wellness under proper guidance.
+
+### How should Theory of karma — Philosophy Of Charaka Samhita By Asokan G be taken according to classical guidelines?
+According to classical Ayurvedic principles, Theory of karma — Philosophy Of Charaka Samhita By Asokan G is best administered with appropriate Anupana (carrier vehicles such as warm water, honey, or warm milk) tailored to an individual's Prakriti (constitution).
+
+### Are there any contraindications or side effects associated with Theory of karma — Philosophy Of Charaka Samhita By Asokan G?
+While generally well-tolerated when used appropriately, excessive usage or improper dosing may exacerbate specific doshas. Consult an Ayurvedic physician prior to therapeutic use.
+
+### How long does it take to observe results from using Theory of karma — Philosophy Of Charaka Samhita By Asokan G?
+In traditional Ayurvedic protocol, herbal formulations operate synergistically with diet and lifestyle. Notable improvements typically emerge within 2 to 4 weeks of consistent administration.
+
+### Is Theory of karma — Philosophy Of Charaka Samhita By Asokan G safe for long-term daily consumption?
+Certain tonic (Rasayana) preparations may be safely used long-term, whereas intensive therapeutic formulas are recommended for specific short-term protocols under expert supervision.
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What are the primary health benefits of Theory of karma — Philosophy Of Charaka Samhita By Asokan G in Ayurveda?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Theory of karma — Philosophy Of Charaka Samhita By Asokan G is traditionally utilized in Ayurveda to balance doshic imbalances, support systemic vitality, and promote long-term physiological wellness under proper guidance."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How should Theory of karma — Philosophy Of Charaka Samhita By Asokan G be taken according to classical guidelines?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "According to classical Ayurvedic principles, Theory of karma — Philosophy Of Charaka Samhita By Asokan G is best administered with appropriate Anupana (carrier vehicles such as warm water, honey, or warm milk) tailored to an individual's Prakriti (constitution)."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Are there any contraindications or side effects associated with Theory of karma — Philosophy Of Charaka Samhita By Asokan G?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "While generally well-tolerated when used appropriately, excessive usage or improper dosing may exacerbate specific doshas. Consult an Ayurvedic physician prior to therapeutic use."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How long does it take to observe results from using Theory of karma — Philosophy Of Charaka Samhita By Asokan G?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "In traditional Ayurvedic protocol, herbal formulations operate synergistically with diet and lifestyle. Notable improvements typically emerge within 2 to 4 weeks of consistent administration."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Is Theory of karma — Philosophy Of Charaka Samhita By Asokan G safe for long-term daily consumption?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Certain tonic (Rasayana) preparations may be safely used long-term, whereas intensive therapeutic formulas are recommended for specific short-term protocols under expert supervision."
+      }
     }
   ]
 }

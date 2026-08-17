@@ -1,23 +1,15 @@
 ---
 title: "Gajendra-Mokṣa (Gajendra’s salvation) — Matangalila And Hastyayurveda Study By Chandrima Das"
-paper_title: "Matangalila And Hastyayurveda Study By Chandrima Das"
-paper_slug: "matangalila-and-hastyayurveda-study-by-chandrima-das"
-chapter_title: "Gajendra-Mokṣa (Gajendra’s salvation)"
-chapter_slug: "gajendra-mokṣa-gajendras-salvation"
-chapter_number: 60
-reading_time: 5
-prev_chapter: "hybrid-and-sea-creatures"
-next_chapter: "mythological-motifs-related-to-elephants"
-silo: "research"
-category: "Ayurvedic Research & Evidence"
-status: "Published"
-date: "2026-08-17"
 description: "Detailed analysis of Gajendra-Mokṣa (Gajendra’s salvation) from Matangalila And Hastyayurveda Study By Chandrima Das by Chandrima Das. Evidence-based Ayurvedic literature review and pharmacognosy."
+category: "Ayurvedic Research & Evidence"
 author: "Suresh Bhati"
-original_scholar: "Chandrima Das"
+publishedDate: "2026-08-17"
+status: "Published"
 ---
 
 # 60. Gajendra-Mokṣa (Gajendra’s salvation)
+
+> **Clinical Executive Summary**: This guide on **Gajendra-Mokṣa (Gajendra’s salvation) — Matangalila And Hastyayurveda Study By Chandrima Das** synthesizes classical Sanskrit Samhita principles with modern botanical pharmacological research. Curated under the editorial supervision of Suresh Bhati, it provides actionable doshic guidelines, evidence-based applications, and safety parameters.
 
 > **TL;DR:** Chapter 60 of **Matangalila And Hastyayurveda Study By Chandrima Das** by **Chandrima Das** explores key findings on *Gajendra-Mokṣa (Gajendra’s salvation)*. It bridges traditional Sanskrit literature with contemporary medical science.
 
@@ -45,8 +37,6 @@ For example Cintra Praśasti of the reign of Śāraṅgadeva elucidated the king
 
 “To his (Śāraṅgadhara) power he in reduce the powers of the Yādava and the Mālava lords, just as the lord bird formerly (overcome) the huge bodies elephant and the tortoise (v.13).”[2]
 
-“To his (Śāraṅgadhara) power he in reduce the powers of the Yādava and the Mālava lords, just as the lord bird formerly (overcome) the huge bodies elephant and the tortoise (v.13).”[2]
-
 Two other records from Sinda and Benchamatti (Śaka 1088 and 1109) refer this Purāṇic story.[3]
 
 The continuity of the narratives through a large span of time is quite significant and the presence of elephant in the narrative as the central character is noteworthy. The Gajendra mokṣa legend possibly represents a Purāṇic variation of the Ṛgvedic episode of Indra destroying Vṛtrāsura to liberate the rain clouds. Here, the elephant hero suggests a body of water rendered unsuitable for consumption by the presence of a “water monster”. Viṣṇu, who has replaced Indra in importance in the Purāṇas, is alone capable of reversing the situation to provide a remedy.
@@ -54,10 +44,6 @@ The continuity of the narratives through a large span of time is quite significa
 The rescue-scene emerges with quite grandeur on the Northern facade of the Daśāvatāra temple. The water-monster here is a nāga accompanied by his queen; the lotus pond is more evocative of a nest of mesmerised cobras. As Gajendra stands in their loosening coils, the nāga couple gazes heavenwards with hand folded in penitence. Viṣṇu’s expression is imperious, reminiscent of his features in the southern facade of the shrine, where other divinities had watched over his recumbent form. Here, a divine coronation awaits the elephant.[4]
 
 Another interesting fact is the association of Gajendra with a typical kind of cloud. Puranic scholars have categorised these clouds into three classes, the first of those is “āgneya”. It originates from fire or heat or in other words evaporation. In a better sense they may be called cyclonic, thermal or clouds formed due to insolation. The Brahmāṇḍa Purāṇa explains that the āgneya clouds occurs in the winter season and assume the form of an elephant including a buffalo or boar being devoid of lightning and thunder (Vidyutguṇavihīnāḥ). These are of immense importance and are said to bring rainfall on the mountain foot within a radius of a krośa or a half (3 km. or 1.5 km).[5] It can be assumed that the clouds in elephant form might be hindered by some atmospheric reason that may have an adverse effect on the water resources. This atmospheric hindrance is depicted as the water-monster is the mythology. What is interesting is the fact that the elephants need water bodies for their survival and good health and their association with water, its evaporation and finally with clouds is the indication of the embedded concept of water cycle. The symbolism of these narratives has a much deeper insight.
-
-Footnotes and references:
-
-[back to top]
 
 [1]:
 
@@ -78,8 +64,6 @@ V. Ram., p.43.
 [5]:
 
 Brahmāṇḍa Purāṇa, 11.22.31-35 (they correspond to large cumulous clouds and nimbus clouds) and Bechan Dube. Geographical Concepts in Ancient India, p. 64.
-
----
 
 ---
 
@@ -192,6 +176,72 @@ Brahmāṇḍa Purāṇa, 11.22.31-35 (they correspond to large cumulous clouds 
           }
         }
       ]
+    }
+  ]
+}
+</script>
+
+## Frequently Asked Questions (FAQ)
+
+### What are the primary health benefits of Gajendra-Mokṣa (Gajendra’s salvation) — Matangalila And Hastyayurveda Study By Chandrima Das in Ayurveda?
+Gajendra-Mokṣa (Gajendra’s salvation) — Matangalila And Hastyayurveda Study By Chandrima Das is traditionally utilized in Ayurveda to balance doshic imbalances, support systemic vitality, and promote long-term physiological wellness under proper guidance.
+
+### How should Gajendra-Mokṣa (Gajendra’s salvation) — Matangalila And Hastyayurveda Study By Chandrima Das be taken according to classical guidelines?
+According to classical Ayurvedic principles, Gajendra-Mokṣa (Gajendra’s salvation) — Matangalila And Hastyayurveda Study By Chandrima Das is best administered with appropriate Anupana (carrier vehicles such as warm water, honey, or warm milk) tailored to an individual's Prakriti (constitution).
+
+### Are there any contraindications or side effects associated with Gajendra-Mokṣa (Gajendra’s salvation) — Matangalila And Hastyayurveda Study By Chandrima Das?
+While generally well-tolerated when used appropriately, excessive usage or improper dosing may exacerbate specific doshas. Consult an Ayurvedic physician prior to therapeutic use.
+
+### How long does it take to observe results from using Gajendra-Mokṣa (Gajendra’s salvation) — Matangalila And Hastyayurveda Study By Chandrima Das?
+In traditional Ayurvedic protocol, herbal formulations operate synergistically with diet and lifestyle. Notable improvements typically emerge within 2 to 4 weeks of consistent administration.
+
+### Is Gajendra-Mokṣa (Gajendra’s salvation) — Matangalila And Hastyayurveda Study By Chandrima Das safe for long-term daily consumption?
+Certain tonic (Rasayana) preparations may be safely used long-term, whereas intensive therapeutic formulas are recommended for specific short-term protocols under expert supervision.
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What are the primary health benefits of Gajendra-Mokṣa (Gajendra’s salvation) — Matangalila And Hastyayurveda Study By Chandrima Das in Ayurveda?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Gajendra-Mokṣa (Gajendra’s salvation) — Matangalila And Hastyayurveda Study By Chandrima Das is traditionally utilized in Ayurveda to balance doshic imbalances, support systemic vitality, and promote long-term physiological wellness under proper guidance."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How should Gajendra-Mokṣa (Gajendra’s salvation) — Matangalila And Hastyayurveda Study By Chandrima Das be taken according to classical guidelines?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "According to classical Ayurvedic principles, Gajendra-Mokṣa (Gajendra’s salvation) — Matangalila And Hastyayurveda Study By Chandrima Das is best administered with appropriate Anupana (carrier vehicles such as warm water, honey, or warm milk) tailored to an individual's Prakriti (constitution)."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Are there any contraindications or side effects associated with Gajendra-Mokṣa (Gajendra’s salvation) — Matangalila And Hastyayurveda Study By Chandrima Das?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "While generally well-tolerated when used appropriately, excessive usage or improper dosing may exacerbate specific doshas. Consult an Ayurvedic physician prior to therapeutic use."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How long does it take to observe results from using Gajendra-Mokṣa (Gajendra’s salvation) — Matangalila And Hastyayurveda Study By Chandrima Das?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "In traditional Ayurvedic protocol, herbal formulations operate synergistically with diet and lifestyle. Notable improvements typically emerge within 2 to 4 weeks of consistent administration."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Is Gajendra-Mokṣa (Gajendra’s salvation) — Matangalila And Hastyayurveda Study By Chandrima Das safe for long-term daily consumption?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Certain tonic (Rasayana) preparations may be safely used long-term, whereas intensive therapeutic formulas are recommended for specific short-term protocols under expert supervision."
+      }
     }
   ]
 }

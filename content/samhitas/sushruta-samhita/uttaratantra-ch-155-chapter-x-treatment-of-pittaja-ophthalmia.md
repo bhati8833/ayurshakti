@@ -20,17 +20,11 @@ This chapter from **Sushruta Samhita (Uttaratantra)** represents the classical s
 
 ---
 
-
 Sushruta Samhita, Volume 6: Uttara-tantra
-
-by Kaviraj Kunja Lal Bhishagratna | 1916 | 113,078 words
 
 This current book, the Uttara-tantra (english translation) is the supplementary part of the Sushrutasamhita and deals various subjects such as diseases of the eye, treatment of fever, diarrhea, diseases resulting from superhuman influences, insanity, rules of health etc.
 
 The Sushruta Samhita is the most representative work of the Hindu system of m...
-
-Go directly to: 
-Footnotes.
 
 Chapter X - Treatment of Pittaja Ophthalmia
 
@@ -59,10 +53,6 @@ In a case of Shukti-paka an Anjana with cooling drugs should be speedily employe
 Clarified butter should be administered in a case of Dhuma-darshin and the procedure and the remedial measures laid down in connection with Rakta-pitta and Pitta-origined Visarpa (Erysipelas) as well as the Pitta-sub-duing remedies[7] should be likewise employed therein. 9.
 
 Thus ends the tenth chapter in the Uttra-Tantra of the Sushruta Samhita which deals with of the curative treatment of Pittabhishyanda.
-
-Footnotes and references:
-
-[back to top]
 
 [1]:
 

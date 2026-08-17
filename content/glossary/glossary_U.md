@@ -18,7 +18,6 @@ Language and terminology form the backbone of traditional Indian medicine. Every
 
 ---
 
-
 ### Key Sanskrit Terms starting with 'U' (Sample Preview)
 The following is an excerpt of classical Sanskrit terms starting with letter **U**:
 
@@ -57,7 +56,6 @@ The following is an excerpt of classical Sanskrit terms starting with letter **U
 </ul>
 
 *Browse all 476 authenticated terms under Letter U in the searchable directory above.*
-
 
 ---
 

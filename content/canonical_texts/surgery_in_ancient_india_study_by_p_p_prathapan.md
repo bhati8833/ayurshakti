@@ -9,19 +9,11 @@ date: "2026-08-17"
 description: "Samhita details the practice of surgery known to ancient Indian traditional medicine, which showcases an advanced development in this field as well as theoretical and practical knowledge of hygiene..."
 ---
 
-**Author / Source:** by P. P. Prathapan
-
-
-**Total Chapters/Sections:** 93
-
 ---
 
 ## 1. 2. Introduction to Ayurveda (science of life)
 
-
 Surgery in ancient India (Study)
-
-by P. P. Prathapan | 2011 | 50,270 words
 
 This essay studies Surgery in ancient India based on Sanskrit sources.—The Sushruta Samhita details the practice of surgery known to ancient Indian traditional medicine, which showcases an advanced development in this field as well as theoretical and practical knowledge of hygiene rivaling contemporary routine practices. The present thesis further ...
 
@@ -39,10 +31,7 @@ The western world, which has so far blunted the progress of Ayurveda by a strong
 
 ## 2. 3. Origin of Ayurveda
 
-
 Surgery in ancient India (Study)
-
-by P. P. Prathapan | 2011 | 50,270 words
 
 This essay studies Surgery in ancient India based on Sanskrit sources.—The Sushruta Samhita details the practice of surgery known to ancient Indian traditional medicine, which showcases an advanced development in this field as well as theoretical and practical knowledge of hygiene rivaling contemporary routine practices. The present thesis further ...
 
@@ -66,10 +55,7 @@ are not indicative of any beginning of the science. The phenomenon of increase b
 
 ## 3. Preface
 
-
 Surgery in ancient India (Study)
-
-by P. P. Prathapan | 2011 | 50,270 words
 
 This essay studies Surgery in ancient India based on Sanskrit sources.—The Sushruta Samhita details the practice of surgery known to ancient Indian traditional medicine, which showcases an advanced development in this field as well as theoretical and practical knowledge of hygiene rivaling contemporary routine practices. The present thesis further ...
 
@@ -83,10 +69,7 @@ PREFACE Surgery had a different history from the other parts of traditional medi
 
 ## 4. Chapter 1 - Ayurveda and Sanskrit literature
 
-
 Surgery in ancient India (Study)
-
-by P. P. Prathapan | 2011 | 50,270 words
 
 This essay studies Surgery in ancient India based on Sanskrit sources.—The Sushruta Samhita details the practice of surgery known to ancient Indian traditional medicine, which showcases an advanced development in this field as well as theoretical and practical knowledge of hygiene rivaling contemporary routine practices. The present thesis further ...
 
@@ -98,10 +81,7 @@ Chapter 1 - Ayurveda and Sanskrit literature
 
 ## 5. 4. Veterinary science in Ayurveda
 
-
 Surgery in ancient India (Study)
-
-by P. P. Prathapan | 2011 | 50,270 words
 
 This essay studies Surgery in ancient India based on Sanskrit sources.—The Sushruta Samhita details the practice of surgery known to ancient Indian traditional medicine, which showcases an advanced development in this field as well as theoretical and practical knowledge of hygiene rivaling contemporary routine practices. The present thesis further ...
 
@@ -117,10 +97,7 @@ diseases, Ksudra Roga Sthana or minor diseases, Salya Sthana or surgery and Ciki
 
 ## 6. 1. Introduction to the Four Vedas
 
-
 Surgery in ancient India (Study)
-
-by P. P. Prathapan | 2011 | 50,270 words
 
 This essay studies Surgery in ancient India based on Sanskrit sources.—The Sushruta Samhita details the practice of surgery known to ancient Indian traditional medicine, which showcases an advanced development in this field as well as theoretical and practical knowledge of hygiene rivaling contemporary routine practices. The present thesis further ...
 
@@ -146,10 +123,7 @@ proper practice mantra will be effective. So Ayurveda is just like mantra, it wi
 
 ## 7. 6. Description of Diseases
 
-
 Surgery in ancient India (Study)
-
-by P. P. Prathapan | 2011 | 50,270 words
 
 This essay studies Surgery in ancient India based on Sanskrit sources.—The Sushruta Samhita details the practice of surgery known to ancient Indian traditional medicine, which showcases an advanced development in this field as well as theoretical and practical knowledge of hygiene rivaling contemporary routine practices. The present thesis further ...
 
@@ -163,10 +137,7 @@ prayers to Gods Sun and Moon, giving incision with the root of Muni deva, leach 
 
 ## 8. 5. Ayurveda and Veda
 
-
 Surgery in ancient India (Study)
-
-by P. P. Prathapan | 2011 | 50,270 words
 
 This essay studies Surgery in ancient India based on Sanskrit sources.—The Sushruta Samhita details the practice of surgery known to ancient Indian traditional medicine, which showcases an advanced development in this field as well as theoretical and practical knowledge of hygiene rivaling contemporary routine practices. The present thesis further ...
 
@@ -196,10 +167,7 @@ been used to denote 'micro organisms in Atharvaveda). Nearly 100 types of organi
 
 ## 9. 10. Ayurveda in the Smritis
 
-
 Surgery in ancient India (Study)
-
-by P. P. Prathapan | 2011 | 50,270 words
 
 This essay studies Surgery in ancient India based on Sanskrit sources.—The Sushruta Samhita details the practice of surgery known to ancient Indian traditional medicine, which showcases an advanced development in this field as well as theoretical and practical knowledge of hygiene rivaling contemporary routine practices. The present thesis further ...
 
@@ -213,10 +181,7 @@ among the masses.
 
 ## 10. 9. Ayurveda in Upanisads, Epics, Puranas, Vyakarana, and Sahitya
 
-
 Surgery in ancient India (Study)
-
-by P. P. Prathapan | 2011 | 50,270 words
 
 This essay studies Surgery in ancient India based on Sanskrit sources.—The Sushruta Samhita details the practice of surgery known to ancient Indian traditional medicine, which showcases an advanced development in this field as well as theoretical and practical knowledge of hygiene rivaling contemporary routine practices. The present thesis further ...
 
@@ -232,10 +197,7 @@ Brahma Vaivarta Purana, Daksa Prajapati taught Ayurveda to Brahma ' and he, in t
 
 ## 11. 8. Description of Medicines and Treatment in Ayurveda
 
-
 Surgery in ancient India (Study)
-
-by P. P. Prathapan | 2011 | 50,270 words
 
 This essay studies Surgery in ancient India based on Sanskrit sources.—The Sushruta Samhita details the practice of surgery known to ancient Indian traditional medicine, which showcases an advanced development in this field as well as theoretical and practical knowledge of hygiene rivaling contemporary routine practices. The present thesis further ...
 
@@ -251,10 +213,7 @@ TYPES OF TREATMENT Four types of treatment have been mentioned in Atharvaveda. 4
 
 ## 12. 7. Description of Medicinal plants
 
-
 Surgery in ancient India (Study)
-
-by P. P. Prathapan | 2011 | 50,270 words
 
 This essay studies Surgery in ancient India based on Sanskrit sources.—The Sushruta Samhita details the practice of surgery known to ancient Indian traditional medicine, which showcases an advanced development in this field as well as theoretical and practical knowledge of hygiene rivaling contemporary routine practices. The present thesis further ...
 
@@ -268,10 +227,7 @@ disorders. Prsniparni Sayana interpreted it as Citraparni Ousadhi (a plant havin
 
 ## 13. 11. Rxamples of Hygienic rules in Manusmrti
 
-
 Surgery in ancient India (Study)
-
-by P. P. Prathapan | 2011 | 50,270 words
 
 This essay studies Surgery in ancient India based on Sanskrit sources.—The Sushruta Samhita details the practice of surgery known to ancient Indian traditional medicine, which showcases an advanced development in this field as well as theoretical and practical knowledge of hygiene rivaling contemporary routine practices. The present thesis further ...
 
@@ -283,10 +239,7 @@ EXAMPLES OF HYGIENIC RULES IN MANUSMRTI—Don't take bath after eating, One shou
 
 ## 14. 14. Ayurveda in Kautilya's Arthasastra
 
-
 Surgery in ancient India (Study)
-
-by P. P. Prathapan | 2011 | 50,270 words
 
 This essay studies Surgery in ancient India based on Sanskrit sources.—The Sushruta Samhita details the practice of surgery known to ancient Indian traditional medicine, which showcases an advanced development in this field as well as theoretical and practical knowledge of hygiene rivaling contemporary routine practices. The present thesis further ...
 
@@ -306,10 +259,7 @@ Mourya the Government has taken utmost care regarding public health and was also
 
 ## 15. 15. Ayurveda and Panini
 
-
 Surgery in ancient India (Study)
-
-by P. P. Prathapan | 2011 | 50,270 words
 
 This essay studies Surgery in ancient India based on Sanskrit sources.—The Sushruta Samhita details the practice of surgery known to ancient Indian traditional medicine, which showcases an advanced development in this field as well as theoretical and practical knowledge of hygiene rivaling contemporary routine practices. The present thesis further ...
 
@@ -325,10 +275,7 @@ preparations like Madya, Sura, etc. are also found. References pertaining to ana
 
 ## 16. 12. Ayurveda in Ramayana
 
-
 Surgery in ancient India (Study)
-
-by P. P. Prathapan | 2011 | 50,270 words
 
 This essay studies Surgery in ancient India based on Sanskrit sources.—The Sushruta Samhita details the practice of surgery known to ancient Indian traditional medicine, which showcases an advanced development in this field as well as theoretical and practical knowledge of hygiene rivaling contemporary routine practices. The present thesis further ...
 
@@ -344,10 +291,7 @@ USE OF ALCOHOLIC PREPARATIONS In the enumeration of `Pang Bhumi' of Ravana, diff
 
 ## 17. 13. Ayurveda in Mahabharata
 
-
 Surgery in ancient India (Study)
-
-by P. P. Prathapan | 2011 | 50,270 words
 
 This essay studies Surgery in ancient India based on Sanskrit sources.—The Sushruta Samhita details the practice of surgery known to ancient Indian traditional medicine, which showcases an advanced development in this field as well as theoretical and practical knowledge of hygiene rivaling contemporary routine practices. The present thesis further ...
 
@@ -365,10 +309,7 @@ During her pregnancy, Gandhari beat herself on her abdomen which resulted in abo
 
 ## 18. 16. Conclusion and References
 
-
 Surgery in ancient India (Study)
-
-by P. P. Prathapan | 2011 | 50,270 words
 
 This essay studies Surgery in ancient India based on Sanskrit sources.—The Sushruta Samhita details the practice of surgery known to ancient Indian traditional medicine, which showcases an advanced development in this field as well as theoretical and practical knowledge of hygiene rivaling contemporary routine practices. The present thesis further ...
 
@@ -392,10 +333,7 @@ Yajurveda Samhita, Veda Pratishthana, New Delhi, 1989, P-208 46. Subbarayappa, B
 
 ## 19. Chapter 2 - The concept and practice of Surgery in ancient India
 
-
 Surgery in ancient India (Study)
-
-by P. P. Prathapan | 2011 | 50,270 words
 
 This essay studies Surgery in ancient India based on Sanskrit sources.—The Sushruta Samhita details the practice of surgery known to ancient Indian traditional medicine, which showcases an advanced development in this field as well as theoretical and practical knowledge of hygiene rivaling contemporary routine practices. The present thesis further ...
 
@@ -409,10 +347,7 @@ References from Sanskrit sources
 
 ## 20. 2. History of Surgery
 
-
 Surgery in ancient India (Study)
-
-by P. P. Prathapan | 2011 | 50,270 words
 
 This essay studies Surgery in ancient India based on Sanskrit sources.—The Sushruta Samhita details the practice of surgery known to ancient Indian traditional medicine, which showcases an advanced development in this field as well as theoretical and practical knowledge of hygiene rivaling contemporary routine practices. The present thesis further ...
 
@@ -432,10 +367,7 @@ Barber surgeons generally had a bad reputation that was not to 19 improve until 
 
 ## 21. 1. Introduction to the concept of Surgery
 
-
 Surgery in ancient India (Study)
-
-by P. P. Prathapan | 2011 | 50,270 words
 
 This essay studies Surgery in ancient India based on Sanskrit sources.—The Sushruta Samhita details the practice of surgery known to ancient Indian traditional medicine, which showcases an advanced development in this field as well as theoretical and practical knowledge of hygiene rivaling contemporary routine practices. The present thesis further ...
 
@@ -457,10 +389,7 @@ environments such as the battlefield or natural disaster areas with surgeons ope
 
 ## 22. 4. Surgery in the time of Vedas
 
-
 Surgery in ancient India (Study)
-
-by P. P. Prathapan | 2011 | 50,270 words
 
 This essay studies Surgery in ancient India based on Sanskrit sources.—The Sushruta Samhita details the practice of surgery known to ancient Indian traditional medicine, which showcases an advanced development in this field as well as theoretical and practical knowledge of hygiene rivaling contemporary routine practices. The present thesis further ...
 
@@ -478,10 +407,7 @@ On surgery and treatment of diseases of eye, ear, nose and throat (salya tantra 
 
 ## 23. 5. Surgery in the Ramayana
 
-
 Surgery in ancient India (Study)
-
-by P. P. Prathapan | 2011 | 50,270 words
 
 This essay studies Surgery in ancient India based on Sanskrit sources.—The Sushruta Samhita details the practice of surgery known to ancient Indian traditional medicine, which showcases an advanced development in this field as well as theoretical and practical knowledge of hygiene rivaling contemporary routine practices. The present thesis further ...
 
@@ -503,10 +429,7 @@ present modern medical system, where, animal parts are transplanted. In one plac
 
 ## 24. 3. Surgery in Indian tradition (introduction)
 
-
 Surgery in ancient India (Study)
-
-by P. P. Prathapan | 2011 | 50,270 words
 
 This essay studies Surgery in ancient India based on Sanskrit sources.—The Sushruta Samhita details the practice of surgery known to ancient Indian traditional medicine, which showcases an advanced development in this field as well as theoretical and practical knowledge of hygiene rivaling contemporary routine practices. The present thesis further ...
 
@@ -532,10 +455,7 @@ dwelled in cavernous realms lighted by precious stones of unimaginable radiance.
 
 ## 25. 6. Surgery in the Mahabharata
 
-
 Surgery in ancient India (Study)
-
-by P. P. Prathapan | 2011 | 50,270 words
 
 This essay studies Surgery in ancient India based on Sanskrit sources.—The Sushruta Samhita details the practice of surgery known to ancient Indian traditional medicine, which showcases an advanced development in this field as well as theoretical and practical knowledge of hygiene rivaling contemporary routine practices. The present thesis further ...
 
@@ -549,10 +469,7 @@ arrows as a true ksatriya. This suggests that military surgeons and 55 practice 
 
 ## 26. 7. Surgery in the Puranas
 
-
 Surgery in ancient India (Study)
-
-by P. P. Prathapan | 2011 | 50,270 words
 
 This essay studies Surgery in ancient India based on Sanskrit sources.—The Sushruta Samhita details the practice of surgery known to ancient Indian traditional medicine, which showcases an advanced development in this field as well as theoretical and practical knowledge of hygiene rivaling contemporary routine practices. The present thesis further ...
 
@@ -564,10 +481,7 @@ Our puranas give us a lot of information about surgery which is found in Itihasa
 
 ## 27. 9. Surgery in the Bhoja Prabandha
 
-
 Surgery in ancient India (Study)
-
-by P. P. Prathapan | 2011 | 50,270 words
 
 This essay studies Surgery in ancient India based on Sanskrit sources.—The Sushruta Samhita details the practice of surgery known to ancient Indian traditional medicine, which showcases an advanced development in this field as well as theoretical and practical knowledge of hygiene rivaling contemporary routine practices. The present thesis further ...
 
@@ -579,10 +493,7 @@ SURGERY IN BHOJA PRABANDHA There is the description of king Bhojas suffering fro
 
 ## 28. 11. Jumara Jivaka and Surgery
 
-
 Surgery in ancient India (Study)
-
-by P. P. Prathapan | 2011 | 50,270 words
 
 This essay studies Surgery in ancient India based on Sanskrit sources.—The Sushruta Samhita details the practice of surgery known to ancient Indian traditional medicine, which showcases an advanced development in this field as well as theoretical and practical knowledge of hygiene rivaling contemporary routine practices. The present thesis further ...
 
@@ -596,10 +507,7 @@ Devadatta became the master of Ajatasatru, the Magadha king who destroyed the re
 
 ## 29. 8. Surgery in the Venisamhara
 
-
 Surgery in ancient India (Study)
-
-by P. P. Prathapan | 2011 | 50,270 words
 
 This essay studies Surgery in ancient India based on Sanskrit sources.—The Sushruta Samhita details the practice of surgery known to ancient Indian traditional medicine, which showcases an advanced development in this field as well as theoretical and practical knowledge of hygiene rivaling contemporary routine practices. The present thesis further ...
 
@@ -613,10 +521,7 @@ taken from the Mahabharata, and covers the period which elapses between the retu
 
 ## 30. 10. Buddhism and Surgery
 
-
 Surgery in ancient India (Study)
-
-by P. P. Prathapan | 2011 | 50,270 words
 
 This essay studies Surgery in ancient India based on Sanskrit sources.—The Sushruta Samhita details the practice of surgery known to ancient Indian traditional medicine, which showcases an advanced development in this field as well as theoretical and practical knowledge of hygiene rivaling contemporary routine practices. The present thesis further ...
 
@@ -632,10 +537,7 @@ life of all beings. His followers built many health centres for men and animals.
 
 ## 31. 13. Surgical references in Jainism
 
-
 Surgery in ancient India (Study)
-
-by P. P. Prathapan | 2011 | 50,270 words
 
 This essay studies Surgery in ancient India based on Sanskrit sources.—The Sushruta Samhita details the practice of surgery known to ancient Indian traditional medicine, which showcases an advanced development in this field as well as theoretical and practical knowledge of hygiene rivaling contemporary routine practices. The present thesis further ...
 
@@ -649,10 +551,7 @@ Ayurveda. The treatment mentioned in the Siddhanta Rasayana Kalpa was according 
 
 ## 32. 12. Nagarjuna Acharya and Surgery
 
-
 Surgery in ancient India (Study)
-
-by P. P. Prathapan | 2011 | 50,270 words
 
 This essay studies Surgery in ancient India based on Sanskrit sources.—The Sushruta Samhita details the practice of surgery known to ancient Indian traditional medicine, which showcases an advanced development in this field as well as theoretical and practical knowledge of hygiene rivaling contemporary routine practices. The present thesis further ...
 
@@ -666,10 +565,7 @@ popular and as a result of it, surgical operations were looked upon as causing i
 
 ## 33. 15. Astadhyayi of Panini and Surgery
 
-
 Surgery in ancient India (Study)
-
-by P. P. Prathapan | 2011 | 50,270 words
 
 This essay studies Surgery in ancient India based on Sanskrit sources.—The Sushruta Samhita details the practice of surgery known to ancient Indian traditional medicine, which showcases an advanced development in this field as well as theoretical and practical knowledge of hygiene rivaling contemporary routine practices. The present thesis further ...
 
@@ -683,10 +579,7 @@ were also mentioned in Astadhyayi. Panini refers to certain terms which provide 
 
 ## 34. 14. Kautilya’s Arthasastra and Surgery
 
-
 Surgery in ancient India (Study)
-
-by P. P. Prathapan | 2011 | 50,270 words
 
 This essay studies Surgery in ancient India based on Sanskrit sources.—The Sushruta Samhita details the practice of surgery known to ancient Indian traditional medicine, which showcases an advanced development in this field as well as theoretical and practical knowledge of hygiene rivaling contemporary routine practices. The present thesis further ...
 
@@ -698,10 +591,7 @@ Kautilya, the minister of the emperor Chandragupta Maurya, wrote Arthasastra in 
 
 ## 35. 17. References of Surgery in Rajatarangini
 
-
 Surgery in ancient India (Study)
-
-by P. P. Prathapan | 2011 | 50,270 words
 
 This essay studies Surgery in ancient India based on Sanskrit sources.—The Sushruta Samhita details the practice of surgery known to ancient Indian traditional medicine, which showcases an advanced development in this field as well as theoretical and practical knowledge of hygiene rivaling contemporary routine practices. The present thesis further ...
 
@@ -709,16 +599,13 @@ This essay studies Surgery in ancient India based on Sanskrit sources.—The Sus
 
 The popularity and practices of Ayurvedic system of healthcare was ancient Kasmir. Ayurvedic literature provides established in ancient references to holding of conferences of learned Ayurvedic sages to decide controversial Ayurvedic concepts in Kasmir. Ayurvedic treatments were practiced in ancient Kasmir to promote and restore health and it is well described in some tarangs of Rajatarangini. Written in the middle of twelfth century in the age when the crusaders of Europe were fighting in West Asia, Rajatarangini is a blend of 91
 
-authentic chronicle and imaginative poetry of Kalhana. It was a period of enlightment for India where as the West was in the darkness. There is intrigues in the palace, murder and treason, civil war , tyranny and adultery prevailed. Description of Kayacikitsa, Salya cikitsa, Rasa sastra and Pancakarma etc. practices are found in verses of Rajatarangini. Rajatarangini, the book written regarding socio political scenario of ancient Kasmir puts light on Ayurvedic practices in ancient Kasmir. There is no doubt that Ayurveda was the only healthcare system practiced in ancient Kasmir. The eighth tarang of Rajatarangini describes surgical practices and care while describing the surgical dressings of war-injured soldiers. In Rajatarangini, there are references which show that plastic surgery and repair, surgical practices etc. were practiced by vaidyas of ancient Kasmir.03 In the kingdom of Lalitaditya, Vaidyas used to treat 63 soldiers with mutilated noses, ears and throats. In conclusion here discuss the surgery references of the two famous works in Ayurveda namely the Caraka Samhita and the AstangaHrdaya. These two works are the most popular work till today through out the country. 92
+authentic chronicle and imaginative poetry of Kalhana. It was a period of enlightment for India where as the West was in the darkness. There is intrigues in the palace, murder and treason, civil war , tyranny and adultery prevailed. Description of Kayacikitsa, Salya cikitsa, Rasa sastra and Pancakarma etc. practices are found in verses of Rajatarangini. Rajatarangini, the book written regarding socio political scenario of ancient Kasmir puts light on Ayurvedic practices in ancient Kasmir. There is no doubt that Ayurveda was the only healthcare system practiced in ancient Kasmir. The eighth tarang of Rajatarangini describes surgical practices and care while describing the surgical dressings of war-injured soldiers. In Rajatarangini, there are references which show that plastic surgery and repair, surgical practices etc. were practiced by vaidyas of ancient Kasmir.03 In the kingdom of Lalitaditya, Vaidyas used to treat 63 soldiers with mutilated noses, ears and throats. In summary here discuss the surgery references of the two famous works in Ayurveda namely the Caraka Samhita and the AstangaHrdaya. These two works are the most popular work till today through out the country. 92
 
 ---
 
 ## 36. 16. Manusmriti and Surgery
 
-
 Surgery in ancient India (Study)
-
-by P. P. Prathapan | 2011 | 50,270 words
 
 This essay studies Surgery in ancient India based on Sanskrit sources.—The Sushruta Samhita details the practice of surgery known to ancient Indian traditional medicine, which showcases an advanced development in this field as well as theoretical and practical knowledge of hygiene rivaling contemporary routine practices. The present thesis further ...
 
@@ -732,10 +619,7 @@ skills were delegated to lower castes like 'Koomars' or potters who were known f
 
 ## 37. 19. Surgery Reference in Astanga Hrdayam
 
-
 Surgery in ancient India (Study)
-
-by P. P. Prathapan | 2011 | 50,270 words
 
 This essay studies Surgery in ancient India based on Sanskrit sources.—The Sushruta Samhita details the practice of surgery known to ancient Indian traditional medicine, which showcases an advanced development in this field as well as theoretical and practical knowledge of hygiene rivaling contemporary routine practices. The present thesis further ...
 
@@ -749,10 +633,7 @@ salyaharanavidhi chapter. The salyaharanavidhi chapter discuss the route, detect
 
 ## 38. 18. Surgery in Charaka Samhita
 
-
 Surgery in ancient India (Study)
-
-by P. P. Prathapan | 2011 | 50,270 words
 
 This essay studies Surgery in ancient India based on Sanskrit sources.—The Sushruta Samhita details the practice of surgery known to ancient Indian traditional medicine, which showcases an advanced development in this field as well as theoretical and practical knowledge of hygiene rivaling contemporary routine practices. The present thesis further ...
 
@@ -766,10 +647,7 @@ specific measures for general and local treatment were recommended, which includ
 
 ## 39. Chapter 3 - Schools of Surgery in ancient India
 
-
 Surgery in ancient India (Study)
-
-by P. P. Prathapan | 2011 | 50,270 words
 
 This essay studies Surgery in ancient India based on Sanskrit sources.—The Sushruta Samhita details the practice of surgery known to ancient Indian traditional medicine, which showcases an advanced development in this field as well as theoretical and practical knowledge of hygiene rivaling contemporary routine practices. The present thesis further ...
 
@@ -781,10 +659,7 @@ Chapter 3 - Schools of Surgery in ancient India
 
 ## 40. 3. Vedic Medicine
 
-
 Surgery in ancient India (Study)
-
-by P. P. Prathapan | 2011 | 50,270 words
 
 This essay studies Surgery in ancient India based on Sanskrit sources.—The Sushruta Samhita details the practice of surgery known to ancient Indian traditional medicine, which showcases an advanced development in this field as well as theoretical and practical knowledge of hygiene rivaling contemporary routine practices. The present thesis further ...
 
@@ -800,10 +675,7 @@ person who himself is to be benefited or more often by the sorcerer on his behal
 
 ## 41. 1. History of Medicine (introduction)
 
-
 Surgery in ancient India (Study)
-
-by P. P. Prathapan | 2011 | 50,270 words
 
 This essay studies Surgery in ancient India based on Sanskrit sources.—The Sushruta Samhita details the practice of surgery known to ancient Indian traditional medicine, which showcases an advanced development in this field as well as theoretical and practical knowledge of hygiene rivaling contemporary routine practices. The present thesis further ...
 
@@ -819,10 +691,7 @@ agreed that all the books had been duly compiled. The origin of Ayurveda, is rel
 
 ## 42. 20. Notes and References
 
-
 Surgery in ancient India (Study)
-
-by P. P. Prathapan | 2011 | 50,270 words
 
 This essay studies Surgery in ancient India based on Sanskrit sources.—The Sushruta Samhita details the practice of surgery known to ancient Indian traditional medicine, which showcases an advanced development in this field as well as theoretical and practical knowledge of hygiene rivaling contemporary routine practices. The present thesis further ...
 
@@ -850,10 +719,7 @@ REFERENCES 1. Smith, William Sir, A dictionary of Greek and Roman Antiquities, L
 
 ## 43. 5. Dhanvantari and the Indian medical system
 
-
 Surgery in ancient India (Study)
-
-by P. P. Prathapan | 2011 | 50,270 words
 
 This essay studies Surgery in ancient India based on Sanskrit sources.—The Sushruta Samhita details the practice of surgery known to ancient Indian traditional medicine, which showcases an advanced development in this field as well as theoretical and practical knowledge of hygiene rivaling contemporary routine practices. The present thesis further ...
 
@@ -879,10 +745,7 @@ that all the later salya tantra samhita works and is based on these three works 
 
 ## 44. 4. Post Vedic Medicine
 
-
 Surgery in ancient India (Study)
-
-by P. P. Prathapan | 2011 | 50,270 words
 
 This essay studies Surgery in ancient India based on Sanskrit sources.—The Sushruta Samhita details the practice of surgery known to ancient Indian traditional medicine, which showcases an advanced development in this field as well as theoretical and practical knowledge of hygiene rivaling contemporary routine practices. The present thesis further ...
 
@@ -910,10 +773,7 @@ was relegated to an interior place, though it had been nanded down as a separate
 
 ## 45. 8. Identity of Aurabhra
 
-
 Surgery in ancient India (Study)
-
-by P. P. Prathapan | 2011 | 50,270 words
 
 This essay studies Surgery in ancient India based on Sanskrit sources.—The Sushruta Samhita details the practice of surgery known to ancient Indian traditional medicine, which showcases an advanced development in this field as well as theoretical and practical knowledge of hygiene rivaling contemporary routine practices. The present thesis further ...
 
@@ -927,10 +787,7 @@ these acaryas are supposed to have lived during the Upanisad period. References 
 
 ## 46. 9. Identity of Susruta
 
-
 Surgery in ancient India (Study)
-
-by P. P. Prathapan | 2011 | 50,270 words
 
 This essay studies Surgery in ancient India based on Sanskrit sources.—The Sushruta Samhita details the practice of surgery known to ancient Indian traditional medicine, which showcases an advanced development in this field as well as theoretical and practical knowledge of hygiene rivaling contemporary routine practices. The present thesis further ...
 
@@ -944,10 +801,7 @@ writings of Susruta and Varahamihira, the eminent mathematician of India. Severa
 
 ## 47. 6. Identity of Pauskalavata
 
-
 Surgery in ancient India (Study)
-
-by P. P. Prathapan | 2011 | 50,270 words
 
 This essay studies Surgery in ancient India based on Sanskrit sources.—The Sushruta Samhita details the practice of surgery known to ancient Indian traditional medicine, which showcases an advanced development in this field as well as theoretical and practical knowledge of hygiene rivaling contemporary routine practices. The present thesis further ...
 
@@ -961,10 +815,7 @@ also stated that this is then the Sanskrit translation of Puskalavata. Hence, it
 
 ## 48. 7. Identity of Karavirya
 
-
 Surgery in ancient India (Study)
-
-by P. P. Prathapan | 2011 | 50,270 words
 
 This essay studies Surgery in ancient India based on Sanskrit sources.—The Sushruta Samhita details the practice of surgery known to ancient Indian traditional medicine, which showcases an advanced development in this field as well as theoretical and practical knowledge of hygiene rivaling contemporary routine practices. The present thesis further ...
 
@@ -978,10 +829,7 @@ Though the term Aurabhra can be described as either as the son of Urabhra or som
 
 ## 49. 10. The other Surgeons and Tantras of Dhanvantari school
 
-
 Surgery in ancient India (Study)
-
-by P. P. Prathapan | 2011 | 50,270 words
 
 This essay studies Surgery in ancient India based on Sanskrit sources.—The Sushruta Samhita details the practice of surgery known to ancient Indian traditional medicine, which showcases an advanced development in this field as well as theoretical and practical knowledge of hygiene rivaling contemporary routine practices. The present thesis further ...
 
@@ -1001,10 +849,7 @@ KAPILA TANTRA In Susruta Samhita netucarya one chapter depicts Cakrapani's salya
 
 ## 50. 11. Surgeons and Tantras of Salakya departments
 
-
 Surgery in ancient India (Study)
-
-by P. P. Prathapan | 2011 | 50,270 words
 
 This essay studies Surgery in ancient India based on Sanskrit sources.—The Sushruta Samhita details the practice of surgery known to ancient Indian traditional medicine, which showcases an advanced development in this field as well as theoretical and practical knowledge of hygiene rivaling contemporary routine practices. The present thesis further ...
 
@@ -1026,10 +871,7 @@ CAKSUSYA TANTRA Caksusya tantra was an important book about Salakya tantra. Srik
 
 ## 51. 1. Introduction (regarding the Ayurvedic system of medicine)
 
-
 Surgery in ancient India (Study)
-
-by P. P. Prathapan | 2011 | 50,270 words
 
 This essay studies Surgery in ancient India based on Sanskrit sources.—The Sushruta Samhita details the practice of surgery known to ancient Indian traditional medicine, which showcases an advanced development in this field as well as theoretical and practical knowledge of hygiene rivaling contemporary routine practices. The present thesis further ...
 
@@ -1047,10 +889,7 @@ which existed almost two millennium ago. In its day was almost certainly the mos
 
 ## 52. 12. Notes and References
 
-
 Surgery in ancient India (Study)
-
-by P. P. Prathapan | 2011 | 50,270 words
 
 This essay studies Surgery in ancient India based on Sanskrit sources.—The Sushruta Samhita details the practice of surgery known to ancient Indian traditional medicine, which showcases an advanced development in this field as well as theoretical and practical knowledge of hygiene rivaling contemporary routine practices. The present thesis further ...
 
@@ -1066,10 +905,7 @@ REFERENCES 1 Singh N.K, Dr, Agwan, AR, Encyclopedia of the Holy Qur'An, Vol-I, G
 
 ## 53. Chapter 4 - Sushruta’s concept of SSurgery
 
-
 Surgery in ancient India (Study)
-
-by P. P. Prathapan | 2011 | 50,270 words
 
 This essay studies Surgery in ancient India based on Sanskrit sources.—The Sushruta Samhita details the practice of surgery known to ancient Indian traditional medicine, which showcases an advanced development in this field as well as theoretical and practical knowledge of hygiene rivaling contemporary routine practices. The present thesis further ...
 
@@ -1081,10 +917,7 @@ Chapter 4 - Sushruta’s concept of SSurgery
 
 ## 54. 2. Medicine in pre-Susruta period
 
-
 Surgery in ancient India (Study)
-
-by P. P. Prathapan | 2011 | 50,270 words
 
 This essay studies Surgery in ancient India based on Sanskrit sources.—The Sushruta Samhita details the practice of surgery known to ancient Indian traditional medicine, which showcases an advanced development in this field as well as theoretical and practical knowledge of hygiene rivaling contemporary routine practices. The present thesis further ...
 
@@ -1096,10 +929,7 @@ The history of medicine in pre Susrutian India goes back to remote antiquity. Th
 
 ## 55. 3. The period of Rational Medicine
 
-
 Surgery in ancient India (Study)
-
-by P. P. Prathapan | 2011 | 50,270 words
 
 This essay studies Surgery in ancient India based on Sanskrit sources.—The Sushruta Samhita details the practice of surgery known to ancient Indian traditional medicine, which showcases an advanced development in this field as well as theoretical and practical knowledge of hygiene rivaling contemporary routine practices. The present thesis further ...
 
@@ -1113,10 +943,7 @@ Mesopotamia and India. In each of these widely separated centers of civilization
 
 ## 56. 4. The age of Susruta
 
-
 Surgery in ancient India (Study)
-
-by P. P. Prathapan | 2011 | 50,270 words
 
 This essay studies Surgery in ancient India based on Sanskrit sources.—The Sushruta Samhita details the practice of surgery known to ancient Indian traditional medicine, which showcases an advanced development in this field as well as theoretical and practical knowledge of hygiene rivaling contemporary routine practices. The present thesis further ...
 
@@ -1134,10 +961,7 @@ Arabic before the end of the eighth century A.D. and was named Kitab-I-Susrud by
 
 ## 57. 8. Materials and Methods (described by Sushruta)
 
-
 Surgery in ancient India (Study)
-
-by P. P. Prathapan | 2011 | 50,270 words
 
 This essay studies Surgery in ancient India based on Sanskrit sources.—The Sushruta Samhita details the practice of surgery known to ancient Indian traditional medicine, which showcases an advanced development in this field as well as theoretical and practical knowledge of hygiene rivaling contemporary routine practices. The present thesis further ...
 
@@ -1153,10 +977,7 @@ lesions. The double armed axile instruments, which have two moving limbs to hold
 
 ## 58. 5. Description of the Sushruta Samhita
 
-
 Surgery in ancient India (Study)
-
-by P. P. Prathapan | 2011 | 50,270 words
 
 This essay studies Surgery in ancient India based on Sanskrit sources.—The Sushruta Samhita details the practice of surgery known to ancient Indian traditional medicine, which showcases an advanced development in this field as well as theoretical and practical knowledge of hygiene rivaling contemporary routine practices. The present thesis further ...
 
@@ -1172,10 +993,7 @@ instantaneous effects by means by means of surgical instruments and appliances. 
 
 ## 59. 9. Anatomy as enumerated by Sushruta
 
-
 Surgery in ancient India (Study)
-
-by P. P. Prathapan | 2011 | 50,270 words
 
 This essay studies Surgery in ancient India based on Sanskrit sources.—The Sushruta Samhita details the practice of surgery known to ancient Indian traditional medicine, which showcases an advanced development in this field as well as theoretical and practical knowledge of hygiene rivaling contemporary routine practices. The present thesis further ...
 
@@ -1189,10 +1007,7 @@ This description of the body is known as 'anatomy' in the 39 present times. Susr
 
 ## 60. 7. Surgical procedures of Sushruta
 
-
 Surgery in ancient India (Study)
-
-by P. P. Prathapan | 2011 | 50,270 words
 
 This essay studies Surgery in ancient India based on Sanskrit sources.—The Sushruta Samhita details the practice of surgery known to ancient Indian traditional medicine, which showcases an advanced development in this field as well as theoretical and practical knowledge of hygiene rivaling contemporary routine practices. The present thesis further ...
 
@@ -1210,10 +1025,7 @@ enemy, which in fights used to be lodged in the body of the soldiers. He emphasi
 
 ## 61. 6. Contents of the Sushruta Samhita
 
-
 Surgery in ancient India (Study)
-
-by P. P. Prathapan | 2011 | 50,270 words
 
 This essay studies Surgery in ancient India based on Sanskrit sources.—The Sushruta Samhita details the practice of surgery known to ancient Indian traditional medicine, which showcases an advanced development in this field as well as theoretical and practical knowledge of hygiene rivaling contemporary routine practices. The present thesis further ...
 
@@ -1239,10 +1051,7 @@ Susruta says that in the first stage, the ulcer is with pus collection and hence
 
 ## 62. 10. Plastic Surgery according to Sushruta
 
-
 Surgery in ancient India (Study)
-
-by P. P. Prathapan | 2011 | 50,270 words
 
 This essay studies Surgery in ancient India based on Sanskrit sources.—The Sushruta Samhita details the practice of surgery known to ancient Indian traditional medicine, which showcases an advanced development in this field as well as theoretical and practical knowledge of hygiene rivaling contemporary routine practices. The present thesis further ...
 
@@ -1258,10 +1067,7 @@ Susruta warns that improper intervention with surgical manoeuvre either due to i
 
 ## 63. 12. Sushruta’s Teaching (regarding the Surgeon)
 
-
 Surgery in ancient India (Study)
-
-by P. P. Prathapan | 2011 | 50,270 words
 
 This essay studies Surgery in ancient India based on Sanskrit sources.—The Sushruta Samhita details the practice of surgery known to ancient Indian traditional medicine, which showcases an advanced development in this field as well as theoretical and practical knowledge of hygiene rivaling contemporary routine practices. The present thesis further ...
 
@@ -1283,10 +1089,7 @@ be licensed by the king. He should be clean, keep his nails and hair short, and 
 
 ## 64. 15. Conclusion and References
 
-
 Surgery in ancient India (Study)
-
-by P. P. Prathapan | 2011 | 50,270 words
 
 This essay studies Surgery in ancient India based on Sanskrit sources.—The Sushruta Samhita details the practice of surgery known to ancient Indian traditional medicine, which showcases an advanced development in this field as well as theoretical and practical knowledge of hygiene rivaling contemporary routine practices. The present thesis further ...
 
@@ -1314,10 +1117,7 @@ REFERENCES 1 Zimmerman, Leo M, Ilza Veith, Great ideas in the history of surgery
 
 ## 65. 13. The scope of Sushruta’s Surgery
 
-
 Surgery in ancient India (Study)
-
-by P. P. Prathapan | 2011 | 50,270 words
 
 This essay studies Surgery in ancient India based on Sanskrit sources.—The Sushruta Samhita details the practice of surgery known to ancient Indian traditional medicine, which showcases an advanced development in this field as well as theoretical and practical knowledge of hygiene rivaling contemporary routine practices. The present thesis further ...
 
@@ -1337,10 +1137,7 @@ of rehabilitation and fitting of prosthetics. Classification of eye diseases wit
 
 ## 66. 11. Ophthalmology according to Sushruta
 
-
 Surgery in ancient India (Study)
-
-by P. P. Prathapan | 2011 | 50,270 words
 
 This essay studies Surgery in ancient India based on Sanskrit sources.—The Sushruta Samhita details the practice of surgery known to ancient Indian traditional medicine, which showcases an advanced development in this field as well as theoretical and practical knowledge of hygiene rivaling contemporary routine practices. The present thesis further ...
 
@@ -1362,10 +1159,7 @@ the eye is irritated with saindhava salt and soaked with a warm compress. The pa
 
 ## 67. 14. Sushruta—The seed of Medical Science
 
-
 Surgery in ancient India (Study)
-
-by P. P. Prathapan | 2011 | 50,270 words
 
 This essay studies Surgery in ancient India based on Sanskrit sources.—The Sushruta Samhita details the practice of surgery known to ancient Indian traditional medicine, which showcases an advanced development in this field as well as theoretical and practical knowledge of hygiene rivaling contemporary routine practices. The present thesis further ...
 
@@ -1379,10 +1173,7 @@ The method of contraception through vasectomy is clearly seen. in the part of At
 
 ## 68. Chapter 5 - Surgical instruments in Sushruta Samhita
 
-
 Surgery in ancient India (Study)
-
-by P. P. Prathapan | 2011 | 50,270 words
 
 This essay studies Surgery in ancient India based on Sanskrit sources.—The Sushruta Samhita details the practice of surgery known to ancient Indian traditional medicine, which showcases an advanced development in this field as well as theoretical and practical knowledge of hygiene rivaling contemporary routine practices. The present thesis further ...
 
@@ -1394,10 +1185,7 @@ Chapter 5 - Surgical instruments in Sushruta Samhita
 
 ## 69. 2. Surgical Instruments mentioned in Sushruta Samhita
 
-
 Surgery in ancient India (Study)
-
-by P. P. Prathapan | 2011 | 50,270 words
 
 This essay studies Surgery in ancient India based on Sanskrit sources.—The Sushruta Samhita details the practice of surgery known to ancient Indian traditional medicine, which showcases an advanced development in this field as well as theoretical and practical knowledge of hygiene rivaling contemporary routine practices. The present thesis further ...
 
@@ -1451,10 +1239,7 @@ Vagbhata described copper probes having the sharp ends shaped like the buds of k
 
 ## 70. 4. Classification of Surgical Instruments
 
-
 Surgery in ancient India (Study)
-
-by P. P. Prathapan | 2011 | 50,270 words
 
 This essay studies Surgery in ancient India based on Sanskrit sources.—The Sushruta Samhita details the practice of surgery known to ancient Indian traditional medicine, which showcases an advanced development in this field as well as theoretical and practical knowledge of hygiene rivaling contemporary routine practices. The present thesis further ...
 
@@ -1470,10 +1255,7 @@ otherwise, according to the advice of old and experienced physicians surgeons; o
 
 ## 71. 1. Introduction (regarding Surgical instruments)
 
-
 Surgery in ancient India (Study)
-
-by P. P. Prathapan | 2011 | 50,270 words
 
 This essay studies Surgery in ancient India based on Sanskrit sources.—The Sushruta Samhita details the practice of surgery known to ancient Indian traditional medicine, which showcases an advanced development in this field as well as theoretical and practical knowledge of hygiene rivaling contemporary routine practices. The present thesis further ...
 
@@ -1489,10 +1271,7 @@ older tradition. He described 101 blunt instruments and 20 sharp instruments, mo
 
 ## 72. 5. Application of Svastika
 
-
 Surgery in ancient India (Study)
-
-by P. P. Prathapan | 2011 | 50,270 words
 
 This essay studies Surgery in ancient India based on Sanskrit sources.—The Sushruta Samhita details the practice of surgery known to ancient Indian traditional medicine, which showcases an advanced development in this field as well as theoretical and practical knowledge of hygiene rivaling contemporary routine practices. The present thesis further ...
 
@@ -1506,10 +1285,7 @@ used in extracting any thorn or foreign matter which may have entered into the b
 
 ## 73. 3. Handling of Instruments according to Sushruta
 
-
 Surgery in ancient India (Study)
-
-by P. P. Prathapan | 2011 | 50,270 words
 
 This essay studies Surgery in ancient India based on Sanskrit sources.—The Sushruta Samhita details the practice of surgery known to ancient Indian traditional medicine, which showcases an advanced development in this field as well as theoretical and practical knowledge of hygiene rivaling contemporary routine practices. The present thesis further ...
 
@@ -1529,10 +1305,7 @@ instrument cannot be procured. The nails of fingers should be used in operations
 
 ## 74. 6. Application of the Samdamsha instrument
 
-
 Surgery in ancient India (Study)
-
-by P. P. Prathapan | 2011 | 50,270 words
 
 This essay studies Surgery in ancient India based on Sanskrit sources.—The Sushruta Samhita details the practice of surgery known to ancient Indian traditional medicine, which showcases an advanced development in this field as well as theoretical and practical knowledge of hygiene rivaling contemporary routine practices. The present thesis further ...
 
@@ -1546,10 +1319,7 @@ used to complete the operation for pterygium by removing the remnant, after it h
 
 ## 75. 7. Application of the Tala Yantras
 
-
 Surgery in ancient India (Study)
-
-by P. P. Prathapan | 2011 | 50,270 words
 
 This essay studies Surgery in ancient India based on Sanskrit sources.—The Sushruta Samhita details the practice of surgery known to ancient Indian traditional medicine, which showcases an advanced development in this field as well as theoretical and practical knowledge of hygiene rivaling contemporary routine practices. The present thesis further ...
 
@@ -1563,10 +1333,7 @@ foreign bodies from the ear, nose and other outer canals of the body. The ear sc
 
 ## 76. 8. Application of the Nadi Yantras
 
-
 Surgery in ancient India (Study)
-
-by P. P. Prathapan | 2011 | 50,270 words
 
 This essay studies Surgery in ancient India based on Sanskrit sources.—The Sushruta Samhita details the practice of surgery known to ancient Indian traditional medicine, which showcases an advanced development in this field as well as theoretical and practical knowledge of hygiene rivaling contemporary routine practices. The present thesis further ...
 
@@ -1584,10 +1351,7 @@ patient.
 
 ## 77. 11. Disinfection rooms clothes
 
-
 Surgery in ancient India (Study)
-
-by P. P. Prathapan | 2011 | 50,270 words
 
 This essay studies Surgery in ancient India based on Sanskrit sources.—The Sushruta Samhita details the practice of surgery known to ancient Indian traditional medicine, which showcases an advanced development in this field as well as theoretical and practical knowledge of hygiene rivaling contemporary routine practices. The present thesis further ...
 
@@ -1599,10 +1363,7 @@ Caraka says that if peacock's feather, bones of vaka bird, white mustard and red
 
 ## 78. 9. Application of Uttara-Vasti instruments
 
-
 Surgery in ancient India (Study)
-
-by P. P. Prathapan | 2011 | 50,270 words
 
 This essay studies Surgery in ancient India based on Sanskrit sources.—The Sushruta Samhita details the practice of surgery known to ancient Indian traditional medicine, which showcases an advanced development in this field as well as theoretical and practical knowledge of hygiene rivaling contemporary routine practices. The present thesis further ...
 
@@ -1614,10 +1375,7 @@ UTTARA-VASTI TUBULAR INSTRUMENTS FOR THE URETRA The tubes intended for applying 
 
 ## 79. 12. Tubular instrument for cupping
 
-
 Surgery in ancient India (Study)
-
-by P. P. Prathapan | 2011 | 50,270 words
 
 This essay studies Surgery in ancient India based on Sanskrit sources.—The Sushruta Samhita details the practice of surgery known to ancient Indian traditional medicine, which showcases an advanced development in this field as well as theoretical and practical knowledge of hygiene rivaling contemporary routine practices. The present thesis further ...
 
@@ -1631,10 +1389,7 @@ winding thread round it. This facilitates the operation of suction by the mouth 
 
 ## 80. 10. Tubular instruments for Inhalations and Fumigations
 
-
 Surgery in ancient India (Study)
-
-by P. P. Prathapan | 2011 | 50,270 words
 
 This essay studies Surgery in ancient India based on Sanskrit sources.—The Sushruta Samhita details the practice of surgery known to ancient Indian traditional medicine, which showcases an advanced development in this field as well as theoretical and practical knowledge of hygiene rivaling contemporary routine practices. The present thesis further ...
 
@@ -1648,10 +1403,7 @@ to use Nimba leaves for wound fumigation.
 
 ## 81. 15. Application of Probes according to Sushruta
 
-
 Surgery in ancient India (Study)
-
-by P. P. Prathapan | 2011 | 50,270 words
 
 This essay studies Surgery in ancient India based on Sanskrit sources.—The Sushruta Samhita details the practice of surgery known to ancient Indian traditional medicine, which showcases an advanced development in this field as well as theoretical and practical knowledge of hygiene rivaling contemporary routine practices. The present thesis further ...
 
@@ -1671,10 +1423,7 @@ and neck. URETHRAL PROBE This type of salaka is described by Susruta. The end ro
 
 ## 82. 14. Application of the Salaka Yantras
 
-
 Surgery in ancient India (Study)
-
-by P. P. Prathapan | 2011 | 50,270 words
 
 This essay studies Surgery in ancient India based on Sanskrit sources.—The Sushruta Samhita details the practice of surgery known to ancient Indian traditional medicine, which showcases an advanced development in this field as well as theoretical and practical knowledge of hygiene rivaling contemporary routine practices. The present thesis further ...
 
@@ -1690,10 +1439,7 @@ to another. Two salaka have their ends shaped like fish hook but are blunt. They
 
 ## 83. 13. Application of the Alabu Yantra
 
-
 Surgery in ancient India (Study)
-
-by P. P. Prathapan | 2011 | 50,270 words
 
 This essay studies Surgery in ancient India based on Sanskrit sources.—The Sushruta Samhita details the practice of surgery known to ancient Indian traditional medicine, which showcases an advanced development in this field as well as theoretical and practical knowledge of hygiene rivaling contemporary routine practices. The present thesis further ...
 
@@ -1705,10 +1451,7 @@ Alabu or gourd is described to be made of the bark of the succulent fruit called
 
 ## 84. 17. The use of natural materials
 
-
 Surgery in ancient India (Study)
-
-by P. P. Prathapan | 2011 | 50,270 words
 
 This essay studies Surgery in ancient India based on Sanskrit sources.—The Sushruta Samhita details the practice of surgery known to ancient Indian traditional medicine, which showcases an advanced development in this field as well as theoretical and practical knowledge of hygiene rivaling contemporary routine practices. The present thesis further ...
 
@@ -1726,10 +1469,7 @@ after incision by knife, evidently to check haemorrhage. Susruta enumerates four
 
 ## 85. 16. The Upa-yantras or Minor Surgical Accessories
 
-
 Surgery in ancient India (Study)
-
-by P. P. Prathapan | 2011 | 50,270 words
 
 This essay studies Surgery in ancient India based on Sanskrit sources.—The Sushruta Samhita details the practice of surgery known to ancient Indian traditional medicine, which showcases an advanced development in this field as well as theoretical and practical knowledge of hygiene rivaling contemporary routine practices. The present thesis further ...
 
@@ -1749,10 +1489,7 @@ variety. Cakradatta also mentions it. In phlebotomy, a leather band is advised t
 
 ## 86. 19. Resemblance of Traditional and Modern Surgical Instruments
 
-
 Surgery in ancient India (Study)
-
-by P. P. Prathapan | 2011 | 50,270 words
 
 This essay studies Surgery in ancient India based on Sanskrit sources.—The Sushruta Samhita details the practice of surgery known to ancient Indian traditional medicine, which showcases an advanced development in this field as well as theoretical and practical knowledge of hygiene rivaling contemporary routine practices. The present thesis further ...
 
@@ -1768,10 +1505,7 @@ ulpalapatramSyme's amputation knife sringayantrameshanivyuhanasanghugarbha sanku
 
 ## 87. 20. Notes and References
 
-
 Surgery in ancient India (Study)
-
-by P. P. Prathapan | 2011 | 50,270 words
 
 This essay studies Surgery in ancient India based on Sanskrit sources.—The Sushruta Samhita details the practice of surgery known to ancient Indian traditional medicine, which showcases an advanced development in this field as well as theoretical and practical knowledge of hygiene rivaling contemporary routine practices. The present thesis further ...
 
@@ -1779,7 +1513,7 @@ This essay studies Surgery in ancient India based on Sanskrit sources.—The Sus
 
 REFERENCES. 1 Kirkup John, The evolution of surgical instruments: an illustrated history from ancient times to the Twentieth century, Norman publishers, Calif, Novato, 2005, p-25 2 Mukhopadhyaye, G., Surgical Instruments of Ancient Hindus New Bharatiya Book Corporation, Delhi, 2000, p-63. 3Govindan Vaidyan.P.M, Astangahridaya, Devi book stall Publishers, Kodungallur, 2009, p-606. 4 Kunjalal Bhishagratna, Kaviraj, An English Translation of the Susruta Samhita, based on original Sanskrit text, Author, Culcutta, 1907, p-63. 5 lbid. 6 krishna Ramachandra rao saligrama, Sudarshan, Encyclopedia of Indian Medicine, Popular Prakasan, Bombay, 1985, p-93. 7 Sharma P.V, Susruta samhita and Delhanas commentary along with critical notes. Chowkhamba viswabharati, Varanasi, 1999, P-99. 8 Mukhopadhyaye, G.,Surgical Instruments of Ancient Hindus, New Bharatiya Book Corporation, Delhi, 2000,p-161. 9 Kunjalal Bhishagratna, Kaviraj, An English Translation of the Susruta Samhita, based on original Sanskrit text. Author, Culcutta, 1907, p-63. 10 Prakash, Satya, Founders of sciences in ancient India part -1 Vijayakumar publishers, Delhi, 1989, P -254. 11 Kunjalal Bhishagratna, Kaviraj, An English Translation of the Susruta Samhita, based on original Sanskrit text, Author, Culcutta, 1907,p-63 12 Kunjalal Bhishagratna, Kaviraj, An English Translation of the Susruta Samhita, based on original Sanskrit text, vol-30, Chowkhambha Sanskrit series office, Varanasi, 1963,p-65. 258
 
-13 Mukhopadhyaye, G., Surgical Instruments of Ancient Hindus, NewBharatiya Book Corporation, Delhi, 2000,p-166 14 Poulose, K.G, Dr., Kottackal, 2002, P -113 Lectures on Ayurveda, Kottackal Aryavaidyasala, 15 Kunjalal Bhishagratna, Kaviraj, An English Translation of the Susruta Samhita, based on original Sanskrit text, Author, Culcutta, 1907,p-63 16 Mukhopadhyaye, G.,Surgical Instruments of Ancient Hindus, New Bharatiya Book Corporation, Delhi, 2000,p-170. 17 lbid. 18 lbid p-172. 19 Kunjalal Bhishagratna, Kaviraj, An English Translation of the Susruta Samhita, based on original Sanskrit text, Author, Culcutta, 1907,p-63 20 Kutumbiah,P,Ancient Indian medicine, Orient Longman Hyderabad, 1999,P-161. 21 Mukhopadhyaye, G., Surgical Instruments of Ancient Hindus, New Bharatiya Book Corporation, Delhi, 2000, p-177. 22 lbid-178. 23 Kunjalal Bhishagratna, Kaviraj, An English Translation of the Susruta Samhita, based on original Sanskrit text, Author, Culcutta, 1907, p-63 24 Mukhopadhyaye, G., Surgical Instruments of Ancient Hindus, New Bharatiya Book Corporation, Delhi, 2000, p-179. 25 Kunjalal Bhishagratna, Kaviraj, An English Translation of the Susruta Samhita, based on original Sanskrit text, Author, Culcutta, 1907,p-63 26 Sreedharan M. S, Treasure trove of Ancient Indian science,Ministry of information and Broadcasting Govt of India, New Delhi, 2005, P-667. 259
+13 Mukhopadhyaye, G., Surgical Instruments of Ancient Hindus, NewBharatiya Book Corporation, Delhi, 2000,p-166 14 Poulose, K.G, Dr., Kottackal, 2002, P -113 Lectures on Ayurveda, Kottackal Aryavaidyasala, 15 Kunjalal Bhishagratna, Kaviraj, An English Translation of the Susruta Samhita, based on original Sanskrit text, Author, Culcutta, 1907,p-63 16 Mukhopadhyaye, G.,Surgical Instruments of Ancient Hindus, New Bharatiya Book Corporation, Delhi, 2000,p-170. 17 lbid. 18 lbid p-172. 19 Kunjalal Bhishagratna, Kaviraj, An English Translation of the Susruta Samhita, based on original Sanskrit text, Author, Culcutta, 1907,p-63 20 Kutumbiah,P,Ancient Indian medicine, Orient Longman Hyderabad, 1999,P-161. 21 Mukhopadhyaye, G., Surgical Instruments of Ancient Hindus, New Bharatiya Book Corporation, Delhi, 2000, p-177. 22 lbid-178. 23 Kunjalal Bhishagratna, Kaviraj, An English Translation of the Susruta Samhita, based on original Sanskrit text, Author, Culcutta, 1907, p-63 24 Mukhopadhyaye, G., Surgical Instruments of Ancient Hindus, New Bharatiya Book Corporation, Delhi, 2000, p-179. 25 Kunjalal Bhishagratna, Kaviraj, An English Translation of the Susruta Samhita, based on original Sanskrit text, Author, Culcutta, 1907,p-63 26 Sreedharan M. S, Comprehensive archive of Ancient Indian science,Ministry of information and Broadcasting Govt of India, New Delhi, 2005, P-667. 259
 
 27 Mukhopadhyaye, G.,Surgical Instruments of Ancient Hindus, New Bharatiya Book Corporation, Delhi, 2000, p-181 28 Pujari R. M, Kohle Pradeep, Kumar N.R,Pride of India;a glimpse in to India's Scientific Heritage, Sanskrita Bharati, New Delhi, 2006, P-160. 29 Mukhopadhyaye, G., Surgical Instruments of Ancient Hindus, New Bharatiya Book Corporation, Delhi, 2000, p-182. 30 lbid-183. 31 Sinha B. R, Sharma, R.C, Sharma S.R, Encyclopedia of professional Education vol-9, Sarup and sons publication, New Delhi, 2003, P-104. 32 Kunjalal Bhishagratna, Kaviraj, An English Translation of the Susruta Samhita, based on original Sanskrit text, Author, Culcutta, 1907, p-63 33 Mukhopadhyaye, G., Surgical Instruments of Ancient Hindus, NewBharatiya Book Corporation, Delhi, 2000,p-184. 34 lbid-p-185. 35 lbid 36 lbid-188. 37 lbid-191. 38 lbid. 39 Guido Majno, The Healing Hand man and wound in the ancient world, Harvard University Press, Mass, Cambridge, 1991 P-272. 40 Mukhopadhyaye, G., Surgical Instruments of Ancient Hindus, New Bharatiya Book Corporation, Delhi, 2000, p-194. 41 lbid-195. 260
 
@@ -1789,10 +1523,7 @@ REFERENCES. 1 Kirkup John, The evolution of surgical instruments: an illustrated
 
 ## 88. 18. The functions of Surgical Instruments
 
-
 Surgery in ancient India (Study)
-
-by P. P. Prathapan | 2011 | 50,270 words
 
 This essay studies Surgery in ancient India based on Sanskrit sources.—The Sushruta Samhita details the practice of surgery known to ancient Indian traditional medicine, which showcases an advanced development in this field as well as theoretical and practical knowledge of hygiene rivaling contemporary routine practices. The present thesis further ...
 
@@ -1806,10 +1537,7 @@ the entire salya, or is curved, loosely fitted, or soft-bolted, or loosely tied 
 
 ## 89. Chapter 6 - Conclusion
 
-
 Surgery in ancient India (Study)
-
-by P. P. Prathapan | 2011 | 50,270 words
 
 This essay studies Surgery in ancient India based on Sanskrit sources.—The Sushruta Samhita details the practice of surgery known to ancient Indian traditional medicine, which showcases an advanced development in this field as well as theoretical and practical knowledge of hygiene rivaling contemporary routine practices. The present thesis further ...
 
@@ -1821,10 +1549,7 @@ Chapter 6 - Conclusion
 
 ## 90. 2. How to revive Ayurveda Salya-Tantra
 
-
 Surgery in ancient India (Study)
-
-by P. P. Prathapan | 2011 | 50,270 words
 
 This essay studies Surgery in ancient India based on Sanskrit sources.—The Sushruta Samhita details the practice of surgery known to ancient Indian traditional medicine, which showcases an advanced development in this field as well as theoretical and practical knowledge of hygiene rivaling contemporary routine practices. The present thesis further ...
 
@@ -1848,10 +1573,7 @@ it. Both government and private agencies can work together and provide of suffic
 
 ## 91. 1. Revival of Ayurvedic Surgery
 
-
 Surgery in ancient India (Study)
-
-by P. P. Prathapan | 2011 | 50,270 words
 
 This essay studies Surgery in ancient India based on Sanskrit sources.—The Sushruta Samhita details the practice of surgery known to ancient Indian traditional medicine, which showcases an advanced development in this field as well as theoretical and practical knowledge of hygiene rivaling contemporary routine practices. The present thesis further ...
 
@@ -1871,10 +1593,7 @@ also held to observe the possibilities and types of surgeries that could be adap
 
 ## 92. 3. Importance of Salya-Tantra
 
-
 Surgery in ancient India (Study)
-
-by P. P. Prathapan | 2011 | 50,270 words
 
 This essay studies Surgery in ancient India based on Sanskrit sources.—The Sushruta Samhita details the practice of surgery known to ancient Indian traditional medicine, which showcases an advanced development in this field as well as theoretical and practical knowledge of hygiene rivaling contemporary routine practices. The present thesis further ...
 
@@ -1890,10 +1609,7 @@ Thus the disciples of Lord Dhanvantari i.e. Susruta, Aupadhenava, Aurabhra etc. 
 
 ## 93. 4. Decline of Ayurveda Surgery
 
-
 Surgery in ancient India (Study)
-
-by P. P. Prathapan | 2011 | 50,270 words
 
 This essay studies Surgery in ancient India based on Sanskrit sources.—The Sushruta Samhita details the practice of surgery known to ancient Indian traditional medicine, which showcases an advanced development in this field as well as theoretical and practical knowledge of hygiene rivaling contemporary routine practices. The present thesis further ...
 

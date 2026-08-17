@@ -20,17 +20,11 @@ This chapter from **Sushruta Samhita (Uttaratantra)** represents the classical s
 
 ---
 
-
 Sushruta Samhita, Volume 6: Uttara-tantra
-
-by Kaviraj Kunja Lal Bhishagratna | 1916 | 113,078 words
 
 This current book, the Uttara-tantra (english translation) is the supplementary part of the Sushrutasamhita and deals various subjects such as diseases of the eye, treatment of fever, diarrhea, diseases resulting from superhuman influences, insanity, rules of health etc.
 
 The Sushruta Samhita is the most representative work of the Hindu system of m...
-
-Go directly to: 
-Footnotes.
 
 Chapter XL - Symptoms and treatment of Diarrhea (Atisara)
 
@@ -249,10 +243,6 @@ Treatment and Diet:—
 Appropriate emetics and purgatives should be exhibted (for cleansing the upper and lower parts of the body) in accordance with the aggravation of the Dosha or Doshas involved, and Peyas (gruels) and other articles of diet duly prepared with appetising drugs should then he prescribed in their due order. Therapeutic agents possessed of digestive, astringent and appetising virtue should then be employed through the vehicles of Sura, Arishta (wine), Sneha (oil or clarified butter), cow’s urine, tepid water, or Takra. The use of Takra in the morning is in itself an excellent cure for the disease (Grahani). Remedies mentioned in connection with the treatment of worms in the intestines, Gulma, ascites or piles may also be adopted with benefit in the disease under discussion. The compound known as the Hingvadi-churna, or the medicated clarified butter described as remedial in a case of enlarged spleen, or the one duly cooked with the expressed juice of Changeri and with the drugs of the Magadhadi (Pippalyadi) group as Kalka may be likewise prescribed with beneficial results. Clarified butter duly cooked with four times as much curd (Dadhi) may also be used with benefit. Whatever is appetising (medicines, drugs and diet, etc.) would be beneficial in cases of Grahani. Complications (Upadrava) such as fever, etc. should be subdued with drugs not incompatible with the main treatment of nor in any way aggravative of the main disease. 107
 
 Thus ends the fortieth chapter of the Uttara-Tantra in the Sushruta Samhita which deals with the (symptoms) and medical treatment of Atisara.
-
-Footnotes and references:
-
-[back to top]
 
 [1]:
 

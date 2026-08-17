@@ -20,17 +20,11 @@ This chapter from **Sushruta Samhita (Chikitsasthana)** represents the classical
 
 ---
 
-
 Sushruta Samhita, volume 4: Cikitsasthana
-
-by Kaviraj Kunja Lal Bhishagratna | 1911 | 123,229 words
 
 This current book, the Chikitsa-sthana (english translation), deals with therapeutics, surgical emergencies, geriatrics, aphrodisiacs and various other subjects.
 
 The Sushruta Samhita is the most representative work of the Hindu system of medicine. It embraces all that can possibly appertain to the science of medicine. Susruta-samhita is recognized...
-
-Go directly to: 
-Footnotes.
 
 Chapter XXI - The medical treatment of poison caused by a Shuka (water insect)
 
@@ -65,10 +59,6 @@ Prognosis:—
 The medical treatment of the patient affected with any of the following types of the disease, viz., Arvuda, Mamsa-paka, Vidradhi and Tila- Kalaka should be undertaken without holding out any definite prospect of recovery, 16.
 
 Thus ends the twenty-first Chapter of the Chikitsita Sthana in the Sushruta Samhita which deals with the treatment of Shuka-Roga.
-
-Footnotes and references:
-
-[back to top]
 
 [1]:
 

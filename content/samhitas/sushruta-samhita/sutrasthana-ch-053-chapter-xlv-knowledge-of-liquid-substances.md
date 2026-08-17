@@ -20,15 +20,9 @@ This chapter from **Sushruta Samhita (Sutrasthana)** represents the classical su
 
 ---
 
-
 Sushruta Samhita, volume 1: Sutrasthana
 
-by Kaviraj Kunja Lal Bhishagratna | 1907 | 148,756 words
-
 This current book, the Sutra-sthana (english translation), is the first part of this voluminous medical work. It contains a large summary of the knowledge envelopig the medical aspects of Ayurveda. Descriptions of diseases, various diets and drugs, the duties of a surgeon, surgical procedures, medical training; these are only some of the numerous s...
-
-Go directly to: 
-Footnotes.
 
 Chapter XLV - Knowledge of liquid substances
 
@@ -353,10 +347,6 @@ Human urine is strong anti-toxic.
 I have now briefly described the properties of all kinds of liquid food or drink. An experienced physician should prescribe them for the use of his king according to the nature of season and the country in which they are to be applied.
 
 Thus ends the forty-fifth Chapter of the Sutrasthana in the Sushruta Samhita which treats of liquids.
-
-Footnotes and references:
-
-[back to top]
 
 [1]:
 

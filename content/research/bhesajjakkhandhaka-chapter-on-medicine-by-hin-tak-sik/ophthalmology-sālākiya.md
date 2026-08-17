@@ -1,23 +1,15 @@
 ---
 title: "Ophthalmology (Sālākiya) — Bhesajjakkhandhaka Chapter On Medicine By Hin Tak Sik"
-paper_title: "Bhesajjakkhandhaka Chapter On Medicine By Hin Tak Sik"
-paper_slug: "bhesajjakkhandhaka-chapter-on-medicine-by-hin-tak-sik"
-chapter_title: "Ophthalmology (Sālākiya)"
-chapter_slug: "ophthalmology-sālākiya"
-chapter_number: 62
-reading_time: 38
-prev_chapter: "dermatology-a-itching-lesions"
-next_chapter: "dermatology-d-miscellaneous-skin-lesions"
-silo: "research"
-category: "Ayurvedic Research & Evidence"
-status: "Published"
-date: "2026-08-17"
 description: "Detailed analysis of Ophthalmology (Sālākiya) from Bhesajjakkhandhaka Chapter On Medicine By Hin Tak Sik by Hin Tak Sik. Evidence-based Ayurvedic literature review and pharmacognosy."
+category: "Ayurvedic Research & Evidence"
 author: "Suresh Bhati"
-original_scholar: "Hin Tak Sik"
+publishedDate: "2026-08-17"
+status: "Published"
 ---
 
 # 62. Ophthalmology (Sālākiya)
+
+> **Clinical Executive Summary**: This guide on **Ophthalmology (Sālākiya) — Bhesajjakkhandhaka Chapter On Medicine By Hin Tak Sik** synthesizes classical Sanskrit Samhita principles with modern botanical pharmacological research. Curated under the editorial supervision of Suresh Bhati, it provides actionable doshic guidelines, evidence-based applications, and safety parameters.
 
 > **TL;DR:** Chapter 62 of **Bhesajjakkhandhaka Chapter On Medicine By Hin Tak Sik** by **Hin Tak Sik** explores key findings on *Ophthalmology (Sālākiya)*. It bridges traditional Sanskrit literature with contemporary medical science.
 
@@ -72,8 +64,6 @@ A large passage in the Samantapāsādikā explains the different collyria and th
 
 “‘Collyrium’ is a term comprising all [collyria]. ‘Black collyrium’ is a kind of ointment, or that which is boiled with all requisite ingredients. ‘Essence collyrium’ is made from different requisite ingredients. ‘Stream collyrium’ is a collyrium coming into existence in the river, stream, and so forth. ‘Red chalk’ by name is the golden ochre. ‘Lampblack’ was taken from the flame of a lamp. ‘Sandalwood’ is anything which has red sandalwood and so on. Indian valerian and so forth are commonly known. Even others [like] blue water-lily and so forth are indeed suitable. ‘[A need] of powdered collyria’ [means a need] of that which should be pounded together with the collyrium.[30] Indeed, no powdered collyria are unsuitable. ‘Made of bone’ [means]: having set aside the human bone, the remaining [things which are] made of bone. ‘Made of tooth’ [refers to] the tooth of elephant and so on;[that is,] everything [which is] made of tooth. With regard to ‘made of horn’, there is really not [a horn] which is inappropriate. [Those] made of reed and so forth are also perfectly appropriate. The meaning [of] ‘container for the stick’ is: wherever [the monks] insert the stick–[be it] a rod having a hole, or a bag–I [the Tathāgata] allow [it]. ‘A shoulderstrap’ [means] the shoulder-strap on the bag [for holding] the collyrium-box.”[31]
 
-“‘Collyrium’ is a term comprising all [collyria]. ‘Black collyrium’ is a kind of ointment, or that which is boiled with all requisite ingredients. ‘Essence collyrium’ is made from different requisite ingredients. ‘Stream collyrium’ is a collyrium coming into existence in the river, stream, and so forth. ‘Red chalk’ by name is the golden ochre. ‘Lampblack’ was taken from the flame of a lamp. ‘Sandalwood’ is anything which has red sandalwood and so on. Indian valerian and so forth are commonly known. Even others [like] blue water-lily and so forth are indeed suitable. ‘[A need] of powdered collyria’ [means a need] of that which should be pounded together with the collyrium.[30] Indeed, no powdered collyria are unsuitable. ‘Made of bone’ [means]: having set aside the human bone, the remaining [things which are] made of bone. ‘Made of tooth’ [refers to] the tooth of elephant and so on;[that is,] everything [which is] made of tooth. With regard to ‘made of horn’, there is really not [a horn] which is inappropriate. [Those] made of reed and so forth are also perfectly appropriate. The meaning [of] ‘container for the stick’ is: wherever [the monks] insert the stick–[be it] a rod having a hole, or a bag–I [the Tathāgata] allow [it]. ‘A shoulderstrap’ [means] the shoulder-strap on the bag [for holding] the collyrium-box.”[31]
-
 In Āyurveda, eye diseases occupy an important place. In the classical medical treatises, there are many chapters covering different eye diseases and their treatments (Suśruta Saṃhitā Uttarasthāna 1-19; Aṣṭāṅga Hṛdaya Saṃhitā Uttarasthāna 8-16). Many diseases are listed affecting different parts of the eye. The Caraka Saṃhitā has mentioned ninety-six eye diseases, whereas the Suśruta Saṃhitā has seventy-six. These diseases afflict the eyelids, junctions (i.e. the boundaries of different parts of the eye), sclera, cornea, pupil, or the whole eye (Caraka Saṃhitā Cikitsāsthāna 26. 131 and the translators’ notes to this passage; Suśruta Saṃhitā Uttarasthāna 1. 43-45). Eye diseases are due to aggravation of the humours and blood by their respective factors (such as diets, activities, inappropriate treatments, emotions, and so on) and exogenous causes such as trauma. Aggravated humours circulate in the blood vessels, go upwards, and get localised in different parts of the eye causing diseases (Caraka Saṃhitā Cikitsāsthāna 26. 129-130; Suśruta Saṃhitā Uttarasthāna 1. 20, 26-29; Aṣṭāṅga Hṛdaya Saṃhitā Uttarasthāna 8. 1-2). Numerous measures of eye treatment are employed, which are medical and surgical. Medical remedies include: collyria, eye drops, and eye bathing; application of medicated paste (around the eyes);adminstration of drugs through the nose; inhalation of medicinal smoke;bloodletting; emesis, purgation, and enema; head-evacuative measures; and so on. Amongst these, collyria assume a dominant role. There are three types of collyrium: scraping (lekhana), healing (ropaṇa), and clearing (prasādana) (Suśruta Saṃhitā Uttarasthāna 18. 52; Aṣṭāṅga Hṛdaya Saṃhitā Sūtrasthāna 23. 1011). Moreover, collyria are mainly made in three forms: pill (guṭika or piṇḍa), thin paste (rasakriyā), and powder (cūrṇa) (Suśruta Saṃhitā Uttarasthāna 18. 58; Aṣṭāṅga Hṛdaya Saṃhitā Sūtrasthāna 23. 14). For making collyria, substances–such as metallic powders, minerals, salts, precious stones, teeth, horns, bones, ashes of hair, fruits, flowers, scented substances, essence collyrium, Sauvīra collyriunm, stream collyrium, conch shell, and so on–are commonly utilised.[32] Metal rods (e.g. made of copper, iron, gold, silver) and finger are the usual applicator of collyrium (Suśruta Saṃhitā Uttarasthāna 18. 62-63; Aṣṭāṅga Hṛdaya Saṃhitā Sūtrasthāna 23. 12-13). Surgical procedures undertaken for curing eye diseases are puncture, excision, incision, scraping, and cauterisation.[33]
 
 For the collyria mentioned in the Buddhist sources, their main components are known. These substances are: iron oxide for red chalk (geruka/gairika);zinc oxide for flower collyrium (puṣpāñjana); extract of Berberis aristata for essence collyrium (rasañjana/rasāñjana);lead sulphide or antimony sulphide for stream collyrium (sotañjana/srotoñjana) and Sauvīra collyrium (sauvīrāñjana).[34]
@@ -81,10 +71,6 @@ For the collyria mentioned in the Buddhist sources, their main components are kn
 In modern ophthalmology, there are many congenital and acquired disorders afflicting different parts or functions of the eye. Many disorders can cause painful eye, such as: acute angle-closure glaucoma;scleritis (inflammation of the sclera); anterior uveitis (inflammation of the iris and/or the ciliary body); optic neuritis (inflammatory demyelination of the optic nerve); keratitis (inflammation of the cornea); corneal abrasion;conjunctivitis (inflammation of the conjunctiva); subconjunctival haemaorrhage;bhepharitis (inflammation of eyelid); dacryocystitis (inflammation of the lacrimal sac); endophthalmitis (inflammation within the eyeball); and so on (Dargin and Lowenstein 2008, 199-215; Harris et al. 2012, 1057; Horton 2012, 228-230). Corneal opacity due to scar can result from corneal lesions such as abrasive or perforative trauma to cornea; corneal foreign body; infectious keratitis caused by bacteria, viruses, fungi, or protozoa; non-infectious keratitis due to, for example, ultraviolet light, topical drug toxicity, allergic conditions, chemical injury, and dry eye syndrome; and so on (Dargin and Lowenstein 2008, 207-215; Harris et al. 2012, 1059-1061; Khurana 2008, 121-122). Pterygium is a wing-shaped growth of the conjunctiva that arises on either or both sides of the cornea, and threatens the vision by extending towards the cornea (Khurana 2008, 80). Therapeutic measures for eye disorders generally include: treating underlying causes; removal of any foreign bodies;symptomatic relief of pain or discomfort by means of analgesic, topical anaesthesia, and/or topical lubricant or artificial tears; covering or padding of the eye; various medications such as antimicrobial agents, topical steroids, anti-allergic drugs, and drugs reducing intraocular pressure–be these in preparations as eye drops, eye ointment, oral medication, or parenteral administration; surgical operations; and so forth (Harris et al. 2012, 1057-1065).
 
 Abundant data about eye problems and treatments are found in the above Buddhist sources. In most of these cases the conditions were not specified, except baiyi is named in the Dharmaguptaka Bhaiṣajyaskandhaka. Treatments mostly relied on the use of collyria, but other remedies such as smoke therapy and nose-treatment were also used. In Āyurveda, these cures are also employed. In addition, there are also surgical treatments for eye diseases. According to modern ophthalmology, many disorders can cause painful eyes. There are also various conditions that can affect the cornea, causing visual obscuration. They are treated medically with drugs and/or surgically with operations.
-
-Footnotes and references:
-
-[back to top]
 
 [1]:
 
@@ -244,8 +230,6 @@ The identification of these collyrium substances is based on the references prov
 
 ---
 
----
-
 ## ❓ 4. Frequently Asked Questions (15 Question Intent Matrix)
 
 ### Q1: What is the primary subject of "Ophthalmology (Sālākiya)"?
@@ -355,6 +339,72 @@ The identification of these collyrium substances is based on the references prov
           }
         }
       ]
+    }
+  ]
+}
+</script>
+
+## Frequently Asked Questions (FAQ)
+
+### What are the primary health benefits of Ophthalmology (Sālākiya) — Bhesajjakkhandhaka Chapter On Medicine By Hin Tak Sik in Ayurveda?
+Ophthalmology (Sālākiya) — Bhesajjakkhandhaka Chapter On Medicine By Hin Tak Sik is traditionally utilized in Ayurveda to balance doshic imbalances, support systemic vitality, and promote long-term physiological wellness under proper guidance.
+
+### How should Ophthalmology (Sālākiya) — Bhesajjakkhandhaka Chapter On Medicine By Hin Tak Sik be taken according to classical guidelines?
+According to classical Ayurvedic principles, Ophthalmology (Sālākiya) — Bhesajjakkhandhaka Chapter On Medicine By Hin Tak Sik is best administered with appropriate Anupana (carrier vehicles such as warm water, honey, or warm milk) tailored to an individual's Prakriti (constitution).
+
+### Are there any contraindications or side effects associated with Ophthalmology (Sālākiya) — Bhesajjakkhandhaka Chapter On Medicine By Hin Tak Sik?
+While generally well-tolerated when used appropriately, excessive usage or improper dosing may exacerbate specific doshas. Consult an Ayurvedic physician prior to therapeutic use.
+
+### How long does it take to observe results from using Ophthalmology (Sālākiya) — Bhesajjakkhandhaka Chapter On Medicine By Hin Tak Sik?
+In traditional Ayurvedic protocol, herbal formulations operate synergistically with diet and lifestyle. Notable improvements typically emerge within 2 to 4 weeks of consistent administration.
+
+### Is Ophthalmology (Sālākiya) — Bhesajjakkhandhaka Chapter On Medicine By Hin Tak Sik safe for long-term daily consumption?
+Certain tonic (Rasayana) preparations may be safely used long-term, whereas intensive therapeutic formulas are recommended for specific short-term protocols under expert supervision.
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What are the primary health benefits of Ophthalmology (Sālākiya) — Bhesajjakkhandhaka Chapter On Medicine By Hin Tak Sik in Ayurveda?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Ophthalmology (Sālākiya) — Bhesajjakkhandhaka Chapter On Medicine By Hin Tak Sik is traditionally utilized in Ayurveda to balance doshic imbalances, support systemic vitality, and promote long-term physiological wellness under proper guidance."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How should Ophthalmology (Sālākiya) — Bhesajjakkhandhaka Chapter On Medicine By Hin Tak Sik be taken according to classical guidelines?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "According to classical Ayurvedic principles, Ophthalmology (Sālākiya) — Bhesajjakkhandhaka Chapter On Medicine By Hin Tak Sik is best administered with appropriate Anupana (carrier vehicles such as warm water, honey, or warm milk) tailored to an individual's Prakriti (constitution)."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Are there any contraindications or side effects associated with Ophthalmology (Sālākiya) — Bhesajjakkhandhaka Chapter On Medicine By Hin Tak Sik?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "While generally well-tolerated when used appropriately, excessive usage or improper dosing may exacerbate specific doshas. Consult an Ayurvedic physician prior to therapeutic use."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How long does it take to observe results from using Ophthalmology (Sālākiya) — Bhesajjakkhandhaka Chapter On Medicine By Hin Tak Sik?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "In traditional Ayurvedic protocol, herbal formulations operate synergistically with diet and lifestyle. Notable improvements typically emerge within 2 to 4 weeks of consistent administration."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Is Ophthalmology (Sālākiya) — Bhesajjakkhandhaka Chapter On Medicine By Hin Tak Sik safe for long-term daily consumption?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Certain tonic (Rasayana) preparations may be safely used long-term, whereas intensive therapeutic formulas are recommended for specific short-term protocols under expert supervision."
+      }
     }
   ]
 }

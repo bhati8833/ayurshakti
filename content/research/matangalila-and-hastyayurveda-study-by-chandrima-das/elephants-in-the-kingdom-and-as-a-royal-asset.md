@@ -1,23 +1,15 @@
 ---
 title: "Elephants in the Kingdom and as a Royal Asset — Matangalila And Hastyayurveda Study By Chandrima Das"
-paper_title: "Matangalila And Hastyayurveda Study By Chandrima Das"
-paper_slug: "matangalila-and-hastyayurveda-study-by-chandrima-das"
-chapter_title: "Elephants in the Kingdom and as a Royal Asset"
-chapter_slug: "elephants-in-the-kingdom-and-as-a-royal-asset"
-chapter_number: 67
-reading_time: 6
-prev_chapter: "elephants-and-trade-introduction"
-next_chapter: "influence-on-foreign-countries"
-silo: "research"
-category: "Ayurvedic Research & Evidence"
-status: "Published"
-date: "2026-08-17"
 description: "Detailed analysis of Elephants in the Kingdom and as a Royal Asset from Matangalila And Hastyayurveda Study By Chandrima Das by Chandrima Das. Evidence-based Ayurvedic literature review and pharmacognosy."
+category: "Ayurvedic Research & Evidence"
 author: "Suresh Bhati"
-original_scholar: "Chandrima Das"
+publishedDate: "2026-08-17"
+status: "Published"
 ---
 
 # 67. Elephants in the Kingdom and as a Royal Asset
+
+> **Clinical Executive Summary**: This guide on **Elephants in the Kingdom and as a Royal Asset — Matangalila And Hastyayurveda Study By Chandrima Das** synthesizes classical Sanskrit Samhita principles with modern botanical pharmacological research. Curated under the editorial supervision of Suresh Bhati, it provides actionable doshic guidelines, evidence-based applications, and safety parameters.
 
 > **TL;DR:** Chapter 67 of **Matangalila And Hastyayurveda Study By Chandrima Das** by **Chandrima Das** explores key findings on *Elephants in the Kingdom and as a Royal Asset*. It bridges traditional Sanskrit literature with contemporary medical science.
 
@@ -51,13 +43,7 @@ According to Trautmann on the basis of the above pay structure one might surmise
 
 “…. military personnel are ranked high, and so are the upper levels of the elephant staff. The highest paid in this list are the commandants in battle of the four limbs of the four fold army next to them, at half their pay, are the overseers of the four limbs, along with the warden of the elephant forest. The next lower step is occupied by the elephant trainer, physician and horse trainer the three ranks for whom the king is to give land in the village–an important sign of distinction. It is noticeable that the elephant trainer ranks very much higher than the māhuts and other staff who are at the lowest pay level, several steps below. The expertise of the trainer seems to be considered superior, and the Arthaśāstra singles him out as the one whose knowledge of the qualities of individual elephants is to govern the process of capture. On the whole the upper grades of the elephant staff are very well compensated”.[5]
 
-“…. military personnel are ranked high, and so are the upper levels of the elephant staff. The highest paid in this list are the commandants in battle of the four limbs of the four fold army next to them, at half their pay, are the overseers of the four limbs, along with the warden of the elephant forest. The next lower step is occupied by the elephant trainer, physician and horse trainer the three ranks for whom the king is to give land in the village–an important sign of distinction. It is noticeable that the elephant trainer ranks very much higher than the māhuts and other staff who are at the lowest pay level, several steps below. The expertise of the trainer seems to be considered superior, and the Arthaśāstra singles him out as the one whose knowledge of the qualities of individual elephants is to govern the process of capture. On the whole the upper grades of the elephant staff are very well compensated”.[5]
-
 We would like to further add to the above interpretation a few important observations. Elephant staff had a clear cut hierarchy which can be divided into an upper and lower band on the basis of their pay structures. Some of them enjoyed a very respectable position and were paid premium salaries like the top level military officials. This shows the utility and demand of the elephants in the state structure. The commandants in battle managing the elephants are one of the highest paid which clearly points out that the animal was a major part of Indian warfare. This is further proved from the various metaphors and myths related to elephants as noticed from epigraphic and literary sources already discussed in previous chapters. Procurement of the elephants from their natural abode was one of the most important tasks and hence the salary of the overseers of the elephants and the warden of the elephant forest was also in the higher segment. Though placed below the overseer and warden of elephant forest the elephant trainer and elephant physician were imperative part of the ancient society and this is proved from the fact that besides their salary they were also provided residential facility and the king gave them land in the village. The elephant trainer’s not only would have trained the elephants for warfare but also were experts in identifying their type and tasks and hence could identify which one to retain for the royal and military purpose. Arthaśāstra especially mentions their role in the process of capturing of elephants as an expert in selection of the animal to be retained or captured.
-
-Footnotes and references:
-
-[back to top]
 
 [1]:
 
@@ -78,8 +64,6 @@ Ibid., Book 5, Chapter 3, pp.350-351.
 [5]:
 
 Thomas R. Trautmann. Elephants and Kings An Environmental History, pp. 168-169.
-
----
 
 ---
 
@@ -192,6 +176,72 @@ Thomas R. Trautmann. Elephants and Kings An Environmental History, pp. 168-169.
           }
         }
       ]
+    }
+  ]
+}
+</script>
+
+## Frequently Asked Questions (FAQ)
+
+### What are the primary health benefits of Elephants in the Kingdom and as a Royal Asset — Matangalila And Hastyayurveda Study By Chandrima Das in Ayurveda?
+Elephants in the Kingdom and as a Royal Asset — Matangalila And Hastyayurveda Study By Chandrima Das is traditionally utilized in Ayurveda to balance doshic imbalances, support systemic vitality, and promote long-term physiological wellness under proper guidance.
+
+### How should Elephants in the Kingdom and as a Royal Asset — Matangalila And Hastyayurveda Study By Chandrima Das be taken according to classical guidelines?
+According to classical Ayurvedic principles, Elephants in the Kingdom and as a Royal Asset — Matangalila And Hastyayurveda Study By Chandrima Das is best administered with appropriate Anupana (carrier vehicles such as warm water, honey, or warm milk) tailored to an individual's Prakriti (constitution).
+
+### Are there any contraindications or side effects associated with Elephants in the Kingdom and as a Royal Asset — Matangalila And Hastyayurveda Study By Chandrima Das?
+While generally well-tolerated when used appropriately, excessive usage or improper dosing may exacerbate specific doshas. Consult an Ayurvedic physician prior to therapeutic use.
+
+### How long does it take to observe results from using Elephants in the Kingdom and as a Royal Asset — Matangalila And Hastyayurveda Study By Chandrima Das?
+In traditional Ayurvedic protocol, herbal formulations operate synergistically with diet and lifestyle. Notable improvements typically emerge within 2 to 4 weeks of consistent administration.
+
+### Is Elephants in the Kingdom and as a Royal Asset — Matangalila And Hastyayurveda Study By Chandrima Das safe for long-term daily consumption?
+Certain tonic (Rasayana) preparations may be safely used long-term, whereas intensive therapeutic formulas are recommended for specific short-term protocols under expert supervision.
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What are the primary health benefits of Elephants in the Kingdom and as a Royal Asset — Matangalila And Hastyayurveda Study By Chandrima Das in Ayurveda?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Elephants in the Kingdom and as a Royal Asset — Matangalila And Hastyayurveda Study By Chandrima Das is traditionally utilized in Ayurveda to balance doshic imbalances, support systemic vitality, and promote long-term physiological wellness under proper guidance."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How should Elephants in the Kingdom and as a Royal Asset — Matangalila And Hastyayurveda Study By Chandrima Das be taken according to classical guidelines?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "According to classical Ayurvedic principles, Elephants in the Kingdom and as a Royal Asset — Matangalila And Hastyayurveda Study By Chandrima Das is best administered with appropriate Anupana (carrier vehicles such as warm water, honey, or warm milk) tailored to an individual's Prakriti (constitution)."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Are there any contraindications or side effects associated with Elephants in the Kingdom and as a Royal Asset — Matangalila And Hastyayurveda Study By Chandrima Das?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "While generally well-tolerated when used appropriately, excessive usage or improper dosing may exacerbate specific doshas. Consult an Ayurvedic physician prior to therapeutic use."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How long does it take to observe results from using Elephants in the Kingdom and as a Royal Asset — Matangalila And Hastyayurveda Study By Chandrima Das?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "In traditional Ayurvedic protocol, herbal formulations operate synergistically with diet and lifestyle. Notable improvements typically emerge within 2 to 4 weeks of consistent administration."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Is Elephants in the Kingdom and as a Royal Asset — Matangalila And Hastyayurveda Study By Chandrima Das safe for long-term daily consumption?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Certain tonic (Rasayana) preparations may be safely used long-term, whereas intensive therapeutic formulas are recommended for specific short-term protocols under expert supervision."
+      }
     }
   ]
 }

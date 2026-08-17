@@ -20,17 +20,11 @@ This chapter from **Sushruta Samhita (Kalpasthana)** represents the classical su
 
 ---
 
-
 Sushruta Samhita, Volume 5: Kalpasthana
-
-by Kaviraj Kunja Lal Bhishagratna | 1911 | 24,963 words
 
 This current book, the Kalpa-sthana (english translation), deals with the nature of poisons, the management of poisons, toxicology and various other subjects.
 
 The Sushruta Samhita is the most representative work of the Hindu system of medicine. It embraces all that can possibly appertain to the science of medicine. Susruta-samhita is recognized as...
-
-Go directly to: 
-Footnotes.
 
 Chapter V - The medical treatment of snake bites
 
@@ -147,10 +141,6 @@ Ekasara Agada:—
 The following drugs viz., Somaraji seeds and Somaraji flowers,[4] Katabhi, Sindhu- vara, Choraka, Varuna, Kushtha, Sarpa-gandha, Saptala, Punarnava, flowers of Shirisha, Aragvada and of Arka, Shyama, Ambashtha, Vidanga, Amra, Ashmantaka, black earth and Kuravaka comprise the Ekasara Agada. These should be applied singly[5] or in combination of two or three to destroy the effects of poison. 31.
 
 Thus ends the fifth Chapter of the Kalpa-Sathana in the Sushruta Samhita which deals with the medical treatment of snake-bites.
-
-Footnotes and references:
-
-[back to top]
 
 [1]:
 

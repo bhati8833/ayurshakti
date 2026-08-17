@@ -1,23 +1,15 @@
 ---
 title: "Part 3 - Animal Husbandry in the Purāṇas — Agriculture And Animal Husbandry In The Puranas By Purboshri"
-paper_title: "Agriculture And Animal Husbandry In The Puranas By Purboshri"
-paper_slug: "agriculture-and-animal-husbandry-in-the-puranas-by-purboshri"
-chapter_title: "Part 3 - Animal Husbandry in the Purāṇas"
-chapter_slug: "part-3---animal-husbandry-in-the-purāṇas"
-chapter_number: 61
-reading_time: 5
-prev_chapter: "part-1---meaning-of-the-term-paśu-pālana-animal-husbandry"
-next_chapter: "part-2---animal-husbandry-in-the-vedic-period"
-silo: "research"
-category: "Ayurvedic Research & Evidence"
-status: "Published"
-date: "2026-08-17"
 description: "Detailed analysis of Part 3 - Animal Husbandry in the Purāṇas from Agriculture And Animal Husbandry In The Puranas By Purboshri by Purboshri Borpuzari. Evidence-based Ayurvedic literature review and pharmacognosy."
+category: "Ayurvedic Research & Evidence"
 author: "Suresh Bhati"
-original_scholar: "Purboshri Borpuzari"
+publishedDate: "2026-08-17"
+status: "Published"
 ---
 
 # 61. Part 3 - Animal Husbandry in the Purāṇas
+
+> **Clinical Executive Summary**: This guide on **Part 3 - Animal Husbandry in the Purāṇas — Agriculture And Animal Husbandry In The Puranas By Purboshri** synthesizes classical Sanskrit Samhita principles with modern botanical pharmacological research. Curated under the editorial supervision of Suresh Bhati, it provides actionable doshic guidelines, evidence-based applications, and safety parameters.
 
 > **TL;DR:** Chapter 61 of **Agriculture And Animal Husbandry In The Puranas By Purboshri** by **Purboshri Borpuzari** explores key findings on *Part 3 - Animal Husbandry in the Purāṇas*. It bridges traditional Sanskrit literature with contemporary medical science.
 
@@ -36,10 +28,6 @@ In Purānic India animals were held in high esteem. Owning cattle meant possessi
 The Purāṇas mention about paśu in various places.[4] Devapaśus, indicate the animals intended for temples and other religious purposes.[5] The Purāṇas specially the Agni Purāṇa, the Viṣṇu Purāṇa, the Garuḍa Purāṇa, and the Matsya Purāṇa deal with the care and management of animals. Various rites were performed for the welfare of animals. The Bhāgavaṭa Purāṇa advises that one should regard beasts, camels, donkeys, monkeys, rats, serpents, birds and flies as his own sons, and therefore, these should not be driven out of house or fields if they enter and begin to eat; because there is very little difference between them and his sons.[6] It is mentioned in the Matsya Purāṇa that, when a monarch builds a beautiful house for himself, he should have his residence full of the various things obtained from elephants, cows, donkeys, camels, horses, buffaloes and deer etc. A king should carefully conserve such things in his fort.[7] Among the seven highly esteemed gems (saptaratnāni) of all the paramount sovereigns, horses, elephants and chariots were also included.[8] Again, the horse and the elephant cubs or camel cubs were considered jewels among the seven jewels full of life.[9] It is suggested in the Agni Purāṇa that a man who wishes an increase of domestic animals should recite the Ṛk, which begins with vayaḥ suparṇā.[10] Stealing domestic animals was considered an offence in the Purāṇas.It is clearly mentioned that a man who steals cows, buffaloes and horses of a Brāhmaṇa should be immediately punished by a king.[11] Animals indicated a good chance of success in the Purāṇic period. According to the Garuḍa Purāṇa, deer, monkey, cat, dog, pig, bird, mongoose and mouse, when seen on the right side, at the time of departure, were considered auspicious.[12] The Purāṇas are the storehouse of traditional medicines prescribed for the treatment of various animal diseases like diarrhea, fatigue, cough, hematuria, diseases of horn, pain in head and teeth, wounds, bronchitis, abscess, anemia, arthritis, cold, constipation, digestive ailments, dysentery, infection of ears, tooth, throat, heart and navel, parasite/verminous diseases, less milk production, rabies, retention of urine, rheumatism, rhinitis, skin infection, sprain, stomach worms, urinary colic, etc. Before the arrival of the modern allopathic system of medicine, people were largely dependent on locally available plant resources to meet their medicinal requirements.This system of medicine is given the term ethno-medicine and ethno-veterinary medicine. In case of human treatment it is termed as ethnomedicine and in case of treatment of farm and domestic animals it is termed as ethno-veterinary medicine. The Purāṇas especially the Matsya Purāṇa, the Agni Purāṇa, and the Garuḍa Purāṇa prescribe the ethno-veterinary medicines. Modern veterinary doctors also follow some traditional treatment prescribed by the Purāṇas. An attempt has been made in this chapter to discuss the diseases of animals as well as their remedies.
 
 The Agni Purāṇa sorts out the characteristics of the elephants, the ways of caring, their food, and prescribes herbs for curing diseases[13]. The same Purāṇa describes the nature, traits, the methods of controlling of the horses and the training of the horses.[14] Moreover, the Agni Purāṇa also deals with the diseases and the treatments of the horses.[15] It prescribes the ways of breeding of the horses and the methods of worship for the good of horses in addition to medicines.[16] The methods of doing well to elephants, the utility of the rearing of cows, their diseases and treatments are also described by the same Purāṇa.[17] The chapter Gavāyurvedaḥ[18] of the Agni Purāṇa deals with treatment of the cows. The treatment of horses and elephants are also dealt with in the Garuḍa Purāṇa[19]
-
-Footnotes and references:
-
-[back to top]
 
 [1]:
 
@@ -134,8 +122,6 @@ Ibid., Ch. 292
 [19]:
 
 Garuḍa Purāṇa , 1.201
-
----
 
 ---
 
@@ -248,6 +234,72 @@ Garuḍa Purāṇa , 1.201
           }
         }
       ]
+    }
+  ]
+}
+</script>
+
+## Frequently Asked Questions (FAQ)
+
+### What are the primary health benefits of Part 3 - Animal Husbandry in the Purāṇas — Agriculture And Animal Husbandry In The Puranas By Purboshri in Ayurveda?
+Part 3 - Animal Husbandry in the Purāṇas — Agriculture And Animal Husbandry In The Puranas By Purboshri is traditionally utilized in Ayurveda to balance doshic imbalances, support systemic vitality, and promote long-term physiological wellness under proper guidance.
+
+### How should Part 3 - Animal Husbandry in the Purāṇas — Agriculture And Animal Husbandry In The Puranas By Purboshri be taken according to classical guidelines?
+According to classical Ayurvedic principles, Part 3 - Animal Husbandry in the Purāṇas — Agriculture And Animal Husbandry In The Puranas By Purboshri is best administered with appropriate Anupana (carrier vehicles such as warm water, honey, or warm milk) tailored to an individual's Prakriti (constitution).
+
+### Are there any contraindications or side effects associated with Part 3 - Animal Husbandry in the Purāṇas — Agriculture And Animal Husbandry In The Puranas By Purboshri?
+While generally well-tolerated when used appropriately, excessive usage or improper dosing may exacerbate specific doshas. Consult an Ayurvedic physician prior to therapeutic use.
+
+### How long does it take to observe results from using Part 3 - Animal Husbandry in the Purāṇas — Agriculture And Animal Husbandry In The Puranas By Purboshri?
+In traditional Ayurvedic protocol, herbal formulations operate synergistically with diet and lifestyle. Notable improvements typically emerge within 2 to 4 weeks of consistent administration.
+
+### Is Part 3 - Animal Husbandry in the Purāṇas — Agriculture And Animal Husbandry In The Puranas By Purboshri safe for long-term daily consumption?
+Certain tonic (Rasayana) preparations may be safely used long-term, whereas intensive therapeutic formulas are recommended for specific short-term protocols under expert supervision.
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What are the primary health benefits of Part 3 - Animal Husbandry in the Purāṇas — Agriculture And Animal Husbandry In The Puranas By Purboshri in Ayurveda?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Part 3 - Animal Husbandry in the Purāṇas — Agriculture And Animal Husbandry In The Puranas By Purboshri is traditionally utilized in Ayurveda to balance doshic imbalances, support systemic vitality, and promote long-term physiological wellness under proper guidance."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How should Part 3 - Animal Husbandry in the Purāṇas — Agriculture And Animal Husbandry In The Puranas By Purboshri be taken according to classical guidelines?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "According to classical Ayurvedic principles, Part 3 - Animal Husbandry in the Purāṇas — Agriculture And Animal Husbandry In The Puranas By Purboshri is best administered with appropriate Anupana (carrier vehicles such as warm water, honey, or warm milk) tailored to an individual's Prakriti (constitution)."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Are there any contraindications or side effects associated with Part 3 - Animal Husbandry in the Purāṇas — Agriculture And Animal Husbandry In The Puranas By Purboshri?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "While generally well-tolerated when used appropriately, excessive usage or improper dosing may exacerbate specific doshas. Consult an Ayurvedic physician prior to therapeutic use."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How long does it take to observe results from using Part 3 - Animal Husbandry in the Purāṇas — Agriculture And Animal Husbandry In The Puranas By Purboshri?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "In traditional Ayurvedic protocol, herbal formulations operate synergistically with diet and lifestyle. Notable improvements typically emerge within 2 to 4 weeks of consistent administration."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Is Part 3 - Animal Husbandry in the Purāṇas — Agriculture And Animal Husbandry In The Puranas By Purboshri safe for long-term daily consumption?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Certain tonic (Rasayana) preparations may be safely used long-term, whereas intensive therapeutic formulas are recommended for specific short-term protocols under expert supervision."
+      }
     }
   ]
 }

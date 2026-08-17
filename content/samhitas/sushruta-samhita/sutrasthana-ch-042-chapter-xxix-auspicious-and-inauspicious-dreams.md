@@ -20,15 +20,9 @@ This chapter from **Sushruta Samhita (Sutrasthana)** represents the classical su
 
 ---
 
-
 Sushruta Samhita, volume 1: Sutrasthana
 
-by Kaviraj Kunja Lal Bhishagratna | 1907 | 148,756 words
-
 This current book, the Sutra-sthana (english translation), is the first part of this voluminous medical work. It contains a large summary of the knowledge envelopig the medical aspects of Ayurveda. Descriptions of diseases, various diets and drugs, the duties of a surgeon, surgical procedures, medical training; these are only some of the numerous s...
-
-Go directly to: 
-Footnotes.
 
 Chapter XXIX - Auspicious and inauspicious dreams
 
@@ -97,10 +91,6 @@ Now we shall describe the dreams, which are of auspicious nature. Members of the
 Dreams of ascending the terrace of a royal palace, of climbing a tree or a hill, or of riding an elephant predict similar results as above. A dream of one’s sailing over a river, pool or sea of turbid water predicts a money gain or cure, according as one is healthy or diseased. A dream of having been bit or stung by a serpent, by leeches, or by a bee, indicates bliss or cure, according to one’s good or bad health at the time. The man, who usually gets such auspicious dreams, should be looked upon as a long-lived man, and may be unhesitatingly taken under medical treatment by a physician.
 
 Thus ends the twenty-ninth Chapter of the Sutrasthana in the Sushruta Samhita, which deals with favourable or unfavourable prognosis from messengers, birds, omens etc.
-
-Footnotes and references:
-
-[back to top]
 
 [1]:
 

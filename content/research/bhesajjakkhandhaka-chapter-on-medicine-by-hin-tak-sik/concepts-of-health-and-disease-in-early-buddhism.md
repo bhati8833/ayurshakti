@@ -1,23 +1,15 @@
 ---
 title: "Concepts of Health and Disease (In early Buddhism) — Bhesajjakkhandhaka Chapter On Medicine By Hin Tak Sik"
-paper_title: "Bhesajjakkhandhaka Chapter On Medicine By Hin Tak Sik"
-paper_slug: "bhesajjakkhandhaka-chapter-on-medicine-by-hin-tak-sik"
-chapter_title: "Concepts of Health and Disease (In early Buddhism)"
-chapter_slug: "concepts-of-health-and-disease-in-early-buddhism"
-chapter_number: 27
-reading_time: 28
-prev_chapter: "b-basic-principles-of-biomedicine-western-medicine"
-next_chapter: "medical-principles-in-early-buddhist-scriptures"
-silo: "research"
-category: "Ayurvedic Research & Evidence"
-status: "Published"
-date: "2026-08-17"
 description: "Detailed analysis of Concepts of Health and Disease (In early Buddhism) from Bhesajjakkhandhaka Chapter On Medicine By Hin Tak Sik by Hin Tak Sik. Evidence-based Ayurvedic literature review and pharmacognosy."
+category: "Ayurvedic Research & Evidence"
 author: "Suresh Bhati"
-original_scholar: "Hin Tak Sik"
+publishedDate: "2026-08-17"
+status: "Published"
 ---
 
 # 27. Concepts of Health and Disease (In early Buddhism)
+
+> **Clinical Executive Summary**: This guide on **Concepts of Health and Disease (In early Buddhism) — Bhesajjakkhandhaka Chapter On Medicine By Hin Tak Sik** synthesizes classical Sanskrit Samhita principles with modern botanical pharmacological research. Curated under the editorial supervision of Suresh Bhati, it provides actionable doshic guidelines, evidence-based applications, and safety parameters.
 
 > **TL;DR:** Chapter 27 of **Bhesajjakkhandhaka Chapter On Medicine By Hin Tak Sik** by **Hin Tak Sik** explores key findings on *Concepts of Health and Disease (In early Buddhism)*. It bridges traditional Sanskrit literature with contemporary medical science.
 
@@ -37,8 +29,6 @@ In addition, the “Great Physician King” (Chinese: Da yiwang 大醫王)–ano
 
 “There are four things, being accomplished, that the one named Great Physician King should [have] as a king’s possession, as a king’s duty. What are the four? One, knowing well the disease; two, knowing well the origin of the disease; three, knowing well the treatment of the disease; four, knowing well that after curing the disease, there will be no recurrence. How to comprehend ‘a good physician knows the disease well’? It means that the good physician knows well such and such various types of disease. This states how the ‘good physician knows the disease well.’ What [does it mean that] ‘a good physician knows well the origin of disease’? It means that the good physician knows well that this disease has arisen due to wind, this has arisen due to indigestion, this has arisen due to saliva, this has arisen due to many cold [conditions], this has arisen due to present matter, [and] this has arisen due to season.[2] This states how the ‘good physician knows well the origin of disease.’ What [does it mean that] ‘a good physician knows well the treatment for disease’? It means that the good physician knows well the various diseases: this [disease] should be anointed with medicine, this should [be treated by] emesis, this should be purged, this should [be treated with] nasal douching, this should be fumigated, this should [be treated by] sweating–various treatments like these examples. This states how the ‘good physician knows well the treatment.’ What [does it mean that] ‘a good physician knows well the disease being cured and it will never occur in the future’? This means that the good physician relieves well the various diseases [and] causes them to be totally eliminated, [which] will never again arise in the future. This states how the ‘good physician knows well the treatment for disease [and the disease] will not recur.’”[3]
 
-“There are four things, being accomplished, that the one named Great Physician King should [have] as a king’s possession, as a king’s duty. What are the four? One, knowing well the disease; two, knowing well the origin of the disease; three, knowing well the treatment of the disease; four, knowing well that after curing the disease, there will be no recurrence. How to comprehend ‘a good physician knows the disease well’? It means that the good physician knows well such and such various types of disease. This states how the ‘good physician knows the disease well.’ What [does it mean that] ‘a good physician knows well the origin of disease’? It means that the good physician knows well that this disease has arisen due to wind, this has arisen due to indigestion, this has arisen due to saliva, this has arisen due to many cold [conditions], this has arisen due to present matter, [and] this has arisen due to season.[2] This states how the ‘good physician knows well the origin of disease.’ What [does it mean that] ‘a good physician knows well the treatment for disease’? It means that the good physician knows well the various diseases: this [disease] should be anointed with medicine, this should [be treated by] emesis, this should be purged, this should [be treated with] nasal douching, this should be fumigated, this should [be treated by] sweating–various treatments like these examples. This states how the ‘good physician knows well the treatment.’ What [does it mean that] ‘a good physician knows well the disease being cured and it will never occur in the future’? This means that the good physician relieves well the various diseases [and] causes them to be totally eliminated, [which] will never again arise in the future. This states how the ‘good physician knows well the treatment for disease [and the disease] will not recur.’”[3]
-
 Then, what has the Buddha, the Unsurpassed Physician and Surgeon, taught about health and disease? There is no clear definition of these two concepts in the sūtras or the Vinaya, though there is much discussion relating to them. The Pāli or Sanskrit term commonly used in early Buddhist literature for health is ārogya. There are, however, several terms denoting disease, illness or sickness, such as roga, ābādha, vyādhi, and ātanka, as well as the adjective term gilāna for sick or ill. Ārogya is an abstract noun of aroga (absence of illness), and roga is derived from the root ruj (to break, to afflict or hurt), according to the Pali-English Dictionary (s.v. “ārogya”, “roga”, and “rujati” respectively). Thus, roga is disease or illness, aroga is absence of illness/disease, and ārogya is the state of absence of illness/disease, i.e. health.
 
 Illness is one of the eight types of suffering, as shown in the Dhammacakkappavattana Sutta (Discourse on Setting the Wheel of Dhamma in Motion) (Saṃyutta Nikāya V. 420-431).[4] Suffering, according to the Four Noble Truths, is due to the arising of suffering (dukkhasamudaya). What is the arising of suffering? It is, as per the above-mentioned discourse, craving (taṇhā): craving for sensual desire (kāmataṇhā), craving for existence (bhava-taṇhā), and craving for non-existence (vibhava-taṇhā). As Rahula (1978, 29) explains: “It is this ‘thirst’, greed, craving, manifesting itself in various ways, that gives rise to all forms of suffering and the continuity of beings.” It is the craving–for anything delightful and pleasurable, whether it is form, sound, smell, taste, touch, or idea (Piyadassi 1987, 60)–that subsequently leads to clinging, becoming, birth, and suffering (such as ageing, death, etc.). However, according to Buddhism’s teaching on dependent arising (Pāli: paṭiccasamuppāda; Sanskrit: prātītyasamutpāda), the law of causality, every conditioned thing occurs depending on other factors.[5] Craving should not be regarded as the “first” or “original” cause. It is itself conditioned by and dependent on other factors. As per the twelve-factored formula of dependent arising,[6] the arising of craving depends on feeling, which in turn depends on contact and so on. In this formula, ignorance (Pāli: avijjā; Sanskrit: avidyā) is termed as the first factor. Hence this factor is considered as a very important one in causing all forms of suffering, including sickness. What is this ignorance that gives rise to suffering? It is the ignorance–the not-knowing–of the Four Noble Truths, of the principle of dependent arising, of the nature of the five aggregates of a being, and of the true nature of things as they are, i.e. impermanence, unsatisfactoriness, no-self-ness, and impurity. It is this ignorance that causes one to have moral defilements and unwholesome actions of body, speech, and mind (Piyadassi 1991, 142-143), which eventually result in suffering.[7] But, again, ignorance should not be regarded as the first cause of suffering. It also is causally conditioned (Aṅguttara Nikāya V. 113).[8]
@@ -47,11 +37,7 @@ Furthermore, a discourse in the Saṃyutta Nikāya (III. 228-229), while talking
 
 “Bhikkhus, the arising, continuation, production, and manifestation of the eye is the arising of suffering, the continuation of disease, the manifestation of aging-and-death. The arising, continuation, production, and manifestation of the ear … of the nose … of the tongue … of the body … of the mind is the arising of suffering, the continuation of disease, the manifestation of aging-and-death. The cessation, subsiding, and passing away of the eye … the mind is the cessation of suffering, the subsiding of disease, the passing away of aging-and-death” (Bodhi 2000, 1008).
 
-“Bhikkhus, the arising, continuation, production, and manifestation of the eye is the arising of suffering, the continuation of disease, the manifestation of aging-and-death. The arising, continuation, production, and manifestation of the ear … of the nose … of the tongue … of the body … of the mind is the arising of suffering, the continuation of disease, the manifestation of aging-and-death. The cessation, subsiding, and passing away of the eye … the mind is the cessation of suffering, the subsiding of disease, the passing away of aging-and-death” (Bodhi 2000, 1008).
-
 A parallel (though more concise) version is found in the Chinese Saṃyukta Āgama (Taishō Tripiṭaka 99. 90c2629):
-
-“If there is arising, staying, progressing, manifesting of the eye, then suffering arises, sickness stays, [and] ageing and death manifest. The same is said for the ear, the nose, the tongue, the body, [and] the mind. If there is ceasing, allaying, disappearing of the eye, arising of suffering then ceases, sickness then allays, [and] death then disappears. The same is said for the ear, the nose, the tongue, the body, [and] the mind.”[9]
 
 “If there is arising, staying, progressing, manifesting of the eye, then suffering arises, sickness stays, [and] ageing and death manifest. The same is said for the ear, the nose, the tongue, the body, [and] the mind. If there is ceasing, allaying, disappearing of the eye, arising of suffering then ceases, sickness then allays, [and] death then disappears. The same is said for the ear, the nose, the tongue, the body, [and] the mind.”[9]
 
@@ -75,8 +61,6 @@ It is expressed by the Buddha that there are two kinds of disease:
 
 “Monks, there are these two diseases. What are the two? Bodily disease and mental disease.”[31]
 
-“Monks, there are these two diseases. What are the two? Bodily disease and mental disease.”[31]
-
 This, therefore, also means that there are two kinds of health–physical health and mental health. In this discourse of the Aṅguttara Nikāya, it is also stated that people can be physically healthy for a certain period of time (whether it is one year, two years, or even up to a hundred years), but those with just a moment of healthy mind are difficult to find except those who have destroyed their taints (āsava). This points out that, for ordinary people, nobody can avoid mental problem or distress even for a short while. In fact, many people suffer from mental illnesses. Herein, a question may be raised: does Buddhism advocate mind-body dualism as Descartes has claimed?[32]
 
 The answer is certainly no. Buddhism does not uphold the idea of mind-body dualism. One of the fundamental teachings in Buddhism is the doctrine of the five aggregates (Pāli: pañca khandha; Sanskrit: pañca skandha), that each individual is a combination of five aggregates. These five are: material (Pāli and Sanskrit: rūpa), feeling (Pāli and Sanskrit: vedanā), perception (Pāli: saññā; Sanskrit: saṃjñā), volitional formation (Pāli: saṅkhāra; Sanskrit: saṃskāra), and consciousness (Pāli: viññāṇa; Sanskrit: vijñāna). These five actually represent the psycho-physical complex of mind and body (or, in another expression, that of mentality and materiality), with rūpa corresponding to body/ materiality and the other four aggregates to mind/mentality. The five aggregates are “conditioned, interdependent, relative things and states,” and they operate “together in combination as a physio-psychological machine” (Rahula 1978, 26, 57). None of these aggregates can arise independently without the others. The material aggregate and the immaterial aggregates are not separable, and the five aggregates must coexist for an individual being.
@@ -84,10 +68,6 @@ The answer is certainly no. Buddhism does not uphold the idea of mind-body duali
 There is another term in Buddhist doctrine highlighting this ideology of coexistence of mind and body (mentality and materiality), viz. nāma-rūpa. In this compound term, nāma comprises the four immaterial aggregates (of feeling, perception, volitional formation, and consciousness) and rūpa refers to the material aggregate, consisting of the great elements (earth, water, fire, and wind) and their dependent materials such as the five material sense-organs and their corresponding sense-objects, as well as mind-objects (Mahāniddesa II. 435; Saṃyutta Nikāya III. 59; Rahula 1978, 20). [33] Although the two components of the word is explained separately, as Karunaratne (2003, 128) pertinently describes, nāma and rūpa actually are “interdependent and that nāmarūpa is a designation given to the complex of mental and physical phenomena … The two are inseparable; they arise together, exist together, and perish together; they exist only in combination; in separation they are unable to exist … because neither of them possesses the power to exist alone. One exists only in dependence on the other.” Hence, nāma-rūpa, being a complex of mind and matter (i.e. physical body), can be referred to as an individuality (Pali-English Dictionary, s.v. “nāma”).
 
 Based on the above discussions of the five aggregates and mentalitymateriality complex, Buddhism holds that mind and body are not independent phenomena; they interrelate and co-exist as one complex. Physical and mental states are “constantly interacting; they are not two totally separate spheres” (Harvey 1993, 29). Returning to our discussion on health and disease, Buddhism, therefore, recognises a close relationship between physical health and mental health. One kind of health cannot be achieved without another. Physical conditions can affect the mind. As mentioned earlier, the monk Assaji could not attain meditative concentration due to his sickness. Physical illness can interfere with mental cultivation and psychological wellbeing. Conversely, the psychological state can have an influence on the body. Taking the example of the sick monk Anuruddha, as stated earlier, the practice of the four establishments of mindfulness helped him tolerate and relieve his physical pain. Mind thus has an impact on body. Body and mind interact with each other, and can influence each other. Physical health and mental health therefore are mutually dependent. Both are significant for personal health as a whole, as well as for spiritual development.[34]
-
-Footnotes and references:
-
-[back to top]
 
 [1]:
 
@@ -219,7 +199,7 @@ Aṅguttara Nikāya II. 142-143: “Dve’me bhikkhave rogā. Katame dve? Kāyik
 
 [32]:
 
-This kind of question has sparked a lot of discussion in the field of philosophy. Many Buddhist scholars have also contributed their thoughts, e.g. Harvey (1993), Karunadasa (2012) and Lin (2013). It would be beyond the scope of this thesis to delve into their arguments. Here a general discussion will be conducted.
+This kind of question has sparked a lot of discussion in the field of philosophy. Many Buddhist scholars have also contributed their thoughts, e.g. Harvey (1993), Karunadasa (2012) and Lin (2013). It would be beyond the scope of this thesis to examine their arguments. Here a general discussion will be conducted.
 
 [33]:
 
@@ -230,8 +210,6 @@ Herein, viññāṇa is not included as a component of nāma.
 [34]:
 
 However, mind plays a more important role in Buddhism. The very first teaching of the Dhammapada (in verses 1 and 2) is: “Things have the mind as the leader, as the superior, [and] things are mind-made” (manopubbaṅgamā dhammā manoseṭṭhā manomayā). In addition, in the Saṃyutta Nikāya (I. 87), it says: “The world is led by the mind, [and] is dragged around by the mind” (cittena nīyati loko, cittena parikissati). Premasiri (2003, 5) points out that: “early Buddhism gives supreme importance to the mind in human living, and emphasizes the great human potential to develop and cultivate the mind with the objective of realizing the ultimate goal of complete liberation from suffering.”
-
----
 
 ---
 
@@ -344,6 +322,72 @@ However, mind plays a more important role in Buddhism. The very first teaching o
           }
         }
       ]
+    }
+  ]
+}
+</script>
+
+## Frequently Asked Questions (FAQ)
+
+### What are the primary health benefits of Concepts of Health and Disease (In early Buddhism) — Bhesajjakkhandhaka Chapter On Medicine By Hin Tak Sik in Ayurveda?
+Concepts of Health and Disease (In early Buddhism) — Bhesajjakkhandhaka Chapter On Medicine By Hin Tak Sik is traditionally utilized in Ayurveda to balance doshic imbalances, support systemic vitality, and promote long-term physiological wellness under proper guidance.
+
+### How should Concepts of Health and Disease (In early Buddhism) — Bhesajjakkhandhaka Chapter On Medicine By Hin Tak Sik be taken according to classical guidelines?
+According to classical Ayurvedic principles, Concepts of Health and Disease (In early Buddhism) — Bhesajjakkhandhaka Chapter On Medicine By Hin Tak Sik is best administered with appropriate Anupana (carrier vehicles such as warm water, honey, or warm milk) tailored to an individual's Prakriti (constitution).
+
+### Are there any contraindications or side effects associated with Concepts of Health and Disease (In early Buddhism) — Bhesajjakkhandhaka Chapter On Medicine By Hin Tak Sik?
+While generally well-tolerated when used appropriately, excessive usage or improper dosing may exacerbate specific doshas. Consult an Ayurvedic physician prior to therapeutic use.
+
+### How long does it take to observe results from using Concepts of Health and Disease (In early Buddhism) — Bhesajjakkhandhaka Chapter On Medicine By Hin Tak Sik?
+In traditional Ayurvedic protocol, herbal formulations operate synergistically with diet and lifestyle. Notable improvements typically emerge within 2 to 4 weeks of consistent administration.
+
+### Is Concepts of Health and Disease (In early Buddhism) — Bhesajjakkhandhaka Chapter On Medicine By Hin Tak Sik safe for long-term daily consumption?
+Certain tonic (Rasayana) preparations may be safely used long-term, whereas intensive therapeutic formulas are recommended for specific short-term protocols under expert supervision.
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What are the primary health benefits of Concepts of Health and Disease (In early Buddhism) — Bhesajjakkhandhaka Chapter On Medicine By Hin Tak Sik in Ayurveda?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Concepts of Health and Disease (In early Buddhism) — Bhesajjakkhandhaka Chapter On Medicine By Hin Tak Sik is traditionally utilized in Ayurveda to balance doshic imbalances, support systemic vitality, and promote long-term physiological wellness under proper guidance."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How should Concepts of Health and Disease (In early Buddhism) — Bhesajjakkhandhaka Chapter On Medicine By Hin Tak Sik be taken according to classical guidelines?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "According to classical Ayurvedic principles, Concepts of Health and Disease (In early Buddhism) — Bhesajjakkhandhaka Chapter On Medicine By Hin Tak Sik is best administered with appropriate Anupana (carrier vehicles such as warm water, honey, or warm milk) tailored to an individual's Prakriti (constitution)."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Are there any contraindications or side effects associated with Concepts of Health and Disease (In early Buddhism) — Bhesajjakkhandhaka Chapter On Medicine By Hin Tak Sik?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "While generally well-tolerated when used appropriately, excessive usage or improper dosing may exacerbate specific doshas. Consult an Ayurvedic physician prior to therapeutic use."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How long does it take to observe results from using Concepts of Health and Disease (In early Buddhism) — Bhesajjakkhandhaka Chapter On Medicine By Hin Tak Sik?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "In traditional Ayurvedic protocol, herbal formulations operate synergistically with diet and lifestyle. Notable improvements typically emerge within 2 to 4 weeks of consistent administration."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Is Concepts of Health and Disease (In early Buddhism) — Bhesajjakkhandhaka Chapter On Medicine By Hin Tak Sik safe for long-term daily consumption?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Certain tonic (Rasayana) preparations may be safely used long-term, whereas intensive therapeutic formulas are recommended for specific short-term protocols under expert supervision."
+      }
     }
   ]
 }

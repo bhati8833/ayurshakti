@@ -18,7 +18,6 @@ Language and terminology form the backbone of traditional Indian medicine. Every
 
 ---
 
-
 ### Key Sanskrit Terms starting with 'V' (Sample Preview)
 The following is an excerpt of classical Sanskrit terms starting with letter **V**:
 
@@ -57,7 +56,6 @@ The following is an excerpt of classical Sanskrit terms starting with letter **V
 </ul>
 
 *Browse all 1,779 authenticated terms under Letter V in the searchable directory above.*
-
 
 ---
 

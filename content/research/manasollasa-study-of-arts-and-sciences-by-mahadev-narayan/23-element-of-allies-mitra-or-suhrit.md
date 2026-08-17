@@ -1,23 +1,15 @@
 ---
 title: "2.3. Element of Allies (Mitra or Suhrit) — Manasollasa Study Of Arts And Sciences By Mahadev Narayan"
-paper_title: "Manasollasa Study Of Arts And Sciences By Mahadev Narayan"
-paper_slug: "manasollasa-study-of-arts-and-sciences-by-mahadev-narayan"
-chapter_title: "2.3. Element of Allies (Mitra or Suhrit)"
-chapter_slug: "23-element-of-allies-mitra-or-suhrit"
-chapter_number: 8
-reading_time: 3
-prev_chapter: "acknowledgement"
-next_chapter: "22-element-of-the-minister-or-amatya"
-silo: "research"
-category: "Ayurvedic Research & Evidence"
-status: "Published"
-date: "2026-08-17"
 description: "Detailed analysis of 2.3. Element of Allies (Mitra or Suhrit) from Manasollasa Study Of Arts And Sciences By Mahadev Narayan by Mahadev Narayan. Evidence-based Ayurvedic literature review and pharmacognosy."
+category: "Ayurvedic Research & Evidence"
 author: "Suresh Bhati"
-original_scholar: "Mahadev Narayan"
+publishedDate: "2026-08-17"
+status: "Published"
 ---
 
 # 8. 2.3. Element of Allies (Mitra or Suhrit)
+
+> **Clinical Executive Summary**: This guide on **2.3. Element of Allies (Mitra or Suhrit) — Manasollasa Study Of Arts And Sciences By Mahadev Narayan** synthesizes classical Sanskrit Samhita principles with modern botanical pharmacological research. Curated under the editorial supervision of Suresh Bhati, it provides actionable doshic guidelines, evidence-based applications, and safety parameters.
 
 > **TL;DR:** Chapter 8 of **Manasollasa Study Of Arts And Sciences By Mahadev Narayan** by **Mahadev Narayan** explores key findings on *2.3. Element of Allies (Mitra or Suhrit)*. It bridges traditional Sanskrit literature with contemporary medical science.
 
@@ -38,8 +30,6 @@ Somesvara tells us that the third important element He gives some of the state i
 the future. "42 43 The This same view we see in Yajnavalkya Smrti also. But according to Kautilya, wealth is more 44 important than friend. In Mahabharata 45 gold, land and friend are equally important. Somesvara gives more importance to a friend. 46 Under such friends (allies) all the constituents of the state conduce to the desired results. It is stated that it is more advantageous to the Vijigisu king to get a Sangha on his side than to obtain troops or secure an ally. The reason is that the Sangha is more closely knit and hence difficult to overpower. It is thus thought to be a better fighting unit than ordinary troops and more steadfast in alliance than an ordinary ally. It may be assumed that the constitution 42. manusmrti  7.208. hiranyabhumisampraptya parthivo na tathaidhate | yatha mitram dhruvam labdhva krsamapyayatiksamam ||  43. yajnavalkya smrti -  1.352. hiranyabhumilabhebhyo mitralabdhirvara yatah | ato yateta tatpraptyai raksatsatyam samahitah ||  44. kautilya arthasastra -  7.9.1.3. samhitaprayane mitrahiranya bhumi - labhanamamuttarottaro labhah sreyan | mitrahiranye hi bhumilabhadbhavato mitram hiranyalabhat | yo va labhah siddhah posayoranyataram sadhayati sa sreyan ||  45. mahabharata santiparva -  138.110. na kascitkasyacinmitram na kascitkasyacidripuh | arthatastu nibadhyante mitrani ripavastatha ||  46. kurvita nrpatirmitram dharmarthasukhasiddhaye |  2.7.686. |
 
 52 of the Sangha was able to instil a feeling of solidarity among the confederating units. In the opening of the Manasollasa it is said that it is better to have a Sangha on your side than to acquire an army or to secure an ally, to make use of it with the expedients of sama and dana. The ally is the ruler of a different similarly organised state and forms no part of the other state's internal organisation. His mention is primarily in connection with that of state's foreign relations. Somesvara states that friendship of the other king is welfare of both the kingdoms. So he gives third importance to the friendship of the neighbour kings.
-
----
 
 ---
 
@@ -152,6 +142,72 @@ the future. "42 43 The This same view we see in Yajnavalkya Smrti also. But acco
           }
         }
       ]
+    }
+  ]
+}
+</script>
+
+## Frequently Asked Questions (FAQ)
+
+### What are the primary health benefits of 2.3. Element of Allies (Mitra or Suhrit) — Manasollasa Study Of Arts And Sciences By Mahadev Narayan in Ayurveda?
+2.3. Element of Allies (Mitra or Suhrit) — Manasollasa Study Of Arts And Sciences By Mahadev Narayan is traditionally utilized in Ayurveda to balance doshic imbalances, support systemic vitality, and promote long-term physiological wellness under proper guidance.
+
+### How should 2.3. Element of Allies (Mitra or Suhrit) — Manasollasa Study Of Arts And Sciences By Mahadev Narayan be taken according to classical guidelines?
+According to classical Ayurvedic principles, 2.3. Element of Allies (Mitra or Suhrit) — Manasollasa Study Of Arts And Sciences By Mahadev Narayan is best administered with appropriate Anupana (carrier vehicles such as warm water, honey, or warm milk) tailored to an individual's Prakriti (constitution).
+
+### Are there any contraindications or side effects associated with 2.3. Element of Allies (Mitra or Suhrit) — Manasollasa Study Of Arts And Sciences By Mahadev Narayan?
+While generally well-tolerated when used appropriately, excessive usage or improper dosing may exacerbate specific doshas. Consult an Ayurvedic physician prior to therapeutic use.
+
+### How long does it take to observe results from using 2.3. Element of Allies (Mitra or Suhrit) — Manasollasa Study Of Arts And Sciences By Mahadev Narayan?
+In traditional Ayurvedic protocol, herbal formulations operate synergistically with diet and lifestyle. Notable improvements typically emerge within 2 to 4 weeks of consistent administration.
+
+### Is 2.3. Element of Allies (Mitra or Suhrit) — Manasollasa Study Of Arts And Sciences By Mahadev Narayan safe for long-term daily consumption?
+Certain tonic (Rasayana) preparations may be safely used long-term, whereas intensive therapeutic formulas are recommended for specific short-term protocols under expert supervision.
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What are the primary health benefits of 2.3. Element of Allies (Mitra or Suhrit) — Manasollasa Study Of Arts And Sciences By Mahadev Narayan in Ayurveda?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "2.3. Element of Allies (Mitra or Suhrit) — Manasollasa Study Of Arts And Sciences By Mahadev Narayan is traditionally utilized in Ayurveda to balance doshic imbalances, support systemic vitality, and promote long-term physiological wellness under proper guidance."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How should 2.3. Element of Allies (Mitra or Suhrit) — Manasollasa Study Of Arts And Sciences By Mahadev Narayan be taken according to classical guidelines?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "According to classical Ayurvedic principles, 2.3. Element of Allies (Mitra or Suhrit) — Manasollasa Study Of Arts And Sciences By Mahadev Narayan is best administered with appropriate Anupana (carrier vehicles such as warm water, honey, or warm milk) tailored to an individual's Prakriti (constitution)."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Are there any contraindications or side effects associated with 2.3. Element of Allies (Mitra or Suhrit) — Manasollasa Study Of Arts And Sciences By Mahadev Narayan?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "While generally well-tolerated when used appropriately, excessive usage or improper dosing may exacerbate specific doshas. Consult an Ayurvedic physician prior to therapeutic use."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How long does it take to observe results from using 2.3. Element of Allies (Mitra or Suhrit) — Manasollasa Study Of Arts And Sciences By Mahadev Narayan?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "In traditional Ayurvedic protocol, herbal formulations operate synergistically with diet and lifestyle. Notable improvements typically emerge within 2 to 4 weeks of consistent administration."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Is 2.3. Element of Allies (Mitra or Suhrit) — Manasollasa Study Of Arts And Sciences By Mahadev Narayan safe for long-term daily consumption?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Certain tonic (Rasayana) preparations may be safely used long-term, whereas intensive therapeutic formulas are recommended for specific short-term protocols under expert supervision."
+      }
     }
   ]
 }

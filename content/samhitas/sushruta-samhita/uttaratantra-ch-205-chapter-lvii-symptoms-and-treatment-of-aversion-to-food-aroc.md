@@ -20,17 +20,11 @@ This chapter from **Sushruta Samhita (Uttaratantra)** represents the classical s
 
 ---
 
-
 Sushruta Samhita, Volume 6: Uttara-tantra
-
-by Kaviraj Kunja Lal Bhishagratna | 1916 | 113,078 words
 
 This current book, the Uttara-tantra (english translation) is the supplementary part of the Sushrutasamhita and deals various subjects such as diseases of the eye, treatment of fever, diarrhea, diseases resulting from superhuman influences, insanity, rules of health etc.
 
 The Sushruta Samhita is the most representative work of the Hindu system of m...
-
-Go directly to: 
-Footnotes.
 
 Chapter LVII - Symptoms and Treatment of aversion to food (Arochaka)
 
@@ -75,10 +69,6 @@ Treatment of Manasa Arocaka:—
 In a case of impaired digestion due to the effects of any ungratified desire, fear, grief, etc., the lost longing for food should be restored in the patient by holding out to him the near prospect of its realisation and by consoling him with the prospects of fresh joy and safety. In a case due to the loss of a splendid fortune, the bitter apathy and loathsomeness of the patient towards taking any food should be removed by infusing fresh hopes into his heart and by narrating to him the balmy stories of the Puranas. A case due to dejection or despondency should be conquered by sincere sympathy and cheering up. In short any impairment of appetite due to any disturbed or agitated state of the mind should be remedied with discourses gratifying to the patient under the circumstances. 17.
 
 Thus ends the fifty-seventh chapter in the Uttara-Tantra of the Sushruta Samhita which deals with the (symptoms and) treatment of Arocaka.
-
-Footnotes and references:
-
-[back to top]
 
 [1]:
 

@@ -20,17 +20,11 @@ This chapter from **Sushruta Samhita (Chikitsasthana)** represents the classical
 
 ---
 
-
 Sushruta Samhita, volume 4: Cikitsasthana
-
-by Kaviraj Kunja Lal Bhishagratna | 1911 | 123,229 words
 
 This current book, the Chikitsa-sthana (english translation), deals with therapeutics, surgical emergencies, geriatrics, aphrodisiacs and various other subjects.
 
 The Sushruta Samhita is the most representative work of the Hindu system of medicine. It embraces all that can possibly appertain to the science of medicine. Susruta-samhita is recognized...
-
-Go directly to: 
-Footnotes.
 
 Chapter XXXII - Description of Sveda (fomentation, calorification, etc.)
 
@@ -85,10 +79,6 @@ Sveda should be applied unto a patient in a covered and windless place and after
 After a full and complete application of Sveda, the (body of the) patient should be well rubbed with a Sneha (oil, etc.) and a hot bath should be prescribed. The patient should then be made to keep his body well covered (with warm clothes) and be removed to a windless chamber (immediately afterwards). The diet should consist of such articles as would not produce any internal secretion (in the channels of the system) and he should observe, if necessary, the ether rules of Conduct (enjoined in such cases). 16.
 
 Thus ends the Thirty-second Chapter in the Chikitsita Sthana of the Sushruta Samhita which treats of the applications of Sveda.
-
-Footnotes and references:
-
-[back to top]
 
 [1]:
 

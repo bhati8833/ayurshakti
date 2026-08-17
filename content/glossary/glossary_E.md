@@ -18,7 +18,6 @@ Language and terminology form the backbone of traditional Indian medicine. Every
 
 ---
 
-
 ### Key Sanskrit Terms starting with 'E' (Sample Preview)
 The following is an excerpt of classical Sanskrit terms starting with letter **E**:
 
@@ -57,7 +56,6 @@ The following is an excerpt of classical Sanskrit terms starting with letter **E
 </ul>
 
 *Browse all 107 authenticated terms under Letter E in the searchable directory above.*
-
 
 ---
 

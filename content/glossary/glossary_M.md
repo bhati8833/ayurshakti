@@ -18,7 +18,6 @@ Language and terminology form the backbone of traditional Indian medicine. Every
 
 ---
 
-
 ### Key Sanskrit Terms starting with 'M' (Sample Preview)
 The following is an excerpt of classical Sanskrit terms starting with letter **M**:
 
@@ -57,7 +56,6 @@ The following is an excerpt of classical Sanskrit terms starting with letter **M
 </ul>
 
 *Browse all 1,642 authenticated terms under Letter M in the searchable directory above.*
-
 
 ---
 

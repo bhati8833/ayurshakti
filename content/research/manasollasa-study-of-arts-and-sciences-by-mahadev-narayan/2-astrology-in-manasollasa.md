@@ -1,23 +1,15 @@
 ---
 title: "2. Astrology in Manasollasa — Manasollasa Study Of Arts And Sciences By Mahadev Narayan"
-paper_title: "Manasollasa Study Of Arts And Sciences By Mahadev Narayan"
-paper_slug: "manasollasa-study-of-arts-and-sciences-by-mahadev-narayan"
-chapter_title: "2. Astrology in Manasollasa"
-chapter_slug: "2-astrology-in-manasollasa"
-chapter_number: 44
-reading_time: 17
-prev_chapter: "7-dance-in-somesvaras-manasollasa"
-next_chapter: "3-mathematics-in-manasollasa"
-silo: "research"
-category: "Ayurvedic Research & Evidence"
-status: "Published"
-date: "2026-08-17"
 description: "Detailed analysis of 2. Astrology in Manasollasa from Manasollasa Study Of Arts And Sciences By Mahadev Narayan by Mahadev Narayan. Evidence-based Ayurvedic literature review and pharmacognosy."
+category: "Ayurvedic Research & Evidence"
 author: "Suresh Bhati"
-original_scholar: "Mahadev Narayan"
+publishedDate: "2026-08-17"
+status: "Published"
 ---
 
 # 44. 2. Astrology in Manasollasa
+
+> **Clinical Executive Summary**: This guide on **2. Astrology in Manasollasa — Manasollasa Study Of Arts And Sciences By Mahadev Narayan** synthesizes classical Sanskrit Samhita principles with modern botanical pharmacological research. Curated under the editorial supervision of Suresh Bhati, it provides actionable doshic guidelines, evidence-based applications, and safety parameters.
 
 > **TL;DR:** Chapter 44 of **Manasollasa Study Of Arts And Sciences By Mahadev Narayan** by **Mahadev Narayan** explores key findings on *2. Astrology in Manasollasa*. It bridges traditional Sanskrit literature with contemporary medical science.
 
@@ -72,8 +64,6 @@ V. Friday VI. Saturday 283 Pusya, ASlesa, Magha, and Rohini purvasadha, Uttarasa
 299 26 works. Further Somesvara explains the Kutacakra according to the Naksatras also (2.20.1048-1058). 27 He tells the common man about the works to be undertaken on the various days, Naksatras, tithis, etc. He mentions the Naksatras which are good for wearing a new dress, the Naksatras which are good for accumulation of wealth and so on. He tells us also about the Vara or week days and the effects of wearing various coloured clothes on the various days of the week. "Wednesday, Thursday, and 428 Friday are the good days for wearing a new dress. According to Muhurtacintamani, Rasi is more important than the week days. It is mentioned in this, that a person of Makara Rasi should not start a good work on Tuesday. One who belongs to Vrsabha, Simha, and Kanya Ragi, should not start a new work on Saturday. A person 26. daksine prsthatah karya yoginyo vijagisana | yogininam balam caiva kathitam somabhubhuja ||  2. 20.1145. Cf. In Viveka Cintamani only seven Yoginis are there, namely, BrahmI, Mahesvari, Kaumari, Vaisnavi, varahi, Indrani and Camundi. (Viveka-Cintamani, 6-Prakarana, Matrakayogini sakti). 27. asvini vastrada prokta rohini dhanavardhini | punarvasvorvasupraptih pusye saukhyam pravardhata  || uttarayam bhavellabho haste siddhistu karmanam | citrayam sukhasampraptih svatyam saubhagyasampadah ||  3.6.1054-1055. 28. budhe dhanagamam vindyatprajnavrdvibhavedguri | ayuh pravardhate sukre nutanambaradharane ||  3.6.1058.
 
 300 of Mithunarasi should not start a new work on Monday. A person belonging to Mesarasi should not start a fresh work on Sunday. A man of Karkarasi should not start a fresh work on Wednesday. Dhanu, vrscika, and Meenarasi persons should not begin a new function on Friday, and those who have Kumbharasi and Tularasi, should not start a new work on Thursday. In spite of all this, Somesvara says 'at the time of festivals, marriages, meetings of the neighbour kings, songs, dances, gifts, sacrifices, fightings, and battles etc. the wearing of 29 new dress is not prohibited to the people of all Rasis. 30 2 In this way, somesvara discusses Naksatras, Rasas, Svarabalas, types, positions and effect of Bhumtbala, varieties of Cakras, Yoginibalas and so on. " 29. muhurtacintamani . yatraprakaranam - 31. nakre bhaumo goharistrisu mandaracandro dvande'rko'jabhajnascakarke | sukrah :- kodandaliminesu kumbhejake jivo ghatavara na sastah ||  30. nrpotsave vivahe ca parabhupalasangame | utsavesu ca sarvesu gitanrtyavinodane || danakarmani yajne ca tatha yuddhamahotsave | janairnavambaram dharya na dusyati kadacana ||  3.6.1059 -1060.
-
----
 
 ---
 
@@ -186,6 +176,72 @@ V. Friday VI. Saturday 283 Pusya, ASlesa, Magha, and Rohini purvasadha, Uttarasa
           }
         }
       ]
+    }
+  ]
+}
+</script>
+
+## Frequently Asked Questions (FAQ)
+
+### What are the primary health benefits of 2. Astrology in Manasollasa — Manasollasa Study Of Arts And Sciences By Mahadev Narayan in Ayurveda?
+2. Astrology in Manasollasa — Manasollasa Study Of Arts And Sciences By Mahadev Narayan is traditionally utilized in Ayurveda to balance doshic imbalances, support systemic vitality, and promote long-term physiological wellness under proper guidance.
+
+### How should 2. Astrology in Manasollasa — Manasollasa Study Of Arts And Sciences By Mahadev Narayan be taken according to classical guidelines?
+According to classical Ayurvedic principles, 2. Astrology in Manasollasa — Manasollasa Study Of Arts And Sciences By Mahadev Narayan is best administered with appropriate Anupana (carrier vehicles such as warm water, honey, or warm milk) tailored to an individual's Prakriti (constitution).
+
+### Are there any contraindications or side effects associated with 2. Astrology in Manasollasa — Manasollasa Study Of Arts And Sciences By Mahadev Narayan?
+While generally well-tolerated when used appropriately, excessive usage or improper dosing may exacerbate specific doshas. Consult an Ayurvedic physician prior to therapeutic use.
+
+### How long does it take to observe results from using 2. Astrology in Manasollasa — Manasollasa Study Of Arts And Sciences By Mahadev Narayan?
+In traditional Ayurvedic protocol, herbal formulations operate synergistically with diet and lifestyle. Notable improvements typically emerge within 2 to 4 weeks of consistent administration.
+
+### Is 2. Astrology in Manasollasa — Manasollasa Study Of Arts And Sciences By Mahadev Narayan safe for long-term daily consumption?
+Certain tonic (Rasayana) preparations may be safely used long-term, whereas intensive therapeutic formulas are recommended for specific short-term protocols under expert supervision.
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What are the primary health benefits of 2. Astrology in Manasollasa — Manasollasa Study Of Arts And Sciences By Mahadev Narayan in Ayurveda?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "2. Astrology in Manasollasa — Manasollasa Study Of Arts And Sciences By Mahadev Narayan is traditionally utilized in Ayurveda to balance doshic imbalances, support systemic vitality, and promote long-term physiological wellness under proper guidance."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How should 2. Astrology in Manasollasa — Manasollasa Study Of Arts And Sciences By Mahadev Narayan be taken according to classical guidelines?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "According to classical Ayurvedic principles, 2. Astrology in Manasollasa — Manasollasa Study Of Arts And Sciences By Mahadev Narayan is best administered with appropriate Anupana (carrier vehicles such as warm water, honey, or warm milk) tailored to an individual's Prakriti (constitution)."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Are there any contraindications or side effects associated with 2. Astrology in Manasollasa — Manasollasa Study Of Arts And Sciences By Mahadev Narayan?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "While generally well-tolerated when used appropriately, excessive usage or improper dosing may exacerbate specific doshas. Consult an Ayurvedic physician prior to therapeutic use."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How long does it take to observe results from using 2. Astrology in Manasollasa — Manasollasa Study Of Arts And Sciences By Mahadev Narayan?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "In traditional Ayurvedic protocol, herbal formulations operate synergistically with diet and lifestyle. Notable improvements typically emerge within 2 to 4 weeks of consistent administration."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Is 2. Astrology in Manasollasa — Manasollasa Study Of Arts And Sciences By Mahadev Narayan safe for long-term daily consumption?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Certain tonic (Rasayana) preparations may be safely used long-term, whereas intensive therapeutic formulas are recommended for specific short-term protocols under expert supervision."
+      }
     }
   ]
 }

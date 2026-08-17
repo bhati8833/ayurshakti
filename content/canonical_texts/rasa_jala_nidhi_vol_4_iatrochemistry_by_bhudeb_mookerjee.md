@@ -9,19 +9,11 @@ date: "2026-08-17"
 description: "text includes treatments, recipes and remedies and is categorised as Rasa Shastra: an important branch of Ayurveda that specialises in medicinal/ herbal chemistry, alchemy and mineralogy, for the p..."
 ---
 
-**Author / Source:** by Bhudeb Mookerjee
-
-
-**Total Chapters/Sections:** 437
-
 ---
 
 ## 1. Introduction
 
-
 Rasa Jala Nidhi, vol 4: Iatrochemistry
-
-by Bhudeb Mookerjee | 1938 | 52,258 words | ISBN-10: 8170305829 | ISBN-13: 9788170305828
 
 This fourth volume of the Rasa-jala-nidhi deals with Rasa-chikitsa-vidya, also known a the science of Iatrchemistry (chemical medicine), a major branch of Ayurveda. It contains Ayurvedic treatments for Fever and Diarrhea.
 
@@ -39,10 +31,7 @@ This concludes ‘Introduction’ included in Bhudeb Mookerjee Rasa Jala Nidhi, 
 
 ## 2. Part 2 - Dietary prescriptions
 
-
 Rasa Jala Nidhi, vol 4: Iatrochemistry
-
-by Bhudeb Mookerjee | 1938 | 52,258 words | ISBN-10: 8170305829 | ISBN-13: 9788170305828
 
 This fourth volume of the Rasa-jala-nidhi deals with Rasa-chikitsa-vidya, also known a the science of Iatrchemistry (chemical medicine), a major branch of Ayurveda. It contains Ayurvedic treatments for Fever and Diarrhea.
 
@@ -68,10 +57,7 @@ This concludes ‘Dietary prescriptions’ included in Bhudeb Mookerjee Rasa Jal
 
 ## 3. Part 4 - Diet incongenial by combination
 
-
 Rasa Jala Nidhi, vol 4: Iatrochemistry
-
-by Bhudeb Mookerjee | 1938 | 52,258 words | ISBN-10: 8170305829 | ISBN-13: 9788170305828
 
 This fourth volume of the Rasa-jala-nidhi deals with Rasa-chikitsa-vidya, also known a the science of Iatrchemistry (chemical medicine), a major branch of Ayurveda. It contains Ayurvedic treatments for Fever and Diarrhea.
 
@@ -89,25 +75,15 @@ This concludes ‘Diet incongenial by combination’ included in Bhudeb Mookerje
 
 ## 4. Part 3 - Unwholesome diet and deeds
 
-
 Rasa Jala Nidhi, vol 4: Iatrochemistry
-
-by Bhudeb Mookerjee | 1938 | 52,258 words | ISBN-10: 8170305829 | ISBN-13: 9788170305828
 
 This fourth volume of the Rasa-jala-nidhi deals with Rasa-chikitsa-vidya, also known a the science of Iatrchemistry (chemical medicine), a major branch of Ayurveda. It contains Ayurvedic treatments for Fever and Diarrhea.
 
 The Rasa-jala-nidhi (“the ocean of Iatrochemistry, or, chemical medicine) is a compendium of Sanskrit verses dealing with ancie...
 
-Go directly to: 
-Footnotes.
-
 Part 3 - Unwholesome diet and deeds
 
 The following are to be avoided:—taking meal before and much after, the usual time;- taking much in excess of or much less than the proper quantity of meal; taking meal before one feels hungry; food classed as bidahi[1], heavy food, that class of food which gives rise to flatulence, food fermented and not cooked by one’s own people (i.e., food cooked by keepers of hotels, etc.), food which gives rise to vayu and pitta; pangents, sours, bitters, and astringents (except when especially allowed); sexual intercourse, anger, physical labour in excess, things which have the property of killing mercury and the metals, such as kaka-machi; much talking, gruel, such fermented drugs as asavas and aristas, exposure to the heat of the sun and fire, except in cold regions of the world, exposure to drafts of air, sleeping and dozing in day time, keeping late hours at night, smoking and eating of tobacco, especially the latter[2], opium, tea, biscuits, loaves prepared from fermented wheat, food prepared by frying it with oil or adulterated butter or clarified butter, red pepper, fried rice, kusmanda, karkati, kalinga, kara-bella, kusumbha, kalambi, kadali, betel-nuts, jack fruits, kanji, (see page 381 Vol. III), tortoise, red punarnava, kukkuta (fowl), kapota (pigeon), karkoti, kapittha, kalaya, karkaru, kulattha, kangu rice, kola (sour plum), kaseru, (scirpus kysoor), kebuka (cosius speciosus), and meat of animals living near water; leaves and sprouts of betasa, (calamus rotong), bilba bartaku (egg fruit), mushroom, sweet plums curd, all pulses except mudga, linseed, mustard-seeds, sesamum seeds, camphor, mustard oil, taken internally with food, and anointing the body with it, anointing the body with saffron, and alcohol in any form.
-
-Footnotes and references:
-
-[back to top]
 
 [1]:
 
@@ -125,10 +101,7 @@ This concludes ‘Unwholesome diet and deeds’ included in Bhudeb Mookerjee Ras
 
 ## 5. Part 1 - Prayer to God
 
-
 Rasa Jala Nidhi, vol 4: Iatrochemistry
-
-by Bhudeb Mookerjee | 1938 | 52,258 words | ISBN-10: 8170305829 | ISBN-13: 9788170305828
 
 This fourth volume of the Rasa-jala-nidhi deals with Rasa-chikitsa-vidya, also known a the science of Iatrchemistry (chemical medicine), a major branch of Ayurveda. It contains Ayurvedic treatments for Fever and Diarrhea.
 
@@ -146,10 +119,7 @@ This concludes ‘Prayer to God’ included in Bhudeb Mookerjee Rasa Jala Nidhi,
 
 ## 6. Part 5 - Drinking of water at dawn
 
-
 Rasa Jala Nidhi, vol 4: Iatrochemistry
-
-by Bhudeb Mookerjee | 1938 | 52,258 words | ISBN-10: 8170305829 | ISBN-13: 9788170305828
 
 This fourth volume of the Rasa-jala-nidhi deals with Rasa-chikitsa-vidya, also known a the science of Iatrchemistry (chemical medicine), a major branch of Ayurveda. It contains Ayurvedic treatments for Fever and Diarrhea.
 
@@ -175,10 +145,7 @@ This concludes ‘Drinking of water at dawn’ included in Bhudeb Mookerjee Rasa
 
 ## 7. Part 6 - Restrictions regarding exposure to the sun
 
-
 Rasa Jala Nidhi, vol 4: Iatrochemistry
-
-by Bhudeb Mookerjee | 1938 | 52,258 words | ISBN-10: 8170305829 | ISBN-13: 9788170305828
 
 This fourth volume of the Rasa-jala-nidhi deals with Rasa-chikitsa-vidya, also known a the science of Iatrchemistry (chemical medicine), a major branch of Ayurveda. It contains Ayurvedic treatments for Fever and Diarrhea.
 
@@ -198,10 +165,7 @@ This concludes ‘Restrictions regarding exposure to the sun’ included in Bhud
 
 ## 8. Part 7 - Restrictions regarding dress
 
-
 Rasa Jala Nidhi, vol 4: Iatrochemistry
-
-by Bhudeb Mookerjee | 1938 | 52,258 words | ISBN-10: 8170305829 | ISBN-13: 9788170305828
 
 This fourth volume of the Rasa-jala-nidhi deals with Rasa-chikitsa-vidya, also known a the science of Iatrchemistry (chemical medicine), a major branch of Ayurveda. It contains Ayurvedic treatments for Fever and Diarrhea.
 
@@ -219,10 +183,7 @@ This concludes ‘Restrictions regarding dress’ included in Bhudeb Mookerjee R
 
 ## 9. Part 8 - Restrictions regarding exposure to wind
 
-
 Rasa Jala Nidhi, vol 4: Iatrochemistry
-
-by Bhudeb Mookerjee | 1938 | 52,258 words | ISBN-10: 8170305829 | ISBN-13: 9788170305828
 
 This fourth volume of the Rasa-jala-nidhi deals with Rasa-chikitsa-vidya, also known a the science of Iatrchemistry (chemical medicine), a major branch of Ayurveda. It contains Ayurvedic treatments for Fever and Diarrhea.
 
@@ -240,10 +201,7 @@ This concludes ‘Restrictions regarding exposure to wind’ included in Bhudeb 
 
 ## 10. Part 9 - Restrictions regarding sleeping in day time
 
-
 Rasa Jala Nidhi, vol 4: Iatrochemistry
-
-by Bhudeb Mookerjee | 1938 | 52,258 words | ISBN-10: 8170305829 | ISBN-13: 9788170305828
 
 This fourth volume of the Rasa-jala-nidhi deals with Rasa-chikitsa-vidya, also known a the science of Iatrchemistry (chemical medicine), a major branch of Ayurveda. It contains Ayurvedic treatments for Fever and Diarrhea.
 
@@ -265,10 +223,7 @@ This concludes ‘Restrictions regarding sleeping in day time’ included in Bhu
 
 ## 11. Part 11 - Restrictions regarding bath
 
-
 Rasa Jala Nidhi, vol 4: Iatrochemistry
-
-by Bhudeb Mookerjee | 1938 | 52,258 words | ISBN-10: 8170305829 | ISBN-13: 9788170305828
 
 This fourth volume of the Rasa-jala-nidhi deals with Rasa-chikitsa-vidya, also known a the science of Iatrchemistry (chemical medicine), a major branch of Ayurveda. It contains Ayurvedic treatments for Fever and Diarrhea.
 
@@ -290,10 +245,7 @@ This concludes ‘Restrictions regarding bath’ included in Bhudeb Mookerjee Ra
 
 ## 12. Part 14 - Restriction regarding physical exercise
 
-
 Rasa Jala Nidhi, vol 4: Iatrochemistry
-
-by Bhudeb Mookerjee | 1938 | 52,258 words | ISBN-10: 8170305829 | ISBN-13: 9788170305828
 
 This fourth volume of the Rasa-jala-nidhi deals with Rasa-chikitsa-vidya, also known a the science of Iatrchemistry (chemical medicine), a major branch of Ayurveda. It contains Ayurvedic treatments for Fever and Diarrhea.
 
@@ -317,17 +269,11 @@ This concludes ‘Restriction regarding physical exercise’ included in Bhudeb 
 
 ## 13. Part 12 - Restrictions regarding taking of food
 
-
 Rasa Jala Nidhi, vol 4: Iatrochemistry
-
-by Bhudeb Mookerjee | 1938 | 52,258 words | ISBN-10: 8170305829 | ISBN-13: 9788170305828
 
 This fourth volume of the Rasa-jala-nidhi deals with Rasa-chikitsa-vidya, also known a the science of Iatrchemistry (chemical medicine), a major branch of Ayurveda. It contains Ayurvedic treatments for Fever and Diarrhea.
 
 The Rasa-jala-nidhi (“the ocean of Iatrochemistry, or, chemical medicine) is a compendium of Sanskrit verses dealing with ancie...
-
-Go directly to: 
-Footnotes.
 
 Part 12 - Restrictions regarding taking of food
 
@@ -349,10 +295,6 @@ An excess of these are always to be avoided:—lying down, sitting, drinking, ex
 
 One should avoid the following for 48 minutes after taking one’s meal:—exercise (physical and mental), sexual indulgence, running, travels, lighting, singing, and studying.
 
-Footnotes and references:
-
-[back to top]
-
 [1]:
 
 Some people are under a wrong impression that drinking an excessive quantity of water helps to flush the abdomen.
@@ -365,10 +307,7 @@ This concludes ‘Restrictions regarding taking of food’ included in Bhudeb Mo
 
 ## 14. Part 13 - Chewing of betel leaves
 
-
 Rasa Jala Nidhi, vol 4: Iatrochemistry
-
-by Bhudeb Mookerjee | 1938 | 52,258 words | ISBN-10: 8170305829 | ISBN-13: 9788170305828
 
 This fourth volume of the Rasa-jala-nidhi deals with Rasa-chikitsa-vidya, also known a the science of Iatrchemistry (chemical medicine), a major branch of Ayurveda. It contains Ayurvedic treatments for Fever and Diarrhea.
 
@@ -388,10 +327,7 @@ This concludes ‘Chewing of betel leaves’ included in Bhudeb Mookerjee Rasa J
 
 ## 15. Part 10 - Rubbing the whole body with oil
 
-
 Rasa Jala Nidhi, vol 4: Iatrochemistry
-
-by Bhudeb Mookerjee | 1938 | 52,258 words | ISBN-10: 8170305829 | ISBN-13: 9788170305828
 
 This fourth volume of the Rasa-jala-nidhi deals with Rasa-chikitsa-vidya, also known a the science of Iatrchemistry (chemical medicine), a major branch of Ayurveda. It contains Ayurvedic treatments for Fever and Diarrhea.
 
@@ -411,10 +347,7 @@ This concludes ‘Rubbing the whole body with oil’ included in Bhudeb Mookerje
 
 ## 16. Part 15 - Actions prohibited just at sunrise and sunset
 
-
 Rasa Jala Nidhi, vol 4: Iatrochemistry
-
-by Bhudeb Mookerjee | 1938 | 52,258 words | ISBN-10: 8170305829 | ISBN-13: 9788170305828
 
 This fourth volume of the Rasa-jala-nidhi deals with Rasa-chikitsa-vidya, also known a the science of Iatrchemistry (chemical medicine), a major branch of Ayurveda. It contains Ayurvedic treatments for Fever and Diarrhea.
 
@@ -432,10 +365,7 @@ This concludes ‘Actions prohibited just at sunrise and sunset’ included in B
 
 ## 17. Part 16 - Directions for sleeping
 
-
 Rasa Jala Nidhi, vol 4: Iatrochemistry
-
-by Bhudeb Mookerjee | 1938 | 52,258 words | ISBN-10: 8170305829 | ISBN-13: 9788170305828
 
 This fourth volume of the Rasa-jala-nidhi deals with Rasa-chikitsa-vidya, also known a the science of Iatrchemistry (chemical medicine), a major branch of Ayurveda. It contains Ayurvedic treatments for Fever and Diarrhea.
 
@@ -455,25 +385,15 @@ This concludes ‘Directions for sleeping’ included in Bhudeb Mookerjee Rasa J
 
 ## 18. Part 19 - Directions for preparing a medicine with ingredients more than one
 
-
 Rasa Jala Nidhi, vol 4: Iatrochemistry
-
-by Bhudeb Mookerjee | 1938 | 52,258 words | ISBN-10: 8170305829 | ISBN-13: 9788170305828
 
 This fourth volume of the Rasa-jala-nidhi deals with Rasa-chikitsa-vidya, also known a the science of Iatrchemistry (chemical medicine), a major branch of Ayurveda. It contains Ayurvedic treatments for Fever and Diarrhea.
 
 The Rasa-jala-nidhi (“the ocean of Iatrochemistry, or, chemical medicine) is a compendium of Sanskrit verses dealing with ancie...
 
-Go directly to: 
-Footnotes.
-
 Part 19 - Directions for preparing a medicine with ingredients more than one
 
 If a particular recipe contains mercury and not sulphur, the term “mercury” in that recipe is to be taken to mean incinerated mercury; but if there is a mention, in a particular recipe, of both mercury and sulphur, the term mercury is to mean there only purified mercury. Gems, minor gems, conch-shell, nabhisankha, mica, and copper-sulphate should always be used in incinerated forms. In other words, they are never to be used in medicines without having been previously reduced to ashes. Take incinerated haritala (orpiment) where it is so expressly mentioned, otherwise use orpiment, duly purified. Sulphur, realgar, and all the other remaining upa-rasas should be used after purification, and so also should poisons and minor poisons be. In case of kuchila (nux-vomica), it is to be purified and reduced to ashes by being fried with clarified butter. Guggulu should be used purified. Asafaetida (hingu) is to be always used after having been purified by being fried with clarified butter. The seven metals should always be used after having been duly reduced to ashes.[1]
-
-Footnotes and references:
-
-[back to top]
 
 [1]:
 
@@ -487,10 +407,7 @@ This concludes ‘Directions for preparing a medicine with ingredients more than
 
 ## 19. Part 20 - Special directions for taking medicines mixed with bile (pitta)
 
-
 Rasa Jala Nidhi, vol 4: Iatrochemistry
-
-by Bhudeb Mookerjee | 1938 | 52,258 words | ISBN-10: 8170305829 | ISBN-13: 9788170305828
 
 This fourth volume of the Rasa-jala-nidhi deals with Rasa-chikitsa-vidya, also known a the science of Iatrchemistry (chemical medicine), a major branch of Ayurveda. It contains Ayurvedic treatments for Fever and Diarrhea.
 
@@ -508,10 +425,7 @@ This concludes ‘Special directions for taking medicines mixed with bile (pitta
 
 ## 20. Part 18 - Dosage of medicine
 
-
 Rasa Jala Nidhi, vol 4: Iatrochemistry
-
-by Bhudeb Mookerjee | 1938 | 52,258 words | ISBN-10: 8170305829 | ISBN-13: 9788170305828
 
 This fourth volume of the Rasa-jala-nidhi deals with Rasa-chikitsa-vidya, also known a the science of Iatrchemistry (chemical medicine), a major branch of Ayurveda. It contains Ayurvedic treatments for Fever and Diarrhea.
 
@@ -529,10 +443,7 @@ This concludes ‘Dosage of medicine’ included in Bhudeb Mookerjee Rasa Jala N
 
 ## 21. Chapter I - General health prescriptions
 
-
 Rasa Jala Nidhi, vol 4: Iatrochemistry
-
-by Bhudeb Mookerjee | 1938 | 52,258 words | ISBN-10: 8170305829 | ISBN-13: 9788170305828
 
 This fourth volume of the Rasa-jala-nidhi deals with Rasa-chikitsa-vidya, also known a the science of Iatrchemistry (chemical medicine), a major branch of Ayurveda. It contains Ayurvedic treatments for Fever and Diarrhea.
 
@@ -552,10 +463,7 @@ This concludes ‘General health prescriptions’ included in Bhudeb Mookerjee R
 
 ## 22. Part 21 - Time for taking medicine
 
-
 Rasa Jala Nidhi, vol 4: Iatrochemistry
-
-by Bhudeb Mookerjee | 1938 | 52,258 words | ISBN-10: 8170305829 | ISBN-13: 9788170305828
 
 This fourth volume of the Rasa-jala-nidhi deals with Rasa-chikitsa-vidya, also known a the science of Iatrchemistry (chemical medicine), a major branch of Ayurveda. It contains Ayurvedic treatments for Fever and Diarrhea.
 
@@ -573,10 +481,7 @@ This concludes ‘Time for taking medicine’ included in Bhudeb Mookerjee Rasa 
 
 ## 23. Part 22 - Persons unfit to take medicines
 
-
 Rasa Jala Nidhi, vol 4: Iatrochemistry
-
-by Bhudeb Mookerjee | 1938 | 52,258 words | ISBN-10: 8170305829 | ISBN-13: 9788170305828
 
 This fourth volume of the Rasa-jala-nidhi deals with Rasa-chikitsa-vidya, also known a the science of Iatrchemistry (chemical medicine), a major branch of Ayurveda. It contains Ayurvedic treatments for Fever and Diarrhea.
 
@@ -594,10 +499,7 @@ This concludes ‘Persons unfit to take medicines’ included in Bhudeb Mookerje
 
 ## 24. Part 17 - Advantages of iatro-medical treatment
 
-
 Rasa Jala Nidhi, vol 4: Iatrochemistry
-
-by Bhudeb Mookerjee | 1938 | 52,258 words | ISBN-10: 8170305829 | ISBN-13: 9788170305828
 
 This fourth volume of the Rasa-jala-nidhi deals with Rasa-chikitsa-vidya, also known a the science of Iatrchemistry (chemical medicine), a major branch of Ayurveda. It contains Ayurvedic treatments for Fever and Diarrhea.
 
@@ -621,10 +523,7 @@ This concludes ‘Advantages of iatro-medical treatment’ included in Bhudeb Mo
 
 ## 25. Part 23 - Bad effects of medicine, not assimilated
 
-
 Rasa Jala Nidhi, vol 4: Iatrochemistry
-
-by Bhudeb Mookerjee | 1938 | 52,258 words | ISBN-10: 8170305829 | ISBN-13: 9788170305828
 
 This fourth volume of the Rasa-jala-nidhi deals with Rasa-chikitsa-vidya, also known a the science of Iatrchemistry (chemical medicine), a major branch of Ayurveda. It contains Ayurvedic treatments for Fever and Diarrhea.
 
@@ -642,10 +541,7 @@ This concludes ‘Bad effects of medicine, not assimilated’ included in Bhudeb
 
 ## 26. Part 24 - Prohibitions for taking poisonous medicine
 
-
 Rasa Jala Nidhi, vol 4: Iatrochemistry
-
-by Bhudeb Mookerjee | 1938 | 52,258 words | ISBN-10: 8170305829 | ISBN-13: 9788170305828
 
 This fourth volume of the Rasa-jala-nidhi deals with Rasa-chikitsa-vidya, also known a the science of Iatrchemistry (chemical medicine), a major branch of Ayurveda. It contains Ayurvedic treatments for Fever and Diarrhea.
 
@@ -663,10 +559,7 @@ This concludes ‘Prohibitions for taking poisonous medicine’ included in Bhud
 
 ## 27. Part 1 - Characteristics and symptoms of fever (jvara)
 
-
 Rasa Jala Nidhi, vol 4: Iatrochemistry
-
-by Bhudeb Mookerjee | 1938 | 52,258 words | ISBN-10: 8170305829 | ISBN-13: 9788170305828
 
 This fourth volume of the Rasa-jala-nidhi deals with Rasa-chikitsa-vidya, also known a the science of Iatrchemistry (chemical medicine), a major branch of Ayurveda. It contains Ayurvedic treatments for Fever and Diarrhea.
 
@@ -690,10 +583,7 @@ This concludes ‘Characteristics and symptoms of fever (jvara)’ included in B
 
 ## 28. Part 2 - Nava-jvara (primary fever)
 
-
 Rasa Jala Nidhi, vol 4: Iatrochemistry
-
-by Bhudeb Mookerjee | 1938 | 52,258 words | ISBN-10: 8170305829 | ISBN-13: 9788170305828
 
 This fourth volume of the Rasa-jala-nidhi deals with Rasa-chikitsa-vidya, also known a the science of Iatrchemistry (chemical medicine), a major branch of Ayurveda. It contains Ayurvedic treatments for Fever and Diarrhea.
 
@@ -725,17 +615,11 @@ This concludes ‘Nava-jvara (primary fever)’ included in Bhudeb Mookerjee Ras
 
 ## 29. Part 3 - Visama-jvara (chronic fever)
 
-
 Rasa Jala Nidhi, vol 4: Iatrochemistry
-
-by Bhudeb Mookerjee | 1938 | 52,258 words | ISBN-10: 8170305829 | ISBN-13: 9788170305828
 
 This fourth volume of the Rasa-jala-nidhi deals with Rasa-chikitsa-vidya, also known a the science of Iatrchemistry (chemical medicine), a major branch of Ayurveda. It contains Ayurvedic treatments for Fever and Diarrhea.
 
 The Rasa-jala-nidhi (“the ocean of Iatrochemistry, or, chemical medicine) is a compendium of Sanskrit verses dealing with ancie...
-
-Go directly to: 
-Footnotes.
 
 Part 3 - Visama-jvara (chronic fever)
 
@@ -746,10 +630,6 @@ This fever is of five kinds, according to difference in duration and time of att
 Santata is a visama-jvara which lasts for seven, ten, or twelve days, at a stretch, without any remission. Satata (dyahika or daikalika) is a chronic fever which attacks its patient twice a day. Anyedu attacks its patient only once a day. It is also called aikahika and is followed by remission every day. Tritiyaka (or tryahika) attacks its patient on every third day, and chaturthaka attacks its patient on every fourth day. Tritiyaka is of three different kinds, viz. (1) that due to an excess of kapha and pitta, (2) that due to an excess of kapha and vayu, and (3) that due to an excess of vayu and pitta.
 
 The distinctive features of these three fevers are:—(1) pain in the trika or junction of the spine and the waist; (2) pain in the back, and (3) pain in the head, respectively. Chaturthaka fever is also of two kinds viz. that due to an excess of kapha (phlegm), and that due to an excess of vayu (wind). The first is characterised by pain in the thighs which gradually spreads all over the body, and the second is characterised by pain in the head which gradually spreads all over the body. There is another kind of chronic fever called chaturthaka biparyaya (i.e. chaturthaka in a reverse order). The patient suffering from this fever is free from it every first and fourth days, but is attacked with it every second and third days.
-
-Footnotes and references:
-
-[back to top]
 
 [1]:
 
@@ -763,10 +643,7 @@ This concludes ‘Visama-jvara (chronic fever)’ included in Bhudeb Mookerjee R
 
 ## 30. Part 5 - Fever due to the three doshas (vayu, pitta, kapha)
 
-
 Rasa Jala Nidhi, vol 4: Iatrochemistry
-
-by Bhudeb Mookerjee | 1938 | 52,258 words | ISBN-10: 8170305829 | ISBN-13: 9788170305828
 
 This fourth volume of the Rasa-jala-nidhi deals with Rasa-chikitsa-vidya, also known a the science of Iatrchemistry (chemical medicine), a major branch of Ayurveda. It contains Ayurvedic treatments for Fever and Diarrhea.
 
@@ -802,10 +679,7 @@ This concludes ‘Fever due to the three doshas (vayu, pitta, kapha)’ included
 
 ## 31. Part 6 - Directions to be followed in nava-jvara
 
-
 Rasa Jala Nidhi, vol 4: Iatrochemistry
-
-by Bhudeb Mookerjee | 1938 | 52,258 words | ISBN-10: 8170305829 | ISBN-13: 9788170305828
 
 This fourth volume of the Rasa-jala-nidhi deals with Rasa-chikitsa-vidya, also known a the science of Iatrchemistry (chemical medicine), a major branch of Ayurveda. It contains Ayurvedic treatments for Fever and Diarrhea.
 
@@ -835,10 +709,7 @@ This concludes ‘Directions to be followed in nava-jvara’ included in Bhudeb 
 
 ## 32. Part 7 - Fasting in nava-jvara
 
-
 Rasa Jala Nidhi, vol 4: Iatrochemistry
-
-by Bhudeb Mookerjee | 1938 | 52,258 words | ISBN-10: 8170305829 | ISBN-13: 9788170305828
 
 This fourth volume of the Rasa-jala-nidhi deals with Rasa-chikitsa-vidya, also known a the science of Iatrchemistry (chemical medicine), a major branch of Ayurveda. It contains Ayurvedic treatments for Fever and Diarrhea.
 
@@ -864,10 +735,7 @@ This concludes ‘Fasting in nava-jvara’ included in Bhudeb Mookerjee Rasa Jal
 
 ## 33. Part 4 - Ksaya-jvara or Shosha-jvara (fever due to consumption)
 
-
 Rasa Jala Nidhi, vol 4: Iatrochemistry
-
-by Bhudeb Mookerjee | 1938 | 52,258 words | ISBN-10: 8170305829 | ISBN-13: 9788170305828
 
 This fourth volume of the Rasa-jala-nidhi deals with Rasa-chikitsa-vidya, also known a the science of Iatrchemistry (chemical medicine), a major branch of Ayurveda. It contains Ayurvedic treatments for Fever and Diarrhea.
 
@@ -885,10 +753,7 @@ This concludes ‘Ksaya-jvara or Shosha-jvara (fever due to consumption)’ incl
 
 ## 34. Part 8 - Directions for using water
 
-
 Rasa Jala Nidhi, vol 4: Iatrochemistry
-
-by Bhudeb Mookerjee | 1938 | 52,258 words | ISBN-10: 8170305829 | ISBN-13: 9788170305828
 
 This fourth volume of the Rasa-jala-nidhi deals with Rasa-chikitsa-vidya, also known a the science of Iatrchemistry (chemical medicine), a major branch of Ayurveda. It contains Ayurvedic treatments for Fever and Diarrhea.
 
@@ -924,10 +789,7 @@ This concludes ‘Directions for using water’ included in Bhudeb Mookerjee Ras
 
 ## 35. Part 9 - Diet in nava-jvara
 
-
 Rasa Jala Nidhi, vol 4: Iatrochemistry
-
-by Bhudeb Mookerjee | 1938 | 52,258 words | ISBN-10: 8170305829 | ISBN-13: 9788170305828
 
 This fourth volume of the Rasa-jala-nidhi deals with Rasa-chikitsa-vidya, also known a the science of Iatrchemistry (chemical medicine), a major branch of Ayurveda. It contains Ayurvedic treatments for Fever and Diarrhea.
 
@@ -953,10 +815,7 @@ This concludes ‘Diet in nava-jvara’ included in Bhudeb Mookerjee Rasa Jala N
 
 ## 36. Part 10 - Things beneficial in chronic fever
 
-
 Rasa Jala Nidhi, vol 4: Iatrochemistry
-
-by Bhudeb Mookerjee | 1938 | 52,258 words | ISBN-10: 8170305829 | ISBN-13: 9788170305828
 
 This fourth volume of the Rasa-jala-nidhi deals with Rasa-chikitsa-vidya, also known a the science of Iatrchemistry (chemical medicine), a major branch of Ayurveda. It contains Ayurvedic treatments for Fever and Diarrhea.
 
@@ -974,10 +833,7 @@ This concludes ‘Things beneficial in chronic fever’ included in Bhudeb Mooke
 
 ## 37. Part 11 - Things and actions harmful in fever
 
-
 Rasa Jala Nidhi, vol 4: Iatrochemistry
-
-by Bhudeb Mookerjee | 1938 | 52,258 words | ISBN-10: 8170305829 | ISBN-13: 9788170305828
 
 This fourth volume of the Rasa-jala-nidhi deals with Rasa-chikitsa-vidya, also known a the science of Iatrchemistry (chemical medicine), a major branch of Ayurveda. It contains Ayurvedic treatments for Fever and Diarrhea.
 
@@ -997,10 +853,7 @@ This concludes ‘Things and actions harmful in fever’ included in Bhudeb Mook
 
 ## 38. Part 12 - Iatro chemical medicines applicable in fever
 
-
 Rasa Jala Nidhi, vol 4: Iatrochemistry
-
-by Bhudeb Mookerjee | 1938 | 52,258 words | ISBN-10: 8170305829 | ISBN-13: 9788170305828
 
 This fourth volume of the Rasa-jala-nidhi deals with Rasa-chikitsa-vidya, also known a the science of Iatrchemistry (chemical medicine), a major branch of Ayurveda. It contains Ayurvedic treatments for Fever and Diarrhea.
 
@@ -1018,10 +871,7 @@ This concludes ‘Iatro chemical medicines applicable in fever’ included in Bh
 
 ## 39. Treatment for fever (2): Ishana-sundara rasa
 
-
 Rasa Jala Nidhi, vol 4: Iatrochemistry
-
-by Bhudeb Mookerjee | 1938 | 52,258 words | ISBN-10: 8170305829 | ISBN-13: 9788170305828
 
 This fourth volume of the Rasa-jala-nidhi deals with Rasa-chikitsa-vidya, also known a the science of Iatrchemistry (chemical medicine), a major branch of Ayurveda. It contains Ayurvedic treatments for Fever and Diarrhea.
 
@@ -1039,10 +889,7 @@ This concludes ‘Treatment for fever (2): Ishana-sundara rasa’ included in Bh
 
 ## 40. Treatment for fever (3): Meghanada rasa
 
-
 Rasa Jala Nidhi, vol 4: Iatrochemistry
-
-by Bhudeb Mookerjee | 1938 | 52,258 words | ISBN-10: 8170305829 | ISBN-13: 9788170305828
 
 This fourth volume of the Rasa-jala-nidhi deals with Rasa-chikitsa-vidya, also known a the science of Iatrchemistry (chemical medicine), a major branch of Ayurveda. It contains Ayurvedic treatments for Fever and Diarrhea.
 
@@ -1060,10 +907,7 @@ This concludes ‘Treatment for fever (3): Meghanada rasa’ included in Bhudeb 
 
 ## 41. Treatment for fever (4): Jvara-gajahari rasa
 
-
 Rasa Jala Nidhi, vol 4: Iatrochemistry
-
-by Bhudeb Mookerjee | 1938 | 52,258 words | ISBN-10: 8170305829 | ISBN-13: 9788170305828
 
 This fourth volume of the Rasa-jala-nidhi deals with Rasa-chikitsa-vidya, also known a the science of Iatrchemistry (chemical medicine), a major branch of Ayurveda. It contains Ayurvedic treatments for Fever and Diarrhea.
 
@@ -1081,10 +925,7 @@ This concludes ‘Treatment for fever (4): Jvara-gajahari rasa’ included in Bh
 
 ## 42. Treatment for fever (5): Shita-bhanji rasa
 
-
 Rasa Jala Nidhi, vol 4: Iatrochemistry
-
-by Bhudeb Mookerjee | 1938 | 52,258 words | ISBN-10: 8170305829 | ISBN-13: 9788170305828
 
 This fourth volume of the Rasa-jala-nidhi deals with Rasa-chikitsa-vidya, also known a the science of Iatrchemistry (chemical medicine), a major branch of Ayurveda. It contains Ayurvedic treatments for Fever and Diarrhea.
 
@@ -1102,10 +943,7 @@ This concludes ‘Treatment for fever (5): Shita-bhanji rasa’ included in Bhud
 
 ## 43. Treatment for fever (1): Shiva-durga rasa
 
-
 Rasa Jala Nidhi, vol 4: Iatrochemistry
-
-by Bhudeb Mookerjee | 1938 | 52,258 words | ISBN-10: 8170305829 | ISBN-13: 9788170305828
 
 This fourth volume of the Rasa-jala-nidhi deals with Rasa-chikitsa-vidya, also known a the science of Iatrchemistry (chemical medicine), a major branch of Ayurveda. It contains Ayurvedic treatments for Fever and Diarrhea.
 
@@ -1123,10 +961,7 @@ This concludes ‘Treatment for fever (1): Shiva-durga rasa’ included in Bhude
 
 ## 44. Treatment for fever (6): Vriddha-jvarankusha rasa
 
-
 Rasa Jala Nidhi, vol 4: Iatrochemistry
-
-by Bhudeb Mookerjee | 1938 | 52,258 words | ISBN-10: 8170305829 | ISBN-13: 9788170305828
 
 This fourth volume of the Rasa-jala-nidhi deals with Rasa-chikitsa-vidya, also known a the science of Iatrchemistry (chemical medicine), a major branch of Ayurveda. It contains Ayurvedic treatments for Fever and Diarrhea.
 
@@ -1144,10 +979,7 @@ This concludes ‘Treatment for fever (6): Vriddha-jvarankusha rasa’ included 
 
 ## 45. Treatment for fever (7): Mrityunjaya rasa
 
-
 Rasa Jala Nidhi, vol 4: Iatrochemistry
-
-by Bhudeb Mookerjee | 1938 | 52,258 words | ISBN-10: 8170305829 | ISBN-13: 9788170305828
 
 This fourth volume of the Rasa-jala-nidhi deals with Rasa-chikitsa-vidya, also known a the science of Iatrchemistry (chemical medicine), a major branch of Ayurveda. It contains Ayurvedic treatments for Fever and Diarrhea.
 
@@ -1165,10 +997,7 @@ This concludes ‘Treatment for fever (7): Mrityunjaya rasa’ included in Bhude
 
 ## 46. Treatment for fever (8): Brihat-jvarankusha rasa
 
-
 Rasa Jala Nidhi, vol 4: Iatrochemistry
-
-by Bhudeb Mookerjee | 1938 | 52,258 words | ISBN-10: 8170305829 | ISBN-13: 9788170305828
 
 This fourth volume of the Rasa-jala-nidhi deals with Rasa-chikitsa-vidya, also known a the science of Iatrchemistry (chemical medicine), a major branch of Ayurveda. It contains Ayurvedic treatments for Fever and Diarrhea.
 
@@ -1186,10 +1015,7 @@ This concludes ‘Treatment for fever (8): Brihat-jvarankusha rasa’ included i
 
 ## 47. Treatment for fever (9): Batuka-bhairava rasa
 
-
 Rasa Jala Nidhi, vol 4: Iatrochemistry
-
-by Bhudeb Mookerjee | 1938 | 52,258 words | ISBN-10: 8170305829 | ISBN-13: 9788170305828
 
 This fourth volume of the Rasa-jala-nidhi deals with Rasa-chikitsa-vidya, also known a the science of Iatrchemistry (chemical medicine), a major branch of Ayurveda. It contains Ayurvedic treatments for Fever and Diarrhea.
 
@@ -1207,10 +1033,7 @@ This concludes ‘Treatment for fever (9): Batuka-bhairava rasa’ included in B
 
 ## 48. Treatment for fever (10): Nandikeshvara rasa
 
-
 Rasa Jala Nidhi, vol 4: Iatrochemistry
-
-by Bhudeb Mookerjee | 1938 | 52,258 words | ISBN-10: 8170305829 | ISBN-13: 9788170305828
 
 This fourth volume of the Rasa-jala-nidhi deals with Rasa-chikitsa-vidya, also known a the science of Iatrchemistry (chemical medicine), a major branch of Ayurveda. It contains Ayurvedic treatments for Fever and Diarrhea.
 
@@ -1228,27 +1051,17 @@ This concludes ‘Treatment for fever (10): Nandikeshvara rasa’ included in Bh
 
 ## 49. Treatment for fever (12): Lokendra rasa
 
-
 Rasa Jala Nidhi, vol 4: Iatrochemistry
-
-by Bhudeb Mookerjee | 1938 | 52,258 words | ISBN-10: 8170305829 | ISBN-13: 9788170305828
 
 This fourth volume of the Rasa-jala-nidhi deals with Rasa-chikitsa-vidya, also known a the science of Iatrchemistry (chemical medicine), a major branch of Ayurveda. It contains Ayurvedic treatments for Fever and Diarrhea.
 
 The Rasa-jala-nidhi (“the ocean of Iatrochemistry, or, chemical medicine) is a compendium of Sanskrit verses dealing with ancie...
-
-Go directly to: 
-Footnotes.
 
 Treatment for fever (12): Lokendra rasa
 
 One fourth tola of mercury is to be purified by rubbing it with powdered brick, juice of leaves of karma-ranga (averrhoa earambola), ginger-juice, juice of black dhutura leaves, juice of leaves of briddha-daraka (argyreia speciosa), and kanya. An equal quantity of sulphur is also to be purified by being, first of all, washed with the water with which rice has been washed, then melted in an iron pot and immersed in the juice or decoction of chitraka plant[1]. Prepare a black sulphuret of mercury by rubbing these two together, and then mix with it one sixteenth tola in weight of each of iron and svarna-makshika, rub them all together (with lime juice) and make them into a paste. Smear with this paste a copper leaf, so thin as can easily be pierced through by a thorn, and subject it to heat by a labaka-puta (see vol. I, page 298) for 45 minutes only. When cooled, the medicine is to be rubbed, by means of a copper rod, for one day each with four tolas of the juice of the leaves of each of the following kesha-raja, grishma-sundara, bhringa-raja, manduka-parni, nirgundi, jyotismati, paribhadra, red chitraka, bhanga, kaka-machi, nila (indigo), and hasti-shundi. Thus rubbing the medicine for 12 days, mix with it one fourth tola of powdered trikatu (i.e, shunthi, pippali, and maricha, combined), to be made into pills of the size of a mustard seed. These pills are to be dried up in a shady place, not exposed to the sun's rays.
 
 Two of such pills should be given to a patient suffering from fever due to an abnormal excess of the three dosas, specially when he is in a state of delirium or unconciousness. The body of the patient should be covered by means of a thick piece of cloth, so long as the patient does not feel better by purgation. He should then be allowed to take food with curd and to drink a sufficient quantity of water. A little later, medicated oil, having the property of pacifying vayu (such as narayana-taila) should be rubbed all over the body. The following are the accompaniments of the medicine:—decoction of panchamuli in chronic fever, decoction of ativisa in chronic diarrhoea and dysentery, juice of parpata in fever attended with shivering, and water in which jira has been kept immersed for about three hours in fever attended with diarrhoea. This medicine may also be used in indigestion, jaundice, asthma, and cough.
-
-Footnotes and references:
-
-[back to top]
 
 [1]:
 
@@ -1262,10 +1075,7 @@ This concludes ‘Treatment for fever (12): Lokendra rasa’ included in Bhudeb 
 
 ## 50. Treatment for fever (13): Jvara-mrityunjaya rasa
 
-
 Rasa Jala Nidhi, vol 4: Iatrochemistry
-
-by Bhudeb Mookerjee | 1938 | 52,258 words | ISBN-10: 8170305829 | ISBN-13: 9788170305828
 
 This fourth volume of the Rasa-jala-nidhi deals with Rasa-chikitsa-vidya, also known a the science of Iatrchemistry (chemical medicine), a major branch of Ayurveda. It contains Ayurvedic treatments for Fever and Diarrhea.
 
@@ -1283,10 +1093,7 @@ This concludes ‘Treatment for fever (13): Jvara-mrityunjaya rasa’ included i
 
 ## 51. Treatment for fever (14): Sarva-jvarari rasa
 
-
 Rasa Jala Nidhi, vol 4: Iatrochemistry
-
-by Bhudeb Mookerjee | 1938 | 52,258 words | ISBN-10: 8170305829 | ISBN-13: 9788170305828
 
 This fourth volume of the Rasa-jala-nidhi deals with Rasa-chikitsa-vidya, also known a the science of Iatrchemistry (chemical medicine), a major branch of Ayurveda. It contains Ayurvedic treatments for Fever and Diarrhea.
 
@@ -1304,10 +1111,7 @@ This concludes ‘Treatment for fever (14): Sarva-jvarari rasa’ included in Bh
 
 ## 52. Treatment for fever (11): Bhudeva-ranjana rasa
 
-
 Rasa Jala Nidhi, vol 4: Iatrochemistry
-
-by Bhudeb Mookerjee | 1938 | 52,258 words | ISBN-10: 8170305829 | ISBN-13: 9788170305828
 
 This fourth volume of the Rasa-jala-nidhi deals with Rasa-chikitsa-vidya, also known a the science of Iatrchemistry (chemical medicine), a major branch of Ayurveda. It contains Ayurvedic treatments for Fever and Diarrhea.
 
@@ -1325,10 +1129,7 @@ This concludes ‘Treatment for fever (11): Bhudeva-ranjana rasa’ included in 
 
 ## 53. Treatment for fever (15): Ratnagiri rasa
 
-
 Rasa Jala Nidhi, vol 4: Iatrochemistry
-
-by Bhudeb Mookerjee | 1938 | 52,258 words | ISBN-10: 8170305829 | ISBN-13: 9788170305828
 
 This fourth volume of the Rasa-jala-nidhi deals with Rasa-chikitsa-vidya, also known a the science of Iatrchemistry (chemical medicine), a major branch of Ayurveda. It contains Ayurvedic treatments for Fever and Diarrhea.
 
@@ -1346,10 +1147,7 @@ This concludes ‘Treatment for fever (15): Ratnagiri rasa’ included in Bhudeb
 
 ## 54. Treatment for fever (16): Navajvarari rasa
 
-
 Rasa Jala Nidhi, vol 4: Iatrochemistry
-
-by Bhudeb Mookerjee | 1938 | 52,258 words | ISBN-10: 8170305829 | ISBN-13: 9788170305828
 
 This fourth volume of the Rasa-jala-nidhi deals with Rasa-chikitsa-vidya, also known a the science of Iatrchemistry (chemical medicine), a major branch of Ayurveda. It contains Ayurvedic treatments for Fever and Diarrhea.
 
@@ -1367,10 +1165,7 @@ This concludes ‘Treatment for fever (16): Navajvarari rasa’ included in Bhud
 
 ## 55. Chapter II - Fever (jvara)
 
-
 Rasa Jala Nidhi, vol 4: Iatrochemistry
-
-by Bhudeb Mookerjee | 1938 | 52,258 words | ISBN-10: 8170305829 | ISBN-13: 9788170305828
 
 This fourth volume of the Rasa-jala-nidhi deals with Rasa-chikitsa-vidya, also known a the science of Iatrchemistry (chemical medicine), a major branch of Ayurveda. It contains Ayurvedic treatments for Fever and Diarrhea.
 
@@ -1388,10 +1183,7 @@ This concludes ‘Fever (jvara)’ included in Bhudeb Mookerjee Rasa Jala Nidhi,
 
 ## 56. Treatment for fever (17): Parvati-sankara rasa
 
-
 Rasa Jala Nidhi, vol 4: Iatrochemistry
-
-by Bhudeb Mookerjee | 1938 | 52,258 words | ISBN-10: 8170305829 | ISBN-13: 9788170305828
 
 This fourth volume of the Rasa-jala-nidhi deals with Rasa-chikitsa-vidya, also known a the science of Iatrchemistry (chemical medicine), a major branch of Ayurveda. It contains Ayurvedic treatments for Fever and Diarrhea.
 
@@ -1409,10 +1201,7 @@ This concludes ‘Treatment for fever (17): Parvati-sankara rasa’ included in 
 
 ## 57. Treatment for fever (18): Navajvarankusa rasa
 
-
 Rasa Jala Nidhi, vol 4: Iatrochemistry
-
-by Bhudeb Mookerjee | 1938 | 52,258 words | ISBN-10: 8170305829 | ISBN-13: 9788170305828
 
 This fourth volume of the Rasa-jala-nidhi deals with Rasa-chikitsa-vidya, also known a the science of Iatrchemistry (chemical medicine), a major branch of Ayurveda. It contains Ayurvedic treatments for Fever and Diarrhea.
 
@@ -1430,10 +1219,7 @@ This concludes ‘Treatment for fever (18): Navajvarankusa rasa’ included in B
 
 ## 58. Treatment for fever (20): Svachchhanda-bhairava rasa
 
-
 Rasa Jala Nidhi, vol 4: Iatrochemistry
-
-by Bhudeb Mookerjee | 1938 | 52,258 words | ISBN-10: 8170305829 | ISBN-13: 9788170305828
 
 This fourth volume of the Rasa-jala-nidhi deals with Rasa-chikitsa-vidya, also known a the science of Iatrchemistry (chemical medicine), a major branch of Ayurveda. It contains Ayurvedic treatments for Fever and Diarrhea.
 
@@ -1451,10 +1237,7 @@ This concludes ‘Treatment for fever (20): Svachchhanda-bhairava rasa’ includ
 
 ## 59. Treatment for fever (21): Nava-jvarebhankusha rasa
 
-
 Rasa Jala Nidhi, vol 4: Iatrochemistry
-
-by Bhudeb Mookerjee | 1938 | 52,258 words | ISBN-10: 8170305829 | ISBN-13: 9788170305828
 
 This fourth volume of the Rasa-jala-nidhi deals with Rasa-chikitsa-vidya, also known a the science of Iatrchemistry (chemical medicine), a major branch of Ayurveda. It contains Ayurvedic treatments for Fever and Diarrhea.
 
@@ -1474,10 +1257,7 @@ This concludes ‘Treatment for fever (21): Nava-jvarebhankusha rasa’ included
 
 ## 60. Treatment for fever (23): Nava-jvara-hara rasa
 
-
 Rasa Jala Nidhi, vol 4: Iatrochemistry
-
-by Bhudeb Mookerjee | 1938 | 52,258 words | ISBN-10: 8170305829 | ISBN-13: 9788170305828
 
 This fourth volume of the Rasa-jala-nidhi deals with Rasa-chikitsa-vidya, also known a the science of Iatrchemistry (chemical medicine), a major branch of Ayurveda. It contains Ayurvedic treatments for Fever and Diarrhea.
 
@@ -1495,10 +1275,7 @@ This concludes ‘Treatment for fever (23): Nava-jvara-hara rasa’ included in 
 
 ## 61. Treatment for fever (24): Sarvanga-sundara-chintamani rasa
 
-
 Rasa Jala Nidhi, vol 4: Iatrochemistry
-
-by Bhudeb Mookerjee | 1938 | 52,258 words | ISBN-10: 8170305829 | ISBN-13: 9788170305828
 
 This fourth volume of the Rasa-jala-nidhi deals with Rasa-chikitsa-vidya, also known a the science of Iatrchemistry (chemical medicine), a major branch of Ayurveda. It contains Ayurvedic treatments for Fever and Diarrhea.
 
@@ -1520,10 +1297,7 @@ This concludes ‘Treatment for fever (24): Sarvanga-sundara-chintamani rasa’ 
 
 ## 62. Treatment for fever (25): Chandraditya-rasa rasa
 
-
 Rasa Jala Nidhi, vol 4: Iatrochemistry
-
-by Bhudeb Mookerjee | 1938 | 52,258 words | ISBN-10: 8170305829 | ISBN-13: 9788170305828
 
 This fourth volume of the Rasa-jala-nidhi deals with Rasa-chikitsa-vidya, also known a the science of Iatrchemistry (chemical medicine), a major branch of Ayurveda. It contains Ayurvedic treatments for Fever and Diarrhea.
 
@@ -1541,10 +1315,7 @@ This concludes ‘Treatment for fever (25): Chandraditya-rasa rasa’ included i
 
 ## 63. Treatment for fever (22): Nava-jvarebha-simha rasa
 
-
 Rasa Jala Nidhi, vol 4: Iatrochemistry
-
-by Bhudeb Mookerjee | 1938 | 52,258 words | ISBN-10: 8170305829 | ISBN-13: 9788170305828
 
 This fourth volume of the Rasa-jala-nidhi deals with Rasa-chikitsa-vidya, also known a the science of Iatrchemistry (chemical medicine), a major branch of Ayurveda. It contains Ayurvedic treatments for Fever and Diarrhea.
 
@@ -1562,10 +1333,7 @@ This concludes ‘Treatment for fever (22): Nava-jvarebha-simha rasa’ included
 
 ## 64. Treatment for fever (26): Trailokya-mohana rasa
 
-
 Rasa Jala Nidhi, vol 4: Iatrochemistry
-
-by Bhudeb Mookerjee | 1938 | 52,258 words | ISBN-10: 8170305829 | ISBN-13: 9788170305828
 
 This fourth volume of the Rasa-jala-nidhi deals with Rasa-chikitsa-vidya, also known a the science of Iatrchemistry (chemical medicine), a major branch of Ayurveda. It contains Ayurvedic treatments for Fever and Diarrhea.
 
@@ -1583,10 +1351,7 @@ This concludes ‘Treatment for fever (26): Trailokya-mohana rasa’ included in
 
 ## 65. Treatment for fever (27): Saubhagyadi rasa
 
-
 Rasa Jala Nidhi, vol 4: Iatrochemistry
-
-by Bhudeb Mookerjee | 1938 | 52,258 words | ISBN-10: 8170305829 | ISBN-13: 9788170305828
 
 This fourth volume of the Rasa-jala-nidhi deals with Rasa-chikitsa-vidya, also known a the science of Iatrchemistry (chemical medicine), a major branch of Ayurveda. It contains Ayurvedic treatments for Fever and Diarrhea.
 
@@ -1604,10 +1369,7 @@ This concludes ‘Treatment for fever (27): Saubhagyadi rasa’ included in Bhud
 
 ## 66. Treatment for fever (28): Bhuvaneshvara rasa
 
-
 Rasa Jala Nidhi, vol 4: Iatrochemistry
-
-by Bhudeb Mookerjee | 1938 | 52,258 words | ISBN-10: 8170305829 | ISBN-13: 9788170305828
 
 This fourth volume of the Rasa-jala-nidhi deals with Rasa-chikitsa-vidya, also known a the science of Iatrchemistry (chemical medicine), a major branch of Ayurveda. It contains Ayurvedic treatments for Fever and Diarrhea.
 
@@ -1627,10 +1389,7 @@ This concludes ‘Treatment for fever (28): Bhuvaneshvara rasa’ included in Bh
 
 ## 67. Treatment for fever (29): Sutendra rasa
 
-
 Rasa Jala Nidhi, vol 4: Iatrochemistry
-
-by Bhudeb Mookerjee | 1938 | 52,258 words | ISBN-10: 8170305829 | ISBN-13: 9788170305828
 
 This fourth volume of the Rasa-jala-nidhi deals with Rasa-chikitsa-vidya, also known a the science of Iatrchemistry (chemical medicine), a major branch of Ayurveda. It contains Ayurvedic treatments for Fever and Diarrhea.
 
@@ -1648,10 +1407,7 @@ This concludes ‘Treatment for fever (29): Sutendra rasa’ included in Bhudeb 
 
 ## 68. Treatment for fever (30): Achinta-shakti rasa
 
-
 Rasa Jala Nidhi, vol 4: Iatrochemistry
-
-by Bhudeb Mookerjee | 1938 | 52,258 words | ISBN-10: 8170305829 | ISBN-13: 9788170305828
 
 This fourth volume of the Rasa-jala-nidhi deals with Rasa-chikitsa-vidya, also known a the science of Iatrchemistry (chemical medicine), a major branch of Ayurveda. It contains Ayurvedic treatments for Fever and Diarrhea.
 
@@ -1669,10 +1425,7 @@ This concludes ‘Treatment for fever (30): Achinta-shakti rasa’ included in B
 
 ## 69. Treatment for fever (32): Sri-rama rasa
 
-
 Rasa Jala Nidhi, vol 4: Iatrochemistry
-
-by Bhudeb Mookerjee | 1938 | 52,258 words | ISBN-10: 8170305829 | ISBN-13: 9788170305828
 
 This fourth volume of the Rasa-jala-nidhi deals with Rasa-chikitsa-vidya, also known a the science of Iatrchemistry (chemical medicine), a major branch of Ayurveda. It contains Ayurvedic treatments for Fever and Diarrhea.
 
@@ -1690,10 +1443,7 @@ This concludes ‘Treatment for fever (32): Sri-rama rasa’ included in Bhudeb 
 
 ## 70. Treatment for fever (33): Prachandesvara rasa
 
-
 Rasa Jala Nidhi, vol 4: Iatrochemistry
-
-by Bhudeb Mookerjee | 1938 | 52,258 words | ISBN-10: 8170305829 | ISBN-13: 9788170305828
 
 This fourth volume of the Rasa-jala-nidhi deals with Rasa-chikitsa-vidya, also known a the science of Iatrchemistry (chemical medicine), a major branch of Ayurveda. It contains Ayurvedic treatments for Fever and Diarrhea.
 
@@ -1711,10 +1461,7 @@ This concludes ‘Treatment for fever (33): Prachandesvara rasa’ included in B
 
 ## 71. Treatment for fever (34): Chandesvara rasa
 
-
 Rasa Jala Nidhi, vol 4: Iatrochemistry
-
-by Bhudeb Mookerjee | 1938 | 52,258 words | ISBN-10: 8170305829 | ISBN-13: 9788170305828
 
 This fourth volume of the Rasa-jala-nidhi deals with Rasa-chikitsa-vidya, also known a the science of Iatrchemistry (chemical medicine), a major branch of Ayurveda. It contains Ayurvedic treatments for Fever and Diarrhea.
 
@@ -1732,10 +1479,7 @@ This concludes ‘Treatment for fever (34): Chandesvara rasa’ included in Bhud
 
 ## 72. Treatment for fever (35): Tripura-bhairava rasa
 
-
 Rasa Jala Nidhi, vol 4: Iatrochemistry
-
-by Bhudeb Mookerjee | 1938 | 52,258 words | ISBN-10: 8170305829 | ISBN-13: 9788170305828
 
 This fourth volume of the Rasa-jala-nidhi deals with Rasa-chikitsa-vidya, also known a the science of Iatrchemistry (chemical medicine), a major branch of Ayurveda. It contains Ayurvedic treatments for Fever and Diarrhea.
 
@@ -1753,10 +1497,7 @@ This concludes ‘Treatment for fever (35): Tripura-bhairava rasa’ included in
 
 ## 73. Treatment for fever (31): Jvara-dhuma-ketu rasa
 
-
 Rasa Jala Nidhi, vol 4: Iatrochemistry
-
-by Bhudeb Mookerjee | 1938 | 52,258 words | ISBN-10: 8170305829 | ISBN-13: 9788170305828
 
 This fourth volume of the Rasa-jala-nidhi deals with Rasa-chikitsa-vidya, also known a the science of Iatrchemistry (chemical medicine), a major branch of Ayurveda. It contains Ayurvedic treatments for Fever and Diarrhea.
 
@@ -1774,10 +1515,7 @@ This concludes ‘Treatment for fever (31): Jvara-dhuma-ketu rasa’ included in
 
 ## 74. Treatment for fever (36): Udaka-manjari rasa
 
-
 Rasa Jala Nidhi, vol 4: Iatrochemistry
-
-by Bhudeb Mookerjee | 1938 | 52,258 words | ISBN-10: 8170305829 | ISBN-13: 9788170305828
 
 This fourth volume of the Rasa-jala-nidhi deals with Rasa-chikitsa-vidya, also known a the science of Iatrchemistry (chemical medicine), a major branch of Ayurveda. It contains Ayurvedic treatments for Fever and Diarrhea.
 
@@ -1795,10 +1533,7 @@ This concludes ‘Treatment for fever (36): Udaka-manjari rasa’ included in Bh
 
 ## 75. Treatment for fever (37): Trailokya-dumbura rasa
 
-
 Rasa Jala Nidhi, vol 4: Iatrochemistry
-
-by Bhudeb Mookerjee | 1938 | 52,258 words | ISBN-10: 8170305829 | ISBN-13: 9788170305828
 
 This fourth volume of the Rasa-jala-nidhi deals with Rasa-chikitsa-vidya, also known a the science of Iatrchemistry (chemical medicine), a major branch of Ayurveda. It contains Ayurvedic treatments for Fever and Diarrhea.
 
@@ -1816,10 +1551,7 @@ This concludes ‘Treatment for fever (37): Trailokya-dumbura rasa’ included i
 
 ## 76. Treatment for fever (38): Gada-murari rasa
 
-
 Rasa Jala Nidhi, vol 4: Iatrochemistry
-
-by Bhudeb Mookerjee | 1938 | 52,258 words | ISBN-10: 8170305829 | ISBN-13: 9788170305828
 
 This fourth volume of the Rasa-jala-nidhi deals with Rasa-chikitsa-vidya, also known a the science of Iatrchemistry (chemical medicine), a major branch of Ayurveda. It contains Ayurvedic treatments for Fever and Diarrhea.
 
@@ -1837,10 +1569,7 @@ This concludes ‘Treatment for fever (38): Gada-murari rasa’ included in Bhud
 
 ## 77. Treatment for fever (39): Kshemeshvara rasa
 
-
 Rasa Jala Nidhi, vol 4: Iatrochemistry
-
-by Bhudeb Mookerjee | 1938 | 52,258 words | ISBN-10: 8170305829 | ISBN-13: 9788170305828
 
 This fourth volume of the Rasa-jala-nidhi deals with Rasa-chikitsa-vidya, also known a the science of Iatrchemistry (chemical medicine), a major branch of Ayurveda. It contains Ayurvedic treatments for Fever and Diarrhea.
 
@@ -1858,10 +1587,7 @@ This concludes ‘Treatment for fever (39): Kshemeshvara rasa’ included in Bhu
 
 ## 78. Treatment for fever (40): Rasa-rajendra
 
-
 Rasa Jala Nidhi, vol 4: Iatrochemistry
-
-by Bhudeb Mookerjee | 1938 | 52,258 words | ISBN-10: 8170305829 | ISBN-13: 9788170305828
 
 This fourth volume of the Rasa-jala-nidhi deals with Rasa-chikitsa-vidya, also known a the science of Iatrchemistry (chemical medicine), a major branch of Ayurveda. It contains Ayurvedic treatments for Fever and Diarrhea.
 
@@ -1879,10 +1605,7 @@ This concludes ‘Treatment for fever (40): Rasa-rajendra’ included in Bhudeb 
 
 ## 79. Treatment for fever (41): Sannipata-surya rasa
 
-
 Rasa Jala Nidhi, vol 4: Iatrochemistry
-
-by Bhudeb Mookerjee | 1938 | 52,258 words | ISBN-10: 8170305829 | ISBN-13: 9788170305828
 
 This fourth volume of the Rasa-jala-nidhi deals with Rasa-chikitsa-vidya, also known a the science of Iatrchemistry (chemical medicine), a major branch of Ayurveda. It contains Ayurvedic treatments for Fever and Diarrhea.
 
@@ -1900,10 +1623,7 @@ This concludes ‘Treatment for fever (41): Sannipata-surya rasa’ included in 
 
 ## 80. Treatment for fever (43): Pratapa-tapana rasa
 
-
 Rasa Jala Nidhi, vol 4: Iatrochemistry
-
-by Bhudeb Mookerjee | 1938 | 52,258 words | ISBN-10: 8170305829 | ISBN-13: 9788170305828
 
 This fourth volume of the Rasa-jala-nidhi deals with Rasa-chikitsa-vidya, also known a the science of Iatrchemistry (chemical medicine), a major branch of Ayurveda. It contains Ayurvedic treatments for Fever and Diarrhea.
 
@@ -1921,10 +1641,7 @@ This concludes ‘Treatment for fever (43): Pratapa-tapana rasa’ included in B
 
 ## 81. Treatment for fever (42): Tridosha-nihara-surya rasa
 
-
 Rasa Jala Nidhi, vol 4: Iatrochemistry
-
-by Bhudeb Mookerjee | 1938 | 52,258 words | ISBN-10: 8170305829 | ISBN-13: 9788170305828
 
 This fourth volume of the Rasa-jala-nidhi deals with Rasa-chikitsa-vidya, also known a the science of Iatrchemistry (chemical medicine), a major branch of Ayurveda. It contains Ayurvedic treatments for Fever and Diarrhea.
 
@@ -1942,10 +1659,7 @@ This concludes ‘Treatment for fever (42): Tridosha-nihara-surya rasa’ includ
 
 ## 82. Treatment for fever (44): Sveda-shaityari rasa
 
-
 Rasa Jala Nidhi, vol 4: Iatrochemistry
-
-by Bhudeb Mookerjee | 1938 | 52,258 words | ISBN-10: 8170305829 | ISBN-13: 9788170305828
 
 This fourth volume of the Rasa-jala-nidhi deals with Rasa-chikitsa-vidya, also known a the science of Iatrchemistry (chemical medicine), a major branch of Ayurveda. It contains Ayurvedic treatments for Fever and Diarrhea.
 
@@ -1963,10 +1677,7 @@ This concludes ‘Treatment for fever (44): Sveda-shaityari rasa’ included in 
 
 ## 83. Treatment for fever (45): Pancha-vaktra rasa
 
-
 Rasa Jala Nidhi, vol 4: Iatrochemistry
-
-by Bhudeb Mookerjee | 1938 | 52,258 words | ISBN-10: 8170305829 | ISBN-13: 9788170305828
 
 This fourth volume of the Rasa-jala-nidhi deals with Rasa-chikitsa-vidya, also known a the science of Iatrchemistry (chemical medicine), a major branch of Ayurveda. It contains Ayurvedic treatments for Fever and Diarrhea.
 
@@ -1984,10 +1695,7 @@ This concludes ‘Treatment for fever (45): Pancha-vaktra rasa’ included in Bh
 
 ## 84. Treatment for fever (46): Baidya-natha rasa
 
-
 Rasa Jala Nidhi, vol 4: Iatrochemistry
-
-by Bhudeb Mookerjee | 1938 | 52,258 words | ISBN-10: 8170305829 | ISBN-13: 9788170305828
 
 This fourth volume of the Rasa-jala-nidhi deals with Rasa-chikitsa-vidya, also known a the science of Iatrchemistry (chemical medicine), a major branch of Ayurveda. It contains Ayurvedic treatments for Fever and Diarrhea.
 
@@ -2005,10 +1713,7 @@ This concludes ‘Treatment for fever (46): Baidya-natha rasa’ included in Bhu
 
 ## 85. Treatment for fever (48): Amrita-manjari rasa
 
-
 Rasa Jala Nidhi, vol 4: Iatrochemistry
-
-by Bhudeb Mookerjee | 1938 | 52,258 words | ISBN-10: 8170305829 | ISBN-13: 9788170305828
 
 This fourth volume of the Rasa-jala-nidhi deals with Rasa-chikitsa-vidya, also known a the science of Iatrchemistry (chemical medicine), a major branch of Ayurveda. It contains Ayurvedic treatments for Fever and Diarrhea.
 
@@ -2026,10 +1731,7 @@ This concludes ‘Treatment for fever (48): Amrita-manjari rasa’ included in B
 
 ## 86. Treatment for fever (47): Pratapa-martanda rasa
 
-
 Rasa Jala Nidhi, vol 4: Iatrochemistry
-
-by Bhudeb Mookerjee | 1938 | 52,258 words | ISBN-10: 8170305829 | ISBN-13: 9788170305828
 
 This fourth volume of the Rasa-jala-nidhi deals with Rasa-chikitsa-vidya, also known a the science of Iatrchemistry (chemical medicine), a major branch of Ayurveda. It contains Ayurvedic treatments for Fever and Diarrhea.
 
@@ -2047,10 +1749,7 @@ This concludes ‘Treatment for fever (47): Pratapa-martanda rasa’ included in
 
 ## 87. Treatment for fever (19): Jvara-bhanji rasa
 
-
 Rasa Jala Nidhi, vol 4: Iatrochemistry
-
-by Bhudeb Mookerjee | 1938 | 52,258 words | ISBN-10: 8170305829 | ISBN-13: 9788170305828
 
 This fourth volume of the Rasa-jala-nidhi deals with Rasa-chikitsa-vidya, also known a the science of Iatrchemistry (chemical medicine), a major branch of Ayurveda. It contains Ayurvedic treatments for Fever and Diarrhea.
 
@@ -2070,10 +1769,7 @@ This concludes ‘Treatment for fever (19): Jvara-bhanji rasa’ included in Bhu
 
 ## 88. Treatment for fever (50): Mritotthapana rasa
 
-
 Rasa Jala Nidhi, vol 4: Iatrochemistry
-
-by Bhudeb Mookerjee | 1938 | 52,258 words | ISBN-10: 8170305829 | ISBN-13: 9788170305828
 
 This fourth volume of the Rasa-jala-nidhi deals with Rasa-chikitsa-vidya, also known a the science of Iatrchemistry (chemical medicine), a major branch of Ayurveda. It contains Ayurvedic treatments for Fever and Diarrhea.
 
@@ -2091,10 +1787,7 @@ This concludes ‘Treatment for fever (50): Mritotthapana rasa’ included in Bh
 
 ## 89. Treatment for fever (49): Mrityu-vighatana rasa
 
-
 Rasa Jala Nidhi, vol 4: Iatrochemistry
-
-by Bhudeb Mookerjee | 1938 | 52,258 words | ISBN-10: 8170305829 | ISBN-13: 9788170305828
 
 This fourth volume of the Rasa-jala-nidhi deals with Rasa-chikitsa-vidya, also known a the science of Iatrchemistry (chemical medicine), a major branch of Ayurveda. It contains Ayurvedic treatments for Fever and Diarrhea.
 
@@ -2112,10 +1805,7 @@ This concludes ‘Treatment for fever (49): Mrityu-vighatana rasa’ included in
 
 ## 90. Treatment for fever (51): Sannipata-bhairava rasa
 
-
 Rasa Jala Nidhi, vol 4: Iatrochemistry
-
-by Bhudeb Mookerjee | 1938 | 52,258 words | ISBN-10: 8170305829 | ISBN-13: 9788170305828
 
 This fourth volume of the Rasa-jala-nidhi deals with Rasa-chikitsa-vidya, also known a the science of Iatrchemistry (chemical medicine), a major branch of Ayurveda. It contains Ayurvedic treatments for Fever and Diarrhea.
 
@@ -2133,10 +1823,7 @@ This concludes ‘Treatment for fever (51): Sannipata-bhairava rasa’ included 
 
 ## 91. Treatment for fever (52): Visva-vandya rasa
 
-
 Rasa Jala Nidhi, vol 4: Iatrochemistry
-
-by Bhudeb Mookerjee | 1938 | 52,258 words | ISBN-10: 8170305829 | ISBN-13: 9788170305828
 
 This fourth volume of the Rasa-jala-nidhi deals with Rasa-chikitsa-vidya, also known a the science of Iatrchemistry (chemical medicine), a major branch of Ayurveda. It contains Ayurvedic treatments for Fever and Diarrhea.
 
@@ -2154,10 +1841,7 @@ This concludes ‘Treatment for fever (52): Visva-vandya rasa’ included in Bhu
 
 ## 92. Treatment for fever (53): Nilakantha rasa
 
-
 Rasa Jala Nidhi, vol 4: Iatrochemistry
-
-by Bhudeb Mookerjee | 1938 | 52,258 words | ISBN-10: 8170305829 | ISBN-13: 9788170305828
 
 This fourth volume of the Rasa-jala-nidhi deals with Rasa-chikitsa-vidya, also known a the science of Iatrchemistry (chemical medicine), a major branch of Ayurveda. It contains Ayurvedic treatments for Fever and Diarrhea.
 
@@ -2175,10 +1859,7 @@ This concludes ‘Treatment for fever (53): Nilakantha rasa’ included in Bhude
 
 ## 93. Treatment for fever (54): Ananda-sagara rasa
 
-
 Rasa Jala Nidhi, vol 4: Iatrochemistry
-
-by Bhudeb Mookerjee | 1938 | 52,258 words | ISBN-10: 8170305829 | ISBN-13: 9788170305828
 
 This fourth volume of the Rasa-jala-nidhi deals with Rasa-chikitsa-vidya, also known a the science of Iatrchemistry (chemical medicine), a major branch of Ayurveda. It contains Ayurvedic treatments for Fever and Diarrhea.
 
@@ -2196,10 +1877,7 @@ This concludes ‘Treatment for fever (54): Ananda-sagara rasa’ included in Bh
 
 ## 94. Treatment for fever (56): Nagadi rasa
 
-
 Rasa Jala Nidhi, vol 4: Iatrochemistry
-
-by Bhudeb Mookerjee | 1938 | 52,258 words | ISBN-10: 8170305829 | ISBN-13: 9788170305828
 
 This fourth volume of the Rasa-jala-nidhi deals with Rasa-chikitsa-vidya, also known a the science of Iatrchemistry (chemical medicine), a major branch of Ayurveda. It contains Ayurvedic treatments for Fever and Diarrhea.
 
@@ -2217,10 +1895,7 @@ This concludes ‘Treatment for fever (56): Nagadi rasa’ included in Bhudeb Mo
 
 ## 95. Treatment for fever (58): Sannipata-mrityunjaya rasa
 
-
 Rasa Jala Nidhi, vol 4: Iatrochemistry
-
-by Bhudeb Mookerjee | 1938 | 52,258 words | ISBN-10: 8170305829 | ISBN-13: 9788170305828
 
 This fourth volume of the Rasa-jala-nidhi deals with Rasa-chikitsa-vidya, also known a the science of Iatrchemistry (chemical medicine), a major branch of Ayurveda. It contains Ayurvedic treatments for Fever and Diarrhea.
 
@@ -2240,10 +1915,7 @@ This concludes ‘Treatment for fever (58): Sannipata-mrityunjaya rasa’ includ
 
 ## 96. Treatment for fever (59): Sannipata-bhairava rasa
 
-
 Rasa Jala Nidhi, vol 4: Iatrochemistry
-
-by Bhudeb Mookerjee | 1938 | 52,258 words | ISBN-10: 8170305829 | ISBN-13: 9788170305828
 
 This fourth volume of the Rasa-jala-nidhi deals with Rasa-chikitsa-vidya, also known a the science of Iatrchemistry (chemical medicine), a major branch of Ayurveda. It contains Ayurvedic treatments for Fever and Diarrhea.
 
@@ -2261,10 +1933,7 @@ This concludes ‘Treatment for fever (59): Sannipata-bhairava rasa’ included 
 
 ## 97. Preface
 
-
 Rasa Jala Nidhi, vol 4: Iatrochemistry
-
-by Bhudeb Mookerjee | 1938 | 52,258 words | ISBN-10: 8170305829 | ISBN-13: 9788170305828
 
 This fourth volume of the Rasa-jala-nidhi deals with Rasa-chikitsa-vidya, also known a the science of Iatrchemistry (chemical medicine), a major branch of Ayurveda. It contains Ayurvedic treatments for Fever and Diarrhea.
 
@@ -2293,10 +1962,7 @@ This concludes ‘Preface’ included in Bhudeb Mookerjee Rasa Jala Nidhi, vol 4
 
 ## 98. Treatment for fever (57): Vetala rasa
 
-
 Rasa Jala Nidhi, vol 4: Iatrochemistry
-
-by Bhudeb Mookerjee | 1938 | 52,258 words | ISBN-10: 8170305829 | ISBN-13: 9788170305828
 
 This fourth volume of the Rasa-jala-nidhi deals with Rasa-chikitsa-vidya, also known a the science of Iatrchemistry (chemical medicine), a major branch of Ayurveda. It contains Ayurvedic treatments for Fever and Diarrhea.
 
@@ -2314,10 +1980,7 @@ This concludes ‘Treatment for fever (57): Vetala rasa’ included in Bhudeb Mo
 
 ## 99. Treatment for fever (60): Kalagni-bhairava rasa
 
-
 Rasa Jala Nidhi, vol 4: Iatrochemistry
-
-by Bhudeb Mookerjee | 1938 | 52,258 words | ISBN-10: 8170305829 | ISBN-13: 9788170305828
 
 This fourth volume of the Rasa-jala-nidhi deals with Rasa-chikitsa-vidya, also known a the science of Iatrchemistry (chemical medicine), a major branch of Ayurveda. It contains Ayurvedic treatments for Fever and Diarrhea.
 
@@ -2335,10 +1998,7 @@ This concludes ‘Treatment for fever (60): Kalagni-bhairava rasa’ included in
 
 ## 100. Treatment for fever (61): Tridosha-vadavanala rasa
 
-
 Rasa Jala Nidhi, vol 4: Iatrochemistry
-
-by Bhudeb Mookerjee | 1938 | 52,258 words | ISBN-10: 8170305829 | ISBN-13: 9788170305828
 
 This fourth volume of the Rasa-jala-nidhi deals with Rasa-chikitsa-vidya, also known a the science of Iatrchemistry (chemical medicine), a major branch of Ayurveda. It contains Ayurvedic treatments for Fever and Diarrhea.
 
@@ -2356,10 +2016,7 @@ This concludes ‘Treatment for fever (61): Tridosha-vadavanala rasa’ included
 
 ## 101. Treatment for fever (62): Vadavanala rasa
 
-
 Rasa Jala Nidhi, vol 4: Iatrochemistry
-
-by Bhudeb Mookerjee | 1938 | 52,258 words | ISBN-10: 8170305829 | ISBN-13: 9788170305828
 
 This fourth volume of the Rasa-jala-nidhi deals with Rasa-chikitsa-vidya, also known a the science of Iatrchemistry (chemical medicine), a major branch of Ayurveda. It contains Ayurvedic treatments for Fever and Diarrhea.
 
@@ -2377,10 +2034,7 @@ This concludes ‘Treatment for fever (62): Vadavanala rasa’ included in Bhude
 
 ## 102. Treatment for fever (63): Simha-nada rasa
 
-
 Rasa Jala Nidhi, vol 4: Iatrochemistry
-
-by Bhudeb Mookerjee | 1938 | 52,258 words | ISBN-10: 8170305829 | ISBN-13: 9788170305828
 
 This fourth volume of the Rasa-jala-nidhi deals with Rasa-chikitsa-vidya, also known a the science of Iatrchemistry (chemical medicine), a major branch of Ayurveda. It contains Ayurvedic treatments for Fever and Diarrhea.
 
@@ -2398,10 +2052,7 @@ This concludes ‘Treatment for fever (63): Simha-nada rasa’ included in Bhude
 
 ## 103. Treatment for fever (64): Chintamani rasa
 
-
 Rasa Jala Nidhi, vol 4: Iatrochemistry
-
-by Bhudeb Mookerjee | 1938 | 52,258 words | ISBN-10: 8170305829 | ISBN-13: 9788170305828
 
 This fourth volume of the Rasa-jala-nidhi deals with Rasa-chikitsa-vidya, also known a the science of Iatrchemistry (chemical medicine), a major branch of Ayurveda. It contains Ayurvedic treatments for Fever and Diarrhea.
 
@@ -2419,10 +2070,7 @@ This concludes ‘Treatment for fever (64): Chintamani rasa’ included in Bhude
 
 ## 104. Treatment for fever (67): Dipika rasa
 
-
 Rasa Jala Nidhi, vol 4: Iatrochemistry
-
-by Bhudeb Mookerjee | 1938 | 52,258 words | ISBN-10: 8170305829 | ISBN-13: 9788170305828
 
 This fourth volume of the Rasa-jala-nidhi deals with Rasa-chikitsa-vidya, also known a the science of Iatrchemistry (chemical medicine), a major branch of Ayurveda. It contains Ayurvedic treatments for Fever and Diarrhea.
 
@@ -2440,10 +2088,7 @@ This concludes ‘Treatment for fever (67): Dipika rasa’ included in Bhudeb Mo
 
 ## 105. Treatment for fever (68): Vishva-palaka rasa
 
-
 Rasa Jala Nidhi, vol 4: Iatrochemistry
-
-by Bhudeb Mookerjee | 1938 | 52,258 words | ISBN-10: 8170305829 | ISBN-13: 9788170305828
 
 This fourth volume of the Rasa-jala-nidhi deals with Rasa-chikitsa-vidya, also known a the science of Iatrchemistry (chemical medicine), a major branch of Ayurveda. It contains Ayurvedic treatments for Fever and Diarrhea.
 
@@ -2461,10 +2106,7 @@ This concludes ‘Treatment for fever (68): Vishva-palaka rasa’ included in Bh
 
 ## 106. Treatment for fever (69): Sannipata-gajankusha rasa
 
-
 Rasa Jala Nidhi, vol 4: Iatrochemistry
-
-by Bhudeb Mookerjee | 1938 | 52,258 words | ISBN-10: 8170305829 | ISBN-13: 9788170305828
 
 This fourth volume of the Rasa-jala-nidhi deals with Rasa-chikitsa-vidya, also known a the science of Iatrchemistry (chemical medicine), a major branch of Ayurveda. It contains Ayurvedic treatments for Fever and Diarrhea.
 
@@ -2482,10 +2124,7 @@ This concludes ‘Treatment for fever (69): Sannipata-gajankusha rasa’ include
 
 ## 107. Treatment for fever (70): Mahamrityunjaya rasa
 
-
 Rasa Jala Nidhi, vol 4: Iatrochemistry
-
-by Bhudeb Mookerjee | 1938 | 52,258 words | ISBN-10: 8170305829 | ISBN-13: 9788170305828
 
 This fourth volume of the Rasa-jala-nidhi deals with Rasa-chikitsa-vidya, also known a the science of Iatrchemistry (chemical medicine), a major branch of Ayurveda. It contains Ayurvedic treatments for Fever and Diarrhea.
 
@@ -2503,10 +2142,7 @@ This concludes ‘Treatment for fever (70): Mahamrityunjaya rasa’ included in 
 
 ## 108. Treatment for fever (71): Panchavaktra rasa
 
-
 Rasa Jala Nidhi, vol 4: Iatrochemistry
-
-by Bhudeb Mookerjee | 1938 | 52,258 words | ISBN-10: 8170305829 | ISBN-13: 9788170305828
 
 This fourth volume of the Rasa-jala-nidhi deals with Rasa-chikitsa-vidya, also known a the science of Iatrchemistry (chemical medicine), a major branch of Ayurveda. It contains Ayurvedic treatments for Fever and Diarrhea.
 
@@ -2524,10 +2160,7 @@ This concludes ‘Treatment for fever (71): Panchavaktra rasa’ included in Bhu
 
 ## 109. Treatment for fever (66): Kaphashani rasa
 
-
 Rasa Jala Nidhi, vol 4: Iatrochemistry
-
-by Bhudeb Mookerjee | 1938 | 52,258 words | ISBN-10: 8170305829 | ISBN-13: 9788170305828
 
 This fourth volume of the Rasa-jala-nidhi deals with Rasa-chikitsa-vidya, also known a the science of Iatrchemistry (chemical medicine), a major branch of Ayurveda. It contains Ayurvedic treatments for Fever and Diarrhea.
 
@@ -2545,10 +2178,7 @@ This concludes ‘Treatment for fever (66): Kaphashani rasa’ included in Bhude
 
 ## 110. Treatment for fever (72): Sannipata-kuthara rasa
 
-
 Rasa Jala Nidhi, vol 4: Iatrochemistry
-
-by Bhudeb Mookerjee | 1938 | 52,258 words | ISBN-10: 8170305829 | ISBN-13: 9788170305828
 
 This fourth volume of the Rasa-jala-nidhi deals with Rasa-chikitsa-vidya, also known a the science of Iatrchemistry (chemical medicine), a major branch of Ayurveda. It contains Ayurvedic treatments for Fever and Diarrhea.
 
@@ -2566,10 +2196,7 @@ This concludes ‘Treatment for fever (72): Sannipata-kuthara rasa’ included i
 
 ## 111. Treatment for fever (73): Pratapa-lankeshvara rasa
 
-
 Rasa Jala Nidhi, vol 4: Iatrochemistry
-
-by Bhudeb Mookerjee | 1938 | 52,258 words | ISBN-10: 8170305829 | ISBN-13: 9788170305828
 
 This fourth volume of the Rasa-jala-nidhi deals with Rasa-chikitsa-vidya, also known a the science of Iatrchemistry (chemical medicine), a major branch of Ayurveda. It contains Ayurvedic treatments for Fever and Diarrhea.
 
@@ -2587,10 +2214,7 @@ This concludes ‘Treatment for fever (73): Pratapa-lankeshvara rasa’ included
 
 ## 112. Treatment for fever (74): Praneshvara rasa
 
-
 Rasa Jala Nidhi, vol 4: Iatrochemistry
-
-by Bhudeb Mookerjee | 1938 | 52,258 words | ISBN-10: 8170305829 | ISBN-13: 9788170305828
 
 This fourth volume of the Rasa-jala-nidhi deals with Rasa-chikitsa-vidya, also known a the science of Iatrchemistry (chemical medicine), a major branch of Ayurveda. It contains Ayurvedic treatments for Fever and Diarrhea.
 
@@ -2608,10 +2232,7 @@ This concludes ‘Treatment for fever (74): Praneshvara rasa’ included in Bhud
 
 ## 113. Treatment for fever (75): Mrita-sanjibana rasa
 
-
 Rasa Jala Nidhi, vol 4: Iatrochemistry
-
-by Bhudeb Mookerjee | 1938 | 52,258 words | ISBN-10: 8170305829 | ISBN-13: 9788170305828
 
 This fourth volume of the Rasa-jala-nidhi deals with Rasa-chikitsa-vidya, also known a the science of Iatrchemistry (chemical medicine), a major branch of Ayurveda. It contains Ayurvedic treatments for Fever and Diarrhea.
 
@@ -2629,10 +2250,7 @@ This concludes ‘Treatment for fever (75): Mrita-sanjibana rasa’ included in 
 
 ## 114. Treatment for fever (76): Mrityu-nisudana rasa
 
-
 Rasa Jala Nidhi, vol 4: Iatrochemistry
-
-by Bhudeb Mookerjee | 1938 | 52,258 words | ISBN-10: 8170305829 | ISBN-13: 9788170305828
 
 This fourth volume of the Rasa-jala-nidhi deals with Rasa-chikitsa-vidya, also known a the science of Iatrchemistry (chemical medicine), a major branch of Ayurveda. It contains Ayurvedic treatments for Fever and Diarrhea.
 
@@ -2650,10 +2268,7 @@ This concludes ‘Treatment for fever (76): Mrityu-nisudana rasa’ included in 
 
 ## 115. Treatment for fever (78): Parpatika rasa
 
-
 Rasa Jala Nidhi, vol 4: Iatrochemistry
-
-by Bhudeb Mookerjee | 1938 | 52,258 words | ISBN-10: 8170305829 | ISBN-13: 9788170305828
 
 This fourth volume of the Rasa-jala-nidhi deals with Rasa-chikitsa-vidya, also known a the science of Iatrchemistry (chemical medicine), a major branch of Ayurveda. It contains Ayurvedic treatments for Fever and Diarrhea.
 
@@ -2671,10 +2286,7 @@ This concludes ‘Treatment for fever (78): Parpatika rasa’ included in Bhudeb
 
 ## 116. Treatment for fever (79): Kanta rasa
 
-
 Rasa Jala Nidhi, vol 4: Iatrochemistry
-
-by Bhudeb Mookerjee | 1938 | 52,258 words | ISBN-10: 8170305829 | ISBN-13: 9788170305828
 
 This fourth volume of the Rasa-jala-nidhi deals with Rasa-chikitsa-vidya, also known a the science of Iatrchemistry (chemical medicine), a major branch of Ayurveda. It contains Ayurvedic treatments for Fever and Diarrhea.
 
@@ -2692,10 +2304,7 @@ This concludes ‘Treatment for fever (79): Kanta rasa’ included in Bhudeb Moo
 
 ## 117. Treatment for fever (77): Jalamanjari rasa
 
-
 Rasa Jala Nidhi, vol 4: Iatrochemistry
-
-by Bhudeb Mookerjee | 1938 | 52,258 words | ISBN-10: 8170305829 | ISBN-13: 9788170305828
 
 This fourth volume of the Rasa-jala-nidhi deals with Rasa-chikitsa-vidya, also known a the science of Iatrchemistry (chemical medicine), a major branch of Ayurveda. It contains Ayurvedic treatments for Fever and Diarrhea.
 
@@ -2713,10 +2322,7 @@ This concludes ‘Treatment for fever (77): Jalamanjari rasa’ included in Bhud
 
 ## 118. Treatment for fever (80): Sudhamshu-shekhara rasa
 
-
 Rasa Jala Nidhi, vol 4: Iatrochemistry
-
-by Bhudeb Mookerjee | 1938 | 52,258 words | ISBN-10: 8170305829 | ISBN-13: 9788170305828
 
 This fourth volume of the Rasa-jala-nidhi deals with Rasa-chikitsa-vidya, also known a the science of Iatrchemistry (chemical medicine), a major branch of Ayurveda. It contains Ayurvedic treatments for Fever and Diarrhea.
 
@@ -2734,10 +2340,7 @@ This concludes ‘Treatment for fever (80): Sudhamshu-shekhara rasa’ included 
 
 ## 119. Treatment for fever (81): Nava-jvvara-murari rasa
 
-
 Rasa Jala Nidhi, vol 4: Iatrochemistry
-
-by Bhudeb Mookerjee | 1938 | 52,258 words | ISBN-10: 8170305829 | ISBN-13: 9788170305828
 
 This fourth volume of the Rasa-jala-nidhi deals with Rasa-chikitsa-vidya, also known a the science of Iatrchemistry (chemical medicine), a major branch of Ayurveda. It contains Ayurvedic treatments for Fever and Diarrhea.
 
@@ -2755,10 +2358,7 @@ This concludes ‘Treatment for fever (81): Nava-jvvara-murari rasa’ included 
 
 ## 120. Treatment for fever (83): Jvara-murari rasa
 
-
 Rasa Jala Nidhi, vol 4: Iatrochemistry
-
-by Bhudeb Mookerjee | 1938 | 52,258 words | ISBN-10: 8170305829 | ISBN-13: 9788170305828
 
 This fourth volume of the Rasa-jala-nidhi deals with Rasa-chikitsa-vidya, also known a the science of Iatrchemistry (chemical medicine), a major branch of Ayurveda. It contains Ayurvedic treatments for Fever and Diarrhea.
 
@@ -2776,10 +2376,7 @@ This concludes ‘Treatment for fever (83): Jvara-murari rasa’ included in Bhu
 
 ## 121. Treatment for fever (82): Pratapa-ravana rasa
 
-
 Rasa Jala Nidhi, vol 4: Iatrochemistry
-
-by Bhudeb Mookerjee | 1938 | 52,258 words | ISBN-10: 8170305829 | ISBN-13: 9788170305828
 
 This fourth volume of the Rasa-jala-nidhi deals with Rasa-chikitsa-vidya, also known a the science of Iatrchemistry (chemical medicine), a major branch of Ayurveda. It contains Ayurvedic treatments for Fever and Diarrhea.
 
@@ -2803,10 +2400,7 @@ This concludes ‘Treatment for fever (82): Pratapa-ravana rasa’ included in B
 
 ## 122. Treatment for fever (84): Jvara-matanga-keshari rasa
 
-
 Rasa Jala Nidhi, vol 4: Iatrochemistry
-
-by Bhudeb Mookerjee | 1938 | 52,258 words | ISBN-10: 8170305829 | ISBN-13: 9788170305828
 
 This fourth volume of the Rasa-jala-nidhi deals with Rasa-chikitsa-vidya, also known a the science of Iatrchemistry (chemical medicine), a major branch of Ayurveda. It contains Ayurvedic treatments for Fever and Diarrhea.
 
@@ -2824,10 +2418,7 @@ This concludes ‘Treatment for fever (84): Jvara-matanga-keshari rasa’ includ
 
 ## 123. Treatment for fever (86): Jvaramurari rasa
 
-
 Rasa Jala Nidhi, vol 4: Iatrochemistry
-
-by Bhudeb Mookerjee | 1938 | 52,258 words | ISBN-10: 8170305829 | ISBN-13: 9788170305828
 
 This fourth volume of the Rasa-jala-nidhi deals with Rasa-chikitsa-vidya, also known a the science of Iatrchemistry (chemical medicine), a major branch of Ayurveda. It contains Ayurvedic treatments for Fever and Diarrhea.
 
@@ -2845,10 +2436,7 @@ This concludes ‘Treatment for fever (86): Jvaramurari rasa’ included in Bhud
 
 ## 124. Treatment for fever (87): Jvara-bhairava rasa
 
-
 Rasa Jala Nidhi, vol 4: Iatrochemistry
-
-by Bhudeb Mookerjee | 1938 | 52,258 words | ISBN-10: 8170305829 | ISBN-13: 9788170305828
 
 This fourth volume of the Rasa-jala-nidhi deals with Rasa-chikitsa-vidya, also known a the science of Iatrchemistry (chemical medicine), a major branch of Ayurveda. It contains Ayurvedic treatments for Fever and Diarrhea.
 
@@ -2866,10 +2454,7 @@ This concludes ‘Treatment for fever (87): Jvara-bhairava rasa’ included in B
 
 ## 125. Treatment for fever (85): Chandra-shekhara rasa
 
-
 Rasa Jala Nidhi, vol 4: Iatrochemistry
-
-by Bhudeb Mookerjee | 1938 | 52,258 words | ISBN-10: 8170305829 | ISBN-13: 9788170305828
 
 This fourth volume of the Rasa-jala-nidhi deals with Rasa-chikitsa-vidya, also known a the science of Iatrchemistry (chemical medicine), a major branch of Ayurveda. It contains Ayurvedic treatments for Fever and Diarrhea.
 
@@ -2887,10 +2472,7 @@ This concludes ‘Treatment for fever (85): Chandra-shekhara rasa’ included in
 
 ## 126. Treatment for fever (89): Jvara-keshari rasa
 
-
 Rasa Jala Nidhi, vol 4: Iatrochemistry
-
-by Bhudeb Mookerjee | 1938 | 52,258 words | ISBN-10: 8170305829 | ISBN-13: 9788170305828
 
 This fourth volume of the Rasa-jala-nidhi deals with Rasa-chikitsa-vidya, also known a the science of Iatrchemistry (chemical medicine), a major branch of Ayurveda. It contains Ayurvedic treatments for Fever and Diarrhea.
 
@@ -2908,10 +2490,7 @@ This concludes ‘Treatment for fever (89): Jvara-keshari rasa’ included in Bh
 
 ## 127. Treatment for fever (90): Vidyadhara rasa
 
-
 Rasa Jala Nidhi, vol 4: Iatrochemistry
-
-by Bhudeb Mookerjee | 1938 | 52,258 words | ISBN-10: 8170305829 | ISBN-13: 9788170305828
 
 This fourth volume of the Rasa-jala-nidhi deals with Rasa-chikitsa-vidya, also known a the science of Iatrchemistry (chemical medicine), a major branch of Ayurveda. It contains Ayurvedic treatments for Fever and Diarrhea.
 
@@ -2929,10 +2508,7 @@ This concludes ‘Treatment for fever (90): Vidyadhara rasa’ included in Bhude
 
 ## 128. Treatment for fever (91): Ardha-narishvara rasa and Tridoshadavanala rasa
 
-
 Rasa Jala Nidhi, vol 4: Iatrochemistry
-
-by Bhudeb Mookerjee | 1938 | 52,258 words | ISBN-10: 8170305829 | ISBN-13: 9788170305828
 
 This fourth volume of the Rasa-jala-nidhi deals with Rasa-chikitsa-vidya, also known a the science of Iatrchemistry (chemical medicine), a major branch of Ayurveda. It contains Ayurvedic treatments for Fever and Diarrhea.
 
@@ -2950,10 +2526,7 @@ This concludes ‘Treatment for fever (91): Ardha-narishvara rasa and Tridoshada
 
 ## 129. Treatment for fever (92): Arkamurti rasa
 
-
 Rasa Jala Nidhi, vol 4: Iatrochemistry
-
-by Bhudeb Mookerjee | 1938 | 52,258 words | ISBN-10: 8170305829 | ISBN-13: 9788170305828
 
 This fourth volume of the Rasa-jala-nidhi deals with Rasa-chikitsa-vidya, also known a the science of Iatrchemistry (chemical medicine), a major branch of Ayurveda. It contains Ayurvedic treatments for Fever and Diarrhea.
 
@@ -2971,10 +2544,7 @@ This concludes ‘Treatment for fever (92): Arkamurti rasa’ included in Bhudeb
 
 ## 130. Treatment for fever (94): Kaphaketu rasa
 
-
 Rasa Jala Nidhi, vol 4: Iatrochemistry
-
-by Bhudeb Mookerjee | 1938 | 52,258 words | ISBN-10: 8170305829 | ISBN-13: 9788170305828
 
 This fourth volume of the Rasa-jala-nidhi deals with Rasa-chikitsa-vidya, also known a the science of Iatrchemistry (chemical medicine), a major branch of Ayurveda. It contains Ayurvedic treatments for Fever and Diarrhea.
 
@@ -2992,10 +2562,7 @@ This concludes ‘Treatment for fever (94): Kaphaketu rasa’ included in Bhudeb
 
 ## 131. Treatment for fever (95): Kasturi-vijaya rasa
 
-
 Rasa Jala Nidhi, vol 4: Iatrochemistry
-
-by Bhudeb Mookerjee | 1938 | 52,258 words | ISBN-10: 8170305829 | ISBN-13: 9788170305828
 
 This fourth volume of the Rasa-jala-nidhi deals with Rasa-chikitsa-vidya, also known a the science of Iatrchemistry (chemical medicine), a major branch of Ayurveda. It contains Ayurvedic treatments for Fever and Diarrhea.
 
@@ -3013,10 +2580,7 @@ This concludes ‘Treatment for fever (95): Kasturi-vijaya rasa’ included in B
 
 ## 132. Treatment for fever (93): Tridosha-davanala-kalamegha rasa
 
-
 Rasa Jala Nidhi, vol 4: Iatrochemistry
-
-by Bhudeb Mookerjee | 1938 | 52,258 words | ISBN-10: 8170305829 | ISBN-13: 9788170305828
 
 This fourth volume of the Rasa-jala-nidhi deals with Rasa-chikitsa-vidya, also known a the science of Iatrchemistry (chemical medicine), a major branch of Ayurveda. It contains Ayurvedic treatments for Fever and Diarrhea.
 
@@ -3034,10 +2598,7 @@ This concludes ‘Treatment for fever (93): Tridosha-davanala-kalamegha rasa’ 
 
 ## 133. Treatment for fever (96): Kasturi-bhairava-rasa
 
-
 Rasa Jala Nidhi, vol 4: Iatrochemistry
-
-by Bhudeb Mookerjee | 1938 | 52,258 words | ISBN-10: 8170305829 | ISBN-13: 9788170305828
 
 This fourth volume of the Rasa-jala-nidhi deals with Rasa-chikitsa-vidya, also known a the science of Iatrchemistry (chemical medicine), a major branch of Ayurveda. It contains Ayurvedic treatments for Fever and Diarrhea.
 
@@ -3055,10 +2616,7 @@ This concludes ‘Treatment for fever (96): Kasturi-bhairava-rasa’ included in
 
 ## 134. Treatment for fever (97): Shleshma-kalanala rasa
 
-
 Rasa Jala Nidhi, vol 4: Iatrochemistry
-
-by Bhudeb Mookerjee | 1938 | 52,258 words | ISBN-10: 8170305829 | ISBN-13: 9788170305828
 
 This fourth volume of the Rasa-jala-nidhi deals with Rasa-chikitsa-vidya, also known a the science of Iatrchemistry (chemical medicine), a major branch of Ayurveda. It contains Ayurvedic treatments for Fever and Diarrhea.
 
@@ -3076,10 +2634,7 @@ This concludes ‘Treatment for fever (97): Shleshma-kalanala rasa’ included i
 
 ## 135. Treatment for fever (98): Sannipata-martanda rasa
 
-
 Rasa Jala Nidhi, vol 4: Iatrochemistry
-
-by Bhudeb Mookerjee | 1938 | 52,258 words | ISBN-10: 8170305829 | ISBN-13: 9788170305828
 
 This fourth volume of the Rasa-jala-nidhi deals with Rasa-chikitsa-vidya, also known a the science of Iatrchemistry (chemical medicine), a major branch of Ayurveda. It contains Ayurvedic treatments for Fever and Diarrhea.
 
@@ -3097,10 +2652,7 @@ This concludes ‘Treatment for fever (98): Sannipata-martanda rasa’ included 
 
 ## 136. Treatment for fever (99): Suchika-ksepana rasa
 
-
 Rasa Jala Nidhi, vol 4: Iatrochemistry
-
-by Bhudeb Mookerjee | 1938 | 52,258 words | ISBN-10: 8170305829 | ISBN-13: 9788170305828
 
 This fourth volume of the Rasa-jala-nidhi deals with Rasa-chikitsa-vidya, also known a the science of Iatrchemistry (chemical medicine), a major branch of Ayurveda. It contains Ayurvedic treatments for Fever and Diarrhea.
 
@@ -3118,10 +2670,7 @@ This concludes ‘Treatment for fever (99): Suchika-ksepana rasa’ included in 
 
 ## 137. Treatment for fever (88): Arogya-bhairava rasa
 
-
 Rasa Jala Nidhi, vol 4: Iatrochemistry
-
-by Bhudeb Mookerjee | 1938 | 52,258 words | ISBN-10: 8170305829 | ISBN-13: 9788170305828
 
 This fourth volume of the Rasa-jala-nidhi deals with Rasa-chikitsa-vidya, also known a the science of Iatrchemistry (chemical medicine), a major branch of Ayurveda. It contains Ayurvedic treatments for Fever and Diarrhea.
 
@@ -3139,10 +2688,7 @@ This concludes ‘Treatment for fever (88): Arogya-bhairava rasa’ included in 
 
 ## 138. Treatment for fever (101): Ghora-nrisimgha rasa
 
-
 Rasa Jala Nidhi, vol 4: Iatrochemistry
-
-by Bhudeb Mookerjee | 1938 | 52,258 words | ISBN-10: 8170305829 | ISBN-13: 9788170305828
 
 This fourth volume of the Rasa-jala-nidhi deals with Rasa-chikitsa-vidya, also known a the science of Iatrchemistry (chemical medicine), a major branch of Ayurveda. It contains Ayurvedic treatments for Fever and Diarrhea.
 
@@ -3160,10 +2706,7 @@ This concludes ‘Treatment for fever (101): Ghora-nrisimgha rasa’ included in
 
 ## 139. Treatment for fever (102): Sannipata-sudana rasa
 
-
 Rasa Jala Nidhi, vol 4: Iatrochemistry
-
-by Bhudeb Mookerjee | 1938 | 52,258 words | ISBN-10: 8170305829 | ISBN-13: 9788170305828
 
 This fourth volume of the Rasa-jala-nidhi deals with Rasa-chikitsa-vidya, also known a the science of Iatrchemistry (chemical medicine), a major branch of Ayurveda. It contains Ayurvedic treatments for Fever and Diarrhea.
 
@@ -3181,10 +2724,7 @@ This concludes ‘Treatment for fever (102): Sannipata-sudana rasa’ included i
 
 ## 140. Treatment for fever (100): Suchika-bharana rasa
 
-
 Rasa Jala Nidhi, vol 4: Iatrochemistry
-
-by Bhudeb Mookerjee | 1938 | 52,258 words | ISBN-10: 8170305829 | ISBN-13: 9788170305828
 
 This fourth volume of the Rasa-jala-nidhi deals with Rasa-chikitsa-vidya, also known a the science of Iatrchemistry (chemical medicine), a major branch of Ayurveda. It contains Ayurvedic treatments for Fever and Diarrhea.
 
@@ -3202,10 +2742,7 @@ This concludes ‘Treatment for fever (100): Suchika-bharana rasa’ included in
 
 ## 141. Treatment for fever (103): Shiva-prasadana rasa
 
-
 Rasa Jala Nidhi, vol 4: Iatrochemistry
-
-by Bhudeb Mookerjee | 1938 | 52,258 words | ISBN-10: 8170305829 | ISBN-13: 9788170305828
 
 This fourth volume of the Rasa-jala-nidhi deals with Rasa-chikitsa-vidya, also known a the science of Iatrchemistry (chemical medicine), a major branch of Ayurveda. It contains Ayurvedic treatments for Fever and Diarrhea.
 
@@ -3223,10 +2760,7 @@ This concludes ‘Treatment for fever (103): Shiva-prasadana rasa’ included in
 
 ## 142. Treatment for fever (104): Trailokya-chintamani rasa
 
-
 Rasa Jala Nidhi, vol 4: Iatrochemistry
-
-by Bhudeb Mookerjee | 1938 | 52,258 words | ISBN-10: 8170305829 | ISBN-13: 9788170305828
 
 This fourth volume of the Rasa-jala-nidhi deals with Rasa-chikitsa-vidya, also known a the science of Iatrchemistry (chemical medicine), a major branch of Ayurveda. It contains Ayurvedic treatments for Fever and Diarrhea.
 
@@ -3244,10 +2778,7 @@ This concludes ‘Treatment for fever (104): Trailokya-chintamani rasa’ includ
 
 ## 143. Treatment for fever (105): Kalanala rasa
 
-
 Rasa Jala Nidhi, vol 4: Iatrochemistry
-
-by Bhudeb Mookerjee | 1938 | 52,258 words | ISBN-10: 8170305829 | ISBN-13: 9788170305828
 
 This fourth volume of the Rasa-jala-nidhi deals with Rasa-chikitsa-vidya, also known a the science of Iatrchemistry (chemical medicine), a major branch of Ayurveda. It contains Ayurvedic treatments for Fever and Diarrhea.
 
@@ -3265,10 +2796,7 @@ This concludes ‘Treatment for fever (105): Kalanala rasa’ included in Bhudeb
 
 ## 144. Treatment for fever (106): Suchi-mukha rasa
 
-
 Rasa Jala Nidhi, vol 4: Iatrochemistry
-
-by Bhudeb Mookerjee | 1938 | 52,258 words | ISBN-10: 8170305829 | ISBN-13: 9788170305828
 
 This fourth volume of the Rasa-jala-nidhi deals with Rasa-chikitsa-vidya, also known a the science of Iatrchemistry (chemical medicine), a major branch of Ayurveda. It contains Ayurvedic treatments for Fever and Diarrhea.
 
@@ -3286,10 +2814,7 @@ This concludes ‘Treatment for fever (106): Suchi-mukha rasa’ included in Bhu
 
 ## 145. Treatment for fever (107): Mritasamjivana-suchikabharana-rasa
 
-
 Rasa Jala Nidhi, vol 4: Iatrochemistry
-
-by Bhudeb Mookerjee | 1938 | 52,258 words | ISBN-10: 8170305829 | ISBN-13: 9788170305828
 
 This fourth volume of the Rasa-jala-nidhi deals with Rasa-chikitsa-vidya, also known a the science of Iatrchemistry (chemical medicine), a major branch of Ayurveda. It contains Ayurvedic treatments for Fever and Diarrhea.
 
@@ -3317,10 +2842,7 @@ This concludes ‘Treatment for fever (107): Mritasamjivana-suchikabharana-rasa�
 
 ## 146. Treatment for fever (108): Maha-jvarankusha rasa
 
-
 Rasa Jala Nidhi, vol 4: Iatrochemistry
-
-by Bhudeb Mookerjee | 1938 | 52,258 words | ISBN-10: 8170305829 | ISBN-13: 9788170305828
 
 This fourth volume of the Rasa-jala-nidhi deals with Rasa-chikitsa-vidya, also known a the science of Iatrchemistry (chemical medicine), a major branch of Ayurveda. It contains Ayurvedic treatments for Fever and Diarrhea.
 
@@ -3338,10 +2860,7 @@ This concludes ‘Treatment for fever (108): Maha-jvarankusha rasa’ included i
 
 ## 147. Treatment for fever (110): Jvarantaka rasa
 
-
 Rasa Jala Nidhi, vol 4: Iatrochemistry
-
-by Bhudeb Mookerjee | 1938 | 52,258 words | ISBN-10: 8170305829 | ISBN-13: 9788170305828
 
 This fourth volume of the Rasa-jala-nidhi deals with Rasa-chikitsa-vidya, also known a the science of Iatrchemistry (chemical medicine), a major branch of Ayurveda. It contains Ayurvedic treatments for Fever and Diarrhea.
 
@@ -3359,10 +2878,7 @@ This concludes ‘Treatment for fever (110): Jvarantaka rasa’ included in Bhud
 
 ## 148. Treatment for fever (111): Jvara-sudana rasa
 
-
 Rasa Jala Nidhi, vol 4: Iatrochemistry
-
-by Bhudeb Mookerjee | 1938 | 52,258 words | ISBN-10: 8170305829 | ISBN-13: 9788170305828
 
 This fourth volume of the Rasa-jala-nidhi deals with Rasa-chikitsa-vidya, also known a the science of Iatrchemistry (chemical medicine), a major branch of Ayurveda. It contains Ayurvedic treatments for Fever and Diarrhea.
 
@@ -3380,10 +2896,7 @@ This concludes ‘Treatment for fever (111): Jvara-sudana rasa’ included in Bh
 
 ## 149. Treatment for fever (109): Maha-jvarantaka rasa
 
-
 Rasa Jala Nidhi, vol 4: Iatrochemistry
-
-by Bhudeb Mookerjee | 1938 | 52,258 words | ISBN-10: 8170305829 | ISBN-13: 9788170305828
 
 This fourth volume of the Rasa-jala-nidhi deals with Rasa-chikitsa-vidya, also known a the science of Iatrchemistry (chemical medicine), a major branch of Ayurveda. It contains Ayurvedic treatments for Fever and Diarrhea.
 
@@ -3401,10 +2914,7 @@ This concludes ‘Treatment for fever (109): Maha-jvarantaka rasa’ included in
 
 ## 150. Treatment for fever (112): Jvaranisudana rasa
 
-
 Rasa Jala Nidhi, vol 4: Iatrochemistry
-
-by Bhudeb Mookerjee | 1938 | 52,258 words | ISBN-10: 8170305829 | ISBN-13: 9788170305828
 
 This fourth volume of the Rasa-jala-nidhi deals with Rasa-chikitsa-vidya, also known a the science of Iatrchemistry (chemical medicine), a major branch of Ayurveda. It contains Ayurvedic treatments for Fever and Diarrhea.
 
@@ -3422,10 +2932,7 @@ This concludes ‘Treatment for fever (112): Jvaranisudana rasa’ included in B
 
 ## 151. Treatment for fever (113): Chudamani rasa
 
-
 Rasa Jala Nidhi, vol 4: Iatrochemistry
-
-by Bhudeb Mookerjee | 1938 | 52,258 words | ISBN-10: 8170305829 | ISBN-13: 9788170305828
 
 This fourth volume of the Rasa-jala-nidhi deals with Rasa-chikitsa-vidya, also known a the science of Iatrchemistry (chemical medicine), a major branch of Ayurveda. It contains Ayurvedic treatments for Fever and Diarrhea.
 
@@ -3443,10 +2950,7 @@ This concludes ‘Treatment for fever (113): Chudamani rasa’ included in Bhude
 
 ## 152. Treatment for fever (114): Jvara-nrisimha rasa
 
-
 Rasa Jala Nidhi, vol 4: Iatrochemistry
-
-by Bhudeb Mookerjee | 1938 | 52,258 words | ISBN-10: 8170305829 | ISBN-13: 9788170305828
 
 This fourth volume of the Rasa-jala-nidhi deals with Rasa-chikitsa-vidya, also known a the science of Iatrchemistry (chemical medicine), a major branch of Ayurveda. It contains Ayurvedic treatments for Fever and Diarrhea.
 
@@ -3464,10 +2968,7 @@ This concludes ‘Treatment for fever (114): Jvara-nrisimha rasa’ included in 
 
 ## 153. Treatment for fever (115): Kasturi-bhusana rasa
 
-
 Rasa Jala Nidhi, vol 4: Iatrochemistry
-
-by Bhudeb Mookerjee | 1938 | 52,258 words | ISBN-10: 8170305829 | ISBN-13: 9788170305828
 
 This fourth volume of the Rasa-jala-nidhi deals with Rasa-chikitsa-vidya, also known a the science of Iatrchemistry (chemical medicine), a major branch of Ayurveda. It contains Ayurvedic treatments for Fever and Diarrhea.
 
@@ -3485,10 +2986,7 @@ This concludes ‘Treatment for fever (115): Kasturi-bhusana rasa’ included in
 
 ## 154. Treatment for fever (116): Suvarnadi rasa
 
-
 Rasa Jala Nidhi, vol 4: Iatrochemistry
-
-by Bhudeb Mookerjee | 1938 | 52,258 words | ISBN-10: 8170305829 | ISBN-13: 9788170305828
 
 This fourth volume of the Rasa-jala-nidhi deals with Rasa-chikitsa-vidya, also known a the science of Iatrchemistry (chemical medicine), a major branch of Ayurveda. It contains Ayurvedic treatments for Fever and Diarrhea.
 
@@ -3506,10 +3004,7 @@ This concludes ‘Treatment for fever (116): Suvarnadi rasa’ included in Bhude
 
 ## 155. Treatment for fever (118): Girisha-karuna rasa
 
-
 Rasa Jala Nidhi, vol 4: Iatrochemistry
-
-by Bhudeb Mookerjee | 1938 | 52,258 words | ISBN-10: 8170305829 | ISBN-13: 9788170305828
 
 This fourth volume of the Rasa-jala-nidhi deals with Rasa-chikitsa-vidya, also known a the science of Iatrchemistry (chemical medicine), a major branch of Ayurveda. It contains Ayurvedic treatments for Fever and Diarrhea.
 
@@ -3527,10 +3022,7 @@ This concludes ‘Treatment for fever (118): Girisha-karuna rasa’ included in 
 
 ## 156. Treatment for fever (119): Sharvari-ballava rasa
 
-
 Rasa Jala Nidhi, vol 4: Iatrochemistry
-
-by Bhudeb Mookerjee | 1938 | 52,258 words | ISBN-10: 8170305829 | ISBN-13: 9788170305828
 
 This fourth volume of the Rasa-jala-nidhi deals with Rasa-chikitsa-vidya, also known a the science of Iatrchemistry (chemical medicine), a major branch of Ayurveda. It contains Ayurvedic treatments for Fever and Diarrhea.
 
@@ -3548,10 +3040,7 @@ This concludes ‘Treatment for fever (119): Sharvari-ballava rasa’ included i
 
 ## 157. Treatment for fever (120): Vomiting in visama-jvara
 
-
 Rasa Jala Nidhi, vol 4: Iatrochemistry
-
-by Bhudeb Mookerjee | 1938 | 52,258 words | ISBN-10: 8170305829 | ISBN-13: 9788170305828
 
 This fourth volume of the Rasa-jala-nidhi deals with Rasa-chikitsa-vidya, also known a the science of Iatrchemistry (chemical medicine), a major branch of Ayurveda. It contains Ayurvedic treatments for Fever and Diarrhea.
 
@@ -3569,10 +3058,7 @@ This concludes ‘Treatment for fever (120): Vomiting in visama-jvara’ include
 
 ## 158. Treatment for fever (117): Ksemasundara rasa.
 
-
 Rasa Jala Nidhi, vol 4: Iatrochemistry
-
-by Bhudeb Mookerjee | 1938 | 52,258 words | ISBN-10: 8170305829 | ISBN-13: 9788170305828
 
 This fourth volume of the Rasa-jala-nidhi deals with Rasa-chikitsa-vidya, also known a the science of Iatrchemistry (chemical medicine), a major branch of Ayurveda. It contains Ayurvedic treatments for Fever and Diarrhea.
 
@@ -3590,10 +3076,7 @@ This concludes ‘Treatment for fever (117): Ksemasundara rasa.’ included in B
 
 ## 159. Treatment for fever (121): Anjana-bhairava
 
-
 Rasa Jala Nidhi, vol 4: Iatrochemistry
-
-by Bhudeb Mookerjee | 1938 | 52,258 words | ISBN-10: 8170305829 | ISBN-13: 9788170305828
 
 This fourth volume of the Rasa-jala-nidhi deals with Rasa-chikitsa-vidya, also known a the science of Iatrchemistry (chemical medicine), a major branch of Ayurveda. It contains Ayurvedic treatments for Fever and Diarrhea.
 
@@ -3611,10 +3094,7 @@ This concludes ‘Treatment for fever (121): Anjana-bhairava’ included in Bhud
 
 ## 160. Treatment for fever (122): Vatapittantaka rasa
 
-
 Rasa Jala Nidhi, vol 4: Iatrochemistry
-
-by Bhudeb Mookerjee | 1938 | 52,258 words | ISBN-10: 8170305829 | ISBN-13: 9788170305828
 
 This fourth volume of the Rasa-jala-nidhi deals with Rasa-chikitsa-vidya, also known a the science of Iatrchemistry (chemical medicine), a major branch of Ayurveda. It contains Ayurvedic treatments for Fever and Diarrhea.
 
@@ -3632,10 +3112,7 @@ This concludes ‘Treatment for fever (122): Vatapittantaka rasa’ included in 
 
 ## 161. Treatment for fever (123): Jvara-kunjara-parindra rasa
 
-
 Rasa Jala Nidhi, vol 4: Iatrochemistry
-
-by Bhudeb Mookerjee | 1938 | 52,258 words | ISBN-10: 8170305829 | ISBN-13: 9788170305828
 
 This fourth volume of the Rasa-jala-nidhi deals with Rasa-chikitsa-vidya, also known a the science of Iatrchemistry (chemical medicine), a major branch of Ayurveda. It contains Ayurvedic treatments for Fever and Diarrhea.
 
@@ -3653,10 +3130,7 @@ This concludes ‘Treatment for fever (123): Jvara-kunjara-parindra rasa’ incl
 
 ## 162. Treatment for fever (124): Tryahikari rasa
 
-
 Rasa Jala Nidhi, vol 4: Iatrochemistry
-
-by Bhudeb Mookerjee | 1938 | 52,258 words | ISBN-10: 8170305829 | ISBN-13: 9788170305828
 
 This fourth volume of the Rasa-jala-nidhi deals with Rasa-chikitsa-vidya, also known a the science of Iatrchemistry (chemical medicine), a major branch of Ayurveda. It contains Ayurvedic treatments for Fever and Diarrhea.
 
@@ -3674,10 +3148,7 @@ This concludes ‘Treatment for fever (124): Tryahikari rasa’ included in Bhud
 
 ## 163. Treatment for fever (125): Chaturthakari rasa
 
-
 Rasa Jala Nidhi, vol 4: Iatrochemistry
-
-by Bhudeb Mookerjee | 1938 | 52,258 words | ISBN-10: 8170305829 | ISBN-13: 9788170305828
 
 This fourth volume of the Rasa-jala-nidhi deals with Rasa-chikitsa-vidya, also known a the science of Iatrchemistry (chemical medicine), a major branch of Ayurveda. It contains Ayurvedic treatments for Fever and Diarrhea.
 
@@ -3695,10 +3166,7 @@ This concludes ‘Treatment for fever (125): Chaturthakari rasa’ included in B
 
 ## 164. Treatment for fever (127): Chandranatha rasa
 
-
 Rasa Jala Nidhi, vol 4: Iatrochemistry
-
-by Bhudeb Mookerjee | 1938 | 52,258 words | ISBN-10: 8170305829 | ISBN-13: 9788170305828
 
 This fourth volume of the Rasa-jala-nidhi deals with Rasa-chikitsa-vidya, also known a the science of Iatrchemistry (chemical medicine), a major branch of Ayurveda. It contains Ayurvedic treatments for Fever and Diarrhea.
 
@@ -3716,10 +3184,7 @@ This concludes ‘Treatment for fever (127): Chandranatha rasa’ included in Bh
 
 ## 165. Treatment for fever (128): Parna-khandeshvara rasa
 
-
 Rasa Jala Nidhi, vol 4: Iatrochemistry
-
-by Bhudeb Mookerjee | 1938 | 52,258 words | ISBN-10: 8170305829 | ISBN-13: 9788170305828
 
 This fourth volume of the Rasa-jala-nidhi deals with Rasa-chikitsa-vidya, also known a the science of Iatrchemistry (chemical medicine), a major branch of Ayurveda. It contains Ayurvedic treatments for Fever and Diarrhea.
 
@@ -3737,10 +3202,7 @@ This concludes ‘Treatment for fever (128): Parna-khandeshvara rasa’ included
 
 ## 166. Treatment for fever (129): Rasaraja rasa
 
-
 Rasa Jala Nidhi, vol 4: Iatrochemistry
-
-by Bhudeb Mookerjee | 1938 | 52,258 words | ISBN-10: 8170305829 | ISBN-13: 9788170305828
 
 This fourth volume of the Rasa-jala-nidhi deals with Rasa-chikitsa-vidya, also known a the science of Iatrchemistry (chemical medicine), a major branch of Ayurveda. It contains Ayurvedic treatments for Fever and Diarrhea.
 
@@ -3758,10 +3220,7 @@ This concludes ‘Treatment for fever (129): Rasaraja rasa’ included in Bhudeb
 
 ## 167. Treatment for fever (130): Jvarari rasa
 
-
 Rasa Jala Nidhi, vol 4: Iatrochemistry
-
-by Bhudeb Mookerjee | 1938 | 52,258 words | ISBN-10: 8170305829 | ISBN-13: 9788170305828
 
 This fourth volume of the Rasa-jala-nidhi deals with Rasa-chikitsa-vidya, also known a the science of Iatrchemistry (chemical medicine), a major branch of Ayurveda. It contains Ayurvedic treatments for Fever and Diarrhea.
 
@@ -3779,10 +3238,7 @@ This concludes ‘Treatment for fever (130): Jvarari rasa’ included in Bhudeb 
 
 ## 168. Treatment for fever (126): Vishveshvara rasa
 
-
 Rasa Jala Nidhi, vol 4: Iatrochemistry
-
-by Bhudeb Mookerjee | 1938 | 52,258 words | ISBN-10: 8170305829 | ISBN-13: 9788170305828
 
 This fourth volume of the Rasa-jala-nidhi deals with Rasa-chikitsa-vidya, also known a the science of Iatrchemistry (chemical medicine), a major branch of Ayurveda. It contains Ayurvedic treatments for Fever and Diarrhea.
 
@@ -3800,10 +3256,7 @@ This concludes ‘Treatment for fever (126): Vishveshvara rasa’ included in Bh
 
 ## 169. Treatment for fever (131): Jvarashani rasa
 
-
 Rasa Jala Nidhi, vol 4: Iatrochemistry
-
-by Bhudeb Mookerjee | 1938 | 52,258 words | ISBN-10: 8170305829 | ISBN-13: 9788170305828
 
 This fourth volume of the Rasa-jala-nidhi deals with Rasa-chikitsa-vidya, also known a the science of Iatrchemistry (chemical medicine), a major branch of Ayurveda. It contains Ayurvedic treatments for Fever and Diarrhea.
 
@@ -3821,10 +3274,7 @@ This concludes ‘Treatment for fever (131): Jvarashani rasa’ included in Bhud
 
 ## 170. Treatment for fever (132): Jvara-kalaketu rasa
 
-
 Rasa Jala Nidhi, vol 4: Iatrochemistry
-
-by Bhudeb Mookerjee | 1938 | 52,258 words | ISBN-10: 8170305829 | ISBN-13: 9788170305828
 
 This fourth volume of the Rasa-jala-nidhi deals with Rasa-chikitsa-vidya, also known a the science of Iatrchemistry (chemical medicine), a major branch of Ayurveda. It contains Ayurvedic treatments for Fever and Diarrhea.
 
@@ -3842,10 +3292,7 @@ This concludes ‘Treatment for fever (132): Jvara-kalaketu rasa’ included in 
 
 ## 171. Treatment for fever (133): Parvati-karuna rasa
 
-
 Rasa Jala Nidhi, vol 4: Iatrochemistry
-
-by Bhudeb Mookerjee | 1938 | 52,258 words | ISBN-10: 8170305829 | ISBN-13: 9788170305828
 
 This fourth volume of the Rasa-jala-nidhi deals with Rasa-chikitsa-vidya, also known a the science of Iatrchemistry (chemical medicine), a major branch of Ayurveda. It contains Ayurvedic treatments for Fever and Diarrhea.
 
@@ -3863,10 +3310,7 @@ This concludes ‘Treatment for fever (133): Parvati-karuna rasa’ included in 
 
 ## 172. Treatment for fever (134): Tripurari rasa
 
-
 Rasa Jala Nidhi, vol 4: Iatrochemistry
-
-by Bhudeb Mookerjee | 1938 | 52,258 words | ISBN-10: 8170305829 | ISBN-13: 9788170305828
 
 This fourth volume of the Rasa-jala-nidhi deals with Rasa-chikitsa-vidya, also known a the science of Iatrchemistry (chemical medicine), a major branch of Ayurveda. It contains Ayurvedic treatments for Fever and Diarrhea.
 
@@ -3884,10 +3328,7 @@ This concludes ‘Treatment for fever (134): Tripurari rasa’ included in Bhude
 
 ## 173. Treatment for fever (136): Purusottama rasa
 
-
 Rasa Jala Nidhi, vol 4: Iatrochemistry
-
-by Bhudeb Mookerjee | 1938 | 52,258 words | ISBN-10: 8170305829 | ISBN-13: 9788170305828
 
 This fourth volume of the Rasa-jala-nidhi deals with Rasa-chikitsa-vidya, also known a the science of Iatrchemistry (chemical medicine), a major branch of Ayurveda. It contains Ayurvedic treatments for Fever and Diarrhea.
 
@@ -3905,10 +3346,7 @@ This concludes ‘Treatment for fever (136): Purusottama rasa’ included in Bhu
 
 ## 174. Treatment for fever (137): Brahma-randhra rasa
 
-
 Rasa Jala Nidhi, vol 4: Iatrochemistry
-
-by Bhudeb Mookerjee | 1938 | 52,258 words | ISBN-10: 8170305829 | ISBN-13: 9788170305828
 
 This fourth volume of the Rasa-jala-nidhi deals with Rasa-chikitsa-vidya, also known a the science of Iatrchemistry (chemical medicine), a major branch of Ayurveda. It contains Ayurvedic treatments for Fever and Diarrhea.
 
@@ -3926,10 +3364,7 @@ This concludes ‘Treatment for fever (137): Brahma-randhra rasa’ included in 
 
 ## 175. Treatment for fever (135): Sarva-jvarankusha rasa
 
-
 Rasa Jala Nidhi, vol 4: Iatrochemistry
-
-by Bhudeb Mookerjee | 1938 | 52,258 words | ISBN-10: 8170305829 | ISBN-13: 9788170305828
 
 This fourth volume of the Rasa-jala-nidhi deals with Rasa-chikitsa-vidya, also known a the science of Iatrchemistry (chemical medicine), a major branch of Ayurveda. It contains Ayurvedic treatments for Fever and Diarrhea.
 
@@ -3947,10 +3382,7 @@ This concludes ‘Treatment for fever (135): Sarva-jvarankusha rasa’ included 
 
 ## 176. Treatment for fever (138): Svachchhanda-nayaka rasa
 
-
 Rasa Jala Nidhi, vol 4: Iatrochemistry
-
-by Bhudeb Mookerjee | 1938 | 52,258 words | ISBN-10: 8170305829 | ISBN-13: 9788170305828
 
 This fourth volume of the Rasa-jala-nidhi deals with Rasa-chikitsa-vidya, also known a the science of Iatrchemistry (chemical medicine), a major branch of Ayurveda. It contains Ayurvedic treatments for Fever and Diarrhea.
 
@@ -3968,10 +3400,7 @@ This concludes ‘Treatment for fever (138): Svachchhanda-nayaka rasa’ include
 
 ## 177. Treatment for fever (139): Shlesma-shailendra rasa
 
-
 Rasa Jala Nidhi, vol 4: Iatrochemistry
-
-by Bhudeb Mookerjee | 1938 | 52,258 words | ISBN-10: 8170305829 | ISBN-13: 9788170305828
 
 This fourth volume of the Rasa-jala-nidhi deals with Rasa-chikitsa-vidya, also known a the science of Iatrchemistry (chemical medicine), a major branch of Ayurveda. It contains Ayurvedic treatments for Fever and Diarrhea.
 
@@ -3989,10 +3418,7 @@ This concludes ‘Treatment for fever (139): Shlesma-shailendra rasa’ included
 
 ## 178. Treatment for fever (140): Parpati rasa
 
-
 Rasa Jala Nidhi, vol 4: Iatrochemistry
-
-by Bhudeb Mookerjee | 1938 | 52,258 words | ISBN-10: 8170305829 | ISBN-13: 9788170305828
 
 This fourth volume of the Rasa-jala-nidhi deals with Rasa-chikitsa-vidya, also known a the science of Iatrchemistry (chemical medicine), a major branch of Ayurveda. It contains Ayurvedic treatments for Fever and Diarrhea.
 
@@ -4010,10 +3436,7 @@ This concludes ‘Treatment for fever (140): Parpati rasa’ included in Bhudeb 
 
 ## 179. Treatment for fever (55): Shitari rasa
 
-
 Rasa Jala Nidhi, vol 4: Iatrochemistry
-
-by Bhudeb Mookerjee | 1938 | 52,258 words | ISBN-10: 8170305829 | ISBN-13: 9788170305828
 
 This fourth volume of the Rasa-jala-nidhi deals with Rasa-chikitsa-vidya, also known a the science of Iatrchemistry (chemical medicine), a major branch of Ayurveda. It contains Ayurvedic treatments for Fever and Diarrhea.
 
@@ -4031,10 +3454,7 @@ This concludes ‘Treatment for fever (55): Shitari rasa’ included in Bhudeb M
 
 ## 180. Treatment for fever (141): Lauha-samasta rasa
 
-
 Rasa Jala Nidhi, vol 4: Iatrochemistry
-
-by Bhudeb Mookerjee | 1938 | 52,258 words | ISBN-10: 8170305829 | ISBN-13: 9788170305828
 
 This fourth volume of the Rasa-jala-nidhi deals with Rasa-chikitsa-vidya, also known a the science of Iatrchemistry (chemical medicine), a major branch of Ayurveda. It contains Ayurvedic treatments for Fever and Diarrhea.
 
@@ -4052,10 +3472,7 @@ This concludes ‘Treatment for fever (141): Lauha-samasta rasa’ included in B
 
 ## 181. Treatment for fever (142): Laksmi-vilasa rasa
 
-
 Rasa Jala Nidhi, vol 4: Iatrochemistry
-
-by Bhudeb Mookerjee | 1938 | 52,258 words | ISBN-10: 8170305829 | ISBN-13: 9788170305828
 
 This fourth volume of the Rasa-jala-nidhi deals with Rasa-chikitsa-vidya, also known a the science of Iatrchemistry (chemical medicine), a major branch of Ayurveda. It contains Ayurvedic treatments for Fever and Diarrhea.
 
@@ -4073,10 +3490,7 @@ This concludes ‘Treatment for fever (142): Laksmi-vilasa rasa’ included in B
 
 ## 182. Treatment for fever (144): Sarva-jvara-hara lauham
 
-
 Rasa Jala Nidhi, vol 4: Iatrochemistry
-
-by Bhudeb Mookerjee | 1938 | 52,258 words | ISBN-10: 8170305829 | ISBN-13: 9788170305828
 
 This fourth volume of the Rasa-jala-nidhi deals with Rasa-chikitsa-vidya, also known a the science of Iatrchemistry (chemical medicine), a major branch of Ayurveda. It contains Ayurvedic treatments for Fever and Diarrhea.
 
@@ -4094,10 +3508,7 @@ This concludes ‘Treatment for fever (144): Sarva-jvara-hara lauham’ included
 
 ## 183. Treatment for fever (147): Vidya-vallabha rasa
 
-
 Rasa Jala Nidhi, vol 4: Iatrochemistry
-
-by Bhudeb Mookerjee | 1938 | 52,258 words | ISBN-10: 8170305829 | ISBN-13: 9788170305828
 
 This fourth volume of the Rasa-jala-nidhi deals with Rasa-chikitsa-vidya, also known a the science of Iatrchemistry (chemical medicine), a major branch of Ayurveda. It contains Ayurvedic treatments for Fever and Diarrhea.
 
@@ -4115,10 +3526,7 @@ This concludes ‘Treatment for fever (147): Vidya-vallabha rasa’ included in 
 
 ## 184. Treatment for fever (145): Kalpadruma rasa
 
-
 Rasa Jala Nidhi, vol 4: Iatrochemistry
-
-by Bhudeb Mookerjee | 1938 | 52,258 words | ISBN-10: 8170305829 | ISBN-13: 9788170305828
 
 This fourth volume of the Rasa-jala-nidhi deals with Rasa-chikitsa-vidya, also known a the science of Iatrchemistry (chemical medicine), a major branch of Ayurveda. It contains Ayurvedic treatments for Fever and Diarrhea.
 
@@ -4136,10 +3544,7 @@ This concludes ‘Treatment for fever (145): Kalpadruma rasa’ included in Bhud
 
 ## 185. Treatment for fever (149): Visama-jvarantaka rasa
 
-
 Rasa Jala Nidhi, vol 4: Iatrochemistry
-
-by Bhudeb Mookerjee | 1938 | 52,258 words | ISBN-10: 8170305829 | ISBN-13: 9788170305828
 
 This fourth volume of the Rasa-jala-nidhi deals with Rasa-chikitsa-vidya, also known a the science of Iatrchemistry (chemical medicine), a major branch of Ayurveda. It contains Ayurvedic treatments for Fever and Diarrhea.
 
@@ -4157,10 +3562,7 @@ This concludes ‘Treatment for fever (149): Visama-jvarantaka rasa’ included 
 
 ## 186. Treatment for fever (143): Maharaja rasa
 
-
 Rasa Jala Nidhi, vol 4: Iatrochemistry
-
-by Bhudeb Mookerjee | 1938 | 52,258 words | ISBN-10: 8170305829 | ISBN-13: 9788170305828
 
 This fourth volume of the Rasa-jala-nidhi deals with Rasa-chikitsa-vidya, also known a the science of Iatrchemistry (chemical medicine), a major branch of Ayurveda. It contains Ayurvedic treatments for Fever and Diarrhea.
 
@@ -4178,10 +3580,7 @@ This concludes ‘Treatment for fever (143): Maharaja rasa’ included in Bhudeb
 
 ## 187. Treatment for fever (148): Jaya-mangala rasa
 
-
 Rasa Jala Nidhi, vol 4: Iatrochemistry
-
-by Bhudeb Mookerjee | 1938 | 52,258 words | ISBN-10: 8170305829 | ISBN-13: 9788170305828
 
 This fourth volume of the Rasa-jala-nidhi deals with Rasa-chikitsa-vidya, also known a the science of Iatrchemistry (chemical medicine), a major branch of Ayurveda. It contains Ayurvedic treatments for Fever and Diarrhea.
 
@@ -4199,10 +3598,7 @@ This concludes ‘Treatment for fever (148): Jaya-mangala rasa’ included in Bh
 
 ## 188. Treatment for fever (150): Saranana rasa
 
-
 Rasa Jala Nidhi, vol 4: Iatrochemistry
-
-by Bhudeb Mookerjee | 1938 | 52,258 words | ISBN-10: 8170305829 | ISBN-13: 9788170305828
 
 This fourth volume of the Rasa-jala-nidhi deals with Rasa-chikitsa-vidya, also known a the science of Iatrchemistry (chemical medicine), a major branch of Ayurveda. It contains Ayurvedic treatments for Fever and Diarrhea.
 
@@ -4220,10 +3616,7 @@ This concludes ‘Treatment for fever (150): Saranana rasa’ included in Bhudeb
 
 ## 189. Treatment for fever (151): Vasanta-malati rasa
 
-
 Rasa Jala Nidhi, vol 4: Iatrochemistry
-
-by Bhudeb Mookerjee | 1938 | 52,258 words | ISBN-10: 8170305829 | ISBN-13: 9788170305828
 
 This fourth volume of the Rasa-jala-nidhi deals with Rasa-chikitsa-vidya, also known a the science of Iatrchemistry (chemical medicine), a major branch of Ayurveda. It contains Ayurvedic treatments for Fever and Diarrhea.
 
@@ -4241,10 +3634,7 @@ This concludes ‘Treatment for fever (151): Vasanta-malati rasa’ included in 
 
 ## 190. Treatment for fever (65): Arogya-chintamani rasa
 
-
 Rasa Jala Nidhi, vol 4: Iatrochemistry
-
-by Bhudeb Mookerjee | 1938 | 52,258 words | ISBN-10: 8170305829 | ISBN-13: 9788170305828
 
 This fourth volume of the Rasa-jala-nidhi deals with Rasa-chikitsa-vidya, also known a the science of Iatrchemistry (chemical medicine), a major branch of Ayurveda. It contains Ayurvedic treatments for Fever and Diarrhea.
 
@@ -4262,10 +3652,7 @@ This concludes ‘Treatment for fever (65): Arogya-chintamani rasa’ included i
 
 ## 191. Treatment for fever (152): Visama-jvara-hrid rasa
 
-
 Rasa Jala Nidhi, vol 4: Iatrochemistry
-
-by Bhudeb Mookerjee | 1938 | 52,258 words | ISBN-10: 8170305829 | ISBN-13: 9788170305828
 
 This fourth volume of the Rasa-jala-nidhi deals with Rasa-chikitsa-vidya, also known a the science of Iatrchemistry (chemical medicine), a major branch of Ayurveda. It contains Ayurvedic treatments for Fever and Diarrhea.
 
@@ -4283,10 +3670,7 @@ This concludes ‘Treatment for fever (152): Visama-jvara-hrid rasa’ included 
 
 ## 192. Treatment for fever (155): Himangshu-shekkara rasa
 
-
 Rasa Jala Nidhi, vol 4: Iatrochemistry
-
-by Bhudeb Mookerjee | 1938 | 52,258 words | ISBN-10: 8170305829 | ISBN-13: 9788170305828
 
 This fourth volume of the Rasa-jala-nidhi deals with Rasa-chikitsa-vidya, also known a the science of Iatrchemistry (chemical medicine), a major branch of Ayurveda. It contains Ayurvedic treatments for Fever and Diarrhea.
 
@@ -4304,10 +3688,7 @@ This concludes ‘Treatment for fever (155): Himangshu-shekkara rasa’ included
 
 ## 193. Treatment for fever (154): Chira-sundara rasa
 
-
 Rasa Jala Nidhi, vol 4: Iatrochemistry
-
-by Bhudeb Mookerjee | 1938 | 52,258 words | ISBN-10: 8170305829 | ISBN-13: 9788170305828
 
 This fourth volume of the Rasa-jala-nidhi deals with Rasa-chikitsa-vidya, also known a the science of Iatrchemistry (chemical medicine), a major branch of Ayurveda. It contains Ayurvedic treatments for Fever and Diarrhea.
 
@@ -4325,10 +3706,7 @@ This concludes ‘Treatment for fever (154): Chira-sundara rasa’ included in B
 
 ## 194. Treatment for fever (153): Purnanada rasa
 
-
 Rasa Jala Nidhi, vol 4: Iatrochemistry
-
-by Bhudeb Mookerjee | 1938 | 52,258 words | ISBN-10: 8170305829 | ISBN-13: 9788170305828
 
 This fourth volume of the Rasa-jala-nidhi deals with Rasa-chikitsa-vidya, also known a the science of Iatrchemistry (chemical medicine), a major branch of Ayurveda. It contains Ayurvedic treatments for Fever and Diarrhea.
 
@@ -4346,10 +3724,7 @@ This concludes ‘Treatment for fever (153): Purnanada rasa’ included in Bhude
 
 ## 195. Treatment for fever (156): Mritajivana rasa
 
-
 Rasa Jala Nidhi, vol 4: Iatrochemistry
-
-by Bhudeb Mookerjee | 1938 | 52,258 words | ISBN-10: 8170305829 | ISBN-13: 9788170305828
 
 This fourth volume of the Rasa-jala-nidhi deals with Rasa-chikitsa-vidya, also known a the science of Iatrchemistry (chemical medicine), a major branch of Ayurveda. It contains Ayurvedic treatments for Fever and Diarrhea.
 
@@ -4367,10 +3742,7 @@ This concludes ‘Treatment for fever (156): Mritajivana rasa’ included in Bhu
 
 ## 196. Treatment for fever (157): Panchanana rasa
 
-
 Rasa Jala Nidhi, vol 4: Iatrochemistry
-
-by Bhudeb Mookerjee | 1938 | 52,258 words | ISBN-10: 8170305829 | ISBN-13: 9788170305828
 
 This fourth volume of the Rasa-jala-nidhi deals with Rasa-chikitsa-vidya, also known a the science of Iatrchemistry (chemical medicine), a major branch of Ayurveda. It contains Ayurvedic treatments for Fever and Diarrhea.
 
@@ -4388,10 +3760,7 @@ This concludes ‘Treatment for fever (157): Panchanana rasa’ included in Bhud
 
 ## 197. Treatment for fever (159): Chaturthaka-nivarana rasa
 
-
 Rasa Jala Nidhi, vol 4: Iatrochemistry
-
-by Bhudeb Mookerjee | 1938 | 52,258 words | ISBN-10: 8170305829 | ISBN-13: 9788170305828
 
 This fourth volume of the Rasa-jala-nidhi deals with Rasa-chikitsa-vidya, also known a the science of Iatrchemistry (chemical medicine), a major branch of Ayurveda. It contains Ayurvedic treatments for Fever and Diarrhea.
 
@@ -4409,10 +3778,7 @@ This concludes ‘Treatment for fever (159): Chaturthaka-nivarana rasa’ includ
 
 ## 198. Treatment for fever (160): Chaturthaka-gajankusha rasa
 
-
 Rasa Jala Nidhi, vol 4: Iatrochemistry
-
-by Bhudeb Mookerjee | 1938 | 52,258 words | ISBN-10: 8170305829 | ISBN-13: 9788170305828
 
 This fourth volume of the Rasa-jala-nidhi deals with Rasa-chikitsa-vidya, also known a the science of Iatrchemistry (chemical medicine), a major branch of Ayurveda. It contains Ayurvedic treatments for Fever and Diarrhea.
 
@@ -4430,10 +3796,7 @@ This concludes ‘Treatment for fever (160): Chaturthaka-gajankusha rasa’ incl
 
 ## 199. Treatment for fever (161): Bhuta-bhabana rasa
 
-
 Rasa Jala Nidhi, vol 4: Iatrochemistry
-
-by Bhudeb Mookerjee | 1938 | 52,258 words | ISBN-10: 8170305829 | ISBN-13: 9788170305828
 
 This fourth volume of the Rasa-jala-nidhi deals with Rasa-chikitsa-vidya, also known a the science of Iatrchemistry (chemical medicine), a major branch of Ayurveda. It contains Ayurvedic treatments for Fever and Diarrhea.
 
@@ -4451,10 +3814,7 @@ This concludes ‘Treatment for fever (161): Bhuta-bhabana rasa’ included in B
 
 ## 200. Treatment for fever (162): Shitaghna rasa
 
-
 Rasa Jala Nidhi, vol 4: Iatrochemistry
-
-by Bhudeb Mookerjee | 1938 | 52,258 words | ISBN-10: 8170305829 | ISBN-13: 9788170305828
 
 This fourth volume of the Rasa-jala-nidhi deals with Rasa-chikitsa-vidya, also known a the science of Iatrchemistry (chemical medicine), a major branch of Ayurveda. It contains Ayurvedic treatments for Fever and Diarrhea.
 
@@ -4472,10 +3832,7 @@ This concludes ‘Treatment for fever (162): Shitaghna rasa’ included in Bhude
 
 ## 201. Treatment for fever (164): Vikrama-keshari rasa
 
-
 Rasa Jala Nidhi, vol 4: Iatrochemistry
-
-by Bhudeb Mookerjee | 1938 | 52,258 words | ISBN-10: 8170305829 | ISBN-13: 9788170305828
 
 This fourth volume of the Rasa-jala-nidhi deals with Rasa-chikitsa-vidya, also known a the science of Iatrchemistry (chemical medicine), a major branch of Ayurveda. It contains Ayurvedic treatments for Fever and Diarrhea.
 
@@ -4493,10 +3850,7 @@ This concludes ‘Treatment for fever (164): Vikrama-keshari rasa’ included in
 
 ## 202. Treatment for fever (165): Meghanada rasa (2)
 
-
 Rasa Jala Nidhi, vol 4: Iatrochemistry
-
-by Bhudeb Mookerjee | 1938 | 52,258 words | ISBN-10: 8170305829 | ISBN-13: 9788170305828
 
 This fourth volume of the Rasa-jala-nidhi deals with Rasa-chikitsa-vidya, also known a the science of Iatrchemistry (chemical medicine), a major branch of Ayurveda. It contains Ayurvedic treatments for Fever and Diarrhea.
 
@@ -4514,10 +3868,7 @@ This concludes ‘Treatment for fever (165): Meghanada rasa (2)’ included in B
 
 ## 203. Treatment for fever (166): Chaturthaka-nisudana rasa
 
-
 Rasa Jala Nidhi, vol 4: Iatrochemistry
-
-by Bhudeb Mookerjee | 1938 | 52,258 words | ISBN-10: 8170305829 | ISBN-13: 9788170305828
 
 This fourth volume of the Rasa-jala-nidhi deals with Rasa-chikitsa-vidya, also known a the science of Iatrchemistry (chemical medicine), a major branch of Ayurveda. It contains Ayurvedic treatments for Fever and Diarrhea.
 
@@ -4535,10 +3886,7 @@ This concludes ‘Treatment for fever (166): Chaturthaka-nisudana rasa’ includ
 
 ## 204. Treatment for fever (163): Brihat-jvarantaka lauha
 
-
 Rasa Jala Nidhi, vol 4: Iatrochemistry
-
-by Bhudeb Mookerjee | 1938 | 52,258 words | ISBN-10: 8170305829 | ISBN-13: 9788170305828
 
 This fourth volume of the Rasa-jala-nidhi deals with Rasa-chikitsa-vidya, also known a the science of Iatrchemistry (chemical medicine), a major branch of Ayurveda. It contains Ayurvedic treatments for Fever and Diarrhea.
 
@@ -4556,10 +3904,7 @@ This concludes ‘Treatment for fever (163): Brihat-jvarantaka lauha’ included
 
 ## 205. Treatment for fever (167): Digambara rasa
 
-
 Rasa Jala Nidhi, vol 4: Iatrochemistry
-
-by Bhudeb Mookerjee | 1938 | 52,258 words | ISBN-10: 8170305829 | ISBN-13: 9788170305828
 
 This fourth volume of the Rasa-jala-nidhi deals with Rasa-chikitsa-vidya, also known a the science of Iatrchemistry (chemical medicine), a major branch of Ayurveda. It contains Ayurvedic treatments for Fever and Diarrhea.
 
@@ -4577,10 +3922,7 @@ This concludes ‘Treatment for fever (167): Digambara rasa’ included in Bhude
 
 ## 206. Treatment for fever (168): Umaprasadana rasa
 
-
 Rasa Jala Nidhi, vol 4: Iatrochemistry
-
-by Bhudeb Mookerjee | 1938 | 52,258 words | ISBN-10: 8170305829 | ISBN-13: 9788170305828
 
 This fourth volume of the Rasa-jala-nidhi deals with Rasa-chikitsa-vidya, also known a the science of Iatrchemistry (chemical medicine), a major branch of Ayurveda. It contains Ayurvedic treatments for Fever and Diarrhea.
 
@@ -4598,10 +3940,7 @@ This concludes ‘Treatment for fever (168): Umaprasadana rasa’ included in Bh
 
 ## 207. Treatment for fever (169): Jvarankusha rasa
 
-
 Rasa Jala Nidhi, vol 4: Iatrochemistry
-
-by Bhudeb Mookerjee | 1938 | 52,258 words | ISBN-10: 8170305829 | ISBN-13: 9788170305828
 
 This fourth volume of the Rasa-jala-nidhi deals with Rasa-chikitsa-vidya, also known a the science of Iatrchemistry (chemical medicine), a major branch of Ayurveda. It contains Ayurvedic treatments for Fever and Diarrhea.
 
@@ -4619,10 +3958,7 @@ This concludes ‘Treatment for fever (169): Jvarankusha rasa’ included in Bhu
 
 ## 208. Application of parpati
 
-
 Rasa Jala Nidhi, vol 4: Iatrochemistry
-
-by Bhudeb Mookerjee | 1938 | 52,258 words | ISBN-10: 8170305829 | ISBN-13: 9788170305828
 
 This fourth volume of the Rasa-jala-nidhi deals with Rasa-chikitsa-vidya, also known a the science of Iatrchemistry (chemical medicine), a major branch of Ayurveda. It contains Ayurvedic treatments for Fever and Diarrhea.
 
@@ -4640,10 +3976,7 @@ This concludes ‘Application of parpati’ included in Bhudeb Mookerjee Rasa Ja
 
 ## 209. Treatment for fever (170): Chandrodaya rasa
 
-
 Rasa Jala Nidhi, vol 4: Iatrochemistry
-
-by Bhudeb Mookerjee | 1938 | 52,258 words | ISBN-10: 8170305829 | ISBN-13: 9788170305828
 
 This fourth volume of the Rasa-jala-nidhi deals with Rasa-chikitsa-vidya, also known a the science of Iatrchemistry (chemical medicine), a major branch of Ayurveda. It contains Ayurvedic treatments for Fever and Diarrhea.
 
@@ -4661,10 +3994,7 @@ This concludes ‘Treatment for fever (170): Chandrodaya rasa’ included in Bhu
 
 ## 210. Part 1 - Symptoms of the Jvaratisara disease
 
-
 Rasa Jala Nidhi, vol 4: Iatrochemistry
-
-by Bhudeb Mookerjee | 1938 | 52,258 words | ISBN-10: 8170305829 | ISBN-13: 9788170305828
 
 This fourth volume of the Rasa-jala-nidhi deals with Rasa-chikitsa-vidya, also known a the science of Iatrchemistry (chemical medicine), a major branch of Ayurveda. It contains Ayurvedic treatments for Fever and Diarrhea.
 
@@ -4684,10 +4014,7 @@ This concludes ‘Symptoms of the Jvaratisara disease’ included in Bhudeb Mook
 
 ## 211. Part 2 - Treatment for fever with diarrhea (1): Sukha-sanjivani rasa
 
-
 Rasa Jala Nidhi, vol 4: Iatrochemistry
-
-by Bhudeb Mookerjee | 1938 | 52,258 words | ISBN-10: 8170305829 | ISBN-13: 9788170305828
 
 This fourth volume of the Rasa-jala-nidhi deals with Rasa-chikitsa-vidya, also known a the science of Iatrchemistry (chemical medicine), a major branch of Ayurveda. It contains Ayurvedic treatments for Fever and Diarrhea.
 
@@ -4705,10 +4032,7 @@ This concludes ‘Treatment for fever with diarrhea (1): Sukha-sanjivani rasa’
 
 ## 212. Part 3 - Treatment for fever with diarrhea (2): Siddha-praneshvara rasa
 
-
 Rasa Jala Nidhi, vol 4: Iatrochemistry
-
-by Bhudeb Mookerjee | 1938 | 52,258 words | ISBN-10: 8170305829 | ISBN-13: 9788170305828
 
 This fourth volume of the Rasa-jala-nidhi deals with Rasa-chikitsa-vidya, also known a the science of Iatrchemistry (chemical medicine), a major branch of Ayurveda. It contains Ayurvedic treatments for Fever and Diarrhea.
 
@@ -4726,10 +4050,7 @@ This concludes ‘Treatment for fever with diarrhea (2): Siddha-praneshvara rasa
 
 ## 213. Chapter III - Jvaratisara fever with diarrhoea
 
-
 Rasa Jala Nidhi, vol 4: Iatrochemistry
-
-by Bhudeb Mookerjee | 1938 | 52,258 words | ISBN-10: 8170305829 | ISBN-13: 9788170305828
 
 This fourth volume of the Rasa-jala-nidhi deals with Rasa-chikitsa-vidya, also known a the science of Iatrchemistry (chemical medicine), a major branch of Ayurveda. It contains Ayurvedic treatments for Fever and Diarrhea.
 
@@ -4747,10 +4068,7 @@ This concludes ‘Jvaratisara fever with diarrhoea’ included in Bhudeb Mookerj
 
 ## 214. Part 4 - Treatment for fever with diarrhea (3): Kanaka-sundara rasa
 
-
 Rasa Jala Nidhi, vol 4: Iatrochemistry
-
-by Bhudeb Mookerjee | 1938 | 52,258 words | ISBN-10: 8170305829 | ISBN-13: 9788170305828
 
 This fourth volume of the Rasa-jala-nidhi deals with Rasa-chikitsa-vidya, also known a the science of Iatrchemistry (chemical medicine), a major branch of Ayurveda. It contains Ayurvedic treatments for Fever and Diarrhea.
 
@@ -4768,10 +4086,7 @@ This concludes ‘Treatment for fever with diarrhea (3): Kanaka-sundara rasa’ 
 
 ## 215. Part 5 - Treatment for fever with diarrhea (4): Kanaka-prabha rasa
 
-
 Rasa Jala Nidhi, vol 4: Iatrochemistry
-
-by Bhudeb Mookerjee | 1938 | 52,258 words | ISBN-10: 8170305829 | ISBN-13: 9788170305828
 
 This fourth volume of the Rasa-jala-nidhi deals with Rasa-chikitsa-vidya, also known a the science of Iatrchemistry (chemical medicine), a major branch of Ayurveda. It contains Ayurvedic treatments for Fever and Diarrhea.
 
@@ -4789,10 +4104,7 @@ This concludes ‘Treatment for fever with diarrhea (4): Kanaka-prabha rasa’ i
 
 ## 216. Part 7 - Treatment for fever with diarrhea (6): Preta-sanjivana rasa
 
-
 Rasa Jala Nidhi, vol 4: Iatrochemistry
-
-by Bhudeb Mookerjee | 1938 | 52,258 words | ISBN-10: 8170305829 | ISBN-13: 9788170305828
 
 This fourth volume of the Rasa-jala-nidhi deals with Rasa-chikitsa-vidya, also known a the science of Iatrchemistry (chemical medicine), a major branch of Ayurveda. It contains Ayurvedic treatments for Fever and Diarrhea.
 
@@ -4810,10 +4122,7 @@ This concludes ‘Treatment for fever with diarrhea (6): Preta-sanjivana rasa’
 
 ## 217. Part 8 - Diet in fever with diarrhoea
 
-
 Rasa Jala Nidhi, vol 4: Iatrochemistry
-
-by Bhudeb Mookerjee | 1938 | 52,258 words | ISBN-10: 8170305829 | ISBN-13: 9788170305828
 
 This fourth volume of the Rasa-jala-nidhi deals with Rasa-chikitsa-vidya, also known a the science of Iatrchemistry (chemical medicine), a major branch of Ayurveda. It contains Ayurvedic treatments for Fever and Diarrhea.
 
@@ -4831,10 +4140,7 @@ This concludes ‘Diet in fever with diarrhoea’ included in Bhudeb Mookerjee R
 
 ## 218. Part 6 - Treatment for fever with diarrhea (5): Gagana-sundara rasa
 
-
 Rasa Jala Nidhi, vol 4: Iatrochemistry
-
-by Bhudeb Mookerjee | 1938 | 52,258 words | ISBN-10: 8170305829 | ISBN-13: 9788170305828
 
 This fourth volume of the Rasa-jala-nidhi deals with Rasa-chikitsa-vidya, also known a the science of Iatrchemistry (chemical medicine), a major branch of Ayurveda. It contains Ayurvedic treatments for Fever and Diarrhea.
 
@@ -4852,10 +4158,7 @@ This concludes ‘Treatment for fever with diarrhea (5): Gagana-sundara rasa’ 
 
 ## 219. Part 10 - Treatment for diarrhea (1): Abhaya-nrisingha rasa
 
-
 Rasa Jala Nidhi, vol 4: Iatrochemistry
-
-by Bhudeb Mookerjee | 1938 | 52,258 words | ISBN-10: 8170305829 | ISBN-13: 9788170305828
 
 This fourth volume of the Rasa-jala-nidhi deals with Rasa-chikitsa-vidya, also known a the science of Iatrchemistry (chemical medicine), a major branch of Ayurveda. It contains Ayurvedic treatments for Fever and Diarrhea.
 
@@ -4873,10 +4176,7 @@ This concludes ‘Treatment for diarrhea (1): Abhaya-nrisingha rasa’ included 
 
 ## 220. Part 9 - Diarrhoea (atisara): its causes
 
-
 Rasa Jala Nidhi, vol 4: Iatrochemistry
-
-by Bhudeb Mookerjee | 1938 | 52,258 words | ISBN-10: 8170305829 | ISBN-13: 9788170305828
 
 This fourth volume of the Rasa-jala-nidhi deals with Rasa-chikitsa-vidya, also known a the science of Iatrchemistry (chemical medicine), a major branch of Ayurveda. It contains Ayurvedic treatments for Fever and Diarrhea.
 
@@ -4896,10 +4196,7 @@ This concludes ‘Diarrhoea (atisara): its causes’ included in Bhudeb Mookerje
 
 ## 221. Part 11 - Treatment for diarrhea (2): Praneshvara rasa
 
-
 Rasa Jala Nidhi, vol 4: Iatrochemistry
-
-by Bhudeb Mookerjee | 1938 | 52,258 words | ISBN-10: 8170305829 | ISBN-13: 9788170305828
 
 This fourth volume of the Rasa-jala-nidhi deals with Rasa-chikitsa-vidya, also known a the science of Iatrchemistry (chemical medicine), a major branch of Ayurveda. It contains Ayurvedic treatments for Fever and Diarrhea.
 
@@ -4917,10 +4214,7 @@ This concludes ‘Treatment for diarrhea (2): Praneshvara rasa’ included in Bh
 
 ## 222. Part 12 - Treatment for diarrhea (3): Amritarnava rasa
 
-
 Rasa Jala Nidhi, vol 4: Iatrochemistry
-
-by Bhudeb Mookerjee | 1938 | 52,258 words | ISBN-10: 8170305829 | ISBN-13: 9788170305828
 
 This fourth volume of the Rasa-jala-nidhi deals with Rasa-chikitsa-vidya, also known a the science of Iatrchemistry (chemical medicine), a major branch of Ayurveda. It contains Ayurvedic treatments for Fever and Diarrhea.
 
@@ -4938,10 +4232,7 @@ This concludes ‘Treatment for diarrhea (3): Amritarnava rasa’ included in Bh
 
 ## 223. Part 14 - Treatment for diarrhea (5): Ananda-bhairava rasa
 
-
 Rasa Jala Nidhi, vol 4: Iatrochemistry
-
-by Bhudeb Mookerjee | 1938 | 52,258 words | ISBN-10: 8170305829 | ISBN-13: 9788170305828
 
 This fourth volume of the Rasa-jala-nidhi deals with Rasa-chikitsa-vidya, also known a the science of Iatrchemistry (chemical medicine), a major branch of Ayurveda. It contains Ayurvedic treatments for Fever and Diarrhea.
 
@@ -4959,10 +4250,7 @@ This concludes ‘Treatment for diarrhea (5): Ananda-bhairava rasa’ included i
 
 ## 224. Part 13 - Treatment for diarrhea (4): Dardura rasa
 
-
 Rasa Jala Nidhi, vol 4: Iatrochemistry
-
-by Bhudeb Mookerjee | 1938 | 52,258 words | ISBN-10: 8170305829 | ISBN-13: 9788170305828
 
 This fourth volume of the Rasa-jala-nidhi deals with Rasa-chikitsa-vidya, also known a the science of Iatrchemistry (chemical medicine), a major branch of Ayurveda. It contains Ayurvedic treatments for Fever and Diarrhea.
 
@@ -4980,10 +4268,7 @@ This concludes ‘Treatment for diarrhea (4): Dardura rasa’ included in Bhudeb
 
 ## 225. Part 15 - Treatment for diarrhea (6): Sudha-sara rasa
 
-
 Rasa Jala Nidhi, vol 4: Iatrochemistry
-
-by Bhudeb Mookerjee | 1938 | 52,258 words | ISBN-10: 8170305829 | ISBN-13: 9788170305828
 
 This fourth volume of the Rasa-jala-nidhi deals with Rasa-chikitsa-vidya, also known a the science of Iatrchemistry (chemical medicine), a major branch of Ayurveda. It contains Ayurvedic treatments for Fever and Diarrhea.
 
@@ -5001,10 +4286,7 @@ This concludes ‘Treatment for diarrhea (6): Sudha-sara rasa’ included in Bhu
 
 ## 226. Part 17 - Treatment for diarrhea (8): Sudha-sindhu rasa
 
-
 Rasa Jala Nidhi, vol 4: Iatrochemistry
-
-by Bhudeb Mookerjee | 1938 | 52,258 words | ISBN-10: 8170305829 | ISBN-13: 9788170305828
 
 This fourth volume of the Rasa-jala-nidhi deals with Rasa-chikitsa-vidya, also known a the science of Iatrchemistry (chemical medicine), a major branch of Ayurveda. It contains Ayurvedic treatments for Fever and Diarrhea.
 
@@ -5022,10 +4304,7 @@ This concludes ‘Treatment for diarrhea (8): Sudha-sindhu rasa’ included in B
 
 ## 227. Part 18 - Treatment for diarrhea (9): Vishvanatha rasa
 
-
 Rasa Jala Nidhi, vol 4: Iatrochemistry
-
-by Bhudeb Mookerjee | 1938 | 52,258 words | ISBN-10: 8170305829 | ISBN-13: 9788170305828
 
 This fourth volume of the Rasa-jala-nidhi deals with Rasa-chikitsa-vidya, also known a the science of Iatrchemistry (chemical medicine), a major branch of Ayurveda. It contains Ayurvedic treatments for Fever and Diarrhea.
 
@@ -5043,10 +4322,7 @@ This concludes ‘Treatment for diarrhea (9): Vishvanatha rasa’ included in Bh
 
 ## 228. Part 16 - Treatment for diarrhea (7): Naga-sundara rasa
 
-
 Rasa Jala Nidhi, vol 4: Iatrochemistry
-
-by Bhudeb Mookerjee | 1938 | 52,258 words | ISBN-10: 8170305829 | ISBN-13: 9788170305828
 
 This fourth volume of the Rasa-jala-nidhi deals with Rasa-chikitsa-vidya, also known a the science of Iatrchemistry (chemical medicine), a major branch of Ayurveda. It contains Ayurvedic treatments for Fever and Diarrhea.
 
@@ -5064,10 +4340,7 @@ This concludes ‘Treatment for diarrhea (7): Naga-sundara rasa’ included in B
 
 ## 229. Part 20 - Treatment for diarrhea (11): Purna-chandrodaya rasa
 
-
 Rasa Jala Nidhi, vol 4: Iatrochemistry
-
-by Bhudeb Mookerjee | 1938 | 52,258 words | ISBN-10: 8170305829 | ISBN-13: 9788170305828
 
 This fourth volume of the Rasa-jala-nidhi deals with Rasa-chikitsa-vidya, also known a the science of Iatrchemistry (chemical medicine), a major branch of Ayurveda. It contains Ayurvedic treatments for Fever and Diarrhea.
 
@@ -5085,10 +4358,7 @@ This concludes ‘Treatment for diarrhea (11): Purna-chandrodaya rasa’ include
 
 ## 230. Part 21 - Treatment for diarrhea (12): Karunya-sagara rasa
 
-
 Rasa Jala Nidhi, vol 4: Iatrochemistry
-
-by Bhudeb Mookerjee | 1938 | 52,258 words | ISBN-10: 8170305829 | ISBN-13: 9788170305828
 
 This fourth volume of the Rasa-jala-nidhi deals with Rasa-chikitsa-vidya, also known a the science of Iatrchemistry (chemical medicine), a major branch of Ayurveda. It contains Ayurvedic treatments for Fever and Diarrhea.
 
@@ -5106,10 +4376,7 @@ This concludes ‘Treatment for diarrhea (12): Karunya-sagara rasa’ included i
 
 ## 231. Part 19 - Treatment for diarrhea (10): Girisha-sundara rasa
 
-
 Rasa Jala Nidhi, vol 4: Iatrochemistry
-
-by Bhudeb Mookerjee | 1938 | 52,258 words | ISBN-10: 8170305829 | ISBN-13: 9788170305828
 
 This fourth volume of the Rasa-jala-nidhi deals with Rasa-chikitsa-vidya, also known a the science of Iatrchemistry (chemical medicine), a major branch of Ayurveda. It contains Ayurvedic treatments for Fever and Diarrhea.
 
@@ -5127,10 +4394,7 @@ This concludes ‘Treatment for diarrhea (10): Girisha-sundara rasa’ included 
 
 ## 232. Part 22 - Treatment for diarrhea (13): Ananda-vaibhava rasa
 
-
 Rasa Jala Nidhi, vol 4: Iatrochemistry
-
-by Bhudeb Mookerjee | 1938 | 52,258 words | ISBN-10: 8170305829 | ISBN-13: 9788170305828
 
 This fourth volume of the Rasa-jala-nidhi deals with Rasa-chikitsa-vidya, also known a the science of Iatrchemistry (chemical medicine), a major branch of Ayurveda. It contains Ayurvedic treatments for Fever and Diarrhea.
 
@@ -5148,10 +4412,7 @@ This concludes ‘Treatment for diarrhea (13): Ananda-vaibhava rasa’ included 
 
 ## 233. Part 23 - Treatment for diarrhea (14): Pratapa-bhairava rasa
 
-
 Rasa Jala Nidhi, vol 4: Iatrochemistry
-
-by Bhudeb Mookerjee | 1938 | 52,258 words | ISBN-10: 8170305829 | ISBN-13: 9788170305828
 
 This fourth volume of the Rasa-jala-nidhi deals with Rasa-chikitsa-vidya, also known a the science of Iatrchemistry (chemical medicine), a major branch of Ayurveda. It contains Ayurvedic treatments for Fever and Diarrhea.
 
@@ -5169,10 +4430,7 @@ This concludes ‘Treatment for diarrhea (14): Pratapa-bhairava rasa’ included
 
 ## 234. Part 24 - Treatment for diarrhea (15): Makesha-mangala rasa
 
-
 Rasa Jala Nidhi, vol 4: Iatrochemistry
-
-by Bhudeb Mookerjee | 1938 | 52,258 words | ISBN-10: 8170305829 | ISBN-13: 9788170305828
 
 This fourth volume of the Rasa-jala-nidhi deals with Rasa-chikitsa-vidya, also known a the science of Iatrchemistry (chemical medicine), a major branch of Ayurveda. It contains Ayurvedic treatments for Fever and Diarrhea.
 
@@ -5190,10 +4448,7 @@ This concludes ‘Treatment for diarrhea (15): Makesha-mangala rasa’ included 
 
 ## 235. Part 26 - Treatment for diarrhea (17): Sadniska-taila
 
-
 Rasa Jala Nidhi, vol 4: Iatrochemistry
-
-by Bhudeb Mookerjee | 1938 | 52,258 words | ISBN-10: 8170305829 | ISBN-13: 9788170305828
 
 This fourth volume of the Rasa-jala-nidhi deals with Rasa-chikitsa-vidya, also known a the science of Iatrchemistry (chemical medicine), a major branch of Ayurveda. It contains Ayurvedic treatments for Fever and Diarrhea.
 
@@ -5211,10 +4466,7 @@ This concludes ‘Treatment for diarrhea (17): Sadniska-taila’ included in Bhu
 
 ## 236. Part 27 - Diet in diarrhoea
 
-
 Rasa Jala Nidhi, vol 4: Iatrochemistry
-
-by Bhudeb Mookerjee | 1938 | 52,258 words | ISBN-10: 8170305829 | ISBN-13: 9788170305828
 
 This fourth volume of the Rasa-jala-nidhi deals with Rasa-chikitsa-vidya, also known a the science of Iatrchemistry (chemical medicine), a major branch of Ayurveda. It contains Ayurvedic treatments for Fever and Diarrhea.
 
@@ -5238,10 +4490,7 @@ This concludes ‘Diet in diarrhoea’ included in Bhudeb Mookerjee Rasa Jala Ni
 
 ## 237. Part 28 - Grahani (chronic diarrhea)
 
-
 Rasa Jala Nidhi, vol 4: Iatrochemistry
-
-by Bhudeb Mookerjee | 1938 | 52,258 words | ISBN-10: 8170305829 | ISBN-13: 9788170305828
 
 This fourth volume of the Rasa-jala-nidhi deals with Rasa-chikitsa-vidya, also known a the science of Iatrchemistry (chemical medicine), a major branch of Ayurveda. It contains Ayurvedic treatments for Fever and Diarrhea.
 
@@ -5259,10 +4508,7 @@ This concludes ‘Grahani (chronic diarrhea)’ included in Bhudeb Mookerjee Ras
 
 ## 238. Part 25 - Treatment for diarrhea (16): Daksayani rasa
 
-
 Rasa Jala Nidhi, vol 4: Iatrochemistry
-
-by Bhudeb Mookerjee | 1938 | 52,258 words | ISBN-10: 8170305829 | ISBN-13: 9788170305828
 
 This fourth volume of the Rasa-jala-nidhi deals with Rasa-chikitsa-vidya, also known a the science of Iatrchemistry (chemical medicine), a major branch of Ayurveda. It contains Ayurvedic treatments for Fever and Diarrhea.
 
@@ -5280,10 +4526,7 @@ This concludes ‘Treatment for diarrhea (16): Daksayani rasa’ included in Bhu
 
 ## 239. Part 29 - Treatment for chronic diarrhea (1): Vajra-kapata rasa
 
-
 Rasa Jala Nidhi, vol 4: Iatrochemistry
-
-by Bhudeb Mookerjee | 1938 | 52,258 words | ISBN-10: 8170305829 | ISBN-13: 9788170305828
 
 This fourth volume of the Rasa-jala-nidhi deals with Rasa-chikitsa-vidya, also known a the science of Iatrchemistry (chemical medicine), a major branch of Ayurveda. It contains Ayurvedic treatments for Fever and Diarrhea.
 
@@ -5301,10 +4544,7 @@ This concludes ‘Treatment for chronic diarrhea (1): Vajra-kapata rasa’ inclu
 
 ## 240. Part 30 - Treatment for chronic diarrhea (2): Agni-kumara rasa
 
-
 Rasa Jala Nidhi, vol 4: Iatrochemistry
-
-by Bhudeb Mookerjee | 1938 | 52,258 words | ISBN-10: 8170305829 | ISBN-13: 9788170305828
 
 This fourth volume of the Rasa-jala-nidhi deals with Rasa-chikitsa-vidya, also known a the science of Iatrchemistry (chemical medicine), a major branch of Ayurveda. It contains Ayurvedic treatments for Fever and Diarrhea.
 
@@ -5322,10 +4562,7 @@ This concludes ‘Treatment for chronic diarrhea (2): Agni-kumara rasa’ includ
 
 ## 241. Part 33 - Treatment for chronic diarrhea (5): Pottali rasa
 
-
 Rasa Jala Nidhi, vol 4: Iatrochemistry
-
-by Bhudeb Mookerjee | 1938 | 52,258 words | ISBN-10: 8170305829 | ISBN-13: 9788170305828
 
 This fourth volume of the Rasa-jala-nidhi deals with Rasa-chikitsa-vidya, also known a the science of Iatrchemistry (chemical medicine), a major branch of Ayurveda. It contains Ayurvedic treatments for Fever and Diarrhea.
 
@@ -5343,10 +4580,7 @@ This concludes ‘Treatment for chronic diarrhea (5): Pottali rasa’ included i
 
 ## 242. Part 31 - Treatment for chronic diarrhea (3): Suvarna-sundara rasa
 
-
 Rasa Jala Nidhi, vol 4: Iatrochemistry
-
-by Bhudeb Mookerjee | 1938 | 52,258 words | ISBN-10: 8170305829 | ISBN-13: 9788170305828
 
 This fourth volume of the Rasa-jala-nidhi deals with Rasa-chikitsa-vidya, also known a the science of Iatrchemistry (chemical medicine), a major branch of Ayurveda. It contains Ayurvedic treatments for Fever and Diarrhea.
 
@@ -5364,10 +4598,7 @@ This concludes ‘Treatment for chronic diarrhea (3): Suvarna-sundara rasa’ in
 
 ## 243. Part 32 - Treatment for chronic diarrhea (4): Trimurti rasa
 
-
 Rasa Jala Nidhi, vol 4: Iatrochemistry
-
-by Bhudeb Mookerjee | 1938 | 52,258 words | ISBN-10: 8170305829 | ISBN-13: 9788170305828
 
 This fourth volume of the Rasa-jala-nidhi deals with Rasa-chikitsa-vidya, also known a the science of Iatrchemistry (chemical medicine), a major branch of Ayurveda. It contains Ayurvedic treatments for Fever and Diarrhea.
 
@@ -5385,10 +4616,7 @@ This concludes ‘Treatment for chronic diarrhea (4): Trimurti rasa’ included 
 
 ## 244. Part 35 - Treatment for chronic diarrhea (7): Vajra-dhara rasa
 
-
 Rasa Jala Nidhi, vol 4: Iatrochemistry
-
-by Bhudeb Mookerjee | 1938 | 52,258 words | ISBN-10: 8170305829 | ISBN-13: 9788170305828
 
 This fourth volume of the Rasa-jala-nidhi deals with Rasa-chikitsa-vidya, also known a the science of Iatrchemistry (chemical medicine), a major branch of Ayurveda. It contains Ayurvedic treatments for Fever and Diarrhea.
 
@@ -5406,10 +4634,7 @@ This concludes ‘Treatment for chronic diarrhea (7): Vajra-dhara rasa’ includ
 
 ## 245. Part 36 - Treatment for chronic diarrhea (8): Grahani-kapata rasa
 
-
 Rasa Jala Nidhi, vol 4: Iatrochemistry
-
-by Bhudeb Mookerjee | 1938 | 52,258 words | ISBN-10: 8170305829 | ISBN-13: 9788170305828
 
 This fourth volume of the Rasa-jala-nidhi deals with Rasa-chikitsa-vidya, also known a the science of Iatrchemistry (chemical medicine), a major branch of Ayurveda. It contains Ayurvedic treatments for Fever and Diarrhea.
 
@@ -5427,10 +4652,7 @@ This concludes ‘Treatment for chronic diarrhea (8): Grahani-kapata rasa’ inc
 
 ## 246. Part 34 - Treatment for chronic diarrhea (6): Vahni-jvala rasa
 
-
 Rasa Jala Nidhi, vol 4: Iatrochemistry
-
-by Bhudeb Mookerjee | 1938 | 52,258 words | ISBN-10: 8170305829 | ISBN-13: 9788170305828
 
 This fourth volume of the Rasa-jala-nidhi deals with Rasa-chikitsa-vidya, also known a the science of Iatrchemistry (chemical medicine), a major branch of Ayurveda. It contains Ayurvedic treatments for Fever and Diarrhea.
 
@@ -5448,10 +4670,7 @@ This concludes ‘Treatment for chronic diarrhea (6): Vahni-jvala rasa’ includ
 
 ## 247. Part 37 - Treatment for chronic diarrhea (9): Agni-vivardhana rasa
 
-
 Rasa Jala Nidhi, vol 4: Iatrochemistry
-
-by Bhudeb Mookerjee | 1938 | 52,258 words | ISBN-10: 8170305829 | ISBN-13: 9788170305828
 
 This fourth volume of the Rasa-jala-nidhi deals with Rasa-chikitsa-vidya, also known a the science of Iatrchemistry (chemical medicine), a major branch of Ayurveda. It contains Ayurvedic treatments for Fever and Diarrhea.
 
@@ -5469,10 +4688,7 @@ This concludes ‘Treatment for chronic diarrhea (9): Agni-vivardhana rasa’ in
 
 ## 248. Part 39 - Treatment for chronic diarrhea (11): Grahani-shardula rasa
 
-
 Rasa Jala Nidhi, vol 4: Iatrochemistry
-
-by Bhudeb Mookerjee | 1938 | 52,258 words | ISBN-10: 8170305829 | ISBN-13: 9788170305828
 
 This fourth volume of the Rasa-jala-nidhi deals with Rasa-chikitsa-vidya, also known a the science of Iatrchemistry (chemical medicine), a major branch of Ayurveda. It contains Ayurvedic treatments for Fever and Diarrhea.
 
@@ -5490,10 +4706,7 @@ This concludes ‘Treatment for chronic diarrhea (11): Grahani-shardula rasa’ 
 
 ## 249. Part 38 - Treatment for chronic diarrhea (10): Markandeya rasa
 
-
 Rasa Jala Nidhi, vol 4: Iatrochemistry
-
-by Bhudeb Mookerjee | 1938 | 52,258 words | ISBN-10: 8170305829 | ISBN-13: 9788170305828
 
 This fourth volume of the Rasa-jala-nidhi deals with Rasa-chikitsa-vidya, also known a the science of Iatrchemistry (chemical medicine), a major branch of Ayurveda. It contains Ayurvedic treatments for Fever and Diarrhea.
 
@@ -5511,10 +4724,7 @@ This concludes ‘Treatment for chronic diarrhea (10): Markandeya rasa’ includ
 
 ## 250. Part 40 - Treatment for chronic diarrhea (12): Grahani-bhairava rasa
 
-
 Rasa Jala Nidhi, vol 4: Iatrochemistry
-
-by Bhudeb Mookerjee | 1938 | 52,258 words | ISBN-10: 8170305829 | ISBN-13: 9788170305828
 
 This fourth volume of the Rasa-jala-nidhi deals with Rasa-chikitsa-vidya, also known a the science of Iatrchemistry (chemical medicine), a major branch of Ayurveda. It contains Ayurvedic treatments for Fever and Diarrhea.
 
@@ -5532,10 +4742,7 @@ This concludes ‘Treatment for chronic diarrhea (12): Grahani-bhairava rasa’ 
 
 ## 251. Part 42 - Treatment for chronic diarrhea (14): Vadavamukha rasa
 
-
 Rasa Jala Nidhi, vol 4: Iatrochemistry
-
-by Bhudeb Mookerjee | 1938 | 52,258 words | ISBN-10: 8170305829 | ISBN-13: 9788170305828
 
 This fourth volume of the Rasa-jala-nidhi deals with Rasa-chikitsa-vidya, also known a the science of Iatrchemistry (chemical medicine), a major branch of Ayurveda. It contains Ayurvedic treatments for Fever and Diarrhea.
 
@@ -5553,10 +4760,7 @@ This concludes ‘Treatment for chronic diarrhea (14): Vadavamukha rasa’ inclu
 
 ## 252. Part 43 - Treatment for chronic diarrhea (15): Hamsa-pottali rasa
 
-
 Rasa Jala Nidhi, vol 4: Iatrochemistry
-
-by Bhudeb Mookerjee | 1938 | 52,258 words | ISBN-10: 8170305829 | ISBN-13: 9788170305828
 
 This fourth volume of the Rasa-jala-nidhi deals with Rasa-chikitsa-vidya, also known a the science of Iatrchemistry (chemical medicine), a major branch of Ayurveda. It contains Ayurvedic treatments for Fever and Diarrhea.
 
@@ -5574,10 +4778,7 @@ This concludes ‘Treatment for chronic diarrhea (15): Hamsa-pottali rasa’ inc
 
 ## 253. Part 41 - Treatment for chronic diarrhea (13): Samgrahanihara rasa
 
-
 Rasa Jala Nidhi, vol 4: Iatrochemistry
-
-by Bhudeb Mookerjee | 1938 | 52,258 words | ISBN-10: 8170305829 | ISBN-13: 9788170305828
 
 This fourth volume of the Rasa-jala-nidhi deals with Rasa-chikitsa-vidya, also known a the science of Iatrchemistry (chemical medicine), a major branch of Ayurveda. It contains Ayurvedic treatments for Fever and Diarrhea.
 
@@ -5595,10 +4796,7 @@ This concludes ‘Treatment for chronic diarrhea (13): Samgrahanihara rasa’ in
 
 ## 254. Part 44 - Treatment for chronic diarrhea (16): Grahani-vajra-kapata rasa
 
-
 Rasa Jala Nidhi, vol 4: Iatrochemistry
-
-by Bhudeb Mookerjee | 1938 | 52,258 words | ISBN-10: 8170305829 | ISBN-13: 9788170305828
 
 This fourth volume of the Rasa-jala-nidhi deals with Rasa-chikitsa-vidya, also known a the science of Iatrchemistry (chemical medicine), a major branch of Ayurveda. It contains Ayurvedic treatments for Fever and Diarrhea.
 
@@ -5616,10 +4814,7 @@ This concludes ‘Treatment for chronic diarrhea (16): Grahani-vajra-kapata rasa
 
 ## 255. Part 45 - Treatment for chronic diarrhea (17): Nripavallabha rasa
 
-
 Rasa Jala Nidhi, vol 4: Iatrochemistry
-
-by Bhudeb Mookerjee | 1938 | 52,258 words | ISBN-10: 8170305829 | ISBN-13: 9788170305828
 
 This fourth volume of the Rasa-jala-nidhi deals with Rasa-chikitsa-vidya, also known a the science of Iatrchemistry (chemical medicine), a major branch of Ayurveda. It contains Ayurvedic treatments for Fever and Diarrhea.
 
@@ -5637,10 +4832,7 @@ This concludes ‘Treatment for chronic diarrhea (17): Nripavallabha rasa’ inc
 
 ## 256. Part 46 - Treatment for chronic diarrhea (18): Nripendra-vallabha rasa
 
-
 Rasa Jala Nidhi, vol 4: Iatrochemistry
-
-by Bhudeb Mookerjee | 1938 | 52,258 words | ISBN-10: 8170305829 | ISBN-13: 9788170305828
 
 This fourth volume of the Rasa-jala-nidhi deals with Rasa-chikitsa-vidya, also known a the science of Iatrchemistry (chemical medicine), a major branch of Ayurveda. It contains Ayurvedic treatments for Fever and Diarrhea.
 
@@ -5658,10 +4850,7 @@ This concludes ‘Treatment for chronic diarrhea (18): Nripendra-vallabha rasa�
 
 ## 257. Part 47 - Treatment for chronic diarrhea (19): Rajendra-vallabha rasa
 
-
 Rasa Jala Nidhi, vol 4: Iatrochemistry
-
-by Bhudeb Mookerjee | 1938 | 52,258 words | ISBN-10: 8170305829 | ISBN-13: 9788170305828
 
 This fourth volume of the Rasa-jala-nidhi deals with Rasa-chikitsa-vidya, also known a the science of Iatrchemistry (chemical medicine), a major branch of Ayurveda. It contains Ayurvedic treatments for Fever and Diarrhea.
 
@@ -5679,10 +4868,7 @@ This concludes ‘Treatment for chronic diarrhea (19): Rajendra-vallabha rasa’
 
 ## 258. Part 48 - Treatment for chronic diarrhea (20): Vasudeva rasa
 
-
 Rasa Jala Nidhi, vol 4: Iatrochemistry
-
-by Bhudeb Mookerjee | 1938 | 52,258 words | ISBN-10: 8170305829 | ISBN-13: 9788170305828
 
 This fourth volume of the Rasa-jala-nidhi deals with Rasa-chikitsa-vidya, also known a the science of Iatrchemistry (chemical medicine), a major branch of Ayurveda. It contains Ayurvedic treatments for Fever and Diarrhea.
 
@@ -5700,10 +4886,7 @@ This concludes ‘Treatment for chronic diarrhea (20): Vasudeva rasa’ included
 
 ## 259. Part 49 - Treatment for chronic diarrhea (21): Laghu-siddhabhraka rasa
 
-
 Rasa Jala Nidhi, vol 4: Iatrochemistry
-
-by Bhudeb Mookerjee | 1938 | 52,258 words | ISBN-10: 8170305829 | ISBN-13: 9788170305828
 
 This fourth volume of the Rasa-jala-nidhi deals with Rasa-chikitsa-vidya, also known a the science of Iatrchemistry (chemical medicine), a major branch of Ayurveda. It contains Ayurvedic treatments for Fever and Diarrhea.
 
@@ -5721,10 +4904,7 @@ This concludes ‘Treatment for chronic diarrhea (21): Laghu-siddhabhraka rasa�
 
 ## 260. Part 50 - Treatment for chronic diarrhea (22): Sarvarogya rasa
 
-
 Rasa Jala Nidhi, vol 4: Iatrochemistry
-
-by Bhudeb Mookerjee | 1938 | 52,258 words | ISBN-10: 8170305829 | ISBN-13: 9788170305828
 
 This fourth volume of the Rasa-jala-nidhi deals with Rasa-chikitsa-vidya, also known a the science of Iatrchemistry (chemical medicine), a major branch of Ayurveda. It contains Ayurvedic treatments for Fever and Diarrhea.
 
@@ -5742,10 +4922,7 @@ This concludes ‘Treatment for chronic diarrhea (22): Sarvarogya rasa’ includ
 
 ## 261. Part 51 - Treatment for chronic diarrhea (23): Grahani-gaja-keshari rasa
 
-
 Rasa Jala Nidhi, vol 4: Iatrochemistry
-
-by Bhudeb Mookerjee | 1938 | 52,258 words | ISBN-10: 8170305829 | ISBN-13: 9788170305828
 
 This fourth volume of the Rasa-jala-nidhi deals with Rasa-chikitsa-vidya, also known a the science of Iatrchemistry (chemical medicine), a major branch of Ayurveda. It contains Ayurvedic treatments for Fever and Diarrhea.
 
@@ -5763,10 +4940,7 @@ This concludes ‘Treatment for chronic diarrhea (23): Grahani-gaja-keshari rasa
 
 ## 262. Part 54 - Treatment for chronic diarrhea (26): Vidhumauli rasa
 
-
 Rasa Jala Nidhi, vol 4: Iatrochemistry
-
-by Bhudeb Mookerjee | 1938 | 52,258 words | ISBN-10: 8170305829 | ISBN-13: 9788170305828
 
 This fourth volume of the Rasa-jala-nidhi deals with Rasa-chikitsa-vidya, also known a the science of Iatrchemistry (chemical medicine), a major branch of Ayurveda. It contains Ayurvedic treatments for Fever and Diarrhea.
 
@@ -5784,10 +4958,7 @@ This concludes ‘Treatment for chronic diarrhea (26): Vidhumauli rasa’ includ
 
 ## 263. Part 53 - Treatment for chronic diarrhea (25): Nripati-vallabha rasa
 
-
 Rasa Jala Nidhi, vol 4: Iatrochemistry
-
-by Bhudeb Mookerjee | 1938 | 52,258 words | ISBN-10: 8170305829 | ISBN-13: 9788170305828
 
 This fourth volume of the Rasa-jala-nidhi deals with Rasa-chikitsa-vidya, also known a the science of Iatrchemistry (chemical medicine), a major branch of Ayurveda. It contains Ayurvedic treatments for Fever and Diarrhea.
 
@@ -5805,10 +4976,7 @@ This concludes ‘Treatment for chronic diarrhea (25): Nripati-vallabha rasa’ 
 
 ## 264. Part 52 - Treatment for chronic diarrhea (24): Shighra-prabhava rasa
 
-
 Rasa Jala Nidhi, vol 4: Iatrochemistry
-
-by Bhudeb Mookerjee | 1938 | 52,258 words | ISBN-10: 8170305829 | ISBN-13: 9788170305828
 
 This fourth volume of the Rasa-jala-nidhi deals with Rasa-chikitsa-vidya, also known a the science of Iatrchemistry (chemical medicine), a major branch of Ayurveda. It contains Ayurvedic treatments for Fever and Diarrhea.
 
@@ -5826,10 +4994,7 @@ This concludes ‘Treatment for chronic diarrhea (24): Shighra-prabhava rasa’ 
 
 ## 265. Part 55 - Treatment for chronic diarrhea (27): Sangrahani-kapata rasa
 
-
 Rasa Jala Nidhi, vol 4: Iatrochemistry
-
-by Bhudeb Mookerjee | 1938 | 52,258 words | ISBN-10: 8170305829 | ISBN-13: 9788170305828
 
 This fourth volume of the Rasa-jala-nidhi deals with Rasa-chikitsa-vidya, also known a the science of Iatrchemistry (chemical medicine), a major branch of Ayurveda. It contains Ayurvedic treatments for Fever and Diarrhea.
 
@@ -5847,10 +5012,7 @@ This concludes ‘Treatment for chronic diarrhea (27): Sangrahani-kapata rasa’
 
 ## 266. Part 56 - Treatment for chronic diarrhea (28): Grahani-gajendra rasa
 
-
 Rasa Jala Nidhi, vol 4: Iatrochemistry
-
-by Bhudeb Mookerjee | 1938 | 52,258 words | ISBN-10: 8170305829 | ISBN-13: 9788170305828
 
 This fourth volume of the Rasa-jala-nidhi deals with Rasa-chikitsa-vidya, also known a the science of Iatrchemistry (chemical medicine), a major branch of Ayurveda. It contains Ayurvedic treatments for Fever and Diarrhea.
 
@@ -5868,10 +5030,7 @@ This concludes ‘Treatment for chronic diarrhea (28): Grahani-gajendra rasa’ 
 
 ## 267. Part 58 - Treatment for chronic diarrhea (30): Vahni-dipana rasa
 
-
 Rasa Jala Nidhi, vol 4: Iatrochemistry
-
-by Bhudeb Mookerjee | 1938 | 52,258 words | ISBN-10: 8170305829 | ISBN-13: 9788170305828
 
 This fourth volume of the Rasa-jala-nidhi deals with Rasa-chikitsa-vidya, also known a the science of Iatrchemistry (chemical medicine), a major branch of Ayurveda. It contains Ayurvedic treatments for Fever and Diarrhea.
 
@@ -5889,10 +5048,7 @@ This concludes ‘Treatment for chronic diarrhea (30): Vahni-dipana rasa’ incl
 
 ## 268. Part 59 - Treatment for chronic diarrhea (31): Jatiphaladi rasa
 
-
 Rasa Jala Nidhi, vol 4: Iatrochemistry
-
-by Bhudeb Mookerjee | 1938 | 52,258 words | ISBN-10: 8170305829 | ISBN-13: 9788170305828
 
 This fourth volume of the Rasa-jala-nidhi deals with Rasa-chikitsa-vidya, also known a the science of Iatrchemistry (chemical medicine), a major branch of Ayurveda. It contains Ayurvedic treatments for Fever and Diarrhea.
 
@@ -5910,10 +5066,7 @@ This concludes ‘Treatment for chronic diarrhea (31): Jatiphaladi rasa’ inclu
 
 ## 269. Part 61 - Treatment for chronic diarrhea (33): Madhumalati rasa
 
-
 Rasa Jala Nidhi, vol 4: Iatrochemistry
-
-by Bhudeb Mookerjee | 1938 | 52,258 words | ISBN-10: 8170305829 | ISBN-13: 9788170305828
 
 This fourth volume of the Rasa-jala-nidhi deals with Rasa-chikitsa-vidya, also known a the science of Iatrchemistry (chemical medicine), a major branch of Ayurveda. It contains Ayurvedic treatments for Fever and Diarrhea.
 
@@ -5931,10 +5084,7 @@ This concludes ‘Treatment for chronic diarrhea (33): Madhumalati rasa’ inclu
 
 ## 270. Part 62 - Treatment for chronic diarrhea (34): Dvija-supti rasa
 
-
 Rasa Jala Nidhi, vol 4: Iatrochemistry
-
-by Bhudeb Mookerjee | 1938 | 52,258 words | ISBN-10: 8170305829 | ISBN-13: 9788170305828
 
 This fourth volume of the Rasa-jala-nidhi deals with Rasa-chikitsa-vidya, also known a the science of Iatrchemistry (chemical medicine), a major branch of Ayurveda. It contains Ayurvedic treatments for Fever and Diarrhea.
 
@@ -5952,10 +5102,7 @@ This concludes ‘Treatment for chronic diarrhea (34): Dvija-supti rasa’ inclu
 
 ## 271. Part 63 - Treatment for chronic diarrhea (35): Ama-parpati rasa
 
-
 Rasa Jala Nidhi, vol 4: Iatrochemistry
-
-by Bhudeb Mookerjee | 1938 | 52,258 words | ISBN-10: 8170305829 | ISBN-13: 9788170305828
 
 This fourth volume of the Rasa-jala-nidhi deals with Rasa-chikitsa-vidya, also known a the science of Iatrchemistry (chemical medicine), a major branch of Ayurveda. It contains Ayurvedic treatments for Fever and Diarrhea.
 
@@ -5973,10 +5120,7 @@ This concludes ‘Treatment for chronic diarrhea (35): Ama-parpati rasa’ inclu
 
 ## 272. Part 64 - Treatment for chronic diarrhea (36): Shambhu-prasada rasa
 
-
 Rasa Jala Nidhi, vol 4: Iatrochemistry
-
-by Bhudeb Mookerjee | 1938 | 52,258 words | ISBN-10: 8170305829 | ISBN-13: 9788170305828
 
 This fourth volume of the Rasa-jala-nidhi deals with Rasa-chikitsa-vidya, also known a the science of Iatrchemistry (chemical medicine), a major branch of Ayurveda. It contains Ayurvedic treatments for Fever and Diarrhea.
 
@@ -5994,10 +5138,7 @@ This concludes ‘Treatment for chronic diarrhea (36): Shambhu-prasada rasa’ i
 
 ## 273. Part 60 - Treatment for chronic diarrhea (32): Gandhaka rasa
 
-
 Rasa Jala Nidhi, vol 4: Iatrochemistry
-
-by Bhudeb Mookerjee | 1938 | 52,258 words | ISBN-10: 8170305829 | ISBN-13: 9788170305828
 
 This fourth volume of the Rasa-jala-nidhi deals with Rasa-chikitsa-vidya, also known a the science of Iatrchemistry (chemical medicine), a major branch of Ayurveda. It contains Ayurvedic treatments for Fever and Diarrhea.
 
@@ -6015,10 +5156,7 @@ This concludes ‘Treatment for chronic diarrhea (32): Gandhaka rasa’ included
 
 ## 274. Part 65 - Treatment for chronic diarrhea (37): Vijaya rasa
 
-
 Rasa Jala Nidhi, vol 4: Iatrochemistry
-
-by Bhudeb Mookerjee | 1938 | 52,258 words | ISBN-10: 8170305829 | ISBN-13: 9788170305828
 
 This fourth volume of the Rasa-jala-nidhi deals with Rasa-chikitsa-vidya, also known a the science of Iatrchemistry (chemical medicine), a major branch of Ayurveda. It contains Ayurvedic treatments for Fever and Diarrhea.
 
@@ -6036,10 +5174,7 @@ This concludes ‘Treatment for chronic diarrhea (37): Vijaya rasa’ included i
 
 ## 275. Part 66 - Treatment for chronic diarrhea (38): Abhra rasayana
 
-
 Rasa Jala Nidhi, vol 4: Iatrochemistry
-
-by Bhudeb Mookerjee | 1938 | 52,258 words | ISBN-10: 8170305829 | ISBN-13: 9788170305828
 
 This fourth volume of the Rasa-jala-nidhi deals with Rasa-chikitsa-vidya, also known a the science of Iatrchemistry (chemical medicine), a major branch of Ayurveda. It contains Ayurvedic treatments for Fever and Diarrhea.
 
@@ -6057,10 +5192,7 @@ This concludes ‘Treatment for chronic diarrhea (38): Abhra rasayana’ include
 
 ## 276. Part 57 - Treatment for chronic diarrhea (29): Dardadi rasa
 
-
 Rasa Jala Nidhi, vol 4: Iatrochemistry
-
-by Bhudeb Mookerjee | 1938 | 52,258 words | ISBN-10: 8170305829 | ISBN-13: 9788170305828
 
 This fourth volume of the Rasa-jala-nidhi deals with Rasa-chikitsa-vidya, also known a the science of Iatrchemistry (chemical medicine), a major branch of Ayurveda. It contains Ayurvedic treatments for Fever and Diarrhea.
 
@@ -6078,10 +5210,7 @@ This concludes ‘Treatment for chronic diarrhea (29): Dardadi rasa’ included 
 
 ## 277. Part 67 - Treatment for chronic diarrhea (39): Piyusavalli rasa
 
-
 Rasa Jala Nidhi, vol 4: Iatrochemistry
-
-by Bhudeb Mookerjee | 1938 | 52,258 words | ISBN-10: 8170305829 | ISBN-13: 9788170305828
 
 This fourth volume of the Rasa-jala-nidhi deals with Rasa-chikitsa-vidya, also known a the science of Iatrchemistry (chemical medicine), a major branch of Ayurveda. It contains Ayurvedic treatments for Fever and Diarrhea.
 
@@ -6099,10 +5228,7 @@ This concludes ‘Treatment for chronic diarrhea (39): Piyusavalli rasa’ inclu
 
 ## 278. Part 69 - Treatment for chronic diarrhea (41): Agnisuta rasa
 
-
 Rasa Jala Nidhi, vol 4: Iatrochemistry
-
-by Bhudeb Mookerjee | 1938 | 52,258 words | ISBN-10: 8170305829 | ISBN-13: 9788170305828
 
 This fourth volume of the Rasa-jala-nidhi deals with Rasa-chikitsa-vidya, also known a the science of Iatrchemistry (chemical medicine), a major branch of Ayurveda. It contains Ayurvedic treatments for Fever and Diarrhea.
 
@@ -6120,10 +5246,7 @@ This concludes ‘Treatment for chronic diarrhea (41): Agnisuta rasa’ included
 
 ## 279. Part 70 - Treatment for chronic diarrhea (42): Shiva-sadhana rasa
 
-
 Rasa Jala Nidhi, vol 4: Iatrochemistry
-
-by Bhudeb Mookerjee | 1938 | 52,258 words | ISBN-10: 8170305829 | ISBN-13: 9788170305828
 
 This fourth volume of the Rasa-jala-nidhi deals with Rasa-chikitsa-vidya, also known a the science of Iatrchemistry (chemical medicine), a major branch of Ayurveda. It contains Ayurvedic treatments for Fever and Diarrhea.
 
@@ -6141,10 +5264,7 @@ This concludes ‘Treatment for chronic diarrhea (42): Shiva-sadhana rasa’ inc
 
 ## 280. Part 68 - Treatment for chronic diarrhea (40): Agastya rasa
 
-
 Rasa Jala Nidhi, vol 4: Iatrochemistry
-
-by Bhudeb Mookerjee | 1938 | 52,258 words | ISBN-10: 8170305829 | ISBN-13: 9788170305828
 
 This fourth volume of the Rasa-jala-nidhi deals with Rasa-chikitsa-vidya, also known a the science of Iatrchemistry (chemical medicine), a major branch of Ayurveda. It contains Ayurvedic treatments for Fever and Diarrhea.
 
@@ -6162,10 +5282,7 @@ This concludes ‘Treatment for chronic diarrhea (40): Agastya rasa’ included 
 
 ## 281. Part 71 - Treatment for chronic diarrhea (43): Hiranya-garbha-pottali rasa
 
-
 Rasa Jala Nidhi, vol 4: Iatrochemistry
-
-by Bhudeb Mookerjee | 1938 | 52,258 words | ISBN-10: 8170305829 | ISBN-13: 9788170305828
 
 This fourth volume of the Rasa-jala-nidhi deals with Rasa-chikitsa-vidya, also known a the science of Iatrchemistry (chemical medicine), a major branch of Ayurveda. It contains Ayurvedic treatments for Fever and Diarrhea.
 
@@ -6183,10 +5300,7 @@ This concludes ‘Treatment for chronic diarrhea (43): Hiranya-garbha-pottali ra
 
 ## 282. Part 73 - Dugdha-bati
 
-
 Rasa Jala Nidhi, vol 4: Iatrochemistry
-
-by Bhudeb Mookerjee | 1938 | 52,258 words | ISBN-10: 8170305829 | ISBN-13: 9788170305828
 
 This fourth volume of the Rasa-jala-nidhi deals with Rasa-chikitsa-vidya, also known a the science of Iatrchemistry (chemical medicine), a major branch of Ayurveda. It contains Ayurvedic treatments for Fever and Diarrhea.
 
@@ -6204,10 +5318,7 @@ This concludes ‘Dugdha-bati’ included in Bhudeb Mookerjee Rasa Jala Nidhi, v
 
 ## 283. Part 72 - Recipes of certain medicines having no minerals in them
 
-
 Rasa Jala Nidhi, vol 4: Iatrochemistry
-
-by Bhudeb Mookerjee | 1938 | 52,258 words | ISBN-10: 8170305829 | ISBN-13: 9788170305828
 
 This fourth volume of the Rasa-jala-nidhi deals with Rasa-chikitsa-vidya, also known a the science of Iatrchemistry (chemical medicine), a major branch of Ayurveda. It contains Ayurvedic treatments for Fever and Diarrhea.
 
@@ -6243,10 +5354,7 @@ This concludes ‘Recipes of certain medicines having no minerals in them’ inc
 
 ## 284. Part 74 - Piyusa-bati
 
-
 Rasa Jala Nidhi, vol 4: Iatrochemistry
-
-by Bhudeb Mookerjee | 1938 | 52,258 words | ISBN-10: 8170305829 | ISBN-13: 9788170305828
 
 This fourth volume of the Rasa-jala-nidhi deals with Rasa-chikitsa-vidya, also known a the science of Iatrchemistry (chemical medicine), a major branch of Ayurveda. It contains Ayurvedic treatments for Fever and Diarrhea.
 
@@ -6264,10 +5372,7 @@ This concludes ‘Piyusa-bati’ included in Bhudeb Mookerjee Rasa Jala Nidhi, v
 
 ## 285. Part 75 - Medicines called “parpati”
 
-
 Rasa Jala Nidhi, vol 4: Iatrochemistry
-
-by Bhudeb Mookerjee | 1938 | 52,258 words | ISBN-10: 8170305829 | ISBN-13: 9788170305828
 
 This fourth volume of the Rasa-jala-nidhi deals with Rasa-chikitsa-vidya, also known a the science of Iatrchemistry (chemical medicine), a major branch of Ayurveda. It contains Ayurvedic treatments for Fever and Diarrhea.
 
@@ -6291,10 +5396,7 @@ This concludes ‘Medicines called “parpati”’ included in Bhudeb Mookerjee
 
 ## 286. Part 77 - Rasendra parpati
 
-
 Rasa Jala Nidhi, vol 4: Iatrochemistry
-
-by Bhudeb Mookerjee | 1938 | 52,258 words | ISBN-10: 8170305829 | ISBN-13: 9788170305828
 
 This fourth volume of the Rasa-jala-nidhi deals with Rasa-chikitsa-vidya, also known a the science of Iatrchemistry (chemical medicine), a major branch of Ayurveda. It contains Ayurvedic treatments for Fever and Diarrhea.
 
@@ -6312,10 +5414,7 @@ This concludes ‘Rasendra parpati’ included in Bhudeb Mookerjee Rasa Jala Nid
 
 ## 287. Part 76 - Rasa parpati
 
-
 Rasa Jala Nidhi, vol 4: Iatrochemistry
-
-by Bhudeb Mookerjee | 1938 | 52,258 words | ISBN-10: 8170305829 | ISBN-13: 9788170305828
 
 This fourth volume of the Rasa-jala-nidhi deals with Rasa-chikitsa-vidya, also known a the science of Iatrchemistry (chemical medicine), a major branch of Ayurveda. It contains Ayurvedic treatments for Fever and Diarrhea.
 
@@ -6335,10 +5434,7 @@ This concludes ‘Rasa parpati’ included in Bhudeb Mookerjee Rasa Jala Nidhi, 
 
 ## 288. Part 78 - Sutendra parpati
 
-
 Rasa Jala Nidhi, vol 4: Iatrochemistry
-
-by Bhudeb Mookerjee | 1938 | 52,258 words | ISBN-10: 8170305829 | ISBN-13: 9788170305828
 
 This fourth volume of the Rasa-jala-nidhi deals with Rasa-chikitsa-vidya, also known a the science of Iatrchemistry (chemical medicine), a major branch of Ayurveda. It contains Ayurvedic treatments for Fever and Diarrhea.
 
@@ -6356,10 +5452,7 @@ This concludes ‘Sutendra parpati’ included in Bhudeb Mookerjee Rasa Jala Nid
 
 ## 289. Part 80 - Svarna parpati
 
-
 Rasa Jala Nidhi, vol 4: Iatrochemistry
-
-by Bhudeb Mookerjee | 1938 | 52,258 words | ISBN-10: 8170305829 | ISBN-13: 9788170305828
 
 This fourth volume of the Rasa-jala-nidhi deals with Rasa-chikitsa-vidya, also known a the science of Iatrchemistry (chemical medicine), a major branch of Ayurveda. It contains Ayurvedic treatments for Fever and Diarrhea.
 
@@ -6377,10 +5470,7 @@ This concludes ‘Svarna parpati’ included in Bhudeb Mookerjee Rasa Jala Nidhi
 
 ## 290. Part 81 - Panchamrita parpati
 
-
 Rasa Jala Nidhi, vol 4: Iatrochemistry
-
-by Bhudeb Mookerjee | 1938 | 52,258 words | ISBN-10: 8170305829 | ISBN-13: 9788170305828
 
 This fourth volume of the Rasa-jala-nidhi deals with Rasa-chikitsa-vidya, also known a the science of Iatrchemistry (chemical medicine), a major branch of Ayurveda. It contains Ayurvedic treatments for Fever and Diarrhea.
 
@@ -6398,10 +5488,7 @@ This concludes ‘Panchamrita parpati’ included in Bhudeb Mookerjee Rasa Jala 
 
 ## 291. Part 79 - Lauha parpati
 
-
 Rasa Jala Nidhi, vol 4: Iatrochemistry
-
-by Bhudeb Mookerjee | 1938 | 52,258 words | ISBN-10: 8170305829 | ISBN-13: 9788170305828
 
 This fourth volume of the Rasa-jala-nidhi deals with Rasa-chikitsa-vidya, also known a the science of Iatrchemistry (chemical medicine), a major branch of Ayurveda. It contains Ayurvedic treatments for Fever and Diarrhea.
 
@@ -6419,10 +5506,7 @@ This concludes ‘Lauha parpati’ included in Bhudeb Mookerjee Rasa Jala Nidhi,
 
 ## 292. Part 82 - Mahesha parpati
 
-
 Rasa Jala Nidhi, vol 4: Iatrochemistry
-
-by Bhudeb Mookerjee | 1938 | 52,258 words | ISBN-10: 8170305829 | ISBN-13: 9788170305828
 
 This fourth volume of the Rasa-jala-nidhi deals with Rasa-chikitsa-vidya, also known a the science of Iatrchemistry (chemical medicine), a major branch of Ayurveda. It contains Ayurvedic treatments for Fever and Diarrhea.
 
@@ -6440,10 +5524,7 @@ This concludes ‘Mahesha parpati’ included in Bhudeb Mookerjee Rasa Jala Nidh
 
 ## 293. Part 83 - Vijaya-parpati
 
-
 Rasa Jala Nidhi, vol 4: Iatrochemistry
-
-by Bhudeb Mookerjee | 1938 | 52,258 words | ISBN-10: 8170305829 | ISBN-13: 9788170305828
 
 This fourth volume of the Rasa-jala-nidhi deals with Rasa-chikitsa-vidya, also known a the science of Iatrchemistry (chemical medicine), a major branch of Ayurveda. It contains Ayurvedic treatments for Fever and Diarrhea.
 
@@ -6461,10 +5542,7 @@ This concludes ‘Vijaya-parpati’ included in Bhudeb Mookerjee Rasa Jala Nidhi
 
 ## 294. Part 84 - Vajra-parpati
 
-
 Rasa Jala Nidhi, vol 4: Iatrochemistry
-
-by Bhudeb Mookerjee | 1938 | 52,258 words | ISBN-10: 8170305829 | ISBN-13: 9788170305828
 
 This fourth volume of the Rasa-jala-nidhi deals with Rasa-chikitsa-vidya, also known a the science of Iatrchemistry (chemical medicine), a major branch of Ayurveda. It contains Ayurvedic treatments for Fever and Diarrhea.
 
@@ -6482,10 +5560,7 @@ This concludes ‘Vajra-parpati’ included in Bhudeb Mookerjee Rasa Jala Nidhi,
 
 ## 295. Chapter IV - Irregularity of the digesting heat
 
-
 Rasa Jala Nidhi, vol 4: Iatrochemistry
-
-by Bhudeb Mookerjee | 1938 | 52,258 words | ISBN-10: 8170305829 | ISBN-13: 9788170305828
 
 This fourth volume of the Rasa-jala-nidhi deals with Rasa-chikitsa-vidya, also known a the science of Iatrchemistry (chemical medicine), a major branch of Ayurveda. It contains Ayurvedic treatments for Fever and Diarrhea.
 
@@ -6503,10 +5578,7 @@ This concludes ‘Irregularity of the digesting heat’ included in Bhudeb Mooke
 
 ## 296. Part 1 - Causes, symptoms, and indications of indigestion
 
-
 Rasa Jala Nidhi, vol 4: Iatrochemistry
-
-by Bhudeb Mookerjee | 1938 | 52,258 words | ISBN-10: 8170305829 | ISBN-13: 9788170305828
 
 This fourth volume of the Rasa-jala-nidhi deals with Rasa-chikitsa-vidya, also known a the science of Iatrchemistry (chemical medicine), a major branch of Ayurveda. It contains Ayurvedic treatments for Fever and Diarrhea.
 
@@ -6564,10 +5636,7 @@ This concludes ‘Causes, symptoms, and indications of indigestion’ included i
 
 ## 297. Part 3 - Treatment for indigestion (1): Aditya rasa
 
-
 Rasa Jala Nidhi, vol 4: Iatrochemistry
-
-by Bhudeb Mookerjee | 1938 | 52,258 words | ISBN-10: 8170305829 | ISBN-13: 9788170305828
 
 This fourth volume of the Rasa-jala-nidhi deals with Rasa-chikitsa-vidya, also known a the science of Iatrchemistry (chemical medicine), a major branch of Ayurveda. It contains Ayurvedic treatments for Fever and Diarrhea.
 
@@ -6585,10 +5654,7 @@ This concludes ‘Treatment for indigestion (1): Aditya rasa’ included in Bhud
 
 ## 298. Part 4 - Treatment for indigestion (2): Vadavanala rasa
 
-
 Rasa Jala Nidhi, vol 4: Iatrochemistry
-
-by Bhudeb Mookerjee | 1938 | 52,258 words | ISBN-10: 8170305829 | ISBN-13: 9788170305828
 
 This fourth volume of the Rasa-jala-nidhi deals with Rasa-chikitsa-vidya, also known a the science of Iatrchemistry (chemical medicine), a major branch of Ayurveda. It contains Ayurvedic treatments for Fever and Diarrhea.
 
@@ -6608,10 +5674,7 @@ This concludes ‘Treatment for indigestion (2): Vadavanala rasa’ included in 
 
 ## 299. Part 2 - Treatment of irregularity of the digesting heat
 
-
 Rasa Jala Nidhi, vol 4: Iatrochemistry
-
-by Bhudeb Mookerjee | 1938 | 52,258 words | ISBN-10: 8170305829 | ISBN-13: 9788170305828
 
 This fourth volume of the Rasa-jala-nidhi deals with Rasa-chikitsa-vidya, also known a the science of Iatrchemistry (chemical medicine), a major branch of Ayurveda. It contains Ayurvedic treatments for Fever and Diarrhea.
 
@@ -6637,10 +5700,7 @@ This concludes ‘Treatment of irregularity of the digesting heat’ included in
 
 ## 300. Part 5 - Treatment for indigestion (3): Hutashana rasa
 
-
 Rasa Jala Nidhi, vol 4: Iatrochemistry
-
-by Bhudeb Mookerjee | 1938 | 52,258 words | ISBN-10: 8170305829 | ISBN-13: 9788170305828
 
 This fourth volume of the Rasa-jala-nidhi deals with Rasa-chikitsa-vidya, also known a the science of Iatrchemistry (chemical medicine), a major branch of Ayurveda. It contains Ayurvedic treatments for Fever and Diarrhea.
 
@@ -6658,10 +5718,7 @@ This concludes ‘Treatment for indigestion (3): Hutashana rasa’ included in B
 
 ## 301. Part 6 - Treatment for indigestion (4): Ajirna-kantaka rasa
 
-
 Rasa Jala Nidhi, vol 4: Iatrochemistry
-
-by Bhudeb Mookerjee | 1938 | 52,258 words | ISBN-10: 8170305829 | ISBN-13: 9788170305828
 
 This fourth volume of the Rasa-jala-nidhi deals with Rasa-chikitsa-vidya, also known a the science of Iatrchemistry (chemical medicine), a major branch of Ayurveda. It contains Ayurvedic treatments for Fever and Diarrhea.
 
@@ -6679,10 +5736,7 @@ This concludes ‘Treatment for indigestion (4): Ajirna-kantaka rasa’ included
 
 ## 302. Part 7 - Treatment for indigestion (5): Ramabana rasa
 
-
 Rasa Jala Nidhi, vol 4: Iatrochemistry
-
-by Bhudeb Mookerjee | 1938 | 52,258 words | ISBN-10: 8170305829 | ISBN-13: 9788170305828
 
 This fourth volume of the Rasa-jala-nidhi deals with Rasa-chikitsa-vidya, also known a the science of Iatrchemistry (chemical medicine), a major branch of Ayurveda. It contains Ayurvedic treatments for Fever and Diarrhea.
 
@@ -6700,10 +5754,7 @@ This concludes ‘Treatment for indigestion (5): Ramabana rasa’ included in Bh
 
 ## 303. Part 8 - Treatment for indigestion (6): Agnisahaya rasa
 
-
 Rasa Jala Nidhi, vol 4: Iatrochemistry
-
-by Bhudeb Mookerjee | 1938 | 52,258 words | ISBN-10: 8170305829 | ISBN-13: 9788170305828
 
 This fourth volume of the Rasa-jala-nidhi deals with Rasa-chikitsa-vidya, also known a the science of Iatrchemistry (chemical medicine), a major branch of Ayurveda. It contains Ayurvedic treatments for Fever and Diarrhea.
 
@@ -6721,10 +5772,7 @@ This concludes ‘Treatment for indigestion (6): Agnisahaya rasa’ included in 
 
 ## 304. Part 10 - Treatment for indigestion (8): Pashupata rasa
 
-
 Rasa Jala Nidhi, vol 4: Iatrochemistry
-
-by Bhudeb Mookerjee | 1938 | 52,258 words | ISBN-10: 8170305829 | ISBN-13: 9788170305828
 
 This fourth volume of the Rasa-jala-nidhi deals with Rasa-chikitsa-vidya, also known a the science of Iatrchemistry (chemical medicine), a major branch of Ayurveda. It contains Ayurvedic treatments for Fever and Diarrhea.
 
@@ -6742,10 +5790,7 @@ This concludes ‘Treatment for indigestion (8): Pashupata rasa’ included in B
 
 ## 305. Part 11 - Treatment for indigestion (9): Amritakalpa rasa
 
-
 Rasa Jala Nidhi, vol 4: Iatrochemistry
-
-by Bhudeb Mookerjee | 1938 | 52,258 words | ISBN-10: 8170305829 | ISBN-13: 9788170305828
 
 This fourth volume of the Rasa-jala-nidhi deals with Rasa-chikitsa-vidya, also known a the science of Iatrchemistry (chemical medicine), a major branch of Ayurveda. It contains Ayurvedic treatments for Fever and Diarrhea.
 
@@ -6763,10 +5808,7 @@ This concludes ‘Treatment for indigestion (9): Amritakalpa rasa’ included in
 
 ## 306. Part 12 - Treatment for indigestion (10): Ksudhasindhu rasa
 
-
 Rasa Jala Nidhi, vol 4: Iatrochemistry
-
-by Bhudeb Mookerjee | 1938 | 52,258 words | ISBN-10: 8170305829 | ISBN-13: 9788170305828
 
 This fourth volume of the Rasa-jala-nidhi deals with Rasa-chikitsa-vidya, also known a the science of Iatrchemistry (chemical medicine), a major branch of Ayurveda. It contains Ayurvedic treatments for Fever and Diarrhea.
 
@@ -6784,10 +5826,7 @@ This concludes ‘Treatment for indigestion (10): Ksudhasindhu rasa’ included 
 
 ## 307. Part 9 - Treatment for indigestion (7): Mahagnikaraka rasa
 
-
 Rasa Jala Nidhi, vol 4: Iatrochemistry
-
-by Bhudeb Mookerjee | 1938 | 52,258 words | ISBN-10: 8170305829 | ISBN-13: 9788170305828
 
 This fourth volume of the Rasa-jala-nidhi deals with Rasa-chikitsa-vidya, also known a the science of Iatrchemistry (chemical medicine), a major branch of Ayurveda. It contains Ayurvedic treatments for Fever and Diarrhea.
 
@@ -6807,10 +5846,7 @@ This concludes ‘Treatment for indigestion (7): Mahagnikaraka rasa’ included 
 
 ## 308. Part 14 - Treatment for indigestion (12): Agni-tundi rasa
 
-
 Rasa Jala Nidhi, vol 4: Iatrochemistry
-
-by Bhudeb Mookerjee | 1938 | 52,258 words | ISBN-10: 8170305829 | ISBN-13: 9788170305828
 
 This fourth volume of the Rasa-jala-nidhi deals with Rasa-chikitsa-vidya, also known a the science of Iatrchemistry (chemical medicine), a major branch of Ayurveda. It contains Ayurvedic treatments for Fever and Diarrhea.
 
@@ -6828,10 +5864,7 @@ This concludes ‘Treatment for indigestion (12): Agni-tundi rasa’ included in
 
 ## 309. Part 13 - Treatment for indigestion (11): Bhakta-vipaka rasa
 
-
 Rasa Jala Nidhi, vol 4: Iatrochemistry
-
-by Bhudeb Mookerjee | 1938 | 52,258 words | ISBN-10: 8170305829 | ISBN-13: 9788170305828
 
 This fourth volume of the Rasa-jala-nidhi deals with Rasa-chikitsa-vidya, also known a the science of Iatrchemistry (chemical medicine), a major branch of Ayurveda. It contains Ayurvedic treatments for Fever and Diarrhea.
 
@@ -6849,10 +5882,7 @@ This concludes ‘Treatment for indigestion (11): Bhakta-vipaka rasa’ included
 
 ## 310. Part 15 - Treatment for indigestion (13): Panchamrita rasa
 
-
 Rasa Jala Nidhi, vol 4: Iatrochemistry
-
-by Bhudeb Mookerjee | 1938 | 52,258 words | ISBN-10: 8170305829 | ISBN-13: 9788170305828
 
 This fourth volume of the Rasa-jala-nidhi deals with Rasa-chikitsa-vidya, also known a the science of Iatrchemistry (chemical medicine), a major branch of Ayurveda. It contains Ayurvedic treatments for Fever and Diarrhea.
 
@@ -6870,10 +5900,7 @@ This concludes ‘Treatment for indigestion (13): Panchamrita rasa’ included i
 
 ## 311. Part 16 - Treatment for indigestion (14): Jvalanala rasa
 
-
 Rasa Jala Nidhi, vol 4: Iatrochemistry
-
-by Bhudeb Mookerjee | 1938 | 52,258 words | ISBN-10: 8170305829 | ISBN-13: 9788170305828
 
 This fourth volume of the Rasa-jala-nidhi deals with Rasa-chikitsa-vidya, also known a the science of Iatrchemistry (chemical medicine), a major branch of Ayurveda. It contains Ayurvedic treatments for Fever and Diarrhea.
 
@@ -6891,10 +5918,7 @@ This concludes ‘Treatment for indigestion (14): Jvalanala rasa’ included in 
 
 ## 312. Part 19 - Treatment for indigestion (17): Majja-saradi rasa
 
-
 Rasa Jala Nidhi, vol 4: Iatrochemistry
-
-by Bhudeb Mookerjee | 1938 | 52,258 words | ISBN-10: 8170305829 | ISBN-13: 9788170305828
 
 This fourth volume of the Rasa-jala-nidhi deals with Rasa-chikitsa-vidya, also known a the science of Iatrchemistry (chemical medicine), a major branch of Ayurveda. It contains Ayurvedic treatments for Fever and Diarrhea.
 
@@ -6912,10 +5936,7 @@ This concludes ‘Treatment for indigestion (17): Majja-saradi rasa’ included 
 
 ## 313. Part 21 - Treatment for indigestion (19): Mahashankha rasa
 
-
 Rasa Jala Nidhi, vol 4: Iatrochemistry
-
-by Bhudeb Mookerjee | 1938 | 52,258 words | ISBN-10: 8170305829 | ISBN-13: 9788170305828
 
 This fourth volume of the Rasa-jala-nidhi deals with Rasa-chikitsa-vidya, also known a the science of Iatrchemistry (chemical medicine), a major branch of Ayurveda. It contains Ayurvedic treatments for Fever and Diarrhea.
 
@@ -6933,10 +5954,7 @@ This concludes ‘Treatment for indigestion (19): Mahashankha rasa’ included i
 
 ## 314. Part 20 - Treatment for indigestion (18): Shankheshvara rasa and Mahashankhashvara rasa
 
-
 Rasa Jala Nidhi, vol 4: Iatrochemistry
-
-by Bhudeb Mookerjee | 1938 | 52,258 words | ISBN-10: 8170305829 | ISBN-13: 9788170305828
 
 This fourth volume of the Rasa-jala-nidhi deals with Rasa-chikitsa-vidya, also known a the science of Iatrchemistry (chemical medicine), a major branch of Ayurveda. It contains Ayurvedic treatments for Fever and Diarrhea.
 
@@ -6956,10 +5974,7 @@ This concludes ‘Treatment for indigestion (18): Shankheshvara rasa and Mahasha
 
 ## 315. Part 17 - Treatment for indigestion (15): Vahni-pradipana rasa
 
-
 Rasa Jala Nidhi, vol 4: Iatrochemistry
-
-by Bhudeb Mookerjee | 1938 | 52,258 words | ISBN-10: 8170305829 | ISBN-13: 9788170305828
 
 This fourth volume of the Rasa-jala-nidhi deals with Rasa-chikitsa-vidya, also known a the science of Iatrchemistry (chemical medicine), a major branch of Ayurveda. It contains Ayurvedic treatments for Fever and Diarrhea.
 
@@ -6977,10 +5992,7 @@ This concludes ‘Treatment for indigestion (15): Vahni-pradipana rasa’ includ
 
 ## 316. Treatment for fever (158): Sadashiva rasa
 
-
 Rasa Jala Nidhi, vol 4: Iatrochemistry
-
-by Bhudeb Mookerjee | 1938 | 52,258 words | ISBN-10: 8170305829 | ISBN-13: 9788170305828
 
 This fourth volume of the Rasa-jala-nidhi deals with Rasa-chikitsa-vidya, also known a the science of Iatrchemistry (chemical medicine), a major branch of Ayurveda. It contains Ayurvedic treatments for Fever and Diarrhea.
 
@@ -6998,10 +6010,7 @@ This concludes ‘Treatment for fever (158): Sadashiva rasa’ included in Bhude
 
 ## 317. Part 22 - Treatment for indigestion (20): Sandipana rasa
 
-
 Rasa Jala Nidhi, vol 4: Iatrochemistry
-
-by Bhudeb Mookerjee | 1938 | 52,258 words | ISBN-10: 8170305829 | ISBN-13: 9788170305828
 
 This fourth volume of the Rasa-jala-nidhi deals with Rasa-chikitsa-vidya, also known a the science of Iatrchemistry (chemical medicine), a major branch of Ayurveda. It contains Ayurvedic treatments for Fever and Diarrhea.
 
@@ -7019,10 +6028,7 @@ This concludes ‘Treatment for indigestion (20): Sandipana rasa’ included in 
 
 ## 318. Part 18 - Treatment for indigestion (16): Lavangadi rasa
 
-
 Rasa Jala Nidhi, vol 4: Iatrochemistry
-
-by Bhudeb Mookerjee | 1938 | 52,258 words | ISBN-10: 8170305829 | ISBN-13: 9788170305828
 
 This fourth volume of the Rasa-jala-nidhi deals with Rasa-chikitsa-vidya, also known a the science of Iatrchemistry (chemical medicine), a major branch of Ayurveda. It contains Ayurvedic treatments for Fever and Diarrhea.
 
@@ -7040,10 +6046,7 @@ This concludes ‘Treatment for indigestion (16): Lavangadi rasa’ included in 
 
 ## 319. Part 23 - Treatment for indigestion (21): Sarvamayaghna rasa
 
-
 Rasa Jala Nidhi, vol 4: Iatrochemistry
-
-by Bhudeb Mookerjee | 1938 | 52,258 words | ISBN-10: 8170305829 | ISBN-13: 9788170305828
 
 This fourth volume of the Rasa-jala-nidhi deals with Rasa-chikitsa-vidya, also known a the science of Iatrchemistry (chemical medicine), a major branch of Ayurveda. It contains Ayurvedic treatments for Fever and Diarrhea.
 
@@ -7061,10 +6064,7 @@ This concludes ‘Treatment for indigestion (21): Sarvamayaghna rasa’ included
 
 ## 320. Part 24 - Treatment for indigestion (22): Shankha rasa
 
-
 Rasa Jala Nidhi, vol 4: Iatrochemistry
-
-by Bhudeb Mookerjee | 1938 | 52,258 words | ISBN-10: 8170305829 | ISBN-13: 9788170305828
 
 This fourth volume of the Rasa-jala-nidhi deals with Rasa-chikitsa-vidya, also known a the science of Iatrchemistry (chemical medicine), a major branch of Ayurveda. It contains Ayurvedic treatments for Fever and Diarrhea.
 
@@ -7082,10 +6082,7 @@ This concludes ‘Treatment for indigestion (22): Shankha rasa’ included in Bh
 
 ## 321. Part 26 - Treatment for indigestion (24): Ajirnari rasa
 
-
 Rasa Jala Nidhi, vol 4: Iatrochemistry
-
-by Bhudeb Mookerjee | 1938 | 52,258 words | ISBN-10: 8170305829 | ISBN-13: 9788170305828
 
 This fourth volume of the Rasa-jala-nidhi deals with Rasa-chikitsa-vidya, also known a the science of Iatrchemistry (chemical medicine), a major branch of Ayurveda. It contains Ayurvedic treatments for Fever and Diarrhea.
 
@@ -7103,10 +6100,7 @@ This concludes ‘Treatment for indigestion (24): Ajirnari rasa’ included in B
 
 ## 322. Part 27 - Treatment for indigestion (25): Bhaskara rasa
 
-
 Rasa Jala Nidhi, vol 4: Iatrochemistry
-
-by Bhudeb Mookerjee | 1938 | 52,258 words | ISBN-10: 8170305829 | ISBN-13: 9788170305828
 
 This fourth volume of the Rasa-jala-nidhi deals with Rasa-chikitsa-vidya, also known a the science of Iatrchemistry (chemical medicine), a major branch of Ayurveda. It contains Ayurvedic treatments for Fever and Diarrhea.
 
@@ -7124,10 +6118,7 @@ This concludes ‘Treatment for indigestion (25): Bhaskara rasa’ included in B
 
 ## 323. Part 30 - Treatment for indigestion (28): Rasanagadi rasa
 
-
 Rasa Jala Nidhi, vol 4: Iatrochemistry
-
-by Bhudeb Mookerjee | 1938 | 52,258 words | ISBN-10: 8170305829 | ISBN-13: 9788170305828
 
 This fourth volume of the Rasa-jala-nidhi deals with Rasa-chikitsa-vidya, also known a the science of Iatrchemistry (chemical medicine), a major branch of Ayurveda. It contains Ayurvedic treatments for Fever and Diarrhea.
 
@@ -7145,10 +6136,7 @@ This concludes ‘Treatment for indigestion (28): Rasanagadi rasa’ included in
 
 ## 324. Part 29 - Treatment for indigestion (27): Mahodadhi rasa
 
-
 Rasa Jala Nidhi, vol 4: Iatrochemistry
-
-by Bhudeb Mookerjee | 1938 | 52,258 words | ISBN-10: 8170305829 | ISBN-13: 9788170305828
 
 This fourth volume of the Rasa-jala-nidhi deals with Rasa-chikitsa-vidya, also known a the science of Iatrchemistry (chemical medicine), a major branch of Ayurveda. It contains Ayurvedic treatments for Fever and Diarrhea.
 
@@ -7166,10 +6154,7 @@ This concludes ‘Treatment for indigestion (27): Mahodadhi rasa’ included in 
 
 ## 325. Part 31 - Treatment for indigestion (29): Badavagni rasa
 
-
 Rasa Jala Nidhi, vol 4: Iatrochemistry
-
-by Bhudeb Mookerjee | 1938 | 52,258 words | ISBN-10: 8170305829 | ISBN-13: 9788170305828
 
 This fourth volume of the Rasa-jala-nidhi deals with Rasa-chikitsa-vidya, also known a the science of Iatrchemistry (chemical medicine), a major branch of Ayurveda. It contains Ayurvedic treatments for Fever and Diarrhea.
 
@@ -7187,10 +6172,7 @@ This concludes ‘Treatment for indigestion (29): Badavagni rasa’ included in 
 
 ## 326. Part 28 - Treatment for indigestion (26): Pradipana rasa
 
-
 Rasa Jala Nidhi, vol 4: Iatrochemistry
-
-by Bhudeb Mookerjee | 1938 | 52,258 words | ISBN-10: 8170305829 | ISBN-13: 9788170305828
 
 This fourth volume of the Rasa-jala-nidhi deals with Rasa-chikitsa-vidya, also known a the science of Iatrchemistry (chemical medicine), a major branch of Ayurveda. It contains Ayurvedic treatments for Fever and Diarrhea.
 
@@ -7208,10 +6190,7 @@ This concludes ‘Treatment for indigestion (26): Pradipana rasa’ included in 
 
 ## 327. Part 32 - Treatment for indigestion (30): Ghrita-mamsashi rasa
 
-
 Rasa Jala Nidhi, vol 4: Iatrochemistry
-
-by Bhudeb Mookerjee | 1938 | 52,258 words | ISBN-10: 8170305829 | ISBN-13: 9788170305828
 
 This fourth volume of the Rasa-jala-nidhi deals with Rasa-chikitsa-vidya, also known a the science of Iatrchemistry (chemical medicine), a major branch of Ayurveda. It contains Ayurvedic treatments for Fever and Diarrhea.
 
@@ -7229,25 +6208,15 @@ This concludes ‘Treatment for indigestion (30): Ghrita-mamsashi rasa’ includ
 
 ## 328. Part 33 - Treatment for indigestion (31): Kravyada rasa
 
-
 Rasa Jala Nidhi, vol 4: Iatrochemistry
-
-by Bhudeb Mookerjee | 1938 | 52,258 words | ISBN-10: 8170305829 | ISBN-13: 9788170305828
 
 This fourth volume of the Rasa-jala-nidhi deals with Rasa-chikitsa-vidya, also known a the science of Iatrchemistry (chemical medicine), a major branch of Ayurveda. It contains Ayurvedic treatments for Fever and Diarrhea.
 
 The Rasa-jala-nidhi (“the ocean of Iatrochemistry, or, chemical medicine) is a compendium of Sanskrit verses dealing with ancie...
 
-Go directly to: 
-Footnotes.
-
 Part 33 - Treatment for indigestion (31): Kravyada rasa
 
 Four tolas of mercury, eight tolas, each, of sulphur, copper, and iron are to be mixed together, and heated in an iron pot by means of mild heat. When melted, it is to be thrown upon eranda leaves and reduced to parpati, (see pag 262) which is to be boiled with four hundred tolas of lime juice, kept in another iron pot, heated by mild heat. When dried up, the compound is to be subjected to bhavana with two hundred tolas, each, of the decoctions of pancha-kola and amlabetasa. It is then to be mixed with sixteen tolas of borax, eight tolas of vira salt, and sixteen tolas of powdered maricha, and subjected to bhavana, for seven times, with chanakamla[1]. Pills are then to be made, twelve raktis in weight, each. One such pill is to be taken with butter milk, mixed with rock-salt. This medicine digests, in six hours, such heavy food as meat, pudding, etc- It also cures gulma, enlargement of spleen, udara-roga, colic, grahani, and diarrhoea.
-
-Footnotes and references:
-
-[back to top]
 
 [1]:
 
@@ -7261,10 +6230,7 @@ This concludes ‘Treatment for indigestion (31): Kravyada rasa’ included in B
 
 ## 329. Part 34 - Treatment for indigestion (32): Virahradrabhraka
 
-
 Rasa Jala Nidhi, vol 4: Iatrochemistry
-
-by Bhudeb Mookerjee | 1938 | 52,258 words | ISBN-10: 8170305829 | ISBN-13: 9788170305828
 
 This fourth volume of the Rasa-jala-nidhi deals with Rasa-chikitsa-vidya, also known a the science of Iatrchemistry (chemical medicine), a major branch of Ayurveda. It contains Ayurvedic treatments for Fever and Diarrhea.
 
@@ -7282,10 +6248,7 @@ This concludes ‘Treatment for indigestion (32): Virahradrabhraka’ included i
 
 ## 330. Part 35 - Treatment for indigestion (33): Vaishvanara-pottali rasa
 
-
 Rasa Jala Nidhi, vol 4: Iatrochemistry
-
-by Bhudeb Mookerjee | 1938 | 52,258 words | ISBN-10: 8170305829 | ISBN-13: 9788170305828
 
 This fourth volume of the Rasa-jala-nidhi deals with Rasa-chikitsa-vidya, also known a the science of Iatrchemistry (chemical medicine), a major branch of Ayurveda. It contains Ayurvedic treatments for Fever and Diarrhea.
 
@@ -7303,10 +6266,7 @@ This concludes ‘Treatment for indigestion (33): Vaishvanara-pottali rasa’ in
 
 ## 331. Part 36 - Treatment for indigestion (34): Vadavanani rasa
 
-
 Rasa Jala Nidhi, vol 4: Iatrochemistry
-
-by Bhudeb Mookerjee | 1938 | 52,258 words | ISBN-10: 8170305829 | ISBN-13: 9788170305828
 
 This fourth volume of the Rasa-jala-nidhi deals with Rasa-chikitsa-vidya, also known a the science of Iatrchemistry (chemical medicine), a major branch of Ayurveda. It contains Ayurvedic treatments for Fever and Diarrhea.
 
@@ -7324,10 +6284,7 @@ This concludes ‘Treatment for indigestion (34): Vadavanani rasa’ included in
 
 ## 332. Part 38 - Treatment for indigestion (36): Dvitiya-kravyada rasa
 
-
 Rasa Jala Nidhi, vol 4: Iatrochemistry
-
-by Bhudeb Mookerjee | 1938 | 52,258 words | ISBN-10: 8170305829 | ISBN-13: 9788170305828
 
 This fourth volume of the Rasa-jala-nidhi deals with Rasa-chikitsa-vidya, also known a the science of Iatrchemistry (chemical medicine), a major branch of Ayurveda. It contains Ayurvedic treatments for Fever and Diarrhea.
 
@@ -7345,10 +6302,7 @@ This concludes ‘Treatment for indigestion (36): Dvitiya-kravyada rasa’ inclu
 
 ## 333. Part 37 - Treatment for indigestion (35): Vidhvamsa rasa
 
-
 Rasa Jala Nidhi, vol 4: Iatrochemistry
-
-by Bhudeb Mookerjee | 1938 | 52,258 words | ISBN-10: 8170305829 | ISBN-13: 9788170305828
 
 This fourth volume of the Rasa-jala-nidhi deals with Rasa-chikitsa-vidya, also known a the science of Iatrchemistry (chemical medicine), a major branch of Ayurveda. It contains Ayurvedic treatments for Fever and Diarrhea.
 
@@ -7366,10 +6320,7 @@ This concludes ‘Treatment for indigestion (35): Vidhvamsa rasa’ included in 
 
 ## 334. Part 39 - Treatment for indigestion (37): Raja-shekhara rasa
 
-
 Rasa Jala Nidhi, vol 4: Iatrochemistry
-
-by Bhudeb Mookerjee | 1938 | 52,258 words | ISBN-10: 8170305829 | ISBN-13: 9788170305828
 
 This fourth volume of the Rasa-jala-nidhi deals with Rasa-chikitsa-vidya, also known a the science of Iatrchemistry (chemical medicine), a major branch of Ayurveda. It contains Ayurvedic treatments for Fever and Diarrhea.
 
@@ -7387,10 +6338,7 @@ This concludes ‘Treatment for indigestion (37): Raja-shekhara rasa’ included
 
 ## 335. Part 40 - Treatment for indigestion (38): Agni-suhrid rasa
 
-
 Rasa Jala Nidhi, vol 4: Iatrochemistry
-
-by Bhudeb Mookerjee | 1938 | 52,258 words | ISBN-10: 8170305829 | ISBN-13: 9788170305828
 
 This fourth volume of the Rasa-jala-nidhi deals with Rasa-chikitsa-vidya, also known a the science of Iatrchemistry (chemical medicine), a major branch of Ayurveda. It contains Ayurvedic treatments for Fever and Diarrhea.
 
@@ -7408,10 +6356,7 @@ This concludes ‘Treatment for indigestion (38): Agni-suhrid rasa’ included i
 
 ## 336. Part 41 - Treatment for indigestion (39): Amrita rasa
 
-
 Rasa Jala Nidhi, vol 4: Iatrochemistry
-
-by Bhudeb Mookerjee | 1938 | 52,258 words | ISBN-10: 8170305829 | ISBN-13: 9788170305828
 
 This fourth volume of the Rasa-jala-nidhi deals with Rasa-chikitsa-vidya, also known a the science of Iatrchemistry (chemical medicine), a major branch of Ayurveda. It contains Ayurvedic treatments for Fever and Diarrhea.
 
@@ -7429,10 +6374,7 @@ This concludes ‘Treatment for indigestion (39): Amrita rasa’ included in Bhu
 
 ## 337. Part 42 - Treatment for indigestion (40): Raksasa rasa
 
-
 Rasa Jala Nidhi, vol 4: Iatrochemistry
-
-by Bhudeb Mookerjee | 1938 | 52,258 words | ISBN-10: 8170305829 | ISBN-13: 9788170305828
 
 This fourth volume of the Rasa-jala-nidhi deals with Rasa-chikitsa-vidya, also known a the science of Iatrchemistry (chemical medicine), a major branch of Ayurveda. It contains Ayurvedic treatments for Fever and Diarrhea.
 
@@ -7450,10 +6392,7 @@ This concludes ‘Treatment for indigestion (40): Raksasa rasa’ included in Bh
 
 ## 338. Part 43 - Treatment for indigestion (41): Jivana rasa
 
-
 Rasa Jala Nidhi, vol 4: Iatrochemistry
-
-by Bhudeb Mookerjee | 1938 | 52,258 words | ISBN-10: 8170305829 | ISBN-13: 9788170305828
 
 This fourth volume of the Rasa-jala-nidhi deals with Rasa-chikitsa-vidya, also known a the science of Iatrchemistry (chemical medicine), a major branch of Ayurveda. It contains Ayurvedic treatments for Fever and Diarrhea.
 
@@ -7471,10 +6410,7 @@ This concludes ‘Treatment for indigestion (41): Jivana rasa’ included in Bhu
 
 ## 339. Part 44 - Treatment for indigestion (42): Vadavanibha rasa
 
-
 Rasa Jala Nidhi, vol 4: Iatrochemistry
-
-by Bhudeb Mookerjee | 1938 | 52,258 words | ISBN-10: 8170305829 | ISBN-13: 9788170305828
 
 This fourth volume of the Rasa-jala-nidhi deals with Rasa-chikitsa-vidya, also known a the science of Iatrchemistry (chemical medicine), a major branch of Ayurveda. It contains Ayurvedic treatments for Fever and Diarrhea.
 
@@ -7492,10 +6428,7 @@ This concludes ‘Treatment for indigestion (42): Vadavanibha rasa’ included i
 
 ## 340. Part 46 - Treatment for indigestion (44): Sarva-rogantaka rasa
 
-
 Rasa Jala Nidhi, vol 4: Iatrochemistry
-
-by Bhudeb Mookerjee | 1938 | 52,258 words | ISBN-10: 8170305829 | ISBN-13: 9788170305828
 
 This fourth volume of the Rasa-jala-nidhi deals with Rasa-chikitsa-vidya, also known a the science of Iatrchemistry (chemical medicine), a major branch of Ayurveda. It contains Ayurvedic treatments for Fever and Diarrhea.
 
@@ -7513,10 +6446,7 @@ This concludes ‘Treatment for indigestion (44): Sarva-rogantaka rasa’ includ
 
 ## 341. Part 47 - Treatment for indigestion (45): Triphala Lauha
 
-
 Rasa Jala Nidhi, vol 4: Iatrochemistry
-
-by Bhudeb Mookerjee | 1938 | 52,258 words | ISBN-10: 8170305829 | ISBN-13: 9788170305828
 
 This fourth volume of the Rasa-jala-nidhi deals with Rasa-chikitsa-vidya, also known a the science of Iatrchemistry (chemical medicine), a major branch of Ayurveda. It contains Ayurvedic treatments for Fever and Diarrhea.
 
@@ -7534,10 +6464,7 @@ This concludes ‘Treatment for indigestion (45): Triphala Lauha’ included in 
 
 ## 342. Treatment for fever (146): Kalpataru rasa
 
-
 Rasa Jala Nidhi, vol 4: Iatrochemistry
-
-by Bhudeb Mookerjee | 1938 | 52,258 words | ISBN-10: 8170305829 | ISBN-13: 9788170305828
 
 This fourth volume of the Rasa-jala-nidhi deals with Rasa-chikitsa-vidya, also known a the science of Iatrchemistry (chemical medicine), a major branch of Ayurveda. It contains Ayurvedic treatments for Fever and Diarrhea.
 
@@ -7555,10 +6482,7 @@ This concludes ‘Treatment for fever (146): Kalpataru rasa’ included in Bhude
 
 ## 343. Part 48 - Treatment for indigestion (46): Visvoddipakabhra
 
-
 Rasa Jala Nidhi, vol 4: Iatrochemistry
-
-by Bhudeb Mookerjee | 1938 | 52,258 words | ISBN-10: 8170305829 | ISBN-13: 9788170305828
 
 This fourth volume of the Rasa-jala-nidhi deals with Rasa-chikitsa-vidya, also known a the science of Iatrchemistry (chemical medicine), a major branch of Ayurveda. It contains Ayurvedic treatments for Fever and Diarrhea.
 
@@ -7580,10 +6504,7 @@ This concludes ‘Treatment for indigestion (46): Visvoddipakabhra’ included i
 
 ## 344. Part 49 - Treatment for indigestion (47): Application of Parpati
 
-
 Rasa Jala Nidhi, vol 4: Iatrochemistry
-
-by Bhudeb Mookerjee | 1938 | 52,258 words | ISBN-10: 8170305829 | ISBN-13: 9788170305828
 
 This fourth volume of the Rasa-jala-nidhi deals with Rasa-chikitsa-vidya, also known a the science of Iatrchemistry (chemical medicine), a major branch of Ayurveda. It contains Ayurvedic treatments for Fever and Diarrhea.
 
@@ -7601,10 +6522,7 @@ This concludes ‘Treatment for indigestion (47): Application of Parpati’ incl
 
 ## 345. Part 45 - Treatment for indigestion (43): Anala-janaka rasa
 
-
 Rasa Jala Nidhi, vol 4: Iatrochemistry
-
-by Bhudeb Mookerjee | 1938 | 52,258 words | ISBN-10: 8170305829 | ISBN-13: 9788170305828
 
 This fourth volume of the Rasa-jala-nidhi deals with Rasa-chikitsa-vidya, also known a the science of Iatrchemistry (chemical medicine), a major branch of Ayurveda. It contains Ayurvedic treatments for Fever and Diarrhea.
 
@@ -7622,10 +6540,7 @@ This concludes ‘Treatment for indigestion (43): Anala-janaka rasa’ included 
 
 ## 346. Part 49 - Diet in indigestion
 
-
 Rasa Jala Nidhi, vol 4: Iatrochemistry
-
-by Bhudeb Mookerjee | 1938 | 52,258 words | ISBN-10: 8170305829 | ISBN-13: 9788170305828
 
 This fourth volume of the Rasa-jala-nidhi deals with Rasa-chikitsa-vidya, also known a the science of Iatrchemistry (chemical medicine), a major branch of Ayurveda. It contains Ayurvedic treatments for Fever and Diarrhea.
 
@@ -7651,10 +6566,7 @@ This concludes ‘Diet in indigestion’ included in Bhudeb Mookerjee Rasa Jala 
 
 ## 347. Chapter V - Piles
 
-
 Rasa Jala Nidhi, vol 4: Iatrochemistry
-
-by Bhudeb Mookerjee | 1938 | 52,258 words | ISBN-10: 8170305829 | ISBN-13: 9788170305828
 
 This fourth volume of the Rasa-jala-nidhi deals with Rasa-chikitsa-vidya, also known a the science of Iatrchemistry (chemical medicine), a major branch of Ayurveda. It contains Ayurvedic treatments for Fever and Diarrhea.
 
@@ -7672,10 +6584,7 @@ This concludes ‘Piles’ included in Bhudeb Mookerjee Rasa Jala Nidhi, vol 4: 
 
 ## 348. Part 1 - Symptoms of piles
 
-
 Rasa Jala Nidhi, vol 4: Iatrochemistry
-
-by Bhudeb Mookerjee | 1938 | 52,258 words | ISBN-10: 8170305829 | ISBN-13: 9788170305828
 
 This fourth volume of the Rasa-jala-nidhi deals with Rasa-chikitsa-vidya, also known a the science of Iatrchemistry (chemical medicine), a major branch of Ayurveda. It contains Ayurvedic treatments for Fever and Diarrhea.
 
@@ -7693,10 +6602,7 @@ This concludes ‘Symptoms of piles’ included in Bhudeb Mookerjee Rasa Jala Ni
 
 ## 349. Part 3 - Treatment of Piles (2): Vidhubhusana rasa
 
-
 Rasa Jala Nidhi, vol 4: Iatrochemistry
-
-by Bhudeb Mookerjee | 1938 | 52,258 words | ISBN-10: 8170305829 | ISBN-13: 9788170305828
 
 This fourth volume of the Rasa-jala-nidhi deals with Rasa-chikitsa-vidya, also known a the science of Iatrchemistry (chemical medicine), a major branch of Ayurveda. It contains Ayurvedic treatments for Fever and Diarrhea.
 
@@ -7714,10 +6620,7 @@ This concludes ‘Treatment of Piles (2): Vidhubhusana rasa’ included in Bhude
 
 ## 350. Part 4 - Treatment of Piles (3): Mulari rasa
 
-
 Rasa Jala Nidhi, vol 4: Iatrochemistry
-
-by Bhudeb Mookerjee | 1938 | 52,258 words | ISBN-10: 8170305829 | ISBN-13: 9788170305828
 
 This fourth volume of the Rasa-jala-nidhi deals with Rasa-chikitsa-vidya, also known a the science of Iatrchemistry (chemical medicine), a major branch of Ayurveda. It contains Ayurvedic treatments for Fever and Diarrhea.
 
@@ -7735,10 +6638,7 @@ This concludes ‘Treatment of Piles (3): Mulari rasa’ included in Bhudeb Mook
 
 ## 351. Part 6 - Treatment of Piles (5): Mula-kuthura rasa
 
-
 Rasa Jala Nidhi, vol 4: Iatrochemistry
-
-by Bhudeb Mookerjee | 1938 | 52,258 words | ISBN-10: 8170305829 | ISBN-13: 9788170305828
 
 This fourth volume of the Rasa-jala-nidhi deals with Rasa-chikitsa-vidya, also known a the science of Iatrchemistry (chemical medicine), a major branch of Ayurveda. It contains Ayurvedic treatments for Fever and Diarrhea.
 
@@ -7756,10 +6656,7 @@ This concludes ‘Treatment of Piles (5): Mula-kuthura rasa’ included in Bhude
 
 ## 352. Part 7 - Treatment of Piles (6): Vara-nagadi rasa
 
-
 Rasa Jala Nidhi, vol 4: Iatrochemistry
-
-by Bhudeb Mookerjee | 1938 | 52,258 words | ISBN-10: 8170305829 | ISBN-13: 9788170305828
 
 This fourth volume of the Rasa-jala-nidhi deals with Rasa-chikitsa-vidya, also known a the science of Iatrchemistry (chemical medicine), a major branch of Ayurveda. It contains Ayurvedic treatments for Fever and Diarrhea.
 
@@ -7779,10 +6676,7 @@ This concludes ‘Treatment of Piles (6): Vara-nagadi rasa’ included in Bhudeb
 
 ## 353. Part 8 - Treatment of Piles (7): Mahodaya-pratyayasa rasa
 
-
 Rasa Jala Nidhi, vol 4: Iatrochemistry
-
-by Bhudeb Mookerjee | 1938 | 52,258 words | ISBN-10: 8170305829 | ISBN-13: 9788170305828
 
 This fourth volume of the Rasa-jala-nidhi deals with Rasa-chikitsa-vidya, also known a the science of Iatrchemistry (chemical medicine), a major branch of Ayurveda. It contains Ayurvedic treatments for Fever and Diarrhea.
 
@@ -7800,10 +6694,7 @@ This concludes ‘Treatment of Piles (7): Mahodaya-pratyayasa rasa’ included i
 
 ## 354. Part 5 - Treatment of Piles (4): Sarva-lokashraya rasa
 
-
 Rasa Jala Nidhi, vol 4: Iatrochemistry
-
-by Bhudeb Mookerjee | 1938 | 52,258 words | ISBN-10: 8170305829 | ISBN-13: 9788170305828
 
 This fourth volume of the Rasa-jala-nidhi deals with Rasa-chikitsa-vidya, also known a the science of Iatrchemistry (chemical medicine), a major branch of Ayurveda. It contains Ayurvedic treatments for Fever and Diarrhea.
 
@@ -7821,10 +6712,7 @@ This concludes ‘Treatment of Piles (4): Sarva-lokashraya rasa’ included in B
 
 ## 355. Part 9 - Treatment of Piles (8): Hiranya-sundara rasa
 
-
 Rasa Jala Nidhi, vol 4: Iatrochemistry
-
-by Bhudeb Mookerjee | 1938 | 52,258 words | ISBN-10: 8170305829 | ISBN-13: 9788170305828
 
 This fourth volume of the Rasa-jala-nidhi deals with Rasa-chikitsa-vidya, also known a the science of Iatrchemistry (chemical medicine), a major branch of Ayurveda. It contains Ayurvedic treatments for Fever and Diarrhea.
 
@@ -7842,10 +6730,7 @@ This concludes ‘Treatment of Piles (8): Hiranya-sundara rasa’ included in Bh
 
 ## 356. Part 10 - Treatment of Piles (9): Arkesha rasa
 
-
 Rasa Jala Nidhi, vol 4: Iatrochemistry
-
-by Bhudeb Mookerjee | 1938 | 52,258 words | ISBN-10: 8170305829 | ISBN-13: 9788170305828
 
 This fourth volume of the Rasa-jala-nidhi deals with Rasa-chikitsa-vidya, also known a the science of Iatrchemistry (chemical medicine), a major branch of Ayurveda. It contains Ayurvedic treatments for Fever and Diarrhea.
 
@@ -7863,10 +6748,7 @@ This concludes ‘Treatment of Piles (9): Arkesha rasa’ included in Bhudeb Moo
 
 ## 357. Part 11 - Treatment of Piles (10): Tiksna-mukha rasa
 
-
 Rasa Jala Nidhi, vol 4: Iatrochemistry
-
-by Bhudeb Mookerjee | 1938 | 52,258 words | ISBN-10: 8170305829 | ISBN-13: 9788170305828
 
 This fourth volume of the Rasa-jala-nidhi deals with Rasa-chikitsa-vidya, also known a the science of Iatrchemistry (chemical medicine), a major branch of Ayurveda. It contains Ayurvedic treatments for Fever and Diarrhea.
 
@@ -7884,10 +6766,7 @@ This concludes ‘Treatment of Piles (10): Tiksna-mukha rasa’ included in Bhud
 
 ## 358. Part 12 - Treatment of Piles (11): Arsha-binasha rasa
 
-
 Rasa Jala Nidhi, vol 4: Iatrochemistry
-
-by Bhudeb Mookerjee | 1938 | 52,258 words | ISBN-10: 8170305829 | ISBN-13: 9788170305828
 
 This fourth volume of the Rasa-jala-nidhi deals with Rasa-chikitsa-vidya, also known a the science of Iatrchemistry (chemical medicine), a major branch of Ayurveda. It contains Ayurvedic treatments for Fever and Diarrhea.
 
@@ -7905,10 +6784,7 @@ This concludes ‘Treatment of Piles (11): Arsha-binasha rasa’ included in Bhu
 
 ## 359. Part 13 - Treatment of Piles (12): Trailokya-tilaka rasa
 
-
 Rasa Jala Nidhi, vol 4: Iatrochemistry
-
-by Bhudeb Mookerjee | 1938 | 52,258 words | ISBN-10: 8170305829 | ISBN-13: 9788170305828
 
 This fourth volume of the Rasa-jala-nidhi deals with Rasa-chikitsa-vidya, also known a the science of Iatrchemistry (chemical medicine), a major branch of Ayurveda. It contains Ayurvedic treatments for Fever and Diarrhea.
 
@@ -7928,10 +6804,7 @@ This concludes ‘Treatment of Piles (12): Trailokya-tilaka rasa’ included in 
 
 ## 360. Part 14 - Treatment of Piles (13): Karunamaya rasa
 
-
 Rasa Jala Nidhi, vol 4: Iatrochemistry
-
-by Bhudeb Mookerjee | 1938 | 52,258 words | ISBN-10: 8170305829 | ISBN-13: 9788170305828
 
 This fourth volume of the Rasa-jala-nidhi deals with Rasa-chikitsa-vidya, also known a the science of Iatrchemistry (chemical medicine), a major branch of Ayurveda. It contains Ayurvedic treatments for Fever and Diarrhea.
 
@@ -7949,10 +6822,7 @@ This concludes ‘Treatment of Piles (13): Karunamaya rasa’ included in Bhudeb
 
 ## 361. Part 15 - Treatment of Piles (14): Arsha-kripana rasa
 
-
 Rasa Jala Nidhi, vol 4: Iatrochemistry
-
-by Bhudeb Mookerjee | 1938 | 52,258 words | ISBN-10: 8170305829 | ISBN-13: 9788170305828
 
 This fourth volume of the Rasa-jala-nidhi deals with Rasa-chikitsa-vidya, also known a the science of Iatrchemistry (chemical medicine), a major branch of Ayurveda. It contains Ayurvedic treatments for Fever and Diarrhea.
 
@@ -7970,10 +6840,7 @@ This concludes ‘Treatment of Piles (14): Arsha-kripana rasa’ included in Bhu
 
 ## 362. Part 16 - Treatment of Piles (15): Chakradhara rasa
 
-
 Rasa Jala Nidhi, vol 4: Iatrochemistry
-
-by Bhudeb Mookerjee | 1938 | 52,258 words | ISBN-10: 8170305829 | ISBN-13: 9788170305828
 
 This fourth volume of the Rasa-jala-nidhi deals with Rasa-chikitsa-vidya, also known a the science of Iatrchemistry (chemical medicine), a major branch of Ayurveda. It contains Ayurvedic treatments for Fever and Diarrhea.
 
@@ -7991,10 +6858,7 @@ This concludes ‘Treatment of Piles (15): Chakradhara rasa’ included in Bhude
 
 ## 363. Part 17 - Treatment of Piles (16): Chanchat-kuthara rasa
 
-
 Rasa Jala Nidhi, vol 4: Iatrochemistry
-
-by Bhudeb Mookerjee | 1938 | 52,258 words | ISBN-10: 8170305829 | ISBN-13: 9788170305828
 
 This fourth volume of the Rasa-jala-nidhi deals with Rasa-chikitsa-vidya, also known a the science of Iatrchemistry (chemical medicine), a major branch of Ayurveda. It contains Ayurvedic treatments for Fever and Diarrhea.
 
@@ -8012,10 +6876,7 @@ This concludes ‘Treatment of Piles (16): Chanchat-kuthara rasa’ included in 
 
 ## 364. Part 14 - Treatment of Piles (13): Karunamaya rasa
 
-
 Rasa Jala Nidhi, vol 4: Iatrochemistry
-
-by Bhudeb Mookerjee | 1938 | 52,258 words | ISBN-10: 8170305829 | ISBN-13: 9788170305828
 
 This fourth volume of the Rasa-jala-nidhi deals with Rasa-chikitsa-vidya, also known a the science of Iatrchemistry (chemical medicine), a major branch of Ayurveda. It contains Ayurvedic treatments for Fever and Diarrhea.
 
@@ -8033,10 +6894,7 @@ This concludes ‘Treatment of Piles (13): Karunamaya rasa’ included in Bhudeb
 
 ## 365. Part 18 - Treatment of Piles (17): Shila-gandhaka vataka
 
-
 Rasa Jala Nidhi, vol 4: Iatrochemistry
-
-by Bhudeb Mookerjee | 1938 | 52,258 words | ISBN-10: 8170305829 | ISBN-13: 9788170305828
 
 This fourth volume of the Rasa-jala-nidhi deals with Rasa-chikitsa-vidya, also known a the science of Iatrchemistry (chemical medicine), a major branch of Ayurveda. It contains Ayurvedic treatments for Fever and Diarrhea.
 
@@ -8054,10 +6912,7 @@ This concludes ‘Treatment of Piles (17): Shila-gandhaka vataka’ included in 
 
 ## 366. Part 19 - Treatment of Piles (18): Panchamukha rasa
 
-
 Rasa Jala Nidhi, vol 4: Iatrochemistry
-
-by Bhudeb Mookerjee | 1938 | 52,258 words | ISBN-10: 8170305829 | ISBN-13: 9788170305828
 
 This fourth volume of the Rasa-jala-nidhi deals with Rasa-chikitsa-vidya, also known a the science of Iatrchemistry (chemical medicine), a major branch of Ayurveda. It contains Ayurvedic treatments for Fever and Diarrhea.
 
@@ -8075,10 +6930,7 @@ This concludes ‘Treatment of Piles (18): Panchamukha rasa’ included in Bhude
 
 ## 367. Part 20 - Treatment of Piles (19): Nityodita rasa
 
-
 Rasa Jala Nidhi, vol 4: Iatrochemistry
-
-by Bhudeb Mookerjee | 1938 | 52,258 words | ISBN-10: 8170305829 | ISBN-13: 9788170305828
 
 This fourth volume of the Rasa-jala-nidhi deals with Rasa-chikitsa-vidya, also known a the science of Iatrchemistry (chemical medicine), a major branch of Ayurveda. It contains Ayurvedic treatments for Fever and Diarrhea.
 
@@ -8096,10 +6948,7 @@ This concludes ‘Treatment of Piles (19): Nityodita rasa’ included in Bhudeb 
 
 ## 368. Part 21 - Treatment of Piles (20): Astanga rasa
 
-
 Rasa Jala Nidhi, vol 4: Iatrochemistry
-
-by Bhudeb Mookerjee | 1938 | 52,258 words | ISBN-10: 8170305829 | ISBN-13: 9788170305828
 
 This fourth volume of the Rasa-jala-nidhi deals with Rasa-chikitsa-vidya, also known a the science of Iatrchemistry (chemical medicine), a major branch of Ayurveda. It contains Ayurvedic treatments for Fever and Diarrhea.
 
@@ -8117,10 +6966,7 @@ This concludes ‘Treatment of Piles (20): Astanga rasa’ included in Bhudeb Mo
 
 ## 369. Part 2 - Treatment of Piles (1): Arsha-kuthara rasa
 
-
 Rasa Jala Nidhi, vol 4: Iatrochemistry
-
-by Bhudeb Mookerjee | 1938 | 52,258 words | ISBN-10: 8170305829 | ISBN-13: 9788170305828
 
 This fourth volume of the Rasa-jala-nidhi deals with Rasa-chikitsa-vidya, also known a the science of Iatrchemistry (chemical medicine), a major branch of Ayurveda. It contains Ayurvedic treatments for Fever and Diarrhea.
 
@@ -8138,10 +6984,7 @@ This concludes ‘Treatment of Piles (1): Arsha-kuthara rasa’ included in Bhud
 
 ## 370. Part 23 - Diet in piles
 
-
 Rasa Jala Nidhi, vol 4: Iatrochemistry
-
-by Bhudeb Mookerjee | 1938 | 52,258 words | ISBN-10: 8170305829 | ISBN-13: 9788170305828
 
 This fourth volume of the Rasa-jala-nidhi deals with Rasa-chikitsa-vidya, also known a the science of Iatrchemistry (chemical medicine), a major branch of Ayurveda. It contains Ayurvedic treatments for Fever and Diarrhea.
 
@@ -8165,10 +7008,7 @@ This concludes ‘Diet in piles’ included in Bhudeb Mookerjee Rasa Jala Nidhi,
 
 ## 371. Chapter VI - Diseases affecting the belly (udara-roga)
 
-
 Rasa Jala Nidhi, vol 4: Iatrochemistry
-
-by Bhudeb Mookerjee | 1938 | 52,258 words | ISBN-10: 8170305829 | ISBN-13: 9788170305828
 
 This fourth volume of the Rasa-jala-nidhi deals with Rasa-chikitsa-vidya, also known a the science of Iatrchemistry (chemical medicine), a major branch of Ayurveda. It contains Ayurvedic treatments for Fever and Diarrhea.
 
@@ -8186,10 +7026,7 @@ This concludes ‘Diseases affecting the belly (udara-roga)’ included in Bhude
 
 ## 372. Part 22 - Treatment of Piles (21): Application of Parpati
 
-
 Rasa Jala Nidhi, vol 4: Iatrochemistry
-
-by Bhudeb Mookerjee | 1938 | 52,258 words | ISBN-10: 8170305829 | ISBN-13: 9788170305828
 
 This fourth volume of the Rasa-jala-nidhi deals with Rasa-chikitsa-vidya, also known a the science of Iatrchemistry (chemical medicine), a major branch of Ayurveda. It contains Ayurvedic treatments for Fever and Diarrhea.
 
@@ -8207,10 +7044,7 @@ This concludes ‘Treatment of Piles (21): Application of Parpati’ included in
 
 ## 373. Part 2 - Purgation in udara-roga
 
-
 Rasa Jala Nidhi, vol 4: Iatrochemistry
-
-by Bhudeb Mookerjee | 1938 | 52,258 words | ISBN-10: 8170305829 | ISBN-13: 9788170305828
 
 This fourth volume of the Rasa-jala-nidhi deals with Rasa-chikitsa-vidya, also known a the science of Iatrchemistry (chemical medicine), a major branch of Ayurveda. It contains Ayurvedic treatments for Fever and Diarrhea.
 
@@ -8228,10 +7062,7 @@ This concludes ‘Purgation in udara-roga’ included in Bhudeb Mookerjee Rasa J
 
 ## 374. Part 3 - Tapping of water in dropsy
 
-
 Rasa Jala Nidhi, vol 4: Iatrochemistry
-
-by Bhudeb Mookerjee | 1938 | 52,258 words | ISBN-10: 8170305829 | ISBN-13: 9788170305828
 
 This fourth volume of the Rasa-jala-nidhi deals with Rasa-chikitsa-vidya, also known a the science of Iatrchemistry (chemical medicine), a major branch of Ayurveda. It contains Ayurvedic treatments for Fever and Diarrhea.
 
@@ -8249,10 +7080,7 @@ This concludes ‘Tapping of water in dropsy’ included in Bhudeb Mookerjee Ras
 
 ## 375. Part 4 - Treatment of Udara-roga (1): Trailokya-sundara rasa
 
-
 Rasa Jala Nidhi, vol 4: Iatrochemistry
-
-by Bhudeb Mookerjee | 1938 | 52,258 words | ISBN-10: 8170305829 | ISBN-13: 9788170305828
 
 This fourth volume of the Rasa-jala-nidhi deals with Rasa-chikitsa-vidya, also known a the science of Iatrchemistry (chemical medicine), a major branch of Ayurveda. It contains Ayurvedic treatments for Fever and Diarrhea.
 
@@ -8272,10 +7100,7 @@ This concludes ‘Treatment of Udara-roga (1): Trailokya-sundara rasa’ include
 
 ## 376. Part 6 - Treatment of Udara-roga (3): Shita-sevananta rasa
 
-
 Rasa Jala Nidhi, vol 4: Iatrochemistry
-
-by Bhudeb Mookerjee | 1938 | 52,258 words | ISBN-10: 8170305829 | ISBN-13: 9788170305828
 
 This fourth volume of the Rasa-jala-nidhi deals with Rasa-chikitsa-vidya, also known a the science of Iatrchemistry (chemical medicine), a major branch of Ayurveda. It contains Ayurvedic treatments for Fever and Diarrhea.
 
@@ -8293,10 +7118,7 @@ This concludes ‘Treatment of Udara-roga (3): Shita-sevananta rasa’ included 
 
 ## 377. Part 7 - Treatment of Udara-roga (4): Svechchha-bhedi rasa
 
-
 Rasa Jala Nidhi, vol 4: Iatrochemistry
-
-by Bhudeb Mookerjee | 1938 | 52,258 words | ISBN-10: 8170305829 | ISBN-13: 9788170305828
 
 This fourth volume of the Rasa-jala-nidhi deals with Rasa-chikitsa-vidya, also known a the science of Iatrchemistry (chemical medicine), a major branch of Ayurveda. It contains Ayurvedic treatments for Fever and Diarrhea.
 
@@ -8314,10 +7136,7 @@ This concludes ‘Treatment of Udara-roga (4): Svechchha-bhedi rasa’ included 
 
 ## 378. Part 8 - Treatment of Udara-roga (5): Jalodara-hara rasa
 
-
 Rasa Jala Nidhi, vol 4: Iatrochemistry
-
-by Bhudeb Mookerjee | 1938 | 52,258 words | ISBN-10: 8170305829 | ISBN-13: 9788170305828
 
 This fourth volume of the Rasa-jala-nidhi deals with Rasa-chikitsa-vidya, also known a the science of Iatrchemistry (chemical medicine), a major branch of Ayurveda. It contains Ayurvedic treatments for Fever and Diarrhea.
 
@@ -8335,10 +7154,7 @@ This concludes ‘Treatment of Udara-roga (5): Jalodara-hara rasa’ included in
 
 ## 379. Part 9 - Treatment of Udara-roga (6): Jalodarari rasa
 
-
 Rasa Jala Nidhi, vol 4: Iatrochemistry
-
-by Bhudeb Mookerjee | 1938 | 52,258 words | ISBN-10: 8170305829 | ISBN-13: 9788170305828
 
 This fourth volume of the Rasa-jala-nidhi deals with Rasa-chikitsa-vidya, also known a the science of Iatrchemistry (chemical medicine), a major branch of Ayurveda. It contains Ayurvedic treatments for Fever and Diarrhea.
 
@@ -8356,10 +7172,7 @@ This concludes ‘Treatment of Udara-roga (6): Jalodarari rasa’ included in Bh
 
 ## 380. Part 11 - Treatment of Udara-roga (8): Maha-vahni rasa
 
-
 Rasa Jala Nidhi, vol 4: Iatrochemistry
-
-by Bhudeb Mookerjee | 1938 | 52,258 words | ISBN-10: 8170305829 | ISBN-13: 9788170305828
 
 This fourth volume of the Rasa-jala-nidhi deals with Rasa-chikitsa-vidya, also known a the science of Iatrchemistry (chemical medicine), a major branch of Ayurveda. It contains Ayurvedic treatments for Fever and Diarrhea.
 
@@ -8377,10 +7190,7 @@ This concludes ‘Treatment of Udara-roga (8): Maha-vahni rasa’ included in Bh
 
 ## 381. Part 1 - Characteristics of Udara-roga (diseases affecting the belly)
 
-
 Rasa Jala Nidhi, vol 4: Iatrochemistry
-
-by Bhudeb Mookerjee | 1938 | 52,258 words | ISBN-10: 8170305829 | ISBN-13: 9788170305828
 
 This fourth volume of the Rasa-jala-nidhi deals with Rasa-chikitsa-vidya, also known a the science of Iatrchemistry (chemical medicine), a major branch of Ayurveda. It contains Ayurvedic treatments for Fever and Diarrhea.
 
@@ -8446,10 +7256,7 @@ This concludes ‘Characteristics of Udara-roga (diseases affecting the belly)�
 
 ## 382. Part 12 - Treatment of Udara-roga (9): Pippalyadya lauha
 
-
 Rasa Jala Nidhi, vol 4: Iatrochemistry
-
-by Bhudeb Mookerjee | 1938 | 52,258 words | ISBN-10: 8170305829 | ISBN-13: 9788170305828
 
 This fourth volume of the Rasa-jala-nidhi deals with Rasa-chikitsa-vidya, also known a the science of Iatrchemistry (chemical medicine), a major branch of Ayurveda. It contains Ayurvedic treatments for Fever and Diarrhea.
 
@@ -8467,10 +7274,7 @@ This concludes ‘Treatment of Udara-roga (9): Pippalyadya lauha’ included in 
 
 ## 383. Part 10 - Treatment of Udara-roga (7): Naracha rasa
 
-
 Rasa Jala Nidhi, vol 4: Iatrochemistry
-
-by Bhudeb Mookerjee | 1938 | 52,258 words | ISBN-10: 8170305829 | ISBN-13: 9788170305828
 
 This fourth volume of the Rasa-jala-nidhi deals with Rasa-chikitsa-vidya, also known a the science of Iatrchemistry (chemical medicine), a major branch of Ayurveda. It contains Ayurvedic treatments for Fever and Diarrhea.
 
@@ -8488,10 +7292,7 @@ This concludes ‘Treatment of Udara-roga (7): Naracha rasa’ included in Bhude
 
 ## 384. Part 13 - Treatment of Udara-roga (10): Udarari rasa
 
-
 Rasa Jala Nidhi, vol 4: Iatrochemistry
-
-by Bhudeb Mookerjee | 1938 | 52,258 words | ISBN-10: 8170305829 | ISBN-13: 9788170305828
 
 This fourth volume of the Rasa-jala-nidhi deals with Rasa-chikitsa-vidya, also known a the science of Iatrchemistry (chemical medicine), a major branch of Ayurveda. It contains Ayurvedic treatments for Fever and Diarrhea.
 
@@ -8509,10 +7310,7 @@ This concludes ‘Treatment of Udara-roga (10): Udarari rasa’ included in Bhud
 
 ## 385. Part 14 - Treatment of Udara-roga (11): Shri-Vaidyanathadesha rasa
 
-
 Rasa Jala Nidhi, vol 4: Iatrochemistry
-
-by Bhudeb Mookerjee | 1938 | 52,258 words | ISBN-10: 8170305829 | ISBN-13: 9788170305828
 
 This fourth volume of the Rasa-jala-nidhi deals with Rasa-chikitsa-vidya, also known a the science of Iatrchemistry (chemical medicine), a major branch of Ayurveda. It contains Ayurvedic treatments for Fever and Diarrhea.
 
@@ -8530,10 +7328,7 @@ This concludes ‘Treatment of Udara-roga (11): Shri-Vaidyanathadesha rasa’ in
 
 ## 386. Part 15 - Treatment of Udara-roga (12): Biraja rasa
 
-
 Rasa Jala Nidhi, vol 4: Iatrochemistry
-
-by Bhudeb Mookerjee | 1938 | 52,258 words | ISBN-10: 8170305829 | ISBN-13: 9788170305828
 
 This fourth volume of the Rasa-jala-nidhi deals with Rasa-chikitsa-vidya, also known a the science of Iatrchemistry (chemical medicine), a major branch of Ayurveda. It contains Ayurvedic treatments for Fever and Diarrhea.
 
@@ -8551,10 +7346,7 @@ This concludes ‘Treatment of Udara-roga (12): Biraja rasa’ included in Bhude
 
 ## 387. Part 17 - Treatment of Udara-roga (14): Surechana rasa
 
-
 Rasa Jala Nidhi, vol 4: Iatrochemistry
-
-by Bhudeb Mookerjee | 1938 | 52,258 words | ISBN-10: 8170305829 | ISBN-13: 9788170305828
 
 This fourth volume of the Rasa-jala-nidhi deals with Rasa-chikitsa-vidya, also known a the science of Iatrchemistry (chemical medicine), a major branch of Ayurveda. It contains Ayurvedic treatments for Fever and Diarrhea.
 
@@ -8572,10 +7364,7 @@ This concludes ‘Treatment of Udara-roga (14): Surechana rasa’ included in Bh
 
 ## 388. Part 16 - Treatment of Udara-roga (13): Vinoda-vidyadhara rasa
 
-
 Rasa Jala Nidhi, vol 4: Iatrochemistry
-
-by Bhudeb Mookerjee | 1938 | 52,258 words | ISBN-10: 8170305829 | ISBN-13: 9788170305828
 
 This fourth volume of the Rasa-jala-nidhi deals with Rasa-chikitsa-vidya, also known a the science of Iatrchemistry (chemical medicine), a major branch of Ayurveda. It contains Ayurvedic treatments for Fever and Diarrhea.
 
@@ -8593,10 +7382,7 @@ This concludes ‘Treatment of Udara-roga (13): Vinoda-vidyadhara rasa’ includ
 
 ## 389. Part 18 - Treatment of Udara-roga (15): Udaraghna rasa
 
-
 Rasa Jala Nidhi, vol 4: Iatrochemistry
-
-by Bhudeb Mookerjee | 1938 | 52,258 words | ISBN-10: 8170305829 | ISBN-13: 9788170305828
 
 This fourth volume of the Rasa-jala-nidhi deals with Rasa-chikitsa-vidya, also known a the science of Iatrchemistry (chemical medicine), a major branch of Ayurveda. It contains Ayurvedic treatments for Fever and Diarrhea.
 
@@ -8614,10 +7400,7 @@ This concludes ‘Treatment of Udara-roga (15): Udaraghna rasa’ included in Bh
 
 ## 390. Part 20 - Treatment of Udara-roga (17): Trailokya-ranjana rasa
 
-
 Rasa Jala Nidhi, vol 4: Iatrochemistry
-
-by Bhudeb Mookerjee | 1938 | 52,258 words | ISBN-10: 8170305829 | ISBN-13: 9788170305828
 
 This fourth volume of the Rasa-jala-nidhi deals with Rasa-chikitsa-vidya, also known a the science of Iatrchemistry (chemical medicine), a major branch of Ayurveda. It contains Ayurvedic treatments for Fever and Diarrhea.
 
@@ -8637,10 +7420,7 @@ This concludes ‘Treatment of Udara-roga (17): Trailokya-ranjana rasa’ includ
 
 ## 391. Part 21 - Treatment of Udara-roga (18): Mahanala rasa
 
-
 Rasa Jala Nidhi, vol 4: Iatrochemistry
-
-by Bhudeb Mookerjee | 1938 | 52,258 words | ISBN-10: 8170305829 | ISBN-13: 9788170305828
 
 This fourth volume of the Rasa-jala-nidhi deals with Rasa-chikitsa-vidya, also known a the science of Iatrchemistry (chemical medicine), a major branch of Ayurveda. It contains Ayurvedic treatments for Fever and Diarrhea.
 
@@ -8660,10 +7440,7 @@ This concludes ‘Treatment of Udara-roga (18): Mahanala rasa’ included in Bhu
 
 ## 392. Part 19 - Treatment of Udara-roga (16): Mrityu-nirodha rasa
 
-
 Rasa Jala Nidhi, vol 4: Iatrochemistry
-
-by Bhudeb Mookerjee | 1938 | 52,258 words | ISBN-10: 8170305829 | ISBN-13: 9788170305828
 
 This fourth volume of the Rasa-jala-nidhi deals with Rasa-chikitsa-vidya, also known a the science of Iatrchemistry (chemical medicine), a major branch of Ayurveda. It contains Ayurvedic treatments for Fever and Diarrhea.
 
@@ -8683,10 +7460,7 @@ This concludes ‘Treatment of Udara-roga (16): Mrityu-nirodha rasa’ included 
 
 ## 393. Part 22 - Treatment of Udara-roga (19): Vaisvanara rasa
 
-
 Rasa Jala Nidhi, vol 4: Iatrochemistry
-
-by Bhudeb Mookerjee | 1938 | 52,258 words | ISBN-10: 8170305829 | ISBN-13: 9788170305828
 
 This fourth volume of the Rasa-jala-nidhi deals with Rasa-chikitsa-vidya, also known a the science of Iatrchemistry (chemical medicine), a major branch of Ayurveda. It contains Ayurvedic treatments for Fever and Diarrhea.
 
@@ -8704,10 +7478,7 @@ This concludes ‘Treatment of Udara-roga (19): Vaisvanara rasa’ included in B
 
 ## 394. Part 23 - Treatment of Udara-roga (20): Udara-martanda rasa
 
-
 Rasa Jala Nidhi, vol 4: Iatrochemistry
-
-by Bhudeb Mookerjee | 1938 | 52,258 words | ISBN-10: 8170305829 | ISBN-13: 9788170305828
 
 This fourth volume of the Rasa-jala-nidhi deals with Rasa-chikitsa-vidya, also known a the science of Iatrchemistry (chemical medicine), a major branch of Ayurveda. It contains Ayurvedic treatments for Fever and Diarrhea.
 
@@ -8725,10 +7496,7 @@ This concludes ‘Treatment of Udara-roga (20): Udara-martanda rasa’ included 
 
 ## 395. Part 24 - Treatment of Udara-roga (21): Application of copper
 
-
 Rasa Jala Nidhi, vol 4: Iatrochemistry
-
-by Bhudeb Mookerjee | 1938 | 52,258 words | ISBN-10: 8170305829 | ISBN-13: 9788170305828
 
 This fourth volume of the Rasa-jala-nidhi deals with Rasa-chikitsa-vidya, also known a the science of Iatrchemistry (chemical medicine), a major branch of Ayurveda. It contains Ayurvedic treatments for Fever and Diarrhea.
 
@@ -8746,10 +7514,7 @@ This concludes ‘Treatment of Udara-roga (21): Application of copper’ include
 
 ## 396. Part 25 - Treatment of Udara-roga (22): Application of parpati
 
-
 Rasa Jala Nidhi, vol 4: Iatrochemistry
-
-by Bhudeb Mookerjee | 1938 | 52,258 words | ISBN-10: 8170305829 | ISBN-13: 9788170305828
 
 This fourth volume of the Rasa-jala-nidhi deals with Rasa-chikitsa-vidya, also known a the science of Iatrchemistry (chemical medicine), a major branch of Ayurveda. It contains Ayurvedic treatments for Fever and Diarrhea.
 
@@ -8767,10 +7532,7 @@ This concludes ‘Treatment of Udara-roga (22): Application of parpati’ includ
 
 ## 397. Part 26 - Diet and actions in udara-roga
 
-
 Rasa Jala Nidhi, vol 4: Iatrochemistry
-
-by Bhudeb Mookerjee | 1938 | 52,258 words | ISBN-10: 8170305829 | ISBN-13: 9788170305828
 
 This fourth volume of the Rasa-jala-nidhi deals with Rasa-chikitsa-vidya, also known a the science of Iatrchemistry (chemical medicine), a major branch of Ayurveda. It contains Ayurvedic treatments for Fever and Diarrhea.
 
@@ -8796,10 +7558,7 @@ This concludes ‘Diet and actions in udara-roga’ included in Bhudeb Mookerjee
 
 ## 398. Part 1 - Enlargement of spleen and liver: causes and symptoms
 
-
 Rasa Jala Nidhi, vol 4: Iatrochemistry
-
-by Bhudeb Mookerjee | 1938 | 52,258 words | ISBN-10: 8170305829 | ISBN-13: 9788170305828
 
 This fourth volume of the Rasa-jala-nidhi deals with Rasa-chikitsa-vidya, also known a the science of Iatrchemistry (chemical medicine), a major branch of Ayurveda. It contains Ayurvedic treatments for Fever and Diarrhea.
 
@@ -8821,10 +7580,7 @@ This concludes ‘Enlargement of spleen and liver: causes and symptoms’ includ
 
 ## 399. Part 2 - Treatment for enlargement of spleen and liver (1): Plihantaka rasa
 
-
 Rasa Jala Nidhi, vol 4: Iatrochemistry
-
-by Bhudeb Mookerjee | 1938 | 52,258 words | ISBN-10: 8170305829 | ISBN-13: 9788170305828
 
 This fourth volume of the Rasa-jala-nidhi deals with Rasa-chikitsa-vidya, also known a the science of Iatrchemistry (chemical medicine), a major branch of Ayurveda. It contains Ayurvedic treatments for Fever and Diarrhea.
 
@@ -8842,10 +7598,7 @@ This concludes ‘Treatment for enlargement of spleen and liver (1): Plihantaka 
 
 ## 400. Chapter VII - Enlargement of spleen (plihodara) and liver (yakridudara)
 
-
 Rasa Jala Nidhi, vol 4: Iatrochemistry
-
-by Bhudeb Mookerjee | 1938 | 52,258 words | ISBN-10: 8170305829 | ISBN-13: 9788170305828
 
 This fourth volume of the Rasa-jala-nidhi deals with Rasa-chikitsa-vidya, also known a the science of Iatrchemistry (chemical medicine), a major branch of Ayurveda. It contains Ayurvedic treatments for Fever and Diarrhea.
 
@@ -8863,10 +7616,7 @@ This concludes ‘Enlargement of spleen (plihodara) and liver (yakridudara)’ i
 
 ## 401. Part 4 - Treatment for enlargement of spleen and liver (3): Pliha-shardula rasa
 
-
 Rasa Jala Nidhi, vol 4: Iatrochemistry
-
-by Bhudeb Mookerjee | 1938 | 52,258 words | ISBN-10: 8170305829 | ISBN-13: 9788170305828
 
 This fourth volume of the Rasa-jala-nidhi deals with Rasa-chikitsa-vidya, also known a the science of Iatrchemistry (chemical medicine), a major branch of Ayurveda. It contains Ayurvedic treatments for Fever and Diarrhea.
 
@@ -8884,10 +7634,7 @@ This concludes ‘Treatment for enlargement of spleen and liver (3): Pliha-shard
 
 ## 402. Part 5 - Treatment for enlargement of spleen and liver (4): Pliha-sudana rasa
 
-
 Rasa Jala Nidhi, vol 4: Iatrochemistry
-
-by Bhudeb Mookerjee | 1938 | 52,258 words | ISBN-10: 8170305829 | ISBN-13: 9788170305828
 
 This fourth volume of the Rasa-jala-nidhi deals with Rasa-chikitsa-vidya, also known a the science of Iatrchemistry (chemical medicine), a major branch of Ayurveda. It contains Ayurvedic treatments for Fever and Diarrhea.
 
@@ -8905,10 +7652,7 @@ This concludes ‘Treatment for enlargement of spleen and liver (4): Pliha-sudan
 
 ## 403. Part 3 - Treatment for enlargement of spleen and liver (2): Pliharnava rasa
 
-
 Rasa Jala Nidhi, vol 4: Iatrochemistry
-
-by Bhudeb Mookerjee | 1938 | 52,258 words | ISBN-10: 8170305829 | ISBN-13: 9788170305828
 
 This fourth volume of the Rasa-jala-nidhi deals with Rasa-chikitsa-vidya, also known a the science of Iatrchemistry (chemical medicine), a major branch of Ayurveda. It contains Ayurvedic treatments for Fever and Diarrhea.
 
@@ -8926,10 +7670,7 @@ This concludes ‘Treatment for enlargement of spleen and liver (2): Pliharnava 
 
 ## 404. Part 7 - Treatment for enlargement of spleen and liver (6): Vasuki-bhusana rasa
 
-
 Rasa Jala Nidhi, vol 4: Iatrochemistry
-
-by Bhudeb Mookerjee | 1938 | 52,258 words | ISBN-10: 8170305829 | ISBN-13: 9788170305828
 
 This fourth volume of the Rasa-jala-nidhi deals with Rasa-chikitsa-vidya, also known a the science of Iatrchemistry (chemical medicine), a major branch of Ayurveda. It contains Ayurvedic treatments for Fever and Diarrhea.
 
@@ -8947,10 +7688,7 @@ This concludes ‘Treatment for enlargement of spleen and liver (6): Vasuki-bhus
 
 ## 405. Part 6 - Treatment for enlargement of spleen and liver (5): Plihari rasa
 
-
 Rasa Jala Nidhi, vol 4: Iatrochemistry
-
-by Bhudeb Mookerjee | 1938 | 52,258 words | ISBN-10: 8170305829 | ISBN-13: 9788170305828
 
 This fourth volume of the Rasa-jala-nidhi deals with Rasa-chikitsa-vidya, also known a the science of Iatrchemistry (chemical medicine), a major branch of Ayurveda. It contains Ayurvedic treatments for Fever and Diarrhea.
 
@@ -8968,10 +7706,7 @@ This concludes ‘Treatment for enlargement of spleen and liver (5): Plihari ras
 
 ## 406. Part 5 - Treatment of Udara-roga (2): Ichchhabhedi rasa
 
-
 Rasa Jala Nidhi, vol 4: Iatrochemistry
-
-by Bhudeb Mookerjee | 1938 | 52,258 words | ISBN-10: 8170305829 | ISBN-13: 9788170305828
 
 This fourth volume of the Rasa-jala-nidhi deals with Rasa-chikitsa-vidya, also known a the science of Iatrchemistry (chemical medicine), a major branch of Ayurveda. It contains Ayurvedic treatments for Fever and Diarrhea.
 
@@ -8989,10 +7724,7 @@ This concludes ‘Treatment of Udara-roga (2): Ichchhabhedi rasa’ included in 
 
 ## 407. Part 9 - Treatment for enlargement of spleen and liver (8): Vajrapani rasa
 
-
 Rasa Jala Nidhi, vol 4: Iatrochemistry
-
-by Bhudeb Mookerjee | 1938 | 52,258 words | ISBN-10: 8170305829 | ISBN-13: 9788170305828
 
 This fourth volume of the Rasa-jala-nidhi deals with Rasa-chikitsa-vidya, also known a the science of Iatrchemistry (chemical medicine), a major branch of Ayurveda. It contains Ayurvedic treatments for Fever and Diarrhea.
 
@@ -9010,10 +7742,7 @@ This concludes ‘Treatment for enlargement of spleen and liver (8): Vajrapani r
 
 ## 408. Part 8 - Treatment for enlargement of spleen and liver (7): Sadyo-mrityunjaya rasa
 
-
 Rasa Jala Nidhi, vol 4: Iatrochemistry
-
-by Bhudeb Mookerjee | 1938 | 52,258 words | ISBN-10: 8170305829 | ISBN-13: 9788170305828
 
 This fourth volume of the Rasa-jala-nidhi deals with Rasa-chikitsa-vidya, also known a the science of Iatrchemistry (chemical medicine), a major branch of Ayurveda. It contains Ayurvedic treatments for Fever and Diarrhea.
 
@@ -9031,10 +7760,7 @@ This concludes ‘Treatment for enlargement of spleen and liver (7): Sadyo-mrity
 
 ## 409. Part 10 - Treatment for enlargement of spleen and liver (9): Lokanatha rasa
 
-
 Rasa Jala Nidhi, vol 4: Iatrochemistry
-
-by Bhudeb Mookerjee | 1938 | 52,258 words | ISBN-10: 8170305829 | ISBN-13: 9788170305828
 
 This fourth volume of the Rasa-jala-nidhi deals with Rasa-chikitsa-vidya, also known a the science of Iatrchemistry (chemical medicine), a major branch of Ayurveda. It contains Ayurvedic treatments for Fever and Diarrhea.
 
@@ -9052,10 +7778,7 @@ This concludes ‘Treatment for enlargement of spleen and liver (9): Lokanatha r
 
 ## 410. Part 13 - Treatment for enlargement of spleen and liver (12): Tamresvara bati
 
-
 Rasa Jala Nidhi, vol 4: Iatrochemistry
-
-by Bhudeb Mookerjee | 1938 | 52,258 words | ISBN-10: 8170305829 | ISBN-13: 9788170305828
 
 This fourth volume of the Rasa-jala-nidhi deals with Rasa-chikitsa-vidya, also known a the science of Iatrchemistry (chemical medicine), a major branch of Ayurveda. It contains Ayurvedic treatments for Fever and Diarrhea.
 
@@ -9073,10 +7796,7 @@ This concludes ‘Treatment for enlargement of spleen and liver (12): Tamresvara
 
 ## 411. Part 14 - Treatment for enlargement of spleen and liver (13): Chitrakadi Lauha
 
-
 Rasa Jala Nidhi, vol 4: Iatrochemistry
-
-by Bhudeb Mookerjee | 1938 | 52,258 words | ISBN-10: 8170305829 | ISBN-13: 9788170305828
 
 This fourth volume of the Rasa-jala-nidhi deals with Rasa-chikitsa-vidya, also known a the science of Iatrchemistry (chemical medicine), a major branch of Ayurveda. It contains Ayurvedic treatments for Fever and Diarrhea.
 
@@ -9094,10 +7814,7 @@ This concludes ‘Treatment for enlargement of spleen and liver (13): Chitrakadi
 
 ## 412. Part 12 - Treatment for enlargement of spleen and liver (11): Lokesha rasa
 
-
 Rasa Jala Nidhi, vol 4: Iatrochemistry
-
-by Bhudeb Mookerjee | 1938 | 52,258 words | ISBN-10: 8170305829 | ISBN-13: 9788170305828
 
 This fourth volume of the Rasa-jala-nidhi deals with Rasa-chikitsa-vidya, also known a the science of Iatrchemistry (chemical medicine), a major branch of Ayurveda. It contains Ayurvedic treatments for Fever and Diarrhea.
 
@@ -9115,10 +7832,7 @@ This concludes ‘Treatment for enlargement of spleen and liver (11): Lokesha ra
 
 ## 413. Part 17 - Treatment for enlargement of spleen and liver (16): Rasapati rasa
 
-
 Rasa Jala Nidhi, vol 4: Iatrochemistry
-
-by Bhudeb Mookerjee | 1938 | 52,258 words | ISBN-10: 8170305829 | ISBN-13: 9788170305828
 
 This fourth volume of the Rasa-jala-nidhi deals with Rasa-chikitsa-vidya, also known a the science of Iatrchemistry (chemical medicine), a major branch of Ayurveda. It contains Ayurvedic treatments for Fever and Diarrhea.
 
@@ -9136,10 +7850,7 @@ This concludes ‘Treatment for enlargement of spleen and liver (16): Rasapati r
 
 ## 414. Part 15 - Treatment for enlargement of spleen and liver (14): Ganadhipa rasa
 
-
 Rasa Jala Nidhi, vol 4: Iatrochemistry
-
-by Bhudeb Mookerjee | 1938 | 52,258 words | ISBN-10: 8170305829 | ISBN-13: 9788170305828
 
 This fourth volume of the Rasa-jala-nidhi deals with Rasa-chikitsa-vidya, also known a the science of Iatrchemistry (chemical medicine), a major branch of Ayurveda. It contains Ayurvedic treatments for Fever and Diarrhea.
 
@@ -9157,10 +7868,7 @@ This concludes ‘Treatment for enlargement of spleen and liver (14): Ganadhipa 
 
 ## 415. Part 16 - Treatment for enlargement of spleen and liver (15): Vidya-maya rasa
 
-
 Rasa Jala Nidhi, vol 4: Iatrochemistry
-
-by Bhudeb Mookerjee | 1938 | 52,258 words | ISBN-10: 8170305829 | ISBN-13: 9788170305828
 
 This fourth volume of the Rasa-jala-nidhi deals with Rasa-chikitsa-vidya, also known a the science of Iatrchemistry (chemical medicine), a major branch of Ayurveda. It contains Ayurvedic treatments for Fever and Diarrhea.
 
@@ -9178,10 +7886,7 @@ This concludes ‘Treatment for enlargement of spleen and liver (15): Vidya-maya
 
 ## 416. Part 19 - Treatment for enlargement of spleen and liver (18): Jakrithari Lauha
 
-
 Rasa Jala Nidhi, vol 4: Iatrochemistry
-
-by Bhudeb Mookerjee | 1938 | 52,258 words | ISBN-10: 8170305829 | ISBN-13: 9788170305828
 
 This fourth volume of the Rasa-jala-nidhi deals with Rasa-chikitsa-vidya, also known a the science of Iatrchemistry (chemical medicine), a major branch of Ayurveda. It contains Ayurvedic treatments for Fever and Diarrhea.
 
@@ -9199,10 +7904,7 @@ This concludes ‘Treatment for enlargement of spleen and liver (18): Jakrithari
 
 ## 417. Part 18 - Treatment for enlargement of spleen and liver (17): Rohitaka Lauha
 
-
 Rasa Jala Nidhi, vol 4: Iatrochemistry
-
-by Bhudeb Mookerjee | 1938 | 52,258 words | ISBN-10: 8170305829 | ISBN-13: 9788170305828
 
 This fourth volume of the Rasa-jala-nidhi deals with Rasa-chikitsa-vidya, also known a the science of Iatrchemistry (chemical medicine), a major branch of Ayurveda. It contains Ayurvedic treatments for Fever and Diarrhea.
 
@@ -9220,10 +7922,7 @@ This concludes ‘Treatment for enlargement of spleen and liver (17): Rohitaka L
 
 ## 418. Part 21 - Treatment for enlargement of spleen and liver (20): Jakrit-plihodarahara Lauha
 
-
 Rasa Jala Nidhi, vol 4: Iatrochemistry
-
-by Bhudeb Mookerjee | 1938 | 52,258 words | ISBN-10: 8170305829 | ISBN-13: 9788170305828
 
 This fourth volume of the Rasa-jala-nidhi deals with Rasa-chikitsa-vidya, also known a the science of Iatrchemistry (chemical medicine), a major branch of Ayurveda. It contains Ayurvedic treatments for Fever and Diarrhea.
 
@@ -9243,10 +7942,7 @@ This concludes ‘Treatment for enlargement of spleen and liver (20): Jakrit-pli
 
 ## 419. Part 20 - Treatment for enlargement of spleen and liver (19): Jakrit-plihari Lauha
 
-
 Rasa Jala Nidhi, vol 4: Iatrochemistry
-
-by Bhudeb Mookerjee | 1938 | 52,258 words | ISBN-10: 8170305829 | ISBN-13: 9788170305828
 
 This fourth volume of the Rasa-jala-nidhi deals with Rasa-chikitsa-vidya, also known a the science of Iatrchemistry (chemical medicine), a major branch of Ayurveda. It contains Ayurvedic treatments for Fever and Diarrhea.
 
@@ -9264,10 +7960,7 @@ This concludes ‘Treatment for enlargement of spleen and liver (19): Jakrit-pli
 
 ## 420. Part 22 - Treatment for enlargement of spleen and liver (21): Lokadhisha rasa
 
-
 Rasa Jala Nidhi, vol 4: Iatrochemistry
-
-by Bhudeb Mookerjee | 1938 | 52,258 words | ISBN-10: 8170305829 | ISBN-13: 9788170305828
 
 This fourth volume of the Rasa-jala-nidhi deals with Rasa-chikitsa-vidya, also known a the science of Iatrchemistry (chemical medicine), a major branch of Ayurveda. It contains Ayurvedic treatments for Fever and Diarrhea.
 
@@ -9287,10 +7980,7 @@ This concludes ‘Treatment for enlargement of spleen and liver (21): Lokadhisha
 
 ## 421. Part 24 - Treatment for enlargement of spleen and liver (23): Prana-vallabha rasa
 
-
 Rasa Jala Nidhi, vol 4: Iatrochemistry
-
-by Bhudeb Mookerjee | 1938 | 52,258 words | ISBN-10: 8170305829 | ISBN-13: 9788170305828
 
 This fourth volume of the Rasa-jala-nidhi deals with Rasa-chikitsa-vidya, also known a the science of Iatrchemistry (chemical medicine), a major branch of Ayurveda. It contains Ayurvedic treatments for Fever and Diarrhea.
 
@@ -9308,10 +7998,7 @@ This concludes ‘Treatment for enlargement of spleen and liver (23): Prana-vall
 
 ## 422. Part 27 - Treatment for enlargement of spleen and liver (26): Bari-shosana rasa
 
-
 Rasa Jala Nidhi, vol 4: Iatrochemistry
-
-by Bhudeb Mookerjee | 1938 | 52,258 words | ISBN-10: 8170305829 | ISBN-13: 9788170305828
 
 This fourth volume of the Rasa-jala-nidhi deals with Rasa-chikitsa-vidya, also known a the science of Iatrchemistry (chemical medicine), a major branch of Ayurveda. It contains Ayurvedic treatments for Fever and Diarrhea.
 
@@ -9329,10 +8016,7 @@ This concludes ‘Treatment for enlargement of spleen and liver (26): Bari-shosa
 
 ## 423. Part 23 - Treatment for enlargement of spleen and liver (22): Agni-kumara lauha
 
-
 Rasa Jala Nidhi, vol 4: Iatrochemistry
-
-by Bhudeb Mookerjee | 1938 | 52,258 words | ISBN-10: 8170305829 | ISBN-13: 9788170305828
 
 This fourth volume of the Rasa-jala-nidhi deals with Rasa-chikitsa-vidya, also known a the science of Iatrchemistry (chemical medicine), a major branch of Ayurveda. It contains Ayurvedic treatments for Fever and Diarrhea.
 
@@ -9350,10 +8034,7 @@ This concludes ‘Treatment for enlargement of spleen and liver (22): Agni-kumar
 
 ## 424. Part 26 - Treatment for enlargement of spleen and liver (25): Udaramaya-kumbhi-keshari rasa
 
-
 Rasa Jala Nidhi, vol 4: Iatrochemistry
-
-by Bhudeb Mookerjee | 1938 | 52,258 words | ISBN-10: 8170305829 | ISBN-13: 9788170305828
 
 This fourth volume of the Rasa-jala-nidhi deals with Rasa-chikitsa-vidya, also known a the science of Iatrchemistry (chemical medicine), a major branch of Ayurveda. It contains Ayurvedic treatments for Fever and Diarrhea.
 
@@ -9371,10 +8052,7 @@ This concludes ‘Treatment for enlargement of spleen and liver (25): Udaramaya-
 
 ## 425. Part 28 - Treatment for enlargement of spleen and liver (27): Sarvatobhadra rasa
 
-
 Rasa Jala Nidhi, vol 4: Iatrochemistry
-
-by Bhudeb Mookerjee | 1938 | 52,258 words | ISBN-10: 8170305829 | ISBN-13: 9788170305828
 
 This fourth volume of the Rasa-jala-nidhi deals with Rasa-chikitsa-vidya, also known a the science of Iatrchemistry (chemical medicine), a major branch of Ayurveda. It contains Ayurvedic treatments for Fever and Diarrhea.
 
@@ -9392,10 +8070,7 @@ This concludes ‘Treatment for enlargement of spleen and liver (27): Sarvatobha
 
 ## 426. Part 25 - Treatment for enlargement of spleen and liver (24): Tamra Kalpa
 
-
 Rasa Jala Nidhi, vol 4: Iatrochemistry
-
-by Bhudeb Mookerjee | 1938 | 52,258 words | ISBN-10: 8170305829 | ISBN-13: 9788170305828
 
 This fourth volume of the Rasa-jala-nidhi deals with Rasa-chikitsa-vidya, also known a the science of Iatrchemistry (chemical medicine), a major branch of Ayurveda. It contains Ayurvedic treatments for Fever and Diarrhea.
 
@@ -9413,10 +8088,7 @@ This concludes ‘Treatment for enlargement of spleen and liver (24): Tamra Kalp
 
 ## 427. Part 29 - Treatment for enlargement of spleen and liver (28): Application of Parpati
 
-
 Rasa Jala Nidhi, vol 4: Iatrochemistry
-
-by Bhudeb Mookerjee | 1938 | 52,258 words | ISBN-10: 8170305829 | ISBN-13: 9788170305828
 
 This fourth volume of the Rasa-jala-nidhi deals with Rasa-chikitsa-vidya, also known a the science of Iatrchemistry (chemical medicine), a major branch of Ayurveda. It contains Ayurvedic treatments for Fever and Diarrhea.
 
@@ -9434,10 +8106,7 @@ This concludes ‘Treatment for enlargement of spleen and liver (28): Applicatio
 
 ## 428. Part 30 - Diet in enlargement of spleen and liver
 
-
 Rasa Jala Nidhi, vol 4: Iatrochemistry
-
-by Bhudeb Mookerjee | 1938 | 52,258 words | ISBN-10: 8170305829 | ISBN-13: 9788170305828
 
 This fourth volume of the Rasa-jala-nidhi deals with Rasa-chikitsa-vidya, also known a the science of Iatrchemistry (chemical medicine), a major branch of Ayurveda. It contains Ayurvedic treatments for Fever and Diarrhea.
 
@@ -9455,10 +8124,7 @@ This concludes ‘Diet in enlargement of spleen and liver’ included in Bhudeb 
 
 ## 429. Part 1 - Characteristics of Udavarta and Anaha
 
-
 Rasa Jala Nidhi, vol 4: Iatrochemistry
-
-by Bhudeb Mookerjee | 1938 | 52,258 words | ISBN-10: 8170305829 | ISBN-13: 9788170305828
 
 This fourth volume of the Rasa-jala-nidhi deals with Rasa-chikitsa-vidya, also known a the science of Iatrchemistry (chemical medicine), a major branch of Ayurveda. It contains Ayurvedic treatments for Fever and Diarrhea.
 
@@ -9486,10 +8152,7 @@ This concludes ‘Characteristics of Udavarta and Anaha’ included in Bhudeb Mo
 
 ## 430. Chapter VIII - Udavarta and Anaha
 
-
 Rasa Jala Nidhi, vol 4: Iatrochemistry
-
-by Bhudeb Mookerjee | 1938 | 52,258 words | ISBN-10: 8170305829 | ISBN-13: 9788170305828
 
 This fourth volume of the Rasa-jala-nidhi deals with Rasa-chikitsa-vidya, also known a the science of Iatrchemistry (chemical medicine), a major branch of Ayurveda. It contains Ayurvedic treatments for Fever and Diarrhea.
 
@@ -9507,10 +8170,7 @@ This concludes ‘Udavarta and Anaha’ included in Bhudeb Mookerjee Rasa Jala N
 
 ## 431. Part 2 - Treatment of Udavarta and Anaha (1): Vaidyanatha-bhasita rasa
 
-
 Rasa Jala Nidhi, vol 4: Iatrochemistry
-
-by Bhudeb Mookerjee | 1938 | 52,258 words | ISBN-10: 8170305829 | ISBN-13: 9788170305828
 
 This fourth volume of the Rasa-jala-nidhi deals with Rasa-chikitsa-vidya, also known a the science of Iatrchemistry (chemical medicine), a major branch of Ayurveda. It contains Ayurvedic treatments for Fever and Diarrhea.
 
@@ -9528,10 +8188,7 @@ This concludes ‘Treatment of Udavarta and Anaha (1): Vaidyanatha-bhasita rasa�
 
 ## 432. Part 11 - Treatment for enlargement of spleen and liver (10): Lokaraja rasa
 
-
 Rasa Jala Nidhi, vol 4: Iatrochemistry
-
-by Bhudeb Mookerjee | 1938 | 52,258 words | ISBN-10: 8170305829 | ISBN-13: 9788170305828
 
 This fourth volume of the Rasa-jala-nidhi deals with Rasa-chikitsa-vidya, also known a the science of Iatrchemistry (chemical medicine), a major branch of Ayurveda. It contains Ayurvedic treatments for Fever and Diarrhea.
 
@@ -9549,10 +8206,7 @@ This concludes ‘Treatment for enlargement of spleen and liver (10): Lokaraja r
 
 ## 433. Part 4 - Treatment of Udavarta and Anaha (3): Svechchha-bhedaka rasa
 
-
 Rasa Jala Nidhi, vol 4: Iatrochemistry
-
-by Bhudeb Mookerjee | 1938 | 52,258 words | ISBN-10: 8170305829 | ISBN-13: 9788170305828
 
 This fourth volume of the Rasa-jala-nidhi deals with Rasa-chikitsa-vidya, also known a the science of Iatrchemistry (chemical medicine), a major branch of Ayurveda. It contains Ayurvedic treatments for Fever and Diarrhea.
 
@@ -9570,10 +8224,7 @@ This concludes ‘Treatment of Udavarta and Anaha (3): Svechchha-bhedaka rasa’
 
 ## 434. Part 5 - Other medicines for Udavarta and Anaha
 
-
 Rasa Jala Nidhi, vol 4: Iatrochemistry
-
-by Bhudeb Mookerjee | 1938 | 52,258 words | ISBN-10: 8170305829 | ISBN-13: 9788170305828
 
 This fourth volume of the Rasa-jala-nidhi deals with Rasa-chikitsa-vidya, also known a the science of Iatrchemistry (chemical medicine), a major branch of Ayurveda. It contains Ayurvedic treatments for Fever and Diarrhea.
 
@@ -9591,10 +8242,7 @@ This concludes ‘Other medicines for Udavarta and Anaha’ included in Bhudeb M
 
 ## 435. Part 3 - Treatment of Udavarta and Anaha (2): Vireka rasa
 
-
 Rasa Jala Nidhi, vol 4: Iatrochemistry
-
-by Bhudeb Mookerjee | 1938 | 52,258 words | ISBN-10: 8170305829 | ISBN-13: 9788170305828
 
 This fourth volume of the Rasa-jala-nidhi deals with Rasa-chikitsa-vidya, also known a the science of Iatrchemistry (chemical medicine), a major branch of Ayurveda. It contains Ayurvedic treatments for Fever and Diarrhea.
 
@@ -9612,10 +8260,7 @@ This concludes ‘Treatment of Udavarta and Anaha (2): Vireka rasa’ included i
 
 ## 436. Part 6 - Diet in Udavarta and Anaha
 
-
 Rasa Jala Nidhi, vol 4: Iatrochemistry
-
-by Bhudeb Mookerjee | 1938 | 52,258 words | ISBN-10: 8170305829 | ISBN-13: 9788170305828
 
 This fourth volume of the Rasa-jala-nidhi deals with Rasa-chikitsa-vidya, also known a the science of Iatrchemistry (chemical medicine), a major branch of Ayurveda. It contains Ayurvedic treatments for Fever and Diarrhea.
 
@@ -9643,10 +8288,7 @@ This concludes ‘Diet in Udavarta and Anaha’ included in Bhudeb Mookerjee Ras
 
 ## 437. Part 25 - Treatment for indigestion (23): Kambu rasa
 
-
 Rasa Jala Nidhi, vol 4: Iatrochemistry
-
-by Bhudeb Mookerjee | 1938 | 52,258 words | ISBN-10: 8170305829 | ISBN-13: 9788170305828
 
 This fourth volume of the Rasa-jala-nidhi deals with Rasa-chikitsa-vidya, also known a the science of Iatrchemistry (chemical medicine), a major branch of Ayurveda. It contains Ayurvedic treatments for Fever and Diarrhea.
 

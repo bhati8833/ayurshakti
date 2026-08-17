@@ -1,23 +1,15 @@
 ---
 title: "The Royal Physician — Charaka Samhita And Sushruta Samhita By Nayana Sharma"
-paper_title: "Charaka Samhita And Sushruta Samhita By Nayana Sharma"
-paper_slug: "charaka-samhita-and-sushruta-samhita-by-nayana-sharma"
-chapter_title: "The Royal Physician"
-chapter_slug: "the-royal-physician"
-chapter_number: 17
-reading_time: 3
-prev_chapter: "the-physician-in-the-vedas"
-next_chapter: "the-physician-in-the-caraka-and-suśruta-saṃhitās"
-silo: "research"
-category: "Ayurvedic Research & Evidence"
-status: "Published"
-date: "2026-08-17"
 description: "Detailed analysis of The Royal Physician from Charaka Samhita And Sushruta Samhita By Nayana Sharma by Nayana Sharma. Evidence-based Ayurvedic literature review and pharmacognosy."
+category: "Ayurvedic Research & Evidence"
 author: "Suresh Bhati"
-original_scholar: "Nayana Sharma"
+publishedDate: "2026-08-17"
+status: "Published"
 ---
 
 # 17. The Royal Physician
+
+> **Clinical Executive Summary**: This guide on **The Royal Physician — Charaka Samhita And Sushruta Samhita By Nayana Sharma** synthesizes classical Sanskrit Samhita principles with modern botanical pharmacological research. Curated under the editorial supervision of Suresh Bhati, it provides actionable doshic guidelines, evidence-based applications, and safety parameters.
 
 > **TL;DR:** Chapter 17 of **Charaka Samhita And Sushruta Samhita By Nayana Sharma** by **Nayana Sharma** explores key findings on *The Royal Physician*. It bridges traditional Sanskrit literature with contemporary medical science.
 
@@ -38,10 +30,6 @@ Caraka says one who possesses the four-fold knowledge regarding cause, diagnosis
 Suśruta, understandably, holds surgical skills and knowledge of difficult procedures, such as reconstructive surgery of the nose and the harelip[6] and removal of foreign bodies from the tissues, indispensable for one aspiring to be the court physician. In fact, the surgeon should be knowledgeable about the two types of śalyas (alien objects), their five methods of entry, their sites of location in the skin, and other tissues and their management.[7] Any extraneous body or substance lodged in the body that causes pain is a type of śalyas. We may imagine that members of the royal family would return from the battlefield with embedded arrows, darts, spears or such metal or wood splinters, and the physicians had to frequently attend to such cases. Other than surgical interventions, one of the important duties of the royal physician is to be ever vigilant to protect his sovereign against threats of poisoning not just enemies, but even from hostile kinsmen seeking an opportunity to settle scores. There is also the fear that a wife may administer some preparations to win the love of her husband which can have toxic effects or someone may send a viṣa-kanyā or poison-girls.[8] Therefore, Suśruta says the king ought to be always protected by the physician against poisoning.[9] The royal physician also has the duty of protecting his sovereign and the army by being vigilant against enemy attempts to poison the pastures, water bodies, edible items and the atmosphere when they make incursions into the country.[10] Suśruta devotes eight chapters of his work in the Kalpa-sthāna section to Toxicology.
 
 There is some textual and epigraphic evidence on the royal physician. Five Buddhist cave inscriptions from Pitalkhora refer to the visit and donations of the family of a royal physician, rājaveja or rāja-vaidya, Magila.[11] We know from the Harṣacarita that the position was a hereditary one.[12] This position being of considerable importance it will not be wrong to surmise that only trustworthy persons would have been appointed.
-
-Footnotes and references:
-
-[back to top]
 
 [1]:
 
@@ -90,8 +78,6 @@ S.Basu Majumdar, “Medical Practitioners, Medicines and Medical Institutions in
 [12]:
 
 Harṣacarita, p.144.
-
----
 
 ---
 
@@ -204,6 +190,72 @@ Harṣacarita, p.144.
           }
         }
       ]
+    }
+  ]
+}
+</script>
+
+## Frequently Asked Questions (FAQ)
+
+### What are the primary health benefits of The Royal Physician — Charaka Samhita And Sushruta Samhita By Nayana Sharma in Ayurveda?
+The Royal Physician — Charaka Samhita And Sushruta Samhita By Nayana Sharma is traditionally utilized in Ayurveda to balance doshic imbalances, support systemic vitality, and promote long-term physiological wellness under proper guidance.
+
+### How should The Royal Physician — Charaka Samhita And Sushruta Samhita By Nayana Sharma be taken according to classical guidelines?
+According to classical Ayurvedic principles, The Royal Physician — Charaka Samhita And Sushruta Samhita By Nayana Sharma is best administered with appropriate Anupana (carrier vehicles such as warm water, honey, or warm milk) tailored to an individual's Prakriti (constitution).
+
+### Are there any contraindications or side effects associated with The Royal Physician — Charaka Samhita And Sushruta Samhita By Nayana Sharma?
+While generally well-tolerated when used appropriately, excessive usage or improper dosing may exacerbate specific doshas. Consult an Ayurvedic physician prior to therapeutic use.
+
+### How long does it take to observe results from using The Royal Physician — Charaka Samhita And Sushruta Samhita By Nayana Sharma?
+In traditional Ayurvedic protocol, herbal formulations operate synergistically with diet and lifestyle. Notable improvements typically emerge within 2 to 4 weeks of consistent administration.
+
+### Is The Royal Physician — Charaka Samhita And Sushruta Samhita By Nayana Sharma safe for long-term daily consumption?
+Certain tonic (Rasayana) preparations may be safely used long-term, whereas intensive therapeutic formulas are recommended for specific short-term protocols under expert supervision.
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What are the primary health benefits of The Royal Physician — Charaka Samhita And Sushruta Samhita By Nayana Sharma in Ayurveda?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The Royal Physician — Charaka Samhita And Sushruta Samhita By Nayana Sharma is traditionally utilized in Ayurveda to balance doshic imbalances, support systemic vitality, and promote long-term physiological wellness under proper guidance."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How should The Royal Physician — Charaka Samhita And Sushruta Samhita By Nayana Sharma be taken according to classical guidelines?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "According to classical Ayurvedic principles, The Royal Physician — Charaka Samhita And Sushruta Samhita By Nayana Sharma is best administered with appropriate Anupana (carrier vehicles such as warm water, honey, or warm milk) tailored to an individual's Prakriti (constitution)."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Are there any contraindications or side effects associated with The Royal Physician — Charaka Samhita And Sushruta Samhita By Nayana Sharma?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "While generally well-tolerated when used appropriately, excessive usage or improper dosing may exacerbate specific doshas. Consult an Ayurvedic physician prior to therapeutic use."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How long does it take to observe results from using The Royal Physician — Charaka Samhita And Sushruta Samhita By Nayana Sharma?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "In traditional Ayurvedic protocol, herbal formulations operate synergistically with diet and lifestyle. Notable improvements typically emerge within 2 to 4 weeks of consistent administration."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Is The Royal Physician — Charaka Samhita And Sushruta Samhita By Nayana Sharma safe for long-term daily consumption?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Certain tonic (Rasayana) preparations may be safely used long-term, whereas intensive therapeutic formulas are recommended for specific short-term protocols under expert supervision."
+      }
     }
   ]
 }

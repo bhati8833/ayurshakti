@@ -20,17 +20,11 @@ This chapter from **Sushruta Samhita (Uttaratantra)** represents the classical s
 
 ---
 
-
 Sushruta Samhita, Volume 6: Uttara-tantra
-
-by Kaviraj Kunja Lal Bhishagratna | 1916 | 113,078 words
 
 This current book, the Uttara-tantra (english translation) is the supplementary part of the Sushrutasamhita and deals various subjects such as diseases of the eye, treatment of fever, diarrhea, diseases resulting from superhuman influences, insanity, rules of health etc.
 
 The Sushruta Samhita is the most representative work of the Hindu system of m...
-
-Go directly to: 
-Footnotes.
 
 Chapter XXXVII - Origin of nine Grahas
 
@@ -57,10 +51,6 @@ Children of the families in which the gods, the Titris (departed fathers), the B
 Thus the Grahas came into being and began to attack the children (of iniquitious parents), and it is therefore that a child attacked by a malignant Graha becomes very hard to be cured. Death or permanent disfigurement of any limb or organ is sure to ensue from an attack of Skanda Graha, since he is the most dreadful of all the Grahas. A case of full-developed attack by any other Graha should be likewise held as incurable. 3.
 
 Thus ends the thirty-seventh chapter of the Uttara Tantra in the Sushruta Samhita which deals with the origin of the Grahas.
-
-Footnotes and references:
-
-[back to top]
 
 [1]:
 

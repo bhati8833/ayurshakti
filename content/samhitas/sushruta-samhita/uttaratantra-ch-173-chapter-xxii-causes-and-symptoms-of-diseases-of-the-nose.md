@@ -20,17 +20,11 @@ This chapter from **Sushruta Samhita (Uttaratantra)** represents the classical s
 
 ---
 
-
 Sushruta Samhita, Volume 6: Uttara-tantra
-
-by Kaviraj Kunja Lal Bhishagratna | 1916 | 113,078 words
 
 This current book, the Uttara-tantra (english translation) is the supplementary part of the Sushrutasamhita and deals various subjects such as diseases of the eye, treatment of fever, diarrhea, diseases resulting from superhuman influences, insanity, rules of health etc.
 
 The Sushruta Samhita is the most representative work of the Hindu system of m...
-
-Go directly to: 
-Footnotes.
 
 Chapter XXII - Causes and symptoms of diseases of the nose
 
@@ -63,10 +57,6 @@ The condition under, which the up-coarsing Udana Vayu of the region of the head 
 Local Arshas (polypoids) as well as local Shopha (four each) are due to the action of the three deranged Doshas of the locality jointly and separately. The different kinds of Arvuda (nasal tumour) as mentioned in the Shalakya-Tantra, with the one of Sannipatika origin are seven in all. The five types of Pratishyaya (catarrh) mentioned here will be dealt with in chapter XXIV. Remarks made in the chapter on the causes and symptoms of swellings in general (Shopha-Vijnana), as well as those of Arshas (haemorrhoid growths) in the Nidana-sthana should be understood to apply to those diseases affecting the locality of the nose as well. 15–18.
 
 Thus ends the twenty-second chapter in the Uttara-Tantra of the Sushruta Samhita which deals with the causes and symptoms of the diseases of the nose.
-
-Footnotes and references:
-
-[back to top]
 
 [1]:
 

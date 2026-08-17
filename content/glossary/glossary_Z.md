@@ -18,7 +18,6 @@ Language and terminology form the backbone of traditional Indian medicine. Every
 
 ---
 
-
 ### Key Sanskrit Terms starting with 'Z' (Sample Preview)
 The following is an excerpt of classical Sanskrit terms starting with letter **Z**:
 
@@ -34,7 +33,6 @@ The following is an excerpt of classical Sanskrit terms starting with letter **Z
 </ul>
 
 *Browse all 7 authenticated terms under Letter Z in the searchable directory above.*
-
 
 ---
 

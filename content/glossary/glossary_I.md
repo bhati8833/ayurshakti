@@ -18,7 +18,6 @@ Language and terminology form the backbone of traditional Indian medicine. Every
 
 ---
 
-
 ### Key Sanskrit Terms starting with 'I' (Sample Preview)
 The following is an excerpt of classical Sanskrit terms starting with letter **I**:
 
@@ -57,7 +56,6 @@ The following is an excerpt of classical Sanskrit terms starting with letter **I
 </ul>
 
 *Browse all 151 authenticated terms under Letter I in the searchable directory above.*
-
 
 ---
 

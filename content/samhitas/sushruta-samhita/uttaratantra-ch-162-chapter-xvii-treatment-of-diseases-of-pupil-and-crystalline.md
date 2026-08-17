@@ -20,17 +20,11 @@ This chapter from **Sushruta Samhita (Uttaratantra)** represents the classical s
 
 ---
 
-
 Sushruta Samhita, Volume 6: Uttara-tantra
-
-by Kaviraj Kunja Lal Bhishagratna | 1916 | 113,078 words
 
 This current book, the Uttara-tantra (english translation) is the supplementary part of the Sushrutasamhita and deals various subjects such as diseases of the eye, treatment of fever, diarrhea, diseases resulting from superhuman influences, insanity, rules of health etc.
 
 The Sushruta Samhita is the most representative work of the Hindu system of m...
-
-Go directly to: 
-Footnotes.
 
 Chapter XVII - Treatment of diseases of pupil and crystalline lens
 
@@ -139,10 +133,6 @@ Eye sight-invigorating Anjana:—
 Now hear me describe two beneficial recipes of Anjana which would invigorate the eye-sight and impart a clearness of vision. Flowers of Mesha-Shringi, Shirisha, Dhava and of Malati together with pearl and Vaidurya (ruby) should be pounded and made into a paste with the addition of the milk of a she-goat. The compound thus prepared should be kept in a copper vessel for a week and then made into Vartis (sticks) of convenient lengths and applied to the eyes in the manner of an Anjana. A Varti (stick) should be similarly prepared with Srotonjana, coral, Samudra-phena, Manah-shila and Marica and used similarly as an Anjana (eye-salve). It imparts steadiness of vision. The many other Anjanas to be described in the next Chapter (Kriya-kalpa) may also be beneficially applied for the purpose. 47-48.
 
 Thus ends the seventeenth chapter in the Uttara-Tantra of the Sushruta-Samhita which treats of the curative measures of the diseases of the Drishti (pupil).
-
-Footnotes and references:
-
-[back to top]
 
 [1]:
 

@@ -20,17 +20,11 @@ This chapter from **Sushruta Samhita (Sharirasthana)** represents the classical 
 
 ---
 
-
 Sushruta Samhita, volume 3: Sharirasthana
-
-by Kaviraj Kunja Lal Bhishagratna | 1911 | 36,821 words
 
 This current book, the Sharira-sthana (english translation), deals with anatomy, the human body, cosmology, embryology and various other subjects.
 
 The Sushruta Samhita is the most representative work of the Hindu system of medicine. It embraces all that can possibly appertain to the science of medicine. Susruta-samhita is recognized as the first a...
-
-Go directly to: 
-Footnotes.
 
 Chapter I - The science of being in general
 
@@ -163,10 +157,6 @@ There are Memorable Verses:—
 These qualities are found to characterise and enter into the successive elements in the order of their enumeration. The specific attributes of these elements are manifest in the substances which are respectively originated from them. The term Prakriti or original nature connotes the eight categories (of Avyakta, Mahan, Ahamkara, and the five Tanmatras) and the rest of the twenty four fundamental principles are its modifications. The Purusha forms the twentyfifth principle. These twentyfive fundamental principles of cosmogony have been dealt with in the present treatise (Shalya-Tantra) as well as in the other treatise (Shalaky-Tantra and Sankhya Philosophy). 22–23.
 
 Thus ends the first Chapter of the Sharira Sthana in the Sushruta Samhita which deals with the science of Being in general.
-
-Footnotes and references:
-
-[back to top]
 
 [1]:
 

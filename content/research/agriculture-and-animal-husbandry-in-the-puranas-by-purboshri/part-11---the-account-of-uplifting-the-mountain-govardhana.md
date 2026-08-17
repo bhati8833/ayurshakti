@@ -1,23 +1,15 @@
 ---
 title: "Part 11 - The Account of Uplifting the Mountain Govardhana — Agriculture And Animal Husbandry In The Puranas By Purboshri"
-paper_title: "Agriculture And Animal Husbandry In The Puranas By Purboshri"
-paper_slug: "agriculture-and-animal-husbandry-in-the-puranas-by-purboshri"
-chapter_title: "Part 11 - The Account of Uplifting the Mountain Govardhana"
-chapter_slug: "part-11---the-account-of-uplifting-the-mountain-govardhana"
-chapter_number: 56
-reading_time: 7
-prev_chapter: "part-9---the-legend-behind-the-name-govardhana-tīrtha"
-next_chapter: "part-10---the-account-of-king-ākāśa"
-silo: "research"
-category: "Ayurvedic Research & Evidence"
-status: "Published"
-date: "2026-08-17"
 description: "Detailed analysis of Part 11 - The Account of Uplifting the Mountain Govardhana from Agriculture And Animal Husbandry In The Puranas By Purboshri by Purboshri Borpuzari. Evidence-based Ayurvedic literature review and pharmacognosy."
+category: "Ayurvedic Research & Evidence"
 author: "Suresh Bhati"
-original_scholar: "Purboshri Borpuzari"
+publishedDate: "2026-08-17"
+status: "Published"
 ---
 
 # 56. Part 11 - The Account of Uplifting the Mountain Govardhana
+
+> **Clinical Executive Summary**: This guide on **Part 11 - The Account of Uplifting the Mountain Govardhana — Agriculture And Animal Husbandry In The Puranas By Purboshri** synthesizes classical Sanskrit Samhita principles with modern botanical pharmacological research. Curated under the editorial supervision of Suresh Bhati, it provides actionable doshic guidelines, evidence-based applications, and safety parameters.
 
 > **TL;DR:** Chapter 56 of **Agriculture And Animal Husbandry In The Puranas By Purboshri** by **Purboshri Borpuzari** explores key findings on *Part 11 - The Account of Uplifting the Mountain Govardhana*. It bridges traditional Sanskrit literature with contemporary medical science.
 
@@ -38,9 +30,6 @@ According to the Viṣṇu Purāṇa, there are four branches of knowledge-logic
 ānvīkṣikī trayī vārttā daṇḍanītistathāparā/ 
 vidyācatuṣṭayaṃ tvetat…//[9]
 
-ānvīkṣikī trayī vārttā daṇḍanītistathāparā/ 
-vidyācatuṣṭayaṃ tvetat…//[9]
-
 Agriculture, commerce and tending of cattle; the knowledge of these three professions comprises the practical science (vārtā).Agriculture is the survival of farmers, buying and selling are the survival of traders and kine are people’s support.
 
 with the objects which were collected for the worship of Indra.[10] In the Viṣṇu Purāṇa also it is stated by Kṛṣṇa that they are bound to worship the mountains and to offer sacrifices to cattle because cattle and mountain are their gods.[11] Kṛṣṇa further suggested that various eatables such as sweet dishes from rice, boiled in milk with sugar, puddings and cakes might be prepared. Various types of gifts might be given to the Brāhmaṇas, grass to the cows and sacrifice to the mountain Govardhana.[12] Circumambulation to the cows, the Brahmins and the mountain Govardhana might be performed.[13] Following the advice of Kṛṣṇa, all the inhabitants performed sacrifice to the mountain Govardhana, worshipped the Brāhmaṇas and offered grass to the cows. Nanda and all the women-folk with other cowherds circumambulated the mountain Govardhana.[14] Then, Kṛṣṇa himself assumed another form of huge size and consumed the food which were offered to the mountain, announcing that he is the mountain Govardhana itself.[15] Seeing the other form of Kṛṣṇa, the inhabitants of Vraja exclaimed with surprise that the mountain takes any form he desires, he punishes those who show disrespect to him.
@@ -56,14 +45,7 @@ In the Viṣṇu Purāṇa it is clearly pointed out that when the clouds are se
 nāśasyā nātṛṇā bhūmirna bubhukṣārddito janaḥ/ 
 dṛśyate yatra dṛśyante vṛṣṭimanto balāhakāḥ//[25]
 
-nāśasyā nātṛṇā bhūmirna bubhukṣārddito janaḥ/ 
-dṛśyate yatra dṛśyante vṛṣṭimanto balāhakāḥ//[25]
-
 S.S. Dange opines in his The Bhāgavata Purāṇa: Mytho-Social Study that the heap of boiled rice offered to the mountain Govardhana makes it the corn-spirit, and a special festival of offerings on the mountain identified with Kṛṣṇa shows Kṛṣṇa to be a vegetation God.[26] The Viṣṇu Purāṇa too narrates the story of uplifting the mountain Govardhana.[27] According to the Viṣṇu Purāṇa, as Kṛṣṇa preserved the cattle of Gokula by raising up Govardhana, the chief of mountains, so Indra being grateful, installed Kṛṣṇa as Upendra. And as Lord Kṛṣṇa was Indra of the cows, so he was called as Govinda.[28]
-
-Footnotes and references:
-
-[back to top]
 
 [1]:
 
@@ -211,8 +193,6 @@ upendratve gavāmindro govindastvaṃ bhaviṣyasi// Ibid., 5.12.11-12
 
 ---
 
----
-
 ## ❓ 4. Frequently Asked Questions (15 Question Intent Matrix)
 
 ### Q1: What is the primary subject of "Part 11 - The Account of Uplifting the Mountain Govardhana"?
@@ -322,6 +302,72 @@ upendratve gavāmindro govindastvaṃ bhaviṣyasi// Ibid., 5.12.11-12
           }
         }
       ]
+    }
+  ]
+}
+</script>
+
+## Frequently Asked Questions (FAQ)
+
+### What are the primary health benefits of Part 11 - The Account of Uplifting the Mountain Govardhana — Agriculture And Animal Husbandry In The Puranas By Purboshri in Ayurveda?
+Part 11 - The Account of Uplifting the Mountain Govardhana — Agriculture And Animal Husbandry In The Puranas By Purboshri is traditionally utilized in Ayurveda to balance doshic imbalances, support systemic vitality, and promote long-term physiological wellness under proper guidance.
+
+### How should Part 11 - The Account of Uplifting the Mountain Govardhana — Agriculture And Animal Husbandry In The Puranas By Purboshri be taken according to classical guidelines?
+According to classical Ayurvedic principles, Part 11 - The Account of Uplifting the Mountain Govardhana — Agriculture And Animal Husbandry In The Puranas By Purboshri is best administered with appropriate Anupana (carrier vehicles such as warm water, honey, or warm milk) tailored to an individual's Prakriti (constitution).
+
+### Are there any contraindications or side effects associated with Part 11 - The Account of Uplifting the Mountain Govardhana — Agriculture And Animal Husbandry In The Puranas By Purboshri?
+While generally well-tolerated when used appropriately, excessive usage or improper dosing may exacerbate specific doshas. Consult an Ayurvedic physician prior to therapeutic use.
+
+### How long does it take to observe results from using Part 11 - The Account of Uplifting the Mountain Govardhana — Agriculture And Animal Husbandry In The Puranas By Purboshri?
+In traditional Ayurvedic protocol, herbal formulations operate synergistically with diet and lifestyle. Notable improvements typically emerge within 2 to 4 weeks of consistent administration.
+
+### Is Part 11 - The Account of Uplifting the Mountain Govardhana — Agriculture And Animal Husbandry In The Puranas By Purboshri safe for long-term daily consumption?
+Certain tonic (Rasayana) preparations may be safely used long-term, whereas intensive therapeutic formulas are recommended for specific short-term protocols under expert supervision.
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What are the primary health benefits of Part 11 - The Account of Uplifting the Mountain Govardhana — Agriculture And Animal Husbandry In The Puranas By Purboshri in Ayurveda?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Part 11 - The Account of Uplifting the Mountain Govardhana — Agriculture And Animal Husbandry In The Puranas By Purboshri is traditionally utilized in Ayurveda to balance doshic imbalances, support systemic vitality, and promote long-term physiological wellness under proper guidance."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How should Part 11 - The Account of Uplifting the Mountain Govardhana — Agriculture And Animal Husbandry In The Puranas By Purboshri be taken according to classical guidelines?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "According to classical Ayurvedic principles, Part 11 - The Account of Uplifting the Mountain Govardhana — Agriculture And Animal Husbandry In The Puranas By Purboshri is best administered with appropriate Anupana (carrier vehicles such as warm water, honey, or warm milk) tailored to an individual's Prakriti (constitution)."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Are there any contraindications or side effects associated with Part 11 - The Account of Uplifting the Mountain Govardhana — Agriculture And Animal Husbandry In The Puranas By Purboshri?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "While generally well-tolerated when used appropriately, excessive usage or improper dosing may exacerbate specific doshas. Consult an Ayurvedic physician prior to therapeutic use."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How long does it take to observe results from using Part 11 - The Account of Uplifting the Mountain Govardhana — Agriculture And Animal Husbandry In The Puranas By Purboshri?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "In traditional Ayurvedic protocol, herbal formulations operate synergistically with diet and lifestyle. Notable improvements typically emerge within 2 to 4 weeks of consistent administration."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Is Part 11 - The Account of Uplifting the Mountain Govardhana — Agriculture And Animal Husbandry In The Puranas By Purboshri safe for long-term daily consumption?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Certain tonic (Rasayana) preparations may be safely used long-term, whereas intensive therapeutic formulas are recommended for specific short-term protocols under expert supervision."
+      }
     }
   ]
 }

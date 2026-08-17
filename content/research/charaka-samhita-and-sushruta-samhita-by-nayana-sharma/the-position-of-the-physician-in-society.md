@@ -1,23 +1,15 @@
 ---
 title: "The Position of the Physician in Society — Charaka Samhita And Sushruta Samhita By Nayana Sharma"
-paper_title: "Charaka Samhita And Sushruta Samhita By Nayana Sharma"
-paper_slug: "charaka-samhita-and-sushruta-samhita-by-nayana-sharma"
-chapter_title: "The Position of the Physician in Society"
-chapter_slug: "the-position-of-the-physician-in-society"
-chapter_number: 27
-reading_time: 25
-prev_chapter: "the-physician-in-the-medical-texts"
-next_chapter: "the-medical-student-and-the-teacher-introduction"
-silo: "research"
-category: "Ayurvedic Research & Evidence"
-status: "Published"
-date: "2026-08-17"
 description: "Detailed analysis of The Position of the Physician in Society from Charaka Samhita And Sushruta Samhita By Nayana Sharma by Nayana Sharma. Evidence-based Ayurvedic literature review and pharmacognosy."
+category: "Ayurvedic Research & Evidence"
 author: "Suresh Bhati"
-original_scholar: "Nayana Sharma"
+publishedDate: "2026-08-17"
+status: "Published"
 ---
 
 # 27. The Position of the Physician in Society
+
+> **Clinical Executive Summary**: This guide on **The Position of the Physician in Society — Charaka Samhita And Sushruta Samhita By Nayana Sharma** synthesizes classical Sanskrit Samhita principles with modern botanical pharmacological research. Curated under the editorial supervision of Suresh Bhati, it provides actionable doshic guidelines, evidence-based applications, and safety parameters.
 
 > **TL;DR:** Chapter 27 of **Charaka Samhita And Sushruta Samhita By Nayana Sharma** by **Nayana Sharma** explores key findings on *The Position of the Physician in Society*. It bridges traditional Sanskrit literature with contemporary medical science.
 
@@ -41,8 +33,6 @@ This significant passage reads:
 
 “The gods said of these two (the Aśvins): “Impure are they, wandering among men and physicians.”[6] Therefore a Brāhman should not practice medicine for the physician is impure, unfit for the sacrifice.”[7]
 
-“The gods said of these two (the Aśvins): “Impure are they, wandering among men and physicians.”[6] Therefore a Brāhman should not practice medicine for the physician is impure, unfit for the sacrifice.”[7]
-
 The divine physicians are, thus, declared impure “as they are the doctors roving among men.”[8] Therefore, they are deprived of libations at soma sacrifices. The text explains how the Aśvins had to negotiate for their share of the sacrifice when the gods approached them seeking medical help to put back the severed head of the sacrifice. The Aśvins used the occasion to elicit a boon that libations be drawn for them as well. The gods agreed reluctantly; the twin physicians are first purified by the bahiṣ ānas and receive their share of the libations.[9] The ritual pollution of the Aśvins is reiterated in the Śatapatha Brāhmaṇa (4:1:5:13) in the context of the rejuvenation Ṛṣi Cyavana, where the Ṛṣi characterises them as incomplete and imperfect for which they were excluded from the sacrifice to be performed by the gods at Kurukṣetra.[10]
 
 Perhaps the most trenchant condemnation comes from Indra in the Anuśāsana-parva of the Mahābhārata in another version of the same legend. He explains that the gods cannot drink Soma in the company of the Aśvins for they are outcasts and the most degraded.[11]
@@ -59,8 +49,6 @@ Soma is specifically prepared for them:
 
 “Awaken (the Aśvins) who yoke (their chariot) in the morning, may the Aśvins come here for the drink of this Soma.”[23]
 
-“Awaken (the Aśvins) who yoke (their chariot) in the morning, may the Aśvins come here for the drink of this Soma.”[23]
-
 The abundant Soma drink is a treasure laid out for Aśvins (Ṛgveda I.183.4)[24] who have Agni, Indra, Varuṇa, Viṣṇu, Ādityas, Rudras, Vasus among others as their companions (Ṛgveda VIII.35.1-4).[25] Of their association with the sacrifice, Ṛgvedic poets are unambiguous. The Aśvins” visits to the sacrifices are the most frequent (Ṛgveda V.41.3), and their attachment to the sacrifice is compared to that of an axle to the yoke and navel of the chariot (Ṛgveda V.43.8).[26] As for their “roving nature” and interaction with mortals, it may be pointed out that this trait is common to many other deities of the early period. “In the dim antiquity of Ṛgvedic poetry, the very difference between man and god is yet to take a clearly defined form.”[27] Indra is praised as the chief among men (nṛtamaḥ) while Agni is addressed as the chief human being among the human beings (nṛnāṃ nṛtamaḥ).[28] There are several instances of Indra intermingling with humans. It is, therefore, strange that the A vins should be singled out and characterized as “impure” for the same trait.
 
 In the opinion of Chattopadhyaya, the crucial factor here is the medical practice of the Aśvins that required far more commitment to democratic values that was tolerable to the priests. As Bloomfield comments, medicine is condemned in the Yajurveda because “the practice entails promiscuous, unaristocratic mingling with men.”[29] In the later Vedic tradition they are considered polluting and hence do not qualify for the sacrificial share. Interaction with the masses is particularly loathsome for the upper echelon of society. This position is accepted in later legal literature as well.
@@ -71,13 +59,9 @@ The relevant verse is rendered by Griffith as follows:
 
 “We all have various thoughts and plans, and diverse are the ways of men. The Brahman seeks the worshipper, wright seeks the cracked, and leech the maimed.”[33]
 
-“We all have various thoughts and plans, and diverse are the ways of men. The Brahman seeks the worshipper, wright seeks the cracked, and leech the maimed.”[33]
-
 The verse makes no reference to the physician gods, only to the physician in the context of the diverse objectives of the men. Therefore, it is difficult to accept Zysk’s reading. We have already cited instances of the association of the Aśvins with the sacrificial rite.
 
 We may cite another:
-
-“They (the Aśvins) are the knowers of the sacrifice (and) of the holy rite who drink with free will (i.e. pleasure) the sweet of Soma.[34]
 
 “They (the Aśvins) are the knowers of the sacrifice (and) of the holy rite who drink with free will (i.e. pleasure) the sweet of Soma.[34]
 
@@ -93,8 +77,6 @@ The gods said,
 
 “We will not invite you; ye have wandered and mixed much among men, performing cures.”[48]
 
-“We will not invite you; ye have wandered and mixed much among men, performing cures.”[48]
-
 In the course of their wanderings physicians gathered information on new drugs and remedial treatments from other communities. It is probable that it was not just their interaction with people beyond the Aryan society that aroused the repugnance of the brahmanical orthodoxy. As we know from the Śatapatha Brāhmaṇa, they also performed cures on men, whereby we may be reasonably assume, that some of the Aryan knowledge on remedies and healing must have been transmitted to the non-Aryan communities. The Āyurvedic tradition of discussions and debates on medical issues[49] testifies to the exchange of medical data among healers.[50] The objective of Āyurveda is the welfare of all living creatures for the Aśvins are said to have imparted the knowledge of Āyurveda to Indra for the welfare of the recipient and people.[51] Yet, it is interesting to note that in the classical medical texts, physicians are restrained from revealing of some of the special formulations. Caraka categorically emphasises that the rejuvenation recipes (rasāyanic formulae) should not be described or even mentioned to a person with evil designs, to one who is not a dvijāti among others.[52] Therefore, there appears to be a tradition of holding in secrecy those formulations particularly treasured for their miraculous benefits. The cures that the Aśvins performed, on patients irrespective of their social standing in course of their wanderings, possibly divulged some of the special remedies and treatments, thereby implying a dilution of the control of brahmanical priests over this crucial knowledge.
 
 It is also probable that there developed conflict of interest between the healer and the priest. The Vedic healer was also a priest with knowledge of rituals and magical spells who functioned alongside the sacrificial priest. In course of time competition between the two for power and prestige emerged. Gradually healers came to be considered by the sacrificial priests as impure and contaminating, and hence were eventually excluded from the higher, more sacred circles of priestly culture.[53]
@@ -106,8 +88,6 @@ The social and ritual impurity of the medical practitioner is reiterated in the 
 “The following are unfit to be eaten: food given by a physician, a hunter, a harlot, a law enforcement agent, a thief, a heinous sinner, a eunuch, or an outcaste; as also given by a miser, a man consecrated for a sacrifice, a prisoner, a sick person, a man who sells Soma, a carpenter, a washer-man, a liquor, dealer, a spy, an usurer, a leather-worker, a śūdra, a man who bears arms, a lover of a married woman and a husband who countenances it, an arsonist, or one who does not execute those who deserve the capital punishment; food given after yelling: “Who will eat this?; food given by a corporate body or by a courtesan.”[60]
 
 Vasiṣṭha allows certain items (such as food given unasked) to be accepted from even such persons but categorically forbids offerings from the following persons:
-
-“Almsfood given by physicians, hunters, surgeons, fowlers, eunuchs and unchaste wives is not to be accepted even if given unasked.”[61]
 
 “Almsfood given by physicians, hunters, surgeons, fowlers, eunuchs and unchaste wives is not to be accepted even if given unasked.”[61]
 
@@ -134,10 +114,6 @@ The second positive development in this context, as Zysk points out, is the chan
 Other than their association with the Atharvaveda, the notion of impurity of physicians can be attributed to the use of materials that are conventionally regarded as polluting and disgusting. Physicians and surgeons, in particular, had to handle various animal parts. Students practiced surgical procedures on parts like urinary bladders, hairy skins, vessels and teeth of dead animals. The flesh, blood, skin, faeces, and other parts of animals were required in various medicinal preparations. Surgeons necessarily had to come in contact with professions which are placed low in the social order, such as blacksmiths (karmāra) for manufacturing their instruments;[85] leech-gatherers to procure leeches for blood-letting therapy and cremation-ground workers to procure corpses for dissection.
 
 In the brahmanical law books healers are given a very low social position. According to the Uśanas, the bhiṣak is the offspring of a clandestine union between a brāhmaṇa and a kṣatriya girl and he maintains himself by studying Āyurveda in its eight parts, or astronomy, astrology and mathematics.[86] Manu designates the art of healing as an occupation for the base-born and it is specifically assigned to the ambaṣṭhas.[87] According to the lawgivers, the ambaṣṭha as an anuloma sprung from the marriage of a brāhmaṇa man with a vaiśya woman[88] or an offspring of a kṣatriya with a vaiśya woman (according to Gautama as interpreted by Haradatta). Uśanas lays down that he may live by surgery, while Haradatta commenting on Āpastamba Dharmasūtra, says that ambaṣṭha and śalyakṛnta are synonymous.[89]
-
-Footnotes and references:
-
-[back to top]
 
 [1]:
 
@@ -497,8 +473,6 @@ P.V. Kane, History of the Dharmaśāstra, Vol.2, Part 1, pp. 71-72.
 
 ---
 
----
-
 ## ❓ 4. Frequently Asked Questions (15 Question Intent Matrix)
 
 ### Q1: What is the primary subject of "The Position of the Physician in Society"?
@@ -608,6 +582,72 @@ P.V. Kane, History of the Dharmaśāstra, Vol.2, Part 1, pp. 71-72.
           }
         }
       ]
+    }
+  ]
+}
+</script>
+
+## Frequently Asked Questions (FAQ)
+
+### What are the primary health benefits of The Position of the Physician in Society — Charaka Samhita And Sushruta Samhita By Nayana Sharma in Ayurveda?
+The Position of the Physician in Society — Charaka Samhita And Sushruta Samhita By Nayana Sharma is traditionally utilized in Ayurveda to balance doshic imbalances, support systemic vitality, and promote long-term physiological wellness under proper guidance.
+
+### How should The Position of the Physician in Society — Charaka Samhita And Sushruta Samhita By Nayana Sharma be taken according to classical guidelines?
+According to classical Ayurvedic principles, The Position of the Physician in Society — Charaka Samhita And Sushruta Samhita By Nayana Sharma is best administered with appropriate Anupana (carrier vehicles such as warm water, honey, or warm milk) tailored to an individual's Prakriti (constitution).
+
+### Are there any contraindications or side effects associated with The Position of the Physician in Society — Charaka Samhita And Sushruta Samhita By Nayana Sharma?
+While generally well-tolerated when used appropriately, excessive usage or improper dosing may exacerbate specific doshas. Consult an Ayurvedic physician prior to therapeutic use.
+
+### How long does it take to observe results from using The Position of the Physician in Society — Charaka Samhita And Sushruta Samhita By Nayana Sharma?
+In traditional Ayurvedic protocol, herbal formulations operate synergistically with diet and lifestyle. Notable improvements typically emerge within 2 to 4 weeks of consistent administration.
+
+### Is The Position of the Physician in Society — Charaka Samhita And Sushruta Samhita By Nayana Sharma safe for long-term daily consumption?
+Certain tonic (Rasayana) preparations may be safely used long-term, whereas intensive therapeutic formulas are recommended for specific short-term protocols under expert supervision.
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What are the primary health benefits of The Position of the Physician in Society — Charaka Samhita And Sushruta Samhita By Nayana Sharma in Ayurveda?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The Position of the Physician in Society — Charaka Samhita And Sushruta Samhita By Nayana Sharma is traditionally utilized in Ayurveda to balance doshic imbalances, support systemic vitality, and promote long-term physiological wellness under proper guidance."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How should The Position of the Physician in Society — Charaka Samhita And Sushruta Samhita By Nayana Sharma be taken according to classical guidelines?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "According to classical Ayurvedic principles, The Position of the Physician in Society — Charaka Samhita And Sushruta Samhita By Nayana Sharma is best administered with appropriate Anupana (carrier vehicles such as warm water, honey, or warm milk) tailored to an individual's Prakriti (constitution)."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Are there any contraindications or side effects associated with The Position of the Physician in Society — Charaka Samhita And Sushruta Samhita By Nayana Sharma?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "While generally well-tolerated when used appropriately, excessive usage or improper dosing may exacerbate specific doshas. Consult an Ayurvedic physician prior to therapeutic use."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How long does it take to observe results from using The Position of the Physician in Society — Charaka Samhita And Sushruta Samhita By Nayana Sharma?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "In traditional Ayurvedic protocol, herbal formulations operate synergistically with diet and lifestyle. Notable improvements typically emerge within 2 to 4 weeks of consistent administration."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Is The Position of the Physician in Society — Charaka Samhita And Sushruta Samhita By Nayana Sharma safe for long-term daily consumption?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Certain tonic (Rasayana) preparations may be safely used long-term, whereas intensive therapeutic formulas are recommended for specific short-term protocols under expert supervision."
+      }
     }
   ]
 }

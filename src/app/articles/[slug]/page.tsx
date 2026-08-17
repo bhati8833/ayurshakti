@@ -4,7 +4,9 @@ import { Metadata } from 'next';
 import { notFound } from 'next/navigation';
 import { getArticleBySlug, getAllArticles } from '@/lib/markdown';
 import ArticleCard from '@/components/ArticleCard';
-import { ArrowLeft, Clock, Tag, User, ShieldCheck, Share2, Sparkles, BookOpen } from 'lucide-react';
+import TableOfContents from '@/components/TableOfContents';
+import ReadingProgressBar from '@/components/ReadingProgressBar';
+import { ArrowLeft, Clock, Tag, User, ShieldCheck, Sparkles, BookOpen, CheckCircle2, FileText } from 'lucide-react';
 
 interface ArticlePageProps {
   params: {
@@ -82,14 +84,16 @@ export default function ArticleDetailPage({ params }: ArticlePageProps) {
   };
 
   return (
-    <article className="py-12 bg-ayur-bg min-h-screen">
+    <article className="py-12 bg-ayur-bg min-h-screen relative">
+      <ReadingProgressBar />
+
       {/* Schema.org Article / MedicalWebPage JSON-LD */}
       <script
         type="application/ld+json"
         dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLdArticle) }}
       />
 
-      <div className="max-w-4xl mx-auto px-4 sm:px-6 lg:px-8 space-y-8">
+      <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 space-y-8">
         
         {/* Back Navigation */}
         <div className="flex items-center justify-between">
@@ -108,13 +112,13 @@ export default function ArticleDetailPage({ params }: ArticlePageProps) {
 
         {/* Header Block */}
         <div className="space-y-6">
-          <h1 className="font-serif text-3xl sm:text-5xl lg:text-6xl font-bold text-ayur-forest leading-tight">
+          <h1 className="font-serif text-3xl sm:text-5xl lg:text-6xl font-bold text-ayur-forest leading-tight max-w-4xl">
             {article.title}
           </h1>
 
           {/* Meta Info Strip */}
-          <div className="flex flex-wrap items-center gap-4 sm:gap-6 text-xs text-ayur-sage border-y border-ayur-border/60 py-4">
-            <span className="flex items-center gap-1.5 font-medium text-ayur-forest">
+          <div className="flex flex-wrap items-center gap-4 sm:gap-6 text-xs text-ayur-sage border-y border-ayur-border/60 py-4 max-w-4xl">
+            <span className="flex items-center gap-1.5 font-semibold text-ayur-forest">
               <User className="w-4 h-4 text-ayur-gold" />
               Authored by {article.author}
             </span>
@@ -129,37 +133,105 @@ export default function ArticleDetailPage({ params }: ArticlePageProps) {
           </div>
         </div>
 
-        {/* Executive Summary Box */}
-        {article.description && (
-          <div className="glass-panel-gold rounded-2xl p-6 sm:p-8 border border-ayur-gold/40 shadow-xs space-y-2">
-            <span className="text-xs font-bold uppercase tracking-widest text-ayur-gold flex items-center gap-1.5">
-              <Sparkles className="w-4 h-4" /> Clinical Executive Summary
-            </span>
-            <p className="text-ayur-forest text-base sm:text-lg font-serif italic leading-relaxed">
-              "{article.description}"
-            </p>
-          </div>
-        )}
+        {/* 2-Column Responsive Layout */}
+        <div className="grid grid-cols-1 lg:grid-cols-12 gap-8 items-start">
+          
+          {/* Main Column */}
+          <div className="lg:col-span-8 space-y-8">
+            
+            {/* Executive Summary Box */}
+            {article.description && (
+              <div className="glass-summary">
+                <span className="text-xs font-bold uppercase tracking-widest text-ayur-gold flex items-center gap-1.5 mb-2">
+                  <Sparkles className="w-4 h-4" /> Clinical Executive Summary
+                </span>
+                <p className="text-ayur-forest text-base sm:text-lg font-serif italic leading-relaxed">
+                  "{article.description}"
+                </p>
+              </div>
+            )}
 
-        {/* Render Main Article HTML Content */}
-        <div
-          className="prose-ayur bg-white rounded-3xl p-8 sm:p-12 border border-ayur-border shadow-sm"
-          dangerouslySetInnerHTML={{ __html: article.htmlContent }}
-        />
+            {/* Render Main Article HTML Content */}
+            <div
+              className="prose-ayur bg-white rounded-3xl p-6 sm:p-10 border border-ayur-border shadow-xs"
+              dangerouslySetInnerHTML={{ __html: article.htmlContent }}
+            />
 
-        {/* Article Footnotes & Labels */}
-        <div className="pt-6 border-t border-ayur-border flex flex-wrap items-center justify-between gap-4">
-          <div className="flex flex-wrap items-center gap-2">
-            <Tag className="w-4 h-4 text-ayur-sage" />
-            {article.labels.map((lbl) => (
-              <span
-                key={lbl}
-                className="px-3 py-1 rounded-full bg-ayur-sand text-ayur-forest text-xs font-semibold uppercase tracking-wider"
-              >
-                {lbl}
-              </span>
-            ))}
+            {/* Medical Disclaimer */}
+            <div className="disclaimer-box">
+              <p className="font-bold mb-1">Medical Disclaimer:</p>
+              <p>
+                The classical Ayurvedic information presented in this article is strictly for educational purposes and is curated from peer-reviewed Sanskrit Samhitas. It is not intended as substitute medical advice. Consult a certified Ayurvedic physician prior to therapeutic administration.
+              </p>
+            </div>
+
+            {/* Article Labels */}
+            <div className="pt-6 border-t border-ayur-border flex flex-wrap items-center gap-2">
+              <Tag className="w-4 h-4 text-ayur-sage" />
+              {article.labels.map((lbl) => (
+                <span
+                  key={lbl}
+                  className="px-3 py-1 rounded-full bg-ayur-sand text-ayur-forest text-xs font-semibold uppercase tracking-wider"
+                >
+                  {lbl}
+                </span>
+              ))}
+            </div>
+
           </div>
+
+          {/* Sidebar Column */}
+          <div className="lg:col-span-4 space-y-6 lg:sticky lg:top-24">
+            
+            {/* Table of Contents Component */}
+            <TableOfContents htmlContent={article.htmlContent} />
+
+            {/* Author E-E-A-T Credentials Card */}
+            <div className="glass-panel p-6 rounded-3xl border border-ayur-border/60 space-y-3">
+              <div className="flex items-center gap-3">
+                <div className="w-12 h-12 rounded-full bg-ayur-forest text-white flex items-center justify-center font-bold text-lg font-serif">
+                  SB
+                </div>
+                <div>
+                  <h4 className="font-serif font-bold text-base text-ayur-forest">Suresh Bhati</h4>
+                  <p className="text-xs text-ayur-sage">Chief Editorial Author & Researcher</p>
+                </div>
+              </div>
+              <p className="text-xs text-ayur-forest/80 leading-relaxed">
+                Specializing in classical Sanskrit Samhita text analysis, medical botanical classification, and Ayurvedic dosha therapeutics.
+              </p>
+              <div className="pt-2 border-t border-ayur-border/40 flex items-center gap-2 text-xs text-ayur-emerald font-semibold">
+                <CheckCircle2 className="w-4 h-4" /> Editorial Review Approved
+              </div>
+            </div>
+
+            {/* Quick Links Directory */}
+            <div className="p-6 rounded-3xl bg-white border border-ayur-border space-y-3">
+              <h4 className="font-serif font-bold text-sm text-ayur-forest flex items-center gap-2">
+                <FileText className="w-4 h-4 text-ayur-gold" />
+                Ayurvedic Knowledge Hub
+              </h4>
+              <ul className="space-y-2 text-xs">
+                <li>
+                  <Link href="/glossary" className="text-ayur-forest/80 hover:text-ayur-emerald transition-colors font-medium">
+                    → 21,499 Sanskrit Medical Terms
+                  </Link>
+                </li>
+                <li>
+                  <Link href="/herbs" className="text-ayur-forest/80 hover:text-ayur-emerald transition-colors font-medium">
+                    → Authenticated Ayurvedic Herb Profiles
+                  </Link>
+                </li>
+                <li>
+                  <Link href="/canonical-texts" className="text-ayur-forest/80 hover:text-ayur-emerald transition-colors font-medium">
+                    → Classical Manuscripts & Research
+                  </Link>
+                </li>
+              </ul>
+            </div>
+
+          </div>
+
         </div>
 
         {/* Related Articles Section */}

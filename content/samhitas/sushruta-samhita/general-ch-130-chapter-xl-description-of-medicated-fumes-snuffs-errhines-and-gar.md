@@ -20,17 +20,11 @@ This chapter from **Sushruta Samhita (Chikitsasthana)** represents the classical
 
 ---
 
-
 Sushruta Samhita, volume 4: Cikitsasthana
-
-by Kaviraj Kunja Lal Bhishagratna | 1911 | 123,229 words
 
 This current book, the Chikitsa-sthana (english translation), deals with therapeutics, surgical emergencies, geriatrics, aphrodisiacs and various other subjects.
 
 The Sushruta Samhita is the most representative work of the Hindu system of medicine. It embraces all that can possibly appertain to the science of medicine. Susruta-samhita is recognized...
-
-Go directly to: 
-Footnotes.
 
 Chapter XL - Description of medicated fumes, snuffs, errhines and gargles
 
@@ -189,10 +183,6 @@ A Pratisarana remedy may be of four kinds, viz., that prepared with a Kalka (pas
 Thus ends the Fortieth Chapter of the Chikitsita Sthana in the Susruta Samhita which deals with the inhalation of medicinal fumes, snuffs, and gargles.
 
 Here ends the Chikitsita Sthana
-
-Footnotes and references:
-
-[back to top]
 
 [1]:
 

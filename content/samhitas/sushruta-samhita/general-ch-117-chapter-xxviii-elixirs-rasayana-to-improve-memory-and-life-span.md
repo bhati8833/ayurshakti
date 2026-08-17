@@ -20,17 +20,11 @@ This chapter from **Sushruta Samhita (Chikitsasthana)** represents the classical
 
 ---
 
-
 Sushruta Samhita, volume 4: Cikitsasthana
-
-by Kaviraj Kunja Lal Bhishagratna | 1911 | 123,229 words
 
 This current book, the Chikitsa-sthana (english translation), deals with therapeutics, surgical emergencies, geriatrics, aphrodisiacs and various other subjects.
 
 The Sushruta Samhita is the most representative work of the Hindu system of medicine. It embraces all that can possibly appertain to the science of medicine. Susruta-samhita is recognized...
-
-Go directly to: 
-Footnotes.
 
 Chapter XXVIII - Elixirs (rasayana) to improve memory and life span
 
@@ -81,10 +75,6 @@ Clarified butter cooked with an admixture of the pasted Yashti-madhu and with th
 The Tri-padi (lit. three-footed) Gayatri should be recited in connection with the use of any of these elixirs wheie no Mantra would be found to be specifically mentioned. The use of the foregoing medicinal compounds improves one’s beauty, surrounds a man with the majesty and effulgence of the gods and makes him as strong as an elephant. Constant study, disquisitions (on philosophical and scientific topics), discussions in other subjects, and residence with professors or men learned in the respective branches of knowledge, are the best means for improving memory and expanding one’s intellect. Eating after the digestion of a previous meal, non-repression of any natural urgings of the body, annihilation of all killing propensities, perfect continence, self-control and refraining from rash and hazardous undertakings, should be deemed the keys to a long life. 22.
 
 Thus ends the Twenty-eighth Chapter of the Chikitsita-Sthana in the Sushruta Samhita which deals with elixirs and remedial agents for improving the memory and intellect and increasing longevity.
-
-Footnotes and references:
-
-[back to top]
 
 [1]:
 

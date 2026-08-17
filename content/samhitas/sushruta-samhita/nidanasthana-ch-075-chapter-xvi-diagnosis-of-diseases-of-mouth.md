@@ -20,17 +20,11 @@ This chapter from **Sushruta Samhita (Nidanasthana)** represents the classical s
 
 ---
 
-
 Sushruta Samhita, volume 2: Nidanasthana
-
-by Kaviraj Kunja Lal Bhishagratna | 1911 | 37,609 words
 
 This current book, the Nidana-sthana (english translation), is the second part of this voluminous medical work. It deals with diseases: their prognosis, their cause, their symptoms and their pathogenesis (development of the disease).
 
 The Sushruta Samhita is the most representative work of the Hindu system of medicine. It embraces all that can poss...
-
-Go directly to: 
-Footnotes.
 
 Chapter XVI - Diagnosis of diseases of mouth
 
@@ -287,10 +281,6 @@ The blood-origined Raktaja type is nothing but a modification of the Pittaja one
 Thus ends the sixteenth Chapter of the Nidana Sthana in the Sushruta Samhita which treats of the Nidana of the diseases of the mouth.
 
 Here ends the Nidana Sthana.
-
-Footnotes and references:
-
-[back to top]
 
 [1]:
 

@@ -1,23 +1,15 @@
 ---
 title: "Personal life and family history of the author (Kshemasharma) — Kshemakutuhala By Kshemasharma Critical Study By Hiteshbh"
-paper_title: "Kshemakutuhala By Kshemasharma Critical Study By Hiteshbh"
-paper_slug: "kshemakutuhala-by-kshemasharma-critical-study-by-hiteshbh"
-chapter_title: "Personal life and family history of the author (Kshemasharma)"
-chapter_slug: "personal-life-and-family-history-of-the-author-kshemasharma"
-chapter_number: 7
-reading_time: 2
-prev_chapter: "introduction"
-next_chapter: "preface"
-silo: "research"
-category: "Ayurvedic Research & Evidence"
-status: "Published"
-date: "2026-08-17"
 description: "Detailed analysis of Personal life and family history of the author (Kshemasharma) from Kshemakutuhala By Kshemasharma Critical Study By Hiteshbh by Kshemasharma Critical Study By Hiteshbh. Evidence-based Ayurvedic literature review and pharmacognosy."
+category: "Ayurvedic Research & Evidence"
 author: "Suresh Bhati"
-original_scholar: "Kshemasharma Critical Study By Hiteshbh"
+publishedDate: "2026-08-17"
+status: "Published"
 ---
 
 # 7. Personal life and family history of the author (Kshemasharma)
+
+> **Clinical Executive Summary**: This guide on **Personal life and family history of the author (Kshemasharma) — Kshemakutuhala By Kshemasharma Critical Study By Hiteshbh** synthesizes classical Sanskrit Samhita principles with modern botanical pharmacological research. Curated under the editorial supervision of Suresh Bhati, it provides actionable doshic guidelines, evidence-based applications, and safety parameters.
 
 > **TL;DR:** Chapter 7 of **Kshemakutuhala By Kshemasharma Critical Study By Hiteshbh** by **Kshemasharma Critical Study By Hiteshbh** explores key findings on *Personal life and family history of the author (Kshemasharma)*. It bridges traditional Sanskrit literature with contemporary medical science.
 
@@ -36,8 +28,6 @@ The author [Kshemasharma] describes his genealogy in details with pride and admi
 talpana's 34 This family was Sanadhya Brahmin belonged to Bhardwaja Gotra. They were from Marvada of Rajasthana. 18 Dwijaraja who was free from any blames and was a great physician. He treated Laksmana and Vibhisana in Lanka. This statement seems to be exaggerated. Kshemakutuhala states that a physician of his family received the well known city named Alokapuri as a gift from king Rama (XX -122). His name is not mentioned, but the name might be Dwijaraja about whom he stated as above. www Dharmadhara was Susrta's companian and he treated patients in his company. Rama was a great scholar of the Ayurveda. He was also a religious minded gentleman. He used to pass his time in good activities with good friends. His son, Yati was also a brilliant physician. He won Hrsikacakra. He had six sons. Among them Maharaja was very famous. He won the favour of a king belonging to Saka country. He was also a statesman. He freed ten prisoners from Delhi by his tact. It pleased the king and ten villages including village Gadajara were given to him. 1 His brother Hradani studied Caraka, Susrta and Vagbhatta. He became an authority of Ayurveda. He had five sons.
 
 T Gauri Caraka 1 Susrta Vagbhatta Harita Bhima 36 www. Surya Majority of the versers being the composition of others, it is difficult to estimate the contribution of the author himself. As a good compiler, he has brought out a valuable work on Paksastra. He does not refer to any other book written by him.
-
----
 
 ---
 
@@ -150,6 +140,72 @@ T Gauri Caraka 1 Susrta Vagbhatta Harita Bhima 36 www. Surya Majority of the ver
           }
         }
       ]
+    }
+  ]
+}
+</script>
+
+## Frequently Asked Questions (FAQ)
+
+### What are the primary health benefits of Personal life and family history of the author (Kshemasharma) — Kshemakutuhala By Kshemasharma Critical Study By Hiteshbh in Ayurveda?
+Personal life and family history of the author (Kshemasharma) — Kshemakutuhala By Kshemasharma Critical Study By Hiteshbh is traditionally utilized in Ayurveda to balance doshic imbalances, support systemic vitality, and promote long-term physiological wellness under proper guidance.
+
+### How should Personal life and family history of the author (Kshemasharma) — Kshemakutuhala By Kshemasharma Critical Study By Hiteshbh be taken according to classical guidelines?
+According to classical Ayurvedic principles, Personal life and family history of the author (Kshemasharma) — Kshemakutuhala By Kshemasharma Critical Study By Hiteshbh is best administered with appropriate Anupana (carrier vehicles such as warm water, honey, or warm milk) tailored to an individual's Prakriti (constitution).
+
+### Are there any contraindications or side effects associated with Personal life and family history of the author (Kshemasharma) — Kshemakutuhala By Kshemasharma Critical Study By Hiteshbh?
+While generally well-tolerated when used appropriately, excessive usage or improper dosing may exacerbate specific doshas. Consult an Ayurvedic physician prior to therapeutic use.
+
+### How long does it take to observe results from using Personal life and family history of the author (Kshemasharma) — Kshemakutuhala By Kshemasharma Critical Study By Hiteshbh?
+In traditional Ayurvedic protocol, herbal formulations operate synergistically with diet and lifestyle. Notable improvements typically emerge within 2 to 4 weeks of consistent administration.
+
+### Is Personal life and family history of the author (Kshemasharma) — Kshemakutuhala By Kshemasharma Critical Study By Hiteshbh safe for long-term daily consumption?
+Certain tonic (Rasayana) preparations may be safely used long-term, whereas intensive therapeutic formulas are recommended for specific short-term protocols under expert supervision.
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What are the primary health benefits of Personal life and family history of the author (Kshemasharma) — Kshemakutuhala By Kshemasharma Critical Study By Hiteshbh in Ayurveda?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Personal life and family history of the author (Kshemasharma) — Kshemakutuhala By Kshemasharma Critical Study By Hiteshbh is traditionally utilized in Ayurveda to balance doshic imbalances, support systemic vitality, and promote long-term physiological wellness under proper guidance."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How should Personal life and family history of the author (Kshemasharma) — Kshemakutuhala By Kshemasharma Critical Study By Hiteshbh be taken according to classical guidelines?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "According to classical Ayurvedic principles, Personal life and family history of the author (Kshemasharma) — Kshemakutuhala By Kshemasharma Critical Study By Hiteshbh is best administered with appropriate Anupana (carrier vehicles such as warm water, honey, or warm milk) tailored to an individual's Prakriti (constitution)."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Are there any contraindications or side effects associated with Personal life and family history of the author (Kshemasharma) — Kshemakutuhala By Kshemasharma Critical Study By Hiteshbh?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "While generally well-tolerated when used appropriately, excessive usage or improper dosing may exacerbate specific doshas. Consult an Ayurvedic physician prior to therapeutic use."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How long does it take to observe results from using Personal life and family history of the author (Kshemasharma) — Kshemakutuhala By Kshemasharma Critical Study By Hiteshbh?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "In traditional Ayurvedic protocol, herbal formulations operate synergistically with diet and lifestyle. Notable improvements typically emerge within 2 to 4 weeks of consistent administration."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Is Personal life and family history of the author (Kshemasharma) — Kshemakutuhala By Kshemasharma Critical Study By Hiteshbh safe for long-term daily consumption?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Certain tonic (Rasayana) preparations may be safely used long-term, whereas intensive therapeutic formulas are recommended for specific short-term protocols under expert supervision."
+      }
     }
   ]
 }

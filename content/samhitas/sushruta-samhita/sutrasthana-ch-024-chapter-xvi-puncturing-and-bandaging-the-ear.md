@@ -20,15 +20,9 @@ This chapter from **Sushruta Samhita (Sutrasthana)** represents the classical su
 
 ---
 
-
 Sushruta Samhita, volume 1: Sutrasthana
 
-by Kaviraj Kunja Lal Bhishagratna | 1907 | 148,756 words
-
 This current book, the Sutra-sthana (english translation), is the first part of this voluminous medical work. It contains a large summary of the knowledge envelopig the medical aspects of Ayurveda. Descriptions of diseases, various diets and drugs, the duties of a surgeon, surgical procedures, medical training; these are only some of the numerous s...
-
-Go directly to: 
-Footnotes.
 
 Chapter XVI - Puncturing and Bandaging the ear
 
@@ -93,10 +87,6 @@ A plaster composed of the drugs known as Apamarga, Sarjarasa, Patala bark and La
 In a case of ulceration, the ulcerated ear-lobe should be rubbed with the oil prepared and boiled with the drugs known as Madhuka and Kshira-kakoli, or with those which form the group known as the Jivakadi-Varga; while in a case where Vringhana measures are to be adopted, lard prepared from the fat of a Godha, boar, or snake might be used with advantage. In the Avamanthaka type the diseased ear-lobe should be washed and covered with a plaster composed of the drugs known as Prapaundarika, Madhuka, Samanga and Dhavam, or rubbed with oil prepared and boiled with the same drugs. Similarly, a case of Kandu-Juta (accompanied with itching) would yield to a plaster composed of the drugs known as Sahadeva, Vishvadeva, and Saindhava salt pasted with goat’s milk, or to the medicated oil boiled and prepared with the same drugs and substances. In a case of the Granthika type (accompanied by the formation of knotty growths in its inside) the knotty growths or glandular formations should be first removed, and the affected locality should be bled with a surgical instrument and dusted with powdered Saindhava salt. Likewise, in a case of Jamvala type, blood-letting should be resorted to by scarifying the seat of the disease, which should be then washed with a spray of milk. The ulcer should be healed after the perfect purification of its internal morbid???s. A case of the Sravi (secreting) type would readily yield to a????inal plaster composed of the drugs known as Madhuparni, and Mad??am, or of Madhuka pasted with honey, or to the medicinal oil? prepared and boiled with the same drugs and substances. A case of the Dahyamana (burning) type should be treated with a plaster composed of the drugs known as the five Kalkas and Madhuka pasted together and mixed with clarified butter, or with a pasted compound of the drugs which form the group of the Jivakadi Varga with a quantity of clarified butter added to it.
 
 Thus ends the sixteenth chapter of the Sutra-Sthana n in the Sushruta Samhita which treats of the Piercing and Bandaging of lobes.
-
-Footnotes and references:
-
-[back to top]
 
 [1]:
 

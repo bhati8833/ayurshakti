@@ -20,15 +20,9 @@ This chapter from **Sushruta Samhita (Sutrasthana)** represents the classical su
 
 ---
 
-
 Sushruta Samhita, volume 1: Sutrasthana
 
-by Kaviraj Kunja Lal Bhishagratna | 1907 | 148,756 words
-
 This current book, the Sutra-sthana (english translation), is the first part of this voluminous medical work. It contains a large summary of the knowledge envelopig the medical aspects of Ayurveda. Descriptions of diseases, various diets and drugs, the duties of a surgeon, surgical procedures, medical training; these are only some of the numerous s...
-
-Go directly to: 
-Footnotes.
 
 Chapter XXVIII - Prognosis of wounds
 
@@ -53,10 +47,6 @@ An ulcer, which makes a gurgling or groaning sound, or one which is characterise
 A wise physician, with any regard to his own reputation, should abandon a patient laid up with an ulcer which appears to have been dusted over with a sort of pulverised crust, or who has been suffering from one accompanied by loss of flesh and strength, cough, difficult respiration and aversion to food. An ulcer, which occurring at any of the vital parts of the body secretes a copious quantity of pus and blood, and refuses to be healed even after a course of proper and persistent medical treatment, is sure to have a fatal termination.
 
 Thus ends the twenty-eighth Chapter of the Sutrasthana in the Sushruta Samhita, which deals with the favourable and unfavourable prognosis of ulcers.
-
-Footnotes and references:
-
-[back to top]
 
 [1]:
 

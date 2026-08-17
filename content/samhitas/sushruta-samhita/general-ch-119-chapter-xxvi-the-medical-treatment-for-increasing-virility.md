@@ -20,17 +20,11 @@ This chapter from **Sushruta Samhita (Chikitsasthana)** represents the classical
 
 ---
 
-
 Sushruta Samhita, volume 4: Cikitsasthana
-
-by Kaviraj Kunja Lal Bhishagratna | 1911 | 123,229 words
 
 This current book, the Chikitsa-sthana (english translation), deals with therapeutics, surgical emergencies, geriatrics, aphrodisiacs and various other subjects.
 
 The Sushruta Samhita is the most representative work of the Hindu system of medicine. It embraces all that can possibly appertain to the science of medicine. Susruta-samhita is recognized...
-
-Go directly to: 
-Footnotes.
 
 Chapter XXVI - The medical treatment for increasing virility
 
@@ -69,10 +63,6 @@ The use of pulverised Atmagupta and Ikshuraka  (Kokiiaksha) seeds mixed with sug
 The use of the milk of a Griskti (a cow delivered only once) with a grown up calf (one year old) and exclusively fed on the (fresh) leaves of the Masha- parna, is recommended as a sexual tonic. All kinds of meat and milk, as well as the drugs of the Kakolyadi  group should be regarded as being highly possessed of the virtue of imparting tone and vigour (to the male productive organs). They should, therefore, be used (for that purpose). The medicinal remedies and compounds described in the present chapter should be taken in sound health and proper seasons, as they are exhilarating and invigorating, and help the procreation of children. 20-21.
 
 Thus ends the Twenty-sixth Chapter of the Chikitsita Sthana in the Sushruta Samhita which deals with the treatment of the virile impotency.
-
-Footnotes and references:
-
-[back to top]
 
 [1]:
 

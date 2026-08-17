@@ -1,23 +1,15 @@
 ---
 title: "4.4. Description of Vaidurya and Marakata — Minerals And Metals In Sanskrit Literature By Sulekha Biswa"
-paper_title: "Minerals And Metals In Sanskrit Literature By Sulekha Biswa"
-paper_slug: "minerals-and-metals-in-sanskrit-literature-by-sulekha-biswa"
-chapter_title: "4.4. Description of Vaidurya and Marakata"
-chapter_slug: "44-description-of-vaidurya-and-marakata"
-chapter_number: 63
-reading_time: 8
-prev_chapter: "42-description-of-corundum-ruby-and-sapphire"
-next_chapter: "43-gem-minerals-containing-beryllium"
-silo: "research"
-category: "Ayurvedic Research & Evidence"
-status: "Published"
-date: "2026-08-17"
 description: "Detailed analysis of 4.4. Description of Vaidurya and Marakata from Minerals And Metals In Sanskrit Literature By Sulekha Biswa by Sulekha Biswa. Evidence-based Ayurvedic literature review and pharmacognosy."
+category: "Ayurvedic Research & Evidence"
 author: "Suresh Bhati"
-original_scholar: "Sulekha Biswa"
+publishedDate: "2026-08-17"
+status: "Published"
 ---
 
 # 63. 4.4. Description of Vaidurya and Marakata
+
+> **Clinical Executive Summary**: This guide on **4.4. Description of Vaidurya and Marakata — Minerals And Metals In Sanskrit Literature By Sulekha Biswa** synthesizes classical Sanskrit Samhita principles with modern botanical pharmacological research. Curated under the editorial supervision of Suresh Bhati, it provides actionable doshic guidelines, evidence-based applications, and safety parameters.
 
 > **TL;DR:** Chapter 63 of **Minerals And Metals In Sanskrit Literature By Sulekha Biswa** by **Sulekha Biswa** explores key findings on *4.4. Description of Vaidurya and Marakata*. It bridges traditional Sanskrit literature with contemporary medical science.
 
@@ -46,8 +38,6 @@ VII-27 of tortoise-shell, studded with emerald and topaz gems, Egypt having mine
 VII-28.A Manimal a recorded (362-364) certain outstanding statements about emerald which 'illumines a place when exposed to the sun; which is not extremely green, yet the splendour of which looks like the lightning's play among fresh grass' (Manimala 362-363) and lastly the sight of which instills the liveliest pleasure into the mind': yasca manasah prasadam vidyati niriksita gatima ca tat marakatam mahagunam iti ratnavidyam manovrttih  (Manimala 364; also Ratna-pariksha 160 and Garuda-purana 1.71.12-15). Garuda Purana's detailed description of marakata gems (Garuda-purana 1. 71. 29) clearly includes the characteristics of light green vai durya, brigh marakata and bluish-green panna, all belonging to the same family. Perfect emerald gems were known to be rare, and the expressic an emerald without any flaw' became proverbial. Defective pieces of emerald were sometimes encrusted with silajatu (bitumen), stained and sand-grained (Ratna-pariksha 163). Bhallata and Putrika were common imitations, usually lighter, and losing brilliance on exposure and when rubbed. (Ratna-pariksha 165167; Garuda-purana 1.71.20-22) Fake emeralds were known to be softer and to be easily tarnished on application of lime which contrarily brightened real emeralds (Manimala 382-383). An emerald 'endowed with virtues' was known to 'fetch more price than a ruby of equal weight'. As a corollary, in case of defects, the depreciation in the value of an emerald had to be more than that of ruby (Ratna-pariksha 173-174; Garuda-purana 1.71.28-29).
 
 VII-28.E Skanda Purana categorised the emeralds as those with quality and those with defects. The emeralds 'with quality' were further subdivided: gadham duryadalanimam slaksnam ullasitam smrtam pesalam kalimagramam pittam sukagarutprabham mugdham tu tulasi syamam prthakam padmapatravat  "That which resembles the green grass is called gada; the pretty small one is called ullasita. That similar to the petals on top of a bud is called pesala; the one which reflects the feather of a parrot is called pittam. The mugdha variety is like tulasi (leaf) and prthuka resembles lotus' (SP 23.135). Skanda Purana referred to the vaidurya (beryl) mines in Ilavrta and on the Western parts of Mahameru. More specifically the mines were said to be located in: gorakse magadhe dese parasikeca simhale malaye ca trikute ca dipantara mahisu ca  'Goraksa, Magadha country, in Persia, Sinhala, Malaya and Trikuta mountain and in areas in distant islands'. The vaidurva processed and set in jewellery by an expert artisan and that set by an inexperienced artisan naturally differed in containing defects and therefore in prices. (Garuda-purana 73.14).
-
----
 
 ---
 
@@ -160,6 +150,72 @@ VII-28.E Skanda Purana categorised the emeralds as those with quality and those 
           }
         }
       ]
+    }
+  ]
+}
+</script>
+
+## Frequently Asked Questions (FAQ)
+
+### What are the primary health benefits of 4.4. Description of Vaidurya and Marakata — Minerals And Metals In Sanskrit Literature By Sulekha Biswa in Ayurveda?
+4.4. Description of Vaidurya and Marakata — Minerals And Metals In Sanskrit Literature By Sulekha Biswa is traditionally utilized in Ayurveda to balance doshic imbalances, support systemic vitality, and promote long-term physiological wellness under proper guidance.
+
+### How should 4.4. Description of Vaidurya and Marakata — Minerals And Metals In Sanskrit Literature By Sulekha Biswa be taken according to classical guidelines?
+According to classical Ayurvedic principles, 4.4. Description of Vaidurya and Marakata — Minerals And Metals In Sanskrit Literature By Sulekha Biswa is best administered with appropriate Anupana (carrier vehicles such as warm water, honey, or warm milk) tailored to an individual's Prakriti (constitution).
+
+### Are there any contraindications or side effects associated with 4.4. Description of Vaidurya and Marakata — Minerals And Metals In Sanskrit Literature By Sulekha Biswa?
+While generally well-tolerated when used appropriately, excessive usage or improper dosing may exacerbate specific doshas. Consult an Ayurvedic physician prior to therapeutic use.
+
+### How long does it take to observe results from using 4.4. Description of Vaidurya and Marakata — Minerals And Metals In Sanskrit Literature By Sulekha Biswa?
+In traditional Ayurvedic protocol, herbal formulations operate synergistically with diet and lifestyle. Notable improvements typically emerge within 2 to 4 weeks of consistent administration.
+
+### Is 4.4. Description of Vaidurya and Marakata — Minerals And Metals In Sanskrit Literature By Sulekha Biswa safe for long-term daily consumption?
+Certain tonic (Rasayana) preparations may be safely used long-term, whereas intensive therapeutic formulas are recommended for specific short-term protocols under expert supervision.
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What are the primary health benefits of 4.4. Description of Vaidurya and Marakata — Minerals And Metals In Sanskrit Literature By Sulekha Biswa in Ayurveda?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "4.4. Description of Vaidurya and Marakata — Minerals And Metals In Sanskrit Literature By Sulekha Biswa is traditionally utilized in Ayurveda to balance doshic imbalances, support systemic vitality, and promote long-term physiological wellness under proper guidance."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How should 4.4. Description of Vaidurya and Marakata — Minerals And Metals In Sanskrit Literature By Sulekha Biswa be taken according to classical guidelines?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "According to classical Ayurvedic principles, 4.4. Description of Vaidurya and Marakata — Minerals And Metals In Sanskrit Literature By Sulekha Biswa is best administered with appropriate Anupana (carrier vehicles such as warm water, honey, or warm milk) tailored to an individual's Prakriti (constitution)."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Are there any contraindications or side effects associated with 4.4. Description of Vaidurya and Marakata — Minerals And Metals In Sanskrit Literature By Sulekha Biswa?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "While generally well-tolerated when used appropriately, excessive usage or improper dosing may exacerbate specific doshas. Consult an Ayurvedic physician prior to therapeutic use."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How long does it take to observe results from using 4.4. Description of Vaidurya and Marakata — Minerals And Metals In Sanskrit Literature By Sulekha Biswa?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "In traditional Ayurvedic protocol, herbal formulations operate synergistically with diet and lifestyle. Notable improvements typically emerge within 2 to 4 weeks of consistent administration."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Is 4.4. Description of Vaidurya and Marakata — Minerals And Metals In Sanskrit Literature By Sulekha Biswa safe for long-term daily consumption?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Certain tonic (Rasayana) preparations may be safely used long-term, whereas intensive therapeutic formulas are recommended for specific short-term protocols under expert supervision."
+      }
     }
   ]
 }

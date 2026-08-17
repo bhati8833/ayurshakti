@@ -20,17 +20,11 @@ This chapter from **Sushruta Samhita (Sharirasthana)** represents the classical 
 
 ---
 
-
 Sushruta Samhita, volume 3: Sharirasthana
-
-by Kaviraj Kunja Lal Bhishagratna | 1911 | 36,821 words
 
 This current book, the Sharira-sthana (english translation), deals with anatomy, the human body, cosmology, embryology and various other subjects.
 
 The Sushruta Samhita is the most representative work of the Hindu system of medicine. It embraces all that can possibly appertain to the science of medicine. Susruta-samhita is recognized as the first a...
-
-Go directly to: 
-Footnotes.
 
 Chapter VIII - The method of Venesection
 
@@ -131,10 +125,6 @@ Memorable Verses:—
 The vitiated blood incarcerated in any part of the body should be abstracted therefrom by scarifying it, by cupping it with a Sira (pipe), a horn, a gourd, or leeches, or by the opening of a vein respectively, according to the density of the blood. (Others assert that) leeches should be applied in the case of the (vitiated) blood being confined deep into the body, scarification with a surgical instrument should be made in the case of clotted blood, with a pipe in the case of extensive vitiation of the blood throughout the body and with a horn or a gourd in the case of the deranged blood having been seated in the skin. 57-58.
 
 Thus ends the eighth Chapter of the Sharira Sthana in the Sushruta Samhita which treats of venesection.
-
-Footnotes and references:
-
-[back to top]
 
 [1]:
 

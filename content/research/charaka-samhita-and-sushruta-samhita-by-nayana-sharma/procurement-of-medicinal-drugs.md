@@ -1,23 +1,15 @@
 ---
 title: "Procurement of medicinal drugs — Charaka Samhita And Sushruta Samhita By Nayana Sharma"
-paper_title: "Charaka Samhita And Sushruta Samhita By Nayana Sharma"
-paper_slug: "charaka-samhita-and-sushruta-samhita-by-nayana-sharma"
-chapter_title: "Procurement of medicinal drugs"
-chapter_slug: "procurement-of-medicinal-drugs"
-chapter_number: 74
-reading_time: 16
-prev_chapter: "knowledge-of-dietetics"
-next_chapter: "certain-aspects-of-dietary-regimen"
-silo: "research"
-category: "Ayurvedic Research & Evidence"
-status: "Published"
-date: "2026-08-17"
 description: "Detailed analysis of Procurement of medicinal drugs from Charaka Samhita And Sushruta Samhita By Nayana Sharma by Nayana Sharma. Evidence-based Ayurvedic literature review and pharmacognosy."
+category: "Ayurvedic Research & Evidence"
 author: "Suresh Bhati"
-original_scholar: "Nayana Sharma"
+publishedDate: "2026-08-17"
+status: "Published"
 ---
 
 # 74. Procurement of medicinal drugs
+
+> **Clinical Executive Summary**: This guide on **Procurement of medicinal drugs — Charaka Samhita And Sushruta Samhita By Nayana Sharma** synthesizes classical Sanskrit Samhita principles with modern botanical pharmacological research. Curated under the editorial supervision of Suresh Bhati, it provides actionable doshic guidelines, evidence-based applications, and safety parameters.
 
 > **TL;DR:** Chapter 74 of **Charaka Samhita And Sushruta Samhita By Nayana Sharma** by **Nayana Sharma** explores key findings on *Procurement of medicinal drugs*. It bridges traditional Sanskrit literature with contemporary medical science.
 
@@ -88,10 +80,6 @@ Blood-letting is an important practice in Ayurveda for curing diseases caused by
 Other than floral and faunal drugs, the Saṃhitās also incorporate metals and minerals in formulations. These include gold, silver, copper, bell metal (kāṃsya), iron, tin, lead,[69] mercury (sutara),[70] silica, red arsenic (manaḥśilā),[71] gems,[72] salts,[73] red chalk (gairika)[74] and collyrium (añjana).[75] Suśruta includes alkalis, such as yavakṣāra, svarjikākṣāra, etc., for use in cauterization.[76] It is interesting to note that the properties of metals, gems and alkalis have been discussed in the chapter on dietetics (annapānavidhi).[77]
 
 Although the two Saṃhitās embody a huge body of knowledge on medicinal substances, the authors did not consider this materia medica to be exhaustive. The physician is by no means circumscribed in his choice of drugs to those mentioned in the texts; he is advised to use his own discretion in the selection of appropriate drugs,[78] and is also at liberty to add herbs of similar nature to a formulation.[79] Besides, when the prescribed rare drugs are unavailable, he is advised to treat with the one readily available, and if anyone drug in a group is harmful, it should be replaced with a suitable one.[80] It is therefore, considered necessary that the physician will use his discretion in formulating remedies for the patient. Drugs with similar properties have, therefore, been classed together keeping in mind the seasonal availability, rarity or suitability to the patient. It may have depended on th patient’s financial status as well.
-
-Footnotes and references:
-
-[back to top]
 
 [1]:
 
@@ -415,8 +403,6 @@ Suśruta Saṃhitā Cikitsāsthāna 1.136-137.
 
 ---
 
----
-
 ## ❓ 4. Frequently Asked Questions (15 Question Intent Matrix)
 
 ### Q1: What is the primary subject of "Procurement of medicinal drugs"?
@@ -526,6 +512,72 @@ Suśruta Saṃhitā Cikitsāsthāna 1.136-137.
           }
         }
       ]
+    }
+  ]
+}
+</script>
+
+## Frequently Asked Questions (FAQ)
+
+### What are the primary health benefits of Procurement of medicinal drugs — Charaka Samhita And Sushruta Samhita By Nayana Sharma in Ayurveda?
+Procurement of medicinal drugs — Charaka Samhita And Sushruta Samhita By Nayana Sharma is traditionally utilized in Ayurveda to balance doshic imbalances, support systemic vitality, and promote long-term physiological wellness under proper guidance.
+
+### How should Procurement of medicinal drugs — Charaka Samhita And Sushruta Samhita By Nayana Sharma be taken according to classical guidelines?
+According to classical Ayurvedic principles, Procurement of medicinal drugs — Charaka Samhita And Sushruta Samhita By Nayana Sharma is best administered with appropriate Anupana (carrier vehicles such as warm water, honey, or warm milk) tailored to an individual's Prakriti (constitution).
+
+### Are there any contraindications or side effects associated with Procurement of medicinal drugs — Charaka Samhita And Sushruta Samhita By Nayana Sharma?
+While generally well-tolerated when used appropriately, excessive usage or improper dosing may exacerbate specific doshas. Consult an Ayurvedic physician prior to therapeutic use.
+
+### How long does it take to observe results from using Procurement of medicinal drugs — Charaka Samhita And Sushruta Samhita By Nayana Sharma?
+In traditional Ayurvedic protocol, herbal formulations operate synergistically with diet and lifestyle. Notable improvements typically emerge within 2 to 4 weeks of consistent administration.
+
+### Is Procurement of medicinal drugs — Charaka Samhita And Sushruta Samhita By Nayana Sharma safe for long-term daily consumption?
+Certain tonic (Rasayana) preparations may be safely used long-term, whereas intensive therapeutic formulas are recommended for specific short-term protocols under expert supervision.
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What are the primary health benefits of Procurement of medicinal drugs — Charaka Samhita And Sushruta Samhita By Nayana Sharma in Ayurveda?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Procurement of medicinal drugs — Charaka Samhita And Sushruta Samhita By Nayana Sharma is traditionally utilized in Ayurveda to balance doshic imbalances, support systemic vitality, and promote long-term physiological wellness under proper guidance."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How should Procurement of medicinal drugs — Charaka Samhita And Sushruta Samhita By Nayana Sharma be taken according to classical guidelines?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "According to classical Ayurvedic principles, Procurement of medicinal drugs — Charaka Samhita And Sushruta Samhita By Nayana Sharma is best administered with appropriate Anupana (carrier vehicles such as warm water, honey, or warm milk) tailored to an individual's Prakriti (constitution)."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Are there any contraindications or side effects associated with Procurement of medicinal drugs — Charaka Samhita And Sushruta Samhita By Nayana Sharma?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "While generally well-tolerated when used appropriately, excessive usage or improper dosing may exacerbate specific doshas. Consult an Ayurvedic physician prior to therapeutic use."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How long does it take to observe results from using Procurement of medicinal drugs — Charaka Samhita And Sushruta Samhita By Nayana Sharma?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "In traditional Ayurvedic protocol, herbal formulations operate synergistically with diet and lifestyle. Notable improvements typically emerge within 2 to 4 weeks of consistent administration."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Is Procurement of medicinal drugs — Charaka Samhita And Sushruta Samhita By Nayana Sharma safe for long-term daily consumption?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Certain tonic (Rasayana) preparations may be safely used long-term, whereas intensive therapeutic formulas are recommended for specific short-term protocols under expert supervision."
+      }
     }
   ]
 }

@@ -20,17 +20,11 @@ This chapter from **Sushruta Samhita (Uttaratantra)** represents the classical s
 
 ---
 
-
 Sushruta Samhita, Volume 6: Uttara-tantra
-
-by Kaviraj Kunja Lal Bhishagratna | 1916 | 113,078 words
 
 This current book, the Uttara-tantra (english translation) is the supplementary part of the Sushrutasamhita and deals various subjects such as diseases of the eye, treatment of fever, diarrhea, diseases resulting from superhuman influences, insanity, rules of health etc.
 
 The Sushruta Samhita is the most representative work of the Hindu system of m...
-
-Go directly to: 
-Footnotes.
 
 Chapter XXXVIII - Treatment of the diseases of the female organ of generation
 
@@ -75,10 +69,6 @@ Sura, Asava, Arishta, (wines of medicinal drugs) should be prescribed according 
 We have already described the nature of the medical treatment and the remedial agents to be respectively pursued in and prescribed for diseases of the semen, menstrual complaints, affections of the mammae, impotency, cases of false presentation of child and diseases during the period of pregnancy and motherhood, and all those may be employed with equal benefit in these diseases peculiar to the female sex. Other diseases (such as fever etc.) which may arise from immature delivery should be treated in the manner described in the respective treatment of those diseases in the Uttara Tantra. 16.
 
 Thus ends the thirty-eighth chapter of the Uttara Tantra in the Sushruta Samhita which deals with the therapeutics of the female organ of generation.
-
-Footnotes and references:
-
-[back to top]
 
 [1]:
 

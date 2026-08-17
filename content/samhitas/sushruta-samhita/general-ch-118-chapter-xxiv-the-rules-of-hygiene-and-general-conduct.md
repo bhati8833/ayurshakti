@@ -20,17 +20,11 @@ This chapter from **Sushruta Samhita (Chikitsasthana)** represents the classical
 
 ---
 
-
 Sushruta Samhita, volume 4: Cikitsasthana
-
-by Kaviraj Kunja Lal Bhishagratna | 1911 | 123,229 words
 
 This current book, the Chikitsa-sthana (english translation), deals with therapeutics, surgical emergencies, geriatrics, aphrodisiacs and various other subjects.
 
 The Sushruta Samhita is the most representative work of the Hindu system of medicine. It embraces all that can possibly appertain to the science of medicine. Susruta-samhita is recognized...
-
-Go directly to: 
-Footnotes.
 
 Chapter XXIV - The rules of hygiene and general conduct
 
@@ -185,10 +179,6 @@ Similarly, sexual intercourse enjoyed by a man at noon time, or by one who is in
 Hence these (injurious and harmful) practices should be shunned by a man for his welfare in this life as well as for that in the next. On the contrary, repression of a natural and (legitimate) sexual desire, from a sense of unwise delicacy or shame, is a physical sin.[17] Hence a healthy and passionate man possessed of the necessary fecundating element, under the course of a proper Vaji- karana (aphrodisiac) remedy, should cheerfully go unto and duly enjoy the pleasures of company with a girl, beautiful in looks, tender in years, modest, virtuous, equally passionate, cheerful, kindred to him both in physical and mental temperaments, and well-decked with ornaments. Fatigue after coition should be removed by the enjoyment of a bath[18], a cool breeze, or a sound sleep. Food or milk, saturated with sugar, and meat-juice, prove very refreshing after the act. 89.
 
 Thus ends the Twenty-fourth Chapter in the Chikitsita Sthana of the Sushruta Samhita which deals with the rules of Hygiene and the prophylactic measures in general.
-
-Footnotes and references:
-
-[back to top]
 
 [1]:
 

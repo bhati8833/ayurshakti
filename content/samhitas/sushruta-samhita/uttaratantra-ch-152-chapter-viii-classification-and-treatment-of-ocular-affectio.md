@@ -20,17 +20,11 @@ This chapter from **Sushruta Samhita (Uttaratantra)** represents the classical s
 
 ---
 
-
 Sushruta Samhita, Volume 6: Uttara-tantra
-
-by Kaviraj Kunja Lal Bhishagratna | 1916 | 113,078 words
 
 This current book, the Uttara-tantra (english translation) is the supplementary part of the Sushrutasamhita and deals various subjects such as diseases of the eye, treatment of fever, diarrhea, diseases resulting from superhuman influences, insanity, rules of health etc.
 
 The Sushruta Samhita is the most representative work of the Hindu system of m...
-
-Go directly to: 
-Footnotes.
 
 Chapter VIII - Classification and treatment of ocular affections
 
@@ -57,10 +51,6 @@ Names of curable and incurable eye-disease:—
 Palliative or temporary relief is all that can be offered in any of the six types of Kacha described before, as well as in the affection known as Pakshma-kopa, if the patient retains the faculty of sight. Four of the Vayu-origined, two of the Pittaja, one of the Kaphaja, four of the blood-origined and four of the types caused by the concerted action of the three Doshas, as well as the two traumatic forms of optical affections should be regarded as beyond all cure. 8-9.
 
 Thus ends the eighth chapter of the Uttara-Tantra in the Sushruta Samhita which deals with the classification of eye-diseases according to the different modes of treatment.
-
-Footnotes and references:
-
-[back to top]
 
 [1]:
 

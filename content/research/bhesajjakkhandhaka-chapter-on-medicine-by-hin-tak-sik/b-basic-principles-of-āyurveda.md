@@ -1,23 +1,15 @@
 ---
 title: "(b) Basic Principles of Āyurveda — Bhesajjakkhandhaka Chapter On Medicine By Hin Tak Sik"
-paper_title: "Bhesajjakkhandhaka Chapter On Medicine By Hin Tak Sik"
-paper_slug: "bhesajjakkhandhaka-chapter-on-medicine-by-hin-tak-sik"
-chapter_title: "(b) Basic Principles of Āyurveda"
-chapter_slug: "b-basic-principles-of-āyurveda"
-chapter_number: 20
-reading_time: 18
-prev_chapter: "a-brief-history-of-āyurveda"
-next_chapter: "āyurvedabrief-history-and-basic-principles"
-silo: "research"
-category: "Ayurvedic Research & Evidence"
-status: "Published"
-date: "2026-08-17"
 description: "Detailed analysis of (b) Basic Principles of Āyurveda from Bhesajjakkhandhaka Chapter On Medicine By Hin Tak Sik by Hin Tak Sik. Evidence-based Ayurvedic literature review and pharmacognosy."
+category: "Ayurvedic Research & Evidence"
 author: "Suresh Bhati"
-original_scholar: "Hin Tak Sik"
+publishedDate: "2026-08-17"
+status: "Published"
 ---
 
 # 20. (b) Basic Principles of Āyurveda
+
+> **Clinical Executive Summary**: This guide on **(b) Basic Principles of Āyurveda — Bhesajjakkhandhaka Chapter On Medicine By Hin Tak Sik** synthesizes classical Sanskrit Samhita principles with modern botanical pharmacological research. Curated under the editorial supervision of Suresh Bhati, it provides actionable doshic guidelines, evidence-based applications, and safety parameters.
 
 > **TL;DR:** Chapter 20 of **Bhesajjakkhandhaka Chapter On Medicine By Hin Tak Sik** by **Hin Tak Sik** explores key findings on *(b) Basic Principles of Āyurveda*. It bridges traditional Sanskrit literature with contemporary medical science.
 
@@ -61,8 +53,6 @@ Mitra (1985, 55) has extracted such information from a passage in one of the Āy
 
 “Whatever is predominently [sic] gross (sthūla), firm or static (sthira), solid (mūrtimat), heavy (guru), rough (khara), and hard (kaṭhina) part of the body, viz., nails, bones, teeth, flesh, skin, faeces, hair of the head, face and body, tendons as well as odour and the sense of smell, belongs to Pṛthivī bhūta [sic]. Whatever is predominently [sic] liquid (drava), diffusive (sara), sluggish (manda), viscous (snigdha), soft (mṛdu) and pasty (picchila), viz., body nutrient fluid (rasa), blood, fat, kapha [sic] or phlegm, pitta [sic] or bile, urine, sweat, etc., belongs to Ap dhātu. Whatever in the body is of the nature of Pitta, heat and radiating lustre (bhā) as well as colour and complexion is referable to tejas dhātu. Whatever in the body is of the nature of inhalation and exhalation, opening and closing the eyes, contraction and extension, movement, impelling and holding, etc., as well as touch and the sense of touch are referable to vāyu [sic]. Whatever in the body is of the nature of porosity (vivikta), utterance and the channels that are gross and minute, as well as sound and the sense of hearing, are referable to ākāśa dhātu.”[4]
 
-“Whatever is predominently [sic] gross (sthūla), firm or static (sthira), solid (mūrtimat), heavy (guru), rough (khara), and hard (kaṭhina) part of the body, viz., nails, bones, teeth, flesh, skin, faeces, hair of the head, face and body, tendons as well as odour and the sense of smell, belongs to Pṛthivī bhūta [sic]. Whatever is predominently [sic] liquid (drava), diffusive (sara), sluggish (manda), viscous (snigdha), soft (mṛdu) and pasty (picchila), viz., body nutrient fluid (rasa), blood, fat, kapha [sic] or phlegm, pitta [sic] or bile, urine, sweat, etc., belongs to Ap dhātu. Whatever in the body is of the nature of Pitta, heat and radiating lustre (bhā) as well as colour and complexion is referable to tejas dhātu. Whatever in the body is of the nature of inhalation and exhalation, opening and closing the eyes, contraction and extension, movement, impelling and holding, etc., as well as touch and the sense of touch are referable to vāyu [sic]. Whatever in the body is of the nature of porosity (vivikta), utterance and the channels that are gross and minute, as well as sound and the sense of hearing, are referable to ākāśa dhātu.”[4]
-
 The three doṣas (tridoṣa) are wind (vāta or vāyu), bile (pitta), and phlegm (kapha, śleṣman; Pāli: semha),[5] which are thought, like all matters in the world, to evolve from the pañcabhūtas.[6] They are often rendered as “humours” because of the similarity of this theory to the Greek humoral theory of Hippocrates and Galen. The term doṣa can literally mean “vitiator”, from the root duṣ (to spoil or to corrupt). It is because when the doṣas are in balance or in proper proportion they lead to a good state of health; otherwise they can cause various diseases and even death. Although these humours carry a sense of negative implication, they are essential to all bodily functions.[7] They are thought to be semi-fluids circulating in the body via special channels, but each of them predominates in certain part of the body: vāta in the lower abdomen, pitta in the upper abdomen, and kapha in the chest and head. They have their own qualities: vāta is dry, cold, light, mobile, non-slimy, and coarse; pitta is greasy, hot, sour, pungent, sharp, and fluid; kapha is heavy, cold, viscous, soft, sweet, and slimy (as described in the Caraka Saṃhitā Sūtrasthāna 1. 59-61, as well as in the Aṣṭāṅga Hṛdaya Saṃhitā Sūtrasthāna 1. 11-12).[8] The three doṣas have their individual functions. Vāta, as wind, mainly exerts its function characterised by “movement”, such as body/limb movement, mental activation, speech utterance, respiration, intestinal peristalsis, bowel evacuation, etc. Pitta is responsible for functions such as digestion, metabolism, body heat, as well as making the body soft and flexible. It also induces psychological activities such as understanding, intelligence and courage. Kapha makes the body firm, smooth and stable, lubricates the joints, and refreshes the sense organs (Benner 2005, 3854-3855; Chopra 2003, 77-78).[9] The three doṣas undergo fluctuation and each of them dominates at a different period during the daytime and night-time. Variations of the three also occur at different seasons and at different stages of life. Conditions–such as habitat, food, lifestyle, and so on–can have influences on the functions of the doṣas (Chopra 2003, 78; Thakar 1992, 383). The three doṣas are already present at the start of life for each person, until the end of life. Moreover, every person has his/her unique constitution of the doṣas at birth, forming his/her prakṛti. This constitution determines the individual physical and psychological characteristics; it also influences pathogenesis of disease and hence the treatment (Chopra 2003, 77-78; Thakar 1992, 382-385). In brief, the three doṣas together regulate all phases and activities of growth, maintenance and decay. Their balance is responsible for health, and their imbalance for illness and death.[10]
 
 The term dhātu, though literally means “constituent part” or “element”, represents certain body substance or tissue in Āyurvedic science. There are seven dhātus: chyle (rasa), blood (rakta), muscle (māṃsa), fat (medas), bone (asthi), marrow (majjā), and semen (śukra). Each of these seven, according to the Āyurvedic physiology, is derived one by one from each other, starting from the ingested food. Food undergoes the process of digestion, which assumes a very significant role in Āyurveda and is regulated by doṣas. Food is digested–viewed as being “cooked” by “digestive fire” (jāṭharāgni)–and this results in chyle. Then chyle is transformed by bile into blood, blood into flesh, flesh into fat, fat into bone, bone into marrow, and marrow into semen (Aṣṭāṅga Hṛdaya Saṃhitā Sūtrasthāna 1. 13; Caraka Saṃhitā Sūtrasthāna 28. 4, Cikitsāsthāna 15. 16; Chopra 2003, 76-77). Through this process of digestion and metabolism, the seven dhātus are sustained and restored (Thakar 1992, 384).[11] These dhātus have their specific functions: chyle supplies nu[12] trients, blood helps maintain life activities, meat covers the bones, fat provides lubrication, bones support the body, marrow fills the bone, and semen is responsible for reproduction (Aṣṭāṅga Hṛdaya Saṃhitā Sūtrasthāna 11. 4).[13]
@@ -84,10 +74,6 @@ Surgery was emphasised in the Suśruta Saṃhitā, but not in the other Āyurved
 Apart from the above commonly employed remedies of Āyurveda, there are other therapeutic measures. Dietetics has an important role in Āyurveda. It is based on the doctrine that there is an association between taste (rasa) in foods and five mahābhūtas, and through such a principle that the six tastes–sweet, sour, salty, pungent, bitter, and astringent–assert different effects on the doṣas (Caraka Saṃhitā Sūtrasthāna 1. 6466). Preparation and consumption of various foods and drinks are taught in Āyurveda. In addition, a meat diet and alcohol sometimes are prescribed as medicines when necessary. [22] Another type of treatment is the magico-religious measures of the Vedic medicine. Some forms of Vedic medicine survive in the Āyurvedic medicine, though the latter is empirico-rational and emphasises on pharmaceutical/surgical cures. Magico-religious remedies such as ritual offering and spell chanting were used in Āyurveda for certain diseases, especially in the possessed conditions and paediatric diseases (Zysk 1991, 19-20).
 
 Maintenance of health–for the purpose of long life–is another important aspect of Āyurveda. There are many practical advices–what to do and what not to do–for this purpose according to Āyurveda (e.g. Aṣṭāṅga Hṛdaya Saṃhitā Sūtrasthāna 2-4), such as personal hygiene (tooth-brushing, bathing, cutting hairs and nails, etc.); non-suppression of natural urges (e.g. passing urine, faeces, flatus); suitability of and moderation in foods and drinks; physical exercises to control weight; time and place for sleep; ethical conduct (good deeds of body, speech and mind, e.g. no harming of other sentient beings, no stealing or robbing, no sexual misconduct, compassion, thinking of the benefits of others, etc.); appropriate occupations; suitable etiquettes and activities;good clothing and footwear; wearing talismans or amulets; usage of eye collyria, nasal drops, mouth gargles, etc.; body massage; regimens during different seasons; suitable living environment; and so on.
-
-Footnotes and references:
-
-[back to top]
 
 [1]:
 
@@ -176,8 +162,6 @@ This description on the pañcakarma has the information collected from Chopra 20
 [22]:
 
 There is much material on dietetics in the classical Āyurvedic texts, such as Caraka Saṃhitā Sūtrasthāna 23, 25-28; Suśruta Saṃhitā Sūtrasthāna 45-46; and Aṣṭāṅga Hṛdaya Saṃhitā Sūtrasthāna 5-10.
-
----
 
 ---
 
@@ -290,6 +274,72 @@ There is much material on dietetics in the classical Āyurvedic texts, such as C
           }
         }
       ]
+    }
+  ]
+}
+</script>
+
+## Frequently Asked Questions (FAQ)
+
+### What are the primary health benefits of (b) Basic Principles of Āyurveda — Bhesajjakkhandhaka Chapter On Medicine By Hin Tak Sik in Ayurveda?
+(b) Basic Principles of Āyurveda — Bhesajjakkhandhaka Chapter On Medicine By Hin Tak Sik is traditionally utilized in Ayurveda to balance doshic imbalances, support systemic vitality, and promote long-term physiological wellness under proper guidance.
+
+### How should (b) Basic Principles of Āyurveda — Bhesajjakkhandhaka Chapter On Medicine By Hin Tak Sik be taken according to classical guidelines?
+According to classical Ayurvedic principles, (b) Basic Principles of Āyurveda — Bhesajjakkhandhaka Chapter On Medicine By Hin Tak Sik is best administered with appropriate Anupana (carrier vehicles such as warm water, honey, or warm milk) tailored to an individual's Prakriti (constitution).
+
+### Are there any contraindications or side effects associated with (b) Basic Principles of Āyurveda — Bhesajjakkhandhaka Chapter On Medicine By Hin Tak Sik?
+While generally well-tolerated when used appropriately, excessive usage or improper dosing may exacerbate specific doshas. Consult an Ayurvedic physician prior to therapeutic use.
+
+### How long does it take to observe results from using (b) Basic Principles of Āyurveda — Bhesajjakkhandhaka Chapter On Medicine By Hin Tak Sik?
+In traditional Ayurvedic protocol, herbal formulations operate synergistically with diet and lifestyle. Notable improvements typically emerge within 2 to 4 weeks of consistent administration.
+
+### Is (b) Basic Principles of Āyurveda — Bhesajjakkhandhaka Chapter On Medicine By Hin Tak Sik safe for long-term daily consumption?
+Certain tonic (Rasayana) preparations may be safely used long-term, whereas intensive therapeutic formulas are recommended for specific short-term protocols under expert supervision.
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What are the primary health benefits of (b) Basic Principles of Āyurveda — Bhesajjakkhandhaka Chapter On Medicine By Hin Tak Sik in Ayurveda?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "(b) Basic Principles of Āyurveda — Bhesajjakkhandhaka Chapter On Medicine By Hin Tak Sik is traditionally utilized in Ayurveda to balance doshic imbalances, support systemic vitality, and promote long-term physiological wellness under proper guidance."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How should (b) Basic Principles of Āyurveda — Bhesajjakkhandhaka Chapter On Medicine By Hin Tak Sik be taken according to classical guidelines?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "According to classical Ayurvedic principles, (b) Basic Principles of Āyurveda — Bhesajjakkhandhaka Chapter On Medicine By Hin Tak Sik is best administered with appropriate Anupana (carrier vehicles such as warm water, honey, or warm milk) tailored to an individual's Prakriti (constitution)."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Are there any contraindications or side effects associated with (b) Basic Principles of Āyurveda — Bhesajjakkhandhaka Chapter On Medicine By Hin Tak Sik?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "While generally well-tolerated when used appropriately, excessive usage or improper dosing may exacerbate specific doshas. Consult an Ayurvedic physician prior to therapeutic use."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How long does it take to observe results from using (b) Basic Principles of Āyurveda — Bhesajjakkhandhaka Chapter On Medicine By Hin Tak Sik?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "In traditional Ayurvedic protocol, herbal formulations operate synergistically with diet and lifestyle. Notable improvements typically emerge within 2 to 4 weeks of consistent administration."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Is (b) Basic Principles of Āyurveda — Bhesajjakkhandhaka Chapter On Medicine By Hin Tak Sik safe for long-term daily consumption?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Certain tonic (Rasayana) preparations may be safely used long-term, whereas intensive therapeutic formulas are recommended for specific short-term protocols under expert supervision."
+      }
     }
   ]
 }

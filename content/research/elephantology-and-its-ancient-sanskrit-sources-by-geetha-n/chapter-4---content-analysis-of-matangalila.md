@@ -1,23 +1,15 @@
 ---
 title: "Chapter 4 - Content Analysis of Matangalila — Elephantology And Its Ancient Sanskrit Sources By Geetha N"
-paper_title: "Elephantology And Its Ancient Sanskrit Sources By Geetha N"
-paper_slug: "elephantology-and-its-ancient-sanskrit-sources-by-geetha-n"
-chapter_title: "Chapter 4 - Content Analysis of Matangalila"
-chapter_slug: "chapter-4---content-analysis-of-matangalila"
-chapter_number: 7
-reading_time: 36
-prev_chapter: "declaration"
-next_chapter: "chapter-6---capturing-of-elephants"
-silo: "research"
-category: "Ayurvedic Research & Evidence"
-status: "Published"
-date: "2026-08-17"
 description: "Detailed analysis of Chapter 4 - Content Analysis of Matangalila from Elephantology And Its Ancient Sanskrit Sources By Geetha N by Its Own Culture. Evidence-based Ayurvedic literature review and pharmacognosy."
+category: "Ayurvedic Research & Evidence"
 author: "Suresh Bhati"
-original_scholar: "Its Own Culture"
+publishedDate: "2026-08-17"
+status: "Published"
 ---
 
 # 7. Chapter 4 - Content Analysis of Matangalila
+
+> **Clinical Executive Summary**: This guide on **Chapter 4 - Content Analysis of Matangalila — Elephantology And Its Ancient Sanskrit Sources By Geetha N** synthesizes classical Sanskrit Samhita principles with modern botanical pharmacological research. Curated under the editorial supervision of Suresh Bhati, it provides actionable doshic guidelines, evidence-based applications, and safety parameters.
 
 > **TL;DR:** Chapter 7 of **Elephantology And Its Ancient Sanskrit Sources By Geetha N** by **Its Own Culture** explores key findings on *Chapter 4 - Content Analysis of Matangalila*. It bridges traditional Sanskrit literature with contemporary medical science.
 
@@ -46,19 +38,7 @@ nityam shrimangalavasya mangalagurujanadatta shastravabodah
 brahmanandabhidham pratayatikripaprapta tatvabodhah
 vadhita stairyakamkshi parshitanitaro ratnamuccai ratanit[2]
 
-nrisimhayadavakaratejo dvitayamadvayam
-rajate nitaram rajaraja mangaladhamani
-tatratyah shrimadetaccaranasarasijaikashrayo nilkantho
-nityam shrimangalavasya mangalagurujanadatta shastravabodah
-brahmanandabhidham pratayatikripaprapta tatvabodhah
-vadhita stairyakamkshi parshitanitaro ratnamuccai ratanit[2]
-
 He mentions that he was an inhabitant of Tirumangalam near Tirur. It assured in Manushyalaya Candrika.
-
-shrimatkundapure virajati parakrode ca tejatparam
-navanamni ca dhamni yacca nitaram malliviharalaye
-ashvathakhyaniketanepi ca pure shrikeraladhisvare
-sambhuyaita duraprakashavishaye citte mamojjrimbhatam[3]
 
 shrimatkundapure virajati parakrode ca tejatparam
 navanamni ca dhamni yacca nitaram malliviharalaye
@@ -72,16 +52,9 @@ premaprakarshnilaya ssakalabhivandyah
 shrimadgirindratanaya tanayot∫ ngribhajam
 kamaprado jayati mattamatangajjasyah[4]
 
-shrimangalaspada sadashraya nilakante
-premaprakarshnilaya ssakalabhivandyah
-shrimadgirindratanaya tanayot∫ ngribhajam
-kamaprado jayati mattamatangajjasyah[4]
-
 In the first shloka of fourth chapter of Manushyalaya Candrika he pays reverence to the dieties of Nrisimhayadhava installed in the Rajarajamangala temple Tirur,, now at municipal town in Malappuram District of Kerala. In Manushyalaya candrika and Kavyollasa (which are the another work of the author), he involved the deities of several temples, which are the prakashavishaya (vettattunadu) prakashavishaya is a tract of land around Tirur. Prakasha means light (vettam in Malayalam) and vishaya means country (natu in Malayalam).
 
 Therefore it can be regard that Nilakanthan is a native of Tirumangalam near Tirur.
-
-taddavapadakamalaikasamashrayah kopyudyota managuruvarya kripabhiyogat vidyaparishramaparo bhahudhamashuddhavyudyogavan bhavanti balavibodhane ca yesham shrutipranayini dhishana yadiyassankalpa kalpitatanh parameshvaropi tesham mahisumanasam mahaniyabhasamuttamsaye paramudarapadaravindam. nissarga samsidda samasta shilpapravinyamadyam druhinam pranamya mayamanushyalayacandrikaisa vilikhyate mandadiyam hitaya mayamatayugalam prayogamanjaryapi ca ribandanabhaskariya yugmam manumata gurudevapaddatishriharijayanadi mahagama jayanti.
 
 taddavapadakamalaikasamashrayah kopyudyota managuruvarya kripabhiyogat vidyaparishramaparo bhahudhamashuddhavyudyogavan bhavanti balavibodhane ca yesham shrutipranayini dhishana yadiyassankalpa kalpitatanh parameshvaropi tesham mahisumanasam mahaniyabhasamuttamsaye paramudarapadaravindam. nissarga samsidda samasta shilpapravinyamadyam druhinam pranamya mayamanushyalayacandrikaisa vilikhyate mandadiyam hitaya mayamatayugalam prayogamanjaryapi ca ribandanabhaskariya yugmam manumata gurudevapaddatishriharijayanadi mahagama jayanti.
 
@@ -90,19 +63,11 @@ In Shrishankaragurucarita:—
 yatgramasambandhi krita manushyalayacandrika
 matangalila cadyapi keraliyairadhiyate[5]
 
-yatgramasambandhi krita manushyalayacandrika
-matangalila cadyapi keraliyairadhiyate[5]
-
 which indicate that Nilakantha is the author of Matangalila and Manushyalaya Candrika.
 
 markandeyanibandianam mayamatam ratharatim, proktam kashyapa vishvakaramadevoktanca panashikam savyakhyam harisamhitam vivaranadyam vastuvidyadhikanam drishtva tamtrasamuccayokta manusritaivatra samkshipya te (manushyalaya candrika) nrisimhayadavau daityasamuhogratavitavau rajamanau bhaje rajarajamangalavasinous. (matangalila).[6]
 
-markandeyanibandianam mayamatam ratharatim, proktam kashyapa vishvakaramadevoktanca panashikam savyakhyam harisamhitam vivaranadyam vastuvidyadhikanam drishtva tamtrasamuccayokta manusritaivatra samkshipya te (manushyalaya candrika) nrisimhayadavau daityasamuhogratavitavau rajamanau bhaje rajarajamangalavasinous. (matangalila).[6]
-
 Both these works (Manushyalaya Candrika and Matangalila) gives the term Nrisimbhayadavau and Rajarajamangala, and the verses of Manushyalaya Candrika gives the name of the author that is, Nilakantha. The name of his house was Tirumangalam and he worshipped the deities of Narasimha and Shrikrishna of Rajarajamangala Brahmananda, the commentator of Uttaragita of Goudapada was the Vedantaguru (teacher) of Nilakantha. Goudapada is also attributed with a work Bhagavataoladeshasaram. He is assumed to be the seer of Thrishshur convent. Nilakantha mentions of temples of Thrikkantiyur, Tripangod, Tirunavay, Mullappalli Alathur and Keladhishvaram. If we accept the reading.
-
-nitya rajarajamangalapure carad ganeshalaye
-nava namni ca dhamni rajatitaram malliviharalaye[7]
 
 nitya rajarajamangalapure carad ganeshalaye
 nava namni ca dhamni rajatitaram malliviharalaye[7]
@@ -174,11 +139,6 @@ vahantyeva haya rathah
 varanastu narendrarhah
 yudhyanti ca vahanti ca[11]
 
-yudhyanti kevalam martyah
-vahantyeva haya rathah
-varanastu narendrarhah
-yudhyanti ca vahanti ca[11]
-
 The third chapter describes the unfavourable marks in 7 verses. The king is advised not to catch a cow-elephant if a young one accompanies her, because it will seriously hurt the wealth of the country.
 
 The fourth chapter deals with marks of longevity state and best elephants. It includes only 4 verses. This chapter explains the full length of life of the elephants. The best type of elephant will live in twelve decades while the 'slow' and 'dear' castes may be expected to live only for eight and four decades respectively.
@@ -188,8 +148,6 @@ The fifth chapter explains the different stages of life of elephant. The animal 
 The standard measurement of each of the three main castes, the length, height etc. is described in the sixth chapter. In modern times also this measurement is recognized.
 
 The seventh chapter is the smallest one in Matangalila. It consists of only 3 verses. It narrates the method to calculate the price of elephants. The prices is calculated in accordance with their quantities.
-
-griniyat purnamulyena tu nikhilagunaih -ranvitam varanendram bhagnaikamkshyam ghriidantam badhirampiruja vantamapyardhamulyaot ccinnardhashrotra baladikamapi matimam statra mulyastribhaga- ddantadvandvaprahinadikamabhivarama–pyangrimulyena grihyat[12]
 
 griniyat purnamulyena tu nikhilagunaih -ranvitam varanendram bhagnaikamkshyam ghriidantam badhirampiruja vantamapyardhamulyaot ccinnardhashrotra baladikamapi matimam statra mulyastribhaga- ddantadvandvaprahinadikamabhivarama–pyangrimulyena grihyat[12]
 
@@ -219,8 +177,6 @@ Matangalila deals with the elephant's life cycle in detail. That is:—
 
 Utattiḥ śubhalakṣanānyaśubhala- Kṣmāyur vayolakṣaṇam mānam mūlyaviśeṣasatvamabh® dāsca kramāddantinām vanyānām grahaṇam ca rakṣaṇadinar- tvāvārabhedādikam nāgādhyakṣaguṇādikam ca sakalam samkṣepato vakṣyatte[13]
 
-Utattiḥ śubhalakṣanānyaśubhala- Kṣmāyur vayolakṣaṇam mānam mūlyaviśeṣasatvamabh® dāsca kramāddantinām vanyānām grahaṇam ca rakṣaṇadinar- tvāvārabhedādikam nāgādhyakṣaguṇādikam ca sakalam samkṣepato vakṣyatte[13]
-
 Matangalila gives a clear picture of the origin of the elephants and the birth of Palakapya.
 
 Elephant castes
@@ -229,18 +185,11 @@ There are four famous castes mentioned in Matangalila. They are 'bhadra', 'slow'
 
 jatā bhadra dvipendrāḥ kṛtayugasamayelakṣaṇenābhiyuktā- stretāyām mandajātyāḥ khalu gajapatayo dvāparakhye yuge ca nāgāścaite mṛgākhyāstadanu kaliyuge traiva samkīṛṇajātaya nāgānām jātibhedaijaniriha kathita kālayogānurūpa[14]
 
-jatā bhadra dvipendrāḥ kṛtayugasamayelakṣaṇenābhiyuktā- stretāyām mandajātyāḥ khalu gajapatayo dvāparakhye yuge ca nāgāścaite mṛgākhyāstadanu kaliyuge traiva samkīṛṇajātaya nāgānām jātibhedaijaniriha kathita kālayogānurūpa[14]
-
 A version of different castes
 
 Duration of time is divided into four yugas in ancient days they are the krita, dvapara, treta and kaliages various castes of elephants are born in this four ages respectively. Among these ages first age is krita, the spring time. The bhadra caste is born in that stage. They looked like spendiferous, bearing beauty and good characteristic marks. Their body is not over thick, they are rosy in colour, energetic, ambitious towards by the cows, having twany eyes and well balanced tusks, impartial is lustiness and grief. They are known as bhadra.
 
 The Brihatsamhita mentions bhadra caste thus–
-
-madvabhadantah suvibhaktadeha
-na copodigda na krisha kshamashca
-gatraih samaishcapa samanavamsha
-varaha tulairjaganaishcabhadrah[15]
 
 madvabhadantah suvibhaktadeha
 na copodigda na krisha kshamashca
@@ -266,21 +215,11 @@ stanvangadhrikandadvija hasta karnah
 stulekshanashceti yathoktacihneh
 sankirnanaga vyatimishracihnah[16]
 
-mrigastu hrasvadharavalameda
-stanvangadhrikandadvija hasta karnah
-stulekshanashceti yathoktacihneh
-sankirnanaga vyatimishracihnah[16]
-
 Life time
 
 The bhadracaste had lived twelve decades as their maximusm age, and deer caste lived for four decades. The manda castes can life upto the time of eighty and the mishra caste were born as minkling of bhadra and mriga. According to Nilakantha, mishra castes age can't be calculated.
 
 Varahamihira refers to elephant's longevity–
-
-panconnatih saptamrigasya dairghya
-mashtau hastah parinahamanam
-ekadvi vridhavatha manda bhadrau
-samkirna nagoniyata pramanah[17]
 
 panconnatih saptamrigasya dairghya
 mashtau hastah parinahamanam
@@ -302,9 +241,6 @@ One who has an admirable tusk, back born and is considered as an excellent eleph
 That is described in Manasollasa (mo)
 susniadau radanau vrittou dakshinashca. samunnatah akrishtam talu tamram ca dasashtau nakhashubhah [18]
 
-That is described in Manasollasa (mo)
-susniadau radanau vrittou dakshinashca. samunnatah akrishtam talu tamram ca dasashtau nakhashubhah [18]
-
 Obesity is the essential thing, it must have long legs and arms, large long round neck is essential, trumpeting with a roar like clouds, full of water with honey coloured eye, with trunks like tree sterms and marked with three corrugations such elephants are fine. Those having drum like trunk kettle like ears, and flutes like mouth are also considered as good.
 
 Those who do not make any sound due to hunger, thirst, grief and fright, are considered to be auspicious who make sounds like a lion, crane peacock, cuckoo, tiger, lion and bull, were considered as good.
@@ -312,8 +248,6 @@ Those who do not make any sound due to hunger, thirst, grief and fright, are con
 According to their characteristics they had various names.
 
 Since they came walk anywhere and everywhere they are named naga. They can roar in high sounds they are called as gaja. They were the portion of the troof and they protect the king in the battle so they called varana, because of their weight they make tribudiness their way so they named matanga; with the force of their feet they scrunch the earth so they called kunjara, because of blot in their body they are known as padmini, they can drink both with the mouth and trunk so they called dvipa, they are known as eight blows because they attack with trunk, tail, tusk and forefeat. They were known as hasti because they born from the hands of Brahma. Because of their beauty and immensity in body they called ibha, because of their long trunk they were known as karin they are known as dantin because they have tusk, they are joyful in the water so they are known as sindhura.
-
-gajashiksha makes out a pictures of padminpadiminaste kinnaramshah padmagemdah shubhekshanah piryaparshvah shantacinta dhimatah priyabhashanah[19]
 
 gajashiksha makes out a pictures of padminpadiminaste kinnaramshah padmagemdah shubhekshanah piryaparshvah shantacinta dhimatah priyabhashanah[19]
 
@@ -334,11 +268,6 @@ yatra tishtanti parthiva
 hanyate tatra nripatih
 sutena suhrida piva[20]
 
-lakshamushkastu matanga
-yatra tishtanti parthiva
-hanyate tatra nripatih
-sutena suhrida piva[20]
-
 If it can (an elephant) lacks the right ear, it will destroy the forecasts. It may cause the disease of the king if lacks of the left ear. If there has an evilbolt in his skin, tusk, check or nail they shall be forsaken.
 
 At night who seems to rejoice, the day time who jittered and to make sounds with the birds fanning the tail, who impulse to mahout that kind of elephant is known as rogue elephant is abunded and they must discarded.
@@ -348,15 +277,7 @@ As mentions the disqualified elephant.
 vikko mudo matkuno vyadhito
 garbhini denuka, hastini ca agrahyah[21]
 
-vikko mudo matkuno vyadhito
-garbhini denuka, hastini ca agrahyah[21]
-
 If a she-elephant is pregnant or accompanied by a calf it is beleived to bring bad luck. That is:–
-
-potanvita va karini sagarabha
-labdva bhaved vahanakoshanashah
-tapovane va svavane thavapi
-nitvaripayet diggajadevapujam[22]
 
 potanvita va karini sagarabha
 labdva bhaved vahanakoshanashah
@@ -389,11 +310,6 @@ nahapramanam tu vitastayo shtau
 etat dvivarmu dhavada mandabhadrau
 prapte tu varshedashame triyuket[24]
 
-panconnatisapta mrigasya dairghyam
-nahapramanam tu vitastayo shtau
-etat dvivarmu dhavada mandabhadrau
-prapte tu varshedashame triyuket[24]
-
 Stages of life marks
 
 According to their age four different names are given to them. Before twelfth year he is know as jagahanya, at this age he is worthless; before twenty fourth years he is known as madhyagaja, at this time he is of middling value, before sixty year, he is named as matangavarya. At this time he is formed as a noble elephant, after sixty year, he is known as uttamagaja.
@@ -405,11 +321,6 @@ At first, the new born baby is called balan. It is light reddish colour, always 
 In the second age, it is called puncaka. At this time the baby elephant is also called pashuka. Its body parts are reddish and its eyes are partially shut, it begins to eat the spring leaves and grass indisposed to drinking milk, mostly like sweety food, journey is in orgastic, its interest is to play.
 
 In the third age he is known as upsarapaka. At this age it is matured. At this age his nails, vidu, joints, ears, and sheaths and covering of the tusks are clearly developed; its body is hairy, he begins to eat grass with firm rows of teeth.
-
-vilaganishkoshavilohitah payo
-divt prohasandanaghanastrinapriyah
-krishnahtataluh pritulashcaatushtaye
-manak prarohaddashanohi harbarah[25]
 
 vilaganishkoshavilohitah payo
 divt prohasandanaghanastrinapriyah
@@ -438,8 +349,6 @@ At the age of 111-120 he seems like:—
 
 nīcaiśa mandam pramṛśecca yāyaccalatkaro dhaścalakarṇabāiaḥ prastabdagātraḥ paravānajaśram sa drādaśīm prāpya daśām svapecca [27]
 
-nīcaiśa mandam pramṛśecca yāyaccalatkaro dhaścalakarṇabāiaḥ prastabdagātraḥ paravānajaśram sa drādaśīm prāpya daśām svapecca [27]
-
 His trunks, ears, and tail-swaying downward, fore- and hind limbs are stiff, he sleep constantly in this twelfth stage. The age up to 120 is considered as the last stage of an elephant.
 
 Having performed many duties the elephant goes to heaven in his hundred and twenty years.
@@ -457,9 +366,6 @@ There are three types of cow elephants. They are best cow-elephant, middling cow
 shadpancacaturaccraya cashtacaptashadayatah
 navashtasa[tanabhashca mukyamadhyadhama vashah[28]
 
-shadpancacaturaccraya cashtacaptashadayatah
-navashtasa[tanabhashca mukyamadhyadhama vashah[28]
-
 Elephant length is calculated by measuring the distance from the eyes to the root of tail, and height is measured from the top of shoulder to the ground. Now-a-days also used this method of height measurement.
 
 Body parts of Elephants, named differently. The two nobs between the head's called vidhu, its under part is named vahitha, its lower portion is known as vayukumbha. The space between left and right nobs are called vilaga. Tip of the trunk is known as pushkara. Brink/lair of the eye is called ishila. Corner of the eye is known as niryana and the earroot is named culika.
@@ -471,11 +377,6 @@ Middle of the body is known is nigala, above that is cikka. Over the haunch is c
 Above the waist is called apara, over the buttocks namded nishkosha, belly parts are known as kukshi, bellies elecated sides named uttrishta.
 
 The tail root is named as pecaka below the throat is known as antarmani.
-
-pushcamulasamipah syat
-pecakastu galadadh
-urasyantam manim vidyat
-grivasandhim samashritam[29]
 
 pushcamulasamipah syat
 pecakastu galadadh
@@ -501,15 +402,7 @@ ata eva mulyadanatte svikaryah parikshtah karmasha
 trivayaskjah karinastu svikarya mulashatakadinaraih
 evam caturtha varshah pancamavarshashadabhakah potah[31]
 
-uttamagajastu loke nahi labhyasarvadesheshu
-ata eva mulyadanatte svikaryah parikshtah karmasha
-trivayaskjah karinastu svikarya mulashatakadinaraih
-evam caturtha varshah pancamavarshashadabhakah potah[31]
-
 Then he narrates the value of elephants in each and every phases. At the age of 5 to 10 it takes hundred price, beyond this state increasing their value accordingly their body characters. The uttamagaja carries full price.
-
-uttamakulajah shadgunaparimanditah sarupashca
-mulyadhikyarha iti dushyante dviradagunakulatnaih[32]
 
 uttamakulajah shadgunaparimanditah sarupashca
 mulyadhikyarha iti dushyante dviradagunakulatnaih[32]
@@ -533,11 +426,6 @@ shuklakalahastathi kulirugandhah
 krodhi ca bhedayh kripanah
 satvena shudra ssagajo s?hamashca[33]
 
-uccishta hrishtassahasaiva bhiruh
-shuklakalahastathi kulirugandhah
-krodhi ca bhedayh kripanah
-satvena shudra ssagajo s?hamashca[33]
-
 Based on the caste variety, they are classified into gods, demons, gandharvas, yakshas, gaint, goblin, serpant, etc. Another classification is based on varying the degrees of sensitivity to stimulation. The sensation of elephants is known to be seven fold according to extreme, shallow deep, comfortable to meaning, contrary to meaning, harsh and perfect. In Sanskrit they are known as atyarthavedi, uttanavedi, gabhiravedi, anvarthavedi, pratyarthavedi, karkkashavedi and siddhantavedi.[34]
 
 Gajashiksha Naradhamuni describes the different characteristics of elephant. In the second chapter he narrates twenty-eight varieties of elephants found on earth. Among them 16 varieties are called noble ones as they are born with the characterisation of gods, semigods, and human beings.
@@ -549,11 +437,6 @@ According to Nilakantha, elephants vary their several signs indicating this. The
 Who tries to do prohibited things desirous in fighting, soon angered, unkind, smelled like aloes or fish he likes to kill anything these are the character of a Demon.
 
 The Deva is:—
-
-yah kantiman kumudacandanasaptaprana
-naramgapadmacaturangulatulyagandhah
-phullananah kalabha kautukabanajasram
-manyosnya pushaninadah sa tu devasatvah[35]
 
 yah kantiman kumudacandanasaptaprana
 naramgapadmacaturangulatulyagandhah
@@ -587,11 +470,6 @@ mandasya naridrakasannikashah
 krishno bhavashcano hi hito mrigasya
 sangirna nagasya mado vimishrah[36]
 
-bhadrasya varno harito madashca
-mandasya naridrakasannikashah
-krishno bhavashcano hi hito mrigasya
-sangirna nagasya mado vimishrah[36]
-
 According to M.S. Joy must is also known as must, musth and matt; in Sanskrit it is called mada, means intoxication. It is only rupture.
 
 In Matangalila must is stated as a rupturous condition. Must is found majority in male elephants and very rarely in females on maturity, are subject to peculiar paroxysms of excitement which have some connection with the sexual functions it occurs. Most frequently in the cold season and may perhaps due to ungratified sexual desire in some cases, but not always. So since the society of female by no means always quells or even pacifics animals in must. Other times an animal in must. Other times an animal is must doubtedly seeks the opposite sex for mating. Some elephant becomes dull and morose. The behavioural changes shown by disobedience to commands trying to break away or shows violence to man or destructive tendencies and being altogether out of sorts. When must is established there is often a partial retention of urine the water to trickled away. As soon as the urine is passed freely the natives consider the dangerous stage is over. The attack may last for a few days, week or months. It is considered to be of sexual nature.
@@ -619,21 +497,6 @@ saptaparnavijayengudimadhu
 dugdapishtamidamangalepitam
 matta varanavaram vasham nayet[38]
 
-sahamritashigru baladvimurva
-kapitha saptacchada candananam
-kadambagunja madhukashvagandha
-jivantikashalmalisurananam.
-vrishcirasevyekshurakukkutanda
-gunjashvagandhayurugokshuranam
-keripayah kshaudrayuto gajanam
-pindah pradeyo madasambhaveyam.
-korandamallikanimbavilvamulaisasaindhavaih
-sengudairmadhuna pindo deyo roshavivardhanah
-matalanga suvahasahakana.
-saptaparnavijayengudimadhu
-dugdapishtamidamangalepitam
-matta varanavaram vasham nayet[38]
-
 M.S. Joy in his text named Ana mentions that must gland is the differentiation of an elephant. He further states that if there is an elephant with must in the town or the country the earth Goddess be pleased to shower good food, which could be attained easily. If the must found in its right ear side, that elephants owner becomes a victor, and if it is found in the left side then there is plenty of rain fallen in the earth. If it is seen in the penis then the king become luminory person (Kubera).
 
 The must is related to the sexual sensitive swoon. But it is not connected with last perplexity. Matangalila and other connected works reveal it is an excitement or rupture state of an elephant.
@@ -645,10 +508,6 @@ Matangalila is filled with observations reflecting elephants biological behaviou
 Hastyayurveda and Matangalila are revealing almost the same matters, even if there is no other best work, on Gajashastra like Matangalila, which caused for simple description of a monstrous topic.
 
 Various phases of development of elephant is an interesting topic.
-
-Footnotes and references:
-
-[back to top]
 
 [1]:
 
@@ -804,8 +663,6 @@ Matangalila. IX. 20-23. 55.
 
 ---
 
----
-
 ## ❓ 4. Frequently Asked Questions (15 Question Intent Matrix)
 
 ### Q1: What is the primary subject of "Chapter 4 - Content Analysis of Matangalila"?
@@ -915,6 +772,72 @@ Matangalila. IX. 20-23. 55.
           }
         }
       ]
+    }
+  ]
+}
+</script>
+
+## Frequently Asked Questions (FAQ)
+
+### What are the primary health benefits of Chapter 4 - Content Analysis of Matangalila — Elephantology And Its Ancient Sanskrit Sources By Geetha N in Ayurveda?
+Chapter 4 - Content Analysis of Matangalila — Elephantology And Its Ancient Sanskrit Sources By Geetha N is traditionally utilized in Ayurveda to balance doshic imbalances, support systemic vitality, and promote long-term physiological wellness under proper guidance.
+
+### How should Chapter 4 - Content Analysis of Matangalila — Elephantology And Its Ancient Sanskrit Sources By Geetha N be taken according to classical guidelines?
+According to classical Ayurvedic principles, Chapter 4 - Content Analysis of Matangalila — Elephantology And Its Ancient Sanskrit Sources By Geetha N is best administered with appropriate Anupana (carrier vehicles such as warm water, honey, or warm milk) tailored to an individual's Prakriti (constitution).
+
+### Are there any contraindications or side effects associated with Chapter 4 - Content Analysis of Matangalila — Elephantology And Its Ancient Sanskrit Sources By Geetha N?
+While generally well-tolerated when used appropriately, excessive usage or improper dosing may exacerbate specific doshas. Consult an Ayurvedic physician prior to therapeutic use.
+
+### How long does it take to observe results from using Chapter 4 - Content Analysis of Matangalila — Elephantology And Its Ancient Sanskrit Sources By Geetha N?
+In traditional Ayurvedic protocol, herbal formulations operate synergistically with diet and lifestyle. Notable improvements typically emerge within 2 to 4 weeks of consistent administration.
+
+### Is Chapter 4 - Content Analysis of Matangalila — Elephantology And Its Ancient Sanskrit Sources By Geetha N safe for long-term daily consumption?
+Certain tonic (Rasayana) preparations may be safely used long-term, whereas intensive therapeutic formulas are recommended for specific short-term protocols under expert supervision.
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What are the primary health benefits of Chapter 4 - Content Analysis of Matangalila — Elephantology And Its Ancient Sanskrit Sources By Geetha N in Ayurveda?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Chapter 4 - Content Analysis of Matangalila — Elephantology And Its Ancient Sanskrit Sources By Geetha N is traditionally utilized in Ayurveda to balance doshic imbalances, support systemic vitality, and promote long-term physiological wellness under proper guidance."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How should Chapter 4 - Content Analysis of Matangalila — Elephantology And Its Ancient Sanskrit Sources By Geetha N be taken according to classical guidelines?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "According to classical Ayurvedic principles, Chapter 4 - Content Analysis of Matangalila — Elephantology And Its Ancient Sanskrit Sources By Geetha N is best administered with appropriate Anupana (carrier vehicles such as warm water, honey, or warm milk) tailored to an individual's Prakriti (constitution)."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Are there any contraindications or side effects associated with Chapter 4 - Content Analysis of Matangalila — Elephantology And Its Ancient Sanskrit Sources By Geetha N?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "While generally well-tolerated when used appropriately, excessive usage or improper dosing may exacerbate specific doshas. Consult an Ayurvedic physician prior to therapeutic use."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How long does it take to observe results from using Chapter 4 - Content Analysis of Matangalila — Elephantology And Its Ancient Sanskrit Sources By Geetha N?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "In traditional Ayurvedic protocol, herbal formulations operate synergistically with diet and lifestyle. Notable improvements typically emerge within 2 to 4 weeks of consistent administration."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Is Chapter 4 - Content Analysis of Matangalila — Elephantology And Its Ancient Sanskrit Sources By Geetha N safe for long-term daily consumption?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Certain tonic (Rasayana) preparations may be safely used long-term, whereas intensive therapeutic formulas are recommended for specific short-term protocols under expert supervision."
+      }
     }
   ]
 }

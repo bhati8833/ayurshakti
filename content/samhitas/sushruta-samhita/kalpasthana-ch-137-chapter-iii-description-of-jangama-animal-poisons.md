@@ -20,17 +20,11 @@ This chapter from **Sushruta Samhita (Kalpasthana)** represents the classical su
 
 ---
 
-
 Sushruta Samhita, Volume 5: Kalpasthana
-
-by Kaviraj Kunja Lal Bhishagratna | 1911 | 24,963 words
 
 This current book, the Kalpa-sthana (english translation), deals with the nature of poisons, the management of poisons, toxicology and various other subjects.
 
 The Sushruta Samhita is the most representative work of the Hindu system of medicine. It embraces all that can possibly appertain to the science of medicine. Susruta-samhita is recognized as...
-
-Go directly to: 
-Footnotes.
 
 Chapter III - Description of Jangama (animal) poisons
 
@@ -97,10 +91,6 @@ The case in which thick, long lumps of mucus are expectorated accompanied by ble
 A case of snake-bite marked by the symptoms of an insane state like that of a drunkard and accompanied by severe distressing symptoms (Upadrava), as well as loss of voice and complexion and an absence of the circulation of blood[10] and by other fatal symptoms should be abandoned and no action need be taken therein. 24.
 
 Thus ends the third Chapter of the Kalpa-Sthana in the Sushruta Samhita which treats of animal poisons.
-
-Footnotes and references:
-
-[back to top]
 
 [1]:
 

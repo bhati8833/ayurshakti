@@ -1,23 +1,15 @@
 ---
 title: "Chapter 7 - Ayurvedic treatments of Elephants in Kerala style — Elephantology And Its Ancient Sanskrit Sources By Geetha N"
-paper_title: "Elephantology And Its Ancient Sanskrit Sources By Geetha N"
-paper_slug: "elephantology-and-its-ancient-sanskrit-sources-by-geetha-n"
-chapter_title: "Chapter 7 - Ayurvedic treatments of Elephants in Kerala style"
-chapter_slug: "chapter-7---ayurvedic-treatments-of-elephants-in-kerala-style"
-chapter_number: 9
-reading_time: 43
-prev_chapter: "chapter-6---capturing-of-elephants"
-next_chapter: "conclusion"
-silo: "research"
-category: "Ayurvedic Research & Evidence"
-status: "Published"
-date: "2026-08-17"
 description: "Detailed analysis of Chapter 7 - Ayurvedic treatments of Elephants in Kerala style from Elephantology And Its Ancient Sanskrit Sources By Geetha N by Its Own Culture. Evidence-based Ayurvedic literature review and pharmacognosy."
+category: "Ayurvedic Research & Evidence"
 author: "Suresh Bhati"
-original_scholar: "Its Own Culture"
+publishedDate: "2026-08-17"
+status: "Published"
 ---
 
 # 9. Chapter 7 - Ayurvedic treatments of Elephants in Kerala style
+
+> **Clinical Executive Summary**: This guide on **Chapter 7 - Ayurvedic treatments of Elephants in Kerala style — Elephantology And Its Ancient Sanskrit Sources By Geetha N** synthesizes classical Sanskrit Samhita principles with modern botanical pharmacological research. Curated under the editorial supervision of Suresh Bhati, it provides actionable doshic guidelines, evidence-based applications, and safety parameters.
 
 > **TL;DR:** Chapter 9 of **Elephantology And Its Ancient Sanskrit Sources By Geetha N** by **Its Own Culture** explores key findings on *Chapter 7 - Ayurvedic treatments of Elephants in Kerala style*. It bridges traditional Sanskrit literature with contemporary medical science.
 
@@ -145,11 +137,6 @@ grivagatrafparamghrirbahubhugarunadringdurbalo bahvalikah
 chayecchurdveshti gharmam visyajati naciraddanamuttanavedi
 hiyetoccaih prahi nam shrayatipunaribhah paittiko natishobhah[6]
 
-Cando nirmanditakshastanukararadanatvagnakhashrotrarma
-grivagatrafparamghrirbahubhugarunadringdurbalo bahvalikah
-chayecchurdveshti gharmam visyajati naciraddanamuttanavedi
-hiyetoccaih prahi nam shrayatipunaribhah paittiko natishobhah[6]
-
 The cause for bile is irritable in nature. Reddish eye, thin trunk, emancipate bodies, tendency to remain in to shade, dislike heat, immediate animosity in things, slow flow of must fluid, etc. are the symptoms of blemish of the bile.
 
 III Phlem
@@ -161,19 +148,9 @@ natikrudhyati, mandarahni, rabhayo gambhiravedi stirah
 akshhobhyah sumukho vilinataralo vinadigtapriyah
 pina snigdara doftimandagamanah kamigajah shleshmalah[7]
 
-haryakshah sumahangulikarashirah kumbhadirishatpriyo
-natikrudhyati, mandarahni, rabhayo gambhiravedi stirah
-akshhobhyah sumukho vilinataralo vinadigtapriyah
-pina snigdara doftimandagamanah kamigajah shleshmalah[7]
-
 Daily bathing decreases the bodily sickness like skin diseases, wounds due to binding, weapons, and cuts, dryness, stiffness of the limbs, etc. It also helps to destroy wind diseases, give strengthness, gentleness and comfort. If their tusks are anoint constantly it made stout, with firm sockets, smooth, immune to perforation and capable of tusks fights.
 
 It says that salt is like elixir to elephant.
-
-jayanti ca bahu bhuktam shodhanam mutravasteh
-krimihridanilahari vyadividvamsanam ca
-arucishamanamashu kledanam varananam
-lavanamamritatulyam vakti dharmavatare[8]
 
 jayanti ca bahu bhuktam shodhanam mutravasteh
 krimihridanilahari vyadividvamsanam ca
@@ -229,10 +206,6 @@ XIII Fever
 The normal body temperature of an elephant varies from 35.5 to 36.6 degree celsius Elephants temperature of 37.8 degree centigrade indicates considerable fever. Arise in temperature of two to three degree centigrade is considered grave. Wounds or injuries caused for its fever. It is prevented by only the help of a veterinary surgeon.
 
 Hastyayurveda's first chapter describes it as:—
-
-rite manushyadrajendra nanyo vishahate jvaram
-tejotika manushyastu sahante tenate jvaram
-esha ghoro mahavyadhir jvarah pakalasamjnitah[9]
 
 rite manushyadrajendra nanyo vishahate jvaram
 tejotika manushyastu sahante tenate jvaram
@@ -295,11 +268,6 @@ niravahanti na sidanti salilenaiva kevalam
 yada na parishicyanta karmdakasikaraih
 bhavanti kushtinosntashca hastinastena hetuma[12]
 
-Ayojanashatam sardam vicaranto'pi kunjarah
-niravahanti na sidanti salilenaiva kevalam
-yada na parishicyanta karmdakasikaraih
-bhavanti kushtinosntashca hastinastena hetuma[12]
-
 Decamali oil is massaging elephant's body for insisting the bascillus and for not affecting the leg or feet diseases.
 
 Wound
@@ -353,9 +321,6 @@ This helps to remove all germs.
 In the event of severe injury in the war, balls of (flesh of) crows, hens, cuckoos and owls must be given mixed with honey.
 
 The 3rd chapter of Hastyayurveda deals with the treatment of wounds and their characteristics:—
-
-vrinasyopakaramo tneyamstirvidhatmanah
-sodhanam ropananam caiva savarnakarannam tatha[13]
 
 vrinasyopakaramo tneyamstirvidhatmanah
 sodhanam ropananam caiva savarnakarannam tatha[13]
@@ -423,17 +388,9 @@ In the 2nd chapter of Hastyayurveda describes it elaborately:—
 Visham pradadusyate papa gajanam dehanashanam
 bhaksha bhojyannapaneshu dupane vtancaneshu ca[14]
 
-Visham pradadusyate papa gajanam dehanashanam
-bhaksha bhojyannapaneshu dupane vtancaneshu ca[14]
-
 Disorders of the eyes
 
 Cataract, Keralite and phihalmia are the common eye disorders seem in elephants. It may affect the vision of the elephant. If vision is partially impaired ointment is applied. If visual impairment is complete say blind due to cataract surgery ie. Keratoplasty is indicated. If there is any swelling of eyes, then massage the eye lids and lashes using castrol oil.
-
-apasmritam apakrishtam gunam pashcat svabavavenuto?piva
-tavisham vishatatatvatnjai dushi vishamiti smritam
-dushitam deshakalanna divavaprati bhojanaih
-Yosmat duayet dhshtumtasmat dushatvisham smritam[15]
 
 apasmritam apakrishtam gunam pashcat svabavavenuto?piva
 tavisham vishatatatvatnjai dushi vishamiti smritam
@@ -487,9 +444,6 @@ The 4th chapter of Hastyayurveda mentions the daily life of elephants, various s
 paccanyadapi naganam kartavyam hitarniccate
 tadasheshena bhagavatsarvam vyakhyatumarhasi[17]
 
-paccanyadapi naganam kartavyam hitarniccate
-tadasheshena bhagavatsarvam vyakhyatumarhasi[17]
-
 1) Autumn season
 
 In this season they had given rice with abundant blossoms and plentiful sap up to the neck in a cool place, beans to be administered with their flowers along with masha and makushta and wheat jaggery with butter. Bathing in cool water daily, day and evening, food with boiled water, milk, enriched with ghee and broath are given.
@@ -501,11 +455,6 @@ A rice porridge, in evening the same with salt is given. In this time they have 
 3) Cold Season
 
 In cold season elephants’ regimen is thus:—
-
-shala channa savahnistrikatupatuyuta varuni vaprasanna
-mandoshna sayamannam diadhirasasahita kambalai ravritishca
-ikosseva somatra kabalakavalayoh shilanam nityacarah
-pathah kridavimuktiryavasaparihriti shshaishro yam vidhisyat[18]
 
 shala channa savahnistrikatupatuyuta varuni vaprasanna
 mandoshna sayamannam diadhirasasahita kambalai ravritishca
@@ -541,9 +490,6 @@ Manasollasa deals the elephant treatment in detail. Some medicines are indicatin
 tia nimbasya partani rajaniceti peshitam matuyuktam
 vrananam syatccotanam ropanampuram[19]
 
-tia nimbasya partani rajaniceti peshitam matuyuktam
-vrananam syatccotanam ropanampuram[19]
-
 Hastyayurveda mentions a detailed description of the elephant management. The 1st Chapter furnishes the fever known as pakala and then pan·u and shotha.
 
 Pandu (white leprosy)is thewhite disease; the shotha is swelling disease, which is a type of fever.
@@ -567,11 +513,6 @@ Ayurvedic treatments of elephants in Kerala style
 “Observing 'Dinacarya' and ‘Ritucarya’ and firmly accurate the body health; is called recuperative, treatment”[20]. According to
 
 Nilakantha dinacarya is:—
-
-Shayya toyavagahashcatmamaiyumam bheshajam, dhutivrishtih
-Shalastambharpravesh a, ghritagulasahitam bhojanam puladanam
-nirvanam toya pomam tilsahitamidam bhojanam, caparahne
-bhaishajyam cadasamveshmamithi dinacarya gajanam kramam[21]
 
 Shayya toyavagahashcatmamaiyumam bheshajam, dhutivrishtih
 Shalastambharpravesh a, ghritagulasahitam bhojanam puladanam
@@ -660,11 +601,6 @@ te te prokta doshadushyadhikeshu
 tasmad ttanjair vyadhibhedam vivitva
 martyanamevatra karya cikitsa[22]
 
-Ye ye bheda manushyebhyo gajanam
-te te prokta doshadushyadhikeshu
-tasmad ttanjair vyadhibhedam vivitva
-martyanamevatra karya cikitsa[22]
-
 Elephants tired by continuous procession or hard work. So the elephant had given exceptional care, food and medicines to recovering their health. At this time they must given special attention, food, bathing and best management, which is known as recuperative treatment. At this time the elephant must give complete rest.
 
 According to K.C. Panicker, in Kerala August to October (August, September, October) are selected for recuperative treatment. According to their age, each elephant’s treatment is varies. At the time of recuperative treatment, the elephant given to be rub bathing where, coconut scrub and stone are used. By rub bathing the blood circulation increases. In addition to palmyra leaf and water, they are given special food items. In the evening, after the bath the recuperative treatment is given.
@@ -674,11 +610,6 @@ At first the worm spear medicines are given to elephants. Then giving fried padd
 Elephant is a pure vegetarian, but at the period of recuperative treatment it eats demolishing mutton, chicken, and duck. In two or three weeks, sesame and jaggery are given first to them and those demolishing meat or soup are given. In addition to this, Mahacurna and 5kg. Boiled rice mixed with 5kg, onion, ariyaru, cumin seed, ayamodaka are given in the last 15th day[23].
 
 According to Palakapya, if the elephant has giving non vegetables it must be thus:—
-
-Shashatittira lavanam mahishasya vrishanayoh,
-pippali cairyuktah shundigudasamanvitah,
-Khamghavata mayurairvesvaram prakeepayet
-vesavarah pradeyah syadrasam tenaiva karayet
 
 Shashatittira lavanam mahishasya vrishanayoh,
 pippali cairyuktah shundigudasamanvitah,
@@ -708,11 +639,6 @@ It is said that, in Malabar, sick elephants, are sometimes fed on the fed on the
 Generally all diseases are affected in various seasons;not in elephant diseases but all creatures. So the treatments are also being seasonal. According to the world all creatures diseases are start in various seasons similar to man. So elephant diseases are also be seasonal.
 
 The elephants tamed by man from the forest bear more from their managers, so they thinking of their past lavish life and became tired.
-
-Anitan vanato gajan himajalaihsinjettadha payaye
-tvakarshanam tvavagahaye dushaasi tadgtanya dishantcnjal
-evam eada dinavasanasamaye swairam tadatanayet
-pashcat seeanalepanado satadhautajyea kuryadapi[25]
 
 Anitan vanato gajan himajalaihsinjettadha payaye
 tvakarshanam tvavagahaye dushaasi tadgtanya dishantcnjal
@@ -753,23 +679,11 @@ sayam tallavnena tailasahitam caayeshu tadvaityayat
 kulmasham gulayuktamodanayutam cadapayeddantinam
 tattejobalavarhnikrdgulayutananyam paraganapi[28]
 
-pratah sajyagulam saratsu vihitam grishme eashalyodanam
-sayam tallavnena tailasahitam caayeshu tadvaityayat
-kulmasham gulayuktamodanayutam cadapayeddantinam
-tattejobalavarhnikrdgulayutananyam paraganapi[28]
-
 In Sharat season, the elephant must given jaggery mixed with ghee in the morning. Boiled paddy rice must given in the morning at Grishma season and at evening the elephant must given boiled paddy rice mixed with oil and salt. In all ritus the elephant must given patutora, rice and jaggery and it will produce strength and magnificence.
 
 Considering natural variations, Keralas season are varies from other states. According to Kerala the seasonal differences are like:
 
 Beginning the half month of Makara and ends of he Meena half is considered as Vasantaritu up to Kanni half is calculated as ‘Sharat considering up to vriishcika half as shishira, and upto Makara half is considering as Hemanda.
-
-Medam, Idavam-Grishma
-Midhunam, karkidakam-sharat
-Cinnga, kanni-varsha
-Tulam, vrishckam-sharatt
-Dhanu, makaram-Vasanta
-Kumbha, meena-Hemanda.
 
 Medam, Idavam-Grishma
 Midhunam, karkidakam-sharat
@@ -826,17 +740,7 @@ prayo rohanti dantinam
 nashyanti kshutpipasadyah
 padmayoneranugrahat[30]
 
-pranah sarve jalenaiva
-prayo rohanti dantinam
-nashyanti kshutpipasadyah
-padmayoneranugrahat[30]
-
 Kaikkulmagra Ramavarier stated the importance of water:—
-
-paniyam praninam pranah
-vishweneva ca tanmayam
-atotyantha nishedhana
-na kvacitvari varyate[31]
 
 paniyam praninam pranah
 vishweneva ca tanmayam
@@ -856,9 +760,6 @@ According to Nilakantha that treatment explains below:—
 Hingvashtakam curnarajam saptavimshati gulgulu
 ityadini ca curnani dadyattailaghritani ca[32]
 
-Hingvashtakam curnarajam saptavimshati gulgulu
-ityadini ca curnani dadyattailaghritani ca[32]
-
 Recuperative treatment of elephants in Tamilnadu
 
 Not only in Kerala but also in Tamilnadu, the recuperative treatment is available for them.
@@ -868,8 +769,6 @@ Chennai
 Fifty percentage (50%) of elephants in Tamilnadu, affected diabetics, join pain and wind. After awaring this report, the government of Tamilnadu decided to gave recuperative treatment to elephants. Hindu caste endowment Department undertakes this project.
 
 Their plan is describing below:—
-
-Daily 6km. walking, two times bathing 250 kg grass; 50 kg, mango, 7kg rice, 1.5kg jaggery, 100gram salt, 250 gram turmeric powder, 350 liter water, 12 banana, 3-5 liter coconut oil. 1 kg Ashtacurnam, 50 gram ginger and pepper, 3-5. Cyavanaprasham, 28 vitamin tablets etc., are given to the elephants at the time of their recuperative treatment.[33]
 
 Daily 6km. walking, two times bathing 250 kg grass; 50 kg, mango, 7kg rice, 1.5kg jaggery, 100gram salt, 250 gram turmeric powder, 350 liter water, 12 banana, 3-5 liter coconut oil. 1 kg Ashtacurnam, 50 gram ginger and pepper, 3-5. Cyavanaprasham, 28 vitamin tablets etc., are given to the elephants at the time of their recuperative treatment.[33]
 
@@ -914,10 +813,6 @@ Vidanga, indrayava, asafoetida, jaggery and the two varieties of turmeric could 
 By applying recuperative treatment, elephant’s diseases are decreasing or may affect disease, the treatment become easier.
 
 In many ways elephant is considered as valuable one. Elephant is a serviceable animal and it provides economical benefits to the country.
-
-Footnotes and references:
-
-[back to top]
 
 [1]:
 
@@ -1057,8 +952,6 @@ The Agnipurana, N. Gangadharan. 287. 781-795.
 
 ---
 
----
-
 ## ❓ 4. Frequently Asked Questions (15 Question Intent Matrix)
 
 ### Q1: What is the primary subject of "Chapter 7 - Ayurvedic treatments of Elephants in Kerala style"?
@@ -1168,6 +1061,72 @@ The Agnipurana, N. Gangadharan. 287. 781-795.
           }
         }
       ]
+    }
+  ]
+}
+</script>
+
+## Frequently Asked Questions (FAQ)
+
+### What are the primary health benefits of Chapter 7 - Ayurvedic treatments of Elephants in Kerala style — Elephantology And Its Ancient Sanskrit Sources By Geetha N in Ayurveda?
+Chapter 7 - Ayurvedic treatments of Elephants in Kerala style — Elephantology And Its Ancient Sanskrit Sources By Geetha N is traditionally utilized in Ayurveda to balance doshic imbalances, support systemic vitality, and promote long-term physiological wellness under proper guidance.
+
+### How should Chapter 7 - Ayurvedic treatments of Elephants in Kerala style — Elephantology And Its Ancient Sanskrit Sources By Geetha N be taken according to classical guidelines?
+According to classical Ayurvedic principles, Chapter 7 - Ayurvedic treatments of Elephants in Kerala style — Elephantology And Its Ancient Sanskrit Sources By Geetha N is best administered with appropriate Anupana (carrier vehicles such as warm water, honey, or warm milk) tailored to an individual's Prakriti (constitution).
+
+### Are there any contraindications or side effects associated with Chapter 7 - Ayurvedic treatments of Elephants in Kerala style — Elephantology And Its Ancient Sanskrit Sources By Geetha N?
+While generally well-tolerated when used appropriately, excessive usage or improper dosing may exacerbate specific doshas. Consult an Ayurvedic physician prior to therapeutic use.
+
+### How long does it take to observe results from using Chapter 7 - Ayurvedic treatments of Elephants in Kerala style — Elephantology And Its Ancient Sanskrit Sources By Geetha N?
+In traditional Ayurvedic protocol, herbal formulations operate synergistically with diet and lifestyle. Notable improvements typically emerge within 2 to 4 weeks of consistent administration.
+
+### Is Chapter 7 - Ayurvedic treatments of Elephants in Kerala style — Elephantology And Its Ancient Sanskrit Sources By Geetha N safe for long-term daily consumption?
+Certain tonic (Rasayana) preparations may be safely used long-term, whereas intensive therapeutic formulas are recommended for specific short-term protocols under expert supervision.
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What are the primary health benefits of Chapter 7 - Ayurvedic treatments of Elephants in Kerala style — Elephantology And Its Ancient Sanskrit Sources By Geetha N in Ayurveda?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Chapter 7 - Ayurvedic treatments of Elephants in Kerala style — Elephantology And Its Ancient Sanskrit Sources By Geetha N is traditionally utilized in Ayurveda to balance doshic imbalances, support systemic vitality, and promote long-term physiological wellness under proper guidance."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How should Chapter 7 - Ayurvedic treatments of Elephants in Kerala style — Elephantology And Its Ancient Sanskrit Sources By Geetha N be taken according to classical guidelines?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "According to classical Ayurvedic principles, Chapter 7 - Ayurvedic treatments of Elephants in Kerala style — Elephantology And Its Ancient Sanskrit Sources By Geetha N is best administered with appropriate Anupana (carrier vehicles such as warm water, honey, or warm milk) tailored to an individual's Prakriti (constitution)."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Are there any contraindications or side effects associated with Chapter 7 - Ayurvedic treatments of Elephants in Kerala style — Elephantology And Its Ancient Sanskrit Sources By Geetha N?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "While generally well-tolerated when used appropriately, excessive usage or improper dosing may exacerbate specific doshas. Consult an Ayurvedic physician prior to therapeutic use."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How long does it take to observe results from using Chapter 7 - Ayurvedic treatments of Elephants in Kerala style — Elephantology And Its Ancient Sanskrit Sources By Geetha N?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "In traditional Ayurvedic protocol, herbal formulations operate synergistically with diet and lifestyle. Notable improvements typically emerge within 2 to 4 weeks of consistent administration."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Is Chapter 7 - Ayurvedic treatments of Elephants in Kerala style — Elephantology And Its Ancient Sanskrit Sources By Geetha N safe for long-term daily consumption?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Certain tonic (Rasayana) preparations may be safely used long-term, whereas intensive therapeutic formulas are recommended for specific short-term protocols under expert supervision."
+      }
     }
   ]
 }

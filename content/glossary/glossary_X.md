@@ -18,7 +18,6 @@ Language and terminology form the backbone of traditional Indian medicine. Every
 
 ---
 
-
 ### Key Sanskrit Terms starting with 'X' (Sample Preview)
 The following is an excerpt of classical Sanskrit terms starting with letter **X**:
 
@@ -28,7 +27,6 @@ The following is an excerpt of classical Sanskrit terms starting with letter **X
 </ul>
 
 *Browse all 1 authenticated terms under Letter X in the searchable directory above.*
-
 
 ---
 

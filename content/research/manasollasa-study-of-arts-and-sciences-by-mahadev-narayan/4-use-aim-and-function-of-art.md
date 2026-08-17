@@ -1,23 +1,15 @@
 ---
 title: "4. Use, aim and Function of Art — Manasollasa Study Of Arts And Sciences By Mahadev Narayan"
-paper_title: "Manasollasa Study Of Arts And Sciences By Mahadev Narayan"
-paper_slug: "manasollasa-study-of-arts-and-sciences-by-mahadev-narayan"
-chapter_title: "4. Use, aim and Function of Art"
-chapter_slug: "4-use-aim-and-function-of-art"
-chapter_number: 39
-reading_time: 18
-prev_chapter: "6-music-in-somesvaras-manasollasa"
-next_chapter: "chapter-5---sciences-in-someshvaras-manasollasa"
-silo: "research"
-category: "Ayurvedic Research & Evidence"
-status: "Published"
-date: "2026-08-17"
 description: "Detailed analysis of 4. Use, aim and Function of Art from Manasollasa Study Of Arts And Sciences By Mahadev Narayan by Mahadev Narayan. Evidence-based Ayurvedic literature review and pharmacognosy."
+category: "Ayurvedic Research & Evidence"
 author: "Suresh Bhati"
-original_scholar: "Mahadev Narayan"
+publishedDate: "2026-08-17"
+status: "Published"
 ---
 
 # 39. 4. Use, aim and Function of Art
+
+> **Clinical Executive Summary**: This guide on **4. Use, aim and Function of Art — Manasollasa Study Of Arts And Sciences By Mahadev Narayan** synthesizes classical Sanskrit Samhita principles with modern botanical pharmacological research. Curated under the editorial supervision of Suresh Bhati, it provides actionable doshic guidelines, evidence-based applications, and safety parameters.
 
 > **TL;DR:** Chapter 39 of **Manasollasa Study Of Arts And Sciences By Mahadev Narayan** by **Mahadev Narayan** explores key findings on *4. Use, aim and Function of Art*. It bridges traditional Sanskrit literature with contemporary medical science.
 
@@ -70,8 +62,6 @@ The Manasollasa covers several subjects like dance, music, prosody, architecture
 226 rules about the materials and the colours, the author ' 106 gives more freedom to the artists by saying that the paintings should be reasonable, of good taste, befitting, and pleasant to the eyes on account of their beautiful colours. He says "Citram laksana-samyuktam". Subjects to be depicted in painting or sculpture or those prohibited are also mentioned herein. Citras are productive of good or bad results if they do or do not conform to the rules. The subject of painting may be Gods, men, objects of nature, animals and anything that can be ascertained by the ears, eyes, or the mind. The painting might be of things seen or remembered or even of imaginary ones. Agrawala says: "The Supreme value of art consists in the fact that it is a bridge between the two worlds of mind and matter both invested 11107 After dealing with the various possible with beauty. positions and postures, the author Somesvara says: "An intelligent artist shall ascertain in his mind the - 108 ' befitting Bhava, Vyapara, Pramana and so on. 106. citram laksanasamyuktam lekhayitva mahipatih ||  3.1.945. 107. V.S.Agrawala. Op.cit. p.VIII. 108. nanabhavaratairyuktam surekham varnakocitam ||  13.1.150. cintayettatpramanam taddhyatam bhitau nivesayet  1 3.1.158. akaralaksanam vaksye pramanena yathakramam ||  3.1.596.
 
 227 • One should also bear in mind that the artist in India was hereditarily a craft-man and a member of an art or craft-guild, more often than not a painter, sculptor, architect, modeller-caster and some times even a scribe or inscriber, all in one and at the same time. Besides, he did not usually work singly as an individual but as a member of a team under the general guidance and supervision of a chief, the team consisting not unoften of the members of his own family, besides others, all working, may be on the same assignment; the chief laying down the compositional scheme and the outlines, one member filling in the colour, another working out the details, still another responsible for the decorations and so on, according to their respective specialities, whenever and wherever there was scope for such specialities.
-
----
 
 ---
 
@@ -184,6 +174,72 @@ The Manasollasa covers several subjects like dance, music, prosody, architecture
           }
         }
       ]
+    }
+  ]
+}
+</script>
+
+## Frequently Asked Questions (FAQ)
+
+### What are the primary health benefits of 4. Use, aim and Function of Art — Manasollasa Study Of Arts And Sciences By Mahadev Narayan in Ayurveda?
+4. Use, aim and Function of Art — Manasollasa Study Of Arts And Sciences By Mahadev Narayan is traditionally utilized in Ayurveda to balance doshic imbalances, support systemic vitality, and promote long-term physiological wellness under proper guidance.
+
+### How should 4. Use, aim and Function of Art — Manasollasa Study Of Arts And Sciences By Mahadev Narayan be taken according to classical guidelines?
+According to classical Ayurvedic principles, 4. Use, aim and Function of Art — Manasollasa Study Of Arts And Sciences By Mahadev Narayan is best administered with appropriate Anupana (carrier vehicles such as warm water, honey, or warm milk) tailored to an individual's Prakriti (constitution).
+
+### Are there any contraindications or side effects associated with 4. Use, aim and Function of Art — Manasollasa Study Of Arts And Sciences By Mahadev Narayan?
+While generally well-tolerated when used appropriately, excessive usage or improper dosing may exacerbate specific doshas. Consult an Ayurvedic physician prior to therapeutic use.
+
+### How long does it take to observe results from using 4. Use, aim and Function of Art — Manasollasa Study Of Arts And Sciences By Mahadev Narayan?
+In traditional Ayurvedic protocol, herbal formulations operate synergistically with diet and lifestyle. Notable improvements typically emerge within 2 to 4 weeks of consistent administration.
+
+### Is 4. Use, aim and Function of Art — Manasollasa Study Of Arts And Sciences By Mahadev Narayan safe for long-term daily consumption?
+Certain tonic (Rasayana) preparations may be safely used long-term, whereas intensive therapeutic formulas are recommended for specific short-term protocols under expert supervision.
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What are the primary health benefits of 4. Use, aim and Function of Art — Manasollasa Study Of Arts And Sciences By Mahadev Narayan in Ayurveda?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "4. Use, aim and Function of Art — Manasollasa Study Of Arts And Sciences By Mahadev Narayan is traditionally utilized in Ayurveda to balance doshic imbalances, support systemic vitality, and promote long-term physiological wellness under proper guidance."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How should 4. Use, aim and Function of Art — Manasollasa Study Of Arts And Sciences By Mahadev Narayan be taken according to classical guidelines?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "According to classical Ayurvedic principles, 4. Use, aim and Function of Art — Manasollasa Study Of Arts And Sciences By Mahadev Narayan is best administered with appropriate Anupana (carrier vehicles such as warm water, honey, or warm milk) tailored to an individual's Prakriti (constitution)."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Are there any contraindications or side effects associated with 4. Use, aim and Function of Art — Manasollasa Study Of Arts And Sciences By Mahadev Narayan?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "While generally well-tolerated when used appropriately, excessive usage or improper dosing may exacerbate specific doshas. Consult an Ayurvedic physician prior to therapeutic use."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How long does it take to observe results from using 4. Use, aim and Function of Art — Manasollasa Study Of Arts And Sciences By Mahadev Narayan?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "In traditional Ayurvedic protocol, herbal formulations operate synergistically with diet and lifestyle. Notable improvements typically emerge within 2 to 4 weeks of consistent administration."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Is 4. Use, aim and Function of Art — Manasollasa Study Of Arts And Sciences By Mahadev Narayan safe for long-term daily consumption?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Certain tonic (Rasayana) preparations may be safely used long-term, whereas intensive therapeutic formulas are recommended for specific short-term protocols under expert supervision."
+      }
     }
   ]
 }

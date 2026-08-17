@@ -20,17 +20,11 @@ This chapter from **Sushruta Samhita (Sharirasthana)** represents the classical 
 
 ---
 
-
 Sushruta Samhita, volume 3: Sharirasthana
-
-by Kaviraj Kunja Lal Bhishagratna | 1911 | 36,821 words
 
 This current book, the Sharira-sthana (english translation), deals with anatomy, the human body, cosmology, embryology and various other subjects.
 
 The Sushruta Samhita is the most representative work of the Hindu system of medicine. It embraces all that can possibly appertain to the science of medicine. Susruta-samhita is recognized as the first a...
-
-Go directly to: 
-Footnotes.
 
 Chapter II - The purification of semen and cataminal fluid
 
@@ -117,10 +111,6 @@ A fetus in uterus does not excrete feces or urine, owing to the scantiness of th
 The adjustment of the different limbs and organs of the body of a child in the womb at their proper places, the non-development of hair on its palms and soles and the subsequent cutting and falling off of its teeth are spontaneously effected according to the laws of nature after the model of its own species. An honest, pious, erudite man, who has acquired a vast knowledge of the Shastras in his prior existence, becomes largely possessed of mental traits of the Sattvika stamp in this life too and also remembers his prior births (Jatismara). Acts similar to those, which a man performs in a prior existence, overtake him also in the next. Similarly the traits and the temperament which he had developed in a previous existence are likewise sure to be patent in the next. 54–55.
 
 Thus ends the second Chapter of the Sharira Sthana in the Sushruta Samhita which treats of the purification of sperm and ovum.
-
-Footnotes and references:
-
-[back to top]
 
 [1]:
 

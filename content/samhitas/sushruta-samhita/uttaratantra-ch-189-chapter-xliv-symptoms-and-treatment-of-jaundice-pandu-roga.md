@@ -20,17 +20,11 @@ This chapter from **Sushruta Samhita (Uttaratantra)** represents the classical s
 
 ---
 
-
 Sushruta Samhita, Volume 6: Uttara-tantra
-
-by Kaviraj Kunja Lal Bhishagratna | 1916 | 113,078 words
 
 This current book, the Uttara-tantra (english translation) is the supplementary part of the Sushrutasamhita and deals various subjects such as diseases of the eye, treatment of fever, diarrhea, diseases resulting from superhuman influences, insanity, rules of health etc.
 
 The Sushruta Samhita is the most representative work of the Hindu system of m...
-
-Go directly to: 
-Footnotes.
 
 Chapter XLIV - Symptoms and Treatment of Jaundice (Pandu-roga)
 
@@ -89,10 +83,6 @@ Prognosis:—
 If a patient afflicted with Pandu have an edematious swelling of the extremities with an emaciation of the abdominal region and vice versa or if he have a swelling of the scrotum or of the genitals or about the anus or if he be suffering from fever or diarrhea or be lying in a sub-comatose state, he should be given up and should not be attended by a physician caring anything for his fame. 34.
 
 Thus ends the forty-fourth chapter of the Uttara-Tantra in the Sushruta Samhita which deals with the (symptoms and) medical treatment of Pandu-roga.
-
-Footnotes and references:
-
-[back to top]
 
 [1]:
 

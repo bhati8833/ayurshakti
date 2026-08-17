@@ -20,15 +20,9 @@ This chapter from **Sushruta Samhita (Sutrasthana)** represents the classical su
 
 ---
 
-
 Sushruta Samhita, volume 1: Sutrasthana
 
-by Kaviraj Kunja Lal Bhishagratna | 1907 | 148,756 words
-
 This current book, the Sutra-sthana (english translation), is the first part of this voluminous medical work. It contains a large summary of the knowledge envelopig the medical aspects of Ayurveda. Descriptions of diseases, various diets and drugs, the duties of a surgeon, surgical procedures, medical training; these are only some of the numerous s...
-
-Go directly to: 
-Footnotes.
 
 Chapter XXXIV - Duties of army surgeon
 
@@ -67,10 +61,6 @@ Nurse:—
 That person alone is fit to nurse or to attend the bedside of a patient, who is cool-headed and pleasant in his demeanour, does not speak ill of any body, is strong and attentive to the requirements of the sick, and strictly and indefatigably follows the instructions of the physician.
 
 Thus ends the thirty-fourth Chapter of the Sutrasthana in the Sushruta Samhita, which treats of preserving the life of a king whose soldiers are on march.
-
-Footnotes and references:
-
-[back to top]
 
 [1]:
 

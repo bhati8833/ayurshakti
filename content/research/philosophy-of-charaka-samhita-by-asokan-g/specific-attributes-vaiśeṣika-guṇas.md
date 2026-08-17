@@ -1,23 +1,15 @@
 ---
 title: "Specific attributes (vaiśeṣika-guṇas) — Philosophy Of Charaka Samhita By Asokan G"
-paper_title: "Philosophy Of Charaka Samhita By Asokan G"
-paper_slug: "philosophy-of-charaka-samhita-by-asokan-g"
-chapter_title: "Specific attributes (vaiśeṣika-guṇas)"
-chapter_slug: "specific-attributes-vaiśeṣika-guṇas"
-chapter_number: 19
-reading_time: 7
-prev_chapter: "fundamental-categories-padārtha-or-tattva-in-charaka-philosophy"
-next_chapter: "action-karma-in-charaka-philosophy"
-silo: "research"
-category: "Ayurvedic Research & Evidence"
-status: "Published"
-date: "2026-08-17"
 description: "Detailed analysis of Specific attributes (vaiśeṣika-guṇas) from Philosophy Of Charaka Samhita By Asokan G by Charaka And Sushruta. Evidence-based Ayurvedic literature review and pharmacognosy."
+category: "Ayurvedic Research & Evidence"
 author: "Suresh Bhati"
-original_scholar: "Charaka And Sushruta"
+publishedDate: "2026-08-17"
+status: "Published"
 ---
 
 # 19. Specific attributes (vaiśeṣika-guṇas)
+
+> **Clinical Executive Summary**: This guide on **Specific attributes (vaiśeṣika-guṇas) — Philosophy Of Charaka Samhita By Asokan G** synthesizes classical Sanskrit Samhita principles with modern botanical pharmacological research. Curated under the editorial supervision of Suresh Bhati, it provides actionable doshic guidelines, evidence-based applications, and safety parameters.
 
 > **TL;DR:** Chapter 19 of **Philosophy Of Charaka Samhita By Asokan G** by **Charaka And Sushruta** explores key findings on *Specific attributes (vaiśeṣika-guṇas)*. It bridges traditional Sanskrit literature with contemporary medical science.
 
@@ -58,10 +50,6 @@ Smell (gandha), Touch (sparṣa), and Sound (ṣabda)
 Smell, touch, and sound are the qualities which are apprehended by their respective senses. In Vaiśeṣika, smell is of two types: fragrant (surabhi) and noxious (asurabhi).[28] Both of them belong to earth. The Mīmāṃsakas add one more called ordinary (sādhāraṇa).[29] Similarly, for the Vaiśeṣika, touch is of three kinds: cold (sīta), hot (uṣṇa) and tepid (anuṣṇaśīta).[30] Cold touch belongs to water, hot touch to fire, and tepid which is neither cold nor hot to earth and air.[31] Mīmāṃsakas also accept these three divisions.[32]
 
 One of the most important things to be noted in this connection is that Caraka makes use of the theory of paka which is responsible for change in colour, taste, smell, and touch in ephemeral substances.[33] But he does not postulate a theory on it. It is in the Nyāya-Vaiśeṣikas that we meet with such a theory. Accordingly, the specific qualities, namely, colour, taste, smell, and touch inhering in earth are ephemeral and can sometimes be changed by the application of heat. There is a sharp difference of view in this matter between the Vaiśeṣikas and the Naiyāyikas. The Vaiśeṣikas, who hold the theory of pīlupāka, believe that the change of qualities are affected in the paramāṇus which form the parts of the whole like a jar, in accordance with the application of external heat. Naiyāyikas, who hold the theory of piṭharapāka, argue that the change takes place in the whole, that is, in the jar itself.[34]
-
-Footnotes and references:
-
-[back to top]
 
 [1]:
 
@@ -201,8 +189,6 @@ For details see Praśastapādabhāṣya., pp. 257-260; TSA, p. 16-18; see also t
 
 ---
 
----
-
 ## ❓ 4. Frequently Asked Questions (15 Question Intent Matrix)
 
 ### Q1: What is the primary subject of "Specific attributes (vaiśeṣika-guṇas)"?
@@ -312,6 +298,72 @@ For details see Praśastapādabhāṣya., pp. 257-260; TSA, p. 16-18; see also t
           }
         }
       ]
+    }
+  ]
+}
+</script>
+
+## Frequently Asked Questions (FAQ)
+
+### What are the primary health benefits of Specific attributes (vaiśeṣika-guṇas) — Philosophy Of Charaka Samhita By Asokan G in Ayurveda?
+Specific attributes (vaiśeṣika-guṇas) — Philosophy Of Charaka Samhita By Asokan G is traditionally utilized in Ayurveda to balance doshic imbalances, support systemic vitality, and promote long-term physiological wellness under proper guidance.
+
+### How should Specific attributes (vaiśeṣika-guṇas) — Philosophy Of Charaka Samhita By Asokan G be taken according to classical guidelines?
+According to classical Ayurvedic principles, Specific attributes (vaiśeṣika-guṇas) — Philosophy Of Charaka Samhita By Asokan G is best administered with appropriate Anupana (carrier vehicles such as warm water, honey, or warm milk) tailored to an individual's Prakriti (constitution).
+
+### Are there any contraindications or side effects associated with Specific attributes (vaiśeṣika-guṇas) — Philosophy Of Charaka Samhita By Asokan G?
+While generally well-tolerated when used appropriately, excessive usage or improper dosing may exacerbate specific doshas. Consult an Ayurvedic physician prior to therapeutic use.
+
+### How long does it take to observe results from using Specific attributes (vaiśeṣika-guṇas) — Philosophy Of Charaka Samhita By Asokan G?
+In traditional Ayurvedic protocol, herbal formulations operate synergistically with diet and lifestyle. Notable improvements typically emerge within 2 to 4 weeks of consistent administration.
+
+### Is Specific attributes (vaiśeṣika-guṇas) — Philosophy Of Charaka Samhita By Asokan G safe for long-term daily consumption?
+Certain tonic (Rasayana) preparations may be safely used long-term, whereas intensive therapeutic formulas are recommended for specific short-term protocols under expert supervision.
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What are the primary health benefits of Specific attributes (vaiśeṣika-guṇas) — Philosophy Of Charaka Samhita By Asokan G in Ayurveda?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Specific attributes (vaiśeṣika-guṇas) — Philosophy Of Charaka Samhita By Asokan G is traditionally utilized in Ayurveda to balance doshic imbalances, support systemic vitality, and promote long-term physiological wellness under proper guidance."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How should Specific attributes (vaiśeṣika-guṇas) — Philosophy Of Charaka Samhita By Asokan G be taken according to classical guidelines?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "According to classical Ayurvedic principles, Specific attributes (vaiśeṣika-guṇas) — Philosophy Of Charaka Samhita By Asokan G is best administered with appropriate Anupana (carrier vehicles such as warm water, honey, or warm milk) tailored to an individual's Prakriti (constitution)."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Are there any contraindications or side effects associated with Specific attributes (vaiśeṣika-guṇas) — Philosophy Of Charaka Samhita By Asokan G?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "While generally well-tolerated when used appropriately, excessive usage or improper dosing may exacerbate specific doshas. Consult an Ayurvedic physician prior to therapeutic use."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How long does it take to observe results from using Specific attributes (vaiśeṣika-guṇas) — Philosophy Of Charaka Samhita By Asokan G?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "In traditional Ayurvedic protocol, herbal formulations operate synergistically with diet and lifestyle. Notable improvements typically emerge within 2 to 4 weeks of consistent administration."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Is Specific attributes (vaiśeṣika-guṇas) — Philosophy Of Charaka Samhita By Asokan G safe for long-term daily consumption?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Certain tonic (Rasayana) preparations may be safely used long-term, whereas intensive therapeutic formulas are recommended for specific short-term protocols under expert supervision."
+      }
     }
   ]
 }

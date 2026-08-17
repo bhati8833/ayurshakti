@@ -20,17 +20,11 @@ This chapter from **Sushruta Samhita (Nidanasthana)** represents the classical s
 
 ---
 
-
 Sushruta Samhita, volume 2: Nidanasthana
-
-by Kaviraj Kunja Lal Bhishagratna | 1911 | 37,609 words
 
 This current book, the Nidana-sthana (english translation), is the second part of this voluminous medical work. It deals with diseases: their prognosis, their cause, their symptoms and their pathogenesis (development of the disease).
 
 The Sushruta Samhita is the most representative work of the Hindu system of medicine. It embraces all that can poss...
-
-Go directly to: 
-Footnotes.
 
 Chapter III - Diagnosis of urinary calculus
 
@@ -83,10 +77,6 @@ In the same way the Vayu, Kapha and Pitta are carried into the bladder (through 
 The Vayu in the bladder, coursing in its natural downward direction, helps the full and complete emission of urine; while coursing in a contrary direction, it gives rise to various forms of maladies such as, Prameha, strangury, as well as seminal disorders; in short, it produces any urinary trouble to which the bladder may be subjected. 15.
 
 Thus ends the third Chapter of the Nidana Sthana in the Sushruta Samhita which treats of the Nidana of urinary calculi.
-
-Footnotes and references:
-
-[back to top]
 
 [1]:
 

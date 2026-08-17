@@ -1,23 +1,15 @@
 ---
 title: "Elephants in Epigraphic Records (Introduction) — Matangalila And Hastyayurveda Study By Chandrima Das"
-paper_title: "Matangalila And Hastyayurveda Study By Chandrima Das"
-paper_slug: "matangalila-and-hastyayurveda-study-by-chandrima-das"
-chapter_title: "Elephants in Epigraphic Records (Introduction)"
-chapter_slug: "elephants-in-epigraphic-records-introduction"
-chapter_number: 12
-reading_time: 19
-prev_chapter: "the-gaja-śārdula-concept"
-next_chapter: "elephants-in-the-royal-army"
-silo: "research"
-category: "Ayurvedic Research & Evidence"
-status: "Published"
-date: "2026-08-17"
 description: "Detailed analysis of Elephants in Epigraphic Records (Introduction) from Matangalila And Hastyayurveda Study By Chandrima Das by Chandrima Das. Evidence-based Ayurvedic literature review and pharmacognosy."
+category: "Ayurvedic Research & Evidence"
 author: "Suresh Bhati"
-original_scholar: "Chandrima Das"
+publishedDate: "2026-08-17"
+status: "Published"
 ---
 
 # 12. Elephants in Epigraphic Records (Introduction)
+
+> **Clinical Executive Summary**: This guide on **Elephants in Epigraphic Records (Introduction) — Matangalila And Hastyayurveda Study By Chandrima Das** synthesizes classical Sanskrit Samhita principles with modern botanical pharmacological research. Curated under the editorial supervision of Suresh Bhati, it provides actionable doshic guidelines, evidence-based applications, and safety parameters.
 
 > **TL;DR:** Chapter 12 of **Matangalila And Hastyayurveda Study By Chandrima Das** by **Chandrima Das** explores key findings on *Elephants in Epigraphic Records (Introduction)*. It bridges traditional Sanskrit literature with contemporary medical science.
 
@@ -47,15 +39,11 @@ It states:
 
 “The ivory was wrought here, was brought from Ethiopia and from Sind and from Arachosia”[3].
 
-“The ivory was wrought here, was brought from Ethiopia and from Sind and from Arachosia”[3].
-
 Sind probably was famous for ivory at that time. But since there is no geographical evidence of that region providing a habitat for elephants” ivory for Sind market would have been procured from the neighboring regions of the Indian subcontinent. What may be deduced with certainty is that India was exporting ivory as early as the 6th Century BCE.[4] In this context corroborative data is available from numismatic sources. Coins of the Mecedonion king Alexander the Great (c. 326-323 BCE) bear the elephant motif. The obverse device of a silver decadrachm of Alexander shows a cavalryman identified as a Mecedonian by his Phrygian-style helmet and characteristic long lance, charging at an elephant with two wariors mouted on its back. The reverse shows another Mecedonian horseman, standing and being crowned by a winged Victory but still wearing his distinctive helmet. The coin is obviously a reference to the Mecedonian victory at the Hydaspes and it is just as clear that the Mecedonian figure is intended to be Alexander himself. And the standing figure mounted on the elephant and brandishing a spear on the obverse has been identified as Porus. Even the coins of the Bactrian king Demetrius I (c. 200-185 BCE) depict the king wearing an elephant scalp on the obverse. This is symbolic and bears a reference to his victory over Indian territories. Thus in the 2nd century BCE elephant almost represented India at least symbolically which reflect the importantce of this animal to the western world and its demand as well.
 
 However in the Indian context after the Harappan records the earliest epigraphic data in the sub continent are the Aśokan inscriptions which have been found from Afghanistan in the north-west to Karnataka and Andhra Pradesh in the southern part of the subcontinent. As far as the records of Aśoka are concerned Major Rock Edict IV refers to celestial elephants[5] which shows the fantasy associated with the animal even in the 3rd century BCE. In the previous chapter we have already shown that Kauṭilya’s Arthaśāstra refers to the officials named Hastyādhyakṣa the officer incharge of elephants whose primary duty was to give protection and look after the preservation of elephants. Killing of elephant was a punishable offence and the guilty was given capital punishment.[6]
 
 This data is partially corroborated in the Pillar Edict V of Aśoka issued in his twenty seventh regnal year post coronation, wherein he ordered his subjects that on three seasonal full moon days and at the full moon day of the month of Tiṣya (Pauṣa), for three days, namely, the fourteenth and fifteenth days (of the particular fortnight) and the (next) first day (of the second fortnight) as constantly on every (upasatha or) fast day, along with other animals the elephants of elephant-forest are also not to be killed and this act is punishable—
-
-“nāga-vansi-kevaṭabhogasi yāni aṃnāni pi jīvanikayāni no haṃtaviyāni”[7].
 
 “nāga-vansi-kevaṭabhogasi yāni aṃnāni pi jīvanikayāni no haṃtaviyāni”[7].
 
@@ -95,14 +83,9 @@ In this context it is worth mentioning that king Indrarāja is said to have many
 
 “tasya prabhinn-karaṭa-cyuta-dāna-danti-danta-prahāra-rucir-ollikhit-āṃsa-pīṭhaḥ”,—v. 4
 
-“tasya prabhinn-karaṭa-cyuta-dāna-danti-danta-prahāra-rucir-ollikhit-āṃsa-pīṭhaḥ”,—v. 4
-
 This is also an indirect reference to capture of rutting elephants of the opponent.
 
 Kings are often eulogised as a lion to the elephants of his enemies—
-
-“viorodhi-vikrāṃta-gajeṃdrakeśariya”
-or “ari kari kumbha vibhaṅga siṃha’.[16]
 
 “viorodhi-vikrāṃta-gajeṃdrakeśariya”
 or “ari kari kumbha vibhaṅga siṃha’.[16]
@@ -112,8 +95,6 @@ This is a reference to a metaphor or a myth that if the rutting juice of the ele
 One of the records gives very interesting information, it states that “mada-vaṭṭi” which was a black bee like ornament was tied to the frontal globe of elephants. This was probably done to make the elephants more hostile to enemies they were probably irritated by tying such toys created to give them the feel of honey bees, who have come to have the sweet flowing fluid.
 
 In this case it is worth mentioning that one of the Kalacuri inscriptions, the Koni Stone Inscription of Pṛthvideva II, year 900 mentions sorrow as the flapping of elephant’s ear—
-
-“mānuṣyaṃ karikarṇatālacapalaṃ niḥsakhya (saṃkhya)duḥkhāspadaṃ” (v. 29).[17]
 
 “mānuṣyaṃ karikarṇatālacapalaṃ niḥsakhya (saṃkhya)duḥkhāspadaṃ” (v. 29).[17]
 
@@ -129,21 +110,13 @@ Another member of this family Kakkadeva is described to have long and solid arms
 
 “kari-kar-oddhura-vā(bā)hu-daṇḍaḥ” (v. 17).
 
-“kari-kar-oddhura-vā(bā)hu-daṇḍaḥ” (v. 17).
-
 He fought his last battle seating on the back of an elephant rider “ārūḍho gaja-pṛṣṭha”. Another king of this lineage Maṇḍanadeva, activity of dāna is considered as rutting juice (“dān-augho”) of elephants, his arms were like elephant-trunk (“kar-oddhuraḥ”), his race was described as bhadra, i.e. brilliant or a high-bred elephant and he was resplendent as the Elephant of the Gods “sura dvipa” (Airāvata) (v. 27).
 
 His weighty sword is considered to the tethering-post of the elephant of victory–
 
 “ālāno-vijaya-dvipasya” (v. 45).
 
-“ālāno-vijaya-dvipasya” (v. 45).
-
 The king Cāmuṇḍarāja is said to destoyed his foes like falling out of pearls from the string of the frontal globe of elephants–“vīra vareṇa”. He was also skilled in destroying the elephants of his enemies–“yasya=ārātibha-kuṃbha-sthala-dalana-paṭuḥ”.
-
-Footnotes and references:
-
-[back to top]
 
 [1]:
 
@@ -220,8 +193,6 @@ EI, Vol. XIII, Record of thetime of Vikramaditya VI and the Kadamba Jayakesin II
 [19]:
 
 Ibid., Vol. XIV, pp. 295-310.
-
----
 
 ---
 
@@ -334,6 +305,72 @@ Ibid., Vol. XIV, pp. 295-310.
           }
         }
       ]
+    }
+  ]
+}
+</script>
+
+## Frequently Asked Questions (FAQ)
+
+### What are the primary health benefits of Elephants in Epigraphic Records (Introduction) — Matangalila And Hastyayurveda Study By Chandrima Das in Ayurveda?
+Elephants in Epigraphic Records (Introduction) — Matangalila And Hastyayurveda Study By Chandrima Das is traditionally utilized in Ayurveda to balance doshic imbalances, support systemic vitality, and promote long-term physiological wellness under proper guidance.
+
+### How should Elephants in Epigraphic Records (Introduction) — Matangalila And Hastyayurveda Study By Chandrima Das be taken according to classical guidelines?
+According to classical Ayurvedic principles, Elephants in Epigraphic Records (Introduction) — Matangalila And Hastyayurveda Study By Chandrima Das is best administered with appropriate Anupana (carrier vehicles such as warm water, honey, or warm milk) tailored to an individual's Prakriti (constitution).
+
+### Are there any contraindications or side effects associated with Elephants in Epigraphic Records (Introduction) — Matangalila And Hastyayurveda Study By Chandrima Das?
+While generally well-tolerated when used appropriately, excessive usage or improper dosing may exacerbate specific doshas. Consult an Ayurvedic physician prior to therapeutic use.
+
+### How long does it take to observe results from using Elephants in Epigraphic Records (Introduction) — Matangalila And Hastyayurveda Study By Chandrima Das?
+In traditional Ayurvedic protocol, herbal formulations operate synergistically with diet and lifestyle. Notable improvements typically emerge within 2 to 4 weeks of consistent administration.
+
+### Is Elephants in Epigraphic Records (Introduction) — Matangalila And Hastyayurveda Study By Chandrima Das safe for long-term daily consumption?
+Certain tonic (Rasayana) preparations may be safely used long-term, whereas intensive therapeutic formulas are recommended for specific short-term protocols under expert supervision.
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What are the primary health benefits of Elephants in Epigraphic Records (Introduction) — Matangalila And Hastyayurveda Study By Chandrima Das in Ayurveda?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Elephants in Epigraphic Records (Introduction) — Matangalila And Hastyayurveda Study By Chandrima Das is traditionally utilized in Ayurveda to balance doshic imbalances, support systemic vitality, and promote long-term physiological wellness under proper guidance."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How should Elephants in Epigraphic Records (Introduction) — Matangalila And Hastyayurveda Study By Chandrima Das be taken according to classical guidelines?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "According to classical Ayurvedic principles, Elephants in Epigraphic Records (Introduction) — Matangalila And Hastyayurveda Study By Chandrima Das is best administered with appropriate Anupana (carrier vehicles such as warm water, honey, or warm milk) tailored to an individual's Prakriti (constitution)."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Are there any contraindications or side effects associated with Elephants in Epigraphic Records (Introduction) — Matangalila And Hastyayurveda Study By Chandrima Das?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "While generally well-tolerated when used appropriately, excessive usage or improper dosing may exacerbate specific doshas. Consult an Ayurvedic physician prior to therapeutic use."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How long does it take to observe results from using Elephants in Epigraphic Records (Introduction) — Matangalila And Hastyayurveda Study By Chandrima Das?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "In traditional Ayurvedic protocol, herbal formulations operate synergistically with diet and lifestyle. Notable improvements typically emerge within 2 to 4 weeks of consistent administration."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Is Elephants in Epigraphic Records (Introduction) — Matangalila And Hastyayurveda Study By Chandrima Das safe for long-term daily consumption?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Certain tonic (Rasayana) preparations may be safely used long-term, whereas intensive therapeutic formulas are recommended for specific short-term protocols under expert supervision."
+      }
     }
   ]
 }

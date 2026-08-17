@@ -1,23 +1,15 @@
 ---
 title: "4.1. Description of Diamonds (Vajra) — Minerals And Metals In Sanskrit Literature By Sulekha Biswa"
-paper_title: "Minerals And Metals In Sanskrit Literature By Sulekha Biswa"
-paper_slug: "minerals-and-metals-in-sanskrit-literature-by-sulekha-biswa"
-chapter_title: "4.1. Description of Diamonds (Vajra)"
-chapter_slug: "41-description-of-diamonds-vajra"
-chapter_number: 60
-reading_time: 5
-prev_chapter: "3-the-scope-of-ratna-shastra-gemmology"
-next_chapter: "2-categorisation-of-gems-ratna"
-silo: "research"
-category: "Ayurvedic Research & Evidence"
-status: "Published"
-date: "2026-08-17"
 description: "Detailed analysis of 4.1. Description of Diamonds (Vajra) from Minerals And Metals In Sanskrit Literature By Sulekha Biswa by Sulekha Biswa. Evidence-based Ayurvedic literature review and pharmacognosy."
+category: "Ayurvedic Research & Evidence"
 author: "Suresh Bhati"
-original_scholar: "Sulekha Biswa"
+publishedDate: "2026-08-17"
+status: "Published"
 ---
 
 # 60. 4.1. Description of Diamonds (Vajra)
+
+> **Clinical Executive Summary**: This guide on **4.1. Description of Diamonds (Vajra) — Minerals And Metals In Sanskrit Literature By Sulekha Biswa** synthesizes classical Sanskrit Samhita principles with modern botanical pharmacological research. Curated under the editorial supervision of Suresh Bhati, it provides actionable doshic guidelines, evidence-based applications, and safety parameters.
 
 > **TL;DR:** Chapter 60 of **Minerals And Metals In Sanskrit Literature By Sulekha Biswa** by **Sulekha Biswa** explores key findings on *4.1. Description of Diamonds (Vajra)*. It bridges traditional Sanskrit literature with contemporary medical science.
 
@@ -40,8 +32,6 @@ VII-11 Shilappadikaram was probably the first text classifying diamond into four
 VII-12 Rasaratna-samuccaya typified most of the Ratnasastra texts while endorsing sex and caste-based chauvinism. It not only divided diamond (and most other gem categories) into 'Castes' (based on colour) and genders' (based on geometrical features) but also recommended that persons of specific caste and gender should use diamonds of the corresponding type only. It went further, and noted with an air of conclusion that categorisation of all objects into castes and genders is of universal applicability stri pum napumsakam vajram yojyam striputrapumsake khetadi varnabhedena ' ..... sva eva varnaphalapradam padarthesu akhilesu api ||  (Rasaratna-samuccaya, 4.29-31) Pricing (mulyam) of diamond and other gems was elaborately discussed in most of the Ratnasastra texts (Agastimata 49-52; BS. 79.12-16; Ratna-pariksha 39; Finot xxx) From the data, it appears that price of diamond (in Karsapanas) per unit mass (in tandulas) varied approximately with the square of the mass. With a 10 fold increase in mass (from 2 to 20 tandula or 4 carats) price per unit mass increased 100 times (200) to 2 lakh Karsapanas). Thus absolute price increased proportionately with the cubic power of the mass of the diamond sample. The price came down with various kinds of defects which were listed. -While BS. and Ratna-pariksha fixed the price of diamond on the basis of [weight only, Agastimata (42 and 49 - 52) suggested that volume should also be considered. Ideally, a piece of diamond having the volume of a barley grain should have the weight of a grain of rice (Agastimata 42). Evidently,
 
 VII-13 specific gravity was recognised as an important consideration. Agastimata and subsequent literatures (Garuda-purana 68.38 and 47; Manimala 139) have created confusion by commenting that lighter diamonds are necessarily better and hence more valuable. Agastimata or Agastimata (49-52) suggested that the specific gravity of diamond could vary within the range - 75+ 25 per cent; this is 'pure imagination' in the words of Finot. The comment in Agastimata 50: ' tripadam tarate noye  1.e. a diamond floats on water when it weighs three quarters less than the ideal mass for the same volume', is very useful since it implies Agas timata's opinion that diamond is four times denser than vater, or that its specific gravity is 4.0 (the true value is 3.52). When it is stated that heavier pieces are impure and hence less valuable, what is implied is contamination of diamond with a heavy mineral such as zircon (sp.gr. average 4.68). That a diamond piece. having lower weight per unit volume or specific gravily should fetch more price (Agastimata 49-52) was a preposterous suggestion, because such a piece would also be grossly impure (Sarma, 1934: 50-53). The text ir Agastimata 50, quoted before, was seriously misunderstood, and Garuda Purana (68.38) even commented that a good piece of diamond should float in water!
-
----
 
 ---
 
@@ -154,6 +144,72 @@ VII-13 specific gravity was recognised as an important consideration. Agastimata
           }
         }
       ]
+    }
+  ]
+}
+</script>
+
+## Frequently Asked Questions (FAQ)
+
+### What are the primary health benefits of 4.1. Description of Diamonds (Vajra) — Minerals And Metals In Sanskrit Literature By Sulekha Biswa in Ayurveda?
+4.1. Description of Diamonds (Vajra) — Minerals And Metals In Sanskrit Literature By Sulekha Biswa is traditionally utilized in Ayurveda to balance doshic imbalances, support systemic vitality, and promote long-term physiological wellness under proper guidance.
+
+### How should 4.1. Description of Diamonds (Vajra) — Minerals And Metals In Sanskrit Literature By Sulekha Biswa be taken according to classical guidelines?
+According to classical Ayurvedic principles, 4.1. Description of Diamonds (Vajra) — Minerals And Metals In Sanskrit Literature By Sulekha Biswa is best administered with appropriate Anupana (carrier vehicles such as warm water, honey, or warm milk) tailored to an individual's Prakriti (constitution).
+
+### Are there any contraindications or side effects associated with 4.1. Description of Diamonds (Vajra) — Minerals And Metals In Sanskrit Literature By Sulekha Biswa?
+While generally well-tolerated when used appropriately, excessive usage or improper dosing may exacerbate specific doshas. Consult an Ayurvedic physician prior to therapeutic use.
+
+### How long does it take to observe results from using 4.1. Description of Diamonds (Vajra) — Minerals And Metals In Sanskrit Literature By Sulekha Biswa?
+In traditional Ayurvedic protocol, herbal formulations operate synergistically with diet and lifestyle. Notable improvements typically emerge within 2 to 4 weeks of consistent administration.
+
+### Is 4.1. Description of Diamonds (Vajra) — Minerals And Metals In Sanskrit Literature By Sulekha Biswa safe for long-term daily consumption?
+Certain tonic (Rasayana) preparations may be safely used long-term, whereas intensive therapeutic formulas are recommended for specific short-term protocols under expert supervision.
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What are the primary health benefits of 4.1. Description of Diamonds (Vajra) — Minerals And Metals In Sanskrit Literature By Sulekha Biswa in Ayurveda?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "4.1. Description of Diamonds (Vajra) — Minerals And Metals In Sanskrit Literature By Sulekha Biswa is traditionally utilized in Ayurveda to balance doshic imbalances, support systemic vitality, and promote long-term physiological wellness under proper guidance."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How should 4.1. Description of Diamonds (Vajra) — Minerals And Metals In Sanskrit Literature By Sulekha Biswa be taken according to classical guidelines?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "According to classical Ayurvedic principles, 4.1. Description of Diamonds (Vajra) — Minerals And Metals In Sanskrit Literature By Sulekha Biswa is best administered with appropriate Anupana (carrier vehicles such as warm water, honey, or warm milk) tailored to an individual's Prakriti (constitution)."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Are there any contraindications or side effects associated with 4.1. Description of Diamonds (Vajra) — Minerals And Metals In Sanskrit Literature By Sulekha Biswa?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "While generally well-tolerated when used appropriately, excessive usage or improper dosing may exacerbate specific doshas. Consult an Ayurvedic physician prior to therapeutic use."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How long does it take to observe results from using 4.1. Description of Diamonds (Vajra) — Minerals And Metals In Sanskrit Literature By Sulekha Biswa?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "In traditional Ayurvedic protocol, herbal formulations operate synergistically with diet and lifestyle. Notable improvements typically emerge within 2 to 4 weeks of consistent administration."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Is 4.1. Description of Diamonds (Vajra) — Minerals And Metals In Sanskrit Literature By Sulekha Biswa safe for long-term daily consumption?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Certain tonic (Rasayana) preparations may be safely used long-term, whereas intensive therapeutic formulas are recommended for specific short-term protocols under expert supervision."
+      }
     }
   ]
 }

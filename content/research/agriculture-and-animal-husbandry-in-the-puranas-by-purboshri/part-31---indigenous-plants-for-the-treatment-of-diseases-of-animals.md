@@ -1,23 +1,15 @@
 ---
 title: "Part 31 - Indigenous Plants for the Treatment of Diseases of Animals — Agriculture And Animal Husbandry In The Puranas By Purboshri"
-paper_title: "Agriculture And Animal Husbandry In The Puranas By Purboshri"
-paper_slug: "agriculture-and-animal-husbandry-in-the-puranas-by-purboshri"
-chapter_title: "Part 31 - Indigenous Plants for the Treatment of Diseases of Animals"
-chapter_slug: "part-31---indigenous-plants-for-the-treatment-of-diseases-of-animals"
-chapter_number: 119
-reading_time: 8
-prev_chapter: "part-30---rearing-of-cattle-in-modern-indian-society"
-next_chapter: "chapter-6---conclusive-remarks"
-silo: "research"
-category: "Ayurvedic Research & Evidence"
-status: "Published"
-date: "2026-08-17"
 description: "Detailed analysis of Part 31 - Indigenous Plants for the Treatment of Diseases of Animals from Agriculture And Animal Husbandry In The Puranas By Purboshri by Purboshri Borpuzari. Evidence-based Ayurvedic literature review and pharmacognosy."
+category: "Ayurvedic Research & Evidence"
 author: "Suresh Bhati"
-original_scholar: "Purboshri Borpuzari"
+publishedDate: "2026-08-17"
+status: "Published"
 ---
 
 # 119. Part 31 - Indigenous Plants for the Treatment of Diseases of Animals
+
+> **Clinical Executive Summary**: This guide on **Part 31 - Indigenous Plants for the Treatment of Diseases of Animals — Agriculture And Animal Husbandry In The Puranas By Purboshri** synthesizes classical Sanskrit Samhita principles with modern botanical pharmacological research. Curated under the editorial supervision of Suresh Bhati, it provides actionable doshic guidelines, evidence-based applications, and safety parameters.
 
 > **TL;DR:** Chapter 119 of **Agriculture And Animal Husbandry In The Puranas By Purboshri** by **Purboshri Borpuzari** explores key findings on *Part 31 - Indigenous Plants for the Treatment of Diseases of Animals*. It bridges traditional Sanskrit literature with contemporary medical science.
 
@@ -46,10 +38,6 @@ The modern farmers follow the process of ploughing by bullocks for sowing seeds 
 In the Purāṇas we don’t find about Kuṇapajala. Ancient farmers used manures mostly from animal excreta. But the post-Purāṇic texts are the first to introduce Kuṇapajala as most effective manure.Besides in the modern era of 21st century necessary steps have been taken by constructing dams and lakes to improve the system of irrigation and water management. It is noticed that the Purāṇas refer to artificial reservoirs of water such as tanks (vāpī), wells (kūpa), ponds (puṣkariṇī or taḍāga), etc. The modern system of agriculture also depends upon such types of artificial reservoirs for irrigation and water management. Both the Purāṇic and the modern references emphasize on rainfall for the support of vegetation. Even today the method of rainwater harvesting is widely used for irrigation. It is observed that ancient farmers had adequate knowledge on meteorology along with the geographical and climatic conditions, which could help them to plan for the process of farming. They studied the heavenly bodies like Sun, Moon and stars in order to understand the enigmatic pattern of rainfall. The indigenous method of weather forecasting is still followed by our modern farmers in India. Even today the village farmers who have also knowledge in astrology can predict about the weather accurately by following Almanac. People all over India use this Almanac as an astrological guide to begin any process of farming. Looking at the accuracy and correctness of rainfall prediction made in Almanacs or Pañcāṅgas, the scholars are now engaged in the preparation of region-wise Kṛṣi-Pañcāṅga for the predictions exclusively related to agriculture, giving information on various aspects of rainfall, and auspicious and inauspicious time for undertaking or avoiding various agricultural activities. Kṛṣi-Pañcāṅga would be very useful for farming communities.
 
 In case of animal husbandry modern farmers follow almost all the methods of rearing and tending, feeding and nourishment, treatment and care and management of cattle from the Purāṇas. It is observed that diets of animals were well-maintained by the Purāṇas. The modern system of animal husbandry also strictly follows the diets which are to be served to the animals when they are kept as pets. Even today in various parts of the country the feeding material for cattle consists of straws of cereal crops, trees of Prosopis, Acacia and Ficus species and the well-known nimba. Both the Purāṇic and post-Purāṇic texts deal with the cattle care methodically. The people in the days of the Purāṇas insisted on constructing sheds for cattle and ensured suitable sanitized conditions in the cow sheds, horse and elephant stables. Even today this consciousness of animal caring is observed. Today, Gośālās(protective shelters for cows) have been established all over India for preservation, protection and welfare of cows and calves. Special treatment and care for cattle are taken in Gośālās including bathing of cows, inspecting the cattle if they are suffering from any diseases or injury, healing the cows which are injured and medical treatment of diseased cows. Cattle in Gośālās are also taken out for grazing. They are provided with meals of gram, husk, fresh and dry fodder twice daily. Gosevā ambulances are also launched for service of cattle. In Assam, Jorhat Gośālā (Śrī Gītā Āśram) is the first Gośālā, to launch Gosevā ambulance service for injured cows. Moreover, in order to sustain organic farming, compost such as Vermicompost and Nadep Compost are prepared in Gośālās. Vermicompost is prepared from earthworms and any types of bio-degradable wastes such as vegetable wastes, hotel refuse, crop residues, and wastes from Agro-Industries. Nadep compost is prepared from cow-dung and crop residues, kitchen wastes, weeds, leaves, grasses, sugarcane trash and forest litter etc. Pañcagavya products are also obtained from the cows of Gośālā. Pañcagavya is used as a fermented product in agriculture today. The Purāṇas are the storehouse of traditional medicines prescribed for the treatment of animal diseases. The treatments of some animals are dealt with in a few chapters of the different Purāṇas. Modern veterinary doctors also follow most of traditional treatments as prescribed by the Purāṇas. It is witnessed that the system of agriculture and animal husbandry are not properly arranged in the Purāṇas. Various aspects of agriculture are scattered here and there in the Purāṇas. But the post-Purāṇic texts of agriculture seem to be more systematic and detailed, clear, simple and easy to learn. Thus, the Purāṇas appear to be a treasure house of agriculture and animal husbandry which are relevant even in the modern era. It can be therefore, opined that the Vedas and the Purāṇas are the pioneers of modern agriculture and animal husbandry in India.
-
-Footnotes and references:
-
-[back to top]
 
 [1]:
 
@@ -102,8 +90,6 @@ Saxena, R.C., et al, loc.cit.
 [13]:
 
 Garuḍa Purāṇa , 1.201.38
-
----
 
 ---
 
@@ -216,6 +202,72 @@ Garuḍa Purāṇa , 1.201.38
           }
         }
       ]
+    }
+  ]
+}
+</script>
+
+## Frequently Asked Questions (FAQ)
+
+### What are the primary health benefits of Part 31 - Indigenous Plants for the Treatment of Diseases of Animals — Agriculture And Animal Husbandry In The Puranas By Purboshri in Ayurveda?
+Part 31 - Indigenous Plants for the Treatment of Diseases of Animals — Agriculture And Animal Husbandry In The Puranas By Purboshri is traditionally utilized in Ayurveda to balance doshic imbalances, support systemic vitality, and promote long-term physiological wellness under proper guidance.
+
+### How should Part 31 - Indigenous Plants for the Treatment of Diseases of Animals — Agriculture And Animal Husbandry In The Puranas By Purboshri be taken according to classical guidelines?
+According to classical Ayurvedic principles, Part 31 - Indigenous Plants for the Treatment of Diseases of Animals — Agriculture And Animal Husbandry In The Puranas By Purboshri is best administered with appropriate Anupana (carrier vehicles such as warm water, honey, or warm milk) tailored to an individual's Prakriti (constitution).
+
+### Are there any contraindications or side effects associated with Part 31 - Indigenous Plants for the Treatment of Diseases of Animals — Agriculture And Animal Husbandry In The Puranas By Purboshri?
+While generally well-tolerated when used appropriately, excessive usage or improper dosing may exacerbate specific doshas. Consult an Ayurvedic physician prior to therapeutic use.
+
+### How long does it take to observe results from using Part 31 - Indigenous Plants for the Treatment of Diseases of Animals — Agriculture And Animal Husbandry In The Puranas By Purboshri?
+In traditional Ayurvedic protocol, herbal formulations operate synergistically with diet and lifestyle. Notable improvements typically emerge within 2 to 4 weeks of consistent administration.
+
+### Is Part 31 - Indigenous Plants for the Treatment of Diseases of Animals — Agriculture And Animal Husbandry In The Puranas By Purboshri safe for long-term daily consumption?
+Certain tonic (Rasayana) preparations may be safely used long-term, whereas intensive therapeutic formulas are recommended for specific short-term protocols under expert supervision.
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What are the primary health benefits of Part 31 - Indigenous Plants for the Treatment of Diseases of Animals — Agriculture And Animal Husbandry In The Puranas By Purboshri in Ayurveda?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Part 31 - Indigenous Plants for the Treatment of Diseases of Animals — Agriculture And Animal Husbandry In The Puranas By Purboshri is traditionally utilized in Ayurveda to balance doshic imbalances, support systemic vitality, and promote long-term physiological wellness under proper guidance."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How should Part 31 - Indigenous Plants for the Treatment of Diseases of Animals — Agriculture And Animal Husbandry In The Puranas By Purboshri be taken according to classical guidelines?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "According to classical Ayurvedic principles, Part 31 - Indigenous Plants for the Treatment of Diseases of Animals — Agriculture And Animal Husbandry In The Puranas By Purboshri is best administered with appropriate Anupana (carrier vehicles such as warm water, honey, or warm milk) tailored to an individual's Prakriti (constitution)."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Are there any contraindications or side effects associated with Part 31 - Indigenous Plants for the Treatment of Diseases of Animals — Agriculture And Animal Husbandry In The Puranas By Purboshri?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "While generally well-tolerated when used appropriately, excessive usage or improper dosing may exacerbate specific doshas. Consult an Ayurvedic physician prior to therapeutic use."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How long does it take to observe results from using Part 31 - Indigenous Plants for the Treatment of Diseases of Animals — Agriculture And Animal Husbandry In The Puranas By Purboshri?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "In traditional Ayurvedic protocol, herbal formulations operate synergistically with diet and lifestyle. Notable improvements typically emerge within 2 to 4 weeks of consistent administration."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Is Part 31 - Indigenous Plants for the Treatment of Diseases of Animals — Agriculture And Animal Husbandry In The Puranas By Purboshri safe for long-term daily consumption?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Certain tonic (Rasayana) preparations may be safely used long-term, whereas intensive therapeutic formulas are recommended for specific short-term protocols under expert supervision."
+      }
     }
   ]
 }

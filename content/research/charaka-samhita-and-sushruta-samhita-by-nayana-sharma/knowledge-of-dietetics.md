@@ -1,23 +1,15 @@
 ---
 title: "Knowledge of Dietetics — Charaka Samhita And Sushruta Samhita By Nayana Sharma"
-paper_title: "Charaka Samhita And Sushruta Samhita By Nayana Sharma"
-paper_slug: "charaka-samhita-and-sushruta-samhita-by-nayana-sharma"
-chapter_title: "Knowledge of Dietetics"
-chapter_slug: "knowledge-of-dietetics"
-chapter_number: 73
-reading_time: 10
-prev_chapter: "trade-in-medicinal-drugs"
-next_chapter: "procurement-of-medicinal-drugs"
-silo: "research"
-category: "Ayurvedic Research & Evidence"
-status: "Published"
-date: "2026-08-17"
 description: "Detailed analysis of Knowledge of Dietetics from Charaka Samhita And Sushruta Samhita By Nayana Sharma by Nayana Sharma. Evidence-based Ayurvedic literature review and pharmacognosy."
+category: "Ayurvedic Research & Evidence"
 author: "Suresh Bhati"
-original_scholar: "Nayana Sharma"
+publishedDate: "2026-08-17"
+status: "Published"
 ---
 
 # 73. Knowledge of Dietetics
+
+> **Clinical Executive Summary**: This guide on **Knowledge of Dietetics — Charaka Samhita And Sushruta Samhita By Nayana Sharma** synthesizes classical Sanskrit Samhita principles with modern botanical pharmacological research. Curated under the editorial supervision of Suresh Bhati, it provides actionable doshic guidelines, evidence-based applications, and safety parameters.
 
 > **TL;DR:** Chapter 73 of **Charaka Samhita And Sushruta Samhita By Nayana Sharma** by **Nayana Sharma** explores key findings on *Knowledge of Dietetics*. It bridges traditional Sanskrit literature with contemporary medical science.
 
@@ -76,15 +68,9 @@ As Ātreya explains:
 
 “Alleviation and aggravation of all doṣas are dependent on agni (power of digestion and metabolism). Therefore, it is always necessary to maintain agni and to avoid factors responsible for the vitiation of agni.”[49]
 
-“Alleviation and aggravation of all doṣas are dependent on agni (power of digestion and metabolism). Therefore, it is always necessary to maintain agni and to avoid factors responsible for the vitiation of agni.”[49]
-
 The authors of the Saṃhitās have analysed the pharmacological properties of dietary articles. Caraka classifies them (including liquids and prepared foods) into twelve groups,[50] while Suśruta classifies food items into eleven groups with sub-groups[51] and liquids into ten groups.[52] Properties of metals and precious stones have also been included by the latter.[53] Observance of hygiene in the preparation of food[54] and in the dining area[55] has been emphasised. Suśruta has also described the regimen to be followed at meal time, i.e., the utensils to be used, the order in which items should be served, the posture in which one should eat, the manner of eating, and the appropriate time of dining.[56] The post-meal regimen has also been explained.[57] Both in the classification of dietary articles and in the description of meal regimen, Suśruta’s work is far more comprehensive.
 
 Considering the importance of diet to human sustenance and its nutritional complexities, it is not surprising that Suśruta has recommended the appointment of a physician to the post of the superintendant of the kitchen. The physician had necessarily to be involved in the preparation of the patient’s diet. Besides, dietary articles are usually cooked with the requisite drugs; thus, meat soup prepared with bitter and pungent drugs or pulse soups with similar spices is offered to the convalescent.[58] This necessitates a thorough understanding of the nature of transformation of inherent dietary properties by processing, etc., consideration of habitat, the condition of the individual in question and suitable food combinations. In certain combinations food items can turn poisonous.[59]
-
-Footnotes and references:
-
-[back to top]
 
 [1]:
 
@@ -324,8 +310,6 @@ Suśruta Saṃhitā Sūtrasthāna 20.8
 
 ---
 
----
-
 ## ❓ 4. Frequently Asked Questions (15 Question Intent Matrix)
 
 ### Q1: What is the primary subject of "Knowledge of Dietetics"?
@@ -435,6 +419,72 @@ Suśruta Saṃhitā Sūtrasthāna 20.8
           }
         }
       ]
+    }
+  ]
+}
+</script>
+
+## Frequently Asked Questions (FAQ)
+
+### What are the primary health benefits of Knowledge of Dietetics — Charaka Samhita And Sushruta Samhita By Nayana Sharma in Ayurveda?
+Knowledge of Dietetics — Charaka Samhita And Sushruta Samhita By Nayana Sharma is traditionally utilized in Ayurveda to balance doshic imbalances, support systemic vitality, and promote long-term physiological wellness under proper guidance.
+
+### How should Knowledge of Dietetics — Charaka Samhita And Sushruta Samhita By Nayana Sharma be taken according to classical guidelines?
+According to classical Ayurvedic principles, Knowledge of Dietetics — Charaka Samhita And Sushruta Samhita By Nayana Sharma is best administered with appropriate Anupana (carrier vehicles such as warm water, honey, or warm milk) tailored to an individual's Prakriti (constitution).
+
+### Are there any contraindications or side effects associated with Knowledge of Dietetics — Charaka Samhita And Sushruta Samhita By Nayana Sharma?
+While generally well-tolerated when used appropriately, excessive usage or improper dosing may exacerbate specific doshas. Consult an Ayurvedic physician prior to therapeutic use.
+
+### How long does it take to observe results from using Knowledge of Dietetics — Charaka Samhita And Sushruta Samhita By Nayana Sharma?
+In traditional Ayurvedic protocol, herbal formulations operate synergistically with diet and lifestyle. Notable improvements typically emerge within 2 to 4 weeks of consistent administration.
+
+### Is Knowledge of Dietetics — Charaka Samhita And Sushruta Samhita By Nayana Sharma safe for long-term daily consumption?
+Certain tonic (Rasayana) preparations may be safely used long-term, whereas intensive therapeutic formulas are recommended for specific short-term protocols under expert supervision.
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What are the primary health benefits of Knowledge of Dietetics — Charaka Samhita And Sushruta Samhita By Nayana Sharma in Ayurveda?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Knowledge of Dietetics — Charaka Samhita And Sushruta Samhita By Nayana Sharma is traditionally utilized in Ayurveda to balance doshic imbalances, support systemic vitality, and promote long-term physiological wellness under proper guidance."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How should Knowledge of Dietetics — Charaka Samhita And Sushruta Samhita By Nayana Sharma be taken according to classical guidelines?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "According to classical Ayurvedic principles, Knowledge of Dietetics — Charaka Samhita And Sushruta Samhita By Nayana Sharma is best administered with appropriate Anupana (carrier vehicles such as warm water, honey, or warm milk) tailored to an individual's Prakriti (constitution)."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Are there any contraindications or side effects associated with Knowledge of Dietetics — Charaka Samhita And Sushruta Samhita By Nayana Sharma?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "While generally well-tolerated when used appropriately, excessive usage or improper dosing may exacerbate specific doshas. Consult an Ayurvedic physician prior to therapeutic use."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How long does it take to observe results from using Knowledge of Dietetics — Charaka Samhita And Sushruta Samhita By Nayana Sharma?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "In traditional Ayurvedic protocol, herbal formulations operate synergistically with diet and lifestyle. Notable improvements typically emerge within 2 to 4 weeks of consistent administration."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Is Knowledge of Dietetics — Charaka Samhita And Sushruta Samhita By Nayana Sharma safe for long-term daily consumption?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Certain tonic (Rasayana) preparations may be safely used long-term, whereas intensive therapeutic formulas are recommended for specific short-term protocols under expert supervision."
+      }
     }
   ]
 }

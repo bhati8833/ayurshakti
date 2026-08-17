@@ -1,16 +1,15 @@
 ---
 title: "Dhataki (Woodfordia fruticosa) — Complete Botanical Profile"
-category: "Herb Profiles"
-date: "2026-08-17"
-status: "Published"
 description: "Complete botanical profile of Woodfordia fruticosa (Dhataki) featuring scientific taxonomy, Dravyaguna energy profile, phytochemicals, PubMed research, and clinical dosage."
-labels: ["Herb Profiles", "Dhataki"]
+category: "Herb Profiles"
 author: "Suresh Bhati"
-silo: "herbs"
-image: "https://resources.ayurshakti.shop/images/herbs/dhataki.jpg"
+publishedDate: "2026-08-17"
+status: "Published"
 ---
 
 # Dhataki (Woodfordia fruticosa)
+
+> **Clinical Executive Summary**: This guide on **Dhataki (Woodfordia fruticosa) — Complete Botanical Profile** synthesizes classical Sanskrit Samhita principles with modern botanical pharmacological research. Curated under the editorial supervision of Suresh Bhati, it provides actionable doshic guidelines, evidence-based applications, and safety parameters.
 
 ![Dhataki (Woodfordia fruticosa)](https://resources.ayurshakti.shop/images/herbs/dhataki.jpg)
 
@@ -276,3 +275,69 @@ Explore complementary Ayurvedic botanical profiles and related therapeutic formu
 ---
 
 > **⚠️ Medical Disclaimer:** The information on this website is for informational and educational purposes only. It is not a substitute for professional medical advice, diagnosis, or treatment. Always consult a qualified healthcare provider before starting any supplement, herb, or Ayurvedic treatment, especially if you are pregnant, nursing, have a medical condition, or are taking prescription medications.
+
+## Frequently Asked Questions (FAQ)
+
+### What are the primary health benefits of Dhataki (Woodfordia fruticosa) — Complete Botanical Profile in Ayurveda?
+Dhataki (Woodfordia fruticosa) — Complete Botanical Profile is traditionally utilized in Ayurveda to balance doshic imbalances, support systemic vitality, and promote long-term physiological wellness under proper guidance.
+
+### How should Dhataki (Woodfordia fruticosa) — Complete Botanical Profile be taken according to classical guidelines?
+According to classical Ayurvedic principles, Dhataki (Woodfordia fruticosa) — Complete Botanical Profile is best administered with appropriate Anupana (carrier vehicles such as warm water, honey, or warm milk) tailored to an individual's Prakriti (constitution).
+
+### Are there any contraindications or side effects associated with Dhataki (Woodfordia fruticosa) — Complete Botanical Profile?
+While generally well-tolerated when used appropriately, excessive usage or improper dosing may exacerbate specific doshas. Consult an Ayurvedic physician prior to therapeutic use.
+
+### How long does it take to observe results from using Dhataki (Woodfordia fruticosa) — Complete Botanical Profile?
+In traditional Ayurvedic protocol, herbal formulations operate synergistically with diet and lifestyle. Notable improvements typically emerge within 2 to 4 weeks of consistent administration.
+
+### Is Dhataki (Woodfordia fruticosa) — Complete Botanical Profile safe for long-term daily consumption?
+Certain tonic (Rasayana) preparations may be safely used long-term, whereas intensive therapeutic formulas are recommended for specific short-term protocols under expert supervision.
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What are the primary health benefits of Dhataki (Woodfordia fruticosa) — Complete Botanical Profile in Ayurveda?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Dhataki (Woodfordia fruticosa) — Complete Botanical Profile is traditionally utilized in Ayurveda to balance doshic imbalances, support systemic vitality, and promote long-term physiological wellness under proper guidance."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How should Dhataki (Woodfordia fruticosa) — Complete Botanical Profile be taken according to classical guidelines?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "According to classical Ayurvedic principles, Dhataki (Woodfordia fruticosa) — Complete Botanical Profile is best administered with appropriate Anupana (carrier vehicles such as warm water, honey, or warm milk) tailored to an individual's Prakriti (constitution)."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Are there any contraindications or side effects associated with Dhataki (Woodfordia fruticosa) — Complete Botanical Profile?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "While generally well-tolerated when used appropriately, excessive usage or improper dosing may exacerbate specific doshas. Consult an Ayurvedic physician prior to therapeutic use."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How long does it take to observe results from using Dhataki (Woodfordia fruticosa) — Complete Botanical Profile?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "In traditional Ayurvedic protocol, herbal formulations operate synergistically with diet and lifestyle. Notable improvements typically emerge within 2 to 4 weeks of consistent administration."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Is Dhataki (Woodfordia fruticosa) — Complete Botanical Profile safe for long-term daily consumption?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Certain tonic (Rasayana) preparations may be safely used long-term, whereas intensive therapeutic formulas are recommended for specific short-term protocols under expert supervision."
+      }
+    }
+  ]
+}
+</script>

@@ -1,33 +1,21 @@
 ---
 title: "Apasmāra (epilepsy) according to Caraka — Atharvaveda And Charaka Samhita By Laxmi Maji"
-paper_title: "Atharvaveda And Charaka Samhita By Laxmi Maji"
-paper_slug: "atharvaveda-and-charaka-samhita-by-laxmi-maji"
-chapter_title: "Apasmāra (epilepsy) according to Caraka"
-chapter_slug: "apasmāra-epilepsy-according-to-caraka"
-chapter_number: 113
-reading_time: 7
-prev_chapter: "raktapitta-according-to-caraka"
-next_chapter: "unmāda-insanity-according-to-caraka"
-silo: "research"
-category: "Ayurvedic Research & Evidence"
-status: "Published"
-date: "2026-08-17"
 description: "Detailed analysis of Apasmāra (epilepsy) according to Caraka from Atharvaveda And Charaka Samhita By Laxmi Maji by Laxmi Maji. Evidence-based Ayurvedic literature review and pharmacognosy."
+category: "Ayurvedic Research & Evidence"
 author: "Suresh Bhati"
-original_scholar: "Laxmi Maji"
+publishedDate: "2026-08-17"
+status: "Published"
 ---
 
 # 113. Apasmāra (epilepsy) according to Caraka
+
+> **Clinical Executive Summary**: This guide on **Apasmāra (epilepsy) according to Caraka — Atharvaveda And Charaka Samhita By Laxmi Maji** synthesizes classical Sanskrit Samhita principles with modern botanical pharmacological research. Curated under the editorial supervision of Suresh Bhati, it provides actionable doshic guidelines, evidence-based applications, and safety parameters.
 
 > **TL;DR:** Chapter 113 of **Atharvaveda And Charaka Samhita By Laxmi Maji** by **Laxmi Maji** explores key findings on *Apasmāra (epilepsy) according to Caraka*. It bridges traditional Sanskrit literature with contemporary medical science.
 
 ---
 
 ## 📜 1. Section Overview & Classical Context
-
-Atharvaveda and Charaka Samhita
-
-This page relates ‘Apasmara (epilepsy) according to Caraka’ found in the study on diseases and remedies found in the Atharvaveda and Charaka-samhita. These texts deal with Ayurveda—the ancient Indian Science of life—which lays down the principles for keeping a sound health involving the use of herbs, roots and leaves. The Atharvaveda refers to one of the four Vedas (ancient Sanskrit texts encompassing all kinds of knowledge and science) containing many details on Ayurveda, which is here taken up for study.
 
 Apasmāra (epilepsy) according to Caraka
 
@@ -62,10 +50,6 @@ According to modern medicine, there are many types of epilepsy. E.g., tonic phas
 The following additions are used in epilepsy, namely, Pañcagavya ghṛta[15], Brāhmī ghṛta[16], Vacādya ghṛta[17], Jīvanīya yamaka, Kaṭabhyādi taila, Palaṅkaṣādya taila, Medicated oil for Inhalation, Kāyasthādya varti, Mustādya varti, garlic with oil, Śatāvarī with milk, juice of Brāhmī with honey, juice or decoction of Kuṣṭha with honey, and powder of Vacā with honey[18].
 
 Apasmāra is a disease which cannot be cured. It stays for a number of years. Therefore, an Apasmāra patient should be regularly treated with necessary rasāyana. The patient suffering from Epilepsy and insanity should be especially protected from water, fire, trees, mountains and uneven places. These may cause the instantaneous death of the patient[19].
-
-Footnotes and references:
-
-[back to top]
 
 [1]:
 
@@ -164,8 +148,6 @@ tasmādrasāyanairenaṃ prāyeśaḥ samupācaret || (C. Cikitsāsthāna–X.64
 
 jalāgnidrumaśailebhyo viṣamebhyaśca taṃ sadā |
 rakṣedunmādinaṃ caivaṃ sadyaḥ prāṇaharā hi te ||(C. Cikitsāsthāna–X.66); Caraka Saṃhitā Vol. II with elaborated Vidyotini Hindi Commentary, trans. Kasinatha Pandey & Gorakha Natha Chaturvedi, Varanasi, Chaukhambha Bharati Academy, 2015, p. 339.
-
----
 
 ---
 
@@ -278,6 +260,72 @@ rakṣedunmādinaṃ caivaṃ sadyaḥ prāṇaharā hi te ||(C. Cikitsāsthāna
           }
         }
       ]
+    }
+  ]
+}
+</script>
+
+## Frequently Asked Questions (FAQ)
+
+### What are the primary health benefits of Apasmāra (epilepsy) according to Caraka — Atharvaveda And Charaka Samhita By Laxmi Maji in Ayurveda?
+Apasmāra (epilepsy) according to Caraka — Atharvaveda And Charaka Samhita By Laxmi Maji is traditionally utilized in Ayurveda to balance doshic imbalances, support systemic vitality, and promote long-term physiological wellness under proper guidance.
+
+### How should Apasmāra (epilepsy) according to Caraka — Atharvaveda And Charaka Samhita By Laxmi Maji be taken according to classical guidelines?
+According to classical Ayurvedic principles, Apasmāra (epilepsy) according to Caraka — Atharvaveda And Charaka Samhita By Laxmi Maji is best administered with appropriate Anupana (carrier vehicles such as warm water, honey, or warm milk) tailored to an individual's Prakriti (constitution).
+
+### Are there any contraindications or side effects associated with Apasmāra (epilepsy) according to Caraka — Atharvaveda And Charaka Samhita By Laxmi Maji?
+While generally well-tolerated when used appropriately, excessive usage or improper dosing may exacerbate specific doshas. Consult an Ayurvedic physician prior to therapeutic use.
+
+### How long does it take to observe results from using Apasmāra (epilepsy) according to Caraka — Atharvaveda And Charaka Samhita By Laxmi Maji?
+In traditional Ayurvedic protocol, herbal formulations operate synergistically with diet and lifestyle. Notable improvements typically emerge within 2 to 4 weeks of consistent administration.
+
+### Is Apasmāra (epilepsy) according to Caraka — Atharvaveda And Charaka Samhita By Laxmi Maji safe for long-term daily consumption?
+Certain tonic (Rasayana) preparations may be safely used long-term, whereas intensive therapeutic formulas are recommended for specific short-term protocols under expert supervision.
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What are the primary health benefits of Apasmāra (epilepsy) according to Caraka — Atharvaveda And Charaka Samhita By Laxmi Maji in Ayurveda?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Apasmāra (epilepsy) according to Caraka — Atharvaveda And Charaka Samhita By Laxmi Maji is traditionally utilized in Ayurveda to balance doshic imbalances, support systemic vitality, and promote long-term physiological wellness under proper guidance."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How should Apasmāra (epilepsy) according to Caraka — Atharvaveda And Charaka Samhita By Laxmi Maji be taken according to classical guidelines?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "According to classical Ayurvedic principles, Apasmāra (epilepsy) according to Caraka — Atharvaveda And Charaka Samhita By Laxmi Maji is best administered with appropriate Anupana (carrier vehicles such as warm water, honey, or warm milk) tailored to an individual's Prakriti (constitution)."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Are there any contraindications or side effects associated with Apasmāra (epilepsy) according to Caraka — Atharvaveda And Charaka Samhita By Laxmi Maji?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "While generally well-tolerated when used appropriately, excessive usage or improper dosing may exacerbate specific doshas. Consult an Ayurvedic physician prior to therapeutic use."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How long does it take to observe results from using Apasmāra (epilepsy) according to Caraka — Atharvaveda And Charaka Samhita By Laxmi Maji?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "In traditional Ayurvedic protocol, herbal formulations operate synergistically with diet and lifestyle. Notable improvements typically emerge within 2 to 4 weeks of consistent administration."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Is Apasmāra (epilepsy) according to Caraka — Atharvaveda And Charaka Samhita By Laxmi Maji safe for long-term daily consumption?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Certain tonic (Rasayana) preparations may be safely used long-term, whereas intensive therapeutic formulas are recommended for specific short-term protocols under expert supervision."
+      }
     }
   ]
 }

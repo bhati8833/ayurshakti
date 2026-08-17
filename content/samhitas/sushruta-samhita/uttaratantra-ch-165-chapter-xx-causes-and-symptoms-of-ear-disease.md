@@ -20,17 +20,11 @@ This chapter from **Sushruta Samhita (Uttaratantra)** represents the classical s
 
 ---
 
-
 Sushruta Samhita, Volume 6: Uttara-tantra
-
-by Kaviraj Kunja Lal Bhishagratna | 1916 | 113,078 words
 
 This current book, the Uttara-tantra (english translation) is the supplementary part of the Sushrutasamhita and deals various subjects such as diseases of the eye, treatment of fever, diarrhea, diseases resulting from superhuman influences, insanity, rules of health etc.
 
 The Sushruta Samhita is the most representative work of the Hindu system of m...
-
-Go directly to: 
-Footnotes.
 
 Chapter XX - Causes and symptoms of Ear-disease
 
@@ -65,10 +59,6 @@ Symptoms of Karna-paka and Puti-karna, etc.:—
 A process of suppuration setting in (in any of these boils) in the ear through the aggravated condition of the deranged Pitta is marked by a blocked and putrid condition of the passage of the ear. The disease is called Karna-paka (suppuration of the ear). A discharge of condensed and fetid pus whether accompanied or not with pain is set up by the local mucous accumulation in the passage of the ear having been liquefied by the heat of the aggravated Pitta. This disease is called Puti-karna (pus in the ear). The symptoms of swelling (Shopha), tumours (Arvuda) and polypoid growths (Arshas)[4] in general as have been described before should be carefully understood by an experienced physicain to be the symptoms of these diseases in the region of the ear. 13-15.
 
 Thus ends the twentieth chapter of the Uttara-Tantra in the Sushruta Samhita which deals with the causes and symptoms of the diseases peculiar to the ear.
-
-Footnotes and references:
-
-[back to top]
 
 [1]:
 

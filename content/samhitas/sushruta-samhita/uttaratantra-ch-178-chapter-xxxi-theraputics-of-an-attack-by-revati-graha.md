@@ -20,17 +20,11 @@ This chapter from **Sushruta Samhita (Uttaratantra)** represents the classical s
 
 ---
 
-
 Sushruta Samhita, Volume 6: Uttara-tantra
-
-by Kaviraj Kunja Lal Bhishagratna | 1916 | 113,078 words
 
 This current book, the Uttara-tantra (english translation) is the supplementary part of the Sushrutasamhita and deals various subjects such as diseases of the eye, treatment of fever, diarrhea, diseases resulting from superhuman influences, insanity, rules of health etc.
 
 The Sushruta Samhita is the most representative work of the Hindu system of m...
-
-Go directly to: 
-Footnotes.
 
 Chapter XXXI - Theraputics Of An Attack By Revati-Graha
 
@@ -45,10 +39,6 @@ The presiding deity of the disease known as Revati should be worshipped in a cow
 “May the goddess, Revati, of dark complexion who is clad in parti-coloured garments and garlands of flowers of various colours and painted with anointments of various kinds and with oscillating earrings, be pleassd with thee. May the goddess, Revati, who is tall, drooping and terrible-looking, and who is the mother of many sons be always propitious to thee.” 2.
 
 Thus ends the thirty-first chapter of the Uttara-Tantra in the Sushruta Samhita which deals with the Therapeutics of an attack by Revati.
-
-Footnotes and references:
-
-[back to top]
 
 [1]:
 

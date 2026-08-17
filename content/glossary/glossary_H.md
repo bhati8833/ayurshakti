@@ -18,7 +18,6 @@ Language and terminology form the backbone of traditional Indian medicine. Every
 
 ---
 
-
 ### Key Sanskrit Terms starting with 'H' (Sample Preview)
 The following is an excerpt of classical Sanskrit terms starting with letter **H**:
 
@@ -57,7 +56,6 @@ The following is an excerpt of classical Sanskrit terms starting with letter **H
 </ul>
 
 *Browse all 436 authenticated terms under Letter H in the searchable directory above.*
-
 
 ---
 

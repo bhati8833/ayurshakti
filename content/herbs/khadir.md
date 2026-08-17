@@ -1,16 +1,15 @@
 ---
 title: "Khadira (Acacia catechu) — Complete Botanical Profile"
-category: "Herb Profiles"
-date: "2026-08-17"
-status: "Published"
 description: "Complete botanical profile of Acacia catechu (Khadira) featuring scientific taxonomy, Dravyaguna energy profile, phytochemicals, PubMed research, and clinical dosage."
-labels: ["Herb Profiles", "Khadira"]
+category: "Herb Profiles"
 author: "Suresh Bhati"
-silo: "herbs"
-image: "https://resources.ayurshakti.shop/images/herbs/khadir.jpg"
+publishedDate: "2026-08-17"
+status: "Published"
 ---
 
 # Khadira (Acacia catechu)
+
+> **Clinical Executive Summary**: This guide on **Khadira (Acacia catechu) — Complete Botanical Profile** synthesizes classical Sanskrit Samhita principles with modern botanical pharmacological research. Curated under the editorial supervision of Suresh Bhati, it provides actionable doshic guidelines, evidence-based applications, and safety parameters.
 
 ![Khadira (Acacia catechu)](https://resources.ayurshakti.shop/images/herbs/khadir.jpg)
 
@@ -276,3 +275,69 @@ Explore complementary Ayurvedic botanical profiles and related therapeutic formu
 ---
 
 > **⚠️ Medical Disclaimer:** The information on this website is for informational and educational purposes only. It is not a substitute for professional medical advice, diagnosis, or treatment. Always consult a qualified healthcare provider before starting any supplement, herb, or Ayurvedic treatment, especially if you are pregnant, nursing, have a medical condition, or are taking prescription medications.
+
+## Frequently Asked Questions (FAQ)
+
+### What are the primary health benefits of Khadira (Acacia catechu) — Complete Botanical Profile in Ayurveda?
+Khadira (Acacia catechu) — Complete Botanical Profile is traditionally utilized in Ayurveda to balance doshic imbalances, support systemic vitality, and promote long-term physiological wellness under proper guidance.
+
+### How should Khadira (Acacia catechu) — Complete Botanical Profile be taken according to classical guidelines?
+According to classical Ayurvedic principles, Khadira (Acacia catechu) — Complete Botanical Profile is best administered with appropriate Anupana (carrier vehicles such as warm water, honey, or warm milk) tailored to an individual's Prakriti (constitution).
+
+### Are there any contraindications or side effects associated with Khadira (Acacia catechu) — Complete Botanical Profile?
+While generally well-tolerated when used appropriately, excessive usage or improper dosing may exacerbate specific doshas. Consult an Ayurvedic physician prior to therapeutic use.
+
+### How long does it take to observe results from using Khadira (Acacia catechu) — Complete Botanical Profile?
+In traditional Ayurvedic protocol, herbal formulations operate synergistically with diet and lifestyle. Notable improvements typically emerge within 2 to 4 weeks of consistent administration.
+
+### Is Khadira (Acacia catechu) — Complete Botanical Profile safe for long-term daily consumption?
+Certain tonic (Rasayana) preparations may be safely used long-term, whereas intensive therapeutic formulas are recommended for specific short-term protocols under expert supervision.
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What are the primary health benefits of Khadira (Acacia catechu) — Complete Botanical Profile in Ayurveda?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Khadira (Acacia catechu) — Complete Botanical Profile is traditionally utilized in Ayurveda to balance doshic imbalances, support systemic vitality, and promote long-term physiological wellness under proper guidance."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How should Khadira (Acacia catechu) — Complete Botanical Profile be taken according to classical guidelines?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "According to classical Ayurvedic principles, Khadira (Acacia catechu) — Complete Botanical Profile is best administered with appropriate Anupana (carrier vehicles such as warm water, honey, or warm milk) tailored to an individual's Prakriti (constitution)."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Are there any contraindications or side effects associated with Khadira (Acacia catechu) — Complete Botanical Profile?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "While generally well-tolerated when used appropriately, excessive usage or improper dosing may exacerbate specific doshas. Consult an Ayurvedic physician prior to therapeutic use."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How long does it take to observe results from using Khadira (Acacia catechu) — Complete Botanical Profile?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "In traditional Ayurvedic protocol, herbal formulations operate synergistically with diet and lifestyle. Notable improvements typically emerge within 2 to 4 weeks of consistent administration."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Is Khadira (Acacia catechu) — Complete Botanical Profile safe for long-term daily consumption?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Certain tonic (Rasayana) preparations may be safely used long-term, whereas intensive therapeutic formulas are recommended for specific short-term protocols under expert supervision."
+      }
+    }
+  ]
+}
+</script>

@@ -20,17 +20,11 @@ This chapter from **Sushruta Samhita (Nidanasthana)** represents the classical s
 
 ---
 
-
 Sushruta Samhita, volume 2: Nidanasthana
-
-by Kaviraj Kunja Lal Bhishagratna | 1911 | 37,609 words
 
 This current book, the Nidana-sthana (english translation), is the second part of this voluminous medical work. It deals with diseases: their prognosis, their cause, their symptoms and their pathogenesis (development of the disease).
 
 The Sushruta Samhita is the most representative work of the Hindu system of medicine. It embraces all that can poss...
-
-Go directly to: 
-Footnotes.
 
 Preface
 
@@ -56,17 +50,13 @@ Besides this, we have been actuated by the hope of drawing the direct attention 
 
 Here we must not stop without expressing our sincere and hearty thanks to our learned and valued friends Kaviraj Jogindranath Sen, M.A., Vidyabhusana, Kaviraj Jnanendranath Sen, B.A., Kaviratna and Professor Satyendranath Sen, M. A., Vidyavagisa, who have rendered us material help in the publication of this volume. We must freely admit that but for the active and continued co-operation of the above-named gentlemen we could not have brought out this volume so promptly and successfully. Our thanks are also due to Dr. S. Sanyal, B.Sc., L.M.S. for his kind help, to Dr. S. N. Goswami, B.A., L.M.S. for his kindly supplying us with materials for writing the Introduction, and to our readers for their kind encouragement.
 
-In conclusion, we implore our readers to excuse the errors of omission and commission which are inevitable in the execution of such a huge work, more especially when the author is encumbered with the responsible duties of his profession involving, as they do, the life and death of persons entrusted to his care.
+In summary, we implore our readers to excuse the errors of omission and commission which are inevitable in the execution of such a huge work, more especially when the author is encumbered with the responsible duties of his profession involving, as they do, the life and death of persons entrusted to his care.
 
 10, Kashi Ghoshe’s Lane, 
 Calcutta. 
 November , 1911.
 
 Kunja Lal Bhishagratna.
-
-Footnotes and references:
-
-[back to top]
 
 [1]:
 

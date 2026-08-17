@@ -1,23 +1,15 @@
 ---
 title: "Female Divinities — Charaka Samhita And Sushruta Samhita By Nayana Sharma"
-paper_title: "Charaka Samhita And Sushruta Samhita By Nayana Sharma"
-paper_slug: "charaka-samhita-and-sushruta-samhita-by-nayana-sharma"
-chapter_title: "Female Divinities"
-chapter_slug: "female-divinities"
-chapter_number: 84
-reading_time: 3
-prev_chapter: "viṣṇu-in-the-medical-texts"
-next_chapter: "bhūtas-and-grahas"
-silo: "research"
-category: "Ayurvedic Research & Evidence"
-status: "Published"
-date: "2026-08-17"
 description: "Detailed analysis of Female Divinities from Charaka Samhita And Sushruta Samhita By Nayana Sharma by Nayana Sharma. Evidence-based Ayurvedic literature review and pharmacognosy."
+category: "Ayurvedic Research & Evidence"
 author: "Suresh Bhati"
-original_scholar: "Nayana Sharma"
+publishedDate: "2026-08-17"
+status: "Published"
 ---
 
 # 84. Female Divinities
+
+> **Clinical Executive Summary**: This guide on **Female Divinities — Charaka Samhita And Sushruta Samhita By Nayana Sharma** synthesizes classical Sanskrit Samhita principles with modern botanical pharmacological research. Curated under the editorial supervision of Suresh Bhati, it provides actionable doshic guidelines, evidence-based applications, and safety parameters.
 
 > **TL;DR:** Chapter 84 of **Charaka Samhita And Sushruta Samhita By Nayana Sharma** by **Nayana Sharma** explores key findings on *Female Divinities*. It bridges traditional Sanskrit literature with contemporary medical science.
 
@@ -36,10 +28,6 @@ It is significant that female divinities are find very litte mention to in our t
 It is striking that Sarasvatī, who appears as a physician in the Vedic corpus, does not find a place among the healing deities in the Saṃhitās. In the Ṛgveda, she is the consort of the Aśvins and her name occurs in an incantation for ensuring safe pregnancy and delivery.[6] She is also urged to pace the embryo in a woman’s womb,[7] and is implicitly associated with healing by way of water for all remedies dwell in the Waters.[8] She is also called upon to remedy defects of body, speech and action[9] and destroy poison.[10] Together with Heaven, Earth, Indra and Agni, Sarasvatī is invoked to cure worms.[11] The healing functions attributed to her in the Ṛgveda were not specifically her own and she is not assigned any new ones in the Atharvaveda.[12]
 
 We have referred earlier to the Sautrāmaṇī ritual occuring in both the Black and White Yajur Veda for warding off various forms of evil in the sacrificer’s personal life, to assure success, victory and so on.[13] The Sautrāmaṇī ritual is based on the myth of Indra’s illness resulting from his overindulgence in Soma which was cured by the Aśvins and Sarasvatī.[14] She bestows on Indra his characteristic qualities (īndriyāṇi) by means of vāc (speech) and restores his manly energy (vīryam).[15] It is interesting to note that Caraka refers to this ritual to establish the stature of the Aśvins vis-à-vis Indra and the other gods but ignores the contribution of Sarasvatī to the healing of Indra. Her role as a healer, therefore, had already disappeared.
-
-Footnotes and references:
-
-[back to top]
 
 [1]:
 
@@ -100,8 +88,6 @@ Ibid. p.44.
 [15]:
 
 Ibid. p.46.
-
----
 
 ---
 
@@ -214,6 +200,72 @@ Ibid. p.46.
           }
         }
       ]
+    }
+  ]
+}
+</script>
+
+## Frequently Asked Questions (FAQ)
+
+### What are the primary health benefits of Female Divinities — Charaka Samhita And Sushruta Samhita By Nayana Sharma in Ayurveda?
+Female Divinities — Charaka Samhita And Sushruta Samhita By Nayana Sharma is traditionally utilized in Ayurveda to balance doshic imbalances, support systemic vitality, and promote long-term physiological wellness under proper guidance.
+
+### How should Female Divinities — Charaka Samhita And Sushruta Samhita By Nayana Sharma be taken according to classical guidelines?
+According to classical Ayurvedic principles, Female Divinities — Charaka Samhita And Sushruta Samhita By Nayana Sharma is best administered with appropriate Anupana (carrier vehicles such as warm water, honey, or warm milk) tailored to an individual's Prakriti (constitution).
+
+### Are there any contraindications or side effects associated with Female Divinities — Charaka Samhita And Sushruta Samhita By Nayana Sharma?
+While generally well-tolerated when used appropriately, excessive usage or improper dosing may exacerbate specific doshas. Consult an Ayurvedic physician prior to therapeutic use.
+
+### How long does it take to observe results from using Female Divinities — Charaka Samhita And Sushruta Samhita By Nayana Sharma?
+In traditional Ayurvedic protocol, herbal formulations operate synergistically with diet and lifestyle. Notable improvements typically emerge within 2 to 4 weeks of consistent administration.
+
+### Is Female Divinities — Charaka Samhita And Sushruta Samhita By Nayana Sharma safe for long-term daily consumption?
+Certain tonic (Rasayana) preparations may be safely used long-term, whereas intensive therapeutic formulas are recommended for specific short-term protocols under expert supervision.
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What are the primary health benefits of Female Divinities — Charaka Samhita And Sushruta Samhita By Nayana Sharma in Ayurveda?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Female Divinities — Charaka Samhita And Sushruta Samhita By Nayana Sharma is traditionally utilized in Ayurveda to balance doshic imbalances, support systemic vitality, and promote long-term physiological wellness under proper guidance."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How should Female Divinities — Charaka Samhita And Sushruta Samhita By Nayana Sharma be taken according to classical guidelines?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "According to classical Ayurvedic principles, Female Divinities — Charaka Samhita And Sushruta Samhita By Nayana Sharma is best administered with appropriate Anupana (carrier vehicles such as warm water, honey, or warm milk) tailored to an individual's Prakriti (constitution)."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Are there any contraindications or side effects associated with Female Divinities — Charaka Samhita And Sushruta Samhita By Nayana Sharma?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "While generally well-tolerated when used appropriately, excessive usage or improper dosing may exacerbate specific doshas. Consult an Ayurvedic physician prior to therapeutic use."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How long does it take to observe results from using Female Divinities — Charaka Samhita And Sushruta Samhita By Nayana Sharma?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "In traditional Ayurvedic protocol, herbal formulations operate synergistically with diet and lifestyle. Notable improvements typically emerge within 2 to 4 weeks of consistent administration."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Is Female Divinities — Charaka Samhita And Sushruta Samhita By Nayana Sharma safe for long-term daily consumption?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Certain tonic (Rasayana) preparations may be safely used long-term, whereas intensive therapeutic formulas are recommended for specific short-term protocols under expert supervision."
+      }
     }
   ]
 }

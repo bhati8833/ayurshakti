@@ -20,17 +20,11 @@ This chapter from **Sushruta Samhita (Uttaratantra)** represents the classical s
 
 ---
 
-
 Sushruta Samhita, Volume 6: Uttara-tantra
-
-by Kaviraj Kunja Lal Bhishagratna | 1916 | 113,078 words
 
 This current book, the Uttara-tantra (english translation) is the supplementary part of the Sushrutasamhita and deals various subjects such as diseases of the eye, treatment of fever, diarrhea, diseases resulting from superhuman influences, insanity, rules of health etc.
 
 The Sushruta Samhita is the most representative work of the Hindu system of m...
-
-Go directly to: 
-Footnotes.
 
 Chapter XXV - Symptoms of diseases of the head
 
@@ -61,10 +55,6 @@ Symptoms of Ardhavabhedaka and Shamkhaka:—
 The disease of the head in which a violent and excruciating pain of a piercing or aching nature is felt in one half of the cranium which makes the patient feel giddy, and which either follows no distinct periodicity or recurs at a regular interval of ten days or of a fortnight, is called the Ardhavabhedaka and is due to the concerted action of the three Doshas. A violent pain caused in the head and more especially in the temples by the local Vayu in combination with the deranged Kapha, Pitta and blood is designated by the holy sages of Ayurveda as the Shamkhaka. It produces a very great pain, and is very hard to cure even by the joint advice of thousands of physicians and is as fierce as death itself. 12–13.
 
 Thus ends the twenty-fifth chapter in the Uttara Tantra of the Sushruta Samhita which deals with the symptoms of the diseases of the head.
-
-Footnotes and references:
-
-[back to top]
 
 [1]:
 

@@ -20,17 +20,11 @@ This chapter from **Sushruta Samhita (Uttaratantra)** represents the classical s
 
 ---
 
-
 Sushruta Samhita, Volume 6: Uttara-tantra
-
-by Kaviraj Kunja Lal Bhishagratna | 1916 | 113,078 words
 
 This current book, the Uttara-tantra (english translation) is the supplementary part of the Sushrutasamhita and deals various subjects such as diseases of the eye, treatment of fever, diarrhea, diseases resulting from superhuman influences, insanity, rules of health etc.
 
 The Sushruta Samhita is the most representative work of the Hindu system of m...
-
-Go directly to: 
-Footnotes.
 
 Chapter XII - Treatment of Raktaja Ophthalmia
 
@@ -97,10 +91,6 @@ The decoction of the leaves and fruits of Amalaka should be duly prepared (in th
 An eye-salve or an Anjana made of Samudra-phena, Saindhava, conch-shell, Mudga and white Marica mixed together (in the shape of a powder) should be prescribed in a case of Aklinna-vartma as it would promptly alleviate the local itching. The foregoing measures and remedies should be likewise employed in a case of Praklinna-vartma according to the nature of the deranged Doshas involved therein. An Anjana prepared with the admixture of Kajjala and Tuthhaka (Sulphate of copper) rubbed in clarified butter on the surface of a copper vessel, would be similarly used (in such cases). 35–36.
 
 Thus ends the twelfth chapter of the Uttara-Tantra in the Sushruta Samhita which treats of the curative treatment of Raktabhishyanda.
-
-Footnotes and references:
-
-[back to top]
 
 [1]:
 

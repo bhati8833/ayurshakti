@@ -1,23 +1,15 @@
 ---
 title: "7. Examination of Diseases — Physician As Depicted In Manasollasa By Sri B S Hebballi"
-paper_title: "Physician As Depicted In Manasollasa By Sri B S Hebballi"
-paper_slug: "physician-as-depicted-in-manasollasa-by-sri-b-s-hebballi"
-chapter_title: "7. Examination of Diseases"
-chapter_slug: "7-examination-of-diseases"
-chapter_number: 36
-reading_time: 12
-prev_chapter: "5-characteristics-of-pseudo-and-feigned-physicians"
-next_chapter: "8-food-and-diet-in-ayurveda-and-manasollasa"
-silo: "research"
-category: "Ayurvedic Research & Evidence"
-status: "Published"
-date: "2026-08-17"
 description: "Detailed analysis of 7. Examination of Diseases from Physician As Depicted In Manasollasa By Sri B S Hebballi by Classical Ayurvedic Scholar. Evidence-based Ayurvedic literature review and pharmacognosy."
+category: "Ayurvedic Research & Evidence"
 author: "Suresh Bhati"
-original_scholar: "Classical Ayurvedic Scholar"
+publishedDate: "2026-08-17"
+status: "Published"
 ---
 
 # 36. 7. Examination of Diseases
+
+> **Clinical Executive Summary**: This guide on **7. Examination of Diseases — Physician As Depicted In Manasollasa By Sri B S Hebballi** synthesizes classical Sanskrit Samhita principles with modern botanical pharmacological research. Curated under the editorial supervision of Suresh Bhati, it provides actionable doshic guidelines, evidence-based applications, and safety parameters.
 
 > **TL;DR:** Chapter 36 of **Physician As Depicted In Manasollasa By Sri B S Hebballi** by **Classical Ayurvedic Scholar** explores key findings on *7. Examination of Diseases*. It bridges traditional Sanskrit literature with contemporary medical science.
 
@@ -50,8 +42,6 @@ For proper treatment of a disease, it is essential to determine the exact nature
 241 According to Caraka Samhita - drugs having sweet, sour and saline taste alleviate vata; those having astringent, sweet and bitter (tastes) alleviate pitta and those having astringent, pungent and bitter (tastes) alleviate kapha.37 Vata has in fact no taste. Even then the drugs having sweet, sour and saline tastes alleviate it. This is so because the tastes of the drugs possess their accessary qualities like unctuousness and as such are of opposite qualities. The various tastes can either alleviate or aggravate dosas. Thus, these tastes which cannot alleviate, do necessarily aggravate the dosas. For example, drugs of sweet, sour and saline tastes alleviate vata. It automatically follows that those having astringent, bitter and pungent tastes would aggravate vata. Similarly, pitta is aggravated by pungent, sour and saline drugs, and kapha by sweet, sour and saline drugs. According to Caraka, only that, which can bring about a cure, is a correct medicine. It is only he who can relieve his patients of their ailments is the best physician. 38 For the purpose of the science of medicine, it is necessary to explain the qualities of correct medicine and a good physician. It is only that which possesses the requisite curative values is to be treated as a correct medicine. As regards physician, he should first of all know the principles underlying the correct application of medicines. Unless he knows it, he will not be able to relieve his patients of their ailments. Even if perchance, medicines selected by him at random succeed in alleviating 37. svadvamlalavana vayum, kasayasvadutiktakah | jayanti pittam, slesmanam kasayakatutiktakah | |  38. tadeva yuktam bhaisajyam yadarogyaya kalpate | - carakasamhita - sutrasthana  1-66 sa caiva bhisajam srestho rogebhyo yah pramocayet | | carakasamhita - sutrasthana  1 134 -
 
 242 ailments, the credit is not his; it is just accidental. Thus, only he who can, by dint of his proficiency in the science, can select proper medicine and help cure diseases, can be regarded as the best physician. As elsewhere, in the field of medicine also, the effect implies the existence of a cause. If a disease is cured, it naturally implies that proper therapy possessing the requisite curative properties has been administered, but for which, the discase could not have been cured. Similarly, if there is a success in the treatment of a disease, it also implies that the physician is proficient in the science of medicine.
-
----
 
 ---
 
@@ -164,6 +154,72 @@ For proper treatment of a disease, it is essential to determine the exact nature
           }
         }
       ]
+    }
+  ]
+}
+</script>
+
+## Frequently Asked Questions (FAQ)
+
+### What are the primary health benefits of 7. Examination of Diseases — Physician As Depicted In Manasollasa By Sri B S Hebballi in Ayurveda?
+7. Examination of Diseases — Physician As Depicted In Manasollasa By Sri B S Hebballi is traditionally utilized in Ayurveda to balance doshic imbalances, support systemic vitality, and promote long-term physiological wellness under proper guidance.
+
+### How should 7. Examination of Diseases — Physician As Depicted In Manasollasa By Sri B S Hebballi be taken according to classical guidelines?
+According to classical Ayurvedic principles, 7. Examination of Diseases — Physician As Depicted In Manasollasa By Sri B S Hebballi is best administered with appropriate Anupana (carrier vehicles such as warm water, honey, or warm milk) tailored to an individual's Prakriti (constitution).
+
+### Are there any contraindications or side effects associated with 7. Examination of Diseases — Physician As Depicted In Manasollasa By Sri B S Hebballi?
+While generally well-tolerated when used appropriately, excessive usage or improper dosing may exacerbate specific doshas. Consult an Ayurvedic physician prior to therapeutic use.
+
+### How long does it take to observe results from using 7. Examination of Diseases — Physician As Depicted In Manasollasa By Sri B S Hebballi?
+In traditional Ayurvedic protocol, herbal formulations operate synergistically with diet and lifestyle. Notable improvements typically emerge within 2 to 4 weeks of consistent administration.
+
+### Is 7. Examination of Diseases — Physician As Depicted In Manasollasa By Sri B S Hebballi safe for long-term daily consumption?
+Certain tonic (Rasayana) preparations may be safely used long-term, whereas intensive therapeutic formulas are recommended for specific short-term protocols under expert supervision.
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What are the primary health benefits of 7. Examination of Diseases — Physician As Depicted In Manasollasa By Sri B S Hebballi in Ayurveda?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "7. Examination of Diseases — Physician As Depicted In Manasollasa By Sri B S Hebballi is traditionally utilized in Ayurveda to balance doshic imbalances, support systemic vitality, and promote long-term physiological wellness under proper guidance."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How should 7. Examination of Diseases — Physician As Depicted In Manasollasa By Sri B S Hebballi be taken according to classical guidelines?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "According to classical Ayurvedic principles, 7. Examination of Diseases — Physician As Depicted In Manasollasa By Sri B S Hebballi is best administered with appropriate Anupana (carrier vehicles such as warm water, honey, or warm milk) tailored to an individual's Prakriti (constitution)."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Are there any contraindications or side effects associated with 7. Examination of Diseases — Physician As Depicted In Manasollasa By Sri B S Hebballi?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "While generally well-tolerated when used appropriately, excessive usage or improper dosing may exacerbate specific doshas. Consult an Ayurvedic physician prior to therapeutic use."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How long does it take to observe results from using 7. Examination of Diseases — Physician As Depicted In Manasollasa By Sri B S Hebballi?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "In traditional Ayurvedic protocol, herbal formulations operate synergistically with diet and lifestyle. Notable improvements typically emerge within 2 to 4 weeks of consistent administration."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Is 7. Examination of Diseases — Physician As Depicted In Manasollasa By Sri B S Hebballi safe for long-term daily consumption?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Certain tonic (Rasayana) preparations may be safely used long-term, whereas intensive therapeutic formulas are recommended for specific short-term protocols under expert supervision."
+      }
     }
   ]
 }

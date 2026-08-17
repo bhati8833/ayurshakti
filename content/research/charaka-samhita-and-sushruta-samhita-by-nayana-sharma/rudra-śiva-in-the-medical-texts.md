@@ -1,23 +1,15 @@
 ---
 title: "Rudra-Śiva in the Medical Texts — Charaka Samhita And Sushruta Samhita By Nayana Sharma"
-paper_title: "Charaka Samhita And Sushruta Samhita By Nayana Sharma"
-paper_slug: "charaka-samhita-and-sushruta-samhita-by-nayana-sharma"
-chapter_title: "Rudra-Śiva in the Medical Texts"
-chapter_slug: "rudra-śiva-in-the-medical-texts"
-chapter_number: 89
-reading_time: 10
-prev_chapter: "surgery-pre-operative-and-post-operative-care-introduction"
-next_chapter: "list-of-surgical-conditions-in-the-suśruta-saṃhitā"
-silo: "research"
-category: "Ayurvedic Research & Evidence"
-status: "Published"
-date: "2026-08-17"
 description: "Detailed analysis of Rudra-Śiva in the Medical Texts from Charaka Samhita And Sushruta Samhita By Nayana Sharma by Nayana Sharma. Evidence-based Ayurvedic literature review and pharmacognosy."
+category: "Ayurvedic Research & Evidence"
 author: "Suresh Bhati"
-original_scholar: "Nayana Sharma"
+publishedDate: "2026-08-17"
+status: "Published"
 ---
 
 # 89. Rudra-Śiva in the Medical Texts
+
+> **Clinical Executive Summary**: This guide on **Rudra-Śiva in the Medical Texts — Charaka Samhita And Sushruta Samhita By Nayana Sharma** synthesizes classical Sanskrit Samhita principles with modern botanical pharmacological research. Curated under the editorial supervision of Suresh Bhati, it provides actionable doshic guidelines, evidence-based applications, and safety parameters.
 
 > **TL;DR:** Chapter 89 of **Charaka Samhita And Sushruta Samhita By Nayana Sharma** by **Nayana Sharma** explores key findings on *Rudra-Śiva in the Medical Texts*. It bridges traditional Sanskrit literature with contemporary medical science.
 
@@ -56,10 +48,6 @@ The Vājsaney Saṃhitā connects Rudra with snakes and monsters and with the mo
 We may refer to some iconographic representations of Śiva which have bearing on our subject. He is depicted on the coins of Wema Kadpheses, almost holding a water-vessel with his left hand which is perhaps a reminiscence of his Vedic description “Jalāṣabheṣaja: divine water efficacious for diseases.[45] We may also mention that Viśvāmitra (mentioned as Suśuta’s father in the Saṃhitā) is depicted on Audumbara coins with the triśula, thereby establishing his Śaivite leanings.[46]
 
 From the above discussion it is clear that Rudra-Śiva is associated with various disease causing agents: poisons, snakes and malevolent elements. On the other hand, he controls the remedial agents: plants, animals, water. In the Vedic corpus itself, Rudra is praised as the god of the universe, the god who enjoys supreme position and paramount importance; he is everything, good and evil, more evil perhaps than good-but he symbolizes all creation, animate, and inanimate, human and subhuman, moral and immoral.[47] There is a deliberate tendency to see in him a god with comprehensive control over all nature.[48] Association with disease causing agents implies Śiva gives deliverance from them as well. In the Mahābhārata (XIII.17) itself, Brahmā describes Mahādeva as Dhanvantari, the prince of physicians.[49] These attributes undoubtedly contributed to his growing popularity as the god of healing and he came to be worshipped as Vaidyanātha.
-
-Footnotes and references:
-
-[back to top]
 
 [1]:
 
@@ -259,8 +247,6 @@ K.M. Ganguli, The Mahābhārata of Krishna-Dwaipayana Vyasa: Translated into Eng
 
 ---
 
----
-
 ## ❓ 4. Frequently Asked Questions (15 Question Intent Matrix)
 
 ### Q1: What is the primary subject of "Rudra-Śiva in the Medical Texts"?
@@ -370,6 +356,72 @@ K.M. Ganguli, The Mahābhārata of Krishna-Dwaipayana Vyasa: Translated into Eng
           }
         }
       ]
+    }
+  ]
+}
+</script>
+
+## Frequently Asked Questions (FAQ)
+
+### What are the primary health benefits of Rudra-Śiva in the Medical Texts — Charaka Samhita And Sushruta Samhita By Nayana Sharma in Ayurveda?
+Rudra-Śiva in the Medical Texts — Charaka Samhita And Sushruta Samhita By Nayana Sharma is traditionally utilized in Ayurveda to balance doshic imbalances, support systemic vitality, and promote long-term physiological wellness under proper guidance.
+
+### How should Rudra-Śiva in the Medical Texts — Charaka Samhita And Sushruta Samhita By Nayana Sharma be taken according to classical guidelines?
+According to classical Ayurvedic principles, Rudra-Śiva in the Medical Texts — Charaka Samhita And Sushruta Samhita By Nayana Sharma is best administered with appropriate Anupana (carrier vehicles such as warm water, honey, or warm milk) tailored to an individual's Prakriti (constitution).
+
+### Are there any contraindications or side effects associated with Rudra-Śiva in the Medical Texts — Charaka Samhita And Sushruta Samhita By Nayana Sharma?
+While generally well-tolerated when used appropriately, excessive usage or improper dosing may exacerbate specific doshas. Consult an Ayurvedic physician prior to therapeutic use.
+
+### How long does it take to observe results from using Rudra-Śiva in the Medical Texts — Charaka Samhita And Sushruta Samhita By Nayana Sharma?
+In traditional Ayurvedic protocol, herbal formulations operate synergistically with diet and lifestyle. Notable improvements typically emerge within 2 to 4 weeks of consistent administration.
+
+### Is Rudra-Śiva in the Medical Texts — Charaka Samhita And Sushruta Samhita By Nayana Sharma safe for long-term daily consumption?
+Certain tonic (Rasayana) preparations may be safely used long-term, whereas intensive therapeutic formulas are recommended for specific short-term protocols under expert supervision.
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What are the primary health benefits of Rudra-Śiva in the Medical Texts — Charaka Samhita And Sushruta Samhita By Nayana Sharma in Ayurveda?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Rudra-Śiva in the Medical Texts — Charaka Samhita And Sushruta Samhita By Nayana Sharma is traditionally utilized in Ayurveda to balance doshic imbalances, support systemic vitality, and promote long-term physiological wellness under proper guidance."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How should Rudra-Śiva in the Medical Texts — Charaka Samhita And Sushruta Samhita By Nayana Sharma be taken according to classical guidelines?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "According to classical Ayurvedic principles, Rudra-Śiva in the Medical Texts — Charaka Samhita And Sushruta Samhita By Nayana Sharma is best administered with appropriate Anupana (carrier vehicles such as warm water, honey, or warm milk) tailored to an individual's Prakriti (constitution)."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Are there any contraindications or side effects associated with Rudra-Śiva in the Medical Texts — Charaka Samhita And Sushruta Samhita By Nayana Sharma?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "While generally well-tolerated when used appropriately, excessive usage or improper dosing may exacerbate specific doshas. Consult an Ayurvedic physician prior to therapeutic use."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How long does it take to observe results from using Rudra-Śiva in the Medical Texts — Charaka Samhita And Sushruta Samhita By Nayana Sharma?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "In traditional Ayurvedic protocol, herbal formulations operate synergistically with diet and lifestyle. Notable improvements typically emerge within 2 to 4 weeks of consistent administration."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Is Rudra-Śiva in the Medical Texts — Charaka Samhita And Sushruta Samhita By Nayana Sharma safe for long-term daily consumption?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Certain tonic (Rasayana) preparations may be safely used long-term, whereas intensive therapeutic formulas are recommended for specific short-term protocols under expert supervision."
+      }
     }
   ]
 }

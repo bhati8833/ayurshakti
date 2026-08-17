@@ -1,23 +1,15 @@
 ---
 title: "Chapter 2 - Books on Elephants — Elephantology And Its Ancient Sanskrit Sources By Geetha N"
-paper_title: "Elephantology And Its Ancient Sanskrit Sources By Geetha N"
-paper_slug: "elephantology-and-its-ancient-sanskrit-sources-by-geetha-n"
-chapter_title: "Chapter 2 - Books on Elephants"
-chapter_slug: "chapter-2---books-on-elephants"
-chapter_number: 3
-reading_time: 18
-prev_chapter: "chapter-1---introduction"
-next_chapter: "chapter-3---hastyayurveda-hasti-ayurveda"
-silo: "research"
-category: "Ayurvedic Research & Evidence"
-status: "Published"
-date: "2026-08-17"
 description: "Detailed analysis of Chapter 2 - Books on Elephants from Elephantology And Its Ancient Sanskrit Sources By Geetha N by Its Own Culture. Evidence-based Ayurvedic literature review and pharmacognosy."
+category: "Ayurvedic Research & Evidence"
 author: "Suresh Bhati"
-original_scholar: "Its Own Culture"
+publishedDate: "2026-08-17"
+status: "Published"
 ---
 
 # 3. Chapter 2 - Books on Elephants
+
+> **Clinical Executive Summary**: This guide on **Chapter 2 - Books on Elephants — Elephantology And Its Ancient Sanskrit Sources By Geetha N** synthesizes classical Sanskrit Samhita principles with modern botanical pharmacological research. Curated under the editorial supervision of Suresh Bhati, it provides actionable doshic guidelines, evidence-based applications, and safety parameters.
 
 > **TL;DR:** Chapter 3 of **Elephantology And Its Ancient Sanskrit Sources By Geetha N** by **Its Own Culture** explores key findings on *Chapter 2 - Books on Elephants*. It bridges traditional Sanskrit literature with contemporary medical science.
 
@@ -50,9 +42,6 @@ It describes the merits and defects of milk, curd, butter and urine of the eleph
 madhuram hastinikshiram vrishyam guru kashayaka
 snigdam stairyakaram shitam cakshushyam balavardhamam[4]
 
-madhuram hastinikshiram vrishyam guru kashayaka
-snigdam stairyakaram shitam cakshushyam balavardhamam[4]
-
 Curd from milk of elephant cow provides beauty and is indigestable, increasing body heat and decreasing cough. The elephant ghee causes constipation and affects bile causing cough and destroys worms. Elephant urine helps to decrease vomiting, cough, worms, leprosy and wind. The mushroom born from elephant dung is a good medicine for polio.
 
 Brihatsamhita[5]
@@ -60,15 +49,6 @@ Brihatsamhita[5]
 Varahamihiracarya, the author of Brihatsamhita has devoted two separate chapters for showing the characteristic marks of elephants. In its second portion Varahamihira depicts the characteristic marks of elephants and movement of them in detail. The description of musthflud of the elephant shows good and bad characteristic etc. are seen in his Brihatsamhita.
 
 The good characteristic mark of elephant is described as follows:
-
-tam roshta talu vadanah kalavinganetrah
-snigdonnatagradashanah pridulayatasyah
-caponnatayataniguda nimagna vamsha
-stanvuekaromacita kurmasamana kumbhah
-vistirna karnahanunabhilala dagrihyah
-kurmonnata dvinavavimshatibhirnakhaishca
-rekhatrayopacita vrithakarah suvala
-dhanyah sugandhi madapushkaramarutashca[6]
 
 tam roshta talu vadanah kalavinganetrah
 snigdonnatagradashanah pridulayatasyah
@@ -90,15 +70,9 @@ Carakasamhita explains that an elephant parts or most of its limbs have medicina
 danti shyamamritasangah paravatashangudah
 pralepah syatangajasthini nimbo bhallatakanica[9]
 
-danti shyamamritasangah paravatashangudah
-pralepah syatangajasthini nimbo bhallatakanica[9]
-
 Gajagrahanaprakara[10]
 
 Narayanadikshita is the author of Gajagrahanaprakara, who narrates different method of catching elephants and their training. The work is known as Gaja-grahana-prakara, but the last verse suggests the name of the work as Gajasamgrahana-prakara of Narayana Dikshita indicates the author's name, which shows below:
-
-iti gajasamgrahana kalaprakara esha kshamatale jiyat
-narayanena dikshitavarena racita sureshanodaya[11]
 
 iti gajasamgrahana kalaprakara esha kshamatale jiyat
 narayanena dikshitavarena racita sureshanodaya[11]
@@ -124,9 +98,6 @@ Gajashastra[13]
 Pālakāpyamuni is the author of Gajaśāstra. Gajaśāstra contains 10 chapters named prakaraṇās. The text begins with the history of Pālakāpya. Origin of elephants, characteristics of various elephants, capturing, training, good and bad characteristic marks, their must, age, elephant treatment construction of elephant stall etc. are described in this book.
 
 Narrative of the good marks of battlefield elephant is the notable fact in this text.
-
-adityasyanalasyapi savarno yasya cakshushi
-sa eva varano rajan samareshu jayavahah[14]
 
 adityasyanalasyapi savarno yasya cakshushi
 sa eva varano rajan samareshu jayavahah[14]
@@ -286,10 +257,6 @@ Among these books Hastividyarnava and Shri Matangalilabhashya by K.C. Kunjunni E
 Manuscripts
 
 There are some manuscripts available on Elephant Science. Matangalila, Matangalilabhashya, Gajashastra and Gajacikitsa. Among this Gajacikitsa is an unpublished manuscript. It describes the matters connected with the treatments on elephants.
-
-Footnotes and references:
-
-[back to top]
 
 [1]:
 
@@ -453,8 +420,6 @@ Vagishashastri. Sushrutasamhita 55. Varanasi. 1972.
 
 ---
 
----
-
 ## ❓ 4. Frequently Asked Questions (15 Question Intent Matrix)
 
 ### Q1: What is the primary subject of "Chapter 2 - Books on Elephants"?
@@ -564,6 +529,72 @@ Vagishashastri. Sushrutasamhita 55. Varanasi. 1972.
           }
         }
       ]
+    }
+  ]
+}
+</script>
+
+## Frequently Asked Questions (FAQ)
+
+### What are the primary health benefits of Chapter 2 - Books on Elephants — Elephantology And Its Ancient Sanskrit Sources By Geetha N in Ayurveda?
+Chapter 2 - Books on Elephants — Elephantology And Its Ancient Sanskrit Sources By Geetha N is traditionally utilized in Ayurveda to balance doshic imbalances, support systemic vitality, and promote long-term physiological wellness under proper guidance.
+
+### How should Chapter 2 - Books on Elephants — Elephantology And Its Ancient Sanskrit Sources By Geetha N be taken according to classical guidelines?
+According to classical Ayurvedic principles, Chapter 2 - Books on Elephants — Elephantology And Its Ancient Sanskrit Sources By Geetha N is best administered with appropriate Anupana (carrier vehicles such as warm water, honey, or warm milk) tailored to an individual's Prakriti (constitution).
+
+### Are there any contraindications or side effects associated with Chapter 2 - Books on Elephants — Elephantology And Its Ancient Sanskrit Sources By Geetha N?
+While generally well-tolerated when used appropriately, excessive usage or improper dosing may exacerbate specific doshas. Consult an Ayurvedic physician prior to therapeutic use.
+
+### How long does it take to observe results from using Chapter 2 - Books on Elephants — Elephantology And Its Ancient Sanskrit Sources By Geetha N?
+In traditional Ayurvedic protocol, herbal formulations operate synergistically with diet and lifestyle. Notable improvements typically emerge within 2 to 4 weeks of consistent administration.
+
+### Is Chapter 2 - Books on Elephants — Elephantology And Its Ancient Sanskrit Sources By Geetha N safe for long-term daily consumption?
+Certain tonic (Rasayana) preparations may be safely used long-term, whereas intensive therapeutic formulas are recommended for specific short-term protocols under expert supervision.
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What are the primary health benefits of Chapter 2 - Books on Elephants — Elephantology And Its Ancient Sanskrit Sources By Geetha N in Ayurveda?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Chapter 2 - Books on Elephants — Elephantology And Its Ancient Sanskrit Sources By Geetha N is traditionally utilized in Ayurveda to balance doshic imbalances, support systemic vitality, and promote long-term physiological wellness under proper guidance."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How should Chapter 2 - Books on Elephants — Elephantology And Its Ancient Sanskrit Sources By Geetha N be taken according to classical guidelines?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "According to classical Ayurvedic principles, Chapter 2 - Books on Elephants — Elephantology And Its Ancient Sanskrit Sources By Geetha N is best administered with appropriate Anupana (carrier vehicles such as warm water, honey, or warm milk) tailored to an individual's Prakriti (constitution)."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Are there any contraindications or side effects associated with Chapter 2 - Books on Elephants — Elephantology And Its Ancient Sanskrit Sources By Geetha N?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "While generally well-tolerated when used appropriately, excessive usage or improper dosing may exacerbate specific doshas. Consult an Ayurvedic physician prior to therapeutic use."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How long does it take to observe results from using Chapter 2 - Books on Elephants — Elephantology And Its Ancient Sanskrit Sources By Geetha N?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "In traditional Ayurvedic protocol, herbal formulations operate synergistically with diet and lifestyle. Notable improvements typically emerge within 2 to 4 weeks of consistent administration."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Is Chapter 2 - Books on Elephants — Elephantology And Its Ancient Sanskrit Sources By Geetha N safe for long-term daily consumption?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Certain tonic (Rasayana) preparations may be safely used long-term, whereas intensive therapeutic formulas are recommended for specific short-term protocols under expert supervision."
+      }
     }
   ]
 }

@@ -9,19 +9,11 @@ date: "2026-08-17"
 description: "Samhita (by Caraka) deals with Ayurveda (also ‘the science of life’) and includes eight sections dealing with Sutrasthana (general principles), Nidanasthana (pathology), Vimanasthana (training), Sh..."
 ---
 
-**Author / Source:** by Shree Gulabkunverba Ayurvedic Society
-
-
-**Total Chapters/Sections:** 150
-
 ---
 
 ## 1. Sutrasthana (Sutra Sthana) — General Principles
 
-
 Charaka Samhita (English translation)
-
-by Shree Gulabkunverba Ayurvedic Society | 1949 | 383,279 words | ISBN-13: 9788176370813
 
 The English translation of the Charaka Samhita (by Caraka) deals with Ayurveda (also ‘the science of life’) and includes eight sections dealing with Sutrasthana (general principles), Nidanasthana (pathology), Vimanasthana (training), Sharirasthana (anatomy), Indriyasthana (sensory), Cikitsasthana (therapeutics), Kalpasthana (pharmaceutics) and Sidd...
 
@@ -33,10 +25,7 @@ Sutrasthana (Sutra Sthana) — General Principles
 
 ## 2. Chapter 5 - Measure in eating (matrashita)
 
-
 Charaka Samhita (English translation)
-
-by Shree Gulabkunverba Ayurvedic Society | 1949 | 383,279 words | ISBN-13: 9788176370813
 
 The English translation of the Charaka Samhita (by Caraka) deals with Ayurveda (also ‘the science of life’) and includes eight sections dealing with Sutrasthana (general principles), Nidanasthana (pathology), Vimanasthana (training), Sharirasthana (anatomy), Indriyasthana (sensory), Cikitsasthana (therapeutics), Kalpasthana (pharmaceutics) and Sidd...
 
@@ -328,10 +317,7 @@ Here are the recapitulatory verses:—
 
 ## 3. Chapter 3 - The Purging Cassia (aragvadha)
 
-
 Charaka Samhita (English translation)
-
-by Shree Gulabkunverba Ayurvedic Society | 1949 | 383,279 words | ISBN-13: 9788176370813
 
 The English translation of the Charaka Samhita (by Caraka) deals with Ayurveda (also ‘the science of life’) and includes eight sections dealing with Sutrasthana (general principles), Nidanasthana (pathology), Vimanasthana (training), Sharirasthana (anatomy), Indriyasthana (sensory), Cikitsasthana (therapeutics), Kalpasthana (pharmaceutics) and Sidd...
 
@@ -427,10 +413,7 @@ Here is the recapitulatory verse:—
 
 ## 4. Chapter 6 - The Seasonal Dietary and Regimen of Man (tasyashita)
 
-
 Charaka Samhita (English translation)
-
-by Shree Gulabkunverba Ayurvedic Society | 1949 | 383,279 words | ISBN-13: 9788176370813
 
 The English translation of the Charaka Samhita (by Caraka) deals with Ayurveda (also ‘the science of life’) and includes eight sections dealing with Sutrasthana (general principles), Nidanasthana (pathology), Vimanasthana (training), Sharirasthana (anatomy), Indriyasthana (sensory), Cikitsasthana (therapeutics), Kalpasthana (pharmaceutics) and Sidd...
 
@@ -572,10 +555,7 @@ Here is the recapitulatory verse:—
 
 ## 5. Chapter 7 - Natural urges (vega) should not be suppressed
 
-
 Charaka Samhita (English translation)
-
-by Shree Gulabkunverba Ayurvedic Society | 1949 | 383,279 words | ISBN-13: 9788176370813
 
 The English translation of the Charaka Samhita (by Caraka) deals with Ayurveda (also ‘the science of life’) and includes eight sections dealing with Sutrasthana (general principles), Nidanasthana (pathology), Vimanasthana (training), Sharirasthana (anatomy), Indriyasthana (sensory), Cikitsasthana (therapeutics), Kalpasthana (pharmaceutics) and Sidd...
 
@@ -799,10 +779,7 @@ The natural urges (vega), the diseases born of their suppression, their treatmen
 
 ## 6. Chapter 8 - The Discipline of the Senses (indriya-upakrama)
 
-
 Charaka Samhita (English translation)
-
-by Shree Gulabkunverba Ayurvedic Society | 1949 | 383,279 words | ISBN-13: 9788176370813
 
 The English translation of the Charaka Samhita (by Caraka) deals with Ayurveda (also ‘the science of life’) and includes eight sections dealing with Sutrasthana (general principles), Nidanasthana (pathology), Vimanasthana (training), Sharirasthana (anatomy), Indriyasthana (sensory), Cikitsasthana (therapeutics), Kalpasthana (pharmaceutics) and Sidd...
 
@@ -976,10 +953,7 @@ Atreya’s Opinion on the Subject
 
 ## 7. Chapter 9 - The (minor) Four Basic Factors of Therapeusis (Cikitsa)
 
-
 Charaka Samhita (English translation)
-
-by Shree Gulabkunverba Ayurvedic Society | 1949 | 383,279 words | ISBN-13: 9788176370813
 
 The English translation of the Charaka Samhita (by Caraka) deals with Ayurveda (also ‘the science of life’) and includes eight sections dealing with Sutrasthana (general principles), Nidanasthana (pathology), Vimanasthana (training), Sharirasthana (anatomy), Indriyasthana (sensory), Cikitsasthana (therapeutics), Kalpasthana (pharmaceutics) and Sidd...
 
@@ -1067,10 +1041,7 @@ Here are a couple of recapitulatory verses—
 
 ## 8. Chapter 10 - The (major) Fourfold Basic Factors in Therapeusis (Cikitsa)
 
-
 Charaka Samhita (English translation)
-
-by Shree Gulabkunverba Ayurvedic Society | 1949 | 383,279 words | ISBN-13: 9788176370813
 
 The English translation of the Charaka Samhita (by Caraka) deals with Ayurveda (also ‘the science of life’) and includes eight sections dealing with Sutrasthana (general principles), Nidanasthana (pathology), Vimanasthana (training), Sharirasthana (anatomy), Indriyasthana (sensory), Cikitsasthana (therapeutics), Kalpasthana (pharmaceutics) and Sidd...
 
@@ -1156,10 +1127,7 @@ Here are a couple of recapitulatory verses—
 
 ## 9. Chapter 11 - The Three Pursuits (eshana) of Man
 
-
 Charaka Samhita (English translation)
-
-by Shree Gulabkunverba Ayurvedic Society | 1949 | 383,279 words | ISBN-13: 9788176370813
 
 The English translation of the Charaka Samhita (by Caraka) deals with Ayurveda (also ‘the science of life’) and includes eight sections dealing with Sutrasthana (general principles), Nidanasthana (pathology), Vimanasthana (training), Sharirasthana (anatomy), Indriyasthana (sensory), Cikitsasthana (therapeutics), Kalpasthana (pharmaceutics) and Sidd...
 
@@ -1417,10 +1385,7 @@ Here are the two recapitulatory verses—
 
 ## 10. Chapter 13 - Oleation Therapy (Sneha)
 
-
 Charaka Samhita (English translation)
-
-by Shree Gulabkunverba Ayurvedic Society | 1949 | 383,279 words | ISBN-13: 9788176370813
 
 The English translation of the Charaka Samhita (by Caraka) deals with Ayurveda (also ‘the science of life’) and includes eight sections dealing with Sutrasthana (general principles), Nidanasthana (pathology), Vimanasthana (training), Sharirasthana (anatomy), Indriyasthana (sensory), Cikitsasthana (therapeutics), Kalpasthana (pharmaceutics) and Sidd...
 
@@ -1696,10 +1661,7 @@ Unctuous articles, the full procedure of oleation (sneha), the likely complicati
 
 ## 11. Chapter 12 - The Salutary and the Unsalutary influences of Vata
 
-
 Charaka Samhita (English translation)
-
-by Shree Gulabkunverba Ayurvedic Society | 1949 | 383,279 words | ISBN-13: 9788176370813
 
 The English translation of the Charaka Samhita (by Caraka) deals with Ayurveda (also ‘the science of life’) and includes eight sections dealing with Sutrasthana (general principles), Nidanasthana (pathology), Vimanasthana (training), Sharirasthana (anatomy), Indriyasthana (sensory), Cikitsasthana (therapeutics), Kalpasthana (pharmaceutics) and Sidd...
 
@@ -1815,10 +1777,7 @@ Here are the two recapitulatory verses:—
 
 ## 12. Chapter 14 - The Sudation Therapy (sveda)
 
-
 Charaka Samhita (English translation)
-
-by Shree Gulabkunverba Ayurvedic Society | 1949 | 383,279 words | ISBN-13: 9788176370813
 
 The English translation of the Charaka Samhita (by Caraka) deals with Ayurveda (also ‘the science of life’) and includes eight sections dealing with Sutrasthana (general principles), Nidanasthana (pathology), Vimanasthana (training), Sharirasthana (anatomy), Indriyasthana (sensory), Cikitsasthana (therapeutics), Kalpasthana (pharmaceutics) and Sidd...
 
@@ -2010,10 +1969,7 @@ Here are the recapitulatory verses:—
 
 ## 13. Chapter 15 - The Armamentarium (upakalpa) of the Physician
 
-
 Charaka Samhita (English translation)
-
-by Shree Gulabkunverba Ayurvedic Society | 1949 | 383,279 words | ISBN-13: 9788176370813
 
 The English translation of the Charaka Samhita (by Caraka) deals with Ayurveda (also ‘the science of life’) and includes eight sections dealing with Sutrasthana (general principles), Nidanasthana (pathology), Vimanasthana (training), Sharirasthana (anatomy), Indriyasthana (sensory), Cikitsasthana (therapeutics), Kalpasthana (pharmaceutics) and Sidd...
 
@@ -2165,10 +2121,7 @@ Here are the recapitulatory verses:—
 
 ## 14. Chapter 16 - The Fully Equipped Physician (Cikitsa-prabhrita)
 
-
 Charaka Samhita (English translation)
-
-by Shree Gulabkunverba Ayurvedic Society | 1949 | 383,279 words | ISBN-13: 9788176370813
 
 The English translation of the Charaka Samhita (by Caraka) deals with Ayurveda (also ‘the science of life’) and includes eight sections dealing with Sutrasthana (general principles), Nidanasthana (pathology), Vimanasthana (training), Sharirasthana (anatomy), Indriyasthana (sensory), Cikitsasthana (therapeutics), Kalpasthana (pharmaceutics) and Sidd...
 
@@ -2290,10 +2243,7 @@ Here are the recapitulatory verses:—
 
 ## 15. Chapter 17 - The diseases of the head (shiroroga) and of the heart (hridroga)
 
-
 Charaka Samhita (English translation)
-
-by Shree Gulabkunverba Ayurvedic Society | 1949 | 383,279 words | ISBN-13: 9788176370813
 
 The English translation of the Charaka Samhita (by Caraka) deals with Ayurveda (also ‘the science of life’) and includes eight sections dealing with Sutrasthana (general principles), Nidanasthana (pathology), Vimanasthana (training), Sharirasthana (anatomy), Indriyasthana (sensory), Cikitsasthana (therapeutics), Kalpasthana (pharmaceutics) and Sidd...
 
@@ -2593,10 +2543,7 @@ Here are the two recapitulatory verses:—
 
 ## 16. Chapter 18 - The Three Kinds of Edema (shotha)
 
-
 Charaka Samhita (English translation)
-
-by Shree Gulabkunverba Ayurvedic Society | 1949 | 383,279 words | ISBN-13: 9788176370813
 
 The English translation of the Charaka Samhita (by Caraka) deals with Ayurveda (also ‘the science of life’) and includes eight sections dealing with Sutrasthana (general principles), Nidanasthana (pathology), Vimanasthana (training), Sharirasthana (anatomy), Indriyasthana (sensory), Cikitsasthana (therapeutics), Kalpasthana (pharmaceutics) and Sidd...
 
@@ -2802,10 +2749,7 @@ Here are the recapitulatory verses:—
 
 ## 17. Chapter 19 - The Eight Abdominal affections (udara-roga)
 
-
 Charaka Samhita (English translation)
-
-by Shree Gulabkunverba Ayurvedic Society | 1949 | 383,279 words | ISBN-13: 9788176370813
 
 The English translation of the Charaka Samhita (by Caraka) deals with Ayurveda (also ‘the science of life’) and includes eight sections dealing with Sutrasthana (general principles), Nidanasthana (pathology), Vimanasthana (training), Sharirasthana (anatomy), Indriyasthana (sensory), Cikitsasthana (therapeutics), Kalpasthana (pharmaceutics) and Sidd...
 
@@ -2941,10 +2885,7 @@ Here are the two recapitulatory verses—
 
 ## 18. Chapter 20 - The Major List of Diseases (maharoga)
 
-
 Charaka Samhita (English translation)
-
-by Shree Gulabkunverba Ayurvedic Society | 1949 | 383,279 words | ISBN-13: 9788176370813
 
 The English translation of the Charaka Samhita (by Caraka) deals with Ayurveda (also ‘the science of life’) and includes eight sections dealing with Sutrasthana (general principles), Nidanasthana (pathology), Vimanasthana (training), Sharirasthana (anatomy), Indriyasthana (sensory), Cikitsasthana (therapeutics), Kalpasthana (pharmaceutics) and Sidd...
 
@@ -3104,10 +3045,7 @@ Here are the recapitulatory verses—
 
 ## 19. Chapter 21 - The Eight Censured Persons (Nindita Purusha)
 
-
 Charaka Samhita (English translation)
-
-by Shree Gulabkunverba Ayurvedic Society | 1949 | 383,279 words | ISBN-13: 9788176370813
 
 The English translation of the Charaka Samhita (by Caraka) deals with Ayurveda (also ‘the science of life’) and includes eight sections dealing with Sutrasthana (general principles), Nidanasthana (pathology), Vimanasthana (training), Sharirasthana (anatomy), Indriyasthana (sensory), Cikitsasthana (therapeutics), Kalpasthana (pharmaceutics) and Sidd...
 
@@ -3265,10 +3203,7 @@ Here are the recapitulatory verses—
 
 ## 20. Chapter 22 - Lightening (langhana) and Roborant (brimhana) Therapies
 
-
 Charaka Samhita (English translation)
-
-by Shree Gulabkunverba Ayurvedic Society | 1949 | 383,279 words | ISBN-13: 9788176370813
 
 The English translation of the Charaka Samhita (by Caraka) deals with Ayurveda (also ‘the science of life’) and includes eight sections dealing with Sutrasthana (general principles), Nidanasthana (pathology), Vimanasthana (training), Sharirasthana (anatomy), Indriyasthana (sensory), Cikitsasthana (therapeutics), Kalpasthana (pharmaceutics) and Sidd...
 
@@ -3408,10 +3343,7 @@ Here is the recapitulatory verse—
 
 ## 21. Chapter 23 - Impletion therapy (Santarpana)
 
-
 Charaka Samhita (English translation)
-
-by Shree Gulabkunverba Ayurvedic Society | 1949 | 383,279 words | ISBN-13: 9788176370813
 
 The English translation of the Charaka Samhita (by Caraka) deals with Ayurveda (also ‘the science of life’) and includes eight sections dealing with Sutrasthana (general principles), Nidanasthana (pathology), Vimanasthana (training), Sharirasthana (anatomy), Indriyasthana (sensory), Cikitsasthana (therapeutics), Kalpasthana (pharmaceutics) and Sidd...
 
@@ -3489,10 +3421,7 @@ Here is the recapitulatory verse:—
 
 ## 22. Chapter 24 - The Blood derived through Systematic Regimen (Vidhi-shonita)
 
-
 Charaka Samhita (English translation)
-
-by Shree Gulabkunverba Ayurvedic Society | 1949 | 383,279 words | ISBN-13: 9788176370813
 
 The English translation of the Charaka Samhita (by Caraka) deals with Ayurveda (also ‘the science of life’) and includes eight sections dealing with Sutrasthana (general principles), Nidanasthana (pathology), Vimanasthana (training), Sharirasthana (anatomy), Indriyasthana (sensory), Cikitsasthana (therapeutics), Kalpasthana (pharmaceutics) and Sidd...
 
@@ -3614,10 +3543,7 @@ Here are the two recapitulatory verses.
 
 ## 23. Chapter 25 - The Origin of Man and Disease (Purusha-samjnaka)
 
-
 Charaka Samhita (English translation)
-
-by Shree Gulabkunverba Ayurvedic Society | 1949 | 383,279 words | ISBN-13: 9788176370813
 
 The English translation of the Charaka Samhita (by Caraka) deals with Ayurveda (also ‘the science of life’) and includes eight sections dealing with Sutrasthana (general principles), Nidanasthana (pathology), Vimanasthana (training), Sharirasthana (anatomy), Indriyasthana (sensory), Cikitsasthana (therapeutics), Kalpasthana (pharmaceutics) and Sidd...
 
@@ -3809,10 +3735,7 @@ Here is the recapitulatory verse:—
 
 ## 24. Chapter 26 - Discussion among Sages regarding Tastes (Rasa)
 
-
 Charaka Samhita (English translation)
-
-by Shree Gulabkunverba Ayurvedic Society | 1949 | 383,279 words | ISBN-13: 9788176370813
 
 The English translation of the Charaka Samhita (by Caraka) deals with Ayurveda (also ‘the science of life’) and includes eight sections dealing with Sutrasthana (general principles), Nidanasthana (pathology), Vimanasthana (training), Sharirasthana (anatomy), Indriyasthana (sensory), Cikitsasthana (therapeutics), Kalpasthana (pharmaceutics) and Sidd...
 
@@ -4234,10 +4157,7 @@ Here are the recapitulatory verses:—
 
 ## 25. Chapter 27 - Diet and Dietetics (Annapana-vidhi)
 
-
 Charaka Samhita (English translation)
-
-by Shree Gulabkunverba Ayurvedic Society | 1949 | 383,279 words | ISBN-13: 9788176370813
 
 The English translation of the Charaka Samhita (by Caraka) deals with Ayurveda (also ‘the science of life’) and includes eight sections dealing with Sutrasthana (general principles), Nidanasthana (pathology), Vimanasthana (training), Sharirasthana (anatomy), Indriyasthana (sensory), Cikitsasthana (therapeutics), Kalpasthana (pharmaceutics) and Sidd...
 
@@ -4423,10 +4343,7 @@ Here is the recapitulatory verse:—
 
 ## 26. Chapter 27a - The group of awned cereals (Shukadhanya—monocotyledons)
 
-
 Charaka Samhita (English translation)
-
-by Shree Gulabkunverba Ayurvedic Society | 1949 | 383,279 words | ISBN-13: 9788176370813
 
 The English translation of the Charaka Samhita (by Caraka) deals with Ayurveda (also ‘the science of life’) and includes eight sections dealing with Sutrasthana (general principles), Nidanasthana (pathology), Vimanasthana (training), Sharirasthana (anatomy), Indriyasthana (sensory), Cikitsasthana (therapeutics), Kalpasthana (pharmaceutics) and Sidd...
 
@@ -4484,10 +4401,7 @@ The Qualities of Nandimukhi and Madhuli Varieties of grain
 
 ## 27. Chapter 27b - The group of pulses (Shamidhanya—dicotyledons)
 
-
 Charaka Samhita (English translation)
-
-by Shree Gulabkunverba Ayurvedic Society | 1949 | 383,279 words | ISBN-13: 9788176370813
 
 The English translation of the Charaka Samhita (by Caraka) deals with Ayurveda (also ‘the science of life’) and includes eight sections dealing with Sutrasthana (general principles), Nidanasthana (pathology), Vimanasthana (training), Sharirasthana (anatomy), Indriyasthana (sensory), Cikitsasthana (therapeutics), Kalpasthana (pharmaceutics) and Sidd...
 
@@ -4545,10 +4459,7 @@ The qualities Sword bean, Linseed And Cewage
 
 ## 28. Chapter 27c - The group of meats (Mamsa)
 
-
 Charaka Samhita (English translation)
-
-by Shree Gulabkunverba Ayurvedic Society | 1949 | 383,279 words | ISBN-13: 9788176370813
 
 The English translation of the Charaka Samhita (by Caraka) deals with Ayurveda (also ‘the science of life’) and includes eight sections dealing with Sutrasthana (general principles), Nidanasthana (pathology), Vimanasthana (training), Sharirasthana (anatomy), Indriyasthana (sensory), Cikitsasthana (therapeutics), Kalpasthana (pharmaceutics) and Sidd...
 
@@ -4684,10 +4595,7 @@ The qualities of swan-eggs
 
 ## 29. Chapter 27d - The group of vegetables (Shaka)
 
-
 Charaka Samhita (English translation)
-
-by Shree Gulabkunverba Ayurvedic Society | 1949 | 383,279 words | ISBN-13: 9788176370813
 
 The English translation of the Charaka Samhita (by Caraka) deals with Ayurveda (also ‘the science of life’) and includes eight sections dealing with Sutrasthana (general principles), Nidanasthana (pathology), Vimanasthana (training), Sharirasthana (anatomy), Indriyasthana (sensory), Cikitsasthana (therapeutics), Kalpasthana (pharmaceutics) and Sidd...
 
@@ -4809,10 +4717,7 @@ The qualities of Mushroom
 
 ## 30. Chapter 27e - The group of Fruits (Phala)
 
-
 Charaka Samhita (English translation)
-
-by Shree Gulabkunverba Ayurvedic Society | 1949 | 383,279 words | ISBN-13: 9788176370813
 
 The English translation of the Charaka Samhita (by Caraka) deals with Ayurveda (also ‘the science of life’) and includes eight sections dealing with Sutrasthana (general principles), Nidanasthana (pathology), Vimanasthana (training), Sharirasthana (anatomy), Indriyasthana (sensory), Cikitsasthana (therapeutics), Kalpasthana (pharmaceutics) and Sidd...
 
@@ -4956,10 +4861,7 @@ The Qualities of Marking nut
 
 ## 31. Chapter 27f - The group of Greens (Harita)
 
-
 Charaka Samhita (English translation)
-
-by Shree Gulabkunverba Ayurvedic Society | 1949 | 383,279 words | ISBN-13: 9788176370813
 
 The English translation of the Charaka Samhita (by Caraka) deals with Ayurveda (also ‘the science of life’) and includes eight sections dealing with Sutrasthana (general principles), Nidanasthana (pathology), Vimanasthana (training), Sharirasthana (anatomy), Indriyasthana (sensory), Cikitsasthana (therapeutics), Kalpasthana (pharmaceutics) and Sidd...
 
@@ -5017,10 +4919,7 @@ The Qualities of Garlic
 
 ## 32. Chapter 27g - The group of Wines (Madya)
 
-
 Charaka Samhita (English translation)
-
-by Shree Gulabkunverba Ayurvedic Society | 1949 | 383,279 words | ISBN-13: 9788176370813
 
 The English translation of the Charaka Samhita (by Caraka) deals with Ayurveda (also ‘the science of life’) and includes eight sections dealing with Sutrasthana (general principles), Nidanasthana (pathology), Vimanasthana (training), Sharirasthana (anatomy), Indriyasthana (sensory), Cikitsasthana (therapeutics), Kalpasthana (pharmaceutics) and Sidd...
 
@@ -5098,10 +4997,7 @@ Thus, the seventh section concerning wines (Madya—madyavarga) has been describ
 
 ## 33. Chapter 27h - The section on Waters (Jala)
 
-
 Charaka Samhita (English translation)
-
-by Shree Gulabkunverba Ayurvedic Society | 1949 | 383,279 words | ISBN-13: 9788176370813
 
 The English translation of the Charaka Samhita (by Caraka) deals with Ayurveda (also ‘the science of life’) and includes eight sections dealing with Sutrasthana (general principles), Nidanasthana (pathology), Vimanasthana (training), Sharirasthana (anatomy), Indriyasthana (sensory), Cikitsasthana (therapeutics), Kalpasthana (pharmaceutics) and Sidd...
 
@@ -5169,10 +5065,7 @@ Unwholesome waters
 
 ## 34. Chapter 27i - The section on Cow’s milk (Gorasa)
 
-
 Charaka Samhita (English translation)
-
-by Shree Gulabkunverba Ayurvedic Society | 1949 | 383,279 words | ISBN-13: 9788176370813
 
 The English translation of the Charaka Samhita (by Caraka) deals with Ayurveda (also ‘the science of life’) and includes eight sections dealing with Sutrasthana (general principles), Nidanasthana (pathology), Vimanasthana (training), Sharirasthana (anatomy), Indriyasthana (sensory), Cikitsasthana (therapeutics), Kalpasthana (pharmaceutics) and Sidd...
 
@@ -5246,10 +5139,7 @@ The qualities of Curds-Cheese
 
 ## 35. Chapter 27j - The class of Sugarcane (Ikshu)
 
-
 Charaka Samhita (English translation)
-
-by Shree Gulabkunverba Ayurvedic Society | 1949 | 383,279 words | ISBN-13: 9788176370813
 
 The English translation of the Charaka Samhita (by Caraka) deals with Ayurveda (also ‘the science of life’) and includes eight sections dealing with Sutrasthana (general principles), Nidanasthana (pathology), Vimanasthana (training), Sharirasthana (anatomy), Indriyasthana (sensory), Cikitsasthana (therapeutics), Kalpasthana (pharmaceutics) and Sidd...
 
@@ -5303,10 +5193,7 @@ Honey as a Vehicle
 
 ## 36. Chapter 27k - The group of Cooked foods (Kritanna)
 
-
 Charaka Samhita (English translation)
-
-by Shree Gulabkunverba Ayurvedic Society | 1949 | 383,279 words | ISBN-13: 9788176370813
 
 The English translation of the Charaka Samhita (by Caraka) deals with Ayurveda (also ‘the science of life’) and includes eight sections dealing with Sutrasthana (general principles), Nidanasthana (pathology), Vimanasthana (training), Sharirasthana (anatomy), Indriyasthana (sensory), Cikitsasthana (therapeutics), Kalpasthana (pharmaceutics) and Sidd...
 
@@ -5440,10 +5327,7 @@ The qualities of Shindaki and other fermented sour beverages.
 
 ## 37. Chapter 27l - The section on the articles used in cooked foods (Aharayogi)
 
-
 Charaka Samhita (English translation)
-
-by Shree Gulabkunverba Ayurvedic Society | 1949 | 383,279 words | ISBN-13: 9788176370813
 
 The English translation of the Charaka Samhita (by Caraka) deals with Ayurveda (also ‘the science of life’) and includes eight sections dealing with Sutrasthana (general principles), Nidanasthana (pathology), Vimanasthana (training), Sharirasthana (anatomy), Indriyasthana (sensory), Cikitsasthana (therapeutics), Kalpasthana (pharmaceutics) and Sidd...
 
@@ -5539,10 +5423,7 @@ The qualities of Celery, Black cumin Bishop’s weed, Coriander and indian tooth
 
 ## 38. Chapter 28 - The Various kinds of Food and Drink (Ashita-Pita)
 
-
 Charaka Samhita (English translation)
-
-by Shree Gulabkunverba Ayurvedic Society | 1949 | 383,279 words | ISBN-13: 9788176370813
 
 The English translation of the Charaka Samhita (by Caraka) deals with Ayurveda (also ‘the science of life’) and includes eight sections dealing with Sutrasthana (general principles), Nidanasthana (pathology), Vimanasthana (training), Sharirasthana (anatomy), Indriyasthana (sensory), Cikitsasthana (therapeutics), Kalpasthana (pharmaceutics) and Sidd...
 
@@ -5688,10 +5569,7 @@ Here are the recapitulatory verses:—
 
 ## 39. Chapter 29 - The Ten Resorts of Life (Dasha-Prana-Ayatana)
 
-
 Charaka Samhita (English translation)
-
-by Shree Gulabkunverba Ayurvedic Society | 1949 | 383,279 words | ISBN-13: 9788176370813
 
 The English translation of the Charaka Samhita (by Caraka) deals with Ayurveda (also ‘the science of life’) and includes eight sections dealing with Sutrasthana (general principles), Nidanasthana (pathology), Vimanasthana (training), Sharirasthana (anatomy), Indriyasthana (sensory), Cikitsasthana (therapeutics), Kalpasthana (pharmaceutics) and Sidd...
 
@@ -5765,10 +5643,7 @@ Here is the recapitulatory verse—
 
 ## 40. Chapter 30a - The Ten Great-rooted Arteries (Dasha-mahamula) in the Heart (Artha)
 
-
 Charaka Samhita (English translation)
-
-by Shree Gulabkunverba Ayurvedic Society | 1949 | 383,279 words | ISBN-13: 9788176370813
 
 The English translation of the Charaka Samhita (by Caraka) deals with Ayurveda (also ‘the science of life’) and includes eight sections dealing with Sutrasthana (general principles), Nidanasthana (pathology), Vimanasthana (training), Sharirasthana (anatomy), Indriyasthana (sensory), Cikitsasthana (therapeutics), Kalpasthana (pharmaceutics) and Sidd...
 
@@ -5812,10 +5687,7 @@ Things to be practised and avoided in the protection of the heart etc.
 
 ## 41. Nidanasthana (Nidana Sthana) — Section on Pathology
 
-
 Charaka Samhita (English translation)
-
-by Shree Gulabkunverba Ayurvedic Society | 1949 | 383,279 words | ISBN-13: 9788176370813
 
 The English translation of the Charaka Samhita (by Caraka) deals with Ayurveda (also ‘the science of life’) and includes eight sections dealing with Sutrasthana (general principles), Nidanasthana (pathology), Vimanasthana (training), Sharirasthana (anatomy), Indriyasthana (sensory), Cikitsasthana (therapeutics), Kalpasthana (pharmaceutics) and Sidd...
 
@@ -5829,10 +5701,7 @@ Note.—The word pathology [i.e., nidana] here signifies the Science treating of
 
 ## 42. Chapter 30b - Definition of Ayurveda (‘the science of life’)
 
-
 Charaka Samhita (English translation)
-
-by Shree Gulabkunverba Ayurvedic Society | 1949 | 383,279 words | ISBN-13: 9788176370813
 
 The English translation of the Charaka Samhita (by Caraka) deals with Ayurveda (also ‘the science of life’) and includes eight sections dealing with Sutrasthana (general principles), Nidanasthana (pathology), Vimanasthana (training), Sharirasthana (anatomy), Indriyasthana (sensory), Cikitsasthana (therapeutics), Kalpasthana (pharmaceutics) and Sidd...
 
@@ -6018,10 +5887,7 @@ Here are the recapitulatory verses:—
 
 ## 43. Chapter 4 - Six Hundred Purgative Preparations (virecana-ashraya)
 
-
 Charaka Samhita (English translation)
-
-by Shree Gulabkunverba Ayurvedic Society | 1949 | 383,279 words | ISBN-13: 9788176370813
 
 The English translation of the Charaka Samhita (by Caraka) deals with Ayurveda (also ‘the science of life’) and includes eight sections dealing with Sutrasthana (general principles), Nidanasthana (pathology), Vimanasthana (training), Sharirasthana (anatomy), Indriyasthana (sensory), Cikitsasthana (therapeutics), Kalpasthana (pharmaceutics) and Sidd...
 
@@ -6351,10 +6217,7 @@ Thus ends the tetrad of chapters on drugs.
 
 ## 44. Chapter 1 - The Pathology of Fever (jvara-nidana)
 
-
 Charaka Samhita (English translation)
-
-by Shree Gulabkunverba Ayurvedic Society | 1949 | 383,279 words | ISBN-13: 9788176370813
 
 The English translation of the Charaka Samhita (by Caraka) deals with Ayurveda (also ‘the science of life’) and includes eight sections dealing with Sutrasthana (general principles), Nidanasthana (pathology), Vimanasthana (training), Sharirasthana (anatomy), Indriyasthana (sensory), Cikitsasthana (therapeutics), Kalpasthana (pharmaceutics) and Sidd...
 
@@ -6518,10 +6381,7 @@ Here are the recapitulatory verses—
 
 ## 45. Chapter 2 - The Pathology of Hemothermia (raktapitta-nidana)
 
-
 Charaka Samhita (English translation)
-
-by Shree Gulabkunverba Ayurvedic Society | 1949 | 383,279 words | ISBN-13: 9788176370813
 
 The English translation of the Charaka Samhita (by Caraka) deals with Ayurveda (also ‘the science of life’) and includes eight sections dealing with Sutrasthana (general principles), Nidanasthana (pathology), Vimanasthana (training), Sharirasthana (anatomy), Indriyasthana (sensory), Cikitsasthana (therapeutics), Kalpasthana (pharmaceutics) and Sidd...
 
@@ -6621,10 +6481,7 @@ Here are the two recapitulatory verses—
 
 ## 46. Chapter 4 - Anomalies of Urinary Secretion (prameha-nidana)
 
-
 Charaka Samhita (English translation)
-
-by Shree Gulabkunverba Ayurvedic Society | 1949 | 383,279 words | ISBN-13: 9788176370813
 
 The English translation of the Charaka Samhita (by Caraka) deals with Ayurveda (also ‘the science of life’) and includes eight sections dealing with Sutrasthana (general principles), Nidanasthana (pathology), Vimanasthana (training), Sharirasthana (anatomy), Indriyasthana (sensory), Cikitsasthana (therapeutics), Kalpasthana (pharmaceutics) and Sidd...
 
@@ -6806,10 +6663,7 @@ Here are the recapitulatory verses—
 
 ## 47. Chapter 5 - The Pathology of Dermatosis (kushtha-nidana)
 
-
 Charaka Samhita (English translation)
-
-by Shree Gulabkunverba Ayurvedic Society | 1949 | 383,279 words | ISBN-13: 9788176370813
 
 The English translation of the Charaka Samhita (by Caraka) deals with Ayurveda (also ‘the science of life’) and includes eight sections dealing with Sutrasthana (general principles), Nidanasthana (pathology), Vimanasthana (training), Sharirasthana (anatomy), Indriyasthana (sensory), Cikitsasthana (therapeutics), Kalpasthana (pharmaceutics) and Sidd...
 
@@ -6903,10 +6757,7 @@ Here is the recapitulatory verse—
 
 ## 48. Chapter 6 - The Pathology of Consumption (shosha-nidana)
 
-
 Charaka Samhita (English translation)
-
-by Shree Gulabkunverba Ayurvedic Society | 1949 | 383,279 words | ISBN-13: 9788176370813
 
 The English translation of the Charaka Samhita (by Caraka) deals with Ayurveda (also ‘the science of life’) and includes eight sections dealing with Sutrasthana (general principles), Nidanasthana (pathology), Vimanasthana (training), Sharirasthana (anatomy), Indriyasthana (sensory), Cikitsasthana (therapeutics), Kalpasthana (pharmaceutics) and Sidd...
 
@@ -6996,10 +6847,7 @@ Here is the recapitulatory verse—
 
 ## 49. Chapter 7 - The Pathology of Insanity (unmada-nidana)
 
-
 Charaka Samhita (English translation)
-
-by Shree Gulabkunverba Ayurvedic Society | 1949 | 383,279 words | ISBN-13: 9788176370813
 
 The English translation of the Charaka Samhita (by Caraka) deals with Ayurveda (also ‘the science of life’) and includes eight sections dealing with Sutrasthana (general principles), Nidanasthana (pathology), Vimanasthana (training), Sharirasthana (anatomy), Indriyasthana (sensory), Cikitsasthana (therapeutics), Kalpasthana (pharmaceutics) and Sidd...
 
@@ -7109,10 +6957,7 @@ Here is the recapitulatory verse -
 
 ## 50. Chapter 8 - The Pathology of Epilepsy (apasmara-nidana)
 
-
 Charaka Samhita (English translation)
-
-by Shree Gulabkunverba Ayurvedic Society | 1949 | 383,279 words | ISBN-13: 9788176370813
 
 The English translation of the Charaka Samhita (by Caraka) deals with Ayurveda (also ‘the science of life’) and includes eight sections dealing with Sutrasthana (general principles), Nidanasthana (pathology), Vimanasthana (training), Sharirasthana (anatomy), Indriyasthana (sensory), Cikitsasthana (therapeutics), Kalpasthana (pharmaceutics) and Sidd...
 
@@ -7248,10 +7093,7 @@ Thus ends the Section on Pathology.
 
 ## 51. Vimanasthana (Vimana Sthana) — Section on Measure
 
-
 Charaka Samhita (English translation)
-
-by Shree Gulabkunverba Ayurvedic Society | 1949 | 383,279 words | ISBN-13: 9788176370813
 
 The English translation of the Charaka Samhita (by Caraka) deals with Ayurveda (also ‘the science of life’) and includes eight sections dealing with Sutrasthana (general principles), Nidanasthana (pathology), Vimanasthana (training), Sharirasthana (anatomy), Indriyasthana (sensory), Cikitsasthana (therapeutics), Kalpasthana (pharmaceutics) and Sidd...
 
@@ -7263,10 +7105,7 @@ Vimanasthana (Vimana Sthana) — Section on Measure
 
 ## 52. Chapter 1 - The Measure of Tastes (rasa-vimana)
 
-
 Charaka Samhita (English translation)
-
-by Shree Gulabkunverba Ayurvedic Society | 1949 | 383,279 words | ISBN-13: 9788176370813
 
 The English translation of the Charaka Samhita (by Caraka) deals with Ayurveda (also ‘the science of life’) and includes eight sections dealing with Sutrasthana (general principles), Nidanasthana (pathology), Vimanasthana (training), Sharirasthana (anatomy), Indriyasthana (sensory), Cikitsasthana (therapeutics), Kalpasthana (pharmaceutics) and Sidd...
 
@@ -7416,10 +7255,7 @@ Here are the two recapitulatory verses—
 
 ## 53. Chapter 2 - The Measure of the Stomach Capacity (kukshi-vimana)
 
-
 Charaka Samhita (English translation)
-
-by Shree Gulabkunverba Ayurvedic Society | 1949 | 383,279 words | ISBN-13: 9788176370813
 
 The English translation of the Charaka Samhita (by Caraka) deals with Ayurveda (also ‘the science of life’) and includes eight sections dealing with Sutrasthana (general principles), Nidanasthana (pathology), Vimanasthana (training), Sharirasthana (anatomy), Indriyasthana (sensory), Cikitsasthana (therapeutics), Kalpasthana (pharmaceutics) and Sidd...
 
@@ -7523,10 +7359,7 @@ Here is the recapitulatory verse—
 
 ## 54. Chapter 3 - The Measure of Depopulation through Epidemics (uddhvamsa-vimana)
 
-
 Charaka Samhita (English translation)
-
-by Shree Gulabkunverba Ayurvedic Society | 1949 | 383,279 words | ISBN-13: 9788176370813
 
 The English translation of the Charaka Samhita (by Caraka) deals with Ayurveda (also ‘the science of life’) and includes eight sections dealing with Sutrasthana (general principles), Nidanasthana (pathology), Vimanasthana (training), Sharirasthana (anatomy), Indriyasthana (sensory), Cikitsasthana (therapeutics), Kalpasthana (pharmaceutics) and Sidd...
 
@@ -7732,10 +7565,7 @@ Here are the recapitulatory verses—
 
 ## 55. Chapter 4 - The Three methods of investigation (trividha-vimana)
 
-
 Charaka Samhita (English translation)
-
-by Shree Gulabkunverba Ayurvedic Society | 1949 | 383,279 words | ISBN-13: 9788176370813
 
 The English translation of the Charaka Samhita (by Caraka) deals with Ayurveda (also ‘the science of life’) and includes eight sections dealing with Sutrasthana (general principles), Nidanasthana (pathology), Vimanasthana (training), Sharirasthana (anatomy), Indriyasthana (sensory), Cikitsasthana (therapeutics), Kalpasthana (pharmaceutics) and Sidd...
 
@@ -7809,10 +7639,7 @@ Here are the two recapitulatory verses—
 
 ## 56. Chapter 5 - Body-channels (srotas-vimana)
 
-
 Charaka Samhita (English translation)
-
-by Shree Gulabkunverba Ayurvedic Society | 1949 | 383,279 words | ISBN-13: 9788176370813
 
 The English translation of the Charaka Samhita (by Caraka) deals with Ayurveda (also ‘the science of life’) and includes eight sections dealing with Sutrasthana (general principles), Nidanasthana (pathology), Vimanasthana (training), Sharirasthana (anatomy), Indriyasthana (sensory), Cikitsasthana (therapeutics), Kalpasthana (pharmaceutics) and Sidd...
 
@@ -7952,10 +7779,7 @@ Here are the recapitulatory verses—
 
 ## 57. Chapter 6 - Nosology (roganika-vimana)
 
-
 Charaka Samhita (English translation)
-
-by Shree Gulabkunverba Ayurvedic Society | 1949 | 383,279 words | ISBN-13: 9788176370813
 
 The English translation of the Charaka Samhita (by Caraka) deals with Ayurveda (also ‘the science of life’) and includes eight sections dealing with Sutrasthana (general principles), Nidanasthana (pathology), Vimanasthana (training), Sharirasthana (anatomy), Indriyasthana (sensory), Cikitsasthana (therapeutics), Kalpasthana (pharmaceutics) and Sidd...
 
@@ -8071,10 +7895,7 @@ Here are the recapitulatory verses—
 
 ## 58. Chapter 7 - The Appearance of the Diseased Patient (vyadhita-rupin)
 
-
 Charaka Samhita (English translation)
-
-by Shree Gulabkunverba Ayurvedic Society | 1949 | 383,279 words | ISBN-13: 9788176370813
 
 The English translation of the Charaka Samhita (by Caraka) deals with Ayurveda (also ‘the science of life’) and includes eight sections dealing with Sutrasthana (general principles), Nidanasthana (pathology), Vimanasthana (training), Sharirasthana (anatomy), Indriyasthana (sensory), Cikitsasthana (therapeutics), Kalpasthana (pharmaceutics) and Sidd...
 
@@ -8210,10 +8031,7 @@ Here are the two recapitulatory verses—
 
 ## 59. Sharirasthana (Sharira Sthana) — Section on Human Embodiment
 
-
 Charaka Samhita (English translation)
-
-by Shree Gulabkunverba Ayurvedic Society | 1949 | 383,279 words | ISBN-13: 9788176370813
 
 The English translation of the Charaka Samhita (by Caraka) deals with Ayurveda (also ‘the science of life’) and includes eight sections dealing with Sutrasthana (general principles), Nidanasthana (pathology), Vimanasthana (training), Sharirasthana (anatomy), Indriyasthana (sensory), Cikitsasthana (therapeutics), Kalpasthana (pharmaceutics) and Sidd...
 
@@ -8225,10 +8043,7 @@ Sharirasthana (Sharira Sthana) — Section on Human Embodiment
 
 ## 60. Chapter 8 - The Treatment of Disease (roga-bhishaj-jiti-vimana)
 
-
 Charaka Samhita (English translation)
-
-by Shree Gulabkunverba Ayurvedic Society | 1949 | 383,279 words | ISBN-13: 9788176370813
 
 The English translation of the Charaka Samhita (by Caraka) deals with Ayurveda (also ‘the science of life’) and includes eight sections dealing with Sutrasthana (general principles), Nidanasthana (pathology), Vimanasthana (training), Sharirasthana (anatomy), Indriyasthana (sensory), Cikitsasthana (therapeutics), Kalpasthana (pharmaceutics) and Sidd...
 
@@ -8930,10 +8745,7 @@ Here are the recapitulatory verses—
 
 ## 61. Chapter 1 - The classifications of man (purusha)
 
-
 Charaka Samhita (English translation)
-
-by Shree Gulabkunverba Ayurvedic Society | 1949 | 383,279 words | ISBN-13: 9788176370813
 
 The English translation of the Charaka Samhita (by Caraka) deals with Ayurveda (also ‘the science of life’) and includes eight sections dealing with Sutrasthana (general principles), Nidanasthana (pathology), Vimanasthana (training), Sharirasthana (anatomy), Indriyasthana (sensory), Cikitsasthana (therapeutics), Kalpasthana (pharmaceutics) and Sidd...
 
@@ -9267,10 +9079,7 @@ Here is the recapitulatory verse—
 
 ## 62. Chapter 2 - The Exogamous Union (atulya-gotra)
 
-
 Charaka Samhita (English translation)
-
-by Shree Gulabkunverba Ayurvedic Society | 1949 | 383,279 words | ISBN-13: 9788176370813
 
 The English translation of the Charaka Samhita (by Caraka) deals with Ayurveda (also ‘the science of life’) and includes eight sections dealing with Sutrasthana (general principles), Nidanasthana (pathology), Vimanasthana (training), Sharirasthana (anatomy), Indriyasthana (sensory), Cikitsasthana (therapeutics), Kalpasthana (pharmaceutics) and Sidd...
 
@@ -9410,10 +9219,7 @@ Here is the recapitulatory verse—
 
 ## 63. Chapter 4 - The major chapter on the Formation of the Fetus (garbha-avakranti)
 
-
 Charaka Samhita (English translation)
-
-by Shree Gulabkunverba Ayurvedic Society | 1949 | 383,279 words | ISBN-13: 9788176370813
 
 The English translation of the Charaka Samhita (by Caraka) deals with Ayurveda (also ‘the science of life’) and includes eight sections dealing with Sutrasthana (general principles), Nidanasthana (pathology), Vimanasthana (training), Sharirasthana (anatomy), Indriyasthana (sensory), Cikitsasthana (therapeutics), Kalpasthana (pharmaceutics) and Sidd...
 
@@ -9621,10 +9427,7 @@ Here are the recapitulatory verses—
 
 ## 64. Chapter 3 - The Formation of the Fetus (garbha-avakranti)
 
-
 Charaka Samhita (English translation)
-
-by Shree Gulabkunverba Ayurvedic Society | 1949 | 383,279 words | ISBN-13: 9788176370813
 
 The English translation of the Charaka Samhita (by Caraka) deals with Ayurveda (also ‘the science of life’) and includes eight sections dealing with Sutrasthana (general principles), Nidanasthana (pathology), Vimanasthana (training), Sharirasthana (anatomy), Indriyasthana (sensory), Cikitsasthana (therapeutics), Kalpasthana (pharmaceutics) and Sidd...
 
@@ -9756,10 +9559,7 @@ Here are the two recapitulatory verses—
 
 ## 65. Chapter 6 - The Analysis of the Body (sharira-vicaya)
 
-
 Charaka Samhita (English translation)
-
-by Shree Gulabkunverba Ayurvedic Society | 1949 | 383,279 words | ISBN-13: 9788176370813
 
 The English translation of the Charaka Samhita (by Caraka) deals with Ayurveda (also ‘the science of life’) and includes eight sections dealing with Sutrasthana (general principles), Nidanasthana (pathology), Vimanasthana (training), Sharirasthana (anatomy), Indriyasthana (sensory), Cikitsasthana (therapeutics), Kalpasthana (pharmaceutics) and Sidd...
 
@@ -9879,10 +9679,7 @@ Here are the recapitulatory verses—31-34. What the body is, how it functions.,
 
 ## 66. Chapter 5 - The Analysis of Man (purusha-vicaya)
 
-
 Charaka Samhita (English translation)
-
-by Shree Gulabkunverba Ayurvedic Society | 1949 | 383,279 words | ISBN-13: 9788176370813
 
 The English translation of the Charaka Samhita (by Caraka) deals with Ayurveda (also ‘the science of life’) and includes eight sections dealing with Sutrasthana (general principles), Nidanasthana (pathology), Vimanasthana (training), Sharirasthana (anatomy), Indriyasthana (sensory), Cikitsasthana (therapeutics), Kalpasthana (pharmaceutics) and Sidd...
 
@@ -9964,10 +9761,7 @@ Here are the two recapitulatory verses—
 
 ## 67. Chapter 7 - The Enumeration of the Parts of the Body (sharira-sankhya)
 
-
 Charaka Samhita (English translation)
-
-by Shree Gulabkunverba Ayurvedic Society | 1949 | 383,279 words | ISBN-13: 9788176370813
 
 The English translation of the Charaka Samhita (by Caraka) deals with Ayurveda (also ‘the science of life’) and includes eight sections dealing with Sutrasthana (general principles), Nidanasthana (pathology), Vimanasthana (training), Sharirasthana (anatomy), Indriyasthana (sensory), Cikitsasthana (therapeutics), Kalpasthana (pharmaceutics) and Sidd...
 
@@ -10041,10 +9835,7 @@ Here are the two recapitulatory verses—
 
 ## 68. Chapter 8 - ‘The Continuation of one’s Lineage (jatisutriya)
 
-
 Charaka Samhita (English translation)
-
-by Shree Gulabkunverba Ayurvedic Society | 1949 | 383,279 words | ISBN-13: 9788176370813
 
 The English translation of the Charaka Samhita (by Caraka) deals with Ayurveda (also ‘the science of life’) and includes eight sections dealing with Sutrasthana (general principles), Nidanasthana (pathology), Vimanasthana (training), Sharirasthana (anatomy), Indriyasthana (sensory), Cikitsasthana (therapeutics), Kalpasthana (pharmaceutics) and Sidd...
 
@@ -10336,10 +10127,7 @@ Here are the two recapitulatory verses:—
 
 ## 69. Indriyasthana (Indriya Sthana) — Section on Sensorial Prognosis
 
-
 Charaka Samhita (English translation)
-
-by Shree Gulabkunverba Ayurvedic Society | 1949 | 383,279 words | ISBN-13: 9788176370813
 
 The English translation of the Charaka Samhita (by Caraka) deals with Ayurveda (also ‘the science of life’) and includes eight sections dealing with Sutrasthana (general principles), Nidanasthana (pathology), Vimanasthana (training), Sharirasthana (anatomy), Indriyasthana (sensory), Cikitsasthana (therapeutics), Kalpasthana (pharmaceutics) and Sidd...
 
@@ -10351,10 +10139,7 @@ Indriyasthana (Indriya Sthana) — Section on Sensorial Prognosis
 
 ## 70. Chapter 2 - The blossoming of prognostic symptoms (pushpitaka)
 
-
 Charaka Samhita (English translation)
-
-by Shree Gulabkunverba Ayurvedic Society | 1949 | 383,279 words | ISBN-13: 9788176370813
 
 The English translation of the Charaka Samhita (by Caraka) deals with Ayurveda (also ‘the science of life’) and includes eight sections dealing with Sutrasthana (general principles), Nidanasthana (pathology), Vimanasthana (training), Sharirasthana (anatomy), Indriyasthana (sensory), Cikitsasthana (therapeutics), Kalpasthana (pharmaceutics) and Sidd...
 
@@ -10420,10 +10205,7 @@ Here is the recapitulatory verse—
 
 ## 71. Chapter 1 - Prognosis from voice and complexion (varna-svara)
 
-
 Charaka Samhita (English translation)
-
-by Shree Gulabkunverba Ayurvedic Society | 1949 | 383,279 words | ISBN-13: 9788176370813
 
 The English translation of the Charaka Samhita (by Caraka) deals with Ayurveda (also ‘the science of life’) and includes eight sections dealing with Sutrasthana (general principles), Nidanasthana (pathology), Vimanasthana (training), Sharirasthana (anatomy), Indriyasthana (sensory), Cikitsasthana (therapeutics), Kalpasthana (pharmaceutics) and Sidd...
 
@@ -10507,10 +10289,7 @@ Here is the recapitulatory verse—
 
 ## 72. Chapter 1 - The Quest for Longevity (dirgha-jivita)
 
-
 Charaka Samhita (English translation)
-
-by Shree Gulabkunverba Ayurvedic Society | 1949 | 383,279 words | ISBN-13: 9788176370813
 
 The English translation of the Charaka Samhita (by Caraka) deals with Ayurveda (also ‘the science of life’) and includes eight sections dealing with Sutrasthana (general principles), Nidanasthana (pathology), Vimanasthana (training), Sharirasthana (anatomy), Indriyasthana (sensory), Cikitsasthana (therapeutics), Kalpasthana (pharmaceutics) and Sidd...
 
@@ -10838,10 +10617,7 @@ Here are the recapitulatory verses:—
 
 ## 73. Chapter 3 - Prognostic investigation (parimarshana)
 
-
 Charaka Samhita (English translation)
-
-by Shree Gulabkunverba Ayurvedic Society | 1949 | 383,279 words | ISBN-13: 9788176370813
 
 The English translation of the Charaka Samhita (by Caraka) deals with Ayurveda (also ‘the science of life’) and includes eight sections dealing with Sutrasthana (general principles), Nidanasthana (pathology), Vimanasthana (training), Sharirasthana (anatomy), Indriyasthana (sensory), Cikitsasthana (therapeutics), Kalpasthana (pharmaceutics) and Sidd...
 
@@ -10881,10 +10657,7 @@ Here is the recapitulatory verse
 
 ## 74. Chapter 5 - Prognosis from premonitory symptoms (purvarupa)
 
-
 Charaka Samhita (English translation)
-
-by Shree Gulabkunverba Ayurvedic Society | 1949 | 383,279 words | ISBN-13: 9788176370813
 
 The English translation of the Charaka Samhita (by Caraka) deals with Ayurveda (also ‘the science of life’) and includes eight sections dealing with Sutrasthana (general principles), Nidanasthana (pathology), Vimanasthana (training), Sharirasthana (anatomy), Indriyasthana (sensory), Cikitsasthana (therapeutics), Kalpasthana (pharmaceutics) and Sidd...
 
@@ -11020,10 +10793,7 @@ Here is the recapitulatory verse—
 
 ## 75. Chapter 6 - Prognosis from some General symptoms
 
-
 Charaka Samhita (English translation)
-
-by Shree Gulabkunverba Ayurvedic Society | 1949 | 383,279 words | ISBN-13: 9788176370813
 
 The English translation of the Charaka Samhita (by Caraka) deals with Ayurveda (also ‘the science of life’) and includes eight sections dealing with Sutrasthana (general principles), Nidanasthana (pathology), Vimanasthana (training), Sharirasthana (anatomy), Indriyasthana (sensory), Cikitsasthana (therapeutics), Kalpasthana (pharmaceutics) and Sidd...
 
@@ -11091,10 +10861,7 @@ Here is the recapitulatory verse—
 
 ## 76. Chapter 7 - Prognosis from the Pupil-condition (pannarupa)
 
-
 Charaka Samhita (English translation)
-
-by Shree Gulabkunverba Ayurvedic Society | 1949 | 383,279 words | ISBN-13: 9788176370813
 
 The English translation of the Charaka Samhita (by Caraka) deals with Ayurveda (also ‘the science of life’) and includes eight sections dealing with Sutrasthana (general principles), Nidanasthana (pathology), Vimanasthana (training), Sharirasthana (anatomy), Indriyasthana (sensory), Cikitsasthana (therapeutics), Kalpasthana (pharmaceutics) and Sidd...
 
@@ -11176,10 +10943,7 @@ Here is the recapitulatory verse—
 
 ## 77. Chapter 8 - Prognostics from Topsy-turvy reflection (avakshiras)
 
-
 Charaka Samhita (English translation)
-
-by Shree Gulabkunverba Ayurvedic Society | 1949 | 383,279 words | ISBN-13: 9788176370813
 
 The English translation of the Charaka Samhita (by Caraka) deals with Ayurveda (also ‘the science of life’) and includes eight sections dealing with Sutrasthana (general principles), Nidanasthana (pathology), Vimanasthana (training), Sharirasthana (anatomy), Indriyasthana (sensory), Cikitsasthana (therapeutics), Kalpasthana (pharmaceutics) and Sidd...
 
@@ -11265,10 +11029,7 @@ Here is the recapitulatory verse—
 
 ## 78. Chapter 9 - Prognosis from the Dark-red coloration
 
-
 Charaka Samhita (English translation)
-
-by Shree Gulabkunverba Ayurvedic Society | 1949 | 383,279 words | ISBN-13: 9788176370813
 
 The English translation of the Charaka Samhita (by Caraka) deals with Ayurveda (also ‘the science of life’) and includes eight sections dealing with Sutrasthana (general principles), Nidanasthana (pathology), Vimanasthana (training), Sharirasthana (anatomy), Indriyasthana (sensory), Cikitsasthana (therapeutics), Kalpasthana (pharmaceutics) and Sidd...
 
@@ -11336,10 +11097,7 @@ Here are the two recapitulatory verses—
 
 ## 79. Chapter 4 - Prognostics pertaining to senses (indriya)
 
-
 Charaka Samhita (English translation)
-
-by Shree Gulabkunverba Ayurvedic Society | 1949 | 383,279 words | ISBN-13: 9788176370813
 
 The English translation of the Charaka Samhita (by Caraka) deals with Ayurveda (also ‘the science of life’) and includes eight sections dealing with Sutrasthana (general principles), Nidanasthana (pathology), Vimanasthana (training), Sharirasthana (anatomy), Indriyasthana (sensory), Cikitsasthana (therapeutics), Kalpasthana (pharmaceutics) and Sidd...
 
@@ -11413,10 +11171,7 @@ Here is the recapitulatory verse—
 
 ## 80. Chapter 10 - Prognosis of Impending Death (sadyas-marana)
 
-
 Charaka Samhita (English translation)
-
-by Shree Gulabkunverba Ayurvedic Society | 1949 | 383,279 words | ISBN-13: 9788176370813
 
 The English translation of the Charaka Samhita (by Caraka) deals with Ayurveda (also ‘the science of life’) and includes eight sections dealing with Sutrasthana (general principles), Nidanasthana (pathology), Vimanasthana (training), Sharirasthana (anatomy), Indriyasthana (sensory), Cikitsasthana (therapeutics), Kalpasthana (pharmaceutics) and Sidd...
 
@@ -11474,10 +11229,7 @@ Here is the recapitulatory verse—
 
 ## 81. Chapter 11 - Prognosis from the Diminished Vital-heat
 
-
 Charaka Samhita (English translation)
-
-by Shree Gulabkunverba Ayurvedic Society | 1949 | 383,279 words | ISBN-13: 9788176370813
 
 The English translation of the Charaka Samhita (by Caraka) deals with Ayurveda (also ‘the science of life’) and includes eight sections dealing with Sutrasthana (general principles), Nidanasthana (pathology), Vimanasthana (training), Sharirasthana (anatomy), Indriyasthana (sensory), Cikitsasthana (therapeutics), Kalpasthana (pharmaceutics) and Sidd...
 
@@ -11559,10 +11311,7 @@ Here is the recapitulatory verse—
 
 ## 82. Chapter 12 - Prognosis from Powder resembling Cow-dung Powder (gomaya-curna)
 
-
 Charaka Samhita (English translation)
-
-by Shree Gulabkunverba Ayurvedic Society | 1949 | 383,279 words | ISBN-13: 9788176370813
 
 The English translation of the Charaka Samhita (by Caraka) deals with Ayurveda (also ‘the science of life’) and includes eight sections dealing with Sutrasthana (general principles), Nidanasthana (pathology), Vimanasthana (training), Sharirasthana (anatomy), Indriyasthana (sensory), Cikitsasthana (therapeutics), Kalpasthana (pharmaceutics) and Sidd...
 
@@ -11714,10 +11463,7 @@ Here are the two recapitulatory verses—
 
 ## 83. Chapter 1a - The Virtues of the Chebulic (abhaya) and Emblic Myrobalans (amalaki)
 
-
 Charaka Samhita (English translation)
-
-by Shree Gulabkunverba Ayurvedic Society | 1949 | 383,279 words | ISBN-13: 9788176370813
 
 The English translation of the Charaka Samhita (by Caraka) deals with Ayurveda (also ‘the science of life’) and includes eight sections dealing with Sutrasthana (general principles), Nidanasthana (pathology), Vimanasthana (training), Sharirasthana (anatomy), Indriyasthana (sensory), Cikitsasthana (therapeutics), Kalpasthana (pharmaceutics) and Sidd...
 
@@ -11825,10 +11571,7 @@ Here is the recapitulatory verse—
 
 ## 84. Chapter 1c - Fruits plucked with the Hand (kara-pracita)
 
-
 Charaka Samhita (English translation)
-
-by Shree Gulabkunverba Ayurvedic Society | 1949 | 383,279 words | ISBN-13: 9788176370813
 
 The English translation of the Charaka Samhita (by Caraka) deals with Ayurveda (also ‘the science of life’) and includes eight sections dealing with Sutrasthana (general principles), Nidanasthana (pathology), Vimanasthana (training), Sharirasthana (anatomy), Indriyasthana (sensory), Cikitsasthana (therapeutics), Kalpasthana (pharmaceutics) and Sidd...
 
@@ -11914,10 +11657,7 @@ Here is the recapitulatory verse—
 
 ## 85. Chapter 1b - The Urge to Live (prana-kama)
 
-
 Charaka Samhita (English translation)
-
-by Shree Gulabkunverba Ayurvedic Society | 1949 | 383,279 words | ISBN-13: 9788176370813
 
 The English translation of the Charaka Samhita (by Caraka) deals with Ayurveda (also ‘the science of life’) and includes eight sections dealing with Sutrasthana (general principles), Nidanasthana (pathology), Vimanasthana (training), Sharirasthana (anatomy), Indriyasthana (sensory), Cikitsasthana (therapeutics), Kalpasthana (pharmaceutics) and Sidd...
 
@@ -12029,10 +11769,7 @@ Here is the recapitulatory verse-
 
 ## 86. Chapter 1d - Revival of Ayurveda (the Science of Life)
 
-
 Charaka Samhita (English translation)
-
-by Shree Gulabkunverba Ayurvedic Society | 1949 | 383,279 words | ISBN-13: 9788176370813
 
 The English translation of the Charaka Samhita (by Caraka) deals with Ayurveda (also ‘the science of life’) and includes eight sections dealing with Sutrasthana (general principles), Nidanasthana (pathology), Vimanasthana (training), Sharirasthana (anatomy), Indriyasthana (sensory), Cikitsasthana (therapeutics), Kalpasthana (pharmaceutics) and Sidd...
 
@@ -12148,10 +11885,7 @@ Here are the two recapitulatory verses:—
 
 ## 87. Chapter 2a - The preparations of roots of pen-reed grass (shara-mula)
 
-
 Charaka Samhita (English translation)
-
-by Shree Gulabkunverba Ayurvedic Society | 1949 | 383,279 words | ISBN-13: 9788176370813
 
 The English translation of the Charaka Samhita (by Caraka) deals with Ayurveda (also ‘the science of life’) and includes eight sections dealing with Sutrasthana (general principles), Nidanasthana (pathology), Vimanasthana (training), Sharirasthana (anatomy), Indriyasthana (sensory), Cikitsasthana (therapeutics), Kalpasthana (pharmaceutics) and Sidd...
 
@@ -12229,10 +11963,7 @@ Here are the two recapitulatory verses—
 
 ## 88. Chapter 2b - Milk-saturated rice and other preparations (asikta-ksirika)
 
-
 Charaka Samhita (English translation)
-
-by Shree Gulabkunverba Ayurvedic Society | 1949 | 383,279 words | ISBN-13: 9788176370813
 
 The English translation of the Charaka Samhita (by Caraka) deals with Ayurveda (also ‘the science of life’) and includes eight sections dealing with Sutrasthana (general principles), Nidanasthana (pathology), Vimanasthana (training), Sharirasthana (anatomy), Indriyasthana (sensory), Cikitsasthana (therapeutics), Kalpasthana (pharmaceutics) and Sidd...
 
@@ -12292,10 +12023,7 @@ Here is the recapitulatory verse—
 
 ## 89. Chapter 2c - Bred on the leaves of the blackgram etc. (masha-parna-bhrita)
 
-
 Charaka Samhita (English translation)
-
-by Shree Gulabkunverba Ayurvedic Society | 1949 | 383,279 words | ISBN-13: 9788176370813
 
 The English translation of the Charaka Samhita (by Caraka) deals with Ayurveda (also ‘the science of life’) and includes eight sections dealing with Sutrasthana (general principles), Nidanasthana (pathology), Vimanasthana (training), Sharirasthana (anatomy), Indriyasthana (sensory), Cikitsasthana (therapeutics), Kalpasthana (pharmaceutics) and Sidd...
 
@@ -12363,10 +12091,7 @@ Here is the recapitulatory verse—
 
 ## 90. Chapter 2d - The man of enhanced virility etc. (pums-jatabala)
 
-
 Charaka Samhita (English translation)
-
-by Shree Gulabkunverba Ayurvedic Society | 1949 | 383,279 words | ISBN-13: 9788176370813
 
 The English translation of the Charaka Samhita (by Caraka) deals with Ayurveda (also ‘the science of life’) and includes eight sections dealing with Sutrasthana (general principles), Nidanasthana (pathology), Vimanasthana (training), Sharirasthana (anatomy), Indriyasthana (sensory), Cikitsasthana (therapeutics), Kalpasthana (pharmaceutics) and Sidd...
 
@@ -12474,10 +12199,7 @@ Here are the two recapitulatory verses—
 
 ## 91. Chapter 4 - The therapeutics of Hemothermia (raktapitta-cikitsa)
 
-
 Charaka Samhita (English translation)
-
-by Shree Gulabkunverba Ayurvedic Society | 1949 | 383,279 words | ISBN-13: 9788176370813
 
 The English translation of the Charaka Samhita (by Caraka) deals with Ayurveda (also ‘the science of life’) and includes eight sections dealing with Sutrasthana (general principles), Nidanasthana (pathology), Vimanasthana (training), Sharirasthana (anatomy), Indriyasthana (sensory), Cikitsasthana (therapeutics), Kalpasthana (pharmaceutics) and Sidd...
 
@@ -12693,10 +12415,7 @@ Here are the two recapitulatory verses—
 
 ## 92. Chapter 3 - The therapeutics of Fever (jvara-cikitsa)
 
-
 Charaka Samhita (English translation)
-
-by Shree Gulabkunverba Ayurvedic Society | 1949 | 383,279 words | ISBN-13: 9788176370813
 
 The English translation of the Charaka Samhita (by Caraka) deals with Ayurveda (also ‘the science of life’) and includes eight sections dealing with Sutrasthana (general principles), Nidanasthana (pathology), Vimanasthana (training), Sharirasthana (anatomy), Indriyasthana (sensory), Cikitsasthana (therapeutics), Kalpasthana (pharmaceutics) and Sidd...
 
@@ -13354,10 +13073,7 @@ Here is the recapitulatory verse—
 
 ## 93. Chapter 6 - The therapeutics of Urinary disorders (prameha-cikitsa)
 
-
 Charaka Samhita (English translation)
-
-by Shree Gulabkunverba Ayurvedic Society | 1949 | 383,279 words | ISBN-13: 9788176370813
 
 The English translation of the Charaka Samhita (by Caraka) deals with Ayurveda (also ‘the science of life’) and includes eight sections dealing with Sutrasthana (general principles), Nidanasthana (pathology), Vimanasthana (training), Sharirasthana (anatomy), Indriyasthana (sensory), Cikitsasthana (therapeutics), Kalpasthana (pharmaceutics) and Sidd...
 
@@ -13511,10 +13227,7 @@ Here are the recapitulatory verses—
 
 ## 94. Chapter 7 - The therapeutics of Dermatosis (kushtha-cikitsa)
 
-
 Charaka Samhita (English translation)
-
-by Shree Gulabkunverba Ayurvedic Society | 1949 | 383,279 words | ISBN-13: 9788176370813
 
 The English translation of the Charaka Samhita (by Caraka) deals with Ayurveda (also ‘the science of life’) and includes eight sections dealing with Sutrasthana (general principles), Nidanasthana (pathology), Vimanasthana (training), Sharirasthana (anatomy), Indriyasthana (sensory), Cikitsasthana (therapeutics), Kalpasthana (pharmaceutics) and Sidd...
 
@@ -13808,10 +13521,7 @@ Here are the recapitulatory verses—
 
 ## 95. Chapter 5 - The therapeutics of Gulma (abdominal swellings)
 
-
 Charaka Samhita (English translation)
-
-by Shree Gulabkunverba Ayurvedic Society | 1949 | 383,279 words | ISBN-13: 9788176370813
 
 The English translation of the Charaka Samhita (by Caraka) deals with Ayurveda (also ‘the science of life’) and includes eight sections dealing with Sutrasthana (general principles), Nidanasthana (pathology), Vimanasthana (training), Sharirasthana (anatomy), Indriyasthana (sensory), Cikitsasthana (therapeutics), Kalpasthana (pharmaceutics) and Sidd...
 
@@ -14149,10 +13859,7 @@ Here are the recapitulatory verses—
 
 ## 96. Chapter 9 - The therapeutics of Insanity (unmada-cikitsa)
 
-
 Charaka Samhita (English translation)
-
-by Shree Gulabkunverba Ayurvedic Society | 1949 | 383,279 words | ISBN-13: 9788176370813
 
 The English translation of the Charaka Samhita (by Caraka) deals with Ayurveda (also ‘the science of life’) and includes eight sections dealing with Sutrasthana (general principles), Nidanasthana (pathology), Vimanasthana (training), Sharirasthana (anatomy), Indriyasthana (sensory), Cikitsasthana (therapeutics), Kalpasthana (pharmaceutics) and Sidd...
 
@@ -14356,10 +14063,7 @@ Here is a recapitulatory verse—
 
 ## 97. Chapter 8 - The therapeutics of Consumption (raja-yakshma-cikitsa)
 
-
 Charaka Samhita (English translation)
-
-by Shree Gulabkunverba Ayurvedic Society | 1949 | 383,279 words | ISBN-13: 9788176370813
 
 The English translation of the Charaka Samhita (by Caraka) deals with Ayurveda (also ‘the science of life’) and includes eight sections dealing with Sutrasthana (general principles), Nidanasthana (pathology), Vimanasthana (training), Sharirasthana (anatomy), Indriyasthana (sensory), Cikitsasthana (therapeutics), Kalpasthana (pharmaceutics) and Sidd...
 
@@ -14653,10 +14357,7 @@ Here are the two recapitulatory verses—
 
 ## 98. Chapter 10 - The therapeutics of Epilepsy (apasmara-cikitsa)
 
-
 Charaka Samhita (English translation)
-
-by Shree Gulabkunverba Ayurvedic Society | 1949 | 383,279 words | ISBN-13: 9788176370813
 
 The English translation of the Charaka Samhita (by Caraka) deals with Ayurveda (also ‘the science of life’) and includes eight sections dealing with Sutrasthana (general principles), Nidanasthana (pathology), Vimanasthana (training), Sharirasthana (anatomy), Indriyasthana (sensory), Cikitsasthana (therapeutics), Kalpasthana (pharmaceutics) and Sidd...
 
@@ -14790,10 +14491,7 @@ Here are the two recapitulatory verses—
 
 ## 99. Chapter 11 - The therapeutics of Pectoral Lesions (kshata-kshina-cikitsa)
 
-
 Charaka Samhita (English translation)
-
-by Shree Gulabkunverba Ayurvedic Society | 1949 | 383,279 words | ISBN-13: 9788176370813
 
 The English translation of the Charaka Samhita (by Caraka) deals with Ayurveda (also ‘the science of life’) and includes eight sections dealing with Sutrasthana (general principles), Nidanasthana (pathology), Vimanasthana (training), Sharirasthana (anatomy), Indriyasthana (sensory), Cikitsasthana (therapeutics), Kalpasthana (pharmaceutics) and Sidd...
 
@@ -14921,10 +14619,7 @@ Here are the two recapitulatory verses—
 
 ## 100. Chapter 12 - The therapeutics of Pectoral Edema (shvayathu-cikitsa)
 
-
 Charaka Samhita (English translation)
-
-by Shree Gulabkunverba Ayurvedic Society | 1949 | 383,279 words | ISBN-13: 9788176370813
 
 The English translation of the Charaka Samhita (by Caraka) deals with Ayurveda (also ‘the science of life’) and includes eight sections dealing with Sutrasthana (general principles), Nidanasthana (pathology), Vimanasthana (training), Sharirasthana (anatomy), Indriyasthana (sensory), Cikitsasthana (therapeutics), Kalpasthana (pharmaceutics) and Sidd...
 
@@ -15134,10 +14829,7 @@ Here is the recapitulatory verse-
 
 ## 101. Chapter 14 - The therapeutics of Abdominal Piles (arshas-cikitsa)
 
-
 Charaka Samhita (English translation)
-
-by Shree Gulabkunverba Ayurvedic Society | 1949 | 383,279 words | ISBN-13: 9788176370813
 
 The English translation of the Charaka Samhita (by Caraka) deals with Ayurveda (also ‘the science of life’) and includes eight sections dealing with Sutrasthana (general principles), Nidanasthana (pathology), Vimanasthana (training), Sharirasthana (anatomy), Indriyasthana (sensory), Cikitsasthana (therapeutics), Kalpasthana (pharmaceutics) and Sidd...
 
@@ -15571,10 +15263,7 @@ Here are the recapitulatory verses—
 
 ## 102. Chapter 13 - The therapeutics of Abdominal Disease (udara-cikitsa)
 
-
 Charaka Samhita (English translation)
-
-by Shree Gulabkunverba Ayurvedic Society | 1949 | 383,279 words | ISBN-13: 9788176370813
 
 The English translation of the Charaka Samhita (by Caraka) deals with Ayurveda (also ‘the science of life’) and includes eight sections dealing with Sutrasthana (general principles), Nidanasthana (pathology), Vimanasthana (training), Sharirasthana (anatomy), Indriyasthana (sensory), Cikitsasthana (therapeutics), Kalpasthana (pharmaceutics) and Sidd...
 
@@ -15898,10 +15587,7 @@ Summary
 
 ## 103. Chapter 15 - The therapeutics of Assimilation disorders (grahani-dosha-cikitsa)
 
-
 Charaka Samhita (English translation)
-
-by Shree Gulabkunverba Ayurvedic Society | 1949 | 383,279 words | ISBN-13: 9788176370813
 
 The English translation of the Charaka Samhita (by Caraka) deals with Ayurveda (also ‘the science of life’) and includes eight sections dealing with Sutrasthana (general principles), Nidanasthana (pathology), Vimanasthana (training), Sharirasthana (anatomy), Indriyasthana (sensory), Cikitsasthana (therapeutics), Kalpasthana (pharmaceutics) and Sidd...
 
@@ -16289,10 +15975,7 @@ Here are the recapitulatory verses—
 
 ## 104. Chapter 16 - The therapeutics of Anemia (panduroga-cikitsa)
 
-
 Charaka Samhita (English translation)
-
-by Shree Gulabkunverba Ayurvedic Society | 1949 | 383,279 words | ISBN-13: 9788176370813
 
 The English translation of the Charaka Samhita (by Caraka) deals with Ayurveda (also ‘the science of life’) and includes eight sections dealing with Sutrasthana (general principles), Nidanasthana (pathology), Vimanasthana (training), Sharirasthana (anatomy), Indriyasthana (sensory), Cikitsasthana (therapeutics), Kalpasthana (pharmaceutics) and Sidd...
 
@@ -16492,10 +16175,7 @@ Here are the two recapitulatory verses—
 
 ## 105. Chapter 17 - The therapeutics of Hiccup and Dyspnea (hikka-shvasa-cikitsa)
 
-
 Charaka Samhita (English translation)
-
-by Shree Gulabkunverba Ayurvedic Society | 1949 | 383,279 words | ISBN-13: 9788176370813
 
 The English translation of the Charaka Samhita (by Caraka) deals with Ayurveda (also ‘the science of life’) and includes eight sections dealing with Sutrasthana (general principles), Nidanasthana (pathology), Vimanasthana (training), Sharirasthana (anatomy), Indriyasthana (sensory), Cikitsasthana (therapeutics), Kalpasthana (pharmaceutics) and Sidd...
 
@@ -16739,10 +16419,7 @@ Here is the recapitulatory verse—
 
 ## 106. Chapter 18 - The therapeutics of Cough Disorder (kasa-cikitsa)
 
-
 Charaka Samhita (English translation)
-
-by Shree Gulabkunverba Ayurvedic Society | 1949 | 383,279 words | ISBN-13: 9788176370813
 
 The English translation of the Charaka Samhita (by Caraka) deals with Ayurveda (also ‘the science of life’) and includes eight sections dealing with Sutrasthana (general principles), Nidanasthana (pathology), Vimanasthana (training), Sharirasthana (anatomy), Indriyasthana (sensory), Cikitsasthana (therapeutics), Kalpasthana (pharmaceutics) and Sidd...
 
@@ -17052,10 +16729,7 @@ Here is the recapitulatory verse—
 
 ## 107. Chapter 19 - The therapeutics of Diarrhea (atisara-cikitsa)
 
-
 Charaka Samhita (English translation)
-
-by Shree Gulabkunverba Ayurvedic Society | 1949 | 383,279 words | ISBN-13: 9788176370813
 
 The English translation of the Charaka Samhita (by Caraka) deals with Ayurveda (also ‘the science of life’) and includes eight sections dealing with Sutrasthana (general principles), Nidanasthana (pathology), Vimanasthana (training), Sharirasthana (anatomy), Indriyasthana (sensory), Cikitsasthana (therapeutics), Kalpasthana (pharmaceutics) and Sidd...
 
@@ -17305,10 +16979,7 @@ Here is the recapitulatory verse.
 
 ## 108. Chapter 21 - The therapeutics of Acute Spreading Affections (visarpa-cikitsa)
 
-
 Charaka Samhita (English translation)
-
-by Shree Gulabkunverba Ayurvedic Society | 1949 | 383,279 words | ISBN-13: 9788176370813
 
 The English translation of the Charaka Samhita (by Caraka) deals with Ayurveda (also ‘the science of life’) and includes eight sections dealing with Sutrasthana (general principles), Nidanasthana (pathology), Vimanasthana (training), Sharirasthana (anatomy), Indriyasthana (sensory), Cikitsasthana (therapeutics), Kalpasthana (pharmaceutics) and Sidd...
 
@@ -17600,10 +17271,7 @@ Here are the recapitulatory verses:—
 
 ## 109. Chapter 20 - The therapeutics of Vomiting (chardi-cikitsa)
 
-
 Charaka Samhita (English translation)
-
-by Shree Gulabkunverba Ayurvedic Society | 1949 | 383,279 words | ISBN-13: 9788176370813
 
 The English translation of the Charaka Samhita (by Caraka) deals with Ayurveda (also ‘the science of life’) and includes eight sections dealing with Sutrasthana (general principles), Nidanasthana (pathology), Vimanasthana (training), Sharirasthana (anatomy), Indriyasthana (sensory), Cikitsasthana (therapeutics), Kalpasthana (pharmaceutics) and Sidd...
 
@@ -17729,10 +17397,7 @@ Here is the recapitulatory verse—
 
 ## 110. Chapter 22 - The therapeutics of Dipsosis (morbid thirst) (trishna-cikitsa)
 
-
 Charaka Samhita (English translation)
-
-by Shree Gulabkunverba Ayurvedic Society | 1949 | 383,279 words | ISBN-13: 9788176370813
 
 The English translation of the Charaka Samhita (by Caraka) deals with Ayurveda (also ‘the science of life’) and includes eight sections dealing with Sutrasthana (general principles), Nidanasthana (pathology), Vimanasthana (training), Sharirasthana (anatomy), Indriyasthana (sensory), Cikitsasthana (therapeutics), Kalpasthana (pharmaceutics) and Sidd...
 
@@ -17878,10 +17543,7 @@ Here is the recapitulatory verse—
 
 ## 111. Chapter 23 - The therapeutics of Toxicosis (visha-cikitsa)
 
-
 Charaka Samhita (English translation)
-
-by Shree Gulabkunverba Ayurvedic Society | 1949 | 383,279 words | ISBN-13: 9788176370813
 
 The English translation of the Charaka Samhita (by Caraka) deals with Ayurveda (also ‘the science of life’) and includes eight sections dealing with Sutrasthana (general principles), Nidanasthana (pathology), Vimanasthana (training), Sharirasthana (anatomy), Indriyasthana (sensory), Cikitsasthana (therapeutics), Kalpasthana (pharmaceutics) and Sidd...
 
@@ -18301,10 +17963,7 @@ Here is the recapitulatory verse—
 
 ## 112. Chapter 24 - The therapeutics of Alcoholism (madatyaya-cikitsa)
 
-
 Charaka Samhita (English translation)
-
-by Shree Gulabkunverba Ayurvedic Society | 1949 | 383,279 words | ISBN-13: 9788176370813
 
 The English translation of the Charaka Samhita (by Caraka) deals with Ayurveda (also ‘the science of life’) and includes eight sections dealing with Sutrasthana (general principles), Nidanasthana (pathology), Vimanasthana (training), Sharirasthana (anatomy), Indriyasthana (sensory), Cikitsasthana (therapeutics), Kalpasthana (pharmaceutics) and Sidd...
 
@@ -18624,10 +18283,7 @@ Here are the recapitulatory verses—
 
 ## 113. Chapter 25 - The therapeutics of Wounds (vrana-cikitsa)
 
-
 Charaka Samhita (English translation)
-
-by Shree Gulabkunverba Ayurvedic Society | 1949 | 383,279 words | ISBN-13: 9788176370813
 
 The English translation of the Charaka Samhita (by Caraka) deals with Ayurveda (also ‘the science of life’) and includes eight sections dealing with Sutrasthana (general principles), Nidanasthana (pathology), Vimanasthana (training), Sharirasthana (anatomy), Indriyasthana (sensory), Cikitsasthana (therapeutics), Kalpasthana (pharmaceutics) and Sidd...
 
@@ -18871,10 +18527,7 @@ Here are the two recapitulatory verses—
 
 ## 114. Chapter 27 - The therapeutics of Spastic Paraplegia (urustambha-cikitsa)
 
-
 Charaka Samhita (English translation)
-
-by Shree Gulabkunverba Ayurvedic Society | 1949 | 383,279 words | ISBN-13: 9788176370813
 
 The English translation of the Charaka Samhita (by Caraka) deals with Ayurveda (also ‘the science of life’) and includes eight sections dealing with Sutrasthana (general principles), Nidanasthana (pathology), Vimanasthana (training), Sharirasthana (anatomy), Indriyasthana (sensory), Cikitsasthana (therapeutics), Kalpasthana (pharmaceutics) and Sidd...
 
@@ -18990,10 +18643,7 @@ Here is a recapitulatory verse—
 
 ## 115. Chapter 26 - The therapeutics of Wounds (tri-marma-cikitsa)
 
-
 Charaka Samhita (English translation)
-
-by Shree Gulabkunverba Ayurvedic Society | 1949 | 383,279 words | ISBN-13: 9788176370813
 
 The English translation of the Charaka Samhita (by Caraka) deals with Ayurveda (also ‘the science of life’) and includes eight sections dealing with Sutrasthana (general principles), Nidanasthana (pathology), Vimanasthana (training), Sharirasthana (anatomy), Indriyasthana (sensory), Cikitsasthana (therapeutics), Kalpasthana (pharmaceutics) and Sidd...
 
@@ -19473,10 +19123,7 @@ Here is the recapitulatory verse—
 
 ## 116. Chapter 28 - The therapeutics of Vata Diseases (vatavyadhi-cikitsa)
 
-
 Charaka Samhita (English translation)
-
-by Shree Gulabkunverba Ayurvedic Society | 1949 | 383,279 words | ISBN-13: 9788176370813
 
 The English translation of the Charaka Samhita (by Caraka) deals with Ayurveda (also ‘the science of life’) and includes eight sections dealing with Sutrasthana (general principles), Nidanasthana (pathology), Vimanasthana (training), Sharirasthana (anatomy), Indriyasthana (sensory), Cikitsasthana (therapeutics), Kalpasthana (pharmaceutics) and Sidd...
 
@@ -19930,10 +19577,7 @@ Here are the two recapitulatory verses—
 
 ## 117. Chapter 29 - The therapeutics of Rheumatic Conditions (vata-shonita-cikitsa)
 
-
 Charaka Samhita (English translation)
-
-by Shree Gulabkunverba Ayurvedic Society | 1949 | 383,279 words | ISBN-13: 9788176370813
 
 The English translation of the Charaka Samhita (by Caraka) deals with Ayurveda (also ‘the science of life’) and includes eight sections dealing with Sutrasthana (general principles), Nidanasthana (pathology), Vimanasthana (training), Sharirasthana (anatomy), Indriyasthana (sensory), Cikitsasthana (therapeutics), Kalpasthana (pharmaceutics) and Sidd...
 
@@ -20179,10 +19823,7 @@ Here are the recapitulatory verses—
 
 ## 118. Kalpasthana (Kalpa Sthana) — Section on Pharmaceutics
 
-
 Charaka Samhita (English translation)
-
-by Shree Gulabkunverba Ayurvedic Society | 1949 | 383,279 words | ISBN-13: 9788176370813
 
 The English translation of the Charaka Samhita (by Caraka) deals with Ayurveda (also ‘the science of life’) and includes eight sections dealing with Sutrasthana (general principles), Nidanasthana (pathology), Vimanasthana (training), Sharirasthana (anatomy), Indriyasthana (sensory), Cikitsasthana (therapeutics), Kalpasthana (pharmaceutics) and Sidd...
 
@@ -20194,10 +19835,7 @@ Kalpasthana (Kalpa Sthana) — Section on Pharmaceutics
 
 ## 119. Chapter 30 - The therapeutics of Gynecic Disorders (yoni-vyapad-cikitsa)
 
-
 Charaka Samhita (English translation)
-
-by Shree Gulabkunverba Ayurvedic Society | 1949 | 383,279 words | ISBN-13: 9788176370813
 
 The English translation of the Charaka Samhita (by Caraka) deals with Ayurveda (also ‘the science of life’) and includes eight sections dealing with Sutrasthana (general principles), Nidanasthana (pathology), Vimanasthana (training), Sharirasthana (anatomy), Indriyasthana (sensory), Cikitsasthana (therapeutics), Kalpasthana (pharmaceutics) and Sidd...
 
@@ -20739,10 +20377,7 @@ Here are the recapitulatory verses—
 
 ## 120. Chapter 1a - Introduction to the Kalpasthana
 
-
 Charaka Samhita (English translation)
-
-by Shree Gulabkunverba Ayurvedic Society | 1949 | 383,279 words | ISBN-13: 9788176370813
 
 The English translation of the Charaka Samhita (by Caraka) deals with Ayurveda (also ‘the science of life’) and includes eight sections dealing with Sutrasthana (general principles), Nidanasthana (pathology), Vimanasthana (training), Sharirasthana (anatomy), Indriyasthana (sensory), Cikitsasthana (therapeutics), Kalpasthana (pharmaceutics) and Sidd...
 
@@ -20792,10 +20427,7 @@ Preservation and potency etc.
 
 ## 121. Chapter 1b - The Pharmaceutics of the Emetic nut (madana-kalpa)
 
-
 Charaka Samhita (English translation)
-
-by Shree Gulabkunverba Ayurvedic Society | 1949 | 383,279 words | ISBN-13: 9788176370813
 
 The English translation of the Charaka Samhita (by Caraka) deals with Ayurveda (also ‘the science of life’) and includes eight sections dealing with Sutrasthana (general principles), Nidanasthana (pathology), Vimanasthana (training), Sharirasthana (anatomy), Indriyasthana (sensory), Cikitsasthana (therapeutics), Kalpasthana (pharmaceutics) and Sidd...
 
@@ -20863,10 +20495,7 @@ Here are the recapitulatory verses—
 
 ## 122. Chapter 3 - The Pharmaceutics of the Bottle Gourd (ikshvaku-kalpa)
 
-
 Charaka Samhita (English translation)
-
-by Shree Gulabkunverba Ayurvedic Society | 1949 | 383,279 words | ISBN-13: 9788176370813
 
 The English translation of the Charaka Samhita (by Caraka) deals with Ayurveda (also ‘the science of life’) and includes eight sections dealing with Sutrasthana (general principles), Nidanasthana (pathology), Vimanasthana (training), Sharirasthana (anatomy), Indriyasthana (sensory), Cikitsasthana (therapeutics), Kalpasthana (pharmaceutics) and Sidd...
 
@@ -20926,10 +20555,7 @@ Here are the recapitulatory verses—
 
 ## 123. Chapter 2 - The Pharmaceutics of Bristly luffa (jimutaka-kalpa)
 
-
 Charaka Samhita (English translation)
-
-by Shree Gulabkunverba Ayurvedic Society | 1949 | 383,279 words | ISBN-13: 9788176370813
 
 The English translation of the Charaka Samhita (by Caraka) deals with Ayurveda (also ‘the science of life’) and includes eight sections dealing with Sutrasthana (general principles), Nidanasthana (pathology), Vimanasthana (training), Sharirasthana (anatomy), Indriyasthana (sensory), Cikitsasthana (therapeutics), Kalpasthana (pharmaceutics) and Sidd...
 
@@ -20973,10 +20599,7 @@ Here are the two recapitulatory verses—
 
 ## 124. Chapter 4 - The Pharmaceutics of the Sponge Gourd (dhamargava-kalpa)
 
-
 Charaka Samhita (English translation)
-
-by Shree Gulabkunverba Ayurvedic Society | 1949 | 383,279 words | ISBN-13: 9788176370813
 
 The English translation of the Charaka Samhita (by Caraka) deals with Ayurveda (also ‘the science of life’) and includes eight sections dealing with Sutrasthana (general principles), Nidanasthana (pathology), Vimanasthana (training), Sharirasthana (anatomy), Indriyasthana (sensory), Cikitsasthana (therapeutics), Kalpasthana (pharmaceutics) and Sidd...
 
@@ -21030,10 +20653,7 @@ Here are the two recapitulatory verses—
 
 ## 125. Chapter 5 - The Pharmaceutics of Kurchi (vatsaka-kalpa)
 
-
 Charaka Samhita (English translation)
-
-by Shree Gulabkunverba Ayurvedic Society | 1949 | 383,279 words | ISBN-13: 9788176370813
 
 The English translation of the Charaka Samhita (by Caraka) deals with Ayurveda (also ‘the science of life’) and includes eight sections dealing with Sutrasthana (general principles), Nidanasthana (pathology), Vimanasthana (training), Sharirasthana (anatomy), Indriyasthana (sensory), Cikitsasthana (therapeutics), Kalpasthana (pharmaceutics) and Sidd...
 
@@ -21071,10 +20691,7 @@ Here is the recapitulatory verse—
 
 ## 126. Chapter 6 - The Pharmaceutics of Bitter Luffa (kritavedhana-kalpa)
 
-
 Charaka Samhita (English translation)
-
-by Shree Gulabkunverba Ayurvedic Society | 1949 | 383,279 words | ISBN-13: 9788176370813
 
 The English translation of the Charaka Samhita (by Caraka) deals with Ayurveda (also ‘the science of life’) and includes eight sections dealing with Sutrasthana (general principles), Nidanasthana (pathology), Vimanasthana (training), Sharirasthana (anatomy), Indriyasthana (sensory), Cikitsasthana (therapeutics), Kalpasthana (pharmaceutics) and Sidd...
 
@@ -21118,17 +20735,11 @@ Here are the two recapitulatory verses—
 
 ## 127. Chapter 3 - The Pathology of Gulma (gulma-nidana)
 
-
-
-
 ---
 
 ## 128. Chapter 8 - The Pharmaceutics of the Purging Cassia (caturangula-kalpa)
 
-
 Charaka Samhita (English translation)
-
-by Shree Gulabkunverba Ayurvedic Society | 1949 | 383,279 words | ISBN-13: 9788176370813
 
 The English translation of the Charaka Samhita (by Caraka) deals with Ayurveda (also ‘the science of life’) and includes eight sections dealing with Sutrasthana (general principles), Nidanasthana (pathology), Vimanasthana (training), Sharirasthana (anatomy), Indriyasthana (sensory), Cikitsasthana (therapeutics), Kalpasthana (pharmaceutics) and Sidd...
 
@@ -21182,10 +20793,7 @@ medicated wine and two in the form of ghee—thus, in all, twelve preparations s
 
 ## 129. Chapter 7 - The Pharmaceutics of Turpeth (trivrit-kalpa)
 
-
 Charaka Samhita (English translation)
-
-by Shree Gulabkunverba Ayurvedic Society | 1949 | 383,279 words | ISBN-13: 9788176370813
 
 The English translation of the Charaka Samhita (by Caraka) deals with Ayurveda (also ‘the science of life’) and includes eight sections dealing with Sutrasthana (general principles), Nidanasthana (pathology), Vimanasthana (training), Sharirasthana (anatomy), Indriyasthana (sensory), Cikitsasthana (therapeutics), Kalpasthana (pharmaceutics) and Sidd...
 
@@ -21317,10 +20925,7 @@ Here are the recapitulatory verses—
 
 ## 130. Chapter 10 - The Pharmaceutics of the Thorny Milk-hedge Plant (sudha-kalpa)
 
-
 Charaka Samhita (English translation)
-
-by Shree Gulabkunverba Ayurvedic Society | 1949 | 383,279 words | ISBN-13: 9788176370813
 
 The English translation of the Charaka Samhita (by Caraka) deals with Ayurveda (also ‘the science of life’) and includes eight sections dealing with Sutrasthana (general principles), Nidanasthana (pathology), Vimanasthana (training), Sharirasthana (anatomy), Indriyasthana (sensory), Cikitsasthana (therapeutics), Kalpasthana (pharmaceutics) and Sidd...
 
@@ -21374,17 +20979,11 @@ Here are the recapitulatory verses—
 
 ## 131. Chapter 2 - The Seeds of Rough chaff (apamarga-tanduliya)
 
-
-
-
 ---
 
 ## 132. Chapter 11 - The Pharmaceutics of the Soap-pod and Clenolepis
 
-
 Charaka Samhita (English translation)
-
-by Shree Gulabkunverba Ayurvedic Society | 1949 | 383,279 words | ISBN-13: 9788176370813
 
 The English translation of the Charaka Samhita (by Caraka) deals with Ayurveda (also ‘the science of life’) and includes eight sections dealing with Sutrasthana (general principles), Nidanasthana (pathology), Vimanasthana (training), Sharirasthana (anatomy), Indriyasthana (sensory), Cikitsasthana (therapeutics), Kalpasthana (pharmaceutics) and Sidd...
 
@@ -21432,10 +21031,7 @@ Here are the two recapitulatory verses—
 
 ## 133. Chapter 9 - The Pharmaceutics of Tilwaka (tilvaka-kalpa)
 
-
 Charaka Samhita (English translation)
-
-by Shree Gulabkunverba Ayurvedic Society | 1949 | 383,279 words | ISBN-13: 9788176370813
 
 The English translation of the Charaka Samhita (by Caraka) deals with Ayurveda (also ‘the science of life’) and includes eight sections dealing with Sutrasthana (general principles), Nidanasthana (pathology), Vimanasthana (training), Sharirasthana (anatomy), Indriyasthana (sensory), Cikitsasthana (therapeutics), Kalpasthana (pharmaceutics) and Sidd...
 
@@ -21489,10 +21085,7 @@ Here are the two recapitulatory verses—
 
 ## 134. Chapter 12a - The Pharmaceutics of the Physic nut [danti-dravanti-kalpa]
 
-
 Charaka Samhita (English translation)
-
-by Shree Gulabkunverba Ayurvedic Society | 1949 | 383,279 words | ISBN-13: 9788176370813
 
 The English translation of the Charaka Samhita (by Caraka) deals with Ayurveda (also ‘the science of life’) and includes eight sections dealing with Sutrasthana (general principles), Nidanasthana (pathology), Vimanasthana (training), Sharirasthana (anatomy), Indriyasthana (sensory), Cikitsasthana (therapeutics), Kalpasthana (pharmaceutics) and Sidd...
 
@@ -21572,10 +21165,7 @@ Here are the two recapitulatory verses—
 
 ## 135. Chapter 12b - Miscellany of instruction
 
-
 Charaka Samhita (English translation)
-
-by Shree Gulabkunverba Ayurvedic Society | 1949 | 383,279 words | ISBN-13: 9788176370813
 
 The English translation of the Charaka Samhita (by Caraka) deals with Ayurveda (also ‘the science of life’) and includes eight sections dealing with Sutrasthana (general principles), Nidanasthana (pathology), Vimanasthana (training), Sharirasthana (anatomy), Indriyasthana (sensory), Cikitsasthana (therapeutics), Kalpasthana (pharmaceutics) and Sidd...
 
@@ -21675,10 +21265,7 @@ Here are verses again—
 
 ## 136. Chapter 12c - Table of Measures (mana)
 
-
 Charaka Samhita (English translation)
-
-by Shree Gulabkunverba Ayurvedic Society | 1949 | 383,279 words | ISBN-13: 9788176370813
 
 The English translation of the Charaka Samhita (by Caraka) deals with Ayurveda (also ‘the science of life’) and includes eight sections dealing with Sutrasthana (general principles), Nidanasthana (pathology), Vimanasthana (training), Sharirasthana (anatomy), Indriyasthana (sensory), Cikitsasthana (therapeutics), Kalpasthana (pharmaceutics) and Sidd...
 
@@ -21708,10 +21295,7 @@ Two types of Measure [mana]
 
 ## 137. Chapter 2 - The Fivefold Purificatory Therapy (panchakarma-siddhi)
 
-
 Charaka Samhita (English translation)
-
-by Shree Gulabkunverba Ayurvedic Society | 1949 | 383,279 words | ISBN-13: 9788176370813
 
 The English translation of the Charaka Samhita (by Caraka) deals with Ayurveda (also ‘the science of life’) and includes eight sections dealing with Sutrasthana (general principles), Nidanasthana (pathology), Vimanasthana (training), Sharirasthana (anatomy), Indriyasthana (sensory), Cikitsasthana (therapeutics), Kalpasthana (pharmaceutics) and Sidd...
 
@@ -21779,10 +21363,7 @@ Here are the recapitulatory verses—24. Thus has the fivefold mode of purificat
 
 ## 138. Siddhisthana (Siddhi Sthana) — Section on Successful Treatment
 
-
 Charaka Samhita (English translation)
-
-by Shree Gulabkunverba Ayurvedic Society | 1949 | 383,279 words | ISBN-13: 9788176370813
 
 The English translation of the Charaka Samhita (by Caraka) deals with Ayurveda (also ‘the science of life’) and includes eight sections dealing with Sutrasthana (general principles), Nidanasthana (pathology), Vimanasthana (training), Sharirasthana (anatomy), Indriyasthana (sensory), Cikitsasthana (therapeutics), Kalpasthana (pharmaceutics) and Sidd...
 
@@ -21794,10 +21375,7 @@ Siddhisthana (Siddhi Sthana) — Section on Successful Treatment
 
 ## 139. Chapter 4 - Complications of Unctuous Enema (sneha-vyapad-siddhi)
 
-
 Charaka Samhita (English translation)
-
-by Shree Gulabkunverba Ayurvedic Society | 1949 | 383,279 words | ISBN-13: 9788176370813
 
 The English translation of the Charaka Samhita (by Caraka) deals with Ayurveda (also ‘the science of life’) and includes eight sections dealing with Sutrasthana (general principles), Nidanasthana (pathology), Vimanasthana (training), Sharirasthana (anatomy), Indriyasthana (sensory), Cikitsasthana (therapeutics), Kalpasthana (pharmaceutics) and Sidd...
 
@@ -21889,10 +21467,7 @@ Here are the two recapitulatory verses—
 
 ## 140. Chapter 3 - The Principles of the Enema Procedure (basti-sutra-sddhi)
 
-
 Charaka Samhita (English translation)
-
-by Shree Gulabkunverba Ayurvedic Society | 1949 | 383,279 words | ISBN-13: 9788176370813
 
 The English translation of the Charaka Samhita (by Caraka) deals with Ayurveda (also ‘the science of life’) and includes eight sections dealing with Sutrasthana (general principles), Nidanasthana (pathology), Vimanasthana (training), Sharirasthana (anatomy), Indriyasthana (sensory), Cikitsasthana (therapeutics), Kalpasthana (pharmaceutics) and Sidd...
 
@@ -21986,10 +21561,7 @@ Summary
 
 ## 141. Chapter 5 - Complications of Enema-tube (netra-basti-vyapad-siddhi)
 
-
 Charaka Samhita (English translation)
-
-by Shree Gulabkunverba Ayurvedic Society | 1949 | 383,279 words | ISBN-13: 9788176370813
 
 The English translation of the Charaka Samhita (by Caraka) deals with Ayurveda (also ‘the science of life’) and includes eight sections dealing with Sutrasthana (general principles), Nidanasthana (pathology), Vimanasthana (training), Sharirasthana (anatomy), Indriyasthana (sensory), Cikitsasthana (therapeutics), Kalpasthana (pharmaceutics) and Sidd...
 
@@ -22041,10 +21613,7 @@ Here is the recapitulatory verse.
 
 ## 142. Chapter 6 - Complications of Emesis (vamana) and Purgation (virecana)
 
-
 Charaka Samhita (English translation)
-
-by Shree Gulabkunverba Ayurvedic Society | 1949 | 383,279 words | ISBN-13: 9788176370813
 
 The English translation of the Charaka Samhita (by Caraka) deals with Ayurveda (also ‘the science of life’) and includes eight sections dealing with Sutrasthana (general principles), Nidanasthana (pathology), Vimanasthana (training), Sharirasthana (anatomy), Indriyasthana (sensory), Cikitsasthana (therapeutics), Kalpasthana (pharmaceutics) and Sidd...
 
@@ -22224,10 +21793,7 @@ Here are the two recapitulatory verses—
 
 ## 143. Chapter 9 - Disorders affecting the Three Vital Regions in the body (trimarma-sddhi)
 
-
 Charaka Samhita (English translation)
-
-by Shree Gulabkunverba Ayurvedic Society | 1949 | 383,279 words | ISBN-13: 9788176370813
 
 The English translation of the Charaka Samhita (by Caraka) deals with Ayurveda (also ‘the science of life’) and includes eight sections dealing with Sutrasthana (general principles), Nidanasthana (pathology), Vimanasthana (training), Sharirasthana (anatomy), Indriyasthana (sensory), Cikitsasthana (therapeutics), Kalpasthana (pharmaceutics) and Sidd...
 
@@ -22417,10 +21983,7 @@ Here are the two recapitulatory verses—
 
 ## 144. Chapter 7 - Complications of Enema (basti-vyapad-siddhi)
 
-
 Charaka Samhita (English translation)
-
-by Shree Gulabkunverba Ayurvedic Society | 1949 | 383,279 words | ISBN-13: 9788176370813
 
 The English translation of the Charaka Samhita (by Caraka) deals with Ayurveda (also ‘the science of life’) and includes eight sections dealing with Sutrasthana (general principles), Nidanasthana (pathology), Vimanasthana (training), Sharirasthana (anatomy), Indriyasthana (sensory), Cikitsasthana (therapeutics), Kalpasthana (pharmaceutics) and Sidd...
 
@@ -22530,10 +22093,7 @@ Here is the recapitulatory verse—
 
 ## 145. Chapter 10 - Successful Enema therapy (basti-siddhi)
 
-
 Charaka Samhita (English translation)
-
-by Shree Gulabkunverba Ayurvedic Society | 1949 | 383,279 words | ISBN-13: 9788176370813
 
 The English translation of the Charaka Samhita (by Caraka) deals with Ayurveda (also ‘the science of life’) and includes eight sections dealing with Sutrasthana (general principles), Nidanasthana (pathology), Vimanasthana (training), Sharirasthana (anatomy), Indriyasthana (sensory), Cikitsasthana (therapeutics), Kalpasthana (pharmaceutics) and Sidd...
 
@@ -22617,10 +22177,7 @@ Here are the recapitulatory verses—
 
 ## 146. Chapter 8 - The Enema consisting of the Prasrita measure (prasritayoga-siddhi)
 
-
 Charaka Samhita (English translation)
-
-by Shree Gulabkunverba Ayurvedic Society | 1949 | 383,279 words | ISBN-13: 9788176370813
 
 The English translation of the Charaka Samhita (by Caraka) deals with Ayurveda (also ‘the science of life’) and includes eight sections dealing with Sutrasthana (general principles), Nidanasthana (pathology), Vimanasthana (training), Sharirasthana (anatomy), Indriyasthana (sensory), Cikitsasthana (therapeutics), Kalpasthana (pharmaceutics) and Sidd...
 
@@ -22720,10 +22277,7 @@ Here is the recapitulatory verse—
 
 ## 147. Chapter 12 - The remaining best kinds of Enema (uttara-basti-siddhi)
 
-
 Charaka Samhita (English translation)
-
-by Shree Gulabkunverba Ayurvedic Society | 1949 | 383,279 words | ISBN-13: 9788176370813
 
 The English translation of the Charaka Samhita (by Caraka) deals with Ayurveda (also ‘the science of life’) and includes eight sections dealing with Sutrasthana (general principles), Nidanasthana (pathology), Vimanasthana (training), Sharirasthana (anatomy), Indriyasthana (sensory), Cikitsasthana (therapeutics), Kalpasthana (pharmaceutics) and Sidd...
 
@@ -22949,10 +22503,7 @@ Merits accruing from the knowledge of this Science
 
 ## 148. Chapter 11 - The Dose of the Enema (phala-matra-siddhi)
 
-
 Charaka Samhita (English translation)
-
-by Shree Gulabkunverba Ayurvedic Society | 1949 | 383,279 words | ISBN-13: 9788176370813
 
 The English translation of the Charaka Samhita (by Caraka) deals with Ayurveda (also ‘the science of life’) and includes eight sections dealing with Sutrasthana (general principles), Nidanasthana (pathology), Vimanasthana (training), Sharirasthana (anatomy), Indriyasthana (sensory), Cikitsasthana (therapeutics), Kalpasthana (pharmaceutics) and Sidd...
 
@@ -23042,10 +22593,7 @@ Here is the recapitulatory verse—
 
 ## 149. Chapter 1 - Successful line of Treatment (kalpana-siddhi)
 
-
 Charaka Samhita (English translation)
-
-by Shree Gulabkunverba Ayurvedic Society | 1949 | 383,279 words | ISBN-13: 9788176370813
 
 The English translation of the Charaka Samhita (by Caraka) deals with Ayurveda (also ‘the science of life’) and includes eight sections dealing with Sutrasthana (general principles), Nidanasthana (pathology), Vimanasthana (training), Sharirasthana (anatomy), Indriyasthana (sensory), Cikitsasthana (therapeutics), Kalpasthana (pharmaceutics) and Sidd...
 
@@ -23185,10 +22733,7 @@ Here is the recapitulatory verse—
 
 ## 150. Cikitsasthana (Cikitsa Sthana) — Section on Therapeutics
 
-
 Charaka Samhita (English translation)
-
-by Shree Gulabkunverba Ayurvedic Society | 1949 | 383,279 words | ISBN-13: 9788176370813
 
 The English translation of the Charaka Samhita (by Caraka) deals with Ayurveda (also ‘the science of life’) and includes eight sections dealing with Sutrasthana (general principles), Nidanasthana (pathology), Vimanasthana (training), Sharirasthana (anatomy), Indriyasthana (sensory), Cikitsasthana (therapeutics), Kalpasthana (pharmaceutics) and Sidd...
 

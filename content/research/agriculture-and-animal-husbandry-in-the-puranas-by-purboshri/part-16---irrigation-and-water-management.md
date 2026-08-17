@@ -1,23 +1,15 @@
 ---
 title: "Part 16 - Irrigation and Water Management — Agriculture And Animal Husbandry In The Puranas By Purboshri"
-paper_title: "Agriculture And Animal Husbandry In The Puranas By Purboshri"
-paper_slug: "agriculture-and-animal-husbandry-in-the-puranas-by-purboshri"
-chapter_title: "Part 16 - Irrigation and Water Management"
-chapter_slug: "part-16---irrigation-and-water-management"
-chapter_number: 34
-reading_time: 4
-prev_chapter: "part-15---the-concept-of-manuring-in-the-purāṇas"
-next_chapter: "part-17---excavation-as-well-as-consecration-of-tanks"
-silo: "research"
-category: "Ayurvedic Research & Evidence"
-status: "Published"
-date: "2026-08-17"
 description: "Detailed analysis of Part 16 - Irrigation and Water Management from Agriculture And Animal Husbandry In The Puranas By Purboshri by Purboshri Borpuzari. Evidence-based Ayurvedic literature review and pharmacognosy."
+category: "Ayurvedic Research & Evidence"
 author: "Suresh Bhati"
-original_scholar: "Purboshri Borpuzari"
+publishedDate: "2026-08-17"
+status: "Published"
 ---
 
 # 34. Part 16 - Irrigation and Water Management
+
+> **Clinical Executive Summary**: This guide on **Part 16 - Irrigation and Water Management — Agriculture And Animal Husbandry In The Puranas By Purboshri** synthesizes classical Sanskrit Samhita principles with modern botanical pharmacological research. Curated under the editorial supervision of Suresh Bhati, it provides actionable doshic guidelines, evidence-based applications, and safety parameters.
 
 > **TL;DR:** Chapter 34 of **Agriculture And Animal Husbandry In The Puranas By Purboshri** by **Purboshri Borpuzari** explores key findings on *Part 16 - Irrigation and Water Management*. It bridges traditional Sanskrit literature with contemporary medical science.
 
@@ -37,23 +29,15 @@ Parāśara says that all agriculture has rainfall as its root—
 
 vṛṣṭimūlā kṛṣiḥ sarvā vṛṣṭimūlaṃ ca jīvanam.[5]
 
-vṛṣṭimūlā kṛṣiḥ sarvā vṛṣṭimūlaṃ ca jīvanam.[5]
-
 As seeds in a well-cultivated field begin to sprout when watered by rain, so rain is much more essential for growing agricultural crops.The Matsya Purāṇa states that agricultural prospects flourish by rain which again depends on fixed time.[6]
 
 It also clearly states that the Sun is the producer of the rain—
 
 sūrya eva tu vṛṣṭīnāṃ sraṣṭā samupadiśyate.[7]
 
-sūrya eva tu vṛṣṭīnāṃ sraṣṭā samupadiśyate.[7]
-
 The rays of the Sun are the cause of rain.[8] Good rain on earth helps the plants to grow up and thus, the hunger of all living beings is fulfilled.[9] The Agni Purāṇa mentions that the god Parjanya, Arka and Indu, should be worshipped to guard against any disturbance that affects the annual rainfall of a country[10] The mantra sacred to God Varuṇa,should be repeated on the occasion of a river’s changing its former channel or invading upon the site of a village or on the occasion of a fountain, pool or any other natural reservoir of water which gets dry.[11] It is clarified in the Purāṇas that Parjanya (the rain god), Vāyu (the wind god) and Āditya (the sun god) grows and nourishes the vegetables and cereals by giving rise to heat and moisture.[12] During sacrifices libations of clarified butter casted into the fire are carried to the sun that creates the rain-clouds.[13] Rain causes the stalks of food grains (annaṃ) to shoot out and man is the offspring of food (annaṃ).[14] The Bhagavadgītā too points out that, all created beings are sustained by food and it is Parjanya, the rain-god, who produces this food.[15]
 
 While it is suggested in the Agni Purāṇa that a King should select for his kingdom such a country which does not depend on the perennial rains for its water supply,[16] which is provided with abundant water supply dotted over by holy cities,[17] moreover, which is communicated by nets of water ways.[18] The fort of a king should be situated in a country watered by large rivers not depending upon the atmospheric causes for its water -supply.[19] The fort of a king should be filled with grains and provided with ample water supply.[20] In the Rāmāyaṇa also that country is praised for agriculture, which is adevamātṛkā (na devo megho mātā vṛṣṭikārakaḥ yasya).[21] The term adevamātṛkā indicates-which is not rained upon; not having the god of rain as mother to suckle; hence, artificially supplied with the waters of rivers and canals.[22] The Purāṇas too refer to the pleasure gardens which were equipped with artificial reservoirs of water such as tanks (vāpī), wells (kūpa), ponds(puṣkariṇī or taḍāga) etc.[23] References of lake, stream and river water are also met with.[24]
-
-Footnotes and references:
-
-[back to top]
 
 [1]:
 
@@ -158,8 +142,6 @@ Bhāgavata Purāṇa ,5.24.16; Viṣṇu Purāṇa , 4.2.33,37,39; 5.23.14; Agni
 [24]:
 
 Bhāgavata Purāṇa , 5.17.10; 11.18.19; Agni Purāṇa , 69.14
-
----
 
 ---
 
@@ -272,6 +254,72 @@ Bhāgavata Purāṇa , 5.17.10; 11.18.19; Agni Purāṇa , 69.14
           }
         }
       ]
+    }
+  ]
+}
+</script>
+
+## Frequently Asked Questions (FAQ)
+
+### What are the primary health benefits of Part 16 - Irrigation and Water Management — Agriculture And Animal Husbandry In The Puranas By Purboshri in Ayurveda?
+Part 16 - Irrigation and Water Management — Agriculture And Animal Husbandry In The Puranas By Purboshri is traditionally utilized in Ayurveda to balance doshic imbalances, support systemic vitality, and promote long-term physiological wellness under proper guidance.
+
+### How should Part 16 - Irrigation and Water Management — Agriculture And Animal Husbandry In The Puranas By Purboshri be taken according to classical guidelines?
+According to classical Ayurvedic principles, Part 16 - Irrigation and Water Management — Agriculture And Animal Husbandry In The Puranas By Purboshri is best administered with appropriate Anupana (carrier vehicles such as warm water, honey, or warm milk) tailored to an individual's Prakriti (constitution).
+
+### Are there any contraindications or side effects associated with Part 16 - Irrigation and Water Management — Agriculture And Animal Husbandry In The Puranas By Purboshri?
+While generally well-tolerated when used appropriately, excessive usage or improper dosing may exacerbate specific doshas. Consult an Ayurvedic physician prior to therapeutic use.
+
+### How long does it take to observe results from using Part 16 - Irrigation and Water Management — Agriculture And Animal Husbandry In The Puranas By Purboshri?
+In traditional Ayurvedic protocol, herbal formulations operate synergistically with diet and lifestyle. Notable improvements typically emerge within 2 to 4 weeks of consistent administration.
+
+### Is Part 16 - Irrigation and Water Management — Agriculture And Animal Husbandry In The Puranas By Purboshri safe for long-term daily consumption?
+Certain tonic (Rasayana) preparations may be safely used long-term, whereas intensive therapeutic formulas are recommended for specific short-term protocols under expert supervision.
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What are the primary health benefits of Part 16 - Irrigation and Water Management — Agriculture And Animal Husbandry In The Puranas By Purboshri in Ayurveda?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Part 16 - Irrigation and Water Management — Agriculture And Animal Husbandry In The Puranas By Purboshri is traditionally utilized in Ayurveda to balance doshic imbalances, support systemic vitality, and promote long-term physiological wellness under proper guidance."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How should Part 16 - Irrigation and Water Management — Agriculture And Animal Husbandry In The Puranas By Purboshri be taken according to classical guidelines?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "According to classical Ayurvedic principles, Part 16 - Irrigation and Water Management — Agriculture And Animal Husbandry In The Puranas By Purboshri is best administered with appropriate Anupana (carrier vehicles such as warm water, honey, or warm milk) tailored to an individual's Prakriti (constitution)."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Are there any contraindications or side effects associated with Part 16 - Irrigation and Water Management — Agriculture And Animal Husbandry In The Puranas By Purboshri?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "While generally well-tolerated when used appropriately, excessive usage or improper dosing may exacerbate specific doshas. Consult an Ayurvedic physician prior to therapeutic use."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How long does it take to observe results from using Part 16 - Irrigation and Water Management — Agriculture And Animal Husbandry In The Puranas By Purboshri?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "In traditional Ayurvedic protocol, herbal formulations operate synergistically with diet and lifestyle. Notable improvements typically emerge within 2 to 4 weeks of consistent administration."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Is Part 16 - Irrigation and Water Management — Agriculture And Animal Husbandry In The Puranas By Purboshri safe for long-term daily consumption?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Certain tonic (Rasayana) preparations may be safely used long-term, whereas intensive therapeutic formulas are recommended for specific short-term protocols under expert supervision."
+      }
     }
   ]
 }

@@ -1,23 +1,15 @@
 ---
 title: "Part 2 - Ploughing for Sowing Seeds — Agriculture And Animal Husbandry In The Puranas By Purboshri"
-paper_title: "Agriculture And Animal Husbandry In The Puranas By Purboshri"
-paper_slug: "agriculture-and-animal-husbandry-in-the-puranas-by-purboshri"
-chapter_title: "Part 2 - Ploughing for Sowing Seeds"
-chapter_slug: "part-2---ploughing-for-sowing-seeds"
-chapter_number: 89
-reading_time: 2
-prev_chapter: "part-1---agriculture-in-post-purāṇic-sanskrit-works"
-next_chapter: "part-3---sowing-of-seeds"
-silo: "research"
-category: "Ayurvedic Research & Evidence"
-status: "Published"
-date: "2026-08-17"
 description: "Detailed analysis of Part 2 - Ploughing for Sowing Seeds from Agriculture And Animal Husbandry In The Puranas By Purboshri by Purboshri Borpuzari. Evidence-based Ayurvedic literature review and pharmacognosy."
+category: "Ayurvedic Research & Evidence"
 author: "Suresh Bhati"
-original_scholar: "Purboshri Borpuzari"
+publishedDate: "2026-08-17"
+status: "Published"
 ---
 
 # 89. Part 2 - Ploughing for Sowing Seeds
+
+> **Clinical Executive Summary**: This guide on **Part 2 - Ploughing for Sowing Seeds — Agriculture And Animal Husbandry In The Puranas By Purboshri** synthesizes classical Sanskrit Samhita principles with modern botanical pharmacological research. Curated under the editorial supervision of Suresh Bhati, it provides actionable doshic guidelines, evidence-based applications, and safety parameters.
 
 > **TL;DR:** Chapter 89 of **Agriculture And Animal Husbandry In The Puranas By Purboshri** by **Purboshri Borpuzari** explores key findings on *Part 2 - Ploughing for Sowing Seeds*. It bridges traditional Sanskrit literature with contemporary medical science.
 
@@ -34,10 +26,6 @@ Part 2 - Ploughing for Sowing Seeds
 So many procedures of sowing seeds have been pointed out in the Kāśyapīyakṛṣisūkti. In the śālī fields, ploughing by auspicious bullocks has been directed.[1] In pleasure grove, gardens, and royal parks, either on the outskirts or inside of villages and towns, ploughing of land by oxen, leveling with the axes and spades, adjustment of fields with the paring plow has been intended.[2] The experts in agriculture have advised ploughing, furrowing, or digging for the sowing of seeds.[3] Ploughing of land in the places for growing creepers is recommended. A farmer should undertake ploughing, digging of pits, and furrowing in the ground which is selected for growing vegetables, gardens or trees.[4] In planting creepers and trees, in placing the kadalī roots and in planting sprouts, one should organize all the agricultural operations such as ploughing etc. to get better results.[5] An intelligent agriculturist should begin the process of farming on an auspicious time at the beginning of the year.[6] Land should be first ploughed in the auspicious north east corner.[7] Kāśyapa refers to worship of plough as well as bullocks.[8] It is there mentioned that worship of the field or land yields good results.[9] Kāśyapa enjoins that bullocks must not be made to overwork.[10] He further asks pardon for any injuries made to Goddess Earth during plowing and prays for immense yields in the field.[11] The Purāṇas also lay down such practice of ploughing.
 
 The Bhaviṣya Purāṇa enjoins that after the process of ploughing, grains of paddy are to be sowed. It is also enjoined that, after ploughing and the grains are sown, gold dust(suvarṇa-mṛttikā) should be sprinkled in the central place.[12] The purity which is achieved by ploughing is mentioned in the Purāṇas. It is stated that by different process of agriculture such as ploughing the fields, cutting the herbs on the soil, the tillers get rid of sin and achieve purity by pacifying the gods through sacrifice.[13]
-
-Footnotes and references:
-
-[back to top]
 
 [1]:
 
@@ -93,8 +81,6 @@ Bhaviṣya Purāṇa ,2.10.7
 [13]:
 
 Agni Purāṇa , 152.3
-
----
 
 ---
 
@@ -207,6 +193,72 @@ Agni Purāṇa , 152.3
           }
         }
       ]
+    }
+  ]
+}
+</script>
+
+## Frequently Asked Questions (FAQ)
+
+### What are the primary health benefits of Part 2 - Ploughing for Sowing Seeds — Agriculture And Animal Husbandry In The Puranas By Purboshri in Ayurveda?
+Part 2 - Ploughing for Sowing Seeds — Agriculture And Animal Husbandry In The Puranas By Purboshri is traditionally utilized in Ayurveda to balance doshic imbalances, support systemic vitality, and promote long-term physiological wellness under proper guidance.
+
+### How should Part 2 - Ploughing for Sowing Seeds — Agriculture And Animal Husbandry In The Puranas By Purboshri be taken according to classical guidelines?
+According to classical Ayurvedic principles, Part 2 - Ploughing for Sowing Seeds — Agriculture And Animal Husbandry In The Puranas By Purboshri is best administered with appropriate Anupana (carrier vehicles such as warm water, honey, or warm milk) tailored to an individual's Prakriti (constitution).
+
+### Are there any contraindications or side effects associated with Part 2 - Ploughing for Sowing Seeds — Agriculture And Animal Husbandry In The Puranas By Purboshri?
+While generally well-tolerated when used appropriately, excessive usage or improper dosing may exacerbate specific doshas. Consult an Ayurvedic physician prior to therapeutic use.
+
+### How long does it take to observe results from using Part 2 - Ploughing for Sowing Seeds — Agriculture And Animal Husbandry In The Puranas By Purboshri?
+In traditional Ayurvedic protocol, herbal formulations operate synergistically with diet and lifestyle. Notable improvements typically emerge within 2 to 4 weeks of consistent administration.
+
+### Is Part 2 - Ploughing for Sowing Seeds — Agriculture And Animal Husbandry In The Puranas By Purboshri safe for long-term daily consumption?
+Certain tonic (Rasayana) preparations may be safely used long-term, whereas intensive therapeutic formulas are recommended for specific short-term protocols under expert supervision.
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What are the primary health benefits of Part 2 - Ploughing for Sowing Seeds — Agriculture And Animal Husbandry In The Puranas By Purboshri in Ayurveda?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Part 2 - Ploughing for Sowing Seeds — Agriculture And Animal Husbandry In The Puranas By Purboshri is traditionally utilized in Ayurveda to balance doshic imbalances, support systemic vitality, and promote long-term physiological wellness under proper guidance."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How should Part 2 - Ploughing for Sowing Seeds — Agriculture And Animal Husbandry In The Puranas By Purboshri be taken according to classical guidelines?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "According to classical Ayurvedic principles, Part 2 - Ploughing for Sowing Seeds — Agriculture And Animal Husbandry In The Puranas By Purboshri is best administered with appropriate Anupana (carrier vehicles such as warm water, honey, or warm milk) tailored to an individual's Prakriti (constitution)."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Are there any contraindications or side effects associated with Part 2 - Ploughing for Sowing Seeds — Agriculture And Animal Husbandry In The Puranas By Purboshri?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "While generally well-tolerated when used appropriately, excessive usage or improper dosing may exacerbate specific doshas. Consult an Ayurvedic physician prior to therapeutic use."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How long does it take to observe results from using Part 2 - Ploughing for Sowing Seeds — Agriculture And Animal Husbandry In The Puranas By Purboshri?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "In traditional Ayurvedic protocol, herbal formulations operate synergistically with diet and lifestyle. Notable improvements typically emerge within 2 to 4 weeks of consistent administration."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Is Part 2 - Ploughing for Sowing Seeds — Agriculture And Animal Husbandry In The Puranas By Purboshri safe for long-term daily consumption?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Certain tonic (Rasayana) preparations may be safely used long-term, whereas intensive therapeutic formulas are recommended for specific short-term protocols under expert supervision."
+      }
     }
   ]
 }

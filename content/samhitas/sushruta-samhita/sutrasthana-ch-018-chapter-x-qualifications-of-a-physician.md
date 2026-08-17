@@ -20,15 +20,9 @@ This chapter from **Sushruta Samhita (Sutrasthana)** represents the classical su
 
 ---
 
-
 Sushruta Samhita, volume 1: Sutrasthana
 
-by Kaviraj Kunja Lal Bhishagratna | 1907 | 148,756 words
-
 This current book, the Sutra-sthana (english translation), is the first part of this voluminous medical work. It contains a large summary of the knowledge envelopig the medical aspects of Ayurveda. Descriptions of diseases, various diets and drugs, the duties of a surgeon, surgical procedures, medical training; these are only some of the numerous s...
-
-Go directly to: 
-Footnotes.
 
 Chapter X - Qualifications of a physician
 
@@ -53,10 +47,6 @@ Authoritative verse on the subject:—
 A physician should abjure the company of women, nor should he speak in private to them or joke with them. A physician is forbidden to take anything but cooked rice from the hands of a woman.
 
 Thus ends the tenth Chapter of the Sutrasthana in the Sushruta Samhita which treats of the essential qualifications of a physician.
-
-Footnotes and references:
-
-[back to top]
 
 [1]:
 

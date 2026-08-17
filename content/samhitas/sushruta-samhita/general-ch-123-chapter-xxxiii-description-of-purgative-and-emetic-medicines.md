@@ -20,17 +20,11 @@ This chapter from **Sushruta Samhita (Chikitsasthana)** represents the classical
 
 ---
 
-
 Sushruta Samhita, volume 4: Cikitsasthana
-
-by Kaviraj Kunja Lal Bhishagratna | 1911 | 123,229 words
 
 This current book, the Chikitsa-sthana (english translation), deals with therapeutics, surgical emergencies, geriatrics, aphrodisiacs and various other subjects.
 
 The Sushruta Samhita is the most representative work of the Hindu system of medicine. It embraces all that can possibly appertain to the science of medicine. Susruta-samhita is recognized...
-
-Go directly to: 
-Footnotes.
 
 Chapter XXXIII - Description of purgative and emetic medicines
 
@@ -119,10 +113,6 @@ Mild emetics and purgatives should be given at the outset to a person to be trea
 The body (health) of a patient to whom a purgative or emetic medicine is administered without first applying Sneha and Sveda thereto breaks up like a piece of sapless wood at the time of bending it. The aggravated Doshas dislodged from their seats in the organism through the effects of Sneha and Sveda and stirred by emollient food[15] are easily expelled by emetics and purgatives. 33.
 
 Thus ends the Thirty-third Chapter of the Chikitsita Sthana in the Sushruta Samhita which deals with the treatment of diseases amenable to the use of emetics and purgatives.
-
-Footnotes and references:
-
-[back to top]
 
 [1]:
 

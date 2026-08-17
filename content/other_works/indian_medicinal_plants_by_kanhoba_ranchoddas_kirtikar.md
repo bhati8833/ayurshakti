@@ -1,14 +1,8 @@
 # Indian Medicinal Plants * by Kanhoba Ranchoddas Kirtikar
 
-**Author / Source:** by Kanhoba Ranchoddas Kirtikar
-
-
-**Total Chapters/Sections:** 21
-
 ---
 
 ## 1. Notes on the knowledge of medicinal plants
-
 
 Indian Medicinal Plants
 
@@ -22,15 +16,9 @@ That much of the knowledge of medicinal plants by the primitive man was obtained
 
 “Man, doubtless, will have acquired much of his knowledge of the nutritive and medicinal value of plants by the same methed as the lower animals, by experience. Like them, too, he will have profited by imitation, and imitation embracing his observation of the habits of the lower animals. It must have been of immense importance to man, when he depended largely for food on wild animals captured in the chase, to watch them closely so as to know their habits. * *
 
-“Man, doubtless, will have acquired much of his knowledge of the nutritive and medicinal value of plants by the same methed as the lower animals, by experience. Like them, too, he will have profited by imitation, and imitation embracing his observation of the habits of the lower animals. It must have been of immense importance to man, when he depended largely for food on wild animals captured in the chase, to watch them closely so as to know their habits. * *
-
-“That a good deal of man’s medicinal knowledge arose accidentally in his efforts to extend the range of his food supply is suggested by the prominent place occupied by food—stuffs in primitive pharmacy06.
-
 “That a good deal of man’s medicinal knowledge arose accidentally in his efforts to extend the range of his food supply is suggested by the prominent place occupied by food—stuffs in primitive pharmacy06.
 
 The ancient Hindus should be given the credit for cultivating what is now called “Ethno-botany”. In Bulletin 55 of the Bureau of American Ethnology, it is said:—
-
-“Ethnobotany is virtually a new field of research, a field which, if investigated thoroughly and systematically will yield results of great value to the ethnologist and incidentally also to the botanist. * * *
 
 “Ethnobotany is virtually a new field of research, a field which, if investigated thoroughly and systematically will yield results of great value to the ethnologist and incidentally also to the botanist. * * *
 
@@ -56,15 +44,11 @@ What a pity that hardly any attention is paid to this subject in modern India.
 
 ## 2. Introduction, part 3: The materia medica of Sanskrit literature
 
-
 Indian Medicinal Plants
 
 by Kanhoba Ranchoddas Kirtikar | 1918
 
 A comprehensive work on Indian Botany including plant synonyms in various languages, habitat description and uses in traditional medicine, such as Ayurveda....
-
-Go directly to: 
-Footnotes.
 
 Introduction, part 3: The materia medica of Sanskrit literature
 
@@ -92,13 +76,9 @@ The Asiatic Society has fulfilled the expectations of its gifted founder. Sir Wi
 
 “Some hundreds of plants which are yet imperfectly known to European botanists and with the virtues of which they are wholly unacquainted, grow wild on the plains and in the forests of India. The Amarakosha, an excellent vocabulary of the Sanskrit language, contains in one chapter the names of about 300 medicinal vegetables; the Medini may comprise many more; and the Dravyabhidhana or Dictionary of natural productions includes, I believe, a far greater number, the properties of which are distinctly related in medical tracts of approved authority.”[3]
 
-“Some hundreds of plants which are yet imperfectly known to European botanists and with the virtues of which they are wholly unacquainted, grow wild on the plains and in the forests of India. The Amarakosha, an excellent vocabulary of the Sanskrit language, contains in one chapter the names of about 300 medicinal vegetables; the Medini may comprise many more; and the Dravyabhidhana or Dictionary of natural productions includes, I believe, a far greater number, the properties of which are distinctly related in medical tracts of approved authority.”[3]
-
 The example set by Sir William Jones was not lost upon his successors. Roxburgh, the Linnaeus of Indian Botany, collected all the informations about the medicinal plants of this country in his Flora Indica. Professor Lindley in his work on Flora Medica is indebted for his information regarding the medicinal plants of India to Roxburgh’s magnum opus.
 
 Roxburgh’s Flora Indica was an authority on the medicinal plants of this country till the publication of the Pharmacopoeia of India. Mr. Clarke in his edition of Roxburgh’s Flora Indica writing in 1874, truly observed that
-
-“Roxburgh contains all the Economic Indian Botany known to him, and we have added very few economic facts since. * * * * * We have had plenty of Government and other reports, some very large and expensive ones it is true, but we have very little economic work by persons competent as botanists. * * * Roxburgh is most trust worthy in his Economic botany, and contains virtually all that is known on the subject.”[4]
 
 “Roxburgh contains all the Economic Indian Botany known to him, and we have added very few economic facts since. * * * * * We have had plenty of Government and other reports, some very large and expensive ones it is true, but we have very little economic work by persons competent as botanists. * * * Roxburgh is most trust worthy in his Economic botany, and contains virtually all that is known on the subject.”[4]
 
@@ -122,8 +102,6 @@ The publication of the Pharmacopoeia of India in 1867 under the authority of Her
 
 “With the view, firstly, of bringing to the notice of the profession in India those indigenous drugs which European experience has proved to possess value as medicinal agents, and which may be employed as efficient substitutes for imported articles; and, secondly, of remodelling the Bengal Pharmacopoeia of 1841, Her Majesty’s Secretary of State for India in Council was pleased to sanction the publication of a Pharmacopoeia for India based upon the British Pharmacopoeia, which, while affording all the information contained in that work of practical use in India, would embody and combine with it such supplementary matter of special value in that country as should adapt it to meet the requirements of the Indian Medical Department.”[6]
 
-“With the view, firstly, of bringing to the notice of the profession in India those indigenous drugs which European experience has proved to possess value as medicinal agents, and which may be employed as efficient substitutes for imported articles; and, secondly, of remodelling the Bengal Pharmacopoeia of 1841, Her Majesty’s Secretary of State for India in Council was pleased to sanction the publication of a Pharmacopoeia for India based upon the British Pharmacopoeia, which, while affording all the information contained in that work of practical use in India, would embody and combine with it such supplementary matter of special value in that country as should adapt it to meet the requirements of the Indian Medical Department.”[6]
-
 The information that lay scattered among a large number of periodicals was brought together in this work and made accessible for reference to the medical officers serving in this country. Between the publication in Calcutta of the Bengal Pharmacopoeia in 1844, and the issue of the Indian Pharma copœia in 1868, that is during the period of twenty-four years, great advances were made in our knowledge regarding the medicinal properties and therapeutic uses of the indigenous drugs.
 
 The establishment of Medical Colleges and schools in this country also advanced our knowledge of indigenous drugs. The graduates whom the colleges turned out directed their attention to the subject. They were not slow in recognising the importance of the study of indigenous drugs. There were other laborers also in the field. Dr. Waring, who edited the Indian Pharmacopoeia so creditably, was one of the most painstaking and careful observers of the properties and uses of indigenous drugs. His attention was drawn to the subject when serving out in Burma. The stock of his European medicines having been exhausted, he was in great perplexity and hardly knew what to do. In such a crisis, he turned to the medicinal plants of the country. His extensive knowledge of Botany stood him in good stead greatly. He found indigenous drugs to answer his purposes as satisfactorily as the costly imported medicines of Europe. The series of papers under the title, “Notes on some of the principal Indigenous Tonics, Anthelmintics, &c., of India,” published in the early volumes of the “Indian Annals of Medical Science,” now defunct, shows the careful and painstaking manner in which he had studied the subject.
@@ -133,10 +111,6 @@ The use of the Pharmacopoeia as a text book in the colleges and schools of this 
 Mention should also be made of the establishment of the Forest Department and the School of Forestry in this country as helping in increasing oar knowledge of indigenous drugs. The forest officers have brought to light several plants used medicinally by the natives of this country. The late Dr. Stewart in his Punjab Plants, mentioned a large number of medicinal plants used by the rustics and villagers of the Panjab. Mr. Gamble and other forest officers have also noticed the medicinal plants of other parts of India. The increase in our knowledge of the properties and uses of the indigenous drugs by these means has not been inconsiderable.
 
 The Calcutta International Exhibition of 1883-84 has done much towards the study of indigenous drugs. Credit is due to Mr. T. N. Mukerjee and Sir George Watt, who spared no pains to make the Exhibition of indigenous drugs as complete as possible. The Dictionary of the Economic Products of India, originally projected by Mr. Mukherji, but subsequently completed by Dr. G. Watt, contains informations from all possible sources, as to the uses and properties of indigenous drugs.
-
-Footnotes and references:
-
-[back to top]
 
 [1]:
 
@@ -166,23 +140,17 @@ Preface to the Indian Pharmacopoeia, p.vi.
 
 ## 3. Introduction, part 5: Medicinal supply of indigenous drugs
 
-
 Indian Medicinal Plants
 
 by Kanhoba Ranchoddas Kirtikar | 1918
 
 A comprehensive work on Indian Botany including plant synonyms in various languages, habitat description and uses in traditional medicine, such as Ayurveda....
 
-Go directly to: 
-Footnotes.
-
 Introduction, part 5: Medicinal supply of indigenous drugs
 
 The outlook is not so gloomy now as it was more than twenty-five years ago, when I commenced the study of the subject. The Petit Laboratory established in Bombay was almost the first institution intended to work out the pharmacology of Indian drugs. For this purpose, the late Dr. K. N. Bahadurji was appointed to its charge.
 
 The Indian Medical Congress held in Calcutta in 1894 recorded the following resolution:—
-
-“That it be recommended, to the consideration of the Government of India that an extended use of indigenous drugs is most desirable.”
 
 “That it be recommended, to the consideration of the Government of India that an extended use of indigenous drugs is most desirable.”
 
@@ -239,13 +207,7 @@ It is the bounden duty of educated Indians to do all that lies in their power fo
 
 “The resuscitation of Indian medical science is a noble and useful work which ought to be performed by educated Hindoos. * *  It is perfectly true that Indian drugs ought to be largely studied and used by medical practitioners in this country. European medical men fully admit this truth and some of them have labored earnestly and assiduously to accomplish this object. But it is easy to understand that the efforts of foreigners must be necessarily imperfect and unproductive of adequate results. Upon educated Indian members of the profession, therefore, devolves this great and solemn duty, for it is they alone who can discharge it adequately and well. * * In India the foreign and the indigenous systems ought to be read together if full benefit is to be derived from either.”
 
-“The resuscitation of Indian medical science is a noble and useful work which ought to be performed by educated Hindoos. * *  It is perfectly true that Indian drugs ought to be largely studied and used by medical practitioners in this country. European medical men fully admit this truth and some of them have labored earnestly and assiduously to accomplish this object. But it is easy to understand that the efforts of foreigners must be necessarily imperfect and unproductive of adequate results. Upon educated Indian members of the profession, therefore, devolves this great and solemn duty, for it is they alone who can discharge it adequately and well. * * In India the foreign and the indigenous systems ought to be read together if full benefit is to be derived from either.”
-
 B. D. BASU.
-
-Footnotes and references:
-
-[back to top]
 
 [1]:
 
@@ -267,15 +229,11 @@ A few enterprising Ayurvedic practitioners of Calcutta have established such far
 
 ## 4. Preface
 
-
 Indian Medicinal Plants
 
 by Kanhoba Ranchoddas Kirtikar | 1918
 
 A comprehensive work on Indian Botany including plant synonyms in various languages, habitat description and uses in traditional medicine, such as Ayurveda....
-
-Go directly to: 
-Footnotes.
 
 Preface
 
@@ -334,15 +292,11 @@ Dr. Garnett writes:—
 
 “The truly artistic production, * * * may well outlast the inferior work * * as the diamond survives the glass which it engraves.”[2]
 
-“The truly artistic production, * * * may well outlast the inferior work * * as the diamond survives the glass which it engraves.”[2]
-
 The illustrated works on Indian Botany of such well-known masters of the subject, as Rheede, Roxburgh, Royle, Burman, Brandis, Beddome, Griffith, Wallich, Wight and several others, are not easily accessible to those who are interested in the study of the subject. It is, therefore, that their illustrations have been copied and supplemented, where necessary, by further details.
 
 I was in charge of the Indigenous Drugs Court of the United Provinces Exhibition held at Allahabad in December 1910 and January and February 1911. One of the special features of the Indigenous Drugs Court was the exhibition of herbarium specimens and of drawings of almost all the known plants used in medicine in this country. I collected drawings from the illustrated works on Indian Botany and other standard works on that subject available in the United Provinces. The late Dr. E. G. Hill lent to the exhibition the illustrated works on Botany from the Allahabad Public Library of which he was the Secretary. The President and the Imperial Forest Botanist of the Forest Research Institute of Dehra Dun were kind enough to lend illustrated books on Botany which were not to be had at Allahabad. The late Lieutenant-Colonel Kirtikar, F.L.S., I.M.S., (Retd.) very kindly lent the paintings already referred to above to the exhibition.
 
 But still I was unable to secure illustrations of about 300 Indian Medicinal Plants for the Exhibition. I. wrote to the Superintendent, Royal Botanical Garden, Shibpur, Calcutta, if he would kindly lend the drawings of those plants from the Herbarium in his charge. In his letter dated 24th May, 1910, he wrote:—
-
-“I regret that I cannot see my way to let you have a loan of the original drawings of any plants, as it is a strict rule in all botanical institutions that original drawings are not allowed to go out of the building for any purpose, as in the event of loss or damage they could not possibly be replaced. I should however be quite prepared to have exact copies made of such drawings as may be of interest to you at the expense of the Exhibition. For large full size drawings coloured, the rate for copying including paper would be Rs. 5-8-0 each.”
 
 “I regret that I cannot see my way to let you have a loan of the original drawings of any plants, as it is a strict rule in all botanical institutions that original drawings are not allowed to go out of the building for any purpose, as in the event of loss or damage they could not possibly be replaced. I should however be quite prepared to have exact copies made of such drawings as may be of interest to you at the expense of the Exhibition. For large full size drawings coloured, the rate for copying including paper would be Rs. 5-8-0 each.”
 
@@ -353,8 +307,6 @@ I went to Calcutta and taking Professor Bhim Chandra Chatterji introduced him to
 The late lamented Mr. G. R. Murray, I.C.S., who was Secretary of the United Provinces Exhibition, took great interest in the Indigenous Drugs Court and did all that lay in his power to make it a success. He got his committee to sanction the sum necessary to procure copies of drawings of the plants. After closure of the Exhibition, while he was acting as Registrar of the High Court, Allahabad, he enquired several times about the progress in printing of the present work, more especially of the plates, thus showing his interest in this publication.
 
 Over 300 drawings were copied in about five months. Professor Bhim Chandra Chatterji had little time to compare the copies with the originals and was, therefore, unable to vouch for their accuracy. Details of several drawings, especially those made from type specimens, had to be completed. So in December 1911 I went down to Calcutta and compared the copies of the drawings with the originals. Owing to pressure of work at Allahabad, I could not prolong my stay in Calcutta. So several plates were left at Shibpur for details to be filled in. Colonel Gage, I.M.S., obliged me by getting this done. In his letter dated 29th March 1912, in returning the drawings he wrote:—
-
-“I return herewith the drawings you sent for filling in the details of the dissections. They have been gone over by Mr. Ramaswamy and checked in every case. It has not always been possible to get precise dissections from the Herbarium specimens, as in the case where there is one specimen we cannot afford to dissect it. I trust however what has been done will prove to your satisfaction.”
 
 “I return herewith the drawings you sent for filling in the details of the dissections. They have been gone over by Mr. Ramaswamy and checked in every case. It has not always been possible to get precise dissections from the Herbarium specimens, as in the case where there is one specimen we cannot afford to dissect it. I trust however what has been done will prove to your satisfaction.”
 
@@ -381,10 +333,6 @@ B. D. BASU,
 Allahabad:
 1st January, 1918.
 
-Footnotes and references:
-
-[back to top]
-
 [1]:
 
 “The Decadence of Modern Literature by Armando Palacio Valdes of Madrid in the International Library of Famous Literature, Vol. xx
@@ -397,15 +345,11 @@ Footnotes and references:
 
 ## 5. Introduction, part 4: Modern medicinal works
 
-
 Indian Medicinal Plants
 
 by Kanhoba Ranchoddas Kirtikar | 1918
 
 A comprehensive work on Indian Botany including plant synonyms in various languages, habitat description and uses in traditional medicine, such as Ayurveda....
-
-Go directly to: 
-Footnotes.
 
 Introduction, part 4: Modern medicinal works
 
@@ -445,10 +389,6 @@ The medicinal plants and drugs of the Central Provinces and Rajputana have not b
 
 Thus it will be seen that, although there are many works on the medicinal plants and drugs of different provinces of India, yet a great deal remains to be done for the drugs and medicinal plants of Cashmere, Beluchistan, Sind, Punjab, United Provinces of Agra andOudh, Behar, Orissa, Assam, Central Provinces and Rajputana. Owing to the publication of the Pharmacographica Indica and Watt's “Dictionary of the Economic Products of India,” there is not the same difficulty now to work out the subject which the early laborers in this field of research experienced For, not only the Flora of British India projected by Hooker has been completed, but Floras of most of the provinces of India have been in recent years prepared by some of the noted Indian botanists. Thus the Bengal Plants by Sir David Prain, the Gangetic Flora describing plants of the United Provinces of Agra & Oudh by Mr. J. F. Duthie, Flora of Bombay by Dr. Theodore Cooke, Flora of the Central Provinces by Mr. Haines, Flora of Madras by Mr. Gamble, Panjab Plants by Colonel Bamber, Flora Simlensis by the late General Collett, Plants of Baluchistan by Mr. Burkill, and Flora of Assam under preparation by Rai Bahadur Upendra Nath Kanjilal, will be of great help to those who are interested in the study of the medicinal plants of this country. Of the Indian States of India, the plants of Kashmir were worked out principally by Jacquemont and Royle; of Nepal by Wallich and recently byMr. J. Hc Burkill; of Bhotan and Sikkim recently by Messrs. Burkill and Smith; of Catch by Revd. Father Blatter; of Mysore in the Gazetteer Volume of that principality; and of Baroda and Kathiawad States by Mr. Jayakrishna Indrajit in Guzerati.
 
-Footnotes and references:
-
-[back to top]
-
 [1]:
 
 Of the drugs used by the ancient Hindus, the best account in English is the work on Hindu Materia Medica by the late Dr. Udoy Chand Dutt. This work requires re-editing.
@@ -457,15 +397,11 @@ Of the drugs used by the ancient Hindus, the best account in English is the work
 
 ## 6. Introduction, part 1: History of the study of medicinal plants
 
-
 Indian Medicinal Plants
 
 by Kanhoba Ranchoddas Kirtikar | 1918
 
 A comprehensive work on Indian Botany including plant synonyms in various languages, habitat description and uses in traditional medicine, such as Ayurveda....
-
-Go directly to: 
-Footnotes.
 
 Introduction, part 1: History of the study of medicinal plants
 
@@ -479,11 +415,7 @@ It is greatly to the credit of the people of India that they were acquainted wit
 
 “From a thorough investigation I am convinced that the list is not lengthy, and that there is but little to be learned from their school of practice or repertoire of medicinal agents.”[2]
 
-“From a thorough investigation I am convinced that the list is not lengthy, and that there is but little to be learned from their school of practice or repertoire of medicinal agents.”[2]
-
 Mr. J. N. Rose, in his “Notes on Useful Plants of Mexico.” says:—
-
-“The country people and Indians seem to have but little knowledge of medicine, generally using teas made of bitter and strong-smelling herbs.”
 
 “The country people and Indians seem to have but little knowledge of medicine, generally using teas made of bitter and strong-smelling herbs.”
 
@@ -491,11 +423,7 @@ Mr. J. H. Maiden writes in his “Useful native plants of Australia.” (Pp. 146
 
 “In fairness to ourselves we must confess ourselves very little indebted to the Australian aboriginal for information as to the medical (or in fact any other) properties of our plants. The poor aboriginal chiefly takes interest in the vegetation as supplying him with his scanty food, or as affording him fibre useful in securing fish and other animal substance. As far as we know, the Materia Medica of the blacks is of a very meagre description, yet the acquisition of even such little knowledge as they are supposed to possess has been slow and difficult, inasmuch as persons who have lived in a state of nature with them have not been distinguished for either their medical or botanical knowledge.”
 
-“In fairness to ourselves we must confess ourselves very little indebted to the Australian aboriginal for information as to the medical (or in fact any other) properties of our plants. The poor aboriginal chiefly takes interest in the vegetation as supplying him with his scanty food, or as affording him fibre useful in securing fish and other animal substance. As far as we know, the Materia Medica of the blacks is of a very meagre description, yet the acquisition of even such little knowledge as they are supposed to possess has been slow and difficult, inasmuch as persons who have lived in a state of nature with them have not been distinguished for either their medical or botanical knowledge.”
-
 He has very truly observed:—
-
-“With the native Materia Medica of India, for instance, the case is very different. While some remedies are evidently used fancifully, and others for every disease to which the human frame is liable, much of the knowledge in regard to it is exact, the outcome of intelligent observation and enquiry. * *”
 
 “With the native Materia Medica of India, for instance, the case is very different. While some remedies are evidently used fancifully, and others for every disease to which the human frame is liable, much of the knowledge in regard to it is exact, the outcome of intelligent observation and enquiry. * *”
 
@@ -513,17 +441,11 @@ Thus a reaction seemed to have set in, in favor of plants being used as medicine
 
 “True is it to-day as when Sir Thomas Watson so declared a third of a century ago that ‘the greatest gap in the science of Medicine is to be found in its final and supreme stage—the stage of therapeutics.’ Therapeutics advances by our increasing knowledge of the nature of morbid processes and of the physiological effects of remedies, and also by studying again many a good old drug by the light of later scientific methods and also by judicious selection from the traditions of popular medicine. Such selection gave us Digitalis.”
 
-“True is it to-day as when Sir Thomas Watson so declared a third of a century ago that ‘the greatest gap in the science of Medicine is to be found in its final and supreme stage—the stage of therapeutics.’ Therapeutics advances by our increasing knowledge of the nature of morbid processes and of the physiological effects of remedies, and also by studying again many a good old drug by the light of later scientific methods and also by judicious selection from the traditions of popular medicine. Such selection gave us Digitalis.”
-
 Dr. Ischirch, Professor of Practical Chemistry in the University of Berne, is reported in the Lancet of 2nd October, 1909, to have said:—
 
 “We may assuredly hope that medicine, when it has thoroughly ruined its digestion with synthetical remedies and tested all the organs of the animal body, will return to the most ancient remedies of mankind, to the medicinal plants and drugs, for the utility of which the experience of the thousands of years vouches.”
 
-“We may assuredly hope that medicine, when it has thoroughly ruined its digestion with synthetical remedies and tested all the organs of the animal body, will return to the most ancient remedies of mankind, to the medicinal plants and drugs, for the utility of which the experience of the thousands of years vouches.”
-
 There were other medical men also who were coming to look upon drugs of synthetical origin acting upon the system as foreign bodies, depressing and paralysing its functions. But according to them such was not the case with the drugs of vegetable origin which in their natural combination meet nutritional conditions of the system. The possibilities and potentialities of medicinal plants and vegetable drugs have not been as yet properly and fully studied. In an article on “the teaching of chemical medicine,” in the British Medical Jurnal of 3rd January, 1914, Dr. Mackenzie wrote that:—
-
-“Not one single drug has been carefully studied so as to understand its full effects on the human system, effects that could be easily recognised had a systematic examination been carried out when it was administered in the hospital wards.”
 
 “Not one single drug has been carefully studied so as to understand its full effects on the human system, effects that could be easily recognised had a systematic examination been carried out when it was administered in the hospital wards.”
 
@@ -533,11 +455,7 @@ Dr. William Bramwell, M.A., M.D., B. Ch., of Liverpool, concluded a note on the 
 
 “It is indeed refreshing and gratifying, in these days of serums and vaccines and highly complicated preparations, the administration of which, in some cases, is fraught with the gravest possible danger and soul-harrowing anxiety on the part of the administrator, to find a physician of Dr. Macalister’s standing setting on foot the investigation of so simple and natural a remedy as common comfrey.”
 
-“It is indeed refreshing and gratifying, in these days of serums and vaccines and highly complicated preparations, the administration of which, in some cases, is fraught with the gravest possible danger and soul-harrowing anxiety on the part of the administrator, to find a physician of Dr. Macalister’s standing setting on foot the investigation of so simple and natural a remedy as common comfrey.”
-
 The present war has shown the necessity of using herbs and plants in preference to Synthetics. The President of the Botanical section of the British Association held at New Castle in 1916, very truly observed, regarding the medicinal plant industry,
-
-“Experience would indicate that here is opportunity for investigation, and, unless due care is taken, also danger of waste of time, money and effort A careful systematic study of species, varieties and races is in some cases desirable in order to ensure the growth of the most productive or valuable plant; and such a study might also reveal useful substitutes or additions. Here the co-operation between the scientific worker and the commercial man is imperative.”
 
 “Experience would indicate that here is opportunity for investigation, and, unless due care is taken, also danger of waste of time, money and effort A careful systematic study of species, varieties and races is in some cases desirable in order to ensure the growth of the most productive or valuable plant; and such a study might also reveal useful substitutes or additions. Here the co-operation between the scientific worker and the commercial man is imperative.”
 
@@ -547,11 +465,7 @@ The late Right Hon’ble Mr. Gladstone was a man of extraordinary genius. As a s
 
 “I am not aware whether Botany now forms a recognised branch of the medical education, but I cannot help wishing that it did, and hoping that it may in the future, first of all, not only because it is in itself a most beautiful and interesting study exercising the mind without fatiguing it, and stimulating the imagination without leading it astray, but also, because I cannot help wishing, although I know it is too much to expect of our actual medical men, that they should be careful observers of nature, yet in their younger years, before they have entered on their great career, I cannot help wishing that they had the habit of noticing all the qualities of plants which are so remarkable and powerful in their healing capacities.”
 
-“I am not aware whether Botany now forms a recognised branch of the medical education, but I cannot help wishing that it did, and hoping that it may in the future, first of all, not only because it is in itself a most beautiful and interesting study exercising the mind without fatiguing it, and stimulating the imagination without leading it astray, but also, because I cannot help wishing, although I know it is too much to expect of our actual medical men, that they should be careful observers of nature, yet in their younger years, before they have entered on their great career, I cannot help wishing that they had the habit of noticing all the qualities of plants which are so remarkable and powerful in their healing capacities.”
-
 Then Mr. Gladstone narrated an anecdote, how the leaves of a plant healed the cut on his finger caused by an axe in wood-cutting.
-
-“You will think it ludicrous, if I were to tell you a little anecdote of my own, which is of the very simplest character, and it is so small and so slight as almost to be contemptible, but still it illustrates what I mean. I have been given, as is pretty well-known, or at least, I have been given to the pursuit of wood-cutting. From a pure accident, I drew my fingers the other day along the edge of the axe which was lying close by, and which was tolerably sharp, and cut my finger. Upon searching about me I found I had no handkerchief available. I wanted to staunch my little wound. Not having a handkerchief, I got a leaf and put it on the wound. I am bound to say that this was not the result of botanical knowledge, but it was a purely empirical proceeding on the chance of the quality of the leaf. But there was a curious result. I knew the time nature occupied in healing a little breach of continuity, and when I put on the leaf, I assure you it is the fact, that it healed in exactly half the time. It is hardly worth mentioning such a thing as I say but I cannot help having the belief that there are good treasures in nature more than have heretofore been explored in every branch. To make medical students, before they have come to their great responsibilities, observers of the great qualities and capabilities of plants, I cannot help thinking that some good will be done.”[7]
 
 “You will think it ludicrous, if I were to tell you a little anecdote of my own, which is of the very simplest character, and it is so small and so slight as almost to be contemptible, but still it illustrates what I mean. I have been given, as is pretty well-known, or at least, I have been given to the pursuit of wood-cutting. From a pure accident, I drew my fingers the other day along the edge of the axe which was lying close by, and which was tolerably sharp, and cut my finger. Upon searching about me I found I had no handkerchief available. I wanted to staunch my little wound. Not having a handkerchief, I got a leaf and put it on the wound. I am bound to say that this was not the result of botanical knowledge, but it was a purely empirical proceeding on the chance of the quality of the leaf. But there was a curious result. I knew the time nature occupied in healing a little breach of continuity, and when I put on the leaf, I assure you it is the fact, that it healed in exactly half the time. It is hardly worth mentioning such a thing as I say but I cannot help having the belief that there are good treasures in nature more than have heretofore been explored in every branch. To make medical students, before they have come to their great responsibilities, observers of the great qualities and capabilities of plants, I cannot help thinking that some good will be done.”[7]
 
@@ -574,10 +488,6 @@ Dr. John Lindley was a renowned botanist. His views on the subject of vegetable 
 “Such a subject of investigation is by no means unimportant when it is considered * * * that exotic drugs are not only costly, but often so much adulterated as to be unfit for use * * * *
 
 “It by no means follows that plants are inert because medical men have reported unfavourably of their action. The most powerful species have had their energy destroyed by unskilful preparation, or by not knowing at what season to collect them. * * * * * * * the very nature of the climate of tropical countries generally causes the properties of plants to be more concentrated and completely elaborated than in Northern latitude.”
-
-Footnotes and references:
-
-[back to top]
 
 [1]:
 
@@ -618,7 +528,6 @@ Guy’s Hospital Gazette for 29th March 1890, p. 72.
 
 ## 7. Notes on the importance of Sanskrit names of medicinal plants
 
-
 Indian Medicinal Plants
 
 by Kanhoba Ranchoddas Kirtikar | 1918
@@ -631,17 +540,11 @@ The importance of Sanskrit names of plants was fully understood by Sir William J
 
 “the first step in compiling a treatise on the plants of India should be to write their true names in Roman letters, according to the most accurate orthography, and in Sanskrit preferably to any vulgar dialect; because a learned language is fixed in books, while popular idioms are in constant fluctuation, and will not perhaps be understood a century hence by the inhabitants of these Indian territories, 'whom future botanists may consult on the common appellations of trees and flowers.” (Sir Wm. Jones’ Works, Yol. II, London, 1799, p. 2.)
 
-“the first step in compiling a treatise on the plants of India should be to write their true names in Roman letters, according to the most accurate orthography, and in Sanskrit preferably to any vulgar dialect; because a learned language is fixed in books, while popular idioms are in constant fluctuation, and will not perhaps be understood a century hence by the inhabitants of these Indian territories, 'whom future botanists may consult on the common appellations of trees and flowers.” (Sir Wm. Jones’ Works, Yol. II, London, 1799, p. 2.)
-
 On another occasion Sir Wm. Jones said:—
 
 “I am very solicitous to give Indian plants their true Indian appellation; because I am fully persuaded, that Linnæus himself would have adopted them, had he known the learned and ancient language of this country. * * * Far am I from doubting the great importance of perfect botanical descriptions; for languages expire as nations decay, and the true sense of many appellatives in every dead language must be lost in the course of ages; but as long as those appellatives remain understood, a travelling physician who should wish to procure an Arabian or Indian plant, and without asking for it by its learned or vulgar name, should hunt for it in the woods by its botanical character, would resemble a geographer, who, desiring to inquire by name for a street or a town, but waits with his tables and instruments for a proper occasion to determine its longitude and latitude.” (“Botanical Observations on select Indian Plants.” Sir Wm. Jones’ Works, Vol. II P. 47, London, 1799.)
 
-“I am very solicitous to give Indian plants their true Indian appellation; because I am fully persuaded, that Linnæus himself would have adopted them, had he known the learned and ancient language of this country. * * * Far am I from doubting the great importance of perfect botanical descriptions; for languages expire as nations decay, and the true sense of many appellatives in every dead language must be lost in the course of ages; but as long as those appellatives remain understood, a travelling physician who should wish to procure an Arabian or Indian plant, and without asking for it by its learned or vulgar name, should hunt for it in the woods by its botanical character, would resemble a geographer, who, desiring to inquire by name for a street or a town, but waits with his tables and instruments for a proper occasion to determine its longitude and latitude.” (“Botanical Observations on select Indian Plants.” Sir Wm. Jones’ Works, Vol. II P. 47, London, 1799.)
-
 In Sanskrit every plant bears several synonyms which may facilitate in tracing the history and identification of the plant.
-
-“Every single word in Sanskrit,” writes Professor Sir Monier Williams, “is referred to dhatu or root which is also a name for any constituent elementary substance, whether of rocks or living organisms. In short, when we follow out their grammatical system in all the details of its curious subtleties and technicalities, we seem to be engaged, like a geologist, in splitting solid substances, or like a chemist, in some elaborate process of analysis.” (Preface to Sanskrit Dictionary p. vi.)
 
 “Every single word in Sanskrit,” writes Professor Sir Monier Williams, “is referred to dhatu or root which is also a name for any constituent elementary substance, whether of rocks or living organisms. In short, when we follow out their grammatical system in all the details of its curious subtleties and technicalities, we seem to be engaged, like a geologist, in splitting solid substances, or like a chemist, in some elaborate process of analysis.” (Preface to Sanskrit Dictionary p. vi.)
 
@@ -651,19 +554,13 @@ Mr. O. B. Clarke does not think that the vernacular names of plants help much in
 
 “I have observed that the eagerness to get native or vulgar names for plants is directly proportioned to the ignorance of the enquirer, those who know nothing about the plants and who are unable to discriminate them under any names being always loud in their call for native or local names.”
 
-“I have observed that the eagerness to get native or vulgar names for plants is directly proportioned to the ignorance of the enquirer, those who know nothing about the plants and who are unable to discriminate them under any names being always loud in their call for native or local names.”
-
 Again, “as to the grand Sanskrit names, they are of still less value than the vulgar ones, being founded on less actual observation, with the object of enriching the language.” (Preface by Mr. Clarke to his Edition of Roxburgh’s Flora Indica, p. ii, Calcutta, 1874.)
 
 I think these remarks of Mr. Clarke are not quite justifiable, and they are not shared in by other eminent botanists. For instance, Sir David Brandis, who has been called the “Father of Indian Forestry,” says regarding the vernacular names of plants,:—
 
 “The critical examination of the vernacular names of the different Indian languages, and their derivation from the Sanskrit or other roots, will be found a most interesting and important study. 2 2 2 2The forester should not despise vernacular names, for in many instances they have a fixity which systematic names do not yet possess. We all know the ever green Khirni, and there can be no mistake about it; but botanists are not yet agreed whether the tree shall be called Mimusops indica, hexandra or Kauki. Kamela or Kamila is a well-known small tree, its systematic name among Indian botanists, however, which for more than half a century was Rottleria tinctoria has now and properly been changed into Mallotus philippinensis. Again, there can be no doubt as to the tree designated by kao, kan. Although some botanists call it olea europea, others olea cuspidata, and others olea ferrnginea. * * * These changes of systematic names are not arbitrary—as a rule, they are dictated by the progress of scientific research ; but they are apt to discourage the student, and on that account, also, vernacular names merit attention.” (Forest Flora of N. W. India, Preface: pp. xi and xii, London, 1874.)
 
-“The critical examination of the vernacular names of the different Indian languages, and their derivation from the Sanskrit or other roots, will be found a most interesting and important study. 2 2 2 2The forester should not despise vernacular names, for in many instances they have a fixity which systematic names do not yet possess. We all know the ever green Khirni, and there can be no mistake about it; but botanists are not yet agreed whether the tree shall be called Mimusops indica, hexandra or Kauki. Kamela or Kamila is a well-known small tree, its systematic name among Indian botanists, however, which for more than half a century was Rottleria tinctoria has now and properly been changed into Mallotus philippinensis. Again, there can be no doubt as to the tree designated by kao, kan. Although some botanists call it olea europea, others olea cuspidata, and others olea ferrnginea. * * * These changes of systematic names are not arbitrary—as a rule, they are dictated by the progress of scientific research ; but they are apt to discourage the student, and on that account, also, vernacular names merit attention.” (Forest Flora of N. W. India, Preface: pp. xi and xii, London, 1874.)
-
 When the Pharmacopoeia of India was issued, it was considered a great defect in the work that it had not given the vernacular names of the plants. In reviewing the work, a writer said : —
-
-“ Many of the non-officinal remedies, the introduction of which to regular practice is avowedly one of the objects of the publication of this Pharmacopoeia, are dismissed without a single vernacular name for them being given. The recommendation, for example, of the committee, that Hymenodictyon excelsum should be looked to as likely to prove a valuable specific for malarious fevers, is pretty certain to be quite thrown away on a medical officer, who is not an expert in botany, for not a single native name for this tree is given either in the book itself or in the index ; and though it might happen to grow in forests round his station, the committee put him in possession of no means of recognising it. * * * This very grave defect in the Pharmacopoeia, cannot be removed by the publication of a separate catalogue of native names, as proposed. In a second edition we hope to see not only a full vernacular index, but to find, following the botanical name of each substance, as complete a list as possible of the vernacular Synonyms for it which are current in the three presidencies.” (Calcutta Review for 1869, p. 201.)
 
 “ Many of the non-officinal remedies, the introduction of which to regular practice is avowedly one of the objects of the publication of this Pharmacopoeia, are dismissed without a single vernacular name for them being given. The recommendation, for example, of the committee, that Hymenodictyon excelsum should be looked to as likely to prove a valuable specific for malarious fevers, is pretty certain to be quite thrown away on a medical officer, who is not an expert in botany, for not a single native name for this tree is given either in the book itself or in the index ; and though it might happen to grow in forests round his station, the committee put him in possession of no means of recognising it. * * * This very grave defect in the Pharmacopoeia, cannot be removed by the publication of a separate catalogue of native names, as proposed. In a second edition we hope to see not only a full vernacular index, but to find, following the botanical name of each substance, as complete a list as possible of the vernacular Synonyms for it which are current in the three presidencies.” (Calcutta Review for 1869, p. 201.)
 
@@ -673,23 +570,17 @@ All the above extracts will show that the importance of vernacular names of plan
 
 ## 8. Introduction, part 2: Vernacular names of medicinal plants
 
-
 Indian Medicinal Plants
 
 by Kanhoba Ranchoddas Kirtikar | 1918
 
 A comprehensive work on Indian Botany including plant synonyms in various languages, habitat description and uses in traditional medicine, such as Ayurveda....
 
-Go directly to: 
-Footnotes.
-
 Introduction, part 2: Vernacular names of medicinal plants
 
 So far the indigenous drugs have not been carefully and systematically studied. The Executive Committee of the Calcutta International Exhibition for 1883-84, reported that “it must be admitted that our ignorance of the properties and uses of indigenous drugs is scarcely pardonable. It seems highly desirable that the whole subject should be gone into with greater care than has yet been done, both with the view of weeding out the worthless from the good, and of preparing the way for a number of the better class native drugs taking the place of some of the more expensive and imported medicines of Europe. It seems remarkable that so large an amount of aconite should be collected in Nepal and exported to Europe, in order to be re-imported into India before it can find its way to the poor people who crowd around our dispensaries. Illustrations of a similar nature can be multiplied indefinitely. Atropa Belladonna, the deadly nightshade, for example, is a common weed on the Himalayas from Simla to Kashmir, yet every ounce of the drug used in India is imported from Europe, the Indian plant having apparently been entirely overlooked.” [1]
 
 But for the proper study of the subject, a work exclusively devoted to Indian medicinal plants has been a great desideratum in the medical literature of India. Messrs. Booker and Thompson writing as far back as 1855, said:—
-
-“We have had a considerable experience both in medical and economic botany, and we announce boldly our conviction that so far as India is concerned these departments are at a standstill for want of an accurate scientific guide to the flora of that country.”[2]
 
 “We have had a considerable experience both in medical and economic botany, and we announce boldly our conviction that so far as India is concerned these departments are at a standstill for want of an accurate scientific guide to the flora of that country.”[2]
 
@@ -721,21 +612,13 @@ It is hence, that many medical practitioners have been disappointed with tinctur
 
 “Attempts have been made to administer the drug in the more acceptable forms of tincture, pill or powder, but none prove so efficacious as the fresh viscid sap in substance in which form I have used it with wonderful results.”
 
-“Attempts have been made to administer the drug in the more acceptable forms of tincture, pill or powder, but none prove so efficacious as the fresh viscid sap in substance in which form I have used it with wonderful results.”
-
 It is well-known that the people of India use the juice of fresh vegetables for medicinal purposes. But on chemical analysis, these vegetables do not yield any peculiar chemical substances to which their curative virtues could be justly attributed. It has been the tendency of late, therefore, to disapprove the use of such vegetable remedies. A well-known medical man writes in Allbutt’s System of Medicine:—
-
-“The chemical composition of a drug is not unfrequently the key to its pharmacological action............... If a drug have no active properties, it is surely devoid of medicinal effect unless it be a food; for medicinal action is the outcome of the effects of active principles on tissues. It is always possible that in any particular drug the active medicinal agent may have escaped notice; but in the present state of chemical science it is not likely that undiscovered principles reside in such substances as sarsaparilla and hemidesmus: yet these drugs are given on the testimony of experience,—a testimony no stronger than that which has supported scores of other agents eventually discarded. If the indications, given by the pharmacological examination of a drug, are opposed to experience in its favour, the latter must almost certainly be at fault.”[9]
 
 “The chemical composition of a drug is not unfrequently the key to its pharmacological action............... If a drug have no active properties, it is surely devoid of medicinal effect unless it be a food; for medicinal action is the outcome of the effects of active principles on tissues. It is always possible that in any particular drug the active medicinal agent may have escaped notice; but in the present state of chemical science it is not likely that undiscovered principles reside in such substances as sarsaparilla and hemidesmus: yet these drugs are given on the testimony of experience,—a testimony no stronger than that which has supported scores of other agents eventually discarded. If the indications, given by the pharmacological examination of a drug, are opposed to experience in its favour, the latter must almost certainly be at fault.”[9]
 
 But clinical experiences and observations of eminent physicians on the actions of a drug are as much entitled to respect and consideration as its pharmacological examination. So the view of the writer quoted above does not seem to us to be sound.
 
 The modern method of therapeutical investigation is, first, to observe the action of a drug on a healthy animal, and then to make the results applicable to pathological states. The ancients recognised only one mode of studying the effects of a remedy, and that was by the simple observation of effects produced by drugs when administered in disease. This clinical observation of the action of remedies has been productive of some good, but it is questionable if much progress was effected so long as this method alone was employed. Towards the beginning of the nineteenth century, the necessity for ascertaining the actions of remedies by experiments on animals, was recognised by Bichat, Majendie, and others. This modern method of therapeutical research promises a great success. Working on this line, Lauder Brunton was able to use with success nitrite of amyl in angina pectoris. Here a correct application of a known action in a drug was made serviceable in the very first trial. The pharmacological experiments and clinical observations will thus settle the claims of Indian drugs on our attention.
-
-Footnotes and references:
-
-[back to top]
 
 [1]:
 
@@ -779,7 +662,6 @@ Dr. D. J, Leech in Yol. I of Allbutt’s System of Medicine. London, 1896,
 
 ## 9. Notes on the Soma plant
 
-
 Indian Medicinal Plants
 
 by Kanhoba Ranchoddas Kirtikar | 1918
@@ -793,15 +675,6 @@ Dr. Aitchison has lately stated that Soma must be the Ephedra pachyclade, which 
 The Soma plant possessed intoxicating properties and the Vedic Aryans recognised it as a quickener of the intellect. ‘Soma, like the sea, has poured forth songs, and hymns, and thoughts.’ * *
 
 ‘The beverage (i.e., Soma juice) is divine; it purifies, it inspires joy, it is a water of life;......it gives health and immortality.’
-
-“We’ve quaffed the Soma bright,
-And are immortal grown;
-We’ve entered into light,
-And all the gods have known.
-What mortal now can harm,
-Or foeman vex us more?
-Through thee, beyond alarm,
-Immortal god, we soar.”
 
 “We’ve quaffed the Soma bright,
 And are immortal grown;
@@ -851,7 +724,6 @@ Soma is supposed to preside over medicinal herbs, and therefore the Rishi Medhat
 
 ## 10. Notes on the elementary (cardinal) properties of medicines
 
-
 Indian Medicinal Plants
 
 by Kanhoba Ranchoddas Kirtikar | 1918
@@ -872,7 +744,6 @@ From the above list it will be seen that many of the cold remedies, are what are
 
 ## 11. Dilleniaceae family
 
-
 Indian Medicinal Plants
 
 by Kanhoba Ranchoddas Kirtikar | 1918
@@ -886,7 +757,6 @@ Dilleniaceae family
 ---
 
 ## 12. Ranunculaceae (buttercup family)
-
 
 Indian Medicinal Plants
 
@@ -902,7 +772,6 @@ Ranunculaceae (buttercup family)
 
 ## 13. Magnoliaceae (magnolia family)
 
-
 Indian Medicinal Plants
 
 by Kanhoba Ranchoddas Kirtikar | 1918
@@ -916,7 +785,6 @@ Magnoliaceae (magnolia family)
 ---
 
 ## 14. Menispermaceae (moonseed family)
-
 
 Indian Medicinal Plants
 
@@ -932,7 +800,6 @@ Menispermaceae (moonseed family)
 
 ## 15. Annonaceae (custard apple family)
 
-
 Indian Medicinal Plants
 
 by Kanhoba Ranchoddas Kirtikar | 1918
@@ -946,7 +813,6 @@ Annonaceae (custard apple family)
 ---
 
 ## 16. Papaveraceae (poppy family)
-
 
 Indian Medicinal Plants
 
@@ -962,7 +828,6 @@ Papaveraceae (poppy family)
 
 ## 17. Nymphaeaceae (water lilies family)
 
-
 Indian Medicinal Plants
 
 by Kanhoba Ranchoddas Kirtikar | 1918
@@ -976,7 +841,6 @@ Nymphaeaceae (water lilies family)
 ---
 
 ## 18. Berberidaceae (barberry family)
-
 
 Indian Medicinal Plants
 
@@ -992,7 +856,6 @@ Berberidaceae (barberry family)
 
 ## 19. Fumarioideae / Fumariaceae (fumitory family)
 
-
 Indian Medicinal Plants
 
 by Kanhoba Ranchoddas Kirtikar | 1918
@@ -1006,7 +869,6 @@ Fumarioideae / Fumariaceae (fumitory family)
 ---
 
 ## 20. Brassicaceae or Cruciferae (mustards family)
-
 
 Indian Medicinal Plants
 
@@ -1022,7 +884,6 @@ Brassicaceae or Cruciferae (mustards family)
 
 ## 21. Notes
 
-
 Indian Medicinal Plants
 
 by Kanhoba Ranchoddas Kirtikar | 1918
@@ -1034,4 +895,3 @@ Notes
 - Sub-Contents: (+ / -)
 
 ---
-

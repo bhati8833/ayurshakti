@@ -18,7 +18,6 @@ Language and terminology form the backbone of traditional Indian medicine. Every
 
 ---
 
-
 ### Key Sanskrit Terms starting with 'J' (Sample Preview)
 The following is an excerpt of classical Sanskrit terms starting with letter **J**:
 
@@ -57,7 +56,6 @@ The following is an excerpt of classical Sanskrit terms starting with letter **J
 </ul>
 
 *Browse all 442 authenticated terms under Letter J in the searchable directory above.*
-
 
 ---
 

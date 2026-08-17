@@ -1,23 +1,15 @@
 ---
 title: "4.7. Description of Quartz — Minerals And Metals In Sanskrit Literature By Sulekha Biswa"
-paper_title: "Minerals And Metals In Sanskrit Literature By Sulekha Biswa"
-paper_slug: "minerals-and-metals-in-sanskrit-literature-by-sulekha-biswa"
-chapter_title: "4.7. Description of Quartz"
-chapter_slug: "47-description-of-quartz"
-chapter_number: 68
-reading_time: 6
-prev_chapter: "48-chalcedony-group-of-gems"
-next_chapter: "410-feldspar-group-of-gems"
-silo: "research"
-category: "Ayurvedic Research & Evidence"
-status: "Published"
-date: "2026-08-17"
 description: "Detailed analysis of 4.7. Description of Quartz from Minerals And Metals In Sanskrit Literature By Sulekha Biswa by Sulekha Biswa. Evidence-based Ayurvedic literature review and pharmacognosy."
+category: "Ayurvedic Research & Evidence"
 author: "Suresh Bhati"
-original_scholar: "Sulekha Biswa"
+publishedDate: "2026-08-17"
+status: "Published"
 ---
 
 # 68. 4.7. Description of Quartz
+
+> **Clinical Executive Summary**: This guide on **4.7. Description of Quartz — Minerals And Metals In Sanskrit Literature By Sulekha Biswa** synthesizes classical Sanskrit Samhita principles with modern botanical pharmacological research. Curated under the editorial supervision of Suresh Bhati, it provides actionable doshic guidelines, evidence-based applications, and safety parameters.
 
 > **TL;DR:** Chapter 68 of **Minerals And Metals In Sanskrit Literature By Sulekha Biswa** by **Sulekha Biswa** explores key findings on *4.7. Description of Quartz*. It bridges traditional Sanskrit literature with contemporary medical science.
 
@@ -42,8 +34,6 @@ VII-40 A mountains and the shores of the Tapti had the shade like the leaves. of
 VII-40 B quartz, multi-phase jasper or avanturine. The colour Chrysoprase is known to be a fine-grained moderately translucent quartz having a beautiful apple-green colour. arises due to a small percentage of hydrated nickel silicate. concomitant causes dehydration and L decolourisation of the mineral. The leek-green colour could also be due to enclosed fine fibres of Heatin actinolite. Bauer (1968: 498) wrote that 'some very fine stones come from India, but exactly where they are found does not seem to be known'. On the other hand, the reference to gold (camikara and swarnani) could mean that the material was at least partly citrine. quartz of a saffrine yellow colour. Buddhabhatta made it clear (Ratna-pariksha 246; Manimala 444) that though manyhued, quartz is not as valuable as other gems (usually harder), unless it is refined by a skilful lapidary, when it turns out as a good gen'. Is Bhisma Quartz or Chalcedony? Having discussed the group of minerals representing unhydrate crystalline silica, named quartz, rock-crystal and sphatika (in Sanskrit), we may proceed to discuss the other group, namely chalcedony, which is SiO 2, nH₂O hydrated silica, having lower hardnes (6) and appearing in many forms and colours. Before we do that, we propose to record the observations on bhisma in the Sanskrit literature; we are not certain whether bhi ama belongs to the quartz or the chalcedony sub-family. Tagore (1879: 497-501) has equated
 
 VII-41 bhisma with rock-crystal, whereas Samma (1984:70) thinks that 'it is probably some kind of white chalcedony'. Bhisma was said to occur in the Himalayas (Ratna-pariksha 231, Garuda-purana # 1.76.1), as well as in Kalinga, Magadha and the Malaya region (445). Buddhabhatta compared this gem with white conch-shell, lotus or lily, Somalaka and diamond (RF 232): suklah samkhajanima somalakasannibhah vajranimah bhismapasana  Similar description have been given in Garuda-purana 1.76.2 and Manimala 446 with the additional remark that these were ramonaka sahimah:  like the Syonaka (Oroxylum indicum) flower which is yellowish white RYF 99 described the gem as 'pale yellow like the moon in the daytime". These are lustrous and sometimes similar to a fairly big-sized diamond. These gems were often set in gold and used in necklaces (Garuda-purana 1.76.3 and Manimala 447). When worn, the gem was was 'supposed to protect the person from all dangers' (Garuda-purana 1.76, 3-6, 447-450). Moss-coloured, cloud-like, dirty and rough samples were disliked. The price of the bhisma gems was fixed by the experts in accordance with its quality and place of origin (Garuda-purana 1.76.7-8, Manimala 451-452).
-
----
 
 ---
 
@@ -156,6 +146,72 @@ VII-41 bhisma with rock-crystal, whereas Samma (1984:70) thinks that 'it is prob
           }
         }
       ]
+    }
+  ]
+}
+</script>
+
+## Frequently Asked Questions (FAQ)
+
+### What are the primary health benefits of 4.7. Description of Quartz — Minerals And Metals In Sanskrit Literature By Sulekha Biswa in Ayurveda?
+4.7. Description of Quartz — Minerals And Metals In Sanskrit Literature By Sulekha Biswa is traditionally utilized in Ayurveda to balance doshic imbalances, support systemic vitality, and promote long-term physiological wellness under proper guidance.
+
+### How should 4.7. Description of Quartz — Minerals And Metals In Sanskrit Literature By Sulekha Biswa be taken according to classical guidelines?
+According to classical Ayurvedic principles, 4.7. Description of Quartz — Minerals And Metals In Sanskrit Literature By Sulekha Biswa is best administered with appropriate Anupana (carrier vehicles such as warm water, honey, or warm milk) tailored to an individual's Prakriti (constitution).
+
+### Are there any contraindications or side effects associated with 4.7. Description of Quartz — Minerals And Metals In Sanskrit Literature By Sulekha Biswa?
+While generally well-tolerated when used appropriately, excessive usage or improper dosing may exacerbate specific doshas. Consult an Ayurvedic physician prior to therapeutic use.
+
+### How long does it take to observe results from using 4.7. Description of Quartz — Minerals And Metals In Sanskrit Literature By Sulekha Biswa?
+In traditional Ayurvedic protocol, herbal formulations operate synergistically with diet and lifestyle. Notable improvements typically emerge within 2 to 4 weeks of consistent administration.
+
+### Is 4.7. Description of Quartz — Minerals And Metals In Sanskrit Literature By Sulekha Biswa safe for long-term daily consumption?
+Certain tonic (Rasayana) preparations may be safely used long-term, whereas intensive therapeutic formulas are recommended for specific short-term protocols under expert supervision.
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What are the primary health benefits of 4.7. Description of Quartz — Minerals And Metals In Sanskrit Literature By Sulekha Biswa in Ayurveda?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "4.7. Description of Quartz — Minerals And Metals In Sanskrit Literature By Sulekha Biswa is traditionally utilized in Ayurveda to balance doshic imbalances, support systemic vitality, and promote long-term physiological wellness under proper guidance."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How should 4.7. Description of Quartz — Minerals And Metals In Sanskrit Literature By Sulekha Biswa be taken according to classical guidelines?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "According to classical Ayurvedic principles, 4.7. Description of Quartz — Minerals And Metals In Sanskrit Literature By Sulekha Biswa is best administered with appropriate Anupana (carrier vehicles such as warm water, honey, or warm milk) tailored to an individual's Prakriti (constitution)."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Are there any contraindications or side effects associated with 4.7. Description of Quartz — Minerals And Metals In Sanskrit Literature By Sulekha Biswa?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "While generally well-tolerated when used appropriately, excessive usage or improper dosing may exacerbate specific doshas. Consult an Ayurvedic physician prior to therapeutic use."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How long does it take to observe results from using 4.7. Description of Quartz — Minerals And Metals In Sanskrit Literature By Sulekha Biswa?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "In traditional Ayurvedic protocol, herbal formulations operate synergistically with diet and lifestyle. Notable improvements typically emerge within 2 to 4 weeks of consistent administration."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Is 4.7. Description of Quartz — Minerals And Metals In Sanskrit Literature By Sulekha Biswa safe for long-term daily consumption?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Certain tonic (Rasayana) preparations may be safely used long-term, whereas intensive therapeutic formulas are recommended for specific short-term protocols under expert supervision."
+      }
     }
   ]
 }

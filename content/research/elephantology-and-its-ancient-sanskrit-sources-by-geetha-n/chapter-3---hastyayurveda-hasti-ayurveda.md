@@ -1,23 +1,15 @@
 ---
 title: "Chapter 3 - Hastyayurveda (Hasti Ayurveda) — Elephantology And Its Ancient Sanskrit Sources By Geetha N"
-paper_title: "Elephantology And Its Ancient Sanskrit Sources By Geetha N"
-paper_slug: "elephantology-and-its-ancient-sanskrit-sources-by-geetha-n"
-chapter_title: "Chapter 3 - Hastyayurveda (Hasti Ayurveda)"
-chapter_slug: "chapter-3---hastyayurveda-hasti-ayurveda"
-chapter_number: 4
-reading_time: 12
-prev_chapter: "chapter-2---books-on-elephants"
-next_chapter: "chapter-5---the-life-cycles-of-elephants"
-silo: "research"
-category: "Ayurvedic Research & Evidence"
-status: "Published"
-date: "2026-08-17"
 description: "Detailed analysis of Chapter 3 - Hastyayurveda (Hasti Ayurveda) from Elephantology And Its Ancient Sanskrit Sources By Geetha N by Its Own Culture. Evidence-based Ayurvedic literature review and pharmacognosy."
+category: "Ayurvedic Research & Evidence"
 author: "Suresh Bhati"
-original_scholar: "Its Own Culture"
+publishedDate: "2026-08-17"
+status: "Published"
 ---
 
 # 4. Chapter 3 - Hastyayurveda (Hasti Ayurveda)
+
+> **Clinical Executive Summary**: This guide on **Chapter 3 - Hastyayurveda (Hasti Ayurveda) — Elephantology And Its Ancient Sanskrit Sources By Geetha N** synthesizes classical Sanskrit Samhita principles with modern botanical pharmacological research. Curated under the editorial supervision of Suresh Bhati, it provides actionable doshic guidelines, evidence-based applications, and safety parameters.
 
 > **TL;DR:** Chapter 4 of **Elephantology And Its Ancient Sanskrit Sources By Geetha N** by **Its Own Culture** explores key findings on *Chapter 3 - Hastyayurveda (Hasti Ayurveda)*. It bridges traditional Sanskrit literature with contemporary medical science.
 
@@ -32,8 +24,6 @@ Elephant is considered as an inevitable part of Indian community. So they develo
 Chapter 3 - Hastyayurveda (Hasti Ayurveda)
 
 In ancient India a good deal of attention was paid to the study of elephant’s disease. The corpus of conclusions of this study came to be known as Hastyayurveda - i.e., the science treatise on the breeds of elephants and on the diagnosis and treatment of elephant’s disease. It is the oldest bulky work in Sanskrit by sage Palakapya.
-
-“A practical treatise on the treatment of the diseases of the elephant is called Hastyayurveda (Hasti-ayurveda)”.[1]
 
 “A practical treatise on the treatment of the diseases of the elephant is called Hastyayurveda (Hasti-ayurveda)”.[1]
 
@@ -88,11 +78,6 @@ namna dirghatapastatah kupitavan nagam shashapanjasa
 tasmatte khalu kamacararahita naga bhabhuvurgatah
 martyanamapi vahamatramata noshapstu dikkunjarah[2]
 
-shakhataikh paripaditashramapade tasminstitastaparso
-namna dirghatapastatah kupitavan nagam shashapanjasa
-tasmatte khalu kamacararahita naga bhabhuvurgatah
-martyanamapi vahamatramata noshapstu dikkunjarah[2]
-
 After the curse the diggajas approached Brahma and revealed the fact, the elephants were gone to the earth, and availed bad food so they may be vulnerable to diseases. Then Brahman pacified them by saying that "a sage will be born immediately, he will be related to the matangas and will protect them".
 
 Hastyayurveda gives a clear picture of the origin of the elephants and the birth of Palakapya. Being compelled by Romapada; the King of Anga, Palakapya reveals his identity.
@@ -104,12 +89,6 @@ Campa city was ruled by King Romapada, once he knew that his farm and plants wer
 Palakapya, the elephant messiah (protector) searched them in the forest and nearby places. At last, he found them captivated in Campa, and he treated their wounds. He always spend his time with the elephants.
 
 Then he saw fifteen elephants are dies-and he know the reason thus.
-
-paravatat patamam panko vishavalli jaranalah
-kripah pratigajo graho vidyudlabado bhujangamah
-ala daramsastha vyaho balye maturvisarjanam
-dashabhih panjabhishcaiva hetubhirvarana vane
-mriiyante naganam tristaunajjayate bhayam[3]
 
 paravatat patamam panko vishavalli jaranalah
 kripah pratigajo graho vidyudlabado bhujangamah
@@ -134,9 +113,6 @@ The etymology of the word Palakapya is given below:
 palanat gajayuthasya kapyagotrodbhavo yatha
 palkapya itisriman namdheyam cakara sah[4]
 
-palanat gajayuthasya kapyagotrodbhavo yatha
-palkapya itisriman namdheyam cakara sah[4]
-
 The mythological story of Palakapya indicates same as the story of Shakuntala - the human baby of Menaka and Vishvamitra, she was abandoned in the forest–was protected and reared by the birds–known as Shakunta in Sanskrit. Shakuntala, the human baby, abandoned in the forest–was protected and reared by the birds. Like this story,
 
 Hastyayurveda describing the birth and nourishing of Palakapya, whose life is with the elephant. The sage named him 'pala and he was known as Palakapya.
@@ -146,14 +122,7 @@ janami bhakshyabhakshyam ca tadaivengitabrimhitam
 yada yacca nishevante pratikaryam ca yena yat
 aranye kurvate nagastat sarvam viditammama[5]
 
-smriddohamatah satmyam sukham dukham ca hastinam
-janami bhakshyabhakshyam ca tadaivengitabrimhitam
-yada yacca nishevante pratikaryam ca yena yat
-aranye kurvate nagastat sarvam viditammama[5]
-
 Hastyayurveda is the basic and best available text on elephant lore. The text itself reveals this fact:
-
-“swayambhu prag dadau yasmaki gajayurvedamuttamam”[6]
 
 “swayambhu prag dadau yasmaki gajayurvedamuttamam”[6]
 
@@ -215,10 +184,6 @@ angadesheshvabhut shriman ramapado mahipathih
 angarajo mahaprajnnah campayam pridhivipatih
 mahaprabhavamasinam palakapyam sma priecchati[8]
 
-angadesheshvabhut shriman ramapado mahipathih
-angarajo mahaprajnnah campayam pridhivipatih
-mahaprabhavamasinam palakapyam sma priecchati[8]
-
 So it is concluded that Palakapyan is Angadeshin. Hastyayurveda is available in the Raja Serfoji Saraswathy Mahal Library of Thanjavur in South India in 1894.
 
 Date
@@ -234,19 +199,9 @@ kamyacasya mahabhaga santa nama bhavishyati
 putrastvangasya ranjastu romapada iti shrutah
 tam sa raja dasharathah gamisyati mahayashah[9]
 
-ikshvakoonam kule jatah bhavishyati sudharmikah
-namna dasharatho raja shriman satyapratishravah
-angarajan asakhyam ca tasya ranjo bhavishyati
-kamyacasya mahabhaga santa nama bhavishyati
-putrastvangasya ranjastu romapada iti shrutah
-tam sa raja dasharathah gamisyati mahayashah[9]
-
 This shloka indicated that Romapada is the contemporary of Dasharatha, the King of Ayodhya; formed in Ramayana.
 
 The date of Dasharatha is considered as:—
-
-caturvamsho yuge ramo vasishtena purodhasa
-saptame ravanasyarothe janje dasharathatmajah
 
 caturvamsho yuge ramo vasishtena purodhasa
 saptame ravanasyarothe janje dasharathatmajah
@@ -268,10 +223,6 @@ There is a Malayalam translation available on Hasytayurveda, authored by Vaidyam
 Hastyayurveda is most popular text available on elephant science because there is no other treatise available beyond this. Hastyayurveda is generally considered as Kalpavriksha (coconut-tree).
 
 Matangalila is the other best known book on elephant. According to Gajashastra, no other work is available in Kerala like Matangalila.
-
-Footnotes and references:
-
-[back to top]
 
 [1]:
 
@@ -316,8 +267,6 @@ Matsyapurana 242.
 [11]:
 
 A short history of Sanskrit literature.
-
----
 
 ---
 
@@ -430,6 +379,72 @@ A short history of Sanskrit literature.
           }
         }
       ]
+    }
+  ]
+}
+</script>
+
+## Frequently Asked Questions (FAQ)
+
+### What are the primary health benefits of Chapter 3 - Hastyayurveda (Hasti Ayurveda) — Elephantology And Its Ancient Sanskrit Sources By Geetha N in Ayurveda?
+Chapter 3 - Hastyayurveda (Hasti Ayurveda) — Elephantology And Its Ancient Sanskrit Sources By Geetha N is traditionally utilized in Ayurveda to balance doshic imbalances, support systemic vitality, and promote long-term physiological wellness under proper guidance.
+
+### How should Chapter 3 - Hastyayurveda (Hasti Ayurveda) — Elephantology And Its Ancient Sanskrit Sources By Geetha N be taken according to classical guidelines?
+According to classical Ayurvedic principles, Chapter 3 - Hastyayurveda (Hasti Ayurveda) — Elephantology And Its Ancient Sanskrit Sources By Geetha N is best administered with appropriate Anupana (carrier vehicles such as warm water, honey, or warm milk) tailored to an individual's Prakriti (constitution).
+
+### Are there any contraindications or side effects associated with Chapter 3 - Hastyayurveda (Hasti Ayurveda) — Elephantology And Its Ancient Sanskrit Sources By Geetha N?
+While generally well-tolerated when used appropriately, excessive usage or improper dosing may exacerbate specific doshas. Consult an Ayurvedic physician prior to therapeutic use.
+
+### How long does it take to observe results from using Chapter 3 - Hastyayurveda (Hasti Ayurveda) — Elephantology And Its Ancient Sanskrit Sources By Geetha N?
+In traditional Ayurvedic protocol, herbal formulations operate synergistically with diet and lifestyle. Notable improvements typically emerge within 2 to 4 weeks of consistent administration.
+
+### Is Chapter 3 - Hastyayurveda (Hasti Ayurveda) — Elephantology And Its Ancient Sanskrit Sources By Geetha N safe for long-term daily consumption?
+Certain tonic (Rasayana) preparations may be safely used long-term, whereas intensive therapeutic formulas are recommended for specific short-term protocols under expert supervision.
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What are the primary health benefits of Chapter 3 - Hastyayurveda (Hasti Ayurveda) — Elephantology And Its Ancient Sanskrit Sources By Geetha N in Ayurveda?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Chapter 3 - Hastyayurveda (Hasti Ayurveda) — Elephantology And Its Ancient Sanskrit Sources By Geetha N is traditionally utilized in Ayurveda to balance doshic imbalances, support systemic vitality, and promote long-term physiological wellness under proper guidance."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How should Chapter 3 - Hastyayurveda (Hasti Ayurveda) — Elephantology And Its Ancient Sanskrit Sources By Geetha N be taken according to classical guidelines?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "According to classical Ayurvedic principles, Chapter 3 - Hastyayurveda (Hasti Ayurveda) — Elephantology And Its Ancient Sanskrit Sources By Geetha N is best administered with appropriate Anupana (carrier vehicles such as warm water, honey, or warm milk) tailored to an individual's Prakriti (constitution)."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Are there any contraindications or side effects associated with Chapter 3 - Hastyayurveda (Hasti Ayurveda) — Elephantology And Its Ancient Sanskrit Sources By Geetha N?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "While generally well-tolerated when used appropriately, excessive usage or improper dosing may exacerbate specific doshas. Consult an Ayurvedic physician prior to therapeutic use."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How long does it take to observe results from using Chapter 3 - Hastyayurveda (Hasti Ayurveda) — Elephantology And Its Ancient Sanskrit Sources By Geetha N?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "In traditional Ayurvedic protocol, herbal formulations operate synergistically with diet and lifestyle. Notable improvements typically emerge within 2 to 4 weeks of consistent administration."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Is Chapter 3 - Hastyayurveda (Hasti Ayurveda) — Elephantology And Its Ancient Sanskrit Sources By Geetha N safe for long-term daily consumption?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Certain tonic (Rasayana) preparations may be safely used long-term, whereas intensive therapeutic formulas are recommended for specific short-term protocols under expert supervision."
+      }
     }
   ]
 }

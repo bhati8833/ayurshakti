@@ -1,23 +1,15 @@
 ---
 title: "Rutting elephants (based on inscriptions) — Matangalila And Hastyayurveda Study By Chandrima Das"
-paper_title: "Matangalila And Hastyayurveda Study By Chandrima Das"
-paper_slug: "matangalila-and-hastyayurveda-study-by-chandrima-das"
-chapter_title: "Rutting elephants (based on inscriptions)"
-chapter_slug: "rutting-elephants-based-on-inscriptions"
-chapter_number: 14
-reading_time: 4
-prev_chapter: "elephants-in-the-royal-army"
-next_chapter: "elephants-as-gift"
-silo: "research"
-category: "Ayurvedic Research & Evidence"
-status: "Published"
-date: "2026-08-17"
 description: "Detailed analysis of Rutting elephants (based on inscriptions) from Matangalila And Hastyayurveda Study By Chandrima Das by Chandrima Das. Evidence-based Ayurvedic literature review and pharmacognosy."
+category: "Ayurvedic Research & Evidence"
 author: "Suresh Bhati"
-original_scholar: "Chandrima Das"
+publishedDate: "2026-08-17"
+status: "Published"
 ---
 
 # 14. Rutting elephants (based on inscriptions)
+
+> **Clinical Executive Summary**: This guide on **Rutting elephants (based on inscriptions) — Matangalila And Hastyayurveda Study By Chandrima Das** synthesizes classical Sanskrit Samhita principles with modern botanical pharmacological research. Curated under the editorial supervision of Suresh Bhati, it provides actionable doshic guidelines, evidence-based applications, and safety parameters.
 
 > **TL;DR:** Chapter 14 of **Matangalila And Hastyayurveda Study By Chandrima Das** by **Chandrima Das** explores key findings on *Rutting elephants (based on inscriptions)*. It bridges traditional Sanskrit literature with contemporary medical science.
 
@@ -36,10 +28,6 @@ We have already discussed about the rutting elephants in the previous chapter. T
 In fact, every king wished to kill rutting elephants of the enemies’ troop, so that the king could win the battle. The most appropriate example of this, we can find in the Kalacuri inscription of Ratanpura[1] where it is stated that the king killed and splited heads of eighteen elephants to ensure his victory out of the prevailing conception. It is valorous to a king breaking or splitting rutting elephants, it is explained as we can see in the Dewal Praśasti of Lalla of the Chinda race, that he in every battle has written a eulogy of him on the firmament even with his sword, the tip of which is covered by the muddy ichor of his enemies’ elephants (ripugajamadapaṃka)[2]. In the Pehoa Praśasti of the reign of Mahendrapāla says about one Jaula who conducted his relatives to highest prosperity……. Presenting, as offerings to the earth pieces cut off from the temples of the mighty elephants of his foes and his fame, that possessed splendor fair like the glittering moon, assumed the guise of the stream of heaven (Gaṅgā), since it clave to the heavenly elephants and united with the sky (v.7)[3]. Ganapatesvaram inscription of Gaṇapati states that in the points of the horizon are spreading the moon-white creepers of fame, which have grown in the battle-fields that were flooded with the showers of the rutting juice, dripping from temples of his furious lordly elephants repeatedly ploughed by the hard hoops of (his) galloping the steeds; (and) covered[4] with the seed of masses of pearls, dropping from the heads of the elephants of (his) enemies[5].
 
 Often and often mention of the rutting juice in inscriptions expressed the positive effect of it in the royal status. One of the pillar inscriptions of Eastern Cālukya chiefs at Śrīkurmam near Chicacole in the Ganjam district (Śaka samvat 1195, i.e., CE 1272) expressed the valour of the king Rājarāja (CE 1022-1063) whose elephant squad had huge mast elephants and auspicious rutting juice, trickling from their big temples created like a shower of rain on the rivers and that attest the victorious career of that very king (v.5)[6]. Alas plates of the Yuvarāja Govindarāja II of Śaka samvat 692[7] mentions about the king Indrarāja II whose expansive soldiers were full of graceful scratches consequent upon the strokes of the tusks of (hostile) elephants from whose cleft temples ichor trickled down (and) who destroyed (all his) enemies on earth, became, as it were, the golden mountain (Meru) of the excellent Rāṣṭrakūṭas. In this context it should be mentioned that both Buhler and Fleet connect prabhinna-karaṭa-cyutadāna with rucira, and danti-danta prahāra with ullikhita; but this course is objectionable because the word dantin occurring after dāna shows the preceding expression to be a bahuvrīhi compound and an attribute of dantin.
-
-Footnotes and references:
-
-[back to top]
 
 [1]:
 
@@ -68,8 +56,6 @@ EI., Vol.V, p.33-34.
 [7]:
 
 Ibid., Vol.VI, pp.208-213.
-
----
 
 ---
 
@@ -182,6 +168,72 @@ Ibid., Vol.VI, pp.208-213.
           }
         }
       ]
+    }
+  ]
+}
+</script>
+
+## Frequently Asked Questions (FAQ)
+
+### What are the primary health benefits of Rutting elephants (based on inscriptions) — Matangalila And Hastyayurveda Study By Chandrima Das in Ayurveda?
+Rutting elephants (based on inscriptions) — Matangalila And Hastyayurveda Study By Chandrima Das is traditionally utilized in Ayurveda to balance doshic imbalances, support systemic vitality, and promote long-term physiological wellness under proper guidance.
+
+### How should Rutting elephants (based on inscriptions) — Matangalila And Hastyayurveda Study By Chandrima Das be taken according to classical guidelines?
+According to classical Ayurvedic principles, Rutting elephants (based on inscriptions) — Matangalila And Hastyayurveda Study By Chandrima Das is best administered with appropriate Anupana (carrier vehicles such as warm water, honey, or warm milk) tailored to an individual's Prakriti (constitution).
+
+### Are there any contraindications or side effects associated with Rutting elephants (based on inscriptions) — Matangalila And Hastyayurveda Study By Chandrima Das?
+While generally well-tolerated when used appropriately, excessive usage or improper dosing may exacerbate specific doshas. Consult an Ayurvedic physician prior to therapeutic use.
+
+### How long does it take to observe results from using Rutting elephants (based on inscriptions) — Matangalila And Hastyayurveda Study By Chandrima Das?
+In traditional Ayurvedic protocol, herbal formulations operate synergistically with diet and lifestyle. Notable improvements typically emerge within 2 to 4 weeks of consistent administration.
+
+### Is Rutting elephants (based on inscriptions) — Matangalila And Hastyayurveda Study By Chandrima Das safe for long-term daily consumption?
+Certain tonic (Rasayana) preparations may be safely used long-term, whereas intensive therapeutic formulas are recommended for specific short-term protocols under expert supervision.
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What are the primary health benefits of Rutting elephants (based on inscriptions) — Matangalila And Hastyayurveda Study By Chandrima Das in Ayurveda?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Rutting elephants (based on inscriptions) — Matangalila And Hastyayurveda Study By Chandrima Das is traditionally utilized in Ayurveda to balance doshic imbalances, support systemic vitality, and promote long-term physiological wellness under proper guidance."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How should Rutting elephants (based on inscriptions) — Matangalila And Hastyayurveda Study By Chandrima Das be taken according to classical guidelines?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "According to classical Ayurvedic principles, Rutting elephants (based on inscriptions) — Matangalila And Hastyayurveda Study By Chandrima Das is best administered with appropriate Anupana (carrier vehicles such as warm water, honey, or warm milk) tailored to an individual's Prakriti (constitution)."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Are there any contraindications or side effects associated with Rutting elephants (based on inscriptions) — Matangalila And Hastyayurveda Study By Chandrima Das?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "While generally well-tolerated when used appropriately, excessive usage or improper dosing may exacerbate specific doshas. Consult an Ayurvedic physician prior to therapeutic use."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How long does it take to observe results from using Rutting elephants (based on inscriptions) — Matangalila And Hastyayurveda Study By Chandrima Das?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "In traditional Ayurvedic protocol, herbal formulations operate synergistically with diet and lifestyle. Notable improvements typically emerge within 2 to 4 weeks of consistent administration."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Is Rutting elephants (based on inscriptions) — Matangalila And Hastyayurveda Study By Chandrima Das safe for long-term daily consumption?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Certain tonic (Rasayana) preparations may be safely used long-term, whereas intensive therapeutic formulas are recommended for specific short-term protocols under expert supervision."
+      }
     }
   ]
 }

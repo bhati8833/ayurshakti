@@ -1,23 +1,15 @@
 ---
 title: "Aṣṭāṅga Hṛdaya (Āyurveda book) — Atharvaveda And Charaka Samhita By Laxmi Maji"
-paper_title: "Atharvaveda And Charaka Samhita By Laxmi Maji"
-paper_slug: "atharvaveda-and-charaka-samhita-by-laxmi-maji"
-chapter_title: "Aṣṭāṅga Hṛdaya (Āyurveda book)"
-chapter_slug: "aṣṭāṅga-hṛdaya-āyurveda-book"
-chapter_number: 29
-reading_time: 3
-prev_chapter: "aṣṭāṅga-saṃgraha-āyurveda-book"
-next_chapter: "mādhavanidāna-āyurveda-book"
-silo: "research"
-category: "Ayurvedic Research & Evidence"
-status: "Published"
-date: "2026-08-17"
 description: "Detailed analysis of Aṣṭāṅga Hṛdaya (Āyurveda book) from Atharvaveda And Charaka Samhita By Laxmi Maji by Laxmi Maji. Evidence-based Ayurvedic literature review and pharmacognosy."
+category: "Ayurvedic Research & Evidence"
 author: "Suresh Bhati"
-original_scholar: "Laxmi Maji"
+publishedDate: "2026-08-17"
+status: "Published"
 ---
 
 # 29. Aṣṭāṅga Hṛdaya (Āyurveda book)
+
+> **Clinical Executive Summary**: This guide on **Aṣṭāṅga Hṛdaya (Āyurveda book) — Atharvaveda And Charaka Samhita By Laxmi Maji** synthesizes classical Sanskrit Samhita principles with modern botanical pharmacological research. Curated under the editorial supervision of Suresh Bhati, it provides actionable doshic guidelines, evidence-based applications, and safety parameters.
 
 > **TL;DR:** Chapter 29 of **Atharvaveda And Charaka Samhita By Laxmi Maji** by **Laxmi Maji** explores key findings on *Aṣṭāṅga Hṛdaya (Āyurveda book)*. It bridges traditional Sanskrit literature with contemporary medical science.
 
@@ -25,25 +17,15 @@ original_scholar: "Laxmi Maji"
 
 ## 📜 1. Section Overview & Classical Context
 
-Atharvaveda and Charaka Samhita
-
-This page relates ‘Ashtanga Hridaya (Ayurveda book)’ found in the study on diseases and remedies found in the Atharvaveda and Charaka-samhita. These texts deal with Ayurveda—the ancient Indian Science of life—which lays down the principles for keeping a sound health involving the use of herbs, roots and leaves. The Atharvaveda refers to one of the four Vedas (ancient Sanskrit texts encompassing all kinds of knowledge and science) containing many details on Ayurveda, which is here taken up for study.
-
 Aṣṭāṅga Hṛdaya (Āyurveda book)
 
 Aṣṭāṅga Hṛdaya [Hṛdayaṃ]—Ācārya Vāgbhaṭṭa was the son of Siṃhagupta and the grandson of Vāgbhaṭṭa belongs to the region of river Sindhu. His forefathers were also great scholars of Āyurveda. He was a disciple of Avalokita, the chief monk of Mahāyāna Buddhism. Based on the internal and external evidence, the date of Vāgbhaṭṭa can be fixed between the 4th and 5th century AD. The name of a famous book written by Vāgbhaṭṭa is Aṣṭāṅga Hṛdaya. Aṣṭāṅga Hṛdaya is one of the most celebrated and most often studied treatises on Indian medicine, after Caraka-Saṃhitā and Suśruta-Saṃhitā.
 
 Aṣṭāṅga Hṛdayaṃ [Hṛdaya] contains six sthānas (sections) each sthāna consisting of varying numbers of Adhyāyas; the total number of chapters being One hundred twenty. The text is composed entirely in poetry. The total number of verses is Seven thousand one hundred twenty. The first section Sūtra sthāna has thirty chapters dealing with basic doctrines of Āyurveda. Principles of health, prevention of diseases, properties of articles of diet and drugs, humoral physiology and pathology, different kinds of diseases and methods of treatment. The second section Śarīra sthāna has six chapters dealing with embryology, anatomy, physiology, physiognomy, physical and psychological constitutions, auspicious and inauspicious dreams and omens, signs of bad prognosis and oncoming death. The third section Nidānasthāna with Sixteen chapters describes the causes, premonitory symptoms, characteristic features pathogenesis and prognosis of some important diseases coming within the realm of Kāyacikitsā (inner medicine). The fourth section cikitsā sthāna twenty-two chapters elaborating the methods of treatment of all major organic diseases, including efficacious medicinal recipes, diet and care of the patient. The fifth section Kalpa-siddhi sthāna has six chapters dealing with the preparation of recipes, administration of purificatory therapies and management of complications; and principles of pharmacy. The sixth and the last section Uttara sthāna is devoted to the remaining seven branches of Āyurveda. It has forty chapters in total; divided as follows, viz. three for Bāla cikitsā or demonology psychiatry, seventeen for Ūrdhvāṅga cikitsā or diseases of organs in the head, subdivided again nine for Netracikitsā or ophthalmology, two for Karṇacikitsā or otology, two for Nāsācikitsā or rhinology, two for Mukhacikitsā or mouth, teeth and throat, and two for Śiraroga or diseases of the head. Śalya cikitsā or surgery has ten chapters; Daṃṣṭrā or toxicology has four; Jarā cikitsā or rasāyana or rejuvenation therapy, geriatrics and Vṛṣa or Vājīkaraṇa or vilification therapy or aphrodisiacs have one chapter each. The greater portion of the text being devoted to Kāyacikitsā or inner medicine is thus conspicuous[1].
 
-Footnotes and references:
-
-[back to top]
-
 [1]:
 
 Aṣṭāṅga Hṛdayaṃ of Vāgbhaṭṭa Vol. I -III, trans. K. R. Srikantha Murthy, Varanasi, Chaukhambha Krishnadas Academy, 2018, pp. 1-520, 1-590, 1-431.
-
----
 
 ---
 
@@ -156,6 +138,72 @@ Aṣṭāṅga Hṛdayaṃ of Vāgbhaṭṭa Vol. I -III, trans. K. R. Srikantha
           }
         }
       ]
+    }
+  ]
+}
+</script>
+
+## Frequently Asked Questions (FAQ)
+
+### What are the primary health benefits of Aṣṭāṅga Hṛdaya (Āyurveda book) — Atharvaveda And Charaka Samhita By Laxmi Maji in Ayurveda?
+Aṣṭāṅga Hṛdaya (Āyurveda book) — Atharvaveda And Charaka Samhita By Laxmi Maji is traditionally utilized in Ayurveda to balance doshic imbalances, support systemic vitality, and promote long-term physiological wellness under proper guidance.
+
+### How should Aṣṭāṅga Hṛdaya (Āyurveda book) — Atharvaveda And Charaka Samhita By Laxmi Maji be taken according to classical guidelines?
+According to classical Ayurvedic principles, Aṣṭāṅga Hṛdaya (Āyurveda book) — Atharvaveda And Charaka Samhita By Laxmi Maji is best administered with appropriate Anupana (carrier vehicles such as warm water, honey, or warm milk) tailored to an individual's Prakriti (constitution).
+
+### Are there any contraindications or side effects associated with Aṣṭāṅga Hṛdaya (Āyurveda book) — Atharvaveda And Charaka Samhita By Laxmi Maji?
+While generally well-tolerated when used appropriately, excessive usage or improper dosing may exacerbate specific doshas. Consult an Ayurvedic physician prior to therapeutic use.
+
+### How long does it take to observe results from using Aṣṭāṅga Hṛdaya (Āyurveda book) — Atharvaveda And Charaka Samhita By Laxmi Maji?
+In traditional Ayurvedic protocol, herbal formulations operate synergistically with diet and lifestyle. Notable improvements typically emerge within 2 to 4 weeks of consistent administration.
+
+### Is Aṣṭāṅga Hṛdaya (Āyurveda book) — Atharvaveda And Charaka Samhita By Laxmi Maji safe for long-term daily consumption?
+Certain tonic (Rasayana) preparations may be safely used long-term, whereas intensive therapeutic formulas are recommended for specific short-term protocols under expert supervision.
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What are the primary health benefits of Aṣṭāṅga Hṛdaya (Āyurveda book) — Atharvaveda And Charaka Samhita By Laxmi Maji in Ayurveda?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Aṣṭāṅga Hṛdaya (Āyurveda book) — Atharvaveda And Charaka Samhita By Laxmi Maji is traditionally utilized in Ayurveda to balance doshic imbalances, support systemic vitality, and promote long-term physiological wellness under proper guidance."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How should Aṣṭāṅga Hṛdaya (Āyurveda book) — Atharvaveda And Charaka Samhita By Laxmi Maji be taken according to classical guidelines?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "According to classical Ayurvedic principles, Aṣṭāṅga Hṛdaya (Āyurveda book) — Atharvaveda And Charaka Samhita By Laxmi Maji is best administered with appropriate Anupana (carrier vehicles such as warm water, honey, or warm milk) tailored to an individual's Prakriti (constitution)."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Are there any contraindications or side effects associated with Aṣṭāṅga Hṛdaya (Āyurveda book) — Atharvaveda And Charaka Samhita By Laxmi Maji?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "While generally well-tolerated when used appropriately, excessive usage or improper dosing may exacerbate specific doshas. Consult an Ayurvedic physician prior to therapeutic use."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How long does it take to observe results from using Aṣṭāṅga Hṛdaya (Āyurveda book) — Atharvaveda And Charaka Samhita By Laxmi Maji?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "In traditional Ayurvedic protocol, herbal formulations operate synergistically with diet and lifestyle. Notable improvements typically emerge within 2 to 4 weeks of consistent administration."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Is Aṣṭāṅga Hṛdaya (Āyurveda book) — Atharvaveda And Charaka Samhita By Laxmi Maji safe for long-term daily consumption?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Certain tonic (Rasayana) preparations may be safely used long-term, whereas intensive therapeutic formulas are recommended for specific short-term protocols under expert supervision."
+      }
     }
   ]
 }

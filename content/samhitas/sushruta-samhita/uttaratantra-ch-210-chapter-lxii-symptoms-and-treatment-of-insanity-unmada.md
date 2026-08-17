@@ -20,17 +20,11 @@ This chapter from **Sushruta Samhita (Uttaratantra)** represents the classical s
 
 ---
 
-
 Sushruta Samhita, Volume 6: Uttara-tantra
-
-by Kaviraj Kunja Lal Bhishagratna | 1916 | 113,078 words
 
 This current book, the Uttara-tantra (english translation) is the supplementary part of the Sushrutasamhita and deals various subjects such as diseases of the eye, treatment of fever, diarrhea, diseases resulting from superhuman influences, insanity, rules of health etc.
 
 The Sushruta Samhita is the most representative work of the Hindu system of m...
-
-Go directly to: 
-Footnotes.
 
 Chapter LXII - Symptoms and Treatment of Insanity (Unmada)
 
@@ -79,10 +73,6 @@ Blood-letting from the Uras (chest), Apanga (outer corner of the eye) and Lalata
 In a case of the fifth kind (viz. Shokaja) of insanity the cause of grief should be first removed. In all forms of insanity the restoration of the serenity of mind should be first attempted. Mild and gentle forms of these remedies should be resorted to in a case of Mada (preliminary stage of insanity). Mild anti-venomous (anti-toxin) measures should be resorted to in a case (of insanity due to the effects of poison. 17–18.
 
 Thus ends the sixty-second chapter in the Uttara-Tantra of the Sushruta Samhita which deals with the (symptoms and) treatment of Insanity.
-
-Footnotes and references:
-
-[back to top]
 
 [1]:
 

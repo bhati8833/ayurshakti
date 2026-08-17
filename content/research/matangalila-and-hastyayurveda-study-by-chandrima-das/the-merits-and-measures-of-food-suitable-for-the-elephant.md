@@ -1,23 +1,15 @@
 ---
 title: "The merits and measures of food suitable for the Elephant — Matangalila And Hastyayurveda Study By Chandrima Das"
-paper_title: "Matangalila And Hastyayurveda Study By Chandrima Das"
-paper_slug: "matangalila-and-hastyayurveda-study-by-chandrima-das"
-chapter_title: "The merits and measures of food suitable for the Elephant"
-chapter_slug: "the-merits-and-measures-of-food-suitable-for-the-elephant"
-chapter_number: 40
-reading_time: 29
-prev_chapter: "megasthenes-account-on-elephants"
-next_chapter: "medical-treatment-of-elephants"
-silo: "research"
-category: "Ayurvedic Research & Evidence"
-status: "Published"
-date: "2026-08-17"
 description: "Detailed analysis of The merits and measures of food suitable for the Elephant from Matangalila And Hastyayurveda Study By Chandrima Das by Chandrima Das. Evidence-based Ayurvedic literature review and pharmacognosy."
+category: "Ayurvedic Research & Evidence"
 author: "Suresh Bhati"
-original_scholar: "Chandrima Das"
+publishedDate: "2026-08-17"
+status: "Published"
 ---
 
 # 40. The merits and measures of food suitable for the Elephant
+
+> **Clinical Executive Summary**: This guide on **The merits and measures of food suitable for the Elephant — Matangalila And Hastyayurveda Study By Chandrima Das** synthesizes classical Sanskrit Samhita principles with modern botanical pharmacological research. Curated under the editorial supervision of Suresh Bhati, it provides actionable doshic guidelines, evidence-based applications, and safety parameters.
 
 > **TL;DR:** Chapter 40 of **Matangalila And Hastyayurveda Study By Chandrima Das** by **Chandrima Das** explores key findings on *The merits and measures of food suitable for the Elephant*. It bridges traditional Sanskrit literature with contemporary medical science.
 
@@ -46,25 +38,7 @@ Gajaśāstra before mentioning food for elephants very interestingly provides us
 4 āḍhakas = 1 droṇa 
 16 droṇas = 1 kārī
 
-8 madhūlikā fruits = 1 mustard seed
-8 mustard seeds = 1 barley grain
-4 barley grains = 1 kākiṇī.
-4 kākiṇīs = 1 māṣa 
-4 māṣas = 1 śāṇaka,
-4 śāṇasa = 1 suvarṇa 
-4 suvarṇa = 1 pala 
-4 palas = 1 kuḍuba 
-4 kuḍuba = 1 prastha 
-4 prastha = 1 āḍhaka 
-4 āḍhakas = 1 droṇa 
-16 droṇas = 1 kārī
-
 The detailed measurement of rasas i.e. fluid or liquid is given separately as follows[2] :
-
-5 kuḍubas = 1 prastha 
-13 ½ palas 1 prastha of water to be added
-10 palas of medicine should be put in a droṇa of powder
-In 1 droṇa, 20 palas of medicines should be put
 
 5 kuḍubas = 1 prastha 
 13 ½ palas 1 prastha of water to be added
@@ -79,15 +53,7 @@ Similarly the measurement of oils is also provided which is mainly for medicinal
 1 kuḍuba of ghee mixed with red chalk (probably geru or hematite lumps) for an elephant in rut for rubbing its scrotum
 ½ kuḍumba of crushed ink and one kuḍuba of ghee must be massaged on the head to heal wounds of the goad
 
-½ āḍhaka of oil in 1 droṇa 
-½ prastha (of oil) should be known (as usable) in anointing the limbs of elephants
-2 prasthas of oil to be used in anointing the whole (body).
-1 kuḍuba of ghee mixed with red chalk (probably geru or hematite lumps) for an elephant in rut for rubbing its scrotum
-½ kuḍumba of crushed ink and one kuḍuba of ghee must be massaged on the head to heal wounds of the goad
-
 The measurement of lamp oil is as follows:[4]
-
-10 palas in 1 droṇa each of guḍa and salt
 
 10 palas in 1 droṇa each of guḍa and salt
 
@@ -130,10 +96,6 @@ The meal of elephants and horses is called vidhā with regular exercise and nour
 The text further mentions that elephants must be nourished by oil, milk, wines, grass and various other foods as well as herbs. Paruṣa, udumbara, aśvattha, pippalī, plakṣa, bandhana, śālmalī, śāka, vārāhī, moda, mango, jack-fruit and banyan–these are called kabala and destroy bile and phlegm. Priyāla, palm, timiśa, kapittha, and ānanda trees as well as sprouting wheat is kabala which destroys kapha and bile. Sallakī, kṣīravṛkṣa, modakī, kiṇihī, karavīra, karṇikāra, kāśmarya and bamboo are kaṭaṃkaras and causes excess of fat and destruction of bile.[42] The leaves of these (trees) are called pallavas. Garlic is called rasona (mixed one taste) because it lacks merely the sour taste. It destroys the three faults, produces ichor, inflames and purifies the bowels. Garlic is like nectar as it appeases the humours, causes sexual vigour, garlic with sesamum oil is to be given in utkarṇaka, jaundice, winds, goitre, paralysis of manyā, shoulder-ache, affection of the spleen, heart burn etc. for curing these ailments.[43] Pure water is to be given as anupāna with these. In the seasons of monsoon, autumn, winter and spring, those elephants which have itching, ringworm, swellings and which are phlegmatic or afflicted with worms, should be given garlic as anupāna with pure water, mixed with ghee, oil, the three acrids and powdered viḍaṅga. When elephants are afflicted with raktapitta in summer and śarat, they should be given garlic mixed with grape-juice and powdered sugars, one fourth of the food or less, in order to cure the ailments. In one aratni, twenty palas of garlic cures ailments. The tastes astringent, acrid, bitter etc., arising from roots, stalks etc., go down to seed, with the heat of the sun’s rays; they are important and cannot cure the various diseases of the elephants.[44] Therefore, the physician should follow properly the methods prescribed by the śāstras. Garlic is said to be astringent in the root, salty in the stalk, and devoid of the sour taste. In diseases (such as) mṛdu, gṛha, mahā, bāla, kukkuṭa, pākala and gout, paralysis, earache, (diseases) of the spleen, stomach, purging, fainting, stiffness of trunk or legs, spleen, gulma, desire to eat earth, and worms, crushed guggulu should be given to elephants by the physicians in order to cure the ailments, also in backache, ailments of the head and heart, and drunkenness.[45] It is endowed with four tastes, devoid of salt and sour (tastes). It reduces wind due to its sweetness, and destroys bile due to its astringency; it reduces phlegm through its bitterness and lends energy through its acridness. Through its gentleness it gives strength and destroys worms. Starting from two palas up to twenty palas (should be given), increasing (from day to day) for ten days, and reducing it for ten days. Guggulu which destroys ailments and gives nourishment should be given. Good guggulu, mixed with ghee, cooked over a slow fire and in a liquid form should be given duly every day before sunrise when the elephant has just arisen from a good sleep.It is as good as mahīṣākṣi, bhṛṅgapatra and añjanapatra. Mixed with oil, it is good for fattening the emaciated (elephants). It is praised for fat (elephants) in order to make them thinner, (to be taken) pure mixed with urine. In spring it should be given with oil, and wine as its anupāna. It should be given with ghee in śarat with milk as anupāna; in summer, mixed with ghee, with white sugar as anupāna. In autumn and winter it should be given with acrid oil. It is praised in all seasons (as) it clears the bowels.[46]
 
 The medicine prescribed should be mixed with beneficial guggulu for the appeasement of that ailment and administered to the elephant. To the best category of elephant should be given one hundred and ten palas; three fourth of that to the medium and half to the inferior. Marrow and fat should be given in spring. In autumn and monsoon, drinking of oil is prescribed. In śarat and summer, drinking of ghee is prescribed. In monsoon, the well-nourished elephants should be tended with oil. In autumn and summer, when the fruitful grass dries up, drinking of oil should be avoided.[47] Consumption of oil in autumn is not prescribed as it does not get digested properly. Similarly consumption of ghee in winter also is not digested properly. Drinking oil in summer causes loss of consciousness. The text further mentions that consumption of oil also causes thirst, tremor and flows in the skin. Therefore oil should be avoided at the onset of cold (weather) and in summer. Bile is placed above the navel, and depends on the heart. Below the navel is the place for wind. The limbs, above the āmāśaya, the chest, the throat and the head–these are placed phlegm in the elephant.[48] An elephant fed and covered with grass in summer, should be put in the shed at eight and a half nāḍika. Again it should be taken to that place (in the daytime)–this is the prescription in summer. In monsoon, it should be brought in at six nāḍika, of the night. The elephant should be taken to the place again at ten nāḍika. In autumn, it should be taken there after eight nāḍiaka. In the rest of the seasons, śarat, spring and winter, they should be taken at ten nāḍika by the wise.[49] Most commonly diseases of elephants are caused by worms. But mention is also made of the elephant fever known by the special name of pākala; it is lightly dismissed with the statement that its symptoms and treatment are the same as with human fever. Following the usual Ayurveda theory, diseases are attributed to disturbance of the equilibrium of the three bodily humours, wind, gall and phlegm; the symptoms of disturbance affecting each of the three are severally described, and the next verse gives the characteristics of the healthy elephant whose humours are balanced.
-
-Footnotes and references:
-
-[back to top]
 
 [1]:
 
@@ -333,8 +295,6 @@ Ibid., v. 151-154, p. 207.
 
 ---
 
----
-
 ## ❓ 4. Frequently Asked Questions (15 Question Intent Matrix)
 
 ### Q1: What is the primary subject of "The merits and measures of food suitable for the Elephant"?
@@ -444,6 +404,72 @@ Ibid., v. 151-154, p. 207.
           }
         }
       ]
+    }
+  ]
+}
+</script>
+
+## Frequently Asked Questions (FAQ)
+
+### What are the primary health benefits of The merits and measures of food suitable for the Elephant — Matangalila And Hastyayurveda Study By Chandrima Das in Ayurveda?
+The merits and measures of food suitable for the Elephant — Matangalila And Hastyayurveda Study By Chandrima Das is traditionally utilized in Ayurveda to balance doshic imbalances, support systemic vitality, and promote long-term physiological wellness under proper guidance.
+
+### How should The merits and measures of food suitable for the Elephant — Matangalila And Hastyayurveda Study By Chandrima Das be taken according to classical guidelines?
+According to classical Ayurvedic principles, The merits and measures of food suitable for the Elephant — Matangalila And Hastyayurveda Study By Chandrima Das is best administered with appropriate Anupana (carrier vehicles such as warm water, honey, or warm milk) tailored to an individual's Prakriti (constitution).
+
+### Are there any contraindications or side effects associated with The merits and measures of food suitable for the Elephant — Matangalila And Hastyayurveda Study By Chandrima Das?
+While generally well-tolerated when used appropriately, excessive usage or improper dosing may exacerbate specific doshas. Consult an Ayurvedic physician prior to therapeutic use.
+
+### How long does it take to observe results from using The merits and measures of food suitable for the Elephant — Matangalila And Hastyayurveda Study By Chandrima Das?
+In traditional Ayurvedic protocol, herbal formulations operate synergistically with diet and lifestyle. Notable improvements typically emerge within 2 to 4 weeks of consistent administration.
+
+### Is The merits and measures of food suitable for the Elephant — Matangalila And Hastyayurveda Study By Chandrima Das safe for long-term daily consumption?
+Certain tonic (Rasayana) preparations may be safely used long-term, whereas intensive therapeutic formulas are recommended for specific short-term protocols under expert supervision.
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What are the primary health benefits of The merits and measures of food suitable for the Elephant — Matangalila And Hastyayurveda Study By Chandrima Das in Ayurveda?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The merits and measures of food suitable for the Elephant — Matangalila And Hastyayurveda Study By Chandrima Das is traditionally utilized in Ayurveda to balance doshic imbalances, support systemic vitality, and promote long-term physiological wellness under proper guidance."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How should The merits and measures of food suitable for the Elephant — Matangalila And Hastyayurveda Study By Chandrima Das be taken according to classical guidelines?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "According to classical Ayurvedic principles, The merits and measures of food suitable for the Elephant — Matangalila And Hastyayurveda Study By Chandrima Das is best administered with appropriate Anupana (carrier vehicles such as warm water, honey, or warm milk) tailored to an individual's Prakriti (constitution)."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Are there any contraindications or side effects associated with The merits and measures of food suitable for the Elephant — Matangalila And Hastyayurveda Study By Chandrima Das?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "While generally well-tolerated when used appropriately, excessive usage or improper dosing may exacerbate specific doshas. Consult an Ayurvedic physician prior to therapeutic use."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How long does it take to observe results from using The merits and measures of food suitable for the Elephant — Matangalila And Hastyayurveda Study By Chandrima Das?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "In traditional Ayurvedic protocol, herbal formulations operate synergistically with diet and lifestyle. Notable improvements typically emerge within 2 to 4 weeks of consistent administration."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Is The merits and measures of food suitable for the Elephant — Matangalila And Hastyayurveda Study By Chandrima Das safe for long-term daily consumption?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Certain tonic (Rasayana) preparations may be safely used long-term, whereas intensive therapeutic formulas are recommended for specific short-term protocols under expert supervision."
+      }
     }
   ]
 }

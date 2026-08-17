@@ -9,6 +9,27 @@ const CONTENT_DIR = path.join(ROOT_DIR, 'content');
 const DRAFTS_DIR = path.join(ROOT_DIR, 'drafts');
 const REGISTRY_PATH = path.join(ROOT_DIR, 'data', 'tracking', 'article-registry.json');
 
+export function sanitizeMarkdownContent(raw: string): string {
+  if (!raw) return '';
+  let text = raw;
+  text = text.replace(/^\s*\*\*Author\s*\/\s*Source:\*\*\s*by\s*.*$/gmi, '');
+  text = text.replace(/^\s*\*\*Total\s+Chapters\/Sections:\*\*\s*\d+$/gmi, '');
+  text = text.replace(/Total\s+Chapters\/Sections:\s*\d+/gi, '');
+  text = text.replace(/^\s*by\s+[A-Za-z\s.]+\|\s*\d{4}\s*\|\s*[\d,]+\s*words\s*$/gmi, '');
+  text = text.replace(/.*?\|\s*\d{4}\s*\|\s*[\d,]+\s*words.*/gi, '');
+  text = text.replace(/^\s*This page relates [‘'"\'].*?[’'"\'] found in the study on diseases and remedies found in the Atharvaveda and Charaka-samhita\..*?taken up for study\.\s*$/gmi, '');
+  text = text.replace(/This page relates [‘'"\'].*?[’'"\'] found in the study on diseases and remedies found in the Atharvaveda and Charaka-samhita\..*?for study\./gi, '');
+  text = text.replace(/^\s*Go\s+directly\s+to:\s*\n?\s*Footnotes\.*$/gmi, '');
+  text = text.replace(/Go\s+directly\s+to:\s*.*?Footnotes\.*/gi, '');
+  text = text.replace(/^\s*Footnotes\s+and\s+references:\s*\n?\s*\[back to top\]\s*$/gmi, '');
+  text = text.replace(/^\s*\[back to top\]\s*$/gmi, '');
+  text = text.replace(/^\s*\([A-Za-z\s.]+\)\s*\n?\s*Research\s+Scholar\s*$/gmi, '');
+  text = text.replace(/^\s*Atharvaveda and Charaka Samhita\s*$/gm, '');
+  text = text.replace(/\n{3,}/g, '\n\n');
+  return text.trim();
+}
+
+
 export interface ArticleDoc {
   slug: string;
   title: string;
@@ -166,7 +187,8 @@ export function getSamhitaChapter(bookSlug: string, chapterSlug: string): Samhit
   const raw = fs.readFileSync(filePath, 'utf8');
   const { data, content } = matter(raw);
 
-  const parsedHtml = marked.parse(content) as string;
+  const cleanContent = sanitizeMarkdownContent(content);
+  const parsedHtml = marked.parse(cleanContent) as string;
   const htmlContent = applyWikipediaInterlinks(parsedHtml);
 
   return {
@@ -212,7 +234,8 @@ export function getHerbDocBySlug(slug: string): SiloDoc | null {
 
   const raw = fs.readFileSync(filePath, 'utf8');
   const { data, content } = matter(raw);
-  const parsedHtml = marked.parse(content) as string;
+  const cleanContent = sanitizeMarkdownContent(content);
+  const parsedHtml = marked.parse(cleanContent) as string;
 
   return {
     title: data.title || slug.replace(/-/g, ' ').toUpperCase(),
@@ -308,7 +331,8 @@ export function getResearchChapter(paperSlug: string, chapterSlug: string): Rese
   const raw = fs.readFileSync(filePath, 'utf8');
   const { data, content } = matter(raw);
 
-  const parsedHtml = marked.parse(content) as string;
+  const cleanContent = sanitizeMarkdownContent(content);
+  const parsedHtml = marked.parse(cleanContent) as string;
   const htmlContent = applyWikipediaInterlinks(parsedHtml);
 
   return {
@@ -369,7 +393,8 @@ export function getSiloDocBySlug(siloName: 'pet-health' | 'research', slug: stri
 
   const raw = fs.readFileSync(filePath, 'utf8');
   const { data, content } = matter(raw);
-  const parsedHtml = marked.parse(content) as string;
+  const cleanContent = sanitizeMarkdownContent(content);
+  const parsedHtml = marked.parse(cleanContent) as string;
 
   return {
     title: data.title || slug.replace(/-/g, ' ').toUpperCase(),
@@ -461,7 +486,7 @@ export function getArticleBySlug(slug: string): ArticleDoc | undefined {
             const { data, content } = matter(fileContents);
             
             let parsedHtml = '';
-            let finalContent = content;
+            let finalContent = sanitizeMarkdownContent(content);
 
             if (fileSlug.startsWith('glossary_')) {
               const letter = fileSlug.replace('glossary_', '');
@@ -469,7 +494,7 @@ export function getArticleBySlug(slug: string): ArticleDoc | undefined {
               parsedHtml = gloss.htmlContent;
               finalContent = gloss.content;
             } else {
-              parsedHtml = marked.parse(content) as string;
+              parsedHtml = marked.parse(finalContent) as string;
             }
 
             const rawTitle = data.title || entry.name.replace(/\.md$/, '').replace(/_/g, ' ');

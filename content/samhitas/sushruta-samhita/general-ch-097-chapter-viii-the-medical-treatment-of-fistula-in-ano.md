@@ -20,17 +20,11 @@ This chapter from **Sushruta Samhita (Chikitsasthana)** represents the classical
 
 ---
 
-
 Sushruta Samhita, volume 4: Cikitsasthana
-
-by Kaviraj Kunja Lal Bhishagratna | 1911 | 123,229 words
 
 This current book, the Chikitsa-sthana (english translation), deals with therapeutics, surgical emergencies, geriatrics, aphrodisiacs and various other subjects.
 
 The Sushruta Samhita is the most representative work of the Hindu system of medicine. It embraces all that can possibly appertain to the science of medicine. Susruta-samhita is recognized...
-
-Go directly to: 
-Footnotes.
 
 Chapter VIII - The medical treatment of Fistula-in-ano
 
@@ -81,10 +75,6 @@ Oil slowly cooked and prepared (in the manner aforesaid) with Citraka, Arka Triv
 The bulb-like protrusion above the hole of the instrument (speculum), mentioned in connection with the treatment of Arshas, should be removed and the instrument, now in the shape of a half-moon, should be used by an experienced surgeon in the treatment of a case of fistula-in-ano. The patient should refrain from sexual intercourse, physical exercise, riding, anger, and the use of heavy and indigestible articles of food for a full period of one year even after the healing up of the ulcer in a Bhagandara. 21—22.
 
 Thus ends the eighth Chapter of the Chikitsita Sthana of the Sushruta-Samhita which deals with the treatment of Bhagandara.
-
-Footnotes and references:
-
-[back to top]
 
 [1]:
 

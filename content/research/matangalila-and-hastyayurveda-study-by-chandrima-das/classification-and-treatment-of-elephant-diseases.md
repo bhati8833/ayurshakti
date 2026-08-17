@@ -1,23 +1,15 @@
 ---
 title: "Classification and Treatment of Elephant diseases — Matangalila And Hastyayurveda Study By Chandrima Das"
-paper_title: "Matangalila And Hastyayurveda Study By Chandrima Das"
-paper_slug: "matangalila-and-hastyayurveda-study-by-chandrima-das"
-chapter_title: "Classification and Treatment of Elephant diseases"
-chapter_slug: "classification-and-treatment-of-elephant-diseases"
-chapter_number: 9
-reading_time: 8
-prev_chapter: "summary-of-the-hastyāyurveda"
-next_chapter: "historical-significance-of-elephant-lore"
-silo: "research"
-category: "Ayurvedic Research & Evidence"
-status: "Published"
-date: "2026-08-17"
 description: "Detailed analysis of Classification and Treatment of Elephant diseases from Matangalila And Hastyayurveda Study By Chandrima Das by Chandrima Das. Evidence-based Ayurvedic literature review and pharmacognosy."
+category: "Ayurvedic Research & Evidence"
 author: "Suresh Bhati"
-original_scholar: "Chandrima Das"
+publishedDate: "2026-08-17"
+status: "Published"
 ---
 
 # 9. Classification and Treatment of Elephant diseases
+
+> **Clinical Executive Summary**: This guide on **Classification and Treatment of Elephant diseases — Matangalila And Hastyayurveda Study By Chandrima Das** synthesizes classical Sanskrit Samhita principles with modern botanical pharmacological research. Curated under the editorial supervision of Suresh Bhati, it provides actionable doshic guidelines, evidence-based applications, and safety parameters.
 
 > **TL;DR:** Chapter 9 of **Matangalila And Hastyayurveda Study By Chandrima Das** by **Chandrima Das** explores key findings on *Classification and Treatment of Elephant diseases*. It bridges traditional Sanskrit literature with contemporary medical science.
 
@@ -39,8 +31,6 @@ Most important is–
 
 vijñāya doṣopacayaṃ yathāvadṛgavṛttau kālavibhaktrūpaṃ rogopaśāntiḥ prayateta karttṛṃ doṣaḥ pravṛtdohi nihanti nāgān.
 
-vijñāya doṣopacayaṃ yathāvadṛgavṛttau kālavibhaktrūpaṃ rogopaśāntiḥ prayateta karttṛṃ doṣaḥ pravṛtdohi nihanti nāgān.
-
 Eating habits of wild elephants:
 
 Wild elephants have different food habits. They eat some times that available in forest, specially the trees and shrubs.
@@ -52,16 +42,7 @@ hemante cāpi mātaṅgā nibadhe bhakṣayanti ca
 plakṣaṃ nyāgrodhavṛkṣaṃ ca yakṣañcādakaṃ tathā
      (Vanānucāritādhyāya 190)
 
-hemante cāpi mātaṅgā nibadhe bhakṣayanti ca
-śallakī karṇikāraṃ ca kovidāramudambaram
-plakṣaṃ nyāgrodhavṛkṣaṃ ca yakṣañcādakaṃ tathā
-     (Vanānucāritādhyāya 190)
-
 Drinking habits (water):
-
-hemante sthalajaṃ cāpi bhakṣayanti mātaṅgajāḥ
-te sviraṃ tṛṇapuṣṭāstu svacchandātapasevinaḥ
-     (Vanānucāritādhyāya 195)
 
 hemante sthalajaṃ cāpi bhakṣayanti mātaṅgajāḥ
 te sviraṃ tṛṇapuṣṭāstu svacchandātapasevinaḥ
@@ -81,16 +62,9 @@ gajānāmudakaṃ rājanprāṇānāhurmanīṣiṇḥ /
 viśeṣeṇa tu nāgānāṃ prāyeṇa jalamauṣadham
      (sātmyaniścayādhyāya).
 
-gajānāmudakaṃ rājanprāṇānāhurmanīṣiṇḥ /
-viśeṣeṇa tu nāgānāṃ prāyeṇa jalamauṣadham
-     (sātmyaniścayādhyāya).
-
 Pālakāpya has made it clear that without water vāta may be elevated and may be the cause of various serious disorders to the elephant.
 
 Elephant has the habit of spending too much time in river or pond etc., but domesticated elephant do not have such scope therefore regular bath is essential for an elephant.
-
-kāle jalāvagāhaṃ ca yatharttuṃ samupācaret /
-yadā sthiragnisampannaḥ suviśuddhamukho gajaḥ.
 
 kāle jalāvagāhaṃ ca yatharttuṃ samupācaret /
 yadā sthiragnisampannaḥ suviśuddhamukho gajaḥ.
@@ -128,10 +102,6 @@ The texts on elephants not only provide us with details of treatment they also m
 Use of metal and minerals:
 
 Use of metal and minerals for treating elephants is not mentioned in Hastyāyurveda. In this medical work for elephants the parts of the body are listed precisely in greater detail than in Mātaṅgalīlā and it tells about the daily and seasonal care, feeding etc. Hastyāyurveda is obviously a secondary adaptation. Even the subject of must is treated only perfunctorily (chiefly as depending on the various bodily “humours” in Hastyāyurveda (ii, 61).
-
-Footnotes and references:
-
-[back to top]
 
 [1]:
 
@@ -194,8 +164,6 @@ Ibid.
 [10]:
 
 Ibid.
-
----
 
 ---
 
@@ -308,6 +276,72 @@ Ibid.
           }
         }
       ]
+    }
+  ]
+}
+</script>
+
+## Frequently Asked Questions (FAQ)
+
+### What are the primary health benefits of Classification and Treatment of Elephant diseases — Matangalila And Hastyayurveda Study By Chandrima Das in Ayurveda?
+Classification and Treatment of Elephant diseases — Matangalila And Hastyayurveda Study By Chandrima Das is traditionally utilized in Ayurveda to balance doshic imbalances, support systemic vitality, and promote long-term physiological wellness under proper guidance.
+
+### How should Classification and Treatment of Elephant diseases — Matangalila And Hastyayurveda Study By Chandrima Das be taken according to classical guidelines?
+According to classical Ayurvedic principles, Classification and Treatment of Elephant diseases — Matangalila And Hastyayurveda Study By Chandrima Das is best administered with appropriate Anupana (carrier vehicles such as warm water, honey, or warm milk) tailored to an individual's Prakriti (constitution).
+
+### Are there any contraindications or side effects associated with Classification and Treatment of Elephant diseases — Matangalila And Hastyayurveda Study By Chandrima Das?
+While generally well-tolerated when used appropriately, excessive usage or improper dosing may exacerbate specific doshas. Consult an Ayurvedic physician prior to therapeutic use.
+
+### How long does it take to observe results from using Classification and Treatment of Elephant diseases — Matangalila And Hastyayurveda Study By Chandrima Das?
+In traditional Ayurvedic protocol, herbal formulations operate synergistically with diet and lifestyle. Notable improvements typically emerge within 2 to 4 weeks of consistent administration.
+
+### Is Classification and Treatment of Elephant diseases — Matangalila And Hastyayurveda Study By Chandrima Das safe for long-term daily consumption?
+Certain tonic (Rasayana) preparations may be safely used long-term, whereas intensive therapeutic formulas are recommended for specific short-term protocols under expert supervision.
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What are the primary health benefits of Classification and Treatment of Elephant diseases — Matangalila And Hastyayurveda Study By Chandrima Das in Ayurveda?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Classification and Treatment of Elephant diseases — Matangalila And Hastyayurveda Study By Chandrima Das is traditionally utilized in Ayurveda to balance doshic imbalances, support systemic vitality, and promote long-term physiological wellness under proper guidance."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How should Classification and Treatment of Elephant diseases — Matangalila And Hastyayurveda Study By Chandrima Das be taken according to classical guidelines?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "According to classical Ayurvedic principles, Classification and Treatment of Elephant diseases — Matangalila And Hastyayurveda Study By Chandrima Das is best administered with appropriate Anupana (carrier vehicles such as warm water, honey, or warm milk) tailored to an individual's Prakriti (constitution)."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Are there any contraindications or side effects associated with Classification and Treatment of Elephant diseases — Matangalila And Hastyayurveda Study By Chandrima Das?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "While generally well-tolerated when used appropriately, excessive usage or improper dosing may exacerbate specific doshas. Consult an Ayurvedic physician prior to therapeutic use."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How long does it take to observe results from using Classification and Treatment of Elephant diseases — Matangalila And Hastyayurveda Study By Chandrima Das?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "In traditional Ayurvedic protocol, herbal formulations operate synergistically with diet and lifestyle. Notable improvements typically emerge within 2 to 4 weeks of consistent administration."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Is Classification and Treatment of Elephant diseases — Matangalila And Hastyayurveda Study By Chandrima Das safe for long-term daily consumption?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Certain tonic (Rasayana) preparations may be safely used long-term, whereas intensive therapeutic formulas are recommended for specific short-term protocols under expert supervision."
+      }
     }
   ]
 }

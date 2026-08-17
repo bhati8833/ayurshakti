@@ -20,10 +20,7 @@ This chapter from **Sushruta Samhita (Uttaratantra)** represents the classical s
 
 ---
 
-
 Sushruta Samhita, Volume 6: Uttara-tantra
-
-by Kaviraj Kunja Lal Bhishagratna | 1916 | 113,078 words
 
 This current book, the Uttara-tantra (english translation) is the supplementary part of the Sushrutasamhita and deals various subjects such as diseases of the eye, treatment of fever, diarrhea, diseases resulting from superhuman influences, insanity, rules of health etc.
 
@@ -42,8 +39,6 @@ Deva-daru, Vaca, Kushtha, Hingu, Giri-kadamba, Ela and Harenu should be used in 
 Putana, the presiding deity of the disease, should be worshipped in the interior of a lonely chamber with oblations and with the offerings of boiled rice prepared with the admixture of fish as well as those of Krishara, and Palala (meat or puddings of sesamum) placed in a saucer and covered with another, and the child should be bathed with the water left behind after worship. 7A.
 
 The worshipping Mantra is as follows:—
-
-“May the slovenly shag-haired goddess, Putana, who is dressed in dirty clothes, and who loves to haunt lonely dwellings, preserve the child. May the fierce-looking, frightful goddess who is as black as a dark rain-cloud, who loves to haunt lonely and dilapidated human dwellings and whose body gives off filthy odours protect the child from all evils.” 7.
 
 “May the slovenly shag-haired goddess, Putana, who is dressed in dirty clothes, and who loves to haunt lonely dwellings, preserve the child. May the fierce-looking, frightful goddess who is as black as a dark rain-cloud, who loves to haunt lonely and dilapidated human dwellings and whose body gives off filthy odours protect the child from all evils.” 7.
 

@@ -20,15 +20,9 @@ This chapter from **Sushruta Samhita (Sutrasthana)** represents the classical su
 
 ---
 
-
 Sushruta Samhita, volume 1: Sutrasthana
 
-by Kaviraj Kunja Lal Bhishagratna | 1907 | 148,756 words
-
 This current book, the Sutra-sthana (english translation), is the first part of this voluminous medical work. It contains a large summary of the knowledge envelopig the medical aspects of Ayurveda. Descriptions of diseases, various diets and drugs, the duties of a surgeon, surgical procedures, medical training; these are only some of the numerous s...
-
-Go directly to: 
-Footnotes.
 
 Chapter XIX - Care of the wounded
 
@@ -107,10 +101,6 @@ An ulcer-patient living on a diet consisting of old and boiled Shali rice, not e
 An ulcer-patient, not given to sleep in the day, and liying in a room protected from gusts of wind, and strictly following the instructions of his physician, (surgeon) is healed in the course of a very short time and will enjoy a long life through the observance of the abovesaid regimen of diet and conduct. This is the dictum of Dhanvantari.
 
 Thus ends the nineteenth Chapter of the Sutrasthana in the Sushruta Samhita which treats of the nursing or management of an ulcer-patient.
-
-Footnotes and references:
-
-[back to top]
 
 [1]:
 

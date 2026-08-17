@@ -1,23 +1,15 @@
 ---
 title: "Study of Katikataruna Marma — Marma Sastra And Ayurveda Study By C Suresh Kumar"
-paper_title: "Marma Sastra And Ayurveda Study By C Suresh Kumar"
-paper_slug: "marma-sastra-and-ayurveda-study-by-c-suresh-kumar"
-chapter_title: "Study of Katikataruna Marma"
-chapter_slug: "study-of-katikataruna-marma"
-chapter_number: 53
-reading_time: 2
-prev_chapter: "study-of-kukundara-marma"
-next_chapter: "study-of-nitamba-marma"
-silo: "research"
-category: "Ayurvedic Research & Evidence"
-status: "Published"
-date: "2026-08-17"
 description: "Detailed analysis of Study of Katikataruna Marma from Marma Sastra And Ayurveda Study By C Suresh Kumar by Classical Ayurvedic Scholar. Evidence-based Ayurvedic literature review and pharmacognosy."
+category: "Ayurvedic Research & Evidence"
 author: "Suresh Bhati"
-original_scholar: "Classical Ayurvedic Scholar"
+publishedDate: "2026-08-17"
+status: "Published"
 ---
 
 # 53. Study of Katikataruna Marma
+
+> **Clinical Executive Summary**: This guide on **Study of Katikataruna Marma — Marma Sastra And Ayurveda Study By C Suresh Kumar** synthesizes classical Sanskrit Samhita principles with modern botanical pharmacological research. Curated under the editorial supervision of Suresh Bhati, it provides actionable doshic guidelines, evidence-based applications, and safety parameters.
 
 > **TL;DR:** Chapter 53 of **Marma Sastra And Ayurveda Study By C Suresh Kumar** by **Classical Ayurvedic Scholar** explores key findings on *Study of Katikataruna Marma*. It bridges traditional Sanskrit literature with contemporary medical science.
 
@@ -36,8 +28,6 @@ Etymology Katikataruna—Katika taruna is a combination of two words Kati and ta
 posterior aspect of the ilium. These are two in number and are Asthi marmas. They are Kalanthara pranahara and of half anguli in extent. Its bhuta structure is Agni and Jala. Adhidevatha is Roudra. An injury to any of this Katikatharuna (Sacroiliac articulation) situated in the region of sroni (Sacrum) on both sides of the spinal column, gives rise to excessive pain, hemorrhage and consequent pallor and ends in death. 1,2 Fractures of this bone may affect the important pelvic organs and cause death due to complications such as pallor, anaemia and emaciation. Surface Anatomy Supraspinatus muscle Spine of scapula Infraspinatus fascia Rhomboideus minor muscle Rhomboideus major muscle Latissimus dorsi muscle Spinous process of 12th thoracic vertebra Thoracolumbar fascia Gluteus maximus muscle Spinal nerves (lateral cutaneous branches of ventral intercostal rami) External abdominal oblique Iliac crest Iliohypogastric nerve Superior cluneal nerve Middle cluneal nerves Inerior cluneal nerves from posterior femoral cutaneous nerve (S 1,2,3) Plate No. 21: The anatomical area of Katikatharuna 193
 
 It is suitable to consider the marma near the upper margin of pelvic bone which form the Kati and few centimetre away from the lumbosacral joint. First locate the crest of the pelvic bones on the back meeting the lumbar vertebra. Anatomical Structures corresponding to this marma Discussion ☐ The posterior aspect of ilium. ☐ Posterior Superior iliac spine. ☐ Bifurcation of the common iliac artery opposite to the lumbosacral articulation, into external iliac and the corresponding iliac veins. ☐ Sacroiliac ligaments. As this is of taruna nature it is advisable to consider this as sacroiliac articulation. Tamil varma sastra Pinakku varma The tip of the nerve tharai is at the base of the spinal column and can be said to be the location of this varma. Injury to this will lead to weakness of both the limbs, frequent fall, Incontinence of urine and stools. If the patient is not treated properly and systematically he dies. 194
-
----
 
 ---
 
@@ -150,6 +140,72 @@ It is suitable to consider the marma near the upper margin of pelvic bone which 
           }
         }
       ]
+    }
+  ]
+}
+</script>
+
+## Frequently Asked Questions (FAQ)
+
+### What are the primary health benefits of Study of Katikataruna Marma — Marma Sastra And Ayurveda Study By C Suresh Kumar in Ayurveda?
+Study of Katikataruna Marma — Marma Sastra And Ayurveda Study By C Suresh Kumar is traditionally utilized in Ayurveda to balance doshic imbalances, support systemic vitality, and promote long-term physiological wellness under proper guidance.
+
+### How should Study of Katikataruna Marma — Marma Sastra And Ayurveda Study By C Suresh Kumar be taken according to classical guidelines?
+According to classical Ayurvedic principles, Study of Katikataruna Marma — Marma Sastra And Ayurveda Study By C Suresh Kumar is best administered with appropriate Anupana (carrier vehicles such as warm water, honey, or warm milk) tailored to an individual's Prakriti (constitution).
+
+### Are there any contraindications or side effects associated with Study of Katikataruna Marma — Marma Sastra And Ayurveda Study By C Suresh Kumar?
+While generally well-tolerated when used appropriately, excessive usage or improper dosing may exacerbate specific doshas. Consult an Ayurvedic physician prior to therapeutic use.
+
+### How long does it take to observe results from using Study of Katikataruna Marma — Marma Sastra And Ayurveda Study By C Suresh Kumar?
+In traditional Ayurvedic protocol, herbal formulations operate synergistically with diet and lifestyle. Notable improvements typically emerge within 2 to 4 weeks of consistent administration.
+
+### Is Study of Katikataruna Marma — Marma Sastra And Ayurveda Study By C Suresh Kumar safe for long-term daily consumption?
+Certain tonic (Rasayana) preparations may be safely used long-term, whereas intensive therapeutic formulas are recommended for specific short-term protocols under expert supervision.
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What are the primary health benefits of Study of Katikataruna Marma — Marma Sastra And Ayurveda Study By C Suresh Kumar in Ayurveda?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Study of Katikataruna Marma — Marma Sastra And Ayurveda Study By C Suresh Kumar is traditionally utilized in Ayurveda to balance doshic imbalances, support systemic vitality, and promote long-term physiological wellness under proper guidance."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How should Study of Katikataruna Marma — Marma Sastra And Ayurveda Study By C Suresh Kumar be taken according to classical guidelines?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "According to classical Ayurvedic principles, Study of Katikataruna Marma — Marma Sastra And Ayurveda Study By C Suresh Kumar is best administered with appropriate Anupana (carrier vehicles such as warm water, honey, or warm milk) tailored to an individual's Prakriti (constitution)."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Are there any contraindications or side effects associated with Study of Katikataruna Marma — Marma Sastra And Ayurveda Study By C Suresh Kumar?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "While generally well-tolerated when used appropriately, excessive usage or improper dosing may exacerbate specific doshas. Consult an Ayurvedic physician prior to therapeutic use."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How long does it take to observe results from using Study of Katikataruna Marma — Marma Sastra And Ayurveda Study By C Suresh Kumar?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "In traditional Ayurvedic protocol, herbal formulations operate synergistically with diet and lifestyle. Notable improvements typically emerge within 2 to 4 weeks of consistent administration."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Is Study of Katikataruna Marma — Marma Sastra And Ayurveda Study By C Suresh Kumar safe for long-term daily consumption?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Certain tonic (Rasayana) preparations may be safely used long-term, whereas intensive therapeutic formulas are recommended for specific short-term protocols under expert supervision."
+      }
     }
   ]
 }

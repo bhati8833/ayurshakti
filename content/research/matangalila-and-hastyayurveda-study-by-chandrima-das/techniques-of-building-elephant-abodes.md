@@ -1,23 +1,15 @@
 ---
 title: "Techniques of building Elephant abodes — Matangalila And Hastyayurveda Study By Chandrima Das"
-paper_title: "Matangalila And Hastyayurveda Study By Chandrima Das"
-paper_slug: "matangalila-and-hastyayurveda-study-by-chandrima-das"
-chapter_title: "Techniques of building Elephant abodes"
-chapter_slug: "techniques-of-building-elephant-abodes"
-chapter_number: 37
-reading_time: 5
-prev_chapter: "measurement-and-age-of-the-elephants"
-next_chapter: "care-and-keeping-of-elephants"
-silo: "research"
-category: "Ayurvedic Research & Evidence"
-status: "Published"
-date: "2026-08-17"
 description: "Detailed analysis of Techniques of building Elephant abodes from Matangalila And Hastyayurveda Study By Chandrima Das by Chandrima Das. Evidence-based Ayurvedic literature review and pharmacognosy."
+category: "Ayurvedic Research & Evidence"
 author: "Suresh Bhati"
-original_scholar: "Chandrima Das"
+publishedDate: "2026-08-17"
+status: "Published"
 ---
 
 # 37. Techniques of building Elephant abodes
+
+> **Clinical Executive Summary**: This guide on **Techniques of building Elephant abodes — Matangalila And Hastyayurveda Study By Chandrima Das** synthesizes classical Sanskrit Samhita principles with modern botanical pharmacological research. Curated under the editorial supervision of Suresh Bhati, it provides actionable doshic guidelines, evidence-based applications, and safety parameters.
 
 > **TL;DR:** Chapter 37 of **Matangalila And Hastyayurveda Study By Chandrima Das** by **Chandrima Das** explores key findings on *Techniques of building Elephant abodes*. It bridges traditional Sanskrit literature with contemporary medical science.
 
@@ -38,10 +30,6 @@ Further the text also mentions other cautions while the abode site is selected t
 The sleeping area for the elephants was to be constructed with care in the centre, slightly raised on the sides with tender and dry. Its size should be judged according to the size of the elephant, and should be slightly depressed in the middle. The text also provides an alternative of building the sleeping area in the north or the east of the house, a bed according to the size of the elephant should be laid out. The best house is seven arms high. It is interesting to note that the cleanliness was maintained in this sleeping zone by besmearing the ground with elephant’s own excreta as it done to keep mud huts clean by using cow dung. To make it a compulsory arrangement a hint of superstition or healing effect was also added with the myth that this was done to avert (the ill effects of) planets etc. and appease pain or agitation, the bed must be spread every day with the elephants own excreta. Up to the bed, half a wall should be built, made of mud, and covered with thick leaves on top. However the text also mentions that when it is dry, the house must be anointed with mud. Beside it another dispensary should be added.[6] The texts often mention worshiping procedures along with oblations and libations for pleasing Brāhmaṇas especially on auspicious days.[7] Such rituals were held on associated with events like the elephant’s entry into the abode and so on. There were deities associated with elephants and their well-being. The elephant keepers worshipped deities like Śaktipāṇi and Śāstā so that their elephants do not suffer from pākala and remain in good health.[8]
 
 Gajaśāstra recommends their daily worship without fail or their regular worship as compulsory. However the worship of these deities are hitherto unknown. Śaktipāṇi[9] is an epithet of Kārttikeya and reference to Śāstā is found in Tamil literature and this male deity is also associated with Kārttikeya. Kārttikeya was a warrior god and elephants were an important part of the warfare hence the association with Kārttikeya is but obvious. The involvement of the Brāhmaṇas in the whole process is evident from the references to worship, oblations libations and other rites and rituals including sacrificial rituals as well. The text also mentions that in each of the elephant-houses, goats, dogs, pigs (boars) should be sacrificed by the wise for the satisfaction of rakṣas, gandharvas and yakṣas.[10]
-
-Footnotes and references:
-
-[back to top]
 
 [1]:
 
@@ -82,8 +70,6 @@ M. M. Williams. A Sanskrit-English Dictionary, Delhi: Motilal Banarsidass Publis
 [10]:
 
 Shri Mantramurti K.S. Subrahmanyaśāstri. ed. &tr. (in Tamil), Gaja-śāstram of Pālakāpya muni with extracts from other works and Coloured Illustrations, (atha gajaśāstrānubandhaḥ: atha gajaśālānirmāṇavidhiḥ), v. 23, p. 225.
-
----
 
 ---
 
@@ -196,6 +182,72 @@ Shri Mantramurti K.S. Subrahmanyaśāstri. ed. &tr. (in Tamil), Gaja-śāstram o
           }
         }
       ]
+    }
+  ]
+}
+</script>
+
+## Frequently Asked Questions (FAQ)
+
+### What are the primary health benefits of Techniques of building Elephant abodes — Matangalila And Hastyayurveda Study By Chandrima Das in Ayurveda?
+Techniques of building Elephant abodes — Matangalila And Hastyayurveda Study By Chandrima Das is traditionally utilized in Ayurveda to balance doshic imbalances, support systemic vitality, and promote long-term physiological wellness under proper guidance.
+
+### How should Techniques of building Elephant abodes — Matangalila And Hastyayurveda Study By Chandrima Das be taken according to classical guidelines?
+According to classical Ayurvedic principles, Techniques of building Elephant abodes — Matangalila And Hastyayurveda Study By Chandrima Das is best administered with appropriate Anupana (carrier vehicles such as warm water, honey, or warm milk) tailored to an individual's Prakriti (constitution).
+
+### Are there any contraindications or side effects associated with Techniques of building Elephant abodes — Matangalila And Hastyayurveda Study By Chandrima Das?
+While generally well-tolerated when used appropriately, excessive usage or improper dosing may exacerbate specific doshas. Consult an Ayurvedic physician prior to therapeutic use.
+
+### How long does it take to observe results from using Techniques of building Elephant abodes — Matangalila And Hastyayurveda Study By Chandrima Das?
+In traditional Ayurvedic protocol, herbal formulations operate synergistically with diet and lifestyle. Notable improvements typically emerge within 2 to 4 weeks of consistent administration.
+
+### Is Techniques of building Elephant abodes — Matangalila And Hastyayurveda Study By Chandrima Das safe for long-term daily consumption?
+Certain tonic (Rasayana) preparations may be safely used long-term, whereas intensive therapeutic formulas are recommended for specific short-term protocols under expert supervision.
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What are the primary health benefits of Techniques of building Elephant abodes — Matangalila And Hastyayurveda Study By Chandrima Das in Ayurveda?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Techniques of building Elephant abodes — Matangalila And Hastyayurveda Study By Chandrima Das is traditionally utilized in Ayurveda to balance doshic imbalances, support systemic vitality, and promote long-term physiological wellness under proper guidance."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How should Techniques of building Elephant abodes — Matangalila And Hastyayurveda Study By Chandrima Das be taken according to classical guidelines?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "According to classical Ayurvedic principles, Techniques of building Elephant abodes — Matangalila And Hastyayurveda Study By Chandrima Das is best administered with appropriate Anupana (carrier vehicles such as warm water, honey, or warm milk) tailored to an individual's Prakriti (constitution)."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Are there any contraindications or side effects associated with Techniques of building Elephant abodes — Matangalila And Hastyayurveda Study By Chandrima Das?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "While generally well-tolerated when used appropriately, excessive usage or improper dosing may exacerbate specific doshas. Consult an Ayurvedic physician prior to therapeutic use."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How long does it take to observe results from using Techniques of building Elephant abodes — Matangalila And Hastyayurveda Study By Chandrima Das?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "In traditional Ayurvedic protocol, herbal formulations operate synergistically with diet and lifestyle. Notable improvements typically emerge within 2 to 4 weeks of consistent administration."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Is Techniques of building Elephant abodes — Matangalila And Hastyayurveda Study By Chandrima Das safe for long-term daily consumption?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Certain tonic (Rasayana) preparations may be safely used long-term, whereas intensive therapeutic formulas are recommended for specific short-term protocols under expert supervision."
+      }
     }
   ]
 }

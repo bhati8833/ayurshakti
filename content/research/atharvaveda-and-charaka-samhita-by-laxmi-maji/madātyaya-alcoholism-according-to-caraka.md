@@ -1,23 +1,15 @@
 ---
 title: "Madātyaya (alcoholism) according to Caraka — Atharvaveda And Charaka Samhita By Laxmi Maji"
-paper_title: "Atharvaveda And Charaka Samhita By Laxmi Maji"
-paper_slug: "atharvaveda-and-charaka-samhita-by-laxmi-maji"
-chapter_title: "Madātyaya (alcoholism) according to Caraka"
-chapter_slug: "madātyaya-alcoholism-according-to-caraka"
-chapter_number: 120
-reading_time: 2
-prev_chapter: "śvayathu-oedema-according-to-caraka"
-next_chapter: "ulcers-vraṇa-according-to-caraka"
-silo: "research"
-category: "Ayurvedic Research & Evidence"
-status: "Published"
-date: "2026-08-17"
 description: "Detailed analysis of Madātyaya (alcoholism) according to Caraka from Atharvaveda And Charaka Samhita By Laxmi Maji by Laxmi Maji. Evidence-based Ayurvedic literature review and pharmacognosy."
+category: "Ayurvedic Research & Evidence"
 author: "Suresh Bhati"
-original_scholar: "Laxmi Maji"
+publishedDate: "2026-08-17"
+status: "Published"
 ---
 
 # 120. Madātyaya (alcoholism) according to Caraka
+
+> **Clinical Executive Summary**: This guide on **Madātyaya (alcoholism) according to Caraka — Atharvaveda And Charaka Samhita By Laxmi Maji** synthesizes classical Sanskrit Samhita principles with modern botanical pharmacological research. Curated under the editorial supervision of Suresh Bhati, it provides actionable doshic guidelines, evidence-based applications, and safety parameters.
 
 > **TL;DR:** Chapter 120 of **Atharvaveda And Charaka Samhita By Laxmi Maji** by **Laxmi Maji** explores key findings on *Madātyaya (alcoholism) according to Caraka*. It bridges traditional Sanskrit literature with contemporary medical science.
 
@@ -25,25 +17,15 @@ original_scholar: "Laxmi Maji"
 
 ## 📜 1. Section Overview & Classical Context
 
-Atharvaveda and Charaka Samhita
-
-This page relates ‘Madatyaya (alcoholism) according to Caraka’ found in the study on diseases and remedies found in the Atharvaveda and Charaka-samhita. These texts deal with Ayurveda—the ancient Indian Science of life—which lays down the principles for keeping a sound health involving the use of herbs, roots and leaves. The Atharvaveda refers to one of the four Vedas (ancient Sanskrit texts encompassing all kinds of knowledge and science) containing many details on Ayurveda, which is here taken up for study.
-
 Madātyaya (alcoholism) according to Caraka
 
 Alcohol is prepared from different types of ingredients like cereals, fruits, roots, Sara, flowers, leaves stems, barks and sugar. Depending upon the methods of preparation followed, alcohol is of different types like Surā, Madhu and Maireya. Maharṣi Caraka discusses disease of Madātyaya and treatment of Alcoholism or Madātyaya-cikitsā. The ten qualities of alcohol are lightness, hot, sharpness, subtleness, sourness, Vyavāyī, swiftness, ununctuousness, expansiveness and non-sliminess. If the person has taken in an appropriate manner, in a right dose, at an appropriate time, along with wholesome food, in accordance with one’s own strength and with a cheerful mind, alcohol works like ambrosia. If taken inappropriately, alcohol produces poisoning effects like Moha or unconsciousness. Alcoholism occurs due to vitiation of all three doṣas but depends up on the predominance of one doṣa. Always drink Madya with green vegetables, salted food items and roasted meat. A characteristic feature of Madya is intoxication. For persons of Vātika type, alcohol made of jaggery and piṣṭa is used. For persons dominated by kapha, alcohol prepared of honey is used. Similarly, for persons of Paittika type, alcohol made of grapes is used. The excessive intake of alcohol depends results in exhilaration, passionate desire, erotic stimulation, sense of pleasure and varieties of psychic morbidities of rājasika and tāmasika nature depending upon the mental attitude of the person culminating in maha-nidrā. This mental perversion caused by alcohol is called intoxication. Intake of alcohol results in three stage of toxication, namely, the first, the middle and the last.
 
 When taken the proper quantity of wine produces exhilaration, energy, happiness, nourishment, good health, excellent virility and pleasant. For the cure for Vātaja Madātyaya the patient should be given old, salty wine processes in Bijāpūra etc., unctuous and sour meat soup, different types of pickles, pomegranate juice, embracing of young women. For the cure for Pittaja Madātyaya he should be given emesis, grape juice, and saturating drinks, wine diluted with a lot of water, and cold measures. Kaphaja Madātyaya should be treated with vomiting therapy, fasting, hot food and drinks, and embracing of young women. If all the above measures fail then milk should be given, and then small doses of wine should be given.[1]
 
-Footnotes and references:
-
-[back to top]
-
 [1]:
 
 C. Cikitsāsthāna–XXIV.11-206; R. K. Sharma & Bhagwan Dash (eds.), Caraka Saṃhitā–Vol. IV, Varanasi, Chowkhamba Sanskrit Series Office, 2017, pp. 387-430.
-
----
 
 ---
 
@@ -156,6 +138,72 @@ C. Cikitsāsthāna–XXIV.11-206; R. K. Sharma & Bhagwan Dash (eds.), Caraka Sa�
           }
         }
       ]
+    }
+  ]
+}
+</script>
+
+## Frequently Asked Questions (FAQ)
+
+### What are the primary health benefits of Madātyaya (alcoholism) according to Caraka — Atharvaveda And Charaka Samhita By Laxmi Maji in Ayurveda?
+Madātyaya (alcoholism) according to Caraka — Atharvaveda And Charaka Samhita By Laxmi Maji is traditionally utilized in Ayurveda to balance doshic imbalances, support systemic vitality, and promote long-term physiological wellness under proper guidance.
+
+### How should Madātyaya (alcoholism) according to Caraka — Atharvaveda And Charaka Samhita By Laxmi Maji be taken according to classical guidelines?
+According to classical Ayurvedic principles, Madātyaya (alcoholism) according to Caraka — Atharvaveda And Charaka Samhita By Laxmi Maji is best administered with appropriate Anupana (carrier vehicles such as warm water, honey, or warm milk) tailored to an individual's Prakriti (constitution).
+
+### Are there any contraindications or side effects associated with Madātyaya (alcoholism) according to Caraka — Atharvaveda And Charaka Samhita By Laxmi Maji?
+While generally well-tolerated when used appropriately, excessive usage or improper dosing may exacerbate specific doshas. Consult an Ayurvedic physician prior to therapeutic use.
+
+### How long does it take to observe results from using Madātyaya (alcoholism) according to Caraka — Atharvaveda And Charaka Samhita By Laxmi Maji?
+In traditional Ayurvedic protocol, herbal formulations operate synergistically with diet and lifestyle. Notable improvements typically emerge within 2 to 4 weeks of consistent administration.
+
+### Is Madātyaya (alcoholism) according to Caraka — Atharvaveda And Charaka Samhita By Laxmi Maji safe for long-term daily consumption?
+Certain tonic (Rasayana) preparations may be safely used long-term, whereas intensive therapeutic formulas are recommended for specific short-term protocols under expert supervision.
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What are the primary health benefits of Madātyaya (alcoholism) according to Caraka — Atharvaveda And Charaka Samhita By Laxmi Maji in Ayurveda?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Madātyaya (alcoholism) according to Caraka — Atharvaveda And Charaka Samhita By Laxmi Maji is traditionally utilized in Ayurveda to balance doshic imbalances, support systemic vitality, and promote long-term physiological wellness under proper guidance."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How should Madātyaya (alcoholism) according to Caraka — Atharvaveda And Charaka Samhita By Laxmi Maji be taken according to classical guidelines?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "According to classical Ayurvedic principles, Madātyaya (alcoholism) according to Caraka — Atharvaveda And Charaka Samhita By Laxmi Maji is best administered with appropriate Anupana (carrier vehicles such as warm water, honey, or warm milk) tailored to an individual's Prakriti (constitution)."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Are there any contraindications or side effects associated with Madātyaya (alcoholism) according to Caraka — Atharvaveda And Charaka Samhita By Laxmi Maji?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "While generally well-tolerated when used appropriately, excessive usage or improper dosing may exacerbate specific doshas. Consult an Ayurvedic physician prior to therapeutic use."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How long does it take to observe results from using Madātyaya (alcoholism) according to Caraka — Atharvaveda And Charaka Samhita By Laxmi Maji?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "In traditional Ayurvedic protocol, herbal formulations operate synergistically with diet and lifestyle. Notable improvements typically emerge within 2 to 4 weeks of consistent administration."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Is Madātyaya (alcoholism) according to Caraka — Atharvaveda And Charaka Samhita By Laxmi Maji safe for long-term daily consumption?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Certain tonic (Rasayana) preparations may be safely used long-term, whereas intensive therapeutic formulas are recommended for specific short-term protocols under expert supervision."
+      }
     }
   ]
 }

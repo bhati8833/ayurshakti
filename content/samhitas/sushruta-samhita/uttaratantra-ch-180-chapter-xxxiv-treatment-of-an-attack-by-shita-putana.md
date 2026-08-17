@@ -20,10 +20,7 @@ This chapter from **Sushruta Samhita (Uttaratantra)** represents the classical s
 
 ---
 
-
 Sushruta Samhita, Volume 6: Uttara-tantra
-
-by Kaviraj Kunja Lal Bhishagratna | 1916 | 113,078 words
 
 This current book, the Uttara-tantra (english translation) is the supplementary part of the Sushrutasamhita and deals various subjects such as diseases of the eye, treatment of fever, diarrhea, diseases resulting from superhuman influences, insanity, rules of health etc.
 
@@ -40,8 +37,6 @@ Dungs of an owl and a vulture, the cast-off skin of a snake as well as Ajagandha
 The goddess Shitaputana should be worshipped with the offerings of the preparation of rice and Mudga pulse (cooked together) as well as with Varuni wine and blood, and the child should be bathed near a river or a tank.
 
 The Mantra is as follows:—
-
-“May the goddess Sita-putana, who is fond of the preparation of rice and Mudga pulse, who delights in drinking wine and blood and who resides by the side of a river or a tank, preserve thee.” 2.
 
 “May the goddess Sita-putana, who is fond of the preparation of rice and Mudga pulse, who delights in drinking wine and blood and who resides by the side of a river or a tank, preserve thee.” 2.
 

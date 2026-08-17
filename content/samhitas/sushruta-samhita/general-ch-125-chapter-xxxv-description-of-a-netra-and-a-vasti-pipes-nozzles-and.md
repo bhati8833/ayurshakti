@@ -20,17 +20,11 @@ This chapter from **Sushruta Samhita (Chikitsasthana)** represents the classical
 
 ---
 
-
 Sushruta Samhita, volume 4: Cikitsasthana
-
-by Kaviraj Kunja Lal Bhishagratna | 1911 | 123,229 words
 
 This current book, the Chikitsa-sthana (english translation), deals with therapeutics, surgical emergencies, geriatrics, aphrodisiacs and various other subjects.
 
 The Sushruta Samhita is the most representative work of the Hindu system of medicine. It embraces all that can possibly appertain to the science of medicine. Susruta-samhita is recognized...
-
-Go directly to: 
-Footnotes.
 
 Chapter XXXV - Description of a Netra and a Vasti (pipes, nozzles and apparatus)
 
@@ -93,10 +87,6 @@ Memorable Verse:—
 The seventy-six kinds of the distressing symptoms (Vyapad) have been briefly described above. Their symptoms and treatment would be described in the following chapter. 18.
 
 Thus ends the Thirty-fifth Chapter in the Chikitsita Sthana in the Sushruta Samhita which deals with the dimensions, classifications and therapeutical applications of a Netra and a Vasti.
-
-Footnotes and references:
-
-[back to top]
 
 [1]:
 
