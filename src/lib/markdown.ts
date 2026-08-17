@@ -69,57 +69,56 @@ export interface SiloDoc {
 
 let cachedArticles: ArticleDoc[] | null = null;
 
-function generateGlossaryHtml(letter: string): { content: string; htmlContent: string; count: number } {
+function generateGlossaryHtml(letter: string, mdContent?: string): { content: string; htmlContent: string; count: number } {
   const upperLetter = letter.toUpperCase();
   const jsonPath = path.join(CONTENT_DIR, 'glossary', `glossary_${upperLetter}.json`);
   
-  if (!fs.existsSync(jsonPath)) {
-    return {
-      content: `# Sanskrit Glossary — Letter ${upperLetter}\n\nNo terms found for this index.`,
-      htmlContent: `<p>No terms found for letter ${upperLetter}.</p>`,
-      count: 0,
-    };
-  }
+  let terms: any[] = [];
+  let count = 0;
 
-  try {
-    const raw = fs.readFileSync(jsonPath, 'utf8');
-    const data = JSON.parse(raw);
-    const terms = data.terms || [];
-    const count = data.total_terms || terms.length;
-
-    let html = `<div class="space-y-8">
-      <div class="glass-panel p-6 sm:p-8 rounded-3xl border border-ayur-gold/30 bg-gradient-to-br from-white to-ayur-bg">
-        <span class="px-3.5 py-1 rounded-full bg-ayur-forest/10 text-ayur-forest font-semibold text-xs uppercase tracking-wider">A-Z Index Letter ${upperLetter}</span>
-        <h1 class="font-serif text-3xl sm:text-5xl font-bold text-ayur-forest mt-3 mb-2">Sanskrit Medical Terms (${count.toLocaleString()})</h1>
-        <p class="text-ayur-sage text-sm sm:text-base">Authenticated Sanskrit botanical names, dosha disorders, and medical terms starting with letter '${upperLetter}'.</p>
-      </div>
-
-      <div class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-4">`;
-
-    for (const t of terms) {
-      const termName = typeof t === 'string' ? t : (t.term || t.name);
-      const meaning = (typeof t === 'object' && (t.definition || t.meaning))
-        ? (t.definition || t.meaning)
-        : `Authenticated Sanskrit Ayurvedic term.`;
-
-      html += `<div class="p-4 rounded-2xl border border-ayur-gold/20 bg-white hover:border-ayur-emerald transition-all shadow-xs group">
-        <h3 class="font-serif font-bold text-base text-ayur-forest group-hover:text-ayur-emerald transition-colors">${termName}</h3>
-        <p class="text-xs text-ayur-sage mt-1">${meaning}</p>
-      </div>`;
+  if (fs.existsSync(jsonPath)) {
+    try {
+      const raw = fs.readFileSync(jsonPath, 'utf8');
+      const data = JSON.parse(raw);
+      terms = data.terms || [];
+      count = data.total_terms || terms.length;
+    } catch (e) {
+      console.error(`Error reading ${jsonPath}:`, e);
     }
-
-    html += `</div></div>`;
-
-    const content = `# Classical Sanskrit Terms — Letter ${upperLetter}\nTotal terms: ${count}`;
-
-    return { content, htmlContent: html, count };
-  } catch (e) {
-    return {
-      content: `# Ayurveda Glossary — Letter ${upperLetter}`,
-      htmlContent: `<p>Error loading terms.</p>`,
-      count: 0,
-    };
   }
+
+  let overviewHtml = '';
+  if (mdContent) {
+    overviewHtml = marked.parse(mdContent) as string;
+  }
+
+  let termsHtml = `<div class="mt-8 space-y-6">
+    <div class="glass-panel p-6 sm:p-8 rounded-3xl border border-ayur-gold/30 bg-gradient-to-br from-white to-ayur-bg">
+      <span class="px-3.5 py-1 rounded-full bg-ayur-forest/10 text-ayur-forest font-semibold text-xs uppercase tracking-wider">A-Z Index Letter ${upperLetter}</span>
+      <h2 class="font-serif text-2xl sm:text-4xl font-bold text-ayur-forest mt-3 mb-2">Authenticated Sanskrit Terms (${count.toLocaleString()})</h2>
+      <p class="text-ayur-sage text-sm sm:text-base">Authenticated Sanskrit botanical names, dosha disorders, and medical terms starting with letter '${upperLetter}'.</p>
+    </div>
+
+    <div class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-4">`;
+
+  for (const t of terms) {
+    const termName = typeof t === 'string' ? t : (t.term || t.name);
+    const meaning = (typeof t === 'object' && (t.definition || t.meaning))
+      ? (t.definition || t.meaning)
+      : `Authenticated Sanskrit Ayurvedic term.`;
+
+    termsHtml += `<div class="p-4 rounded-2xl border border-ayur-gold/20 bg-white hover:border-ayur-emerald transition-all shadow-xs group">
+      <h3 class="font-serif font-bold text-base text-ayur-forest group-hover:text-ayur-emerald transition-colors">${termName}</h3>
+      <p class="text-xs text-ayur-sage mt-1">${meaning}</p>
+    </div>`;
+  }
+
+  termsHtml += `</div></div>`;
+
+  const finalHtml = overviewHtml ? `${overviewHtml}\n${termsHtml}` : termsHtml;
+  const content = mdContent || `# Classical Sanskrit Terms — Letter ${upperLetter}\nTotal terms: ${count}`;
+
+  return { content, htmlContent: finalHtml, count };
 }
 
 // ----------------------------------------------------
@@ -199,27 +198,15 @@ export function getHerbDocs(): SiloDoc[] {
   const files = fs.readdirSync(dir).filter(f => f.endsWith('.md'));
 
   for (const f of files) {
-    const raw = fs.readFileSync(path.join(dir, f), 'utf8');
-    const { data, content } = matter(raw);
     const slug = f.replace(/\.md$/, '');
-    const parsedHtml = marked.parse(content) as string;
-
-    docs.push({
-      title: data.title || slug.replace(/-/g, ' ').toUpperCase(),
-      slug,
-      silo: 'herbs',
-      category: data.category || 'Ayurvedic Dravyaguna',
-      content,
-      htmlContent: applyWikipediaInterlinks(parsedHtml),
-      description: data.description || content.slice(0, 160).replace(/[#*`]/g, '') + '...',
-      readingTime: `${Math.max(1, Math.ceil(content.split(/\s+/).length / 200))} min read`,
-    });
+    const doc = getHerbDocBySlug(slug);
+    if (doc) docs.push(doc);
   }
 
   return docs;
 }
 
-export function getHerbBySlug(slug: string): SiloDoc | null {
+export function getHerbDocBySlug(slug: string): SiloDoc | null {
   const filePath = path.join(CONTENT_DIR, 'herbs', `${slug}.md`);
   if (!fs.existsSync(filePath)) return null;
 
@@ -231,7 +218,7 @@ export function getHerbBySlug(slug: string): SiloDoc | null {
     title: data.title || slug.replace(/-/g, ' ').toUpperCase(),
     slug,
     silo: 'herbs',
-    category: data.category || 'Ayurvedic Dravyaguna',
+    category: data.category || 'Herb Profile',
     content,
     htmlContent: applyWikipediaInterlinks(parsedHtml),
     description: data.description || content.slice(0, 160).replace(/[#*`]/g, '') + '...',
@@ -239,8 +226,10 @@ export function getHerbBySlug(slug: string): SiloDoc | null {
   };
 }
 
+export const getHerbBySlug = getHerbDocBySlug;
+
 // ----------------------------------------------------
-// Pet Health & Research Silo Functions
+// Generic Silo Reader (pet-health, research)
 // ----------------------------------------------------
 
 export function getSiloDocs(siloName: 'pet-health' | 'research'): SiloDoc[] {
@@ -251,21 +240,9 @@ export function getSiloDocs(siloName: 'pet-health' | 'research'): SiloDoc[] {
   const files = fs.readdirSync(dir).filter(f => f.endsWith('.md'));
 
   for (const f of files) {
-    const raw = fs.readFileSync(path.join(dir, f), 'utf8');
-    const { data, content } = matter(raw);
     const slug = f.replace(/\.md$/, '');
-    const parsedHtml = marked.parse(content) as string;
-
-    docs.push({
-      title: data.title || slug.replace(/-/g, ' ').toUpperCase(),
-      slug,
-      silo: siloName,
-      category: data.category || 'Ayurvedic Studies',
-      content,
-      htmlContent: applyWikipediaInterlinks(parsedHtml),
-      description: data.description || content.slice(0, 160).replace(/[#*`]/g, '') + '...',
-      readingTime: `${Math.max(1, Math.ceil(content.split(/\s+/).length / 200))} min read`,
-    });
+    const doc = getSiloDocBySlug(siloName, slug);
+    if (doc) docs.push(doc);
   }
 
   return docs;
@@ -291,13 +268,13 @@ export function getSiloDocBySlug(siloName: 'pet-health' | 'research', slug: stri
   };
 }
 
-// Legacy Article loader fallback
+// Article loader fallback
 export function getAllArticles(): ArticleDoc[] {
   if (cachedArticles) return cachedArticles;
   const articlesMap = new Map<string, ArticleDoc>();
 
   if (fs.existsSync(CONTENT_DIR)) {
-    const EXCLUDED_SILOS = new Set(['samhitas', 'glossary', 'herbs', 'herbs_draft', 'pet-health', 'research']);
+    const EXCLUDED_SILOS = new Set(['samhitas', 'herbs', 'herbs_draft', 'pet-health', 'research']);
     function scanDir(dir: string, categoryName: string) {
       const entries = fs.readdirSync(dir, { withFileTypes: true });
       for (const entry of entries) {
@@ -316,7 +293,7 @@ export function getAllArticles(): ArticleDoc[] {
 
           if (slug.startsWith('glossary_')) {
             const letter = slug.replace('glossary_', '');
-            const gloss = generateGlossaryHtml(letter);
+            const gloss = generateGlossaryHtml(letter, content);
             parsedHtml = gloss.htmlContent;
             finalContent = gloss.content;
           } else {
@@ -355,5 +332,6 @@ export function getAllArticles(): ArticleDoc[] {
 
 export function getArticleBySlug(slug: string): ArticleDoc | undefined {
   const articles = getAllArticles();
-  return articles.find((a) => a.slug === slug || a.slug === slug.toLowerCase());
+  const lowerSlug = slug.toLowerCase();
+  return articles.find((a) => a.slug === lowerSlug || a.slug === slug);
 }
