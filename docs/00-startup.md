@@ -34,19 +34,19 @@ Present a streamlined **Dynamic Action Menu** based on the status gathered:
 > - ⚙️ Pending AI Backlog Tasks: [Count]
 > 
 > **What should we execute today? (Choose a number)**
-> 1. **New Topic Research** (Doc 08)
-> 2. **Complete Pending Articles** (Write Next.js Markdown articles — Doc 09)
-> 3. **Check Manual Image Requests** (GitHub image hosting workflow — Doc 34)
-> 4. **Build & Deploy to Firebase Hosting** (`npm run build` && `firebase deploy --only hosting` — Doc 35)
+> 1. **New Topic Research** (Doc 12)
+> 2. **Complete Pending Articles** (Write Next.js Markdown articles — Doc 13)
+> 3. **Check Manual Image Requests** (GitHub image hosting workflow — Doc 07)
+> 4. **Build & Deploy to Firebase Hosting** (`npm run build` && `git push origin master` — Doc 05)
 > 5. **Generate / Publish Social Media Posts** (Bluesky, Pinterest, X)
-> 6. **Email Marketing Tasks** (Doc 15)
-> 7. **Execute Backlink Outreach Strategy** (Doc 12)
+> 6. **Email Marketing Tasks** (Doc 18)
+> 7. **Execute Backlink Outreach Strategy** (Doc 16)
 > 8. **Execute Pending Backlog Task** (Check `project-tasks.json`)
-> 9. **Cloudflare Security & Traffic Report** (Check Cloudflare edge metrics & security logs)
-> 10. **Full SEO & Analytics Audit** (Review GSC, Bing Webmaster, GA4)
+> 9. **Cloudflare Security & Traffic Report** (Doc 06)
+> 10. **Full SEO & Analytics Audit** (Doc 09)
 > 11. **Custom Request**
 
 ---
 
 **CRITICAL TOKEN SAVING INSTRUCTION:** 
-Do NOT pre-fetch or read any referenced rule documents (Doc 08, Doc 09, Doc 34, Doc 35) during startup. ONLY read a specific document WHEN the user explicitly selects that action.
+Do NOT pre-fetch or read any referenced rule documents during startup. ONLY read a specific document WHEN the user explicitly selects that action.

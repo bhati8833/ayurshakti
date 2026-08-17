@@ -16,23 +16,18 @@ Author is **Suresh Bhati** (from `config/profile.json`). Do NOT assume "shiva" f
 - **Image Hosting**: GitHub repository & Cloudflare resource proxy (`resources.ayurshakti.shop`)
 - **Python**: ≥ 3.12 (required for automation scripts)
 - **Node.js**: ≥ 18 (required for Next.js build & Firebase tools)
-- **Secrets**: All credentials in `secrets/` (gitignored). See `docs/06-credentials.md`.
+- **Secrets**: All credentials in `secrets/` (gitignored). See `docs/04-credentials.md`.
 
 ## Key Commands
 
 ```bash
-# Build Next.js static output for Firebase Hosting
+# Build Next.js static output locally
 npm run build
 
-# Deploy to Firebase Hosting
-firebase deploy --only hosting
-
-# Forced deployment (if deployment lock or stream error occurs)
-firebase deploy --only hosting --force
-
-# Assign category labels to all posts
-python3 assign_categories.py            # fix all
-python3 assign_categories.py --dry-run  # preview
+# Push changes to GitHub to trigger automated CI/CD deployment
+git add .
+git commit -m "Deployment update"
+git push origin master
 
 # Submit sitemap/URL to Bing IndexNow
 python3 scripts/bing-sitemap-submit.py
